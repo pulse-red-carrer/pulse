@@ -1,0 +1,39 @@
+name: Pulse - Auto Update News
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # Every hour automatically
+  workflow_dispatch:        # Manual trigger from GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch & simplify news
+        env:
+          GROK_API_KEY:      ${{ secrets.GROK_API_KEY }}
+          TELEGRAM_TOKEN:    ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID:  ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python fetch_news.py
+
+      - name: Commit & push news
+        run: |
+          git config user.name  "Pulse Bot"
+          git config user.email "pulse-bot@users.noreply.github.com"
+          git add news_data.json
+          git diff --staged --quiet || git commit -m "📊 Pulse update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
