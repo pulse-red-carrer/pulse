@@ -1,0 +1,984 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pulse by Red Career — Finance Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Sora:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --red:       #e8142a;
+      --red-dark:  #a50e1e;
+      --red-glow:  rgba(232,20,42,0.18);
+      --bg:        #0c0c0e;
+      --bg2:       #141417;
+      --bg3:       #1c1c21;
+      --border:    rgba(255,255,255,0.07);
+      --text:      #f0f0f0;
+      --muted:     #888;
+      --gold:      #f0b429;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Sora', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── BREAKING TICKER ── */
+    .breaking-bar {
+      background: var(--red);
+      padding: 7px 0;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+    }
+    .breaking-label {
+      background: #fff;
+      color: var(--red);
+      font-weight: 700;
+      font-size: 11px;
+      letter-spacing: 2px;
+      padding: 4px 14px;
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-left: 16px;
+      border-radius: 2px;
+    }
+    .ticker-wrap { overflow: hidden; flex: 1; margin-left: 20px; }
+    .ticker-content {
+      display: inline-flex;
+      gap: 50px;
+      white-space: nowrap;
+      animation: ticker 40s linear infinite;
+      font-size: 12px;
+      font-weight: 500;
+      letter-spacing: 0.3px;
+    }
+    @keyframes ticker { from { transform: translateX(100vw); } to { transform: translateX(-100%); } }
+
+    /* ── HEADER ── */
+    header {
+      background: var(--bg2);
+      border-bottom: 1px solid var(--border);
+      padding: 0 5%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 70px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      backdrop-filter: blur(10px);
+    }
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+    }
+    .logo-icon {
+      width: 38px;
+      height: 38px;
+      background: var(--red);
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      font-weight: 900;
+      color: #fff;
+      font-family: 'Playfair Display', serif;
+      box-shadow: 0 0 18px var(--red-glow);
+    }
+    .logo-text {
+      display: flex;
+      flex-direction: column;
+      line-height: 1;
+    }
+    .logo-text .logo-main {
+      font-family: 'Playfair Display', serif;
+      font-size: 22px;
+      font-weight: 900;
+      color: #fff;
+      letter-spacing: -0.5px;
+    }
+    .logo-text .logo-main span { color: var(--red); }
+    .logo-text .logo-by {
+      font-size: 10px;
+      font-weight: 500;
+      color: var(--muted);
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      margin-top: 2px;
+    }
+
+    nav { display: flex; gap: 28px; }
+    nav a {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 500;
+      letter-spacing: 0.5px;
+      transition: color 0.2s;
+      text-transform: uppercase;
+    }
+    nav a:hover, nav a.active { color: var(--red); }
+
+    .header-right { display: flex; align-items: center; gap: 14px; }
+    .live-dot {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 11px;
+      color: #4ade80;
+      font-weight: 600;
+      letter-spacing: 1px;
+    }
+    .live-dot::before {
+      content: '';
+      width: 7px; height: 7px;
+      background: #4ade80;
+      border-radius: 50%;
+      animation: pulse 1.5s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%,100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(1.4); }
+    }
+
+    /* ── TRADINGVIEW TICKER ── */
+    .tv-ticker-wrap {
+      background: var(--bg3);
+      border-bottom: 1px solid var(--border);
+    }
+
+    /* ── MARKETS SECTION ── */
+    .markets-section {
+      padding: 28px 5%;
+      background: var(--bg2);
+      border-bottom: 1px solid var(--border);
+    }
+    .section-label {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--red);
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .section-label::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    .markets-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+      gap: 12px;
+    }
+    .market-card {
+      background: var(--bg3);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px 16px;
+      transition: border-color 0.2s, transform 0.2s;
+      cursor: default;
+    }
+    .market-card:hover {
+      border-color: var(--red);
+      transform: translateY(-2px);
+    }
+    .market-card .name {
+      font-size: 11px;
+      color: var(--muted);
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+    .market-card .price {
+      font-size: 18px;
+      font-weight: 700;
+      font-family: 'Playfair Display', serif;
+      color: #fff;
+      margin-bottom: 4px;
+    }
+    .market-card .change {
+      font-size: 12px;
+      font-weight: 600;
+    }
+    .market-card .change.up { color: #4ade80; }
+    .market-card .change.down { color: var(--red); }
+    .market-card .flag { font-size: 14px; margin-right: 4px; }
+
+    /* ── COMMODITIES ROW ── */
+    .commodities-row {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 14px;
+    }
+    .commodity-pill {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 50px;
+      padding: 8px 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 13px;
+      transition: border-color 0.2s;
+    }
+    .commodity-pill:hover { border-color: var(--gold); }
+    .commodity-pill .c-name { color: var(--muted); font-size: 11px; font-weight: 600; text-transform: uppercase; }
+    .commodity-pill .c-price { font-weight: 700; color: #fff; }
+    .commodity-pill .c-change { font-size: 11px; font-weight: 600; }
+    .commodity-pill .c-change.up { color: #4ade80; }
+    .commodity-pill .c-change.down { color: var(--red); }
+
+    /* ── MAIN LAYOUT ── */
+    main {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 40px 5%;
+    }
+
+    /* ── NEWS GRID ── */
+    .news-grid {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 24px;
+      margin-bottom: 40px;
+    }
+
+    /* Featured news */
+    .featured-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+      transition: border-color 0.2s, transform 0.25s;
+      cursor: pointer;
+    }
+    .featured-card:hover {
+      border-color: var(--red);
+      transform: translateY(-3px);
+    }
+    .featured-img {
+      width: 100%;
+      height: 280px;
+      object-fit: cover;
+      display: block;
+      background: var(--bg3);
+    }
+    .featured-body { padding: 24px; }
+    .cat-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: var(--red-glow);
+      color: var(--red);
+      border: 1px solid rgba(232,20,42,0.3);
+      border-radius: 4px;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      padding: 3px 9px;
+      margin-bottom: 12px;
+    }
+    .featured-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 22px;
+      font-weight: 700;
+      line-height: 1.35;
+      color: #fff;
+      margin-bottom: 12px;
+    }
+    .featured-desc {
+      font-size: 14px;
+      color: #aaa;
+      line-height: 1.7;
+      margin-bottom: 16px;
+    }
+    .card-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 11px;
+      color: var(--muted);
+    }
+    .card-meta a {
+      color: var(--red);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 12px;
+    }
+    .card-meta a:hover { text-decoration: underline; }
+
+    /* Sidebar stack */
+    .news-sidebar { display: flex; flex-direction: column; gap: 14px; }
+    .side-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+      display: flex;
+      transition: border-color 0.2s, transform 0.2s;
+      cursor: pointer;
+      min-height: 110px;
+    }
+    .side-card:hover {
+      border-color: var(--red);
+      transform: translateX(3px);
+    }
+    .side-img {
+      width: 110px;
+      min-width: 110px;
+      object-fit: cover;
+      background: var(--bg3);
+    }
+    .side-body { padding: 14px; display: flex; flex-direction: column; justify-content: space-between; }
+    .side-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 14px;
+      font-weight: 700;
+      line-height: 1.4;
+      color: #fff;
+      margin-bottom: 6px;
+    }
+    .side-desc { font-size: 11px; color: #888; line-height: 1.5; }
+
+    /* All news grid */
+    .all-news-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+      margin-bottom: 40px;
+    }
+    .news-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+      transition: border-color 0.2s, transform 0.25s;
+      cursor: pointer;
+    }
+    .news-card:hover {
+      border-color: var(--red);
+      transform: translateY(-4px);
+      box-shadow: 0 12px 40px rgba(0,0,0,0.4);
+    }
+    .card-img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      display: block;
+      background: var(--bg3);
+    }
+    .card-img-placeholder {
+      width: 100%;
+      height: 180px;
+      background: linear-gradient(135deg, var(--bg3) 0%, #1a1a2e 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 40px;
+    }
+    .card-body { padding: 18px; }
+    .card-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 1.4;
+      color: #fff;
+      margin: 8px 0 10px;
+    }
+    .card-desc {
+      font-size: 13px;
+      color: #999;
+      line-height: 1.65;
+      margin-bottom: 14px;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* ── CATEGORY TABS ── */
+    .category-tabs {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 28px;
+      flex-wrap: wrap;
+    }
+    .tab-btn {
+      padding: 8px 20px;
+      border-radius: 50px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      cursor: pointer;
+      font-family: 'Sora', sans-serif;
+      transition: all 0.2s;
+    }
+    .tab-btn:hover { border-color: var(--red); color: var(--red); }
+    .tab-btn.active { background: var(--red); border-color: var(--red); color: #fff; }
+
+    /* ── TRADINGVIEW WIDGETS SECTION ── */
+    .tv-section {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+      margin-bottom: 40px;
+    }
+    .tv-section-header {
+      padding: 18px 24px;
+      border-bottom: 1px solid var(--border);
+      font-size: 14px;
+      font-weight: 700;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    /* ── LOADING STATES ── */
+    .skeleton {
+      background: linear-gradient(90deg, var(--bg3) 25%, #232328 50%, var(--bg3) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s infinite;
+      border-radius: 6px;
+    }
+    @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+    .skeleton-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+      height: 320px;
+    }
+    .skeleton-img { height: 180px; }
+    .skeleton-line { height: 12px; margin: 12px 18px; }
+    .skeleton-line.short { width: 60%; }
+    .skeleton-line.medium { width: 80%; }
+
+    /* ── FOOTER ── */
+    footer {
+      background: var(--bg2);
+      border-top: 1px solid var(--border);
+      padding: 40px 5%;
+      margin-top: 60px;
+    }
+    .footer-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 30px;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .footer-brand p {
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.7;
+      max-width: 320px;
+      margin-top: 10px;
+    }
+    .footer-links { display: flex; gap: 40px; }
+    .footer-col h4 {
+      font-size: 11px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--red);
+      margin-bottom: 14px;
+    }
+    .footer-col a {
+      display: block;
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 13px;
+      margin-bottom: 8px;
+      transition: color 0.2s;
+    }
+    .footer-col a:hover { color: #fff; }
+    .footer-bottom {
+      border-top: 1px solid var(--border);
+      padding-top: 20px;
+      font-size: 12px;
+      color: var(--muted);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .footer-bottom span { color: var(--red); }
+
+    /* ── LAST UPDATED ── */
+    .last-updated {
+      background: var(--bg3);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 18px;
+      font-size: 12px;
+      color: var(--muted);
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .last-updated b { color: #fff; }
+
+    /* ── EMPTY STATE ── */
+    .empty-state {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--muted);
+    }
+    .empty-state .icon { font-size: 48px; margin-bottom: 16px; }
+    .empty-state h3 { font-size: 20px; color: #fff; margin-bottom: 8px; }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 900px) {
+      .news-grid { grid-template-columns: 1fr; }
+      nav { display: none; }
+      .footer-links { display: none; }
+    }
+    @media (max-width: 600px) {
+      .markets-grid { grid-template-columns: repeat(2, 1fr); }
+      .all-news-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ── BREAKING NEWS TICKER ── -->
+  <div class="breaking-bar">
+    <div class="breaking-label">LIVE</div>
+    <div class="ticker-wrap">
+      <div class="ticker-content" id="breakingTicker">
+        Loading latest headlines...
+      </div>
+    </div>
+  </div>
+
+  <!-- ── HEADER ── -->
+  <header>
+    <a class="logo" href="#">
+      <div class="logo-icon">P</div>
+      <div class="logo-text">
+        <div class="logo-main"><span>Pulse</span></div>
+        <div class="logo-by">by Red Career</div>
+      </div>
+    </a>
+    <nav>
+      <a href="#" class="active" onclick="filterNews('all')">All</a>
+      <a href="#" onclick="filterNews('India')">🇮🇳 India</a>
+      <a href="#" onclick="filterNews('USA')">🇺🇸 USA</a>
+      <a href="#" onclick="filterNews('Global')">🌍 Global</a>
+      <a href="#" onclick="filterNews('Commodities')">🏅 Commodities</a>
+    </nav>
+    <div class="header-right">
+      <div class="live-dot">LIVE</div>
+    </div>
+  </header>
+
+  <!-- ── TRADINGVIEW LIVE TICKER TAPE ── -->
+  <div class="tv-ticker-wrap">
+    <div class="tradingview-widget-container">
+      <div class="tradingview-widget-container__widget"></div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+      {
+        "symbols": [
+          {"proName": "BSE:SENSEX", "title": "Sensex"},
+          {"proName": "NSE:NIFTY50", "title": "Nifty 50"},
+          {"proName": "NASDAQ:IXIC", "title": "Nasdaq"},
+          {"proName": "SP:SPX", "title": "S&P 500"},
+          {"proName": "FOREXCOM:DJI", "title": "Dow Jones"},
+          {"proName": "LSE:UKX", "title": "FTSE 100"},
+          {"proName": "XETR:DAX", "title": "DAX"},
+          {"proName": "TVC:GOLD", "title": "Gold"},
+          {"proName": "TVC:SILVER", "title": "Silver"},
+          {"proName": "TVC:USOIL", "title": "Crude Oil"},
+          {"proName": "FX:USDINR", "title": "USD/INR"},
+          {"proName": "CRYPTOCAP:BTC.D", "title": "Bitcoin Dom"}
+        ],
+        "showSymbolLogo": true,
+        "colorTheme": "dark",
+        "isTransparent": true,
+        "displayMode": "adaptive",
+        "locale": "en"
+      }
+      </script>
+    </div>
+  </div>
+
+  <!-- ── MARKETS OVERVIEW ── -->
+  <section class="markets-section">
+    <div class="section-label">Live Markets</div>
+    <div class="markets-grid" id="marketsGrid">
+      <!-- Rendered by JS -->
+    </div>
+    <div style="margin-top: 16px;">
+      <div class="section-label" style="margin-bottom: 12px;">Commodities & Metals</div>
+      <div class="commodities-row" id="commoditiesRow">
+        <!-- Rendered by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ── MAIN ── -->
+  <main>
+
+    <div class="last-updated" id="lastUpdated">
+      ⏱ News auto-updates every hour &nbsp;|&nbsp; Last updated: <b id="updateTime">Loading...</b>
+    </div>
+
+    <!-- Category tabs -->
+    <div class="category-tabs">
+      <button class="tab-btn active" onclick="filterNews('all', this)">All News</button>
+      <button class="tab-btn" onclick="filterNews('India', this)">🇮🇳 India</button>
+      <button class="tab-btn" onclick="filterNews('USA', this)">🇺🇸 USA</button>
+      <button class="tab-btn" onclick="filterNews('Global', this)">🌍 Global</button>
+      <button class="tab-btn" onclick="filterNews('Commodities', this)">🏅 Commodities</button>
+    </div>
+
+    <!-- Featured + sidebar -->
+    <div class="news-grid" id="featuredSection">
+      <div class="skeleton-card"><div class="skeleton skeleton-img"></div><div class="skeleton skeleton-line medium"></div><div class="skeleton skeleton-line short"></div></div>
+      <div style="display:flex;flex-direction:column;gap:14px;">
+        <div class="skeleton-card" style="height:110px;"></div>
+        <div class="skeleton-card" style="height:110px;"></div>
+        <div class="skeleton-card" style="height:110px;"></div>
+      </div>
+    </div>
+
+    <!-- TradingView Market Overview -->
+    <div class="tv-section" style="margin-bottom: 40px;">
+      <div class="tv-section-header">📊 Market Overview — Live Charts</div>
+      <div class="tradingview-widget-container" style="height:400px;">
+        <div class="tradingview-widget-container__widget" style="height:400px;"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+        {
+          "colorTheme": "dark",
+          "dateRange": "1D",
+          "showChart": true,
+          "locale": "en",
+          "largeChartUrl": "",
+          "isTransparent": true,
+          "showSymbolLogo": true,
+          "showFloatingTooltip": true,
+          "width": "100%",
+          "height": "400",
+          "tabs": [
+            {
+              "title": "India",
+              "symbols": [
+                {"s": "BSE:SENSEX", "d": "Sensex"},
+                {"s": "NSE:NIFTY50", "d": "Nifty 50"},
+                {"s": "NSE:BANKNIFTY", "d": "Bank Nifty"}
+              ],
+              "originalTitle": "India"
+            },
+            {
+              "title": "USA",
+              "symbols": [
+                {"s": "FOREXCOM:DJI", "d": "Dow Jones"},
+                {"s": "SP:SPX", "d": "S&P 500"},
+                {"s": "NASDAQ:IXIC", "d": "Nasdaq"}
+              ],
+              "originalTitle": "USA"
+            },
+            {
+              "title": "Global",
+              "symbols": [
+                {"s": "LSE:UKX", "d": "FTSE 100"},
+                {"s": "XETR:DAX", "d": "DAX"},
+                {"s": "TVC:NI225", "d": "Nikkei 225"},
+                {"s": "HSI:HSI", "d": "Hang Seng"}
+              ],
+              "originalTitle": "Global"
+            },
+            {
+              "title": "Commodities",
+              "symbols": [
+                {"s": "TVC:GOLD", "d": "Gold"},
+                {"s": "TVC:SILVER", "d": "Silver"},
+                {"s": "TVC:USOIL", "d": "Crude Oil"},
+                {"s": "TVC:NATURALGAS", "d": "Natural Gas"},
+                {"s": "TVC:COPPER", "d": "Copper"}
+              ],
+              "originalTitle": "Commodities"
+            }
+          ]
+        }
+        </script>
+      </div>
+    </div>
+
+    <!-- All news section label -->
+    <div class="section-label" id="allNewsLabel">All Stories</div>
+
+    <!-- News grid -->
+    <div class="all-news-grid" id="newsGrid">
+      <!-- Skeletons -->
+      <div class="skeleton-card"><div class="skeleton skeleton-img"></div><div class="skeleton skeleton-line medium"></div><div class="skeleton skeleton-line short"></div></div>
+      <div class="skeleton-card"><div class="skeleton skeleton-img"></div><div class="skeleton skeleton-line medium"></div><div class="skeleton skeleton-line short"></div></div>
+      <div class="skeleton-card"><div class="skeleton skeleton-img"></div><div class="skeleton skeleton-line medium"></div><div class="skeleton skeleton-line short"></div></div>
+      <div class="skeleton-card"><div class="skeleton skeleton-img"></div><div class="skeleton skeleton-line medium"></div><div class="skeleton skeleton-line short"></div></div>
+      <div class="skeleton-card"><div class="skeleton skeleton-img"></div><div class="skeleton skeleton-line medium"></div><div class="skeleton skeleton-line short"></div></div>
+      <div class="skeleton-card"><div class="skeleton skeleton-img"></div><div class="skeleton skeleton-line medium"></div><div class="skeleton skeleton-line short"></div></div>
+    </div>
+
+  </main>
+
+  <!-- ── FOOTER ── -->
+  <footer>
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a class="logo" href="#" style="margin-bottom:10px;display:inline-flex;">
+          <div class="logo-icon">P</div>
+          <div class="logo-text" style="margin-left:10px;">
+            <div class="logo-main"><span>Pulse</span></div>
+            <div class="logo-by">by Red Career</div>
+          </div>
+        </a>
+        <p>Finance news made simple. We cover Indian markets, US markets, global economy, and commodities — all explained in plain language anyone can understand.</p>
+      </div>
+      <div class="footer-links">
+        <div class="footer-col">
+          <h4>Markets</h4>
+          <a href="#">India (BSE/NSE)</a>
+          <a href="#">USA (NYSE/Nasdaq)</a>
+          <a href="#">Global Markets</a>
+          <a href="#">Commodities</a>
+        </div>
+        <div class="footer-col">
+          <h4>Follow</h4>
+          <a href="#">Telegram Alerts</a>
+          <a href="#">Twitter / X</a>
+          <a href="#">About</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div>© 2025 <span>Pulse by Red Career</span>. All rights reserved. Auto-updated every hour.</div>
+      <div>Data sources: NewsAPI · TradingView · Grok AI</div>
+    </div>
+  </footer>
+
+  <!-- ── SCRIPTS ── -->
+  <script>
+    let allNews = [];
+
+    // Market cards data (live via TradingView, static fallback shown here)
+    const markets = [
+      { name: 'Sensex', flag: '🇮🇳', symbol: 'BSE:SENSEX', price: '—', change: '—' },
+      { name: 'Nifty 50', flag: '🇮🇳', symbol: 'NSE:NIFTY50', price: '—', change: '—' },
+      { name: 'Dow Jones', flag: '🇺🇸', symbol: 'FOREXCOM:DJI', price: '—', change: '—' },
+      { name: 'S&P 500', flag: '🇺🇸', symbol: 'SP:SPX', price: '—', change: '—' },
+      { name: 'Nasdaq', flag: '🇺🇸', symbol: 'NASDAQ:IXIC', price: '—', change: '—' },
+      { name: 'FTSE 100', flag: '🇬🇧', symbol: 'LSE:UKX', price: '—', change: '—' },
+      { name: 'Nikkei 225', flag: '🇯🇵', symbol: 'TVC:NI225', price: '—', change: '—' },
+      { name: 'USD/INR', flag: '💱', symbol: 'FX:USDINR', price: '—', change: '—' },
+    ];
+    const commodities = [
+      { name: 'Gold', emoji: '🥇', price: '—', change: '—' },
+      { name: 'Silver', emoji: '🥈', price: '—', change: '—' },
+      { name: 'Crude Oil', emoji: '🛢️', price: '—', change: '—' },
+      { name: 'Natural Gas', emoji: '⚡', price: '—', change: '—' },
+      { name: 'Copper', emoji: '🔶', price: '—', change: '—' },
+      { name: 'Platinum', emoji: '💿', price: '—', change: '—' },
+    ];
+
+    // Render market cards
+    function renderMarkets() {
+      const grid = document.getElementById('marketsGrid');
+      grid.innerHTML = markets.map(m => `
+        <div class="market-card">
+          <div class="name"><span class="flag">${m.flag}</span>${m.name}</div>
+          <div class="price" id="price-${m.name.replace(/\s|\//g,'_')}">${m.price}</div>
+          <div class="change" id="change-${m.name.replace(/\s|\//g,'_')}">Loading...</div>
+        </div>
+      `).join('');
+
+      const row = document.getElementById('commoditiesRow');
+      row.innerHTML = commodities.map(c => `
+        <div class="commodity-pill">
+          <span style="font-size:18px;">${c.emoji}</span>
+          <div>
+            <div class="c-name">${c.name}</div>
+            <div class="c-price" id="cprice-${c.name.replace(/\s/g,'_')}">${c.price}</div>
+          </div>
+          <div class="c-change" id="cchange-${c.name.replace(/\s/g,'_')}">—</div>
+        </div>
+      `).join('');
+    }
+
+    // Category placeholders for news images
+    const categoryImages = {
+      'India': 'https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?w=600&q=80',
+      'USA': 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80',
+      'Global': 'https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80',
+      'Commodities': 'https://images.unsplash.com/photo-1610375461246-83df859d849d?w=600&q=80',
+    };
+    const categoryEmoji = { 'India':'🇮🇳', 'USA':'🇺🇸', 'Global':'🌍', 'Commodities':'🏅' };
+
+    function timeAgo(dateStr) {
+      const diff = Date.now() - new Date(dateStr).getTime();
+      const mins = Math.floor(diff / 60000);
+      if (mins < 1) return 'Just now';
+      if (mins < 60) return `${mins}m ago`;
+      const hrs = Math.floor(mins / 60);
+      if (hrs < 24) return `${hrs}h ago`;
+      return `${Math.floor(hrs/24)}d ago`;
+    }
+
+    function renderFeatured(articles) {
+      const section = document.getElementById('featuredSection');
+      if (!articles.length) { section.innerHTML = ''; return; }
+      const featured = articles[0];
+      const sideItems = articles.slice(1, 5);
+      const img = featured.urlToImage || categoryImages[featured.category] || categoryImages['Global'];
+
+      section.innerHTML = `
+        <div class="featured-card" onclick="window.open('${featured.url}','_blank')">
+          <img class="featured-img" src="${img}" alt="${featured.simple_title || featured.title}"
+            onerror="this.src='${categoryImages[featured.category] || categoryImages['Global']}'"/>
+          <div class="featured-body">
+            <div class="cat-badge">${categoryEmoji[featured.category] || ''} ${featured.category}</div>
+            <div class="featured-title">${featured.simple_title || featured.title}</div>
+            <div class="featured-desc">${featured.simple_description || featured.description || ''}</div>
+            <div class="card-meta">
+              <span>${featured.source?.name || ''} · ${timeAgo(featured.publishedAt)}</span>
+              <a href="${featured.url}" target="_blank">Read Full Story →</a>
+            </div>
+          </div>
+        </div>
+        <div class="news-sidebar">
+          ${sideItems.map(a => {
+            const simg = a.urlToImage || categoryImages[a.category] || categoryImages['Global'];
+            return `
+            <div class="side-card" onclick="window.open('${a.url}','_blank')">
+              <img class="side-img" src="${simg}" alt="${a.simple_title || a.title}"
+                onerror="this.src='${categoryImages[a.category] || categoryImages['Global']}'"/>
+              <div class="side-body">
+                <div>
+                  <div class="cat-badge" style="font-size:9px;padding:2px 7px;margin-bottom:6px;">${categoryEmoji[a.category] || ''} ${a.category}</div>
+                  <div class="side-title">${a.simple_title || a.title}</div>
+                </div>
+                <div class="side-desc">${timeAgo(a.publishedAt)} · ${a.source?.name || ''}</div>
+              </div>
+            </div>`;
+          }).join('')}
+        </div>
+      `;
+    }
+
+    function renderNewsGrid(articles) {
+      const grid = document.getElementById('newsGrid');
+      if (!articles.length) {
+        grid.innerHTML = `
+          <div class="empty-state" style="grid-column:1/-1;">
+            <div class="icon">📰</div>
+            <h3>No news yet</h3>
+            <p>The automation will fetch and post news every hour. Check back soon!</p>
+          </div>`;
+        return;
+      }
+      grid.innerHTML = articles.map(a => {
+        const img = a.urlToImage || categoryImages[a.category] || categoryImages['Global'];
+        return `
+        <div class="news-card" onclick="window.open('${a.url}','_blank')">
+          <img class="card-img" src="${img}" alt="${a.simple_title || a.title}"
+            onerror="this.src='${categoryImages[a.category] || categoryImages['Global']}'"/>
+          <div class="card-body">
+            <div class="cat-badge">${categoryEmoji[a.category] || ''} ${a.category}</div>
+            <div class="card-title">${a.simple_title || a.title}</div>
+            <div class="card-desc">${a.simple_description || a.description || ''}</div>
+            <div class="card-meta">
+              <span>${a.source?.name || ''} · ${timeAgo(a.publishedAt)}</span>
+              <a href="${a.url}" target="_blank">Read more →</a>
+            </div>
+          </div>
+        </div>`;
+      }).join('');
+    }
+
+    function buildBreakingTicker(articles) {
+      const ticker = document.getElementById('breakingTicker');
+      if (!articles.length) return;
+      const headlines = articles.slice(0, 12).map(a =>
+        `${categoryEmoji[a.category] || '📌'} ${a.simple_title || a.title}`
+      ).join('  ·  ');
+      ticker.textContent = headlines;
+    }
+
+    function filterNews(category, btn) {
+      // Update active tab
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('nav a').forEach(a => a.classList.remove('active'));
+      if (btn) btn.classList.add('active');
+
+      const filtered = category === 'all' ? allNews : allNews.filter(a => a.category === category);
+      renderFeatured(filtered.slice(0, 5));
+      renderNewsGrid(filtered.slice(5));
+
+      const label = document.getElementById('allNewsLabel');
+      if (label) label.textContent = category === 'all' ? 'All Stories' : `${categoryEmoji[category] || ''} ${category} News`;
+    }
+
+    // Load news_data.json
+    async function loadNews() {
+      try {
+        const res = await fetch(`news_data.json?t=${Date.now()}`);
+        if (!res.ok) throw new Error('No data yet');
+        const data = await res.json();
+        allNews = data.articles || [];
+
+        const timeEl = document.getElementById('updateTime');
+        if (timeEl && data.last_updated) {
+          timeEl.textContent = new Date(data.last_updated).toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' }) + ' IST';
+        }
+
+        buildBreakingTicker(allNews);
+        filterNews('all');
+      } catch (e) {
+        // Show empty state
+        document.getElementById('featuredSection').innerHTML = '';
+        renderNewsGrid([]);
+        document.getElementById('updateTime').textContent = 'Waiting for first update...';
+        buildBreakingTicker([{
+          simple_title: 'Pulse by Red Career is live! Finance news will auto-populate every hour.',
+          category: 'Global', publishedAt: new Date().toISOString(),
+          url: '#', source: { name: 'Pulse by Red Career' }
+        }]);
+      }
+    }
+
+    // Init
+    renderMarkets();
+    loadNews();
+    setInterval(loadNews, 5 * 60 * 1000); // refresh every 5 mins
+  </script>
+
+</body>
+</html>
