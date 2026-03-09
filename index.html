@@ -634,13 +634,109 @@
   <!-- ── MARKETS OVERVIEW ── -->
   <section class="markets-section">
     <div class="section-label">Live Markets</div>
-    <div class="markets-grid" id="marketsGrid">
-      <!-- Rendered by JS -->
+
+    <!-- TradingView Market Overview — tabbed, shows India/USA/Global/Crypto -->
+    <div style="background:#141417;border-radius:10px;overflow:hidden;margin-bottom:16px;height:450px;">
+      <div class="tradingview-widget-container" style="height:100%">
+        <div class="tradingview-widget-container__widget" style="height:100%"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+        {
+          "colorTheme": "dark",
+          "dateRange": "1D",
+          "showChart": true,
+          "locale": "en",
+          "isTransparent": true,
+          "showSymbolLogo": true,
+          "showFloatingTooltip": true,
+          "width": "100%",
+          "height": "450",
+          "tabs": [
+            {
+              "title": "🇮🇳 India",
+              "symbols": [
+                {"s": "BSE:SENSEX",         "d": "Sensex"},
+                {"s": "NSE:NIFTY50",        "d": "Nifty 50"},
+                {"s": "NSE:BANKNIFTY",      "d": "Bank Nifty"},
+                {"s": "NSE:NIFTYMIDCAP50",  "d": "Nifty Midcap"},
+                {"s": "BSE:RELIANCE",       "d": "Reliance"},
+                {"s": "BSE:TCS",            "d": "TCS"},
+                {"s": "BSE:INFY",           "d": "Infosys"},
+                {"s": "BSE:HDFCBANK",       "d": "HDFC Bank"}
+              ]
+            },
+            {
+              "title": "🇺🇸 USA",
+              "symbols": [
+                {"s": "FOREXCOM:SPXUSD",    "d": "S&P 500"},
+                {"s": "FOREXCOM:NSXUSD",    "d": "Nasdaq 100"},
+                {"s": "INDEX:DJI",          "d": "Dow Jones"},
+                {"s": "NASDAQ:AAPL",        "d": "Apple"},
+                {"s": "NASDAQ:NVDA",        "d": "Nvidia"},
+                {"s": "NASDAQ:TSLA",        "d": "Tesla"},
+                {"s": "NASDAQ:META",        "d": "Meta"},
+                {"s": "NASDAQ:GOOGL",       "d": "Alphabet"}
+              ]
+            },
+            {
+              "title": "🌍 Global",
+              "symbols": [
+                {"s": "SPREADEX:FTSE",      "d": "FTSE 100 (UK)"},
+                {"s": "XETR:DAX",           "d": "DAX (Germany)"},
+                {"s": "INDEX:NKY",          "d": "Nikkei 225 (Japan)"},
+                {"s": "INDEX:HSI",          "d": "Hang Seng (HK)"},
+                {"s": "INDEX:SSEC",         "d": "Shanghai (China)"},
+                {"s": "INDEX:CAC40",        "d": "CAC 40 (France)"}
+              ]
+            },
+            {
+              "title": "₿ Crypto",
+              "symbols": [
+                {"s": "CRYPTO:BTCUSD",      "d": "Bitcoin"},
+                {"s": "CRYPTO:ETHUSD",      "d": "Ethereum"},
+                {"s": "CRYPTO:SOLUSD",      "d": "Solana"},
+                {"s": "CRYPTO:BNBUSD",      "d": "BNB"}
+              ]
+            }
+          ]
+        }
+        </script>
+      </div>
     </div>
+
     <div style="margin-top: 16px;">
       <div class="section-label" style="margin-bottom: 12px;">Commodities & Metals</div>
-      <div class="commodities-row" id="commoditiesRow">
-        <!-- Rendered by JS -->
+      <!-- TradingView Commodities + Forex Widget -->
+      <div style="background:#141417;border-radius:10px;overflow:hidden;height:300px;">
+        <div class="tradingview-widget-container" style="height:100%">
+          <div class="tradingview-widget-container__widget" style="height:100%"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
+          {
+            "width": "100%",
+            "height": "300",
+            "symbolsGroups": [
+              {
+                "name": "Metals & Energy",
+                "originalTitle": "Metals & Energy",
+                "symbols": [
+                  {"name": "FOREXCOM:XAUUSD", "displayName": "Gold"},
+                  {"name": "FOREXCOM:XAGUSD", "displayName": "Silver"},
+                  {"name": "TVC:USOIL",       "displayName": "Crude Oil WTI"},
+                  {"name": "TVC:UKOIL",       "displayName": "Brent Crude"},
+                  {"name": "TVC:NGAS",        "displayName": "Natural Gas"},
+                  {"name": "NYMEX:PL1!",      "displayName": "Platinum"},
+                  {"name": "NYMEX:HG1!",      "displayName": "Copper"},
+                  {"name": "FX:USDINR",       "displayName": "USD/INR"},
+                  {"name": "FX:EURUSD",       "displayName": "EUR/USD"},
+                  {"name": "FX:GBPUSD",       "displayName": "GBP/USD"}
+                ]
+              }
+            ],
+            "colorTheme": "dark",
+            "isTransparent": true,
+            "locale": "en"
+          }
+          </script>
+        </div>
       </div>
     </div>
   </section>
@@ -789,50 +885,6 @@
   <script>
     let allNews = [];
 
-    // Market cards data (live via TradingView, static fallback shown here)
-    const markets = [
-      { name: 'Sensex', flag: '🇮🇳', symbol: 'BSE:SENSEX', price: '—', change: '—' },
-      { name: 'Nifty 50', flag: '🇮🇳', symbol: 'NSE:NIFTY50', price: '—', change: '—' },
-      { name: 'Dow Jones', flag: '🇺🇸', symbol: 'FOREXCOM:DJI', price: '—', change: '—' },
-      { name: 'S&P 500', flag: '🇺🇸', symbol: 'SP:SPX', price: '—', change: '—' },
-      { name: 'Nasdaq', flag: '🇺🇸', symbol: 'NASDAQ:IXIC', price: '—', change: '—' },
-      { name: 'FTSE 100', flag: '🇬🇧', symbol: 'LSE:UKX', price: '—', change: '—' },
-      { name: 'Nikkei 225', flag: '🇯🇵', symbol: 'TVC:NI225', price: '—', change: '—' },
-      { name: 'USD/INR', flag: '💱', symbol: 'FX:USDINR', price: '—', change: '—' },
-    ];
-    const commodities = [
-      { name: 'Gold', emoji: '🥇', price: '—', change: '—' },
-      { name: 'Silver', emoji: '🥈', price: '—', change: '—' },
-      { name: 'Crude Oil', emoji: '🛢️', price: '—', change: '—' },
-      { name: 'Natural Gas', emoji: '⚡', price: '—', change: '—' },
-      { name: 'Copper', emoji: '🔶', price: '—', change: '—' },
-      { name: 'Platinum', emoji: '💿', price: '—', change: '—' },
-    ];
-
-    // Render market cards
-    function renderMarkets() {
-      const grid = document.getElementById('marketsGrid');
-      grid.innerHTML = markets.map(m => `
-        <div class="market-card">
-          <div class="name"><span class="flag">${m.flag}</span>${m.name}</div>
-          <div class="price" id="price-${m.name.replace(/\s|\//g,'_')}">${m.price}</div>
-          <div class="change" id="change-${m.name.replace(/\s|\//g,'_')}">Loading...</div>
-        </div>
-      `).join('');
-
-      const row = document.getElementById('commoditiesRow');
-      row.innerHTML = commodities.map(c => `
-        <div class="commodity-pill">
-          <span style="font-size:18px;">${c.emoji}</span>
-          <div>
-            <div class="c-name">${c.name}</div>
-            <div class="c-price" id="cprice-${c.name.replace(/\s/g,'_')}">${c.price}</div>
-          </div>
-          <div class="c-change" id="cchange-${c.name.replace(/\s/g,'_')}">—</div>
-        </div>
-      `).join('');
-    }
-
     // Category placeholders for news images
     const categoryImages = {
       'India': 'https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?w=600&q=80',
@@ -975,7 +1027,6 @@
     }
 
     // Init
-    renderMarkets();
     loadNews();
     setInterval(loadNews, 5 * 60 * 1000); // refresh every 5 mins
   </script>
