@@ -98,10 +98,25 @@ def simplify(title, desc):
     try:
         r = requests.post("https://api.x.ai/v1/chat/completions",
             headers={"Authorization": f"Bearer {GROK_API_KEY}", "Content-Type": "application/json"},
-            json={"model": "grok-3-latest", "max_tokens": 120, "messages": [{"role": "user", "content":
-                f"Explain this finance news in 2-3 simple sentences for someone with zero finance knowledge. "
-                f"Use everyday language, no jargon. Be friendly and clear.\n\n"
-                f"Title: {title}\nDescription: {desc or ''}\n\nJust the explanation, nothing else."}]},
+            json={"model": "grok-3-latest", "max_tokens": 200, "messages": [{"role": "user", "content":
+                f"""You are a friendly finance teacher explaining news to a 12-year-old student.
+
+Your job:
+1. Explain WHAT happened in very simple words
+2. Explain WHY it happened (the reason behind it)
+3. Explain HOW it affects common people like you and me
+
+Rules:
+- Use everyday simple words — NO finance jargon at all
+- Write like you are talking to a curious 12-year-old
+- Use simple examples or comparisons if needed (like "think of it like your pocket money...")
+- Write 4-5 sentences total
+- Be friendly, clear and interesting
+
+News Title: {title}
+News Description: {desc or ''}
+
+Write ONLY the simple explanation. No intro, no labels, just the explanation."""}]},
             timeout=20)
         return r.json()["choices"][0]["message"]["content"].strip()
     except Exception as e:
