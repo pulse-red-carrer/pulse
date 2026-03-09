@@ -1,66 +1,326 @@
 {
-  "last_updated": "2026-03-09T05:13:43.331959+00:00",
+  "last_updated": "2026-03-09T08:02:13.630641+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Acetech E-Commerce share price makes flat debut on NSE SME, lists at the IPO price",
-      "description": "Acetech E-Commerce share price made a flat debut in the Indian stock market on Monday, March 9. The stock listed at the IPO price of  ₹112 apiece on NSE SME.",
-      "url": "https://www.livemint.com/market/stock-market-news/acetech-e-commerce-share-price-makes-flat-debut-on-nse-sme-lists-at-the-ipo-price-11773032125262.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/nse_1773032608477_1773032608683.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-03-09T05:06:24+00:00",
-      "category": "India",
-      "simple_explanation": "Acetech E-Commerce share price made a flat debut in the Indian stock market on Monday, March 9. The stock listed at the IPO price of  ₹112 apiece on NSE SME."
+      "title": "U.S. orders staff to leave Saudi Arabia as Iran war spreads and oil surges above $100",
+      "description": "The U.S. ordered non-emergency government staff to leave Saudi Arabia as the widening Iran war rattled markets and sent oil prices surging above $100 per barrel.",
+      "url": "https://www.cnbc.com/2026/03/09/iran-war-updates-oil-brent-wti-crude-110-gulf-gcc-uae-iraq-saudi-arabia-kurds.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-09T07:54:24+00:00",
+      "category": "USA",
+      "simple_explanation": "The U.S. ordered non-emergency government staff to leave Saudi Arabia as the widening Iran war rattled markets and sent oil prices surging above $100 per barrel."
     },
     {
-      "title": "Oil surges over 25%, on track for record daily jump due to escalating Iran war",
-      "description": "SINGAPORE, March 9 () - Oil prices surged more than 25% on Monday to their highest levels since mid-2022 as some major producers cut supplies and fears of prolonged shipping disruptions gripped the market due to the expanding U. Energy markets are particularly nervous because the crisis is ‌unfoldin",
+      "title": "Oil prices pull back after breaching $110 as G7 nations consider tapping emergency reserves",
+      "description": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-09T07:51:33+00:00",
+      "category": "USA",
+      "simple_explanation": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz"
+    },
+    {
+      "title": "Trump's war in Iran sends oil prices spiralling above $100",
+      "description": "Stock markets set to open lower again after further sharp rise in oil price",
+      "url": "https://www.standard.co.uk/business/trump-war-iran-sends-oil-price-spiralling-b1274014.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T07:50:52+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Stock markets set to open lower again after further sharp rise in oil price"
+    },
+    {
+      "title": "Explained: Why Wipro, Infosys and other IT stocks rose up to 1% despite Rs 12 lakh crore market selloff",
+      "description": "Shares of IT companies outperformed the broader market on Monday, with Wipro, LTIMindtree, and Persistent Systems rising up to 1% despite a sharp selloff that wiped out over Rs 12.39 lakh crore from BSE-listed companies’ market capitalisation. Wipro led gains, while Infosys and TCS saw modest declin",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-wipro-infosys-and-other-it-stocks-rose-up-to-1-despite-rs-12-lakh-crore-market-selloff/articleshow/129319661.cms",
+      "image": "https://img.etimg.com/photo/msid-129319661,imgsize-16064.cms",
+      "source": "Economic Times",
+      "published_at": "2026-03-09T07:49:41+00:00",
+      "category": "India",
+      "simple_explanation": "Shares of IT companies outperformed the broader market on Monday, with Wipro, LTIMindtree, and Persistent Systems rising up to 1% despite a sharp selloff that wiped out over Rs 12.39 lakh crore from B"
+    },
+    {
+      "title": "Oil Stocks Rise as Crude Prices Surge Past $100 Per Barrel",
+      "description": "Shares of major oil companies were higher pre-bell Monday as crude prices surged past $100 per barre",
+      "url": "https://finance.yahoo.com/news/oil-stocks-rise-crude-prices-074900670.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T07:49:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Shares of major oil companies were higher pre-bell Monday as crude prices surged past $100 per barre"
+    },
+    {
+      "title": "COVID-19, Hindenburg-Adani crisis to US-Iran war: 5 big Indian stock market crashes in the last 10 years",
+      "description": "Stock market crash: Despite crashes and volatility, Nifty 50 has given around 68% returns and Sensex has given multibagger returns of over 195% in the last ten years.",
+      "url": "https://www.livemint.com/market/stock-market-news/covid19-hindenburg-adani-crisis-to-us-iran-war-5-big-indian-stock-market-crashes-in-the-last-10-years-11773037976439.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/stock_1773041672151_1773041672264.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-03-09T07:46:34+00:00",
+      "category": "India",
+      "simple_explanation": "Stock market crash: Despite crashes and volatility, Nifty 50 has given around 68% returns and Sensex has given multibagger returns of over 195% in the last ten years."
+    },
+    {
+      "title": "SBI, Canara Bank to BoB: Why are PSU bank stocks the worst hit amid stock market crash? Explained",
+      "description": "Amid a sharp selloff in the Indian stock market, PSU bank stocks are facing unprecedented losses. As geopolitical tensions rise and inflation fears loom, investors are cashing out, leading to significant declines for banks like SBI and Canara Bank.",
+      "url": "https://www.livemint.com/market/stock-market-news/sbi-hdfc-bank-canara-bank-bob-why-bank-psu-stocks-the-worst-hit-amid-stock-market-crash-explained-nifty-bank-down-11773037992555.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/g1c49305408043229bec25a782f05eec0f5791ef246b25d62f_1773038346206_1773038346333.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-03-09T07:45:26+00:00",
+      "category": "India",
+      "simple_explanation": "Amid a sharp selloff in the Indian stock market, PSU bank stocks are facing unprecedented losses. As geopolitical tensions rise and inflation fears loom, investors are cashing out, leading to signific"
+    },
+    {
+      "title": "Valeura Energy Inc. - Thailand Clarifies Fuel Security Measures",
+      "description": "CALGARY, AB / ACCESS Newswire / March 9, 2026 / Valeura Energy Inc. (TSX:VLE)(OTCQX:VLERF) (\"Valeura\" or the \"Company\") acknowledges decrees pertaining to Thailand's new fuel security measures, as signed by Thailand's Prime Minister and published ...",
+      "url": "https://finance.yahoo.com/news/valeura-energy-inc-thailand-clarifies-074500667.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T07:45:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "CALGARY, AB / ACCESS Newswire / March 9, 2026 / Valeura Energy Inc. (TSX:VLE)(OTCQX:VLERF) (\"Valeura\" or the \"Company\") acknowledges decrees pertaining to Thailand's new fuel security measures, as sig"
+    },
+    {
+      "title": "Reliance, BPCL to JK Tyre: Here are most affected Indian stocks as crude oil prices surpass $115 by rising 30% on Monday",
+      "description": "Crude oil prices surged to nearly $120 per barrel due to escalating conflict in Iran, affecting Middle East production. The rise, the largest since 2020, pressured financial markets, leading to significant declines in Indian indices and affecting various sectors reliant on crude oil.",
+      "url": "https://www.livemint.com/market/commodities/reliance-bpcl-to-jk-tyre-here-are-most-affected-indian-stocks-as-crude-oil-prices-surpass-115-by-rising-30-on-monday-11773039229112.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/g77fa70a2c2321fe6b2d340008c5f71682ff4d616b60e5c626_1773041768621_1773041768790.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-03-09T07:42:06+00:00",
+      "category": "India",
+      "simple_explanation": "Crude oil prices surged to nearly $120 per barrel due to escalating conflict in Iran, affecting Middle East production. The rise, the largest since 2020, pressured financial markets, leading to signif"
+    },
+    {
+      "title": "PG Electroplast shares tumble 13% after LPG supply disruption due to Mideast war",
+      "description": "Shares of PG Electroplast fell sharply after the company flagged a gas shortage under its supply agreement due to maritime restrictions linked to the Middle East conflict. The disruption has led to curbs on LPG allocations, prompting the firm to explore alternative supplies while assessing the poten",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pg-electroplast-shares-tumble-13-after-lpg-supply-disruption-due-to-mideast-war/articleshow/129319106.cms",
+      "image": "https://img.etimg.com/photo/msid-129319106,imgsize-13734.cms",
+      "source": "Economic Times",
+      "published_at": "2026-03-09T07:40:33+00:00",
+      "category": "India",
+      "simple_explanation": "Shares of PG Electroplast fell sharply after the company flagged a gas shortage under its supply agreement due to maritime restrictions linked to the Middle East conflict. The disruption has led to cu"
+    },
+    {
+      "title": "Aramco share price hits 52-week high as Strait of Hormuz disruption pushes crude oil prices toward $120",
+      "description": "Saudi Arabia warns Iran of significant losses if attacks on Arab nations persist, following drone strikes on key oil facilities. Aramco faces disruptions and has rerouted shipments amid rising geopolitical tensions, leading to a surge in global oil prices and concerns over supply disruptions.",
+      "url": "https://www.livemint.com/market/stock-market-news/aramco-share-price-hits-52-week-high-as-strait-of-hormuz-disruption-pushes-brent-crude-oil-prices-toward-120-saudi-ara-11773040714848.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/saudi_aramco_share_price_1773040783907_1773040784035.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-03-09T07:39:03+00:00",
+      "category": "India",
+      "simple_explanation": "Saudi Arabia warns Iran of significant losses if attacks on Arab nations persist, following drone strikes on key oil facilities. Aramco faces disruptions and has rerouted shipments amid rising geopoli"
+    },
+    {
+      "title": "CNBC Daily Open: Oil storms past $100 for first time since 2022",
+      "description": "Shortly after the surge, U.S. President Donald Trump said on Truth Social that \"short term oil prices\" are \"a very small price to pay.\"",
+      "url": "https://www.cnbc.com/2026/03/09/cnbc-daily-open-oil-storms-past-100-for-first-time-since-2022.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-09T07:36:48+00:00",
+      "category": "USA",
+      "simple_explanation": "Shortly after the surge, U.S. President Donald Trump said on Truth Social that \"short term oil prices\" are \"a very small price to pay.\""
+    },
+    {
+      "title": "Oil pares gains but still on track for record surge as Iran war escalates",
+      "description": "SINGAPORE, March 9 (Reuters) - Oil prices came off earlier highs on Monday but were still up more than 15% at levels not seen since mid-2022 as some major producers cut supplies and fears of prolonged",
       "url": "https://uk.finance.yahoo.com/news/us-oil-prices-jump-supply-223911453.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-03-09T05:05:10+00:00",
+      "published_at": "2026-03-09T07:33:16+00:00",
       "category": "Commodities",
-      "simple_explanation": "SINGAPORE, March 9 () - Oil prices surged more than 25% on Monday to their highest levels since mid-2022 as some major producers cut supplies and fears of prolonged shipping disruptions gripped the ma"
+      "simple_explanation": "SINGAPORE, March 9 (Reuters) - Oil prices came off earlier highs on Monday but were still up more than 15% at levels not seen since mid-2022 as some major producers cut supplies and fears of prolonged"
     },
     {
-      "title": "Asia markets tumble as oil nears $120 a barrel; marks largest one day gain in almost 40 years",
-      "description": "Brent futures spiked 26.1% to $116.08, while U.S. West Texas Intermediate crude futures jumped 27.6% to $116.03.",
-      "url": "https://www.cnbc.com/2026/03/09/nikkei-225-hang-seng-index-kospi-crude-wti-brent-oil-futures-iran-war-gulf-hormuz.html",
+      "title": "Oil Prices Have Spiked More Than 25% Since the Iran Conflict Began, Yet Oil Stocks Have Barely Budged. What's Going on in the Oil Market?",
+      "description": "Oil stocks are taking a wait-and-see approach to the war.",
+      "url": "https://www.fool.com/investing/2026/03/09/oil-prices-have-spiked-more-than-25-since-the-iran/?.tsrc=rss",
       "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-09T05:04:36+00:00",
-      "category": "USA",
-      "simple_explanation": "Brent futures spiked 26.1% to $116.08, while U.S. West Texas Intermediate crude futures jumped 27.6% to $116.03."
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T07:32:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil stocks are taking a wait-and-see approach to the war."
     },
     {
-      "title": "China consumer inflation hits three-year high as producer deflation eases",
-      "description": "China's consumer inflation recorded the biggest jump in more than three years, as an extended holiday bolstered spending.",
-      "url": "https://www.cnbc.com/2026/03/09/china-february-inflation-cpi-producer-prices-stimulus-economy-ppi-factory-consumer.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-09T04:58:17+00:00",
-      "category": "USA",
-      "simple_explanation": "China's consumer inflation recorded the biggest jump in more than three years, as an extended holiday bolstered spending."
-    },
-    {
-      "title": "Gold rate today in India crashes over  ₹1,800/10 gm as inflation fears dent US Fed rate-cut buzz. US-Iran war in focus",
-      "description": "Gold rate today: Amid rising crude oil prices and inflation concerns, gold prices declined, with MCX gold opening at  ₹1,60,651 per 10 gm",
-      "url": "https://www.livemint.com/market/commodities/gold-rate-today-in-india-crashes-over-rs-1-800-10-gm-as-inflation-fears-dent-us-fed-rate-cut-buzz-us-iran-war-in-focus-11773029324452.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/US_Iran_War_News_MCX_Gold_Rate_Today_in_India_1773031846865_1773031846969.jpg",
+      "title": "'You shouldn't own stocks…', says Peter Lynch if not ready for stock market crash — Here's why",
+      "description": "Peter Lynch believes that investors must accept that markets will fall from time to time. He said that anybody not ready to brace for such stock market crashes should refrain from investing in stocks.",
+      "url": "https://www.livemint.com/market/stock-market-news/you-shouldnt-own-stocks-says-peter-lynch-if-not-ready-for-stock-market-crash-heres-why-11773041053037.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/Peter-Lynch-Headshot-Who-We-Are-Bio_1771579240186_1771579252834_1773041455104.jpg",
       "source": "LiveMint",
-      "published_at": "2026-03-09T04:56:33+00:00",
+      "published_at": "2026-03-09T07:31:47+00:00",
       "category": "India",
-      "simple_explanation": "Gold rate today: Amid rising crude oil prices and inflation concerns, gold prices declined, with MCX gold opening at  ₹1,60,651 per 10 gm"
+      "simple_explanation": "Peter Lynch believes that investors must accept that markets will fall from time to time. He said that anybody not ready to brace for such stock market crashes should refrain from investing in stocks."
     },
     {
-      "title": "Global Market | Christopher Wood sees Anthropic as the standout player in evolving AI landscape",
-      "description": "Global investors are debating the massive capital expenditure by tech firms in the AI sector, with Anthropic emerging as a key player. While the AI narrative has powered US equities, scrutiny is intensifying over whether this spending will yield meaningful returns, potentially resembling the airline",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/christopher-wood-sees-anthropic-as-the-standout-player-in-evolving-ai-landscape/articleshow/129310983.cms",
-      "image": "https://img.etimg.com/photo/msid-129310983,imgsize-49112.cms",
+      "title": "Bonus issue alert: Did Cupid shares really crash 80%? Here's why you should ignore the massive plunge",
+      "description": "Cupid Limited shares appeared to crash nearly 80% after adjusting for a 4:1 bonus issue, but actually rose over 15%. The stock opened at Rs 82 and rallied to Rs 92.90, despite the broader market decline. This corporate action, while adjusting the per-share price, does not alter the total value of sh",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-did-cupid-shares-really-crash-80-heres-why-you-should-ignore-the-massive-plunge/articleshow/129318815.cms",
+      "image": "https://img.etimg.com/photo/msid-129318815,imgsize-22544.cms",
       "source": "Economic Times",
-      "published_at": "2026-03-09T04:55:47+00:00",
+      "published_at": "2026-03-09T07:31:05+00:00",
       "category": "India",
-      "simple_explanation": "Global investors are debating the massive capital expenditure by tech firms in the AI sector, with Anthropic emerging as a key player. While the AI narrative has powered US equities, scrutiny is inten"
+      "simple_explanation": "Cupid Limited shares appeared to crash nearly 80% after adjusting for a 4:1 bonus issue, but actually rose over 15%. The stock opened at Rs 82 and rallied to Rs 92.90, despite the broader market decli"
+    },
+    {
+      "title": "Rupee may slip further if Middle East tensions persist: Naveen Mathur",
+      "description": "The Indian rupee is under pressure due to global geopolitical tensions and soaring crude oil prices. Currency markets are watching the Reserve Bank of India's next move. Traders expect continued volatility as the dollar strengthens and oil import demand rises. The rupee could weaken further if tensi",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/rupee-may-slip-further-if-middle-east-tensions-persist-naveen-mathur/articleshow/129318632.cms",
+      "image": "https://img.etimg.com/photo/msid-129318632,imgsize-18608.cms",
+      "source": "Economic Times",
+      "published_at": "2026-03-09T07:27:17+00:00",
+      "category": "India",
+      "simple_explanation": "The Indian rupee is under pressure due to global geopolitical tensions and soaring crude oil prices. Currency markets are watching the Reserve Bank of India's next move. Traders expect continued volat"
+    },
+    {
+      "title": "Global Markets | Nikkei falls 5% as surge in oil prices fans economic slowdown fears",
+      "description": "Japan's stock market experienced a sharp decline. The Nikkei index fell over 5% to a one-month low. This selloff was driven by a surge in oil prices, sparking fears of inflation and economic slowdown. Investors are now questioning the market's upside potential. Chip and bank shares tumbled, with all",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-nikkei-falls-5-as-surge-in-oil-prices-fans-economic-slowdown-fears/articleshow/129318518.cms",
+      "image": "https://img.etimg.com/photo/msid-129318518,imgsize-40544.cms",
+      "source": "Economic Times",
+      "published_at": "2026-03-09T07:25:28+00:00",
+      "category": "India",
+      "simple_explanation": "Japan's stock market experienced a sharp decline. The Nikkei index fell over 5% to a one-month low. This selloff was driven by a surge in oil prices, sparking fears of inflation and economic slowdown."
+    },
+    {
+      "title": "Global Markets | Australian shares lose $138 billion in value as oil surge stokes inflation fears",
+      "description": "Australian shares experienced a sharp 3% decline, losing over $138 billion as surging oil prices fueled inflation fears. The S&P/ASX 200 index hit its lowest point since December. Miners and financials bore the brunt, while energy stocks saw gains. Investors are bracing for prolonged high energy cos",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-lose-138-billion-in-value-as-oil-surge-stokes-inflation-fears/articleshow/129318389.cms",
+      "image": "https://img.etimg.com/photo/msid-129318389,imgsize-154922.cms",
+      "source": "Economic Times",
+      "published_at": "2026-03-09T07:23:10+00:00",
+      "category": "India",
+      "simple_explanation": "Australian shares experienced a sharp 3% decline, losing over $138 billion as surging oil prices fueled inflation fears. The S&P/ASX 200 index hit its lowest point since December. Miners and financial"
+    },
+    {
+      "title": "Pan African Resources to acquire Emmerson in £163 million all-share deal",
+      "description": "The South African gold miner will consolidate full ownership of the Tennant Creek joint venture in Australia through a court-approved scheme of arrangement Pan African Resources PLC (LSE:PAF, OTCQX:PAFRY, JSE:PAN), the London and Johannesburg-listed gold producer, has agreed to acquire...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1088526/pan-african-resources-to-acquire-emmerson-in-163-million-all-share-deal-1088526.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T07:23:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The South African gold miner will consolidate full ownership of the Tennant Creek joint venture in Australia through a court-approved scheme of arrangement Pan African Resources PLC (LSE:PAF, OTCQX:PA"
+    },
+    {
+      "title": "3 Things to Know About Home Depot Stock Before You Buy",
+      "description": "This top retail stock underperformed the S&P 500 in the past five and 10 years.",
+      "url": "https://www.fool.com/investing/2026/03/09/things-know-about-home-depot-stock-before-you-buy/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T07:20:00+00:00",
+      "category": "USA",
+      "simple_explanation": "This top retail stock underperformed the S&P 500 in the past five and 10 years."
+    },
+    {
+      "title": "Chevron (CVX) Valuation Check As Geopolitical Tensions Lift Oil Prices And Venezuela Exports Resume",
+      "description": "Surging tensions between the US and Iran, along with Iranian strikes on Gulf energy infrastructure and threats to Strait of Hormuz shipping, have pushed oil prices sharply higher and put Chevron (CVX) firmly back in the spotlight for investors. See our latest analysis for Chevron. At a share price o",
+      "url": "https://finance.yahoo.com/news/chevron-cvx-valuation-check-geopolitical-070931422.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T07:09:31+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Surging tensions between the US and Iran, along with Iranian strikes on Gulf energy infrastructure and threats to Strait of Hormuz shipping, have pushed oil prices sharply higher and put Chevron (CVX)"
+    },
+    {
+      "title": "Why China can withstand oil's surge past $100 more easily than other countries",
+      "description": "The latest Middle East tensions sheds light on how the world's three largest oil consumers have taken different approaches to energy, with global consequences.",
+      "url": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-09T07:06:27+00:00",
+      "category": "USA",
+      "simple_explanation": "The latest Middle East tensions sheds light on how the world's three largest oil consumers have taken different approaches to energy, with global consequences."
+    },
+    {
+      "title": "Sugar stocks defy market crash: Dwarikesh Sugar, Balrampur Chini surge up to 8.5% - Here's why",
+      "description": "Escalating crude oil prices due to geopolitical tensions have enhanced the attractiveness of ethanol production, benefiting Indian sugar companies. The resultant shift in sugarcane usage and subsequent stock price surges reflect the industry's reliance on rising oil prices for profitability.",
+      "url": "https://www.livemint.com/market/stock-market-news/dwarikesh-sugar-to-balrampur-chini-sugar-stocks-today-defy-market-crash-on-ethanol-hopes-as-crude-oil-prices-rally-11773036880607.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/Sugar_stocks_today_1773039098339_1773039098450.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-03-09T06:55:15+00:00",
+      "category": "India",
+      "simple_explanation": "Escalating crude oil prices due to geopolitical tensions have enhanced the attractiveness of ethanol production, benefiting Indian sugar companies. The resultant shift in sugarcane usage and subsequen"
+    },
+    {
+      "title": "HDFC Bank shares drop 4%; Nifty Bank slumps as entire banking pack falls",
+      "description": "HDFC Bank shares fell over 4% on Monday as geopolitical tensions in West Asia triggered broad selling in banking stocks. The Nifty Bank index also dropped sharply with all banking stocks trading in the red. Despite the decline, analysts remain optimistic about the lender’s long-term outlook and earn",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-drop-4-nifty-bank-slumps-as-entire-banking-pack-falls/articleshow/129316688.cms",
+      "image": "https://img.etimg.com/photo/msid-129316688,imgsize-49690.cms",
+      "source": "ET Markets",
+      "published_at": "2026-03-09T06:48:05+00:00",
+      "category": "India",
+      "simple_explanation": "HDFC Bank shares fell over 4% on Monday as geopolitical tensions in West Asia triggered broad selling in banking stocks. The Nifty Bank index also dropped sharply with all banking stocks trading in th"
+    },
+    {
+      "title": "European markets set to slump on Middle East turmoil as oil price surges",
+      "description": "European stocks are expected to start the new trading week heavily lower as traders track developments in the Middle East and a surge in oil prices.",
+      "url": "https://www.cnbc.com/2026/03/09/european-markets-stoxx-600-ftse-cac-dax-iran-latest.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-09T06:43:24+00:00",
+      "category": "USA",
+      "simple_explanation": "European stocks are expected to start the new trading week heavily lower as traders track developments in the Middle East and a surge in oil prices."
+    },
+    {
+      "title": "Dubai index slides 4% as oil soars on escalating Iran conflict",
+      "description": "UAE stock markets saw a sharp decline early Monday. This downturn extended previous losses. The US-Israeli conflict with Iran is widening. Oil prices surged over 25 percent. This jump is due to supply cuts and fears of prolonged shipping disruptions in the Strait of Hormuz. Brent crude saw its bigge",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dubai-index-slides-4-as-oil-soars-on-escalating-iran-conflict/articleshow/129316467.cms",
+      "image": "https://img.etimg.com/photo/msid-129316467,imgsize-50038.cms",
+      "source": "ET Markets",
+      "published_at": "2026-03-09T06:43:12+00:00",
+      "category": "India",
+      "simple_explanation": "UAE stock markets saw a sharp decline early Monday. This downturn extended previous losses. The US-Israeli conflict with Iran is widening. Oil prices surged over 25 percent. This jump is due to supply"
+    },
+    {
+      "title": "Sedemac Mechatronics IPO allotment today: Check status, GMP, listing details",
+      "description": "Sedemac Mechatronics IPO allotment status will be finalized on Monday, March 9. Investors await confirmation of share allocation. The IPO saw moderate demand, with institutional investors showing strong interest. Grey market premiums indicate a potential listing slightly above the issue price on Mar",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sedemac-mechatronics-ipo-allotment-today-check-status-gmp-listing-details/articleshow/129315799.cms",
+      "image": "https://img.etimg.com/photo/msid-129315799,imgsize-4014.cms",
+      "source": "ET Markets",
+      "published_at": "2026-03-09T06:28:59+00:00",
+      "category": "India",
+      "simple_explanation": "Sedemac Mechatronics IPO allotment status will be finalized on Monday, March 9. Investors await confirmation of share allocation. The IPO saw moderate demand, with institutional investors showing stro"
+    },
+    {
+      "title": "Asian Paints, Berger & other paint stocks fall up to 5% on oil's 29% spike amid Mideast tensions. More pain ahead?",
+      "description": "Shares of Asian Paints, Berger Paints and Indigo Paints fell sharply on Monday after crude oil prices surged nearly 29% amid escalating Middle East tensions. Rising oil costs threaten to increase raw material expenses for paint makers, sparking concerns about margin pressure and further downside ris",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/asian-paints-berger-other-paint-stocks-fall-up-to-5-on-oils-29-spike-amid-mideast-tensions-more-pain-ahead/articleshow/129315424.cms",
+      "image": "https://img.etimg.com/photo/msid-129315424,imgsize-730622.cms",
+      "source": "ET Markets",
+      "published_at": "2026-03-09T06:21:43+00:00",
+      "category": "India",
+      "simple_explanation": "Shares of Asian Paints, Berger Paints and Indigo Paints fell sharply on Monday after crude oil prices surged nearly 29% amid escalating Middle East tensions. Rising oil costs threaten to increase raw "
+    },
+    {
+      "title": "Using AI at work is causing ‘brain fry,’ researchers say",
+      "description": "Researchers found that some workers using AI in their roles reported a “mental hangover” with a “fog” that caused difficulty focusing.",
+      "url": "https://cointelegraph.com/news/ai-use-work-causing-brain-fry-say-researchers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2QwYmEtYTE1ZS03YWU4LTk2YjktODg4N2ExZDc4NDJjLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-09T06:17:46+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Researchers found that some workers using AI in their roles reported a “mental hangover” with a “fog” that caused difficulty focusing."
+    },
+    {
+      "title": "Finance job openings at 2012 levels, US lost 92K jobs last month",
+      "description": "Finance and insurance job listings declined towards the end of 2025, with The Kobeissi Letter arguing the sector should “brace” for job cuts.",
+      "url": "https://cointelegraph.com/news/us-lost-92k-jobs-last-month-finance-job-openings-2012-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2QwZGItNmQxYS03OGMyLWI1MWEtYmM0NzkyNTJjZGEwLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-09T05:54:51+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Finance and insurance job listings declined towards the end of 2025, with The Kobeissi Letter arguing the sector should “brace” for job cuts."
+    },
+    {
+      "title": "BTC Markets eyes RWA trading license amid global tokenization wave",
+      "description": "The roughly $26 billion in tokenized assets onchain today “is really just the proof of concept,” said BTC Markets CEO Lucas Dobbins.",
+      "url": "https://cointelegraph.com/news/btc-markets-eyes-markets-license-tokenization-play-joining-peers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2QwZTctZDkzMS03ZDIzLTlkNzctZjQyMzFhNDI4YzU2LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-09T05:34:39+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The roughly $26 billion in tokenized assets onchain today “is really just the proof of concept,” said BTC Markets CEO Lucas Dobbins."
     },
     {
       "title": "Gold prices fall 1.5% as dollar firms, rate-cut optimism fades",
@@ -73,26 +333,6 @@
       "simple_explanation": "By Noel John March 9 (Reuters) - Gold fell on Monday, as a stronger U.S. dollar weighed on the greenback-priced bullion, while higher energy costs fuelled inflation concerns and further dimmed the"
     },
     {
-      "title": "Sensex crashes 2,400 points as oil tops $118 amid West Asia war; ₹12 lakh crore wiped out",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-crashes-2400-points-as-oil-tops-118-amid-west-asia-war-12-lakh-crore-wiped-out/videoshow/129310852.cms",
-      "image": "",
-      "source": "Economic Times",
-      "published_at": "2026-03-09T04:51:38+00:00",
-      "category": "India",
-      "simple_explanation": ""
-    },
-    {
-      "title": "Stock Market Crash: How to protect your portfolio amid crude price rally, US-Iran war tensions?",
-      "description": "Escalating tensions in the Middle East and rising crude oil prices have led to significant losses in Indian stock markets. Experts recommend maintaining a defensive investment strategy as volatility persists amid global uncertainties.",
-      "url": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-stock-market-crash-how-to-protect-your-portfolio-amid-us-iran-war-brent-crude-oil-price-rally-11772968374473.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/stock_market_crash_1773031690516_1773031690679.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-03-09T04:51:08+00:00",
-      "category": "India",
-      "simple_explanation": "Escalating tensions in the Middle East and rising crude oil prices have led to significant losses in Indian stock markets. Experts recommend maintaining a defensive investment strategy as volatility p"
-    },
-    {
       "title": "Orbital data center company to start mining Bitcoin in space",
       "description": "Starcloud CEO Philip Johnston noted that it is 30 times cheaper to mine Bitcoin on ASICs than on GPUs in space on a kilowatt-hour basis.",
       "url": "https://cointelegraph.com/news/orbital-data-center-startup-mine-bitcoin-space?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -101,86 +341,6 @@
       "published_at": "2026-03-09T04:49:53+00:00",
       "category": "Crypto",
       "simple_explanation": "Starcloud CEO Philip Johnston noted that it is 30 times cheaper to mine Bitcoin on ASICs than on GPUs in space on a kilowatt-hour basis."
-    },
-    {
-      "title": "Rajputana Stainless IPO Day 1 LIVE: Issue booked 3% so far. GMP hints nearly 2% listing gains. Apply or skip?",
-      "description": "Rajputana Stainless IPO Day 1 LIVE: Rajputana Stainless IPO will be priced between  ₹116 and  ₹122, with subscription dates from March 9 to March 11. The firm seeks to raise  ₹254.98 crore for expanding its product range and repaying debts.",
-      "url": "https://www.livemint.com/market/ipo/rajputana-stainless-ipo-gmp-rajputana-stainless-ipo-details-rajputana-stainless-ipo-size-rajputana-stainless-ipo-date-11773030672292.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/about2_1773031719304_1773031724257.png",
-      "source": "LiveMint",
-      "published_at": "2026-03-09T04:49:46+00:00",
-      "category": "India",
-      "simple_explanation": "Rajputana Stainless IPO Day 1 LIVE: Rajputana Stainless IPO will be priced between  ₹116 and  ₹122, with subscription dates from March 9 to March 11. The firm seeks to raise  ₹254.98 crore for expandi"
-    },
-    {
-      "title": "US Stock Market | Oil shock and war fears jolt global markets ahead of key US inflation data",
-      "description": "Global markets are facing renewed volatility as surging oil prices and escalating tensions in the Middle East raise concerns about inflation and economic growth. Investors are now closely watching upcoming US inflation data for signals on the Federal Reserve’s interest rate path amid rising geopolit",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-oil-shock-and-war-fears-jolt-global-markets-ahead-of-key-us-inflation-data/articleshow/129310588.cms",
-      "image": "https://img.etimg.com/photo/msid-129310588,imgsize-88740.cms",
-      "source": "Economic Times",
-      "published_at": "2026-03-09T04:46:33+00:00",
-      "category": "India",
-      "simple_explanation": "Global markets are facing renewed volatility as surging oil prices and escalating tensions in the Middle East raise concerns about inflation and economic growth. Investors are now closely watching upc"
-    },
-    {
-      "title": "IndiGo share price crashes 8% on rising oil prices, declines 11% this month. Do you own?",
-      "description": "Indigo stock opened at  ₹4,150 apiece on Monday, as compared to the previous close of  ₹4,404 on Friday. On March 6, the aviation stock closed around 2.41% lower, resuming its downward streak.",
-      "url": "https://www.livemint.com/market/stock-market-news/indigo-share-price-crashes-8-on-rising-oil-prices-declines-11-this-month-do-you-own-11773028918446.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/Indigo_1773030891102_1773030891298.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-03-09T04:45:31+00:00",
-      "category": "India",
-      "simple_explanation": "Indigo stock opened at  ₹4,150 apiece on Monday, as compared to the previous close of  ₹4,404 on Friday. On March 6, the aviation stock closed around 2.41% lower, resuming its downward streak."
-    },
-    {
-      "title": "Global Markets | Strong wage data in Japan fuels bets on more BOJ tightening",
-      "description": "Japan’s real wages rose in January for the first time in over a year as inflation cooled and base salaries recorded their strongest growth in more than three decades. The data strengthens expectations that the Bank of Japan may continue tightening monetary policy, with potential ripple effects for g",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-strong-wage-data-in-japan-fuels-bets-on-more-boj-tightening/articleshow/129310507.cms",
-      "image": "https://img.etimg.com/photo/msid-129310507,imgsize-24270.cms",
-      "source": "Economic Times",
-      "published_at": "2026-03-09T04:44:42+00:00",
-      "category": "India",
-      "simple_explanation": "Japan’s real wages rose in January for the first time in over a year as inflation cooled and base salaries recorded their strongest growth in more than three decades. The data strengthens expectations"
-    },
-    {
-      "title": "Rajputana Stainless IPO: Check brokerages review, subscription, GMP and other details",
-      "description": "Rajputana Stainless's IPO opens for subscription. Grey market signals suggest modest listing gains. The company aims to raise Rs 255 crore for expansion and debt repayment.  Financials show steady profitability. Industry prospects are supportive, but challenges like raw material price volatility exi",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/rajputana-stainless-ipo-check-brokerages-review-subscription-gmp-and-other-details/articleshow/129310402.cms",
-      "image": "https://img.etimg.com/photo/msid-129310402,imgsize-5354.cms",
-      "source": "Economic Times",
-      "published_at": "2026-03-09T04:42:43+00:00",
-      "category": "India",
-      "simple_explanation": "Rajputana Stainless's IPO opens for subscription. Grey market signals suggest modest listing gains. The company aims to raise Rs 255 crore for expansion and debt repayment.  Financials show steady pro"
-    },
-    {
-      "title": "Acetech E-Commerce shares list flat at IPO price of Rs 112 on NSE SME platform",
-      "description": "Shares of Acetech E-Commerce made a muted debut on the NSE SME Platform, listing at its IPO price of Rs 112 in line with grey market expectations. The Rs 49 crore issue was subscribed 1.14 times overall, while the company plans to use the proceeds for marketing, working capital and potential acquisi",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/acetech-e-commerce-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/129310322.cms",
-      "image": "https://img.etimg.com/photo/msid-129310322,imgsize-5000.cms",
-      "source": "Economic Times",
-      "published_at": "2026-03-09T04:40:45+00:00",
-      "category": "India",
-      "simple_explanation": "Shares of Acetech E-Commerce made a muted debut on the NSE SME Platform, listing at its IPO price of Rs 112 in line with grey market expectations. The Rs 49 crore issue was subscribed 1.14 times overa"
-    },
-    {
-      "title": "What Iran war means for Vedanta, Tata Steel and other metal stocks? CLSA analysts explain",
-      "description": "Rising tensions in the Iran war could reshape the outlook for Indian metal stocks, with CLSA flagging Vedanta as a key beneficiary due to its aluminium, zinc and oil exposure. Tata Steel may also gain from stronger steel spreads, while energy costs, freight disruptions and geopolitical risk could ke",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/what-iran-war-means-for-vedanta-tata-steel-and-other-metal-stocks-clsa-analysts-explain/articleshow/129310190.cms",
-      "image": "https://img.etimg.com/photo/msid-129310190,imgsize-51176.cms",
-      "source": "ET Markets",
-      "published_at": "2026-03-09T04:38:18+00:00",
-      "category": "India",
-      "simple_explanation": "Rising tensions in the Iran war could reshape the outlook for Indian metal stocks, with CLSA flagging Vedanta as a key beneficiary due to its aluminium, zinc and oil exposure. Tata Steel may also gain"
-    },
-    {
-      "title": "Venezuela is back in the oil game at a critical moment",
-      "description": "The Strait of Hormuz is under strain. Iranian oil exports are in jeopardy. And the global energy market was desperately looking for a pressure valve. Venezuela just quietly opened one. For the first time since late 2024, Venezuela has resumed exports of diluted crude oil (DCO). The grade had been ..",
-      "url": "https://www.thestreet.com/markets/venezuela-is-back-in-the-oil-game-at-a-critical-moment?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T04:37:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The Strait of Hormuz is under strain. Iranian oil exports are in jeopardy. And the global energy market was desperately looking for a pressure valve. Venezuela just quietly opened one. For the first t"
     },
     {
       "title": "Dow Jones Futures Dive As Oil Surges Above $110. Iran Names Khamenei's Son As Supreme Leader.",
@@ -193,16 +353,6 @@
       "simple_explanation": "Futures tumbled while U.S. crude oil prices soared. Iran named Khamenei's son as its new Supreme Leader."
     },
     {
-      "title": "Japan Stocks Drop Most Since April on Oil Spike, Iran Fears",
-      "description": "The Nikkei 225 benchmark lost as much as 7.6% in its steepest decline since April 7 while the broader Topix fell as much as 6%.  Economically-sensitive sectors like tech and banks were among the biggest losers, with SoftBank Group Corp and Advantest Corp plummeting more than 12%.  Japanese governmen",
-      "url": "https://finance.yahoo.com/news/japanese-stocks-sink-oil-jumps-001306871.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T04:33:27+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The Nikkei 225 benchmark lost as much as 7.6% in its steepest decline since April 7 while the broader Topix fell as much as 6%.  Economically-sensitive sectors like tech and banks were among the bigge"
-    },
-    {
       "title": "Flow Foundation files court motion to block Korean exchange delistings",
       "description": "Every major global exchange has restored full FLOW services, said the Foundation on Monday.",
       "url": "https://cointelegraph.com/news/flow-foundation-files-court-motion-to-block-korean-exchange-delistings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -213,24 +363,14 @@
       "simple_explanation": "Every major global exchange has restored full FLOW services, said the Foundation on Monday."
     },
     {
-      "title": "Indian refiners tumble as crude surges on widening Iran war",
-      "description": "March 9 (Reuters) - Shares of Indian refiners slumped on Monday, as the widening U.S.-Israeli war with Iran propelled Brent crude prices toward $120 per barrel - a near four-year high - threatening",
-      "url": "https://sg.finance.yahoo.com/news/indian-refiners-tumble-crude-surges-043007720.html?.tsrc=rss",
+      "title": "Oil soars 25%, gold drops as Iran war jolts global commodity markets",
+      "description": "By Naveen Thukral SINGAPORE, March 9 (Reuters) - Oil prices surged around 25% on Monday to their highest since mid-2022, with Brent on track for a record one-day gain, while gold fell 2% as an",
+      "url": "https://sg.finance.yahoo.com/news/oil-soars-25-gold-drops-042644922.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-03-09T04:30:07+00:00",
+      "published_at": "2026-03-09T04:26:44+00:00",
       "category": "Commodities",
-      "simple_explanation": "March 9 (Reuters) - Shares of Indian refiners slumped on Monday, as the widening U.S.-Israeli war with Iran propelled Brent crude prices toward $120 per barrel - a near four-year high - threatening"
-    },
-    {
-      "title": "IndiGo shares tumble 8% on crude spike, but Kotak upgrades stock to Buy",
-      "description": "InterGlobe Aviation shares plunged amid soaring oil prices, with Brent crude exceeding $116 a barrel due to supply disruptions. Despite the market turmoil, Kotak Institutional Equities upgraded IndiGo to Buy, arguing that investors should focus on the escalating losses of competitors rather than oil",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-shares-tumble-8-on-crude-spike-but-kotak-upgrades-stock-to-buy/articleshow/129309428.cms",
-      "image": "https://img.etimg.com/photo/msid-129309428,imgsize-46006.cms",
-      "source": "ET Markets",
-      "published_at": "2026-03-09T04:22:16+00:00",
-      "category": "India",
-      "simple_explanation": "InterGlobe Aviation shares plunged amid soaring oil prices, with Brent crude exceeding $116 a barrel due to supply disruptions. Despite the market turmoil, Kotak Institutional Equities upgraded IndiGo"
+      "simple_explanation": "By Naveen Thukral SINGAPORE, March 9 (Reuters) - Oil prices surged around 25% on Monday to their highest since mid-2022, with Brent on track for a record one-day gain, while gold fell 2% as an"
     },
     {
       "title": "Gold Slumps as Oil Surge Stokes Fears of Higher Interest Rates",
@@ -241,46 +381,6 @@
       "published_at": "2026-03-09T04:09:15+00:00",
       "category": "Commodities",
       "simple_explanation": "Major oil and gas producers in the Persian Gulf region curbed output as the US-Israeli war with Iran showed no sign of resolution, while the dollar strengthened against all of its major peers.  Gold’s"
-    },
-    {
-      "title": "Mutual fund reset: 5 things every investor should do to their portfolio before FY27",
-      "description": "Major regulatory, taxation and disclosure changes in India's mutual fund industry are reshaping portfolio strategy ahead of FY 2026-27. Investors may need to reassess diversification, debt allocation, costs, documentation and tax planning. Experts suggest a structured portfolio clean-up before March",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mutual-fund-reset-5-things-every-investor-should-do-to-their-portfolio-before-fy27/articleshow/129308767.cms",
-      "image": "https://img.etimg.com/photo/msid-129308767,imgsize-32594.cms",
-      "source": "ET Markets",
-      "published_at": "2026-03-09T04:08:41+00:00",
-      "category": "India",
-      "simple_explanation": "Major regulatory, taxation and disclosure changes in India's mutual fund industry are reshaping portfolio strategy ahead of FY 2026-27. Investors may need to reassess diversification, debt allocation,"
-    },
-    {
-      "title": "Rajputana Stainless IPO day 1: GMP, date, size, subscription status, review, other details. Apply or not?",
-      "description": "Rajputana Stainless IPO GMP today: According to the market observers, shares of the company are available at a premium of  ₹2 in the grey market today",
-      "url": "https://www.livemint.com/market/ipo/rajputana-stainless-ipo-day-1-gmp-date-size-subscription-status-review-other-details-apply-or-not-11773028330794.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/Rajputana_Stainless_IPO_GMP_Today_Details_Date_1773028917279_1773028917434.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-03-09T04:06:07+00:00",
-      "category": "India",
-      "simple_explanation": "Rajputana Stainless IPO GMP today: According to the market observers, shares of the company are available at a premium of  ₹2 in the grey market today"
-    },
-    {
-      "title": "Stock Market Crash: Rs 12 lakh crore wiped out! Sensex plunges over 2,400 points, Nifty below 23,800: 7 factors behind today's bloodbath",
-      "description": "Indian stock markets experienced a sharp crash on Monday, with Sensex and Nifty plunging 3% each. This decline, extending last week's losses, was driven by the escalating Iran-Israel-US conflict, which spiked crude oil prices and raised concerns about India's rupee and macroeconomics. The selloff er",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-12-lakh-crore-wiped-out-sensex-crashes-over-2400-points-nifty-below-23800-factors-behind-market-decline/articleshow/129308266.cms",
-      "image": "https://img.etimg.com/photo/msid-129308266,imgsize-3163320.cms",
-      "source": "ET Markets",
-      "published_at": "2026-03-09T04:02:32+00:00",
-      "category": "India",
-      "simple_explanation": "Indian stock markets experienced a sharp crash on Monday, with Sensex and Nifty plunging 3% each. This decline, extending last week's losses, was driven by the escalating Iran-Israel-US conflict, whic"
-    },
-    {
-      "title": "Fresh blow for a market with 80% stocks in bear grip: War threatens India Inc's earnings comeback",
-      "description": "Escalating Middle East tensions have triggered a sharp spike in crude oil prices, threatening India Inc's anticipated earnings comeback. With 80% of stocks already in a bear grip, this volatility introduces significant uncertainty, particularly for sectors reliant on crude-linked inputs. Analysts wa",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fresh-blow-for-a-market-with-80-stocks-in-bear-grip-war-threatens-india-incs-earnings-comeback/articleshow/129308249.cms",
-      "image": "https://img.etimg.com/photo/msid-129308249,imgsize-3088400.cms",
-      "source": "ET Markets",
-      "published_at": "2026-03-09T03:58:24+00:00",
-      "category": "India",
-      "simple_explanation": "Escalating Middle East tensions have triggered a sharp spike in crude oil prices, threatening India Inc's anticipated earnings comeback. With 80% of stocks already in a bear grip, this volatility intr"
     },
     {
       "title": "How This Popular ETF Went From Laggard to Top 1% in Its Category",
@@ -301,106 +401,6 @@
       "published_at": "2026-03-09T03:49:59+00:00",
       "category": "Crypto",
       "simple_explanation": "NYDIG’s Greg Cipolaro says that Bitcoin and tech stocks aren’t converging and are likely just reacting to macroeconomic conditions rather than trading in tandem."
-    },
-    {
-      "title": "Bank of America drops shock message on the stock market",
-      "description": "The stock market appears to be in the middle of a reset, but Bank of America feels investors shouldn’t expect a major rebound just yet. BofA’s chief investment strategist, Michael Hartnett, argues that the conditions that usually signal the end of a brutal market correction are only partially ...",
-      "url": "https://www.thestreet.com/investing/bank-of-america-drops-shock-message-on-the-stock-market?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T03:33:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The stock market appears to be in the middle of a reset, but Bank of America feels investors shouldn’t expect a major rebound just yet. BofA’s chief investment strategist, Michael Hartnett, argues tha"
-    },
-    {
-      "title": "U.S. orders staff to leave Saudi Arabia as Iran war spreads and oil surges above $110",
-      "description": "The U.S. ordered non-emergency government staff to leave Saudi Arabia as the widening Iran war rattled markets and sent oil prices surging above $110 per barrel.",
-      "url": "https://www.cnbc.com/2026/03/09/iran-war-updates-oil-brent-wti-crude-110-gulf-gcc-uae-iraq-saudi-arabia-kurds.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-09T03:29:14+00:00",
-      "category": "USA",
-      "simple_explanation": "The U.S. ordered non-emergency government staff to leave Saudi Arabia as the widening Iran war rattled markets and sent oil prices surging above $110 per barrel."
-    },
-    {
-      "title": "Crypto regulatory clarity matters more for banks, ex-CFTC chief says",
-      "description": "If the CLARITY Act fails to pass, Giancarlo said he expects Paul Atkins at the SEC and Mike Selig at the CFTC will likely write rules to create clarity for the industry.",
-      "url": "https://cointelegraph.com/news/us-banks-need-crypto-regulatory-clarity-giancarlo-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjA0NTctN2FkYy03MTdlLWIyOWUtNjk5MjkwYzQ3NTc3.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-09T03:28:08+00:00",
-      "category": "Crypto",
-      "simple_explanation": "If the CLARITY Act fails to pass, Giancarlo said he expects Paul Atkins at the SEC and Mike Selig at the CFTC will likely write rules to create clarity for the industry."
-    },
-    {
-      "title": "Crypto funding up 50% in 12 months as fewer, larger deals dominate",
-      "description": "Despite a rise in crypto fundraising, Messari’s Eric Turner noted that no major crypto VCs have closed rounds except Dragonfly recently, stating that crypto “needs some fresh capital.”",
-      "url": "https://cointelegraph.com/news/crypto-funding-up-50-percent-despite-fewer-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2NmZjItZTE2NS03MmQ3LTk1NGQtN2JiYWZlNDdkOWEzLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-09T02:21:18+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Despite a rise in crypto fundraising, Messari’s Eric Turner noted that no major crypto VCs have closed rounds except Dragonfly recently, stating that crypto “needs some fresh capital.”"
-    },
-    {
-      "title": "Oil surges above $110 a barrel; Trump says 'small price to pay' for defeating Iran",
-      "description": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz",
-      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-09T02:11:28+00:00",
-      "category": "USA",
-      "simple_explanation": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz"
-    },
-    {
-      "title": "Oil Prices Have Skyrocketed 66% Since the Iran War Began -- Is a Stock Market Crash Next?",
-      "description": "Historical precedent sets the stage for Wall Street.",
-      "url": "https://www.fool.com/investing/2026/03/08/oil-prices-surge-66-iran-war-stock-market-crash/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T01:56:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Historical precedent sets the stage for Wall Street."
-    },
-    {
-      "title": "Fresh Survey Stokes AI Bubble Fears. How to React.",
-      "description": "Exchange-traded funds could provide good diversification.",
-      "url": "https://www.fool.com/investing/2026/03/08/fresh-survey-stokes-ai-bubble-fears-how-to-react/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T01:52:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Exchange-traded funds could provide good diversification."
-    },
-    {
-      "title": "TSA staff shortages lead to hourslong security lines for travelers at some airports",
-      "description": "Travelers are facing hourslong waits at some airport security lines amid TSA staffing shortages.",
-      "url": "https://www.cnbc.com/2026/03/08/tsa-airport-security-line-delays-in-government-shutdown.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-09T01:18:05+00:00",
-      "category": "USA",
-      "simple_explanation": "Travelers are facing hourslong waits at some airport security lines amid TSA staffing shortages."
-    },
-    {
-      "title": "Japan's Nikkei 225 share index falls more than 7% as oil soars to $114 a barrel",
-      "description": "Japan’s benchmark Nikkei 225 index plunged more than 7% early Monday and other Asian markets also tumbled after oil prices soared to about $114 a barrel due to disruptions from the war in the Middle East, casting a shadow over economies heavily dependent on imported crude and gas from the region.  T",
-      "url": "https://finance.yahoo.com/news/japans-nikkei-225-share-index-005405320.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T00:54:05+00:00",
-      "category": "USA",
-      "simple_explanation": "Japan’s benchmark Nikkei 225 index plunged more than 7% early Monday and other Asian markets also tumbled after oil prices soared to about $114 a barrel due to disruptions from the war in the Middle E"
-    },
-    {
-      "title": "Nova Minerals identifies new high-grade gold anomalies near RPM at Estelle",
-      "description": "Nova Minerals Ltd (ASX:NVA, NASDAQ:NVA, OTC:NVAAF, FRA:QM3) has reported further high-grade gold results from surface sampling near the RPM prospect at its Estelle Gold and Critical Minerals Project in Alaska, highlighting new exploration targets ahead of planned drilling in 2026. The company...",
-      "url": "https://www.proactiveinvestors.com/companies/news/1088514/nova-minerals-identifies-new-high-grade-gold-anomalies-near-rpm-at-estelle-1088514.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T00:18:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Nova Minerals Ltd (ASX:NVA, NASDAQ:NVA, OTC:NVAAF, FRA:QM3) has reported further high-grade gold results from surface sampling near the RPM prospect at its Estelle Gold and Critical Minerals Project i"
     }
   ]
 }
