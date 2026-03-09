@@ -1,12 +1,292 @@
 {
-  "last_updated": "2026-03-09T17:39:35.573528+00:00",
+  "last_updated": "2026-03-09T19:55:06.237607+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Oil prices decline after nearly hitting $120 as Trump says U.S. considering taking over Strait of Hormuz",
+      "description": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-09T19:50:41+00:00",
+      "category": "USA",
+      "simple_explanation": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz"
+    },
+    {
+      "title": "Trump tells CBS that Iran 'war is very complete'",
+      "description": "U.S. stock market indices rose on the heels of reported comments by President Donald Trump that the war against Iran could be over sooner than first expected.",
+      "url": "https://www.cnbc.com/2026/03/09/trump-iran-war-end.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-09T19:47:33+00:00",
+      "category": "USA",
+      "simple_explanation": "U.S. stock market indices rose on the heels of reported comments by President Donald Trump that the war against Iran could be over sooner than first expected."
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq turn higher, oil slides as Trump says war could be over soon",
+      "description": "Oil's rise above $100 per barrel has unleashed fears of a more severe economic impact from the war in the Middle East.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-turn-higher-oil-slides-as-trump-says-war-could-be-over-soon-193324857.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T19:45:38+00:00",
+      "category": "USA",
+      "simple_explanation": "Oil's rise above $100 per barrel has unleashed fears of a more severe economic impact from the war in the Middle East."
+    },
+    {
+      "title": "Oil prices jump 7% on Iran war, settle at highest since 2022",
+      "description": "By Scott DiSavino NEW YORK, March 9 (Reuters) - Oil prices jumped about 7% on Monday to settle at their highest since 2022, after soaring by as much as 29% during the session as Saudi Arabia and other",
+      "url": "https://finance.yahoo.com/news/us-oil-prices-jump-supply-223911453.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T19:40:05+00:00",
+      "category": "Commodities",
+      "simple_explanation": "By Scott DiSavino NEW YORK, March 9 (Reuters) - Oil prices jumped about 7% on Monday to settle at their highest since 2022, after soaring by as much as 29% during the session as Saudi Arabia and other"
+    },
+    {
+      "title": "Bitcoin Price Bounces, But Bears Are Still in Control: Analysis",
+      "description": "Bitcoin broke the descending triangle with a massive candle—then crept right back inside. Today, it's trying again, but the daily chart isn't convincing.",
+      "url": "https://decrypt.co/360448/bitcoin-price-bounces-bears-in-control-analysis?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T19:37:58+00:00",
+      "category": "USA",
+      "simple_explanation": "Bitcoin broke the descending triangle with a massive candle—then crept right back inside. Today, it's trying again, but the daily chart isn't convincing."
+    },
+    {
+      "title": "Iran war boosts oil price, but oil major shares are stuck on the sidelines",
+      "description": "By Stephanie Kelly and Sheila Dang LONDON/HOUSTON, March 9 (Reuters) - Oil prices on Monday climbed to the highest level since 2022, but shares of major producers like Shell and Exxon Mobil have so",
+      "url": "https://sg.finance.yahoo.com/news/iran-war-boosts-oil-price-193612944.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T19:36:12+00:00",
+      "category": "Commodities",
+      "simple_explanation": "By Stephanie Kelly and Sheila Dang LONDON/HOUSTON, March 9 (Reuters) - Oil prices on Monday climbed to the highest level since 2022, but shares of major producers like Shell and Exxon Mobil have so"
+    },
+    {
+      "title": "Oil prices: How the Big Beautiful Bill has Trump's hands tied",
+      "description": "As oil prices (CL=F, BZ=F) settle back below $100 per barrel — after surging to highs of $119 on Sunday following airstrikes against Iran — President Trump's ability to act on rising oil costs may be limited. Yahoo Finance Washington Correspondent Ben Werschkul explains how the final terms of Trump'",
+      "url": "https://finance.yahoo.com/video/oil-prices-big-beautiful-bill-193418438.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T19:34:18+00:00",
+      "category": "Commodities",
+      "simple_explanation": "As oil prices (CL=F, BZ=F) settle back below $100 per barrel — after surging to highs of $119 on Sunday following airstrikes against Iran — President Trump's ability to act on rising oil costs may be "
+    },
+    {
+      "title": "Tesla Whale Doubles Nvidia Stake Amid Middle East Tensions",
+      "description": "Nvidia Stock Gets Whale-Sized Boost as KoGuan Expands Position",
+      "url": "https://finance.yahoo.com/news/tesla-whale-doubles-nvidia-stake-193355507.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T19:33:55+00:00",
+      "category": "USA",
+      "simple_explanation": "Nvidia Stock Gets Whale-Sized Boost as KoGuan Expands Position"
+    },
+    {
+      "title": "Jito Foundation acquires SolanaFloor days after platform shutdown",
+      "description": "The move to revive Solana ecosystem journalism comes after a $40 million treasury wallet breach at its parent Step Finance led to its shuttering.",
+      "url": "https://cointelegraph.com/news/jito-foundation-acquires-solanafloor-to-revive-solana-ecosystem-journalism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjI2Y2EtMDM2NC03ZTAxLTgxZjYtOTAxZGJhN2FhZTI1LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-09T19:33:05+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The move to revive Solana ecosystem journalism comes after a $40 million treasury wallet breach at its parent Step Finance led to its shuttering."
+    },
+    {
+      "title": "High Oil Prices Could Crimp Convenience Store Margins",
+      "description": "Everyone knows to stock up on bread and milk before a snowstorm, but consumers have been just as eager to buy chocolate and breakfast sandwiches after they were done shoveling.  The latter two items were standouts at convenience stores last month, which also saw traffic quickly bounce back after Jan",
+      "url": "https://finance.yahoo.com/m/e801d054-b05d-3541-a79b-be33286d23d4/high-oil-prices-could-crimp.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T19:33:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Everyone knows to stock up on bread and milk before a snowstorm, but consumers have been just as eager to buy chocolate and breakfast sandwiches after they were done shoveling.  The latter two items w"
+    },
+    {
+      "title": "Gold Drops as Oil Surge Stokes Fears of Higher Interest Rates",
+      "description": "Brent futures at one point neared $120 a barrel before the spike eased — as producers in the Persian Gulf region curbed output with the US-Israeli war with Iran showing no sign of resolution.  Bullion has come under pressure as crude’s rally stokes inflation fears in the US, raising the likelihood t",
+      "url": "https://finance.yahoo.com/news/gold-slumps-oil-surge-stokes-000639835.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T19:32:54+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Brent futures at one point neared $120 a barrel before the spike eased — as producers in the Persian Gulf region curbed output with the US-Israeli war with Iran showing no sign of resolution.  Bullion"
+    },
+    {
+      "title": "FBI eyes Arizona Senate audit of 2020 Maricopa County election results, Republican says",
+      "description": "President Donald Trump touted the fact that the records had been obtained by the FBI. He long has claimed he was cheated out of victory in the 2020 election.",
+      "url": "https://www.cnbc.com/2026/03/09/trump-arizona-election-grand-jury-maricopa-fbi.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-09T19:21:58+00:00",
+      "category": "USA",
+      "simple_explanation": "President Donald Trump touted the fact that the records had been obtained by the FBI. He long has claimed he was cheated out of victory in the 2020 election."
+    },
+    {
+      "title": "Duolingo Stock Is Down Big This Year. Here's Why Things Could Get Even Worse",
+      "description": "The company is going to prioritize user growth, and its financials could suffer in the short term.",
+      "url": "https://www.fool.com/investing/2026/03/09/duolingo-stock-is-down-big-this-year-heres-why-thi/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T19:20:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The company is going to prioritize user growth, and its financials could suffer in the short term."
+    },
+    {
+      "title": "GameStop (GME) Shares Up 20% While Other Meme Stocks Fall in 2026",
+      "description": "On Monday, March 9, GameStop (NYSE:GME) is trending as one of today’s notable market movers. While the broader meme-stock universe is deep in the red for 2026, GME stock stands out with a year-to-date gain of 23%, powered by renewed short-squeeze speculation and growing buzz around a potential block",
+      "url": "https://247wallst.com/investing/2026/03/09/gamestop-gme-shares-up-20-while-other-meme-stocks-fall-in-2026/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T19:17:57+00:00",
+      "category": "Crypto",
+      "simple_explanation": "On Monday, March 9, GameStop (NYSE:GME) is trending as one of today’s notable market movers. While the broader meme-stock universe is deep in the red for 2026, GME stock stands out with a year-to-date"
+    },
+    {
+      "title": "Stock Market Today: Dow Dips As Oil Prices Back Off Sharply; Pharma Stock Dives On This Worry (Live Coverage)",
+      "description": "The Dow Jones index came off lows on the stock market today. Oil prices surged on the U.S.-Iran war. Nvidia outperformed and Hims popped.",
+      "url": "https://finance.yahoo.com/m/e230812b-48d3-3774-8d8c-753b75626331/stock-market-today%3A-dow-dips.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T19:16:03+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dow Jones index came off lows on the stock market today. Oil prices surged on the U.S.-Iran war. Nvidia outperformed and Hims popped."
+    },
+    {
+      "title": "Bitcoin Price Rises. Why Oil Could Dictate What Happens Next for Cryptos.",
+      "description": "The prices of Bitcoin and other major cryptocurrencies turn higher on Monday after falling earlier in the session.",
+      "url": "https://finance.yahoo.com/m/f024d8ea-94b7-35b3-a4d4-8e9c1e16712d/bitcoin-price-rises.-why-oil.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T19:07:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The prices of Bitcoin and other major cryptocurrencies turn higher on Monday after falling earlier in the session."
+    },
+    {
+      "title": "Broadcom Leads Tech Stocks Rally Amid Escalating Iran Conflict",
+      "description": "Nasdaq Recovers Slightly as Semiconductor Stocks Surge From Lows",
+      "url": "https://finance.yahoo.com/news/todays-market-dow-slides-nearly-190115172.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T19:01:15+00:00",
+      "category": "USA",
+      "simple_explanation": "Nasdaq Recovers Slightly as Semiconductor Stocks Surge From Lows"
+    },
+    {
+      "title": "Nasdaq Composite Returns to Break Even. Chip Stocks Are Shining.",
+      "description": "The Nasdaq Composite made another push back to break even heading into the final hour and a half of trading on Monday.  Nvidia also rose 1.4% on a day when most of the Magnificent Seven stocks were struggling.",
+      "url": "https://finance.yahoo.com/m/77bdcfc8-1220-3ecb-9d53-6d9f4f28f713/nasdaq-composite-returns-to.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T18:44:35+00:00",
+      "category": "USA",
+      "simple_explanation": "The Nasdaq Composite made another push back to break even heading into the final hour and a half of trading on Monday.  Nvidia also rose 1.4% on a day when most of the Magnificent Seven stocks were st"
+    },
+    {
+      "title": "Wall St slips as crude price surge fuels inflation fears, tech bounces back",
+      "description": "USA-STOCKS/ (UPDATE 5, GRAPHIC):US STOCKS-Wall St slips as crude price surge fuels inflation fears, tech bounces back",
+      "url": "https://www.livemint.com/market/wall-st-slips-as-crude-price-surge-fuels-inflation-fears-tech-bounces-back-11773081540148.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "source": "LiveMint",
+      "published_at": "2026-03-09T18:38:59+00:00",
+      "category": "India",
+      "simple_explanation": "USA-STOCKS/ (UPDATE 5, GRAPHIC):US STOCKS-Wall St slips as crude price surge fuels inflation fears, tech bounces back"
+    },
+    {
+      "title": "Wyoming Senator revives crypto tax exemption debate amid market structure talks",
+      "description": "Cynthia Lummis continues to push pro-crypto policies in a market structure bill under consideration in the Senate, even as she prepares to leave Congress in January 2027.",
+      "url": "https://cointelegraph.com/news/wyoming-senator-cynthia-lummis-crypto-tax-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2QzNDEtMDQ0Mi03OTk5LThjNGQtYzBiNzQ0NjkwZTllLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-09T18:38:49+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Cynthia Lummis continues to push pro-crypto policies in a market structure bill under consideration in the Senate, even as she prepares to leave Congress in January 2027."
+    },
+    {
+      "title": "Are Investors Prepared for 'More Violent and Frequent Shocks' This Year?",
+      "description": "The market appears to expect the Iran-conflict fueled shocks to be short-lived and reversible, yet one expert is calling for a 10% to 15% correction in the S&P.",
+      "url": "https://www.investopedia.com/are-investors-prepared-for-more-violent-and-frequent-shocks-this-year-iran-war-stocks-11922046?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T18:24:39+00:00",
+      "category": "USA",
+      "simple_explanation": "The market appears to expect the Iran-conflict fueled shocks to be short-lived and reversible, yet one expert is calling for a 10% to 15% correction in the S&P."
+    },
+    {
+      "title": "Fears of 1970s-style stagflation arise with oil spike to $100. How big a threat is it?",
+      "description": "High inflation and slow growth present a double threat, as measures like interest rate cuts and government spending only aggravate inflation.",
+      "url": "https://www.cnbc.com/2026/03/09/fears-of-1970s-style-stagflation-arise-with-oil-spike-to-100-how-big-a-threat-is-it.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-09T18:11:12+00:00",
+      "category": "USA",
+      "simple_explanation": "High inflation and slow growth present a double threat, as measures like interest rate cuts and government spending only aggravate inflation."
+    },
+    {
+      "title": "Update: Gold Falls As Oil's Rise Above US$100 Brings Worries of Higher Inflation and Interest Rates",
+      "description": "(Updates prices.) Gold traded lower early Monday as traders move away from the traditional safe h",
+      "url": "https://finance.yahoo.com/news/gold-falls-oil-apos-rise-180010590.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T18:00:10+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Updates prices.) Gold traded lower early Monday as traders move away from the traditional safe h"
+    },
+    {
+      "title": "Price predictions 3/9: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
+      "description": "Buyers were undeterred by surging oil prices, pushing Bitcoin near $69,500 and large-cap altcoins close to their overhead resistance levels.",
+      "url": "https://cointelegraph.com/news/price-predictions-3-9-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2QzYTYtOGI5ZS03NTFkLWEzZTMtNmI5YzVhYmI1Y2EyLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-09T17:57:56+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Buyers were undeterred by surging oil prices, pushing Bitcoin near $69,500 and large-cap altcoins close to their overhead resistance levels."
+    },
+    {
+      "title": "There's another energy market that may get hit harder than oil by Strait of Hormuz closure",
+      "description": "Roughly 20% of global LNG flows through the Strait.",
+      "url": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-09T17:54:06+00:00",
+      "category": "USA",
+      "simple_explanation": "Roughly 20% of global LNG flows through the Strait."
+    },
+    {
+      "title": "Blockchain.com expands into Ghana after 700% trading growth in Nigeria",
+      "description": "The crypto brokerage said increasing demand across West Africa is driving its expansion as user activity grows across the Sub-Saharan region.",
+      "url": "https://cointelegraph.com/news/blockchain-com-expands-into-ghana-after-700-trading-growth-in-nigeria?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2QzNjAtOWJiYy03ZmFjLWEyZGYtNjJkNzUxYjY1ZTUwLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-09T17:48:01+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The crypto brokerage said increasing demand across West Africa is driving its expansion as user activity grows across the Sub-Saharan region."
+    },
+    {
+      "title": "When Will Bitcoin Bottom? Fidelity Macro Chief Says This Is The Metric To Watch",
+      "description": "Market participants interested in knowing when Bitcoin will bottom should look at the gold-to-Bitcoin ratio, Fidelity Director of Global Macro Jurrien Timmer says. Timmer said on Feb. 27 Bitcoin should be evaluated by the gold-to-Bitcoin ratio, calling the digital asset...",
+      "url": "https://finance.yahoo.com/news/bitcoin-bottom-fidelity-macro-chief-174540450.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T17:45:40+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Market participants interested in knowing when Bitcoin will bottom should look at the gold-to-Bitcoin ratio, Fidelity Director of Global Macro Jurrien Timmer says. Timmer said on Feb. 27 Bitcoin shoul"
+    },
+    {
+      "title": "Comex Gold Settles 1.06% Lower at $5091.50",
+      "description": "Gold settled 1.1% lower, down two of the past three sessions, and silver rose 0.3%, up for a second-consecutive session.",
+      "url": "https://finance.yahoo.com/m/f83dbba4-f696-3826-aaf8-e2e0f326da84/comex-gold-settles-1.06%25.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-09T17:45:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold settled 1.1% lower, down two of the past three sessions, and silver rose 0.3%, up for a second-consecutive session."
+    },
     {
       "title": "Hewlett Packard shares gain ahead of first quarter results",
       "description": "Market experts classify the stock as a buy, with an average price goal of $26.01 suggesting a 21% gain from the existing $21.47 trading level",
       "url": "https://www.livemint.com/market/stock-market-news/hewlett-packard-shares-gain-ahead-of-first-quarter-results-11773075843069.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/SPAIN-MWC-54_1773075784897_1773075838838.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/SPAIN-MWC-54_1773075784897_1773075838838.jpg",
       "source": "LiveMint",
       "published_at": "2026-03-09T17:35:28+00:00",
       "category": "India",
@@ -33,106 +313,6 @@
       "simple_explanation": "The price of crude oil has sharply spiked as the Strait of Hormuz has been effectively closed as the United States and Israel wage war on Iran."
     },
     {
-      "title": "Wall Street Is Pointing to the 1990 Gulf War Playbook — And the Signal Is Unmistakable",
-      "description": "WTI crude soared well over $115 per barrel on Sunday, its highest level since 2022, after Gulf producers including Saudi Arabia, Kuwait, Iraq, and the UAE slashed output amid near-closure of the Strait of Hormuz. The S&P 500 (SPY) is down over the past the week, while energy names are outperforming.",
-      "url": "https://247wallst.com/investing/2026/03/09/wall-street-is-pointing-to-the-1990-gulf-war-playbook-and-the-signal-is-unmistakable/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T17:31:22+00:00",
-      "category": "USA",
-      "simple_explanation": "WTI crude soared well over $115 per barrel on Sunday, its highest level since 2022, after Gulf producers including Saudi Arabia, Kuwait, Iraq, and the UAE slashed output amid near-closure of the Strai"
-    },
-    {
-      "title": "Anthropic sues Trump administration over Pentagon blacklist",
-      "description": "The lawsuit says Anthropic is being harmed \"irreparably\" and could lose hundreds of millions of dollars.",
-      "url": "https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-09T17:31:21+00:00",
-      "category": "USA",
-      "simple_explanation": "The lawsuit says Anthropic is being harmed \"irreparably\" and could lose hundreds of millions of dollars."
-    },
-    {
-      "title": "Oil prices fall below $100 per barrel on possible stockpile release to address supply disruption",
-      "description": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz",
-      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-09T17:30:56+00:00",
-      "category": "USA",
-      "simple_explanation": "Gulf Arab oil producers are cutting production as they run out of storage space because they can't export through the Strait of Hormuz"
-    },
-    {
-      "title": "Jim Cramer Calls Kinder Morgan a “Winner” But Adresses the “Parabolic Move”",
-      "description": "Kinder Morgan, Inc. (NYSE:KMI) is one of the stocks on which Jim Cramer gave his opinions. Toward the end of the lightning round, a caller asked about the stock, and Cramer stated: Well, Kinder Morgan is a winner. Now this, now it’s a parabolic move. It’s straight up. And I always try to tell people",
-      "url": "https://finance.yahoo.com/news/jim-cramer-calls-kinder-morgan-172807307.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T17:28:07+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Kinder Morgan, Inc. (NYSE:KMI) is one of the stocks on which Jim Cramer gave his opinions. Toward the end of the lightning round, a caller asked about the stock, and Cramer stated: Well, Kinder Morgan"
-    },
-    {
-      "title": "Stock markets drop after spike in crude oil prices amid Iran conflict",
-      "description": "On Monday morning, the FTSE 100 joined the other major financial markets with a firm slump, dipping by as much as 1.7%.",
-      "url": "https://uk.finance.yahoo.com/news/stock-markets-drop-spike-crude-172533618.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T17:25:33+00:00",
-      "category": "Commodities",
-      "simple_explanation": "On Monday morning, the FTSE 100 joined the other major financial markets with a firm slump, dipping by as much as 1.7%."
-    },
-    {
-      "title": "Sector Update: Energy",
-      "description": "Energy stocks were mixed Monday afternoon, with the NYSE Energy Sector Index rising 1.2% and the Sta",
-      "url": "https://finance.yahoo.com/news/sector-energy-172514370.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T17:25:14+00:00",
-      "category": "USA",
-      "simple_explanation": "Energy stocks were mixed Monday afternoon, with the NYSE Energy Sector Index rising 1.2% and the Sta"
-    },
-    {
-      "title": "Rachel Reeves warns of ‘upward inflationary pressure’ caused by Iran war",
-      "description": "The Chancellor said she was ready to support a ‘co-ordinated release’ of international oil reserves.",
-      "url": "https://uk.finance.yahoo.com/news/rachel-reeves-warns-upward-inflationary-165022775.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T17:20:34+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The Chancellor said she was ready to support a ‘co-ordinated release’ of international oil reserves."
-    },
-    {
-      "title": "Treasury Yields, Dollar Off Highs as G7 Tackles Oil Shock",
-      "description": "Treasury yields lost some steam as the G7 group of advanced economies said it is prepared to release oil reserves if needed.",
-      "url": "https://finance.yahoo.com/m/0593ef71-44eb-346d-8a24-869f52fc9104/treasury-yields%2C-dollar-off.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T17:18:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Treasury yields lost some steam as the G7 group of advanced economies said it is prepared to release oil reserves if needed."
-    },
-    {
-      "title": "Exchange-Traded Funds Lower as US Equities Fall Midday",
-      "description": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV were down. Actively traded",
-      "url": "https://finance.yahoo.com/news/exchange-traded-funds-lower-us-171405434.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T17:14:05+00:00",
-      "category": "USA",
-      "simple_explanation": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV were down. Actively traded"
-    },
-    {
-      "title": "Stock Market Today: Dow Dips, Nasdaq Rises; Fertilizer Plays Climb As Oil Pops (Live Coverage)",
-      "description": "The Dow Jones index came off lows on the stock market today. Oil prices surged on the U.S.-Iran war. Nvidia outperformed and Hims popped.",
-      "url": "https://finance.yahoo.com/m/e230812b-48d3-3774-8d8c-753b75626331/stock-market-today%3A-dow-dips%2C.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T17:13:49+00:00",
-      "category": "USA",
-      "simple_explanation": "The Dow Jones index came off lows on the stock market today. Oil prices surged on the U.S.-Iran war. Nvidia outperformed and Hims popped."
-    },
-    {
       "title": "Can you still mine Bitcoin on a PC in 2026? Here is the reality",
       "description": "Mining Bitcoin on a desktop in 2026 may sound simple, but is it profitable? Do rising network difficulty and energy costs mean the end of PCs as Bitcoin mining equipment?",
       "url": "https://cointelegraph.com/bitcoin-for-beginners/can-you-still-mine-bitcoin-on-a-pc-in-2026-here-is-the-reality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -141,66 +321,6 @@
       "published_at": "2026-03-09T17:12:48+00:00",
       "category": "Crypto",
       "simple_explanation": "Mining Bitcoin on a desktop in 2026 may sound simple, but is it profitable? Do rising network difficulty and energy costs mean the end of PCs as Bitcoin mining equipment?"
-    },
-    {
-      "title": "Assessing Greatland Resources (ASX:GGP) Valuation After Recent Share Price Pullback",
-      "description": "What the latest figures say about Greatland Resources With no single headline event driving attention today, Greatland Resources (ASX:GGP) is on investors’ radar as they weigh its recent share performance, reported A$1,918.137 revenue, and A$645.056 net income against current market pricing. See our",
-      "url": "https://finance.yahoo.com/news/assessing-greatland-resources-asx-ggp-171116278.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T17:11:16+00:00",
-      "category": "Commodities",
-      "simple_explanation": "What the latest figures say about Greatland Resources With no single headline event driving attention today, Greatland Resources (ASX:GGP) is on investors’ radar as they weigh its recent share perform"
-    },
-    {
-      "title": "Aura Minerals Enters New Phase With Record Output And Growth Plans",
-      "description": "Aura Minerals reported record gold production and record EBITDA in its latest update. The company secured a key license that supports an 82% reserve increase at the Borborema project. Aura completed the MSG acquisition, aimed at increasing near term production capacity. S&P upgraded Aura’s global cr",
-      "url": "https://finance.yahoo.com/news/aura-minerals-enters-phase-record-170623929.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T17:06:23+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Aura Minerals reported record gold production and record EBITDA in its latest update. The company secured a key license that supports an 82% reserve increase at the Borborema project. Aura completed t"
-    },
-    {
-      "title": "1 Bank Stock Worth Investigating and 2 We Ignore",
-      "description": "Banks play a critical role in the financial system, providing everything from commercial loans to wealth management and payment processing services. But concerns about loan losses and tightening regulations have tempered enthusiasm, and over the past six months, the banking industry has pulled back ",
-      "url": "https://finance.yahoo.com/news/1-bank-stock-worth-investigating-170017521.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T17:00:17+00:00",
-      "category": "USA",
-      "simple_explanation": "Banks play a critical role in the financial system, providing everything from commercial loans to wealth management and payment processing services. But concerns about loan losses and tightening regul"
-    },
-    {
-      "title": "Forget US Dominance for Now: EFA Outperforms SPY With 2.34% Gain While S&P Slips",
-      "description": "US stocks entered 2026 on the back foot, with the S&P 500 down 1.4% year-to-date through early March. Over that same stretch, developed international equities moved in the other direction. For retirees managing sequence-of-returns risk, that divergence is exactly why geographic diversification exist",
-      "url": "https://247wallst.com/investing/2026/03/09/forget-us-dominance-for-now-efa-outperforms-spy-with-2-34-gain-while-sp-slips/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T16:55:39+00:00",
-      "category": "USA",
-      "simple_explanation": "US stocks entered 2026 on the back foot, with the S&P 500 down 1.4% year-to-date through early March. Over that same stretch, developed international equities moved in the other direction. For retiree"
-    },
-    {
-      "title": "Nvidia Draws $350 Million Bet as Tesla Billionaire Doubles Stake to 2 Million Shares",
-      "description": "Leo KoGuan adds 1 million Nvidia shares, bringing his total stake to 2 million amid global market volatility tied to Middle East tensions.",
-      "url": "https://finance.yahoo.com/news/nvidia-draws-350-million-bet-164820841.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T16:48:20+00:00",
-      "category": "USA",
-      "simple_explanation": "Leo KoGuan adds 1 million Nvidia shares, bringing his total stake to 2 million amid global market volatility tied to Middle East tensions."
-    },
-    {
-      "title": "Seventh U.S. service member killed in Iran war ID'd as Sgt. Benjamin Pennington",
-      "description": "Pennington, 26, from Glendale, Kentucky, was wounded on March 1 during an Iranian strike at Prince Sultan Air Base in Saudi Arabia. He died on Sunday.",
-      "url": "https://www.cnbc.com/2026/03/09/iran-war-us-service-deaths-army-sgt-benjamin-pennington.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-09T16:48:07+00:00",
-      "category": "USA",
-      "simple_explanation": "Pennington, 26, from Glendale, Kentucky, was wounded on March 1 during an Iranian strike at Prince Sultan Air Base in Saudi Arabia. He died on Sunday."
     },
     {
       "title": "Small-cap stock under  ₹50 allots equity against warrants to this Mauritius-based FII",
@@ -213,26 +333,6 @@
       "simple_explanation": "Bhatia Communications &amp; Retail's board approved the allotment of 1.05 crore equity shares at  ₹23.75 each, following warrant conversions. The company received  ₹18.70 crore from allottees, includi"
     },
     {
-      "title": "‘Big Short’ investor Michael Burry made a million-dollar bet on gold and won. Will the gold rush continue in 2026?",
-      "description": "A bullish bet on a safe haven asset.",
-      "url": "https://finance.yahoo.com/news/big-short-investor-michael-burry-164000671.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T16:40:00+00:00",
-      "category": "USA",
-      "simple_explanation": "A bullish bet on a safe haven asset."
-    },
-    {
-      "title": "You can't pick a stock market bottom, so do this instead",
-      "description": "No one can pick a stock market bottom (^DJI, ^GSPC, ^IXIC). So, what can you do with oil prices (CL=F, BZ=F) surging far above $100 per barrel over the weekend? Your homework. Yahoo Finance Executive Editor Brian Sozzi took to X to explain further. To watch more expert insights and analysis on the l",
-      "url": "https://finance.yahoo.com/video/cant-pick-stock-market-bottom-163358038.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T16:33:58+00:00",
-      "category": "USA",
-      "simple_explanation": "No one can pick a stock market bottom (^DJI, ^GSPC, ^IXIC). So, what can you do with oil prices (CL=F, BZ=F) surging far above $100 per barrel over the weekend? Your homework. Yahoo Finance Executive "
-    },
-    {
       "title": "US Stocks: Nasdaq teams up with Kraken to expand tokenization infrastructure",
       "description": "Nasdaq on ​Monday announced it will collaborate ​with Payward, parent company of cryptocurrency exchange Kraken, to ​develop tokenization infrastructure, aiming to capitalize on the growing interest in blockchain-based equities.",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-teams-up-with-kraken-to-expand-tokenization-infrastructure/articleshow/129344339.cms",
@@ -241,16 +341,6 @@
       "published_at": "2026-03-09T16:25:01+00:00",
       "category": "India",
       "simple_explanation": "Nasdaq on ​Monday announced it will collaborate ​with Payward, parent company of cryptocurrency exchange Kraken, to ​develop tokenization infrastructure, aiming to capitalize on the growing interest i"
-    },
-    {
-      "title": "Why Newmont Mining Rallied in February",
-      "description": "Gold rose along with geopolitical tensions, and Newmont delivered an earnings beat.",
-      "url": "https://www.fool.com/investing/2026/03/09/why-newmont-mining-rallied-in-february/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T16:25:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold rose along with geopolitical tensions, and Newmont delivered an earnings beat."
     },
     {
       "title": "Bitcoin Climbs in Break With Stocks Amid Inflation Concerns",
@@ -263,16 +353,6 @@
       "simple_explanation": "“Oil’s rally and the inflation concerns it raises have put Bitcoin’s hedge credentials back in focus,” said Jake Ostrovskis, head of over-the-counter trading at Wintermute.  Until last week, the trend"
     },
     {
-      "title": "Basic Materials Roundup: Market Talk",
-      "description": "Find insight on Rox Resources, miners’ output trends and more in the latest Market Talks covering basic materials.",
-      "url": "https://finance.yahoo.com/m/be709fda-64f4-304f-8892-2d3e24cd92f0/basic-materials-roundup%3A.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T16:24:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Find insight on Rox Resources, miners’ output trends and more in the latest Market Talks covering basic materials."
-    },
-    {
       "title": "Adani Power, Cochin Shipyard, Hyundai Motor India among six stocks to enter F&O segment from April 1",
       "description": "The NSE has announced the inclusion of six stocks, including Adani Power and Hyundai Motor India, in the F&amp;O segment effective April 1, 2026.",
       "url": "https://www.livemint.com/market/stock-market-news/adani-power-cochin-shipyard-hyundai-motor-india-among-six-stocks-to-enter-f-o-segment-from-april-1-11773072053726.html",
@@ -281,16 +361,6 @@
       "published_at": "2026-03-09T16:18:15+00:00",
       "category": "India",
       "simple_explanation": "The NSE has announced the inclusion of six stocks, including Adani Power and Hyundai Motor India, in the F&amp;O segment effective April 1, 2026."
-    },
-    {
-      "title": "US Equity Indexes Fall as Crude Oil Touches 4-Year High",
-      "description": "US equity indexes declined in midday trading Monday as crude oil futures spiked amid an escalation o",
-      "url": "https://finance.yahoo.com/news/us-equity-indexes-fall-crude-161541640.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T16:15:41+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity indexes declined in midday trading Monday as crude oil futures spiked amid an escalation o"
     },
     {
       "title": "Ether holds $2K as traders make push toward overhead short liquidity",
@@ -331,76 +401,6 @@
       "published_at": "2026-03-09T16:01:00+00:00",
       "category": "Crypto",
       "simple_explanation": "With tech companies like Block and Oracle pulling the trigger, will you make the cut?"
-    },
-    {
-      "title": "EU’s regulated blockchain securities market adds first bank participant",
-      "description": "Swiss crypto bank Amina has joined 21X as a regulated banking participant, linking traditional financial institutions with a blockchain-based market for issuing tokenized securities.",
-      "url": "https://cointelegraph.com/news/amina-bank-eu-blockchain-securities-market-21x?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2QzMWItMjQzYy03Y2I0LThiMmYtOGIzZWI2MjE2NjU5LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-09T15:58:58+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Swiss crypto bank Amina has joined 21X as a regulated banking participant, linking traditional financial institutions with a blockchain-based market for issuing tokenized securities."
-    },
-    {
-      "title": "Short-Term Shock or Long-Term Threat: Why the Duration of the Iran War Is the Only Market Question That Matters This Week",
-      "description": "While the conflict in Iran has led to a decline in major market indexes, investors have remained hopeful that it will prove short-lived.",
-      "url": "https://www.fool.com/investing/2026/03/09/short-term-shock-or-long-term-threat-why-the-durat/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-09T15:50:25+00:00",
-      "category": "USA",
-      "simple_explanation": "While the conflict in Iran has led to a decline in major market indexes, investors have remained hopeful that it will prove short-lived."
-    },
-    {
-      "title": "Gold, silver rates today: Comex gold drops $80/oz; silver down $4.70 as US Fed rate-cut hopes fade",
-      "description": "9 March saw precious metals decline amid a stronger dollar, with gold and silver futures trading significantly lower. Crude oil prices surged amid supply concerns, leading to inflation fears. Investors are monitoring upcoming economic data that may affect Federal Reserve's interest rate decisions.",
-      "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-drops-80-oz-silver-down-4-70-as-us-fed-rate-cut-hopes-fade-11773068427081.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/zlataky-cz-44ewivJ9t1k-unsplash_1646898717970_1703840267489_1773068654884.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-03-09T15:34:10+00:00",
-      "category": "India",
-      "simple_explanation": "9 March saw precious metals decline amid a stronger dollar, with gold and silver futures trading significantly lower. Crude oil prices surged amid supply concerns, leading to inflation fears. Investor"
-    },
-    {
-      "title": "Market Trading Guide: Apollo Pipes among 3 stock recommendations for Tuesday",
-      "description": "Sensex and Nifty plunged nearly 2% as rising crude oil prices, weak global cues and escalating West Asia tensions triggered heavy selling. Foreign fund outflows and a weaker rupee added pressure. Analysts recommend Apollo Pipes, Aurobindo Pharma and Tata Steel for potential short-term gains.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-apollo-pipes-among-3-stock-recommendations-for-tuesday/slideshow/129343191.cms",
-      "image": "https://img.etimg.com/photo/msid-129341340,imgsize-494192.cms",
-      "source": "Economic Times",
-      "published_at": "2026-03-09T15:16:34+00:00",
-      "category": "India",
-      "simple_explanation": "Sensex and Nifty plunged nearly 2% as rising crude oil prices, weak global cues and escalating West Asia tensions triggered heavy selling. Foreign fund outflows and a weaker rupee added pressure. Anal"
-    },
-    {
-      "title": "Congressional Democrats demand reversal of Russian oil sales into India as energy prices soar",
-      "description": "Russia is reportedly helping Iran target U.S. forces in the Middle East and could now benefit from a windfall of new oil and gas sales.",
-      "url": "https://www.cnbc.com/2026/03/09/bessent-russian-oil-sales-india.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-09T15:14:17+00:00",
-      "category": "USA",
-      "simple_explanation": "Russia is reportedly helping Iran target U.S. forces in the Middle East and could now benefit from a windfall of new oil and gas sales."
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-      "description": "Indian stocks extended losses as the Middle East conflict pushed crude prices near $120, raising inflation and growth concerns. Analysts say pharma and IT buying offered some support, while markets remain volatile with key Nifty support seen around 23,700.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/129341195.cms",
-      "image": "https://img.etimg.com/photo/msid-129341195,imgsize-110642.cms",
-      "source": "Economic Times",
-      "published_at": "2026-03-09T15:13:16+00:00",
-      "category": "India",
-      "simple_explanation": "Indian stocks extended losses as the Middle East conflict pushed crude prices near $120, raising inflation and growth concerns. Analysts say pharma and IT buying offered some support, while markets re"
-    },
-    {
-      "title": "As crude spikes and markets slide, here are six burning questions on investors' minds",
-      "description": "Monday's bruising session has left investors nursing their wounds and scratching their heads. We address six of the biggest questions on their minds.",
-      "url": "https://www.livemint.com/market/stock-market-crash-brent-crude-price-11773063424792.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/Stock_market_crash-pixabay_1734576801522_1773068588291.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-03-09T15:09:41+00:00",
-      "category": "India",
-      "simple_explanation": "Monday's bruising session has left investors nursing their wounds and scratching their heads. We address six of the biggest questions on their minds."
     }
   ]
 }
