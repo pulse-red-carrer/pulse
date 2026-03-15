@@ -1,16 +1,126 @@
 {
-  "last_updated": "2026-03-15T15:55:19.720469+00:00",
+  "last_updated": "2026-03-15T17:01:51.898576+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Vitalik Buterin promotes an update simplifying Ethereum node software",
+      "description": "The blockchain co-founder said the goal is to make the \"self-sovereign\" method of Ethereum users running their own nodes a user-friendly experience.",
+      "url": "https://cointelegraph.com/news/vitalik-buterin-simplify-ethereum-node?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2YyMzMtNDMwMy03NjlmLTgxMzItMjA0NjkxMzg5YmVjLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-15T16:47:31+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The blockchain co-founder said the goal is to make the \"self-sovereign\" method of Ethereum users running their own nodes a user-friendly experience."
+    },
+    {
+      "title": "Dow Jones Futures Due, Oil Prices Eye $100 Amid Iran War; Nvidia GTC, Micron Earnings Ahead",
+      "description": "The stock market is close to breaking as the Iran war pushes oil prices toward $100. Nvidia GTC, Micron earnings loom.",
+      "url": "https://finance.yahoo.com/m/cb03c9e2-36cb-3935-874a-11f3d5b70bb4/dow-jones-futures-due%2C-oil.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-15T16:35:22+00:00",
+      "category": "USA",
+      "simple_explanation": "The stock market is close to breaking as the Iran war pushes oil prices toward $100. Nvidia GTC, Micron earnings loom."
+    },
+    {
+      "title": "2 Brilliant Growth Stocks to Buy Now and Hold for the Long Term",
+      "description": "These consumer goods growth stocks look poised to beat the S&P 500 in the long run.",
+      "url": "https://www.fool.com/investing/2026/03/15/2-brilliant-growth-stocks-to-buy-now-and-hold-for/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-15T16:35:00+00:00",
+      "category": "USA",
+      "simple_explanation": "These consumer goods growth stocks look poised to beat the S&P 500 in the long run."
+    },
+    {
+      "title": "The SPDR Gold ETF Has Been Good to Long-Term Investors. Here's Why.",
+      "description": "Investors have had to be patient to reap rewards.",
+      "url": "https://www.fool.com/investing/2026/03/15/the-spdr-gold-etf-has-been-good-to-long-term-inves/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-15T16:28:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Investors have had to be patient to reap rewards."
+    },
+    {
+      "title": "Oil poised for further gains as Middle East conflict threatens export facilities",
+      "description": "By Florence Tan and Shariq Khan SINGAPORE/NEW YORK, March 15 (Reuters) - Oil prices could extend gains at Monday's open as the U.S.-Israeli war against Iran entered a third week, putting oil",
+      "url": "https://ca.finance.yahoo.com/news/oil-poised-further-gains-middle-094028705.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-15T16:14:22+00:00",
+      "category": "Commodities",
+      "simple_explanation": "By Florence Tan and Shariq Khan SINGAPORE/NEW YORK, March 15 (Reuters) - Oil prices could extend gains at Monday's open as the U.S.-Israeli war against Iran entered a third week, putting oil"
+    },
+    {
+      "title": "Does This Stock Have the Most Impregnable Defenses in Finance?",
+      "description": "At the center of global capital markets sits a quiet powerhouse that processes trillions in daily transactions across stocks, oil, interest-rate swaps, and more — quietly enabling price discovery, ensuring trades settle reliably, and delivering the essential data and indices that institutions depend",
+      "url": "https://247wallst.com/investing/2026/03/15/does-this-stock-have-the-most-impregnable-defenses-in-finance/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-15T16:05:38+00:00",
+      "category": "Commodities",
+      "simple_explanation": "At the center of global capital markets sits a quiet powerhouse that processes trillions in daily transactions across stocks, oil, interest-rate swaps, and more — quietly enabling price discovery, ens"
+    },
+    {
+      "title": "VONG or SPYM: Which Stock ETF Is a Better Buy?",
+      "description": "VONG is a low-cost tech-heavy U.S. stock index fund -- but if you're wary of too much tech in your portfolio, SPYM could be better.",
+      "url": "https://www.fool.com/investing/2026/03/15/vong-or-spym-which-stock-etf-is-a-better-buy/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-15T16:05:00+00:00",
+      "category": "USA",
+      "simple_explanation": "VONG is a low-cost tech-heavy U.S. stock index fund -- but if you're wary of too much tech in your portfolio, SPYM could be better."
+    },
+    {
+      "title": "NICE Stock Fell Over 20% Last Quarter. One Investor Exited a $3 Million Position",
+      "description": "This cloud software provider delivers AI-driven platforms for customer engagement, compliance, and automation to global enterprises.",
+      "url": "https://www.fool.com/coverage/filings/2026/03/15/nice-stock-fell-over-20-last-quarter-one-investor-exited-a-usd3-million-position/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-15T16:04:08+00:00",
+      "category": "USA",
+      "simple_explanation": "This cloud software provider delivers AI-driven platforms for customer engagement, compliance, and automation to global enterprises."
+    },
     {
       "title": "Trump weighing options to strike Iran's critical oil hub, UN Ambassador Waltz says",
       "description": "Israel says it has killed two senior Iranian intelligence officials as oil loading reportedly resumes in the UAE's Fujairah port following a fire.",
       "url": "https://www.cnbc.com/2026/03/15/iran-war.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-03-15T15:45:58+00:00",
+      "published_at": "2026-03-15T15:56:50+00:00",
       "category": "USA",
       "simple_explanation": "Israel says it has killed two senior Iranian intelligence officials as oil loading reportedly resumes in the UAE's Fujairah port following a fire."
+    },
+    {
+      "title": "1 Dividend ETF to Buy Hand Over Fist and 1 to Avoid",
+      "description": "The top-performing dividend stocks grow their payouts.",
+      "url": "https://www.fool.com/investing/2026/03/15/1-dividend-etf-to-buy-hand-over-fist-and-1-to-avoi/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-15T15:55:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The top-performing dividend stocks grow their payouts."
+    },
+    {
+      "title": "IEA says 411.9 million barrels of oil from emergency reserves to be released",
+      "description": "Investing.com — Oil from the International Energy Agency’s emergency reserves will begin flowing to global markets soon, after member countries pledged to make available 411.9 million barrels, the agency said in a statement on Sunday.",
+      "url": "https://finance.yahoo.com/news/iea-says-411-9-million-155306762.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-15T15:53:06+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Investing.com — Oil from the International Energy Agency’s emergency reserves will begin flowing to global markets soon, after member countries pledged to make available 411.9 million barrels, the age"
+    },
+    {
+      "title": "Trump suggests Iran ready to end war as Tehran sees no talks",
+      "description": "Separately, Iranian Foreign Minister Abbas Araghchi said the Islamic Republic hasn’t asked for talks or a ceasefire.  “Iran wants to make a deal, and I don’t want to make it because the terms aren’t good enough yet,” Trump told NBC on Saturday, saying that a “very solid” agreement would have to incl",
+      "url": "https://finance.yahoo.com/news/trump-asserts-iran-wants-deal-093644342.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-15T15:52:56+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Separately, Iranian Foreign Minister Abbas Araghchi said the Islamic Republic hasn’t asked for talks or a ceasefire.  “Iran wants to make a deal, and I don’t want to make it because the terms aren’t g"
     },
     {
       "title": "A 'dividend' for your crypto? Wall Street's newest way to sweeten the deal for ETF holders",
@@ -23,16 +133,6 @@
       "simple_explanation": "Crypto investors are turning to yield-bearing digital asset products."
     },
     {
-      "title": "Dow Jones Futures Due, Oil Prices Eye $100 Amid Iran War; Nvidia GTC, Micron Earnings Ahead",
-      "description": "The stock market is close to breaking as the Iran war pushes oil prices toward $100. Nvidia GTC, Micron earnings loom.",
-      "url": "https://finance.yahoo.com/m/cb03c9e2-36cb-3935-874a-11f3d5b70bb4/dow-jones-futures-due%2C-oil.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-15T15:21:56+00:00",
-      "category": "USA",
-      "simple_explanation": "The stock market is close to breaking as the Iran war pushes oil prices toward $100. Nvidia GTC, Micron earnings loom."
-    },
-    {
       "title": "Bitcoin price teases key support reclaims with weekly close above $70K",
       "description": "Bitcoin edged toward an important weekly close above $70,000 that would include a reclaim of an important 200-week trend line.",
       "url": "https://cointelegraph.com/news/bitcoin-price-teases-key-support-reclaims-weekly-close-above-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -41,16 +141,6 @@
       "published_at": "2026-03-15T15:12:03+00:00",
       "category": "Crypto",
       "simple_explanation": "Bitcoin edged toward an important weekly close above $70,000 that would include a reclaim of an important 200-week trend line."
-    },
-    {
-      "title": "This Internet Infrastructure Stock Plunged 72% in a Year, so Why Did an Investor Buy Up $12 Million?",
-      "description": "Cogent Communications delivers high-speed internet and data center services to commercial clients across multiple continents.",
-      "url": "https://www.fool.com/coverage/filings/2026/03/15/this-internet-infrastructure-stock-plunged-72-in-a-year-so-why-did-an-investor-buy-up-usd12-million/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-15T15:01:26+00:00",
-      "category": "USA",
-      "simple_explanation": "Cogent Communications delivers high-speed internet and data center services to commercial clients across multiple continents."
     },
     {
       "title": "How will the oil disruption matter for consumer spending?",
@@ -73,16 +163,6 @@
       "simple_explanation": "The Iran war and President Trump's tariff and trade policy may take a back seat to an imminent change at America's foremost financial institution."
     },
     {
-      "title": "Kurdish Authorities Reject Baghdad Request to Restart Oil Exports via Ceyhan",
-      "description": "Iraq’s request that the Kurdistan Region restart exports of around 300,000 barrels of oil a day through the pipeline linking the northern part of the country to Turkey’s Ceyhan port has been rejected.  Baghdad had called for an immediate restart of exports through the Kurdistan pipeline network, but",
-      "url": "https://finance.yahoo.com/m/9a7b22de-d9b7-3514-a165-c2f825452af5/kurdish-authorities-reject.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-15T14:23:01+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Iraq’s request that the Kurdistan Region restart exports of around 300,000 barrels of oil a day through the pipeline linking the northern part of the country to Turkey’s Ceyhan port has been rejected."
-    },
-    {
       "title": "How Bitcoin and Gold reacted differently to the Iran war shock",
       "description": "During the Iran conflict, gold attracted safe-haven demand, while Bitcoin’s reaction reflected liquidity conditions and broader market sentiment rather than acting as a classic crisis hedge.",
       "url": "https://cointelegraph.com/news/how-bitcoin-and-gold-reacted-differently-to-the-iran-war-shock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -91,6 +171,16 @@
       "published_at": "2026-03-15T14:16:22+00:00",
       "category": "Crypto",
       "simple_explanation": "During the Iran conflict, gold attracted safe-haven demand, while Bitcoin’s reaction reflected liquidity conditions and broader market sentiment rather than acting as a classic crisis hedge."
+    },
+    {
+      "title": "Polymarket Five-Minute Bets Capture ‘Addictive’ Crypto Craze",
+      "description": "Now, crypto traders are compressing that time even further — making bets that barely outlast a coffee break.  On prediction markets platform Polymarket, you can bet on where Bitcoin will be five or 15 minutes from now.  The rules are as simple as a coin flip: pick whether Bitcoin will be higher or l",
+      "url": "https://finance.yahoo.com/news/polymarket-five-minute-bets-capture-140000351.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-15T14:00:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Now, crypto traders are compressing that time even further — making bets that barely outlast a coffee break.  On prediction markets platform Polymarket, you can bet on where Bitcoin will be five or 15"
     },
     {
       "title": "Forensic analysis uncovers draft of $5M deal tied to Milei’s Libra promotion: Report",
@@ -103,36 +193,6 @@
       "simple_explanation": "Forensic analysis of lobbyist Mauricio Novelli’s phone reportedly uncovered a draft document outlining a $5 million payment tied to Milei’s promotion of the Libra token."
     },
     {
-      "title": "Is the iShares MSCI USA Quality GARP ETF the Smartest Investment You Can Make in March?",
-      "description": "It is a good time for growth at a reasonable price.",
-      "url": "https://www.fool.com/investing/2026/03/15/is-the-ishares-msci-usa-quality-garp-etf-the-smart/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-15T13:45:00+00:00",
-      "category": "USA",
-      "simple_explanation": "It is a good time for growth at a reasonable price."
-    },
-    {
-      "title": "Gulf stocks slip as Iran war enters third week",
-      "description": "Investing.com – Most Gulf equity markets ended lower on Sunday as the U.S.-Israeli war with Iran entered its third week, raising concerns about regional stability and energy supplies.",
-      "url": "https://finance.yahoo.com/news/gulf-stocks-slip-iran-war-134251297.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-15T13:42:51+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Investing.com – Most Gulf equity markets ended lower on Sunday as the U.S.-Israeli war with Iran entered its third week, raising concerns about regional stability and energy supplies."
-    },
-    {
-      "title": "'The straw that stirs the drink': Wall Street weighs impact of surging oil prices",
-      "description": "With oil roughly $20 per barrel higher than before the Iran war began, Wall Street is factoring in the impact of rising energy prices on inflation, bond yields, and risk appetite.",
-      "url": "https://finance.yahoo.com/news/the-straw-that-stirs-the-drink-wall-street-weighs-impact-of-surging-oil-prices-133021522.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-15T13:19:38+00:00",
-      "category": "USA",
-      "simple_explanation": "With oil roughly $20 per barrel higher than before the Iran war began, Wall Street is factoring in the impact of rising energy prices on inflation, bond yields, and risk appetite."
-    },
-    {
       "title": "Here’s what happened in crypto today",
       "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -143,16 +203,6 @@
       "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
     },
     {
-      "title": "Rising Oil Prices Could Erase Your Tax Refund Gains",
-      "description": "Many Americans hoping to receive a number of tax advantages from the passage of the OBBBA in 2025 may see those gains disappear if oil prices continue to climb.",
-      "url": "https://finance.yahoo.com/news/rising-oil-prices-could-erase-131104310.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-15T13:11:04+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Many Americans hoping to receive a number of tax advantages from the passage of the OBBBA in 2025 may see those gains disappear if oil prices continue to climb."
-    },
-    {
       "title": "Wall St Week Ahead-Investors await Fed rate outlook as Iran war keeps markets on edge",
       "description": "Fed members will grapple in their two-day meeting with questions about the energy shock's impact on inflation and economic growth. The central bank will release economic projections on Wednesday.",
       "url": "https://www.livemint.com/market/wall-st-week-ahead-investors-await-fed-rate-outlook-as-iran-war-keeps-markets-on-edge-11773579727307.html",
@@ -161,16 +211,6 @@
       "published_at": "2026-03-15T13:02:06+00:00",
       "category": "India",
       "simple_explanation": "Fed members will grapple in their two-day meeting with questions about the energy shock's impact on inflation and economic growth. The central bank will release economic projections on Wednesday."
-    },
-    {
-      "title": "Bitcoin Price Prediction: We Asked 5 AI Models if Bitcoin Will Hit $100K Again in 2026—Only One Said No",
-      "description": "Bitcoin (CRYPTO: BTC) started 2026 above $93,000, but briefly crashed to $60,000 in February after the U.S. and Israel launched strikes against Iran, hammering risk assets across the board. It’s since bounced back to around $70,000, which is still 25% below where it started the year—and well short o",
-      "url": "https://247wallst.com/investing/2026/03/15/bitcoin-price-prediction-we-asked-5-ai-models-if-bitcoin-will-hit-100k-again-in-2026-only-one-said-no/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-15T12:49:27+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin (CRYPTO: BTC) started 2026 above $93,000, but briefly crashed to $60,000 in February after the U.S. and Israel launched strikes against Iran, hammering risk assets across the board. It’s since"
     },
     {
       "title": "Global week ahead: Price pressure in the pipeline",
@@ -283,6 +323,16 @@
       "simple_explanation": "When the market turns red, you can find security in stable blue chip stocks."
     },
     {
+      "title": "Ray Dalio says America is in a ‘debt death spiral’ and the war with Iran could make it worse. How to protect your assets",
+      "description": "It all comes down to inflation and debt.",
+      "url": "https://finance.yahoo.com/news/ray-dalio-says-america-debt-101100408.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-15T10:11:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "It all comes down to inflation and debt."
+    },
+    {
       "title": "Market crash wipes Rs 34 lakh cr in March so far; can tax harvesting help investors?",
       "description": "Amidst market volatility, investors can leverage tax harvesting to mitigate losses and reduce tax liabilities. Tax loss harvesting involves selling losing stocks to offset future gains, while tax gain harvesting allows for partial selling to stay within tax exemption limits. These strategies offer o",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-crash-wipes-rs-34-lakh-cr-in-march-so-far-can-tax-harvesting-help-investors/articleshow/129587815.cms",
@@ -351,56 +401,6 @@
       "published_at": "2026-03-15T09:10:13+00:00",
       "category": "India",
       "simple_explanation": "Structural growth drivers—rising domestic consumption, continued infrastructure investment, digital transformation across industries, and improving corporate balance sheets—continue to support the med"
-    },
-    {
-      "title": "Altseason is dead, expect shorter cycles and ‘violent’ rotations: Crypto exec",
-      "description": "Only a few crypto tokens will experience price rallies and asymmetric upside, while broad altcoin market rallies are a thing of the past.",
-      "url": "https://cointelegraph.com/news/altseaon-dead-short-cycles-violent-rotation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY5NTktMjdmZi03NDBhLWEwODItZTY1ODE2NTI0YjFh.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-15T09:00:34+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Only a few crypto tokens will experience price rallies and asymmetric upside, while broad altcoin market rallies are a thing of the past."
-    },
-    {
-      "title": "Upcoming IPOs: GSP Crop Science IPO, Novus Loyalty IPO among three new issues to open next week; full list here",
-      "description": "Three companies are set to launch IPOs this week, including two mainboard and one SME IPO. Additionally, four new companies will debut. Full list here.",
-      "url": "https://www.livemint.com/market/ipo/upcoming-ipos-gsp-crop-science-ipo-novus-loyalty-ipo-among-three-new-issues-to-open-next-week-full-list-here-11773563168499.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/15/1600x900/logo/IPO_1739798199865_1773564928563.png",
-      "source": "LiveMint",
-      "published_at": "2026-03-15T09:00:30+00:00",
-      "category": "India",
-      "simple_explanation": "Three companies are set to launch IPOs this week, including two mainboard and one SME IPO. Additionally, four new companies will debut. Full list here."
-    },
-    {
-      "title": "Indian stock market: How's Sensex and Nifty 50 likely to move this week?",
-      "description": "Vinod Nair, Head of Research, Geojit Investments Limited, believes that market direction is likely to remain dominated by the Israel and US conflict with Iran and crude trends, given their knock-on effects on inflation, corporate margins, the current account, and RBI policy space",
-      "url": "https://www.livemint.com/market/stock-market-news/indian-stock-market-hows-sensex-and-nifty-50-likely-to-move-this-week-11773561316275.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/15/1600x900/logo/stock_1773562852951_1773562853093.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-03-15T08:55:58+00:00",
-      "category": "India",
-      "simple_explanation": "Vinod Nair, Head of Research, Geojit Investments Limited, believes that market direction is likely to remain dominated by the Israel and US conflict with Iran and crude trends, given their knock-on ef"
-    },
-    {
-      "title": "Oil prices to hit $150? How Indian stock markets may react as Iran war rages on",
-      "description": "Oil prices have surged past $100 per barrel amid escalating Iran–Israel tensions and fears of a prolonged closure of the Strait of Hormuz, a key global energy chokepoint. Analysts warn crude could climb to $150 if disruptions persist, raising inflation risks and pressuring Indian equities, which hav",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/oil-prices-to-hit-150-how-indian-stock-markets-may-react-as-iran-war-rages-on/articleshow/129587020.cms",
-      "image": "https://img.etimg.com/photo/msid-129587020,imgsize-107634.cms",
-      "source": "ET Markets",
-      "published_at": "2026-03-15T08:41:58+00:00",
-      "category": "India",
-      "simple_explanation": "Oil prices have surged past $100 per barrel amid escalating Iran–Israel tensions and fears of a prolonged closure of the Strait of Hormuz, a key global energy chokepoint. Analysts warn crude could cli"
-    },
-    {
-      "title": "Will the Trump Bull Market Come to an Abrupt End Due to the Iran War? History Offers Its Objective and Potentially Uncomfortable Take.",
-      "description": "The Trump-led Iran war presents a mixed bag for Wall Street.",
-      "url": "https://www.fool.com/investing/2026/03/15/trump-bull-market-an-abrupt-end-iran-war-history/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-15T08:26:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The Trump-led Iran war presents a mixed bag for Wall Street."
     }
   ]
 }
