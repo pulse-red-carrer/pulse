@@ -1,16 +1,276 @@
 {
-  "last_updated": "2026-03-19T21:00:59.188818+00:00",
+  "last_updated": "2026-03-19T23:00:59.862219+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Dow Jones Futures: Stocks Slash Losses, Oil Prices Fall Amid Trump, Netanyahu Iran War Comments",
-      "description": "Stocks came off 2026 lows and oil prices reversed lower amid Iran war comments from President Trump and Israeli PM Netanyahu. Tesla stock broke key levels.",
-      "url": "https://finance.yahoo.com/m/309cd0d9-0b3e-3394-9d80-10b568cc2062/dow-jones-futures%3A-stocks.html?.tsrc=rss",
+      "title": "U.S. tech execs smuggled Nvidia chips to China, prosecutors say",
+      "description": "The U.S. government has been trying to crack down on illegal shipments of top-tier Nvidia artificial intelligence chips to China.",
+      "url": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-19T22:58:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The U.S. government has been trying to crack down on illegal shipments of top-tier Nvidia artificial intelligence chips to China."
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb as Iran war, inflation jitters set to send stocks to another losing week",
+      "description": "The major gauges are on track for a losing week, despite a rebound on the cards from calming rhetoric from Isreal.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-iran-war-inflation-jitters-set-to-send-stocks-to-another-losing-week-225246338.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:46:28+00:00",
+      "published_at": "2026-03-19T22:52:46+00:00",
+      "category": "USA",
+      "simple_explanation": "The major gauges are on track for a losing week, despite a rebound on the cards from calming rhetoric from Isreal."
+    },
+    {
+      "title": "Stock Market Today, March 19: B2Gold Slides Following Steep Gold Price Drop",
+      "description": "Today, March 19, 2026, a sharp bullion sell-off and risk-off mood put pressure on gold miners.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/03/19/stock-market-today-march-19-b2gold-slides-following-steep-gold-price-drop/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T22:42:50+00:00",
+      "category": "USA",
+      "simple_explanation": "Today, March 19, 2026, a sharp bullion sell-off and risk-off mood put pressure on gold miners."
+    },
+    {
+      "title": "The Morning Catch-Up: ASX set to ease as oil volatility drives sentiment",
+      "description": "Australian shares are set to open slightly lower, with ASX 200 futures pointing down 5 points or 0.1% to 8530 at around 7.30am AEDT, after recovering from earlier losses of more than 40 points. The cautious start follows a volatile session on Thursday, when the S&P/ASX 200 dropped 142.8...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1089195/the-morning-catch-up-asx-set-to-ease-as-oil-volatility-drives-sentiment-1089195.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T22:41:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Australian shares are set to open slightly lower, with ASX 200 futures pointing down 5 points or 0.1% to 8530 at around 7.30am AEDT, after recovering from earlier losses of more than 40 points. The ca"
+    },
+    {
+      "title": "Dow Jones Futures Rise; Stocks Slash Losses, Oil Prices Fall Amid Trump Iran War Comments",
+      "description": "Stocks came off 2026 lows and oil prices reversed lower amid Iran war comments from President Trump and Israeli PM Netanyahu. Tesla stock broke key levels.",
+      "url": "https://finance.yahoo.com/m/309cd0d9-0b3e-3394-9d80-10b568cc2062/dow-jones-futures-rise%3B.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T22:36:20+00:00",
       "category": "USA",
       "simple_explanation": "Stocks came off 2026 lows and oil prices reversed lower amid Iran war comments from President Trump and Israeli PM Netanyahu. Tesla stock broke key levels."
+    },
+    {
+      "title": "Should You Really Buy Artificial Intelligence Stocks Right Now? Evidence is Piling Up and Here's What it Says.",
+      "description": "AI companies are offering clues about what may lie ahead.",
+      "url": "https://www.fool.com/investing/2026/03/19/should-you-really-buy-ai-stocks-now/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T22:35:00+00:00",
+      "category": "USA",
+      "simple_explanation": "AI companies are offering clues about what may lie ahead."
+    },
+    {
+      "title": "2 Important Reminders for Investors as Crude Oil's Price Remains Volatile",
+      "description": "News and investor emotions are a potent mix that can lead investors to think short-term.",
+      "url": "https://www.fool.com/investing/2026/03/19/2-important-reminders-for-investors-as-crude-oils/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T22:35:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "News and investor emotions are a potent mix that can lead investors to think short-term."
+    },
+    {
+      "title": "Bitcoin price tussle at $70K may hint that market bottom is not in",
+      "description": "Bitcoin price dipped under $70,000, but a bull-friendly set-up on the lower time frames forecasts a swift rebound.",
+      "url": "https://cointelegraph.com/news/bitcoin-price-tussle-at-dollar70k-may-hint-that-market-bottom-is-not-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzhiYjYtNGEyMS03NmExLWIyZWUtZWUyZjViMjI3MjMxLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-19T22:31:55+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin price dipped under $70,000, but a bull-friendly set-up on the lower time frames forecasts a swift rebound."
+    },
+    {
+      "title": "Stock Market Today, March 19: AT&T Rises After Launch of AI-Powered Customer App",
+      "description": "AT&T rose after unveiling an AI-powered customer app and outlining broader digital initiatives, drawing attention to how telecom providers are using AI to improve customer engagement and operational efficiency.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/03/19/stock-market-today-march-19-att-rises-after-launching-ai-customer-app/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T22:26:07+00:00",
+      "category": "USA",
+      "simple_explanation": "AT&T rose after unveiling an AI-powered customer app and outlining broader digital initiatives, drawing attention to how telecom providers are using AI to improve customer engagement and operational e"
+    },
+    {
+      "title": "Figma's stock drops 12% in two days after Google releases 'vibe design' product",
+      "description": "Figma's stock has been getting hammered on concerns about AI, and Google's new design product is adding to that anxiety.",
+      "url": "https://www.cnbc.com/2026/03/19/figma-stock-drops-11percent-after-google-releases-vibe-design-product-stitch.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-19T22:25:06+00:00",
+      "category": "USA",
+      "simple_explanation": "Figma's stock has been getting hammered on concerns about AI, and Google's new design product is adding to that anxiety."
+    },
+    {
+      "title": "Wall Street ends down as traders see no rate cuts before 2027",
+      "description": "STORY: U.S. stocks ended lower on Thursday, with the Dow dropping just under half a percent, and the S&P 500 and Nasdaq each shedding more than a quarter of a percent.Investors remained cautious a day after Fed Chair Jerome Powell warned of economic uncertainty, with the Middle East conflict sending",
+      "url": "https://finance.yahoo.com/video/wall-street-ends-down-traders-221923056.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T22:19:23+00:00",
+      "category": "USA",
+      "simple_explanation": "STORY: U.S. stocks ended lower on Thursday, with the Dow dropping just under half a percent, and the S&P 500 and Nasdaq each shedding more than a quarter of a percent.Investors remained cautious a day"
+    },
+    {
+      "title": "Middle East war: global economic fallout",
+      "description": "Here are the latest economic events in the Middle East war:\n- Markets in turmoil -\nEnergy prices soared in volatile trading Thursday, while Wall Street stocks trimmed losses after Israeli Prime Minister Benjamin Netanyahu said the war with Iran could finish sooner than expected.Major Wall Street ind",
+      "url": "https://finance.yahoo.com/news/middle-east-war-global-economic-032243774.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T22:18:36+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Here are the latest economic events in the Middle East war:\n- Markets in turmoil -\nEnergy prices soared in volatile trading Thursday, while Wall Street stocks trimmed losses after Israeli Prime Minist"
+    },
+    {
+      "title": "Sanctuary Metals Expands Mission to Help Americans Protect Retirement Savings Through Precious Metals",
+      "description": "Sanctuary Metals, a precious metals firm focused on retirement protection strategies, today announced continued expansion of its mission to help American investors diversify retirement savings through physical gold and silver.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/sanctuary-metals-expands-mission-help-221400377.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T22:14:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Sanctuary Metals, a precious metals firm focused on retirement protection strategies, today announced continued expansion of its mission to help American investors diversify retirement savings through"
+    },
+    {
+      "title": "Bank of America has a stark message for investors buying the dip",
+      "description": "Stocks have bounced off recent lows this week as the market tries to stabilize after the sell-off triggered by the Iran war and rising oil prices. Bank of America is warning investors not to read too much into that rebound. In his March 17 Global Fund Manager Survey note, BofA chief investment ...",
+      "url": "https://www.thestreet.com/investing/bank-of-america-has-a-stark-message-for-investors-buying-the-dip?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T22:07:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Stocks have bounced off recent lows this week as the market tries to stabilize after the sell-off triggered by the Iran war and rising oil prices. Bank of America is warning investors not to read too "
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-19T22:05:42+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+    },
+    {
+      "title": "Iran Conflict Pushes Energy Costs Higher For MARA Holdings Bitcoin Mining",
+      "description": "Escalating conflict in Iran is pushing oil prices higher and increasing volatility across energy, equity and crypto markets. Higher energy costs could pressure power prices for Bitcoin miners, directly affecting profitability for MARA Holdings (NasdaqCM:MARA). This adds a new macro risk for MARA Hol",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/iran-conflict-pushes-energy-costs-220431331.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T22:04:31+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Escalating conflict in Iran is pushing oil prices higher and increasing volatility across energy, equity and crypto markets. Higher energy costs could pressure power prices for Bitcoin miners, directl"
+    },
+    {
+      "title": "Orla Mining Reports Fourth Quarter 2025 Financial Results",
+      "description": "Orla Mining Ltd. (TSX: OLA) (NYSE: ORLA) (\"Orla\" or the \"Company\") today announces the results for the fourth quarter and year ended December 31, 2025.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/orla-mining-reports-fourth-quarter-215400966.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T21:54:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Orla Mining Ltd. (TSX: OLA) (NYSE: ORLA) (\"Orla\" or the \"Company\") today announces the results for the fourth quarter and year ended December 31, 2025."
+    },
+    {
+      "title": "SEC interpretation on crypto laws ‘a beginning, not an end,‘ says Atkins",
+      "description": "The SEC chair signaled that the agency would defer to a market structure bill if passed by Congress, but needed a ”bridge” to clarify crypto regulation.",
+      "url": "https://cointelegraph.com/news/sec-interpretation-crypto-laws-paul-atkins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRmNzctOTgzNy03NGFhLTkzMjAtMDhjODRkOGQ1YTcw.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-19T21:53:20+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The SEC chair signaled that the agency would defer to a market structure bill if passed by Congress, but needed a ”bridge” to clarify crypto regulation."
+    },
+    {
+      "title": "Why Signet Jewelers Stock Jumped Today",
+      "description": "The diamond expert had a surprisingly solid holiday shopping season.",
+      "url": "https://www.fool.com/investing/2026/03/19/why-signet-jewelers-stock-is-up-today/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T21:50:56+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The diamond expert had a surprisingly solid holiday shopping season."
+    },
+    {
+      "title": "US Equity Indexes Off Session Lows After Trump Warns Iran Over Qatar",
+      "description": "US equity indexes fell on Thursday, although all three gauges were off session lows, while governmen",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-off-session-214839923.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T21:48:39+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity indexes fell on Thursday, although all three gauges were off session lows, while governmen"
+    },
+    {
+      "title": "BPI sounds alarm on 'backdoor' for hardware wallets in Kentucky crypto bill",
+      "description": "Provisions in the state legislation violate the core ethos and value proposition of Bitcoin as an asset that can be held in self-custody, the trade group said.",
+      "url": "https://cointelegraph.com/news/bpi-backdoor-hardware-wallets-kentucky-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDA3ZTItM2U5MC03Zjk1LTllZWMtYzVmZGU4ODYxZTBlLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-19T21:46:49+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Provisions in the state legislation violate the core ethos and value proposition of Bitcoin as an asset that can be held in self-custody, the trade group said."
+    },
+    {
+      "title": "Firefly Aerospace Beats Wall Street’s Sales Estimates. The Stock Is Up.",
+      "description": "Thursday afternoon, Firefly reported an operating loss of about $86 million from sales of $58 million.",
+      "url": "https://finance.yahoo.com/m/7559e78a-f095-39b0-86d7-de75a4eb5054/firefly-aerospace-beats-wall.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T21:41:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Thursday afternoon, Firefly reported an operating loss of about $86 million from sales of $58 million."
+    },
+    {
+      "title": "Stock Market Today, March 19: Brent Crude's $119 Spike Rattles Markets",
+      "description": "On March 19, 2026, gold’s slide pulls on Newmont, and oil shocks ripple through an already risk‑averse U.S. market.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/03/19/stock-market-today-march-19-brent-crude-s-usd119-spike-rattles-markets/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T21:39:22+00:00",
+      "category": "USA",
+      "simple_explanation": "On March 19, 2026, gold’s slide pulls on Newmont, and oil shocks ripple through an already risk‑averse U.S. market."
+    },
+    {
+      "title": "SOL treasury Forward industries buys back shares using crypto-backed debt",
+      "description": "The company is leveraging its crypto treasury to fund a share buyback, reducing outstanding shares and potentially boosting per-share value following a six-month slide.",
+      "url": "https://cointelegraph.com/news/forward-industries-solana-loan-share-buyback-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjJjYTUtNDNiZS03MmQwLTkxNGMtMzhiZDhlZTQ5NGNjLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-19T21:36:32+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The company is leveraging its crypto treasury to fund a share buyback, reducing outstanding shares and potentially boosting per-share value following a six-month slide."
+    },
+    {
+      "title": "Gold-Mining Stocks Erase 2026 Gains as Rate-Cut Bets Fade",
+      "description": "Global gold-mining stocks tumbled, and are now in the red for this year, as traders ratcheted back expectations for interest-rate cuts with oil prices surging amid the Iran war.",
+      "url": "https://www.livemint.com/market/goldmining-stocks-erase-2026-gains-as-rate-cut-bets-fade-11773955518536.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+      "source": "LiveMint",
+      "published_at": "2026-03-19T21:25:17+00:00",
+      "category": "India",
+      "simple_explanation": "Global gold-mining stocks tumbled, and are now in the red for this year, as traders ratcheted back expectations for interest-rate cuts with oil prices surging amid the Iran war."
+    },
+    {
+      "title": "The WSJ Dollar Index Falls 0.85% to 95.92",
+      "description": "1226 GMT – Sterling rises against the dollar and the euro after the Bank of England voted unanimously to leave interest rates on hold at 3.75%.  The BOE said it will “continue to monitor closely the situation in the Middle East and its impact on global energy supply and energy prices.”  1254 GMT – S",
+      "url": "https://finance.yahoo.com/m/9fb7fddb-6ddf-31c9-9e78-1f90cb3caa61/the-wsj-dollar-index-falls.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-19T21:22:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "1226 GMT – Sterling rises against the dollar and the euro after the Bank of England voted unanimously to leave interest rates on hold at 3.75%.  The BOE said it will “continue to monitor closely the s"
+    },
+    {
+      "title": "EtherFi turns to real-world assets for yield with $25M Plume allocation",
+      "description": "EtherFi will integrate Plume’s Nest vaults, beginning with exposure to a Superstate-backed fund and expanding to a dedicated RWA vault within its platform.",
+      "url": "https://cointelegraph.com/news/etherfi-turns-to-real-world-assets-for-yield-with-25m-plume-allocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDA3YjMtN2U3NC03MWE0LTg2YmItM2I4NGM1MjliNWMzLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-19T20:59:36+00:00",
+      "category": "Crypto",
+      "simple_explanation": "EtherFi will integrate Plume’s Nest vaults, beginning with exposure to a Superstate-backed fund and expanding to a dedicated RWA vault within its platform."
     },
     {
       "title": "Oil Ends Choppy Day With Gains as Futures Ease From Day’s Highs",
@@ -21,76 +281,6 @@
       "published_at": "2026-03-19T20:46:23+00:00",
       "category": "India",
       "simple_explanation": "The benchmark price of oil ultimately ended the day higher as escalating attacks in the Persian Gulf caused long-term damage to major energy facilities. Natural gas jumped."
-    },
-    {
-      "title": "Family Manage LLC Initiates 15.58 Million Position in TCW Flexible Income ETF, According to Recent SEC Filing",
-      "description": "The TCW Flexible Income ETF gives investors access to higher-yielding areas of the bond market through active positioning across credit and global sectors. Its appeal often comes from the potential to generate more income than traditional core bond funds, with results closely tied to how effectively",
-      "url": "https://www.fool.com/coverage/filings/2026/03/19/family-manage-llc-initiates-15-58-million-position-in-tcw-flexible-income-etf-according-to-recent-sec-filing/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:45:01+00:00",
-      "category": "USA",
-      "simple_explanation": "The TCW Flexible Income ETF gives investors access to higher-yielding areas of the bond market through active positioning across credit and global sectors. Its appeal often comes from the potential to"
-    },
-    {
-      "title": "Bitcoin Price Undercuts $70,000 As Higher-For-Longer Policy Weighs",
-      "description": "Bitcoin price retreats after Federal Reserve rate news, oil prices. SEC announces crypto definitions, approves Nasdaq tokenized trading.",
-      "url": "https://finance.yahoo.com/m/9e6f6695-6b00-325a-b3e9-a74bcc28046e/bitcoin-price-undercuts.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:39:22+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Bitcoin price retreats after Federal Reserve rate news, oil prices. SEC announces crypto definitions, approves Nasdaq tokenized trading."
-    },
-    {
-      "title": "DHT Holdings, Inc. has filed Form 20-F for 2025 with the U.S. Securities and Exchange Commission",
-      "description": "HAMILTON, BERMUDA, March 19, 2026 – DHT Holdings, Inc. (NYSE:DHT) (the “Company”) has filed its 2025 annual report on Form 20-F with the U.S. Securities and Exchange Commission (the “SEC”). The report and the audited financial statements are available on DHT’s website www.dhtankers.com and in the at",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dht-holdings-inc-filed-form-203900606.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:39:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "HAMILTON, BERMUDA, March 19, 2026 – DHT Holdings, Inc. (NYSE:DHT) (the “Company”) has filed its 2025 annual report on Form 20-F with the U.S. Securities and Exchange Commission (the “SEC”). The report"
-    },
-    {
-      "title": "Why Traders Expecting Profits From A Short-Term Spike In Gasoline Prices Could Be Disappointed",
-      "description": "Energy and gas prices are expected to remain high as fighting continues, with initial hopes of a short-lived spike subsiding.",
-      "url": "https://finance.yahoo.com/m/68622bc6-d717-3cc2-89ea-0b5193847f85/why-traders-expecting-profits.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:38:44+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Energy and gas prices are expected to remain high as fighting continues, with initial hopes of a short-lived spike subsiding."
-    },
-    {
-      "title": "New Break Awarded $200,000 OJEP Grant in Support of its Moray Gold Project",
-      "description": "Toronto, Ontario--(Newsfile Corp. - March 19, 2026) - New Break Resources Ltd. (CSE: NBRK) (FSE: O91) (\"New Break\" or the \"Company\") is pleased to announce that its 100% owned Moray gold project, located approximately 49 km southeast of Timmins, Ontario, was selected as one of 68 projects to receive",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/break-awarded-200-000-ojep-203600346.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:36:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Toronto, Ontario--(Newsfile Corp. - March 19, 2026) - New Break Resources Ltd. (CSE: NBRK) (FSE: O91) (\"New Break\" or the \"Company\") is pleased to announce that its 100% owned Moray gold project, loca"
-    },
-    {
-      "title": "5 Stocks That Historically Surge When Oil Prices Spike Above $100",
-      "description": "Oil prices have topped $100 a barrel four times in the last 20 years.",
-      "url": "https://www.fool.com/investing/2026/03/19/5-stocks-that-historically-surge-when-oil-prices-s/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:35:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil prices have topped $100 a barrel four times in the last 20 years."
-    },
-    {
-      "title": "Stock Market Today: Russell 2000 Leads As Market Claws Back Earlier Losses; Bank, Energy Stocks Up (Live Coverage)",
-      "description": "The Dow Jones index falls Thursday as oil prices jump. Micron stock plunges despite strong earnings.",
-      "url": "https://finance.yahoo.com/m/c3e12ded-26ca-3572-9c97-c2d111ff86d8/stock-market-today%3A-russell.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:34:58+00:00",
-      "category": "USA",
-      "simple_explanation": "The Dow Jones index falls Thursday as oil prices jump. Micron stock plunges despite strong earnings."
     },
     {
       "title": "Euro and yen gain, pushing dollar index lower following central bank decisions",
@@ -113,134 +303,14 @@
       "simple_explanation": "Anthony Scaramucci, the founder and managing partner of SkyBridge Capital, labeled Strategy Inc.‘s preferred stock issuance an “iPhone moment” that would trigger widespread Bitcoin adoption. Setting T"
     },
     {
-      "title": "$120 oil signals supply shock: by Oil & Gas 360",
-      "description": "(By Oil & Gas 360) – Global energy markets are entering a new phase of disruption as attacks on critical […]",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/120-oil-signals-supply-shock-203014252.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:30:14+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(By Oil & Gas 360) – Global energy markets are entering a new phase of disruption as attacks on critical […]"
-    },
-    {
-      "title": "FedEx beats on top and bottom lines, raises guidance on strong performance",
-      "description": "FedEx posted strong fiscal third quarter results on Thursday and raised its guidance following a strong performance.",
-      "url": "https://www.cnbc.com/2026/03/19/fedex-fdx-q3-2026-earnings.html",
+      "title": "Gold and silver sell-off accelerates as inflation fears grip global markets",
+      "description": "The metals shed around 5% and 10%, respectively, while mining stocks and ETFs linked to gold and silver also fell.",
+      "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-03-19T20:27:04+00:00",
+      "published_at": "2026-03-19T20:27:07+00:00",
       "category": "USA",
-      "simple_explanation": "FedEx posted strong fiscal third quarter results on Thursday and raised its guidance following a strong performance."
-    },
-    {
-      "title": "Microsoft Stock Has Been Absolutely Slammed This Year. Is It Finally Time to Buy?",
-      "description": "Microsoft's latest results were solid, but its soaring infrastructure costs are hard to ignore.",
-      "url": "https://www.fool.com/investing/2026/03/19/microsoft-stock-has-been-absolutely-slammed-this-y/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:23:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Microsoft's latest results were solid, but its soaring infrastructure costs are hard to ignore."
-    },
-    {
-      "title": "Wall Street finishes a losing day as oil prices ease",
-      "description": "Another broad decline in markets as attacks on Gulf energy sites sent energy prices soaring to three-year highs",
-      "url": "https://www.proactiveinvestors.com/companies/news/1089161/us-stocks-set-for-deepen-decline-as-middle-east-tensions-escalate-1089161.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:23:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Another broad decline in markets as attacks on Gulf energy sites sent energy prices soaring to three-year highs"
-    },
-    {
-      "title": "$166 a barrel? Middle East oil gives clue to where all prices could be headed if Iran war drags on",
-      "description": "A breakout of oil prices in Asia has left analysts debating whether U.S. crude could see further upside.",
-      "url": "https://www.cnbc.com/2026/03/19/166-a-barrel-middle-east-oil-gives-clue-to-where-all-prices-could-be-headed-if-iran-war-drags-on.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-19T20:22:16+00:00",
-      "category": "USA",
-      "simple_explanation": "A breakout of oil prices in Asia has left analysts debating whether U.S. crude could see further upside."
-    },
-    {
-      "title": "Pentagon Seeks $200 Billion for Iran War. Here’s What It Means for Defense Stocks.",
-      "description": "A proposed $200 billion Pentagon request tied to the Iran conflict could reshape defense spending in 2026 and 2027—and influence stocks like Lockheed Martin.",
-      "url": "https://finance.yahoo.com/m/5987b599-fcb7-3958-b3ba-64de93361e3b/pentagon-seeks-%24200-billion.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:21:00+00:00",
-      "category": "USA",
-      "simple_explanation": "A proposed $200 billion Pentagon request tied to the Iran conflict could reshape defense spending in 2026 and 2027—and influence stocks like Lockheed Martin."
-    },
-    {
-      "title": "FedEx Blows Away Earnings Estimates. The Stock Is Rising.",
-      "description": "Thursday evening, FedEx announced fiscal third-quarter earnings per share of $5.25 from sales of $24 billion.",
-      "url": "https://finance.yahoo.com/m/badc45be-b3b9-3188-948c-a7b8a6503b58/fedex-blows-away-earnings.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:21:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Thursday evening, FedEx announced fiscal third-quarter earnings per share of $5.25 from sales of $24 billion."
-    },
-    {
-      "title": "Stocks Decline and Brent Crude Retreats After Touching $119",
-      "description": "Oil and natural-gas prices remained elevated Thursday after the latest round of attacks on Middle Eastern energy facilities stoked fears of a full-blown energy crisis.  Oil and stocks both pared their moves after President Trump said he wouldn’t “put troops anywhere” when asked about moving forces t",
-      "url": "https://finance.yahoo.com/m/0d7101c8-8907-38a3-9004-aaa2663fe0c1/stocks-decline-and-brent.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:21:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil and natural-gas prices remained elevated Thursday after the latest round of attacks on Middle Eastern energy facilities stoked fears of a full-blown energy crisis.  Oil and stocks both pared their"
-    },
-    {
-      "title": "This Drone Stock Is Falling After an Eye-Popping IPO. What It’s Worth Is Hard to Say.",
-      "description": "Swarmer  stock is down in early trading on Thursday after two incredible days of gains.  The company sold shares in an initial public offering at $5 on Monday.  Swarmer only sold three million shares.",
-      "url": "https://finance.yahoo.com/m/f3c0b2f5-2102-3528-b7be-3003bb896fd4/this-drone-stock-is-falling.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:20:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Swarmer  stock is down in early trading on Thursday after two incredible days of gains.  The company sold shares in an initial public offering at $5 on Monday.  Swarmer only sold three million shares."
-    },
-    {
-      "title": "Netanyahu says Iran is being 'decimated' but revolution requires 'ground component'",
-      "description": "Netanyahu's comments came after President Donald Trump, speaking in the Oval Office, said earlier that he would not send U.S. troops to the Middle East.",
-      "url": "https://www.cnbc.com/2026/03/19/netanyahu-trump-us-israel-iran-ground-component.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-19T20:04:17+00:00",
-      "category": "USA",
-      "simple_explanation": "Netanyahu's comments came after President Donald Trump, speaking in the Oval Office, said earlier that he would not send U.S. troops to the Middle East."
-    },
-    {
-      "title": "Gold and Silver Plunge As Iran War Drags",
-      "description": "The same uncertainty that made gold a must-own is now the reason investors are cashing out.",
-      "url": "https://app.moby.co/home/news/news-gold-and-silver-plunge-as-iran-war-drags?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:01:52+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The same uncertainty that made gold a must-own is now the reason investors are cashing out."
-    },
-    {
-      "title": "Has gold lost its shine as a safe haven asset?",
-      "description": "Gold prices (GC=F) have seriously wavered as the Iran war drags on into its third week, the precious metal falling below $4,700 per ounce in Thursday trading. Yahoo Finance Senior Markets Reporter Ines Ferré lays out why gold may have lost its \"luster\" as a safe haven asset for many investors.",
-      "url": "https://finance.yahoo.com/video/gold-lost-shine-safe-haven-200000526.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T20:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold prices (GC=F) have seriously wavered as the Iran war drags on into its third week, the precious metal falling below $4,700 per ounce in Thursday trading. Yahoo Finance Senior Markets Reporter Ine"
-    },
-    {
-      "title": "Gold and Silver Fall as Iran War Damps Rate-Cut Hopes",
-      "description": "Gold fell as much as 6.6% before paring losses, with the decline putting it on track for its longest losing streak since 2023.  Roughly three weeks into the Iran war, soaring crude and gas prices are raising inflationary risks, making rate cuts by the Federal Reserve and other central banks less lik",
-      "url": "https://finance.yahoo.com/news/gold-edges-higher-dip-buyers-013013505.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-19T19:57:04+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold fell as much as 6.6% before paring losses, with the decline putting it on track for its longest losing streak since 2023.  Roughly three weeks into the Iran war, soaring crude and gas prices are "
+      "simple_explanation": "The metals shed around 5% and 10%, respectively, while mining stocks and ETFs linked to gold and silver also fell."
     },
     {
       "title": "Trump signals DOJ should continue Powell probe, complicating Warsh Fed nomination",
@@ -253,34 +323,14 @@
       "simple_explanation": "Powell has accused the DOJ of investigating him in retaliation for his refusal to lower interest rates as much or as quickly as Trump has demanded."
     },
     {
-      "title": "Bybit launches yield-bearing tokenized gold, expanding RWA yield market",
-      "description": "The crypto exchange is offering a yield product tied to Tether Gold (XAUT), signaling a shift toward turning traditionally passive assets like gold into income-generating instruments.",
-      "url": "https://cointelegraph.com/news/bybit-yield-tokenized-gold-xaut-rwa-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDA3NDItNjFhMy03ODRiLThiYjAtY2ZhMzI1MmZhOWY0LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-19T19:50:37+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The crypto exchange is offering a yield product tied to Tether Gold (XAUT), signaling a shift toward turning traditionally passive assets like gold into income-generating instruments."
-    },
-    {
-      "title": "Animoca invests in Ava Labs to boost Avalanche adoption in Asia, Middle East",
-      "description": "The Web3 company will provide capital, advisory support and business development to help Avalanche projects scale, with a focus on real-world assets and digital identity.",
-      "url": "https://cointelegraph.com/news/animoca-brands-invests-in-avax-partners-with-ava-labs-to-expand-avalanche-in-asia-and-middle-east?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDA3M2MtYzFjOC03ZjY2LTljZTUtMGNiNGIxMDE2YzIwLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-19T19:31:48+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The Web3 company will provide capital, advisory support and business development to help Avalanche projects scale, with a focus on real-world assets and digital identity."
-    },
-    {
-      "title": "Why Gold Royalty Plunged Today",
-      "description": "The streaming and royalty company released earnings last night, but larger factors played into a decline across the sector today.",
-      "url": "https://www.fool.com/investing/2026/03/19/why-gold-royalty-plunged-today/?.tsrc=rss",
+      "title": "Dollar and Precious Metals Slump on Hawkish Central Banks",
+      "description": "The dollar index (DXY00 ) on Thursday fell by -0.75%. The dollar was under pressure Thursday after the British pound, the euro, and the Japanese yen all rallied following hawkish comments from the BOE, ECB, and BOJ on the inflationary effects of soaring energy prices from the war in Iran....",
+      "url": "https://www.barchart.com/story/news/850587/dollar-and-precious-metals-slump-on-hawkish-central-banks?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-03-19T19:24:12+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The streaming and royalty company released earnings last night, but larger factors played into a decline across the sector today."
+      "published_at": "2026-03-19T19:33:39+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The dollar index (DXY00 ) on Thursday fell by -0.75%. The dollar was under pressure Thursday after the British pound, the euro, and the Japanese yen all rallied following hawkish comments from the BOE"
     },
     {
       "title": "Brent crude prices up but off highs, US oil prices briefly down amid volatile trading",
@@ -323,16 +373,6 @@
       "simple_explanation": "GLOBAL-MARKETS/ (WRAPUP 7, GRAPHICS):GLOBAL MARKETS-Stocks fall, crude gains as central banks hold steady"
     },
     {
-      "title": "Bitcoin bull market vibes emerge, but confirmation is missing: Glassnode",
-      "description": "Bitcoin markets have started to turn bullish again, but data shows that a key “bull market threshold” has not been established yet.",
-      "url": "https://cointelegraph.com/news/bitcoin-bull-market-vibes-emerge-but-confirmation-is-missing-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzM2MGMtNTAxMi03Y2QzLWIwOTMtYzdiOGUyZDFmMTBhLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-19T18:30:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin markets have started to turn bullish again, but data shows that a key “bull market threshold” has not been established yet."
-    },
-    {
       "title": "Gold, silver, bitcoin crash as safe-haven luster fades following Fed decision",
       "description": "Gold, silver, and crypto all took a beating on Thursday as their safe-haven luster faded.",
       "url": "https://finance.yahoo.com/news/gold-silver-bitcoin-crash-as-safe-haven-luster-fades-following-fed-decision-160420933.html?.tsrc=rss",
@@ -341,16 +381,6 @@
       "published_at": "2026-03-19T18:06:53+00:00",
       "category": "Crypto",
       "simple_explanation": "Gold, silver, and crypto all took a beating on Thursday as their safe-haven luster faded."
-    },
-    {
-      "title": "Singapore-based Ryde adopts crypto treasury strategy",
-      "description": "The carpool and ride-sharing platform, which already accepted Bitcoin for customer payment, moves to crypto treasury despite challenges of price declines.",
-      "url": "https://cointelegraph.com/news/singapore-ryde-crypto-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDA2ZjAtMDU0Yi03MTdlLWE5MjAtMWY4YzFiNThmMWY4LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-19T17:46:05+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The carpool and ride-sharing platform, which already accepted Bitcoin for customer payment, moves to crypto treasury despite challenges of price declines."
     },
     {
       "title": "Hegseth says potential $200 billion Iran war spending request could shift: 'Takes money to kill bad guys'",
@@ -371,36 +401,6 @@
       "published_at": "2026-03-19T17:33:41+00:00",
       "category": "India",
       "simple_explanation": "HDFC Bank's US-listed shares dipped further following the former chairman's sudden resignation, citing ethical concerns. Despite management's reassurances and a lack of specific details, investors rem"
-    },
-    {
-      "title": "Small-cap Vibhor Steel share price to be in focus on Friday as company secures  ₹17 crore order",
-      "description": "Vibhor Steel Tubes announced a new order worth  ₹16.87 crore for transmission towers from Agrawal Infracab Pvt Ltd, attracting investor interest. The company reported a 23% revenue increase in Q3FY26, although net profit fell to  ₹1.66 crore compared to last year.",
-      "url": "https://www.livemint.com/market/stock-market-news/smallcap-vibhor-steel-share-price-to-be-in-focus-on-friday-as-company-secures-rs-17-crore-order-11773940121291.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/gbcb6b736b5e0a503f1fc15715d084fe9c44819053b82b9eae_1750069076879_1773940145540.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-03-19T17:26:26+00:00",
-      "category": "India",
-      "simple_explanation": "Vibhor Steel Tubes announced a new order worth  ₹16.87 crore for transmission towers from Agrawal Infracab Pvt Ltd, attracting investor interest. The company reported a 23% revenue increase in Q3FY26,"
-    },
-    {
-      "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it",
-      "description": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries.",
-      "url": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-19T17:24:32+00:00",
-      "category": "USA",
-      "simple_explanation": "After major rallies, metals were under pressure on Thursday as rising oil prices increased both inflation and growth worries."
-    },
-    {
-      "title": "SBI, Amundi to offload 10% in SBI Funds IPO, no fresh shares to be issued",
-      "description": "SBI will offer up to 128.3 million shares, while Amundi SA will sell up to 75.3 million shares through its India affiliate, the offer document showed.",
-      "url": "https://www.livemint.com/market/ipo/sbi-amundi-stake-sale-mutual-fund-ipo-market-conditions-challenges-opportunities-11773937055193.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/INDIA-SBI-CHAIRMAN-17_1764587896892_1764587908950_1773940387496.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-03-19T17:18:49+00:00",
-      "category": "India",
-      "simple_explanation": "SBI will offer up to 128.3 million shares, while Amundi SA will sell up to 75.3 million shares through its India affiliate, the offer document showed."
     }
   ]
 }
