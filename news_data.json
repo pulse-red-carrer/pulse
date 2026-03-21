@@ -1,16 +1,86 @@
 {
-  "last_updated": "2026-03-21T17:54:02.203756+00:00",
+  "last_updated": "2026-03-21T19:04:09.233603+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Former special counsel Robert Mueller dies at 81",
-      "description": "Robert Mueller, former special counsel who investigated Russian interference in the 2016 presidential election, died Friday.",
+      "title": "OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities",
+      "description": "At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.",
+      "url": "https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-21T19:01:59+00:00",
+      "category": "USA",
+      "simple_explanation": "At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago."
+    },
+    {
+      "title": "Trump threatens to deploy ICE agents to airports if DHS shutdown doesn't end, while Elon Musk offers to cover TSA agents' pay",
+      "description": "President Trump claimed ICE agents handling airport security would arrest immigrants who are in the U.S. illegally.",
+      "url": "https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-21T18:56:09+00:00",
+      "category": "USA",
+      "simple_explanation": "President Trump claimed ICE agents handling airport security would arrest immigrants who are in the U.S. illegally."
+    },
+    {
+      "title": "Global central banks signal shocking shift on interest-rate bets",
+      "description": "Global central banks are rapidly shifting toward interest-rate hikes as the Iran War drives oil prices higher and forces policymakers to rethink earlier plans for rate cuts in 2026. The Federal Reservedid not act alone this week in holding benchmark interest-rates steady over concerns that oil ...",
+      "url": "https://www.thestreet.com/fed/global-central-banks-ecb-and-boe-signal-shocking-shift-on-interest-rate-bets-due-to-iran-war-oil-spike?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-21T18:47:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Global central banks are rapidly shifting toward interest-rate hikes as the Iran War drives oil prices higher and forces policymakers to rethink earlier plans for rate cuts in 2026. The Federal Reserv"
+    },
+    {
+      "title": "Former special counsel Robert Mueller has died at 81",
+      "description": "Robert Mueller, the former special counsel who investigated Russian interference in the 2016 presidential election, died Friday.",
       "url": "https://www.cnbc.com/2026/03/21/robert-mueller-died-at-81.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-03-21T17:49:46+00:00",
+      "published_at": "2026-03-21T18:36:51+00:00",
       "category": "USA",
-      "simple_explanation": "Robert Mueller, former special counsel who investigated Russian interference in the 2016 presidential election, died Friday."
+      "simple_explanation": "Robert Mueller, the former special counsel who investigated Russian interference in the 2016 presidential election, died Friday."
+    },
+    {
+      "title": "2 Great Dividend-Paying Oil Stocks to Buy as Oil Surges",
+      "description": "These oil stocks can grease the wheels of your passive income machine.",
+      "url": "https://www.fool.com/investing/2026/03/21/great-dividend-oil-stocks-buy-as-oil-surge/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-21T18:34:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "These oil stocks can grease the wheels of your passive income machine."
+    },
+    {
+      "title": "American Express Stock Is Cheap, But Does That Make It a Buy Now?",
+      "description": "It's been affected by investor fears of AI disruption.",
+      "url": "https://www.fool.com/investing/2026/03/21/american-express-stock-cheap-is-axp-buy/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-21T18:05:00+00:00",
+      "category": "USA",
+      "simple_explanation": "It's been affected by investor fears of AI disruption."
+    },
+    {
+      "title": "Dow Jones Bounces Late After Sell-Off As Trump Mulls 'Winding Down' Iran War",
+      "description": "The major indexes broke long-term support as oil prices and bond yields soar. President Trump said late Friday he's mulling \"winding down\" the Iran war hours after saying that was not \"acceptable.\"",
+      "url": "https://finance.yahoo.com/m/4b986b69-078c-3b77-948f-5e9fc43f37c2/dow-jones-bounces-late-after.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-21T18:02:36+00:00",
+      "category": "USA",
+      "simple_explanation": "The major indexes broke long-term support as oil prices and bond yields soar. President Trump said late Friday he's mulling \"winding down\" the Iran war hours after saying that was not \"acceptable.\""
+    },
+    {
+      "title": "JP Morgan resets S&P 500 price target for rest of 2026",
+      "description": "JPMorgan just revised its outlook for the S&P 500, slashing its 2026 year-end price target to 7,200 from 7,500. The bank now sees the index potentially sliding to as low as 6,000 in the near term if current headwinds intensify, underscoring the volatility in the stock market’s trajectory. ...",
+      "url": "https://www.thestreet.com/investing/jpmorgan-resets-sp-500-price-target-for-rest-of-2026?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-21T18:00:18+00:00",
+      "category": "USA",
+      "simple_explanation": "JPMorgan just revised its outlook for the S&P 500, slashing its 2026 year-end price target to 7,200 from 7,500. The bank now sees the index potentially sliding to as low as 6,000 in the near term if c"
     },
     {
       "title": "SEC crypto guidance puts the 'final nail' in the Gensler era: Analyst",
@@ -93,16 +163,6 @@
       "simple_explanation": "A few things to watch as the market teeters on correction status amid a rearranging global oil trade."
     },
     {
-      "title": "Dow Jones Bounces Late After Sell-Off As Trump Mulls 'Winding Down' Iran War",
-      "description": "The major indexes broke long-term support as oil prices and bond yields soar. President Trump said late Friday he's mulling \"winding down\" the Iran war hours after saying that was not \"acceptable.\"",
-      "url": "https://finance.yahoo.com/m/4b986b69-078c-3b77-948f-5e9fc43f37c2/dow-jones-bounces-late-after.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-21T15:48:17+00:00",
-      "category": "USA",
-      "simple_explanation": "The major indexes broke long-term support as oil prices and bond yields soar. President Trump said late Friday he's mulling \"winding down\" the Iran war hours after saying that was not \"acceptable.\""
-    },
-    {
       "title": "Better Real Estate ETF: FlexShares' GQRE vs. State Street's RWR",
       "description": "Explore how differing costs, yields, and global exposure set these two real estate ETFs apart for income and diversification seekers.",
       "url": "https://www.fool.com/coverage/etfs/2026/03/21/better-real-estate-etf-flexshares-gqre-vs-state-street-s-rwr/?.tsrc=rss",
@@ -111,26 +171,6 @@
       "published_at": "2026-03-21T15:39:05+00:00",
       "category": "USA",
       "simple_explanation": "Explore how differing costs, yields, and global exposure set these two real estate ETFs apart for income and diversification seekers."
-    },
-    {
-      "title": "3 Possible Oil Price Scenarios For 2026",
-      "description": "There are three oil scenarios; these are the businesses that could be affected in each one.",
-      "url": "https://www.fool.com/investing/2026/03/21/3-possible-oil-price-scenarios-for-2026/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-21T15:35:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "There are three oil scenarios; these are the businesses that could be affected in each one."
-    },
-    {
-      "title": "Is Occidental Petroleum (OXY) The Best Energy Stock to Buy Now?",
-      "description": "We just covered the 10 Best Stocks to Buy Now According to Warren Buffett. Occidental Petroleum Corp (NYSE:OXY) ranks #7 (see the 5 best stocks to buy now here). Berkshire owns about 29% of OXY and bought its chemicals business for $9.7 billion. This provides a strong vote of confidence for the comp",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/occidental-petroleum-oxy-best-energy-152150255.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-21T15:21:50+00:00",
-      "category": "Commodities",
-      "simple_explanation": "We just covered the 10 Best Stocks to Buy Now According to Warren Buffett. Occidental Petroleum Corp (NYSE:OXY) ranks #7 (see the 5 best stocks to buy now here). Berkshire owns about 29% of OXY and bo"
     },
     {
       "title": "Silver price today: This warning is bigger than most think",
@@ -213,16 +253,6 @@
       "simple_explanation": "Emerging markets stocks are carrying last year's momentum into 2026, and the Schwab Fundamental Emerging Markets Equity ETF is benefiting."
     },
     {
-      "title": "S&P 500 Stocks Lead Five AI Plays Near Buy Points",
-      "description": "Two top S&P 500 stocks lead this weekend's watchlist with five AI stocks near buy points amid a broad market slide.",
-      "url": "https://finance.yahoo.com/m/1c9976b1-a01a-3d3e-9aa7-85dd159f544e/s%26p-500-stocks-lead-five-ai.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-21T12:55:37+00:00",
-      "category": "USA",
-      "simple_explanation": "Two top S&P 500 stocks lead this weekend's watchlist with five AI stocks near buy points amid a broad market slide."
-    },
-    {
       "title": "30% YTD return! Healthcare stock to be in focus on Monday - Here's why",
       "description": "In December 2025, Park Medi World revealed an all-cash agreement worth  ₹245 crore to gain total ownership of KPIMS by purchasing both SVPD Healthcare and KPS Wellness",
       "url": "https://www.livemint.com/market/stock-market-news/30-ytd-return-healthcare-stock-to-be-in-focus-on-monday-heres-why-11774087937285.html",
@@ -231,16 +261,6 @@
       "published_at": "2026-03-21T12:41:50+00:00",
       "category": "India",
       "simple_explanation": "In December 2025, Park Medi World revealed an all-cash agreement worth  ₹245 crore to gain total ownership of KPIMS by purchasing both SVPD Healthcare and KPS Wellness"
-    },
-    {
-      "title": "This 1 ETF Keeps Outrallying the SPY, While Also Losing Less During Downturns",
-      "description": "Most investors who want broad U.S. equity exposure reach for SPDR S&P 500 ETF Trust (NYSEARCA:SPY). It is the default. But a lesser-known fund built entirely from stocks already inside the S&P 500 has quietly delivered stronger returns over virtually every meaningful time horizon, while also holding",
-      "url": "https://247wallst.com/investing/2026/03/21/this-1-etf-keeps-outrallying-the-spy-while-also-losing-less-during-downturns/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-21T12:21:49+00:00",
-      "category": "USA",
-      "simple_explanation": "Most investors who want broad U.S. equity exposure reach for SPDR S&P 500 ETF Trust (NYSEARCA:SPY). It is the default. But a lesser-known fund built entirely from stocks already inside the S&P 500 has"
     },
     {
       "title": "XRP Price Prediction: One Analyst Predicts XRP Price at $27 After Hitting Fibonacci Targets",
@@ -263,16 +283,6 @@
       "simple_explanation": "Pinnacle Silver & Gold Corp (TSX-V:PINN, OTCQB:PSGCF, FRA:P9J) CEO Robert Archer talked with Proactive about a new polymetallic discovery at the El Potrero project, marking a significant development b"
     },
     {
-      "title": "OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities",
-      "description": "At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago.",
-      "url": "https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-21T12:00:01+00:00",
-      "category": "USA",
-      "simple_explanation": "At Nvidia's GTC conference this week, CEO Nvidia Jensen Huang dedicated a major part of his keynote to OpenClaw, a technology that didn't exist six months ago."
-    },
-    {
       "title": "Analysis: Trump's unshackled presidency puts him at the center of the economy",
       "description": "The president's unprecedented use of executive power has made him a driving force behind oil prices, the Federal Reserve's interest rates and more.",
       "url": "https://www.cnbc.com/2026/03/21/trump-oil-fed-economy-iran-war.html",
@@ -281,16 +291,6 @@
       "published_at": "2026-03-21T12:00:01+00:00",
       "category": "USA",
       "simple_explanation": "The president's unprecedented use of executive power has made him a driving force behind oil prices, the Federal Reserve's interest rates and more."
-    },
-    {
-      "title": "GLP-1 drugs are changing how Americans eat. Food companies are racing to catch up",
-      "description": "For restaurants and food companies, the increasing adoption of GLP-1 drugs present both an opportunity and a threat to their businesses.",
-      "url": "https://www.cnbc.com/2026/03/21/glp-1-diets-restaurants-protein-fiber-weight-loss-drugs.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-21T12:00:01+00:00",
-      "category": "USA",
-      "simple_explanation": "For restaurants and food companies, the increasing adoption of GLP-1 drugs present both an opportunity and a threat to their businesses."
     },
     {
       "title": "Bitcoin mining difficulty falls 7.7% as miner pressure persists",
@@ -331,16 +331,6 @@
       "published_at": "2026-03-21T10:41:24+00:00",
       "category": "India",
       "simple_explanation": "Markets ended the week marginally lower, with the Nifty breaching key support levels and slipping below moving averages. Rising volatility and oversold RSI indicate continued weakness. While some sect"
-    },
-    {
-      "title": "Physical Gold vs. Silver and the ETF Trade Setting Up Right Now",
-      "description": "Gold has had a remarkable run in 2026, but silver has quietly done something more interesting over the past year. The divergence between the two metals is setting up a conversation worth having, especially for anyone researching how physical metals ETFs have performed relative to each other. Gold Le",
-      "url": "https://247wallst.com/investing/2026/03/21/physical-gold-vs-silver-and-the-etf-trade-setting-up-right-now/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-21T10:35:14+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold has had a remarkable run in 2026, but silver has quietly done something more interesting over the past year. The divergence between the two metals is setting up a conversation worth having, espec"
     },
     {
       "title": "Abu Dhabi Investment Portfolio: 6 stocks surge up to 110% in FY26, 3 fresh Q3 picks",
@@ -401,6 +391,16 @@
       "published_at": "2026-03-21T07:49:31+00:00",
       "category": "India",
       "simple_explanation": "A Financial Action Task Force report backs India’s concerns that the real risk in crypto lies in offshore, non-compliant virtual asset service providers (VASPs), not the asset class itself."
+    },
+    {
+      "title": "Rupee on shaky ground, touches fresh low of 93.73",
+      "description": "The Indian rupee experienced its sharpest single-day fall since late 2022, plummeting to a historic low of 93.73 against the dollar. Surging oil prices, driven by escalating West Asian conflicts, coupled with overseas investor outflows, significantly pressured the currency.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-on-shaky-ground-touches-fresh-low-of-93-73/articleshow/129715234.cms",
+      "image": "https://img.etimg.com/photo/msid-129715234,imgsize-9170.cms",
+      "source": "Economic Times",
+      "published_at": "2026-03-21T07:45:24+00:00",
+      "category": "India",
+      "simple_explanation": "The Indian rupee experienced its sharpest single-day fall since late 2022, plummeting to a historic low of 93.73 against the dollar. Surging oil prices, driven by escalating West Asian conflicts, coup"
     }
   ]
 }
