@@ -1,16 +1,256 @@
 {
-  "last_updated": "2026-03-25T15:53:14.816590+00:00",
+  "last_updated": "2026-03-25T18:38:06.406615+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "New Mexico seeking changes to Meta's platform after jury finds company liable",
-      "description": "New Mexico Attorney General Raúl Torrez plans to ask for algorithm and design changes, age verification and independent verification in the trial's next phase.",
-      "url": "https://www.cnbc.com/2026/03/25/new-mexico-meta-lawsuit-jury-verdict.html",
+      "title": "Robinhood stock jumps 7% on $1.5 billion ‌share buyback news",
+      "description": "Robinhood Markets (Nasdaq: HOOD) is a Menlo Park, California-based e-trading platform that is known for its stock, cryptocurrency, and tokenized stock offerings. Founded by Stanford graduates Vladimir Tenev and Baiju Bhatt in 2013, its zero-commission stock trading has made ...",
+      "url": "https://www.thestreet.com/crypto/investing/robinhood-stock-jumps-7-on-1-5-billion-share-buyback-news?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T18:30:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Robinhood Markets (Nasdaq: HOOD) is a Menlo Park, California-based e-trading platform that is known for its stock, cryptocurrency, and tokenized stock offerings. Founded by Stanford graduates Vladimir"
+    },
+    {
+      "title": "Jury in Los Angeles finds Meta, YouTube negligent in social media addiction trial",
+      "description": "A jury reached a verdict in the LA trial focused on Meta and YouTube, a case that experts have characterized as social media's \"Big Tobacco\" moment.",
+      "url": "https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-03-25T15:48:43+00:00",
+      "published_at": "2026-03-25T18:28:40+00:00",
       "category": "USA",
-      "simple_explanation": "New Mexico Attorney General Raúl Torrez plans to ask for algorithm and design changes, age verification and independent verification in the trial's next phase."
+      "simple_explanation": "A jury reached a verdict in the LA trial focused on Meta and YouTube, a case that experts have characterized as social media's \"Big Tobacco\" moment."
+    },
+    {
+      "title": "Meta Platforms Just Unveiled Ambitious Plans to Grow Its Stock Price by 500% Over Five Years",
+      "description": "The social media and AI titan is chasing a $9 trillion market cap.",
+      "url": "https://www.fool.com/investing/2026/03/25/meta-platforms-just-unveiled-ambitious-plans-to-gr/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T18:27:22+00:00",
+      "category": "USA",
+      "simple_explanation": "The social media and AI titan is chasing a $9 trillion market cap."
+    },
+    {
+      "title": "White House says Trump will meet Xi in China in May",
+      "description": "A long-awaited meeting between President Donald Trump and Chinese President Xi Jinping will take place in Beijing on May 14 and 15, the White House said.",
+      "url": "https://www.cnbc.com/2026/03/25/trump-xi-beijing-china-summit.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-25T18:24:19+00:00",
+      "category": "USA",
+      "simple_explanation": "A long-awaited meeting between President Donald Trump and Chinese President Xi Jinping will take place in Beijing on May 14 and 15, the White House said."
+    },
+    {
+      "title": "Wall Street analysts say recession odds are rising as oil prices remain volatile: 'Risks have increased materially'",
+      "description": "Wall Street analysts increased their probabilities for a recession as oil prices remain volatile amid the Middle East war.",
+      "url": "https://finance.yahoo.com/news/wall-street-analysts-say-recession-odds-are-rising-as-oil-prices-remain-volatile-risks-have-increased-materially-182053667.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T18:20:53+00:00",
+      "category": "USA",
+      "simple_explanation": "Wall Street analysts increased their probabilities for a recession as oil prices remain volatile amid the Middle East war."
+    },
+    {
+      "title": "Equities Rise Intraday, Oil Drops Amid Renewed Ceasefire Hopes in Middle East",
+      "description": "US benchmark equity indexes were higher intraday, while oil prices fell amid reports of renewed effo",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-oil-drops-181129746.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T18:11:29+00:00",
+      "category": "USA",
+      "simple_explanation": "US benchmark equity indexes were higher intraday, while oil prices fell amid reports of renewed effo"
+    },
+    {
+      "title": "AMD, Intel stocks rise on possible price hikes; gold prices climb",
+      "description": "Yahoo Finance anchor Josh Lipton tracks Wednesday's top moving stocks and biggest market stories.Gold (GC=F) prices are rebounding, hovering around $4,500.AMD (AMD) and Intel (INTC) stocks are surging on reports that the two chipmakers told clients price increases were on the way.",
+      "url": "https://finance.yahoo.com/video/amd-intel-stocks-rise-on-possible-price-hikes-gold-prices-climb-181045298.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T18:10:45+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Yahoo Finance anchor Josh Lipton tracks Wednesday's top moving stocks and biggest market stories.Gold (GC=F) prices are rebounding, hovering around $4,500.AMD (AMD) and Intel (INTC) stocks are surging"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Mixed Wednesday Afternoon",
+      "description": "Energy stocks were mixed Wednesday afternoon, with the NYSE Energy Sector Index increasing 0.1% and",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-stocks-mixed-wednesday-180638263.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T18:06:38+00:00",
+      "category": "USA",
+      "simple_explanation": "Energy stocks were mixed Wednesday afternoon, with the NYSE Energy Sector Index increasing 0.1% and"
+    },
+    {
+      "title": "Stock Market Today: Dow Leaps; AI Firms Run As Tapestry, HP Enterprise Clear Buy Points (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index gains Wednesday as President Donald Trump sends a peace plan to Iran. Oil prices take a dive.",
+      "url": "https://finance.yahoo.com/m/f291dd83-b2cd-374a-9129-444e00ecdc50/stock-market-today%3A-dow.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T18:05:19+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index gains Wednesday as President Donald Trump sends a peace plan to Iran. Oil prices take a dive."
+    },
+    {
+      "title": "Trump says he could send National Guard to airports 'for more help'",
+      "description": "President Donald Trump says he is considering sending the National Guard to airports where  TSA officer absences have led to long lines.",
+      "url": "https://www.cnbc.com/2026/03/25/trump-airport-security-tsa-national-guard.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-25T18:04:00+00:00",
+      "category": "USA",
+      "simple_explanation": "President Donald Trump says he is considering sending the National Guard to airports where  TSA officer absences have led to long lines."
+    },
+    {
+      "title": "Chevron stock sends loud message as oil panic grips Wall Street",
+      "description": "Chevron (CVX) is no longer just another oil stock. Right now, in the current climate, it is being treated like a safe-haven trade in a very jumpy energy market. That helps explain why the stock is galloping along at such an excellent pace. Since late February, oil prices have risen sharply as the ..",
+      "url": "https://www.thestreet.com/investing/stocks/chevron-stock-sends-loud-message-as-oil-panic-grips-wall-street?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T18:03:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Chevron (CVX) is no longer just another oil stock. Right now, in the current climate, it is being treated like a safe-haven trade in a very jumpy energy market. That helps explain why the stock is gal"
+    },
+    {
+      "title": "Update: Gold Rises Off a Near Three-Month Low as Treasury Yields Drop",
+      "description": "(Updates prices.) Gold traded higher early Wednesday, rising off a near three-month low as treasu",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-off-near-three-180022538.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T18:00:22+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Updates prices.) Gold traded higher early Wednesday, rising off a near three-month low as treasu"
+    },
+    {
+      "title": "Franklin Templeton, Ondo Finance Bring 24/7 Tokenized ETF Trading to Crypto Users",
+      "description": "Five Franklin Templeton's ETFs will be tokenized via Ondo Finance as the firms seek to broaden access to traditional assets on-chain.",
+      "url": "https://decrypt.co/362331/franklin-templeton-ondo-247-tokenized-etf-trading-crypto-users?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T17:58:04+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Five Franklin Templeton's ETFs will be tokenized via Ondo Finance as the firms seek to broaden access to traditional assets on-chain."
+    },
+    {
+      "title": "Stock Market Sell-Off: 2 Glorious Growth Stocks to Buy on the Dip, According to Wall Street",
+      "description": "Economic uncertainty and geopolitical tensions are roiling the stock market, but history suggests this could be an opportunity.",
+      "url": "https://www.fool.com/investing/2026/03/25/stock-market-sell-off-2-growth-stocks-buy-dip-wall/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T17:50:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Economic uncertainty and geopolitical tensions are roiling the stock market, but history suggests this could be an opportunity."
+    },
+    {
+      "title": "Arm Holdings stock rallies over 19% after unveiling AI chips with Meta Platforms as lead customer",
+      "description": "Arm Holdings’s latest move is projected to generate approximately $15 billion in annual revenue within five years",
+      "url": "https://www.livemint.com/market/stock-market-news/arm-holdings-stock-rallies-over-19-after-unveiling-ai-chips-with-meta-platforms-as-lead-customer-11774456020031.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/ARM-HOLDINGS-STOCKS--0_1774455974732_1774456015306.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-03-25T17:43:47+00:00",
+      "category": "India",
+      "simple_explanation": "Arm Holdings’s latest move is projected to generate approximately $15 billion in annual revenue within five years"
+    },
+    {
+      "title": "Sector Update: Energy",
+      "description": "Energy stocks were mixed Wednesday afternoon, with the NYSE Energy Sector Index increasing 0.1% and",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-174145314.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T17:41:45+00:00",
+      "category": "USA",
+      "simple_explanation": "Energy stocks were mixed Wednesday afternoon, with the NYSE Energy Sector Index increasing 0.1% and"
+    },
+    {
+      "title": "U.S. brought back $100 million of gold from Venezuela, Interior Secretary Burgum says",
+      "description": "The Interior secretary said Venezuela's interim president, Delcy Rodriguez, wants foreign investment in the country's mining sector.",
+      "url": "https://www.cnbc.com/2026/03/25/venezuela-gold-burgum-trump-rodriguez-maduro.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-25T17:35:38+00:00",
+      "category": "USA",
+      "simple_explanation": "The Interior secretary said Venezuela's interim president, Delcy Rodriguez, wants foreign investment in the country's mining sector."
+    },
+    {
+      "title": "Dow Gives Back Early Gains. It's Still Following Moves in the Oil Market.",
+      "description": "The stock market lost some steam as the session rolled on. You can probably guess the reason. The Dow was up 373 points, or 0.8%, after jumping nearly 600 points at the open. The S&P 500 was up 0.8%. The Nasdaq Composite was up 1%.",
+      "url": "https://finance.yahoo.com/m/4ced9fae-f759-39ac-87d7-c5a26416b7cf/dow-gives-back-early-gains..html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T17:33:09+00:00",
+      "category": "USA",
+      "simple_explanation": "The stock market lost some steam as the session rolled on. You can probably guess the reason. The Dow was up 373 points, or 0.8%, after jumping nearly 600 points at the open. The S&P 500 was up 0.8%. "
+    },
+    {
+      "title": "Super Micro Computer shares jump another 9%, recover 18% in three sessions after sell-off over AI chip smuggling  probe",
+      "description": "Super Micro Computer shares surged 9% on 25 March, recovering from a 33% drop due to legal concerns over an AI export scheme. Despite recent gains, the stock remains down 26.4% in March, reflecting ongoing investor worries.",
+      "url": "https://www.livemint.com/market/stock-market-news/super-micro-computer-shares-jump-another-9-recover-18-in-three-sessions-after-steep-selloff-11774458159530.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/im-935478_1710139901454_1774458232476.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-03-25T17:30:12+00:00",
+      "category": "India",
+      "simple_explanation": "Super Micro Computer shares surged 9% on 25 March, recovering from a 33% drop due to legal concerns over an AI export scheme. Despite recent gains, the stock remains down 26.4% in March, reflecting on"
+    },
+    {
+      "title": "ATERRA Metals Begins Drilling at the Totora Copper-Gold Project in Chile; Shares up 17%",
+      "description": "ATERRA Metals (ATC.CN) on Wednesday said it began a 3,000 meter Phase I drill program on its 1,811-h",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/aterra-metals-begins-drilling-totora-172334737.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T17:23:34+00:00",
+      "category": "Commodities",
+      "simple_explanation": "ATERRA Metals (ATC.CN) on Wednesday said it began a 3,000 meter Phase I drill program on its 1,811-h"
+    },
+    {
+      "title": "Iran rejects U.S. ceasefire offer, demands sovereignty over Strait of Hormuz",
+      "description": "President Donald Trump has claimed the U.S. and Iran are \"in negotiations now.\" But the Islamic Republic denies any direct talks to end the war.",
+      "url": "https://www.cnbc.com/2026/03/25/iran-war-us-trump.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-25T17:21:05+00:00",
+      "category": "USA",
+      "simple_explanation": "President Donald Trump has claimed the U.S. and Iran are \"in negotiations now.\" But the Islamic Republic denies any direct talks to end the war."
+    },
+    {
+      "title": "Trump advisory council draws Coinbase co-founder, tech leaders",
+      "description": "The council, co-chaired by White House AI and crypto czar David Sacks and science advisor Michael Kratsios, include Mark Zuckberg, Larry Ellison and Jensen Huang.",
+      "url": "https://cointelegraph.com/news/crypto-ai-leaders-trump-advisory-council?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI1N2ItYmM5MS03MDcyLTk1YmEtNGM3ZWM0YWFjYzgwLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-25T17:21:01+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The council, co-chaired by White House AI and crypto czar David Sacks and science advisor Michael Kratsios, include Mark Zuckberg, Larry Ellison and Jensen Huang."
+    },
+    {
+      "title": "Bitcoin Is Down Around 20% in 2026. Here's Why Things Could Still Get Worse for the Cryptocurrency",
+      "description": "Without favorable crypto reform and lower interest rates, Bitcoin's value could plummet even further this year.",
+      "url": "https://www.fool.com/investing/2026/03/25/bitcoin-is-down-20-in-2026-heres-why-things-could/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T17:20:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Without favorable crypto reform and lower interest rates, Bitcoin's value could plummet even further this year."
+    },
+    {
+      "title": "Jim Cramer Prefers Agnico Eagle Over Newmont Corporation",
+      "description": "Newmont Corporation (NYSE:NEM) is featured in Mad Money’s latest recap as Jim Cramer shared his buy, sell, or hold verdict. When a caller inquired about the stock during the lightning round, Cramer said: Okay, gold is down 16% since the war began. That’s very contrary. I would actually be a buyer, b",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-agnico-eagle-171918363.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T17:19:18+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Newmont Corporation (NYSE:NEM) is featured in Mad Money’s latest recap as Jim Cramer shared his buy, sell, or hold verdict. When a caller inquired about the stock during the lightning round, Cramer sa"
+    },
+    {
+      "title": "US Equity Indexes Off Session Highs, Crude Oil Pares Declines as Investors Assess Diplomatic Moves to End Iran War",
+      "description": "US equity indexes rose in midday trading on Wednesday, albeit off session highs, and crude oil futur",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-off-session-171803984.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-25T17:18:03+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity indexes rose in midday trading on Wednesday, albeit off session highs, and crude oil futur"
     },
     {
       "title": "Meta cutting several hundred jobs across Reality Labs, Facebook and other departments",
@@ -18,9 +258,109 @@
       "url": "https://www.cnbc.com/2026/03/25/meta-layoffs-reality-labs-facebook.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-03-25T15:38:24+00:00",
+      "published_at": "2026-03-25T17:12:13+00:00",
       "category": "USA",
       "simple_explanation": "The layoffs come as Meta has been refocusing its efforts and pouring billions of dollars into AI."
+    },
+    {
+      "title": "Jio Platforms likely to file DRHP in next few days for mega IPO",
+      "description": "Jio Platforms is preparing for its Initial Public Offering. The company is expected to file its Draft Red Herring Prospectus soon. This offering could become India's largest ever. Existing foreign investors are planning to sell a portion of their stakes. The stock market listing is anticipated in th",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-likely-to-file-drhp-in-next-few-days-for-mega-ipo/articleshow/129807530.cms",
+      "image": "https://img.etimg.com/photo/msid-129807530,imgsize-19870.cms",
+      "source": "Economic Times",
+      "published_at": "2026-03-25T17:11:18+00:00",
+      "category": "India",
+      "simple_explanation": "Jio Platforms is preparing for its Initial Public Offering. The company is expected to file its Draft Red Herring Prospectus soon. This offering could become India's largest ever. Existing foreign inv"
+    },
+    {
+      "title": "Bitmine launches institutional Ethereum staking platform",
+      "description": "The MAVAN platform extends Bitmine’s staking operations to external clients as institutional demand for validator infrastructure accelerates.",
+      "url": "https://cointelegraph.com/news/bitmine-launches-mavan-an-institutional-ethereum-staking-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjY5ODMtYWE3MS03NGJmLWE1YzEtMjBjNjNmNzMyNDRmLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-25T17:09:11+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The MAVAN platform extends Bitmine’s staking operations to external clients as institutional demand for validator infrastructure accelerates."
+    },
+    {
+      "title": "Startale raises $50M from SBI to complete $63M Series A",
+      "description": "Startale said SBI invested $50 million to complete its Series A, with the firms working on tokenized securities, stablecoins and consumer onchain products in Japan.",
+      "url": "https://cointelegraph.com/news/startale-sbi-50m-series-a-close-japan-onchain-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI0NzMtNTE4NC03ZDg3LWJiMWItMzVhZGI0NTU2MTU4LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-25T17:00:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Startale said SBI invested $50 million to complete its Series A, with the firms working on tokenized securities, stablecoins and consumer onchain products in Japan."
+    },
+    {
+      "title": "Circle plunged on CLARITY Act fears, but fundamentals unchanged — Bernstein",
+      "description": "Analysts say new US stablecoin rules may hit yield distribution, not issuers, as USDC growth in payments and trading continues to accelerate.",
+      "url": "https://cointelegraph.com/news/clarity-act-stablecoin-rules-circle-usdc-bernstein-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI1YTktMWM2Ni03NDY4LWJlZjUtZDAxMTc0MGNjZDQxLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-25T16:54:56+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Analysts say new US stablecoin rules may hit yield distribution, not issuers, as USDC growth in payments and trading continues to accelerate."
+    },
+    {
+      "title": "The research firm whose AI paper knocked the whole stock market is out with another big call",
+      "description": "Citrini Research said persistently high energy prices risk weighing on consumers and corporate earnings, creating a tough backdrop for equities.",
+      "url": "https://www.cnbc.com/2026/03/25/the-firm-whose-ai-paper-knocked-the-whole-market-is-out-with-another-big-call.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-03-25T16:49:06+00:00",
+      "category": "Global",
+      "simple_explanation": "Citrini Research said persistently high energy prices risk weighing on consumers and corporate earnings, creating a tough backdrop for equities."
+    },
+    {
+      "title": "Gold, silver rates today: Comex gold gains $199/oz; silver rallies $5.2 as inflation fears ease on US-Iran talks",
+      "description": "Precious metals saw increased buying on 25 March due to expectations of US-Iran negotiations. Silver and gold futures experienced significant gains, marking the largest single-day increases since February.",
+      "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-gains-199-oz-silver-rallies-5-2-as-inflation-fears-ease-on-us-iran-talks-11774451953759.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/pexels-photo-8442330_1773467297837_1773467308417_1774451949202.jpeg",
+      "source": "LiveMint",
+      "published_at": "2026-03-25T16:45:26+00:00",
+      "category": "India",
+      "simple_explanation": "Precious metals saw increased buying on 25 March due to expectations of US-Iran negotiations. Silver and gold futures experienced significant gains, marking the largest single-day increases since Febr"
+    },
+    {
+      "title": "US Stocks: Corcept Therapeutics shares surge 32% as lead drug gets FDA nod for ovarian cancer",
+      "description": "Corcept Therapeutics shares surged after the FDA approved its drug, Lifyorli, for a tough ovarian cancer.  This new therapy, combined with chemotherapy, showed a significant survival benefit in trials.  The approval, coming early, offers hope for patients whose cancer no longer responds to standard ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/corcept-therapeutics-shares-surge-32-as-lead-drug-gets-fda-nod-for-ovarian-cancer/articleshow/129806851.cms",
+      "image": "https://img.etimg.com/photo/msid-129806851,imgsize-33110.cms",
+      "source": "Economic Times",
+      "published_at": "2026-03-25T16:37:40+00:00",
+      "category": "India",
+      "simple_explanation": "Corcept Therapeutics shares surged after the FDA approved its drug, Lifyorli, for a tough ovarian cancer.  This new therapy, combined with chemotherapy, showed a significant survival benefit in trials"
+    },
+    {
+      "title": "Bulk deals: Mukul Agrawal sells stake in microcap laggard; Societe General buys Rs 76 crore stake in Sammaan Capital",
+      "description": "French bank Societe Generale has acquired shares worth Rs 76 crore in Sammaan Capital. This comes as Abu Dhabi's International Holding Company plans a controlling stake acquisition. In a separate transaction, investor Mukul Agrawal sold shares valued at Rs 8 crore in Siyaram Recycling Industries. Sa",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bulk-deals-mukul-agrawal-sells-stake-in-microcap-laggard-societe-general-buys-rs-76-crore-stake-in-sammaan-capital/articleshow/129806426.cms",
+      "image": "https://img.etimg.com/photo/msid-129806426,imgsize-43282.cms",
+      "source": "Economic Times",
+      "published_at": "2026-03-25T16:33:13+00:00",
+      "category": "India",
+      "simple_explanation": "French bank Societe Generale has acquired shares worth Rs 76 crore in Sammaan Capital. This comes as Abu Dhabi's International Holding Company plans a controlling stake acquisition. In a separate tran"
+    },
+    {
+      "title": "Bitcoin pinned under $72K as four network metrics show 'weaker demand'",
+      "description": "Bitcoin price remains stuck below $72,000, as investor distribution, low whale activity, and declining network growth cast doubt on BTC's short term prospects.",
+      "url": "https://cointelegraph.com/news/bitcoin-pinned-under-74k-four-metrics-weaker-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI1YTgtMWQ0ZC03ODZkLTlmMjAtZDRkOGU1MGY5YzhhLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-25T16:24:08+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin price remains stuck below $72,000, as investor distribution, low whale activity, and declining network growth cast doubt on BTC's short term prospects."
+    },
+    {
+      "title": "Why Argentina is blocking Polymarket despite its global growth",
+      "description": "Why Argentina is blocking Polymarket despite global growth, focusing on gambling laws, user protection concerns and regulatory pressure on prediction markets.",
+      "url": "https://cointelegraph.com/news/argentina-polymarket-ban-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU1MWMtYzgwNC03NWE3LTgyNDUtY2QxNGY5ZjI5MzYy.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-25T16:15:55+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Why Argentina is blocking Polymarket despite global growth, focusing on gambling laws, user protection concerns and regulatory pressure on prediction markets."
     },
     {
       "title": "How the US–Iran war is moving gold ETFs and energy ETFs",
@@ -29,28 +369,8 @@
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-03-25T15:29:27+00:00",
-      "category": "USA",
+      "category": "Crypto",
       "simple_explanation": "The US has reportedly drafted a 15-point plan to end the war in Iran, according to Bloomberg. Gold (GC=F) prices are rising on the news, while oil (CL=F, BZ=F) is falling.Wedbush Fund Advisers chief i"
-    },
-    {
-      "title": "Strong Results and Improved Investor Sentiment Around AI Lifted Alphabet (GOOG) in Q4",
-      "description": "RiverPark Advisors, an investment advisory firm and sponsor of the RiverPark family of mutual funds, released its “RiverPark Large Growth Fund” Q4 2025 investor letter. A copy of the letter can be downloaded here. The US stock market delivered modest gains in the quarter with the S&P 500 index (“S&P",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-results-improved-investor-sentiment-152718329.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T15:27:18+00:00",
-      "category": "USA",
-      "simple_explanation": "RiverPark Advisors, an investment advisory firm and sponsor of the RiverPark family of mutual funds, released its “RiverPark Large Growth Fund” Q4 2025 investor letter. A copy of the letter can be dow"
-    },
-    {
-      "title": "Hybrids now account for 1 in 5 U.S. vehicle sales as market shifts",
-      "description": "“Hybrids now are almost one out of every five vehicles that were sold in the United States in the fourth quarter.” That single data point reshapes how you should think about the U.S. auto market right now and which companies are positioned to benefit from it. The shift has been rapid. Hybrid market ",
-      "url": "https://247wallst.com/investing/2026/03/25/hybrids-now-account-for-1-in-5-u-s-vehicle-sales-as-market-shifts/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T15:27:15+00:00",
-      "category": "Commodities",
-      "simple_explanation": "“Hybrids now are almost one out of every five vehicles that were sold in the United States in the fourth quarter.” That single data point reshapes how you should think about the U.S. auto market right"
     },
     {
       "title": "Sebi chief says fake apps a serious threat, urging big tech cos to work with regulators",
@@ -63,84 +383,14 @@
       "simple_explanation": "Sebi Chairman Tuhin Kanta Pandey on Wednesday termed fake applications a \"serious threat\" and urged technology firms like Google and Meta to work with financial regulators for investor protection."
     },
     {
-      "title": "Nasdaq bounces as oil price softens as US pushes for Iran talks",
-      "description": "Falling oil prices and tentative diplomacy around the Middle East conflict has lifted sentiment",
-      "url": "https://www.proactiveinvestors.com/companies/news/1089487/nasdaq-set-to-bounce-back-as-oil-price-falls-on-us-diplomatic-push-with-iran-1089487.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T15:23:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Falling oil prices and tentative diplomacy around the Middle East conflict has lifted sentiment"
-    },
-    {
       "title": "Former SEC Chair Jay Clayton says regulators would scrutinize trading ahead of Trump post",
       "description": "\"Any move like that in advance of any announcement, the regulators are going to look at,\" said Clayton, former SEC chair.",
       "url": "https://www.cnbc.com/2026/03/25/former-sec-chair-jay-clayton-says-regulators-would-scrutinize-trading-ahead-of-trump-post.html",
       "image": "",
-      "source": "CNBC",
+      "source": "CNBC World",
       "published_at": "2026-03-25T15:21:44+00:00",
-      "category": "USA",
+      "category": "Global",
       "simple_explanation": "\"Any move like that in advance of any announcement, the regulators are going to look at,\" said Clayton, former SEC chair."
-    },
-    {
-      "title": "Stock Market Today: Small Caps Lead Gains On Trump Peace Plan; These AI, Chip Plays Rally (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index gains Wednesday as President Donald Trump sends a peace plan to Iran. Oil prices take a dive.",
-      "url": "https://finance.yahoo.com/m/f291dd83-b2cd-374a-9129-444e00ecdc50/stock-market-today%3A-small.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T15:20:42+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index gains Wednesday as President Donald Trump sends a peace plan to Iran. Oil prices take a dive."
-    },
-    {
-      "title": "Iran rejects U.S. ceasefire offer, demands sovereignty over Strait of Hormuz",
-      "description": "President Donald Trump has claimed the U.S. and Iran are \"in negotiations now.\" But the Islamic Republic denies any direct talks to end the war.",
-      "url": "https://www.cnbc.com/2026/03/25/iran-war-us-trump.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-25T15:20:40+00:00",
-      "category": "USA",
-      "simple_explanation": "President Donald Trump has claimed the U.S. and Iran are \"in negotiations now.\" But the Islamic Republic denies any direct talks to end the war."
-    },
-    {
-      "title": "GLD Just Hit $180 Billion in Assets. Here Is the ETF That Actually Made Investors More Money",
-      "description": "The debasement trade have produced quite a few winners. One of the most obvious is the SPDR Gold Shares ETF (NYSEMKT: GLD). In mid-March 2026, the fund crossed a massive $180 billion in assets under management, fueled in part by roughly $15 billion in net inflows in the first quarter alone. Confiden",
-      "url": "https://247wallst.com/investing/2026/03/25/gld-just-hit-180-billion-in-assets-here-is-the-etf-that-actually-made-investors-more-money/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T15:18:24+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The debasement trade have produced quite a few winners. One of the most obvious is the SPDR Gold Shares ETF (NYSEMKT: GLD). In mid-March 2026, the fund crossed a massive $180 billion in assets under m"
-    },
-    {
-      "title": "FTSE 100 Live: Shares rise as Iran rejects US 15-point plan, demands Hormuz control",
-      "description": "FTSE 100 up 96 points to 10,061 Brent oil price hovers near $100 Iran says 'non-hostile' vessels allowed through Hormuz US 15-point proposal passed to Tehran via intermediary countries Trading updates from Asos, Diageo, Crest Nicholson, RS Group 3.18pm: UK blocks Chinese wind...",
-      "url": "https://www.proactiveinvestors.com/companies/news/1089447/ftse-100-live-shares-called-higher-as-oil-prices-fall-inflation-unchanged-1089447.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T15:18:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "FTSE 100 up 96 points to 10,061 Brent oil price hovers near $100 Iran says 'non-hostile' vessels allowed through Hormuz US 15-point proposal passed to Tehran via intermediary countries Trading updates"
-    },
-    {
-      "title": "Andean Precious Metals Q4 Earnings Call Highlights",
-      "description": "Andean Precious Metals (TSE:APM) used its fourth-quarter and year-end earnings call to highlight what management described as a “step change” in 2025 results, driven by record financial performance, strong free cash flow, and a significantly strengthened balance sheet. Executives pointed to contribu",
-      "url": "https://www.marketbeat.com/instant-alerts/andean-precious-metals-q4-earnings-call-highlights-2026-03-25/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T15:17:36+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Andean Precious Metals (TSE:APM) used its fourth-quarter and year-end earnings call to highlight what management described as a “step change” in 2025 results, driven by record financial performance, s"
-    },
-    {
-      "title": "CoreWeave (CRWV) Fell Despite More Than 40% Revenue Growth",
-      "description": "RiverPark Advisors, an investment advisory firm and sponsor of the RiverPark family of mutual funds, released its “RiverPark Large Growth Fund” Q4 2025 investor letter. A copy of the letter can be downloaded here. The US stock market delivered modest gains in the quarter with the S&P 500 index (“S&P",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-fell-despite-more-151502543.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T15:15:02+00:00",
-      "category": "USA",
-      "simple_explanation": "RiverPark Advisors, an investment advisory firm and sponsor of the RiverPark family of mutual funds, released its “RiverPark Large Growth Fund” Q4 2025 investor letter. A copy of the letter can be dow"
     },
     {
       "title": "Bitcoin hovers around $71,000 as Bernstein analysts say token 'looks bottomed'",
@@ -149,258 +399,8 @@
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-03-25T15:11:08+00:00",
-      "category": "Commodities",
+      "category": "Crypto",
       "simple_explanation": "The token has outperformed gold and equities during the Middle East conflict and was trading below $70,000 on Tuesday."
-    },
-    {
-      "title": "Barclays Resets Price Target For  S&P 500",
-      "description": "S&P 500 Could Jump 16% by Year-End, Barclays Says",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-resets-price-target-p-151053447.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T15:10:53+00:00",
-      "category": "USA",
-      "simple_explanation": "S&P 500 Could Jump 16% by Year-End, Barclays Says"
-    },
-    {
-      "title": "Microsoft (MSFT) Declines Amid Investor Concerns Over Guidance and Capital Expenditure Intensity",
-      "description": "RiverPark Advisors, an investment advisory firm and sponsor of the RiverPark family of mutual funds, released its “RiverPark Large Growth Fund” Q4 2025 investor letter. A copy of the letter can be downloaded here. The US stock market delivered modest gains in the quarter with the S&P 500 index (“S&P",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-declines-amid-investor-151025673.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T15:10:25+00:00",
-      "category": "USA",
-      "simple_explanation": "RiverPark Advisors, an investment advisory firm and sponsor of the RiverPark family of mutual funds, released its “RiverPark Large Growth Fund” Q4 2025 investor letter. A copy of the letter can be dow"
-    },
-    {
-      "title": "Gas prices inch toward $4 a gallon as Iran war drags on",
-      "description": "Gas prices climbed toward $4 per gallon Wednesday as oil futures remained volatile amid the Middle East war.",
-      "url": "https://finance.yahoo.com/news/gas-prices-inch-toward-4-a-gallon-as-iran-war-drags-on-150926752.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T15:09:26+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gas prices climbed toward $4 per gallon Wednesday as oil futures remained volatile amid the Middle East war."
-    },
-    {
-      "title": "Decentralized crowdfunding can boost artists during market downturn",
-      "description": "Decentralized crowdfunding supports NFT artists through market crashes. Onchain purchases deliver direct capital and visibility when centralized platforms fail.",
-      "url": "https://cointelegraph.com/news/decentralized-crowdfunding-artists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI0NWUtNzczNC03M2E0LTkwMTUtYTZkMTBlZWQ2OTIxLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-25T15:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Decentralized crowdfunding supports NFT artists through market crashes. Onchain purchases deliver direct capital and visibility when centralized platforms fail."
-    },
-    {
-      "title": "Arm Holdings shares jump 17% to 3-month high as company unveils first-ever data centre CPU",
-      "description": "Arm Holdings saw its shares rise 19% after unveiling its first data centre CPU, entering direct competition with major tech firms. The company anticipates significant revenue growth, projecting $25 billion in total revenue within five years, shifting from licensing to direct sales.",
-      "url": "https://www.livemint.com/market/stock-market-news/arm-holdings-shares-jump-17-to-3-month-high-as-it-unveils-first-ever-data-centre-cpu-11774447905337.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/ARM-IPO-16_1694479617693_1774447979444.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-03-25T14:58:45+00:00",
-      "category": "India",
-      "simple_explanation": "Arm Holdings saw its shares rise 19% after unveiling its first data centre CPU, entering direct competition with major tech firms. The company anticipates significant revenue growth, projecting $25 bi"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-25T14:48:58+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-    },
-    {
-      "title": "Sebi flags rise in fraudulent trading apps siphoning investor money",
-      "description": "Sebi has partnered with Google Play to introduce a verified app label to protect investors from a surge in fraudulent trading platforms that mimic legitimate intermediaries.",
-      "url": "https://www.livemint.com/market/stock-market-news/sebi-pandey-warns-investors-fake-investment-apps-siphoning-money-11774447041200.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/INDIA-INVESTING--0_1774449692270_1774449708410_1774449987614.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-03-25T14:48:05+00:00",
-      "category": "India",
-      "simple_explanation": "Sebi has partnered with Google Play to introduce a verified app label to protect investors from a surge in fraudulent trading platforms that mimic legitimate intermediaries."
-    },
-    {
-      "title": "US stocks: Arm shares jump 15% as new AI chip to drive billions in annual revenue",
-      "description": "U.S.-listed shares of Arm Holdings jumped nearly 12% ​in premarket trading on ​Wednesday after the chip firm projected billions of ​dollars in annual revenue from its own new artificial intelligence data-center chip.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-arm-shares-jump-15-as-new-ai-chip-to-drive-billions-in-annual-revenue/articleshow/129804493.cms",
-      "image": "https://img.etimg.com/photo/msid-129804493,imgsize-70452.cms",
-      "source": "Economic Times",
-      "published_at": "2026-03-25T14:41:36+00:00",
-      "category": "India",
-      "simple_explanation": "U.S.-listed shares of Arm Holdings jumped nearly 12% ​in premarket trading on ​Wednesday after the chip firm projected billions of ​dollars in annual revenue from its own new artificial intelligence d"
-    },
-    {
-      "title": "Bitpanda targets banks with Vision Chain tokenization platform",
-      "description": "The Vienna-based crypto broker announced its Ethereum layer-2, aimed at helping European banks and fintechs issue tokenized assets under MiCA and MiFID II.",
-      "url": "https://cointelegraph.com/news/bitpanda-announces-vision-chain-europe-tokenization-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI1NGItOTMxYy03YjNmLWEzMmQtZWJlZmE4ZTA0OTQ1LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-25T14:32:44+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The Vienna-based crypto broker announced its Ethereum layer-2, aimed at helping European banks and fintechs issue tokenized assets under MiCA and MiFID II."
-    },
-    {
-      "title": "Sebi rolls out Verified App Label to curb fraud, bolster investor protection",
-      "description": "Securities and Exchange Board of India launched a Verified App Label initiative with Google to help investors identify genuine trading apps. The move aims to curb digital fraud as retail participation rises, while strengthening trust and promoting safer investment practices.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rolls-out-verified-app-label-to-curb-fraud-bolster-investor-protection/articleshow/129804172.cms",
-      "image": "https://img.etimg.com/photo/msid-129804172,imgsize-55652.cms",
-      "source": "Economic Times",
-      "published_at": "2026-03-25T14:24:35+00:00",
-      "category": "India",
-      "simple_explanation": "Securities and Exchange Board of India launched a Verified App Label initiative with Google to help investors identify genuine trading apps. The move aims to curb digital fraud as retail participation"
-    },
-    {
-      "title": "Gold Extends Gains as Traders Gauge Viability of Ceasefire Talks",
-      "description": "(Bloomberg) -- Gold extended gains after snapping a nine-day losing streak as traders weighed the likelihood of US-Iran ceasefire talks.Bullion advanced as much as 2.8%, adding to a 1.6% jump in the previous session, after the US drafted a 15-point plan intended to help bring the war with Iran to a ",
-      "url": "https://finance.yahoo.com/news/gold-extends-gains-reports-iran-062123180.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T14:19:47+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Bloomberg) -- Gold extended gains after snapping a nine-day losing streak as traders weighed the likelihood of US-Iran ceasefire talks.Bullion advanced as much as 2.8%, adding to a 1.6% jump in the p"
-    },
-    {
-      "title": "NASA Announces Sweeping Changes As Artemis II Prepares for Launch. These Stocks Are Moving.",
-      "description": "NASA’s Artemis II mission is nearing launch as the agency pauses its Gateway project, sending shares of Intuitive Machines, Rocket Lab, and other space stocks moving.",
-      "url": "https://finance.yahoo.com/m/bb2db55a-c3bc-305c-b92f-9f9440572e41/nasa-announces-sweeping.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T14:14:00+00:00",
-      "category": "USA",
-      "simple_explanation": "NASA’s Artemis II mission is nearing launch as the agency pauses its Gateway project, sending shares of Intuitive Machines, Rocket Lab, and other space stocks moving."
-    },
-    {
-      "title": "Marshall Islands basic income effort gains crypto-connected backers",
-      "description": "Despite an IMF warning regarding the potential risks, the Marshall Islands is proceeding with a partnership which could expand its digital sovereign bond to institutional markets.",
-      "url": "https://cointelegraph.com/news/company-marshall-islands-digital-sovereign-bond-ubi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDIxN2EtYzE4Ni03NzA2LTg0ZDktNjljMTA4YWYxOWZjLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-25T14:13:25+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Despite an IMF warning regarding the potential risks, the Marshall Islands is proceeding with a partnership which could expand its digital sovereign bond to institutional markets."
-    },
-    {
-      "title": "Intuitive Machines Stock Rises on New NASA Contract. Here’s Why It Can Rally 40%.",
-      "description": "Intuitive Machines’  stock rose early Wednesday after the company won more work from NASA.  Shares of the space technology company were up 13.9% at $20.41, while the  and  were both up about 0.6%.  The move came after the company announced that NASA awarded it a $180.4 million contract to deliver se",
-      "url": "https://finance.yahoo.com/m/7b6dc06b-27ba-350f-a1fb-797a09e84781/intuitive-machines-stock.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T14:11:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Intuitive Machines’  stock rose early Wednesday after the company won more work from NASA.  Shares of the space technology company were up 13.9% at $20.41, while the  and  were both up about 0.6%.  Th"
-    },
-    {
-      "title": "Assessing Wesdome Gold Mines (TSX:WDO) Valuation After Appointing Tyler Mitchelson As Full-Time COO",
-      "description": "Wesdome Gold Mines (TSX:WDO) has drawn fresh attention after naming Tyler Mitchelson as full-time Chief Operating Officer. This leadership move arrives shortly after reporting 2025 production, earnings and a completed share repurchase program. See our latest analysis for Wesdome Gold Mines. Despite ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-wesdome-gold-mines-tsx-140504731.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T14:05:04+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Wesdome Gold Mines (TSX:WDO) has drawn fresh attention after naming Tyler Mitchelson as full-time Chief Operating Officer. This leadership move arrives shortly after reporting 2025 production, earning"
-    },
-    {
-      "title": "Sustained Dollar Selloff Looks Unlikely For Now",
-      "description": "The dollar fell against a basket of currencies and a sustained selloff of the currency looks unlikely as there’s little chance of the Iran war ending soon.",
-      "url": "https://finance.yahoo.com/m/caa43c37-153d-3d01-b8dc-39113894b7f8/sustained-dollar-selloff.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T13:59:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The dollar fell against a basket of currencies and a sustained selloff of the currency looks unlikely as there’s little chance of the Iran war ending soon."
-    },
-    {
-      "title": "Wall Street jumps on prospects of de-escalation in Middle East war, crude oil & Treasury yields fall",
-      "description": "As of 10:30 a.m. Eastern Time, the S&amp;P 500 rose 0.8%, the Dow Jones Industrial Average was up 0.7%, and the Nasdaq Composite was 1.3% higher",
-      "url": "https://www.livemint.com/market/stock-market-news/wall-street-jumps-on-prospects-of-de-escalation-in-middle-east-war-11774446279057.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/JANUS-HENDERSON-GROUP-M-A-TRIAN-VICTORY-CAP-HLDG-0_1774446357722_1774446400612.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-03-25T13:52:58+00:00",
-      "category": "India",
-      "simple_explanation": "As of 10:30 a.m. Eastern Time, the S&amp;P 500 rose 0.8%, the Dow Jones Industrial Average was up 0.7%, and the Nasdaq Composite was 1.3% higher"
-    },
-    {
-      "title": "Gold To $35,000, Bitcoin To $750,000, Robert Kiyosaki Warns 'Biggest Bubble' Is About To Burst",
-      "description": "The \"biggest [financial] bubble\" is about to burst, \"Rich Dad Poor Dad\" author Robert Kiyosaki says. \"I do not know what pin, what event will pop the biggest bubbles in [history],\" Kiyosaki said on March 16 on X. \"[Whatever] the...",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-35-000-bitcoin-750-135044652.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T13:50:44+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The \"biggest [financial] bubble\" is about to burst, \"Rich Dad Poor Dad\" author Robert Kiyosaki says. \"I do not know what pin, what event will pop the biggest bubbles in [history],\" Kiyosaki said on Ma"
-    },
-    {
-      "title": "The S&P 500 Rips 1% Higher On Hope For Iran Peace Negotiations and Oil Falls Below Critical $100 Barrel Line",
-      "description": "Geopolitical hope is doing what central banks could not quite manage this month: lifting every major U.S. equity index simultaneously. The S&P 500 opened 1.07% higher Wednesday morning, with the Dow, Nasdaq, and Russell 2000 all moving in lockstep, after reports emerged that the U.S. has presented I",
-      "url": "https://247wallst.com/investing/2026/03/25/the-sp-500-rips-1-higher-on-hope-for-iran-peace-negotiations-and-oil-falls-below-critical-100-barrel-line/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T13:49:53+00:00",
-      "category": "USA",
-      "simple_explanation": "Geopolitical hope is doing what central banks could not quite manage this month: lifting every major U.S. equity index simultaneously. The S&P 500 opened 1.07% higher Wednesday morning, with the Dow, "
-    },
-    {
-      "title": "GameStop posts mixed results for fiscal fourth quarter",
-      "description": "GameStop Corp (NYSE:GME) reported fourth quarter results that beat earnings expectations but fell short on revenue, with shares little changed at Wednesday’s open, trading at about $23. For the quarter ended January 31, 2026, the video game retailer posted adjusted earnings per share of...",
-      "url": "https://www.proactiveinvestors.com/companies/news/1089498/gamestop-posts-mixed-results-for-fiscal-fourth-quarter-1089498.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T13:47:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "GameStop Corp (NYSE:GME) reported fourth quarter results that beat earnings expectations but fell short on revenue, with shares little changed at Wednesday’s open, trading at about $23. For the quarte"
-    },
-    {
-      "title": "UK review recommends crypto donation pause over foreign interference risk",
-      "description": "A UK review led by Philip Rycroft recommended a temporary moratorium on crypto political donations until stronger safeguards and statutory guidance are in place.",
-      "url": "https://cointelegraph.com/news/uk-crypto-donation-pause-foreign-interference-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JkN2ItYmY4ZC03NmUxLWEyMzYtMjQxZmZmNGU1YzQxLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-25T13:46:46+00:00",
-      "category": "Crypto",
-      "simple_explanation": "A UK review led by Philip Rycroft recommended a temporary moratorium on crypto political donations until stronger safeguards and statutory guidance are in place."
-    },
-    {
-      "title": "Stocks Pop at the Open as Oil Slides. Wall Street Is Hoping for Peace Talks.",
-      "description": "The stock market was back in rally mode on Wednesday as Wall Street held out hope the U.S. and Iran could hash out a ceasefire.  The Nasdaq Composite was up 1.2%.  Brent crude oil futures were down 5% to $99.32 a barrel.",
-      "url": "https://finance.yahoo.com/m/6c9f693b-2a8e-3976-bd31-fe226e5a9c44/stocks-pop-at-the-open-as-oil.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-25T13:35:01+00:00",
-      "category": "USA",
-      "simple_explanation": "The stock market was back in rally mode on Wednesday as Wall Street held out hope the U.S. and Iran could hash out a ceasefire.  The Nasdaq Composite was up 1.2%.  Brent crude oil futures were down 5%"
-    },
-    {
-      "title": "US stocks today: Dow soars 500 points, S&P 500, Nasdaq jump over 1% on hopes of Iran war de-escalation",
-      "description": "Wall ​Street's ​main indexes opened higher ​on Wednesday as prospects of a ‌de-escalation ⁠in ⁠the Middle East ​conflict allayed some investor ​fears around prolonged energy supply disruptions.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-soars-500-points-sp-500-nasdaq-jump-over-1-on-hopes-of-iran-war-de-escalation/articleshow/129803067.cms",
-      "image": "https://img.etimg.com/photo/msid-129803067,imgsize-68826.cms",
-      "source": "Economic Times",
-      "published_at": "2026-03-25T13:34:31+00:00",
-      "category": "India",
-      "simple_explanation": "Wall ​Street's ​main indexes opened higher ​on Wednesday as prospects of a ‌de-escalation ⁠in ⁠the Middle East ​conflict allayed some investor ​fears around prolonged energy supply disruptions."
-    },
-    {
-      "title": "STS Digital launches structured crypto platform with Kraken as first partner",
-      "description": "STS Digital said the platform offers institutional clients access to options-based strategies through predefined crypto investment products.",
-      "url": "https://cointelegraph.com/news/sts-digital-kraken-structured-crypto-products-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUwNTAtN2UyZC03M2NiLTkzOTgtM2QxNTljYzJhOWRh.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-25T13:34:14+00:00",
-      "category": "Crypto",
-      "simple_explanation": "STS Digital said the platform offers institutional clients access to options-based strategies through predefined crypto investment products."
-    },
-    {
-      "title": "Ceigall India stock ends 4% higher after securing  ₹1,369 crore solar PPA projects; still down 31% from IPO price",
-      "description": "Shares of Ceigall India increased by 4% to  ₹275 as the company announced two Power Purchase Agreements with MSEDCL for solar projects totaling 337 MW. The projects have an estimated value of  ₹1,369 crore and are expected to be completed in 18 months.",
-      "url": "https://www.livemint.com/market/stock-market-news/ceigall-india-stock-ends-4-higher-after-securing-rs-1-369-crore-solar-ppa-projects-still-down-31-from-ipo-price-11774440942654.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/g71b5290bf9082354874c1b87c9441196eae38f570edf44948_1730105950735_1774440939051.png",
-      "source": "LiveMint",
-      "published_at": "2026-03-25T13:32:40+00:00",
-      "category": "India",
-      "simple_explanation": "Shares of Ceigall India increased by 4% to  ₹275 as the company announced two Power Purchase Agreements with MSEDCL for solar projects totaling 337 MW. The projects have an estimated value of  ₹1,369 "
     }
   ]
 }
