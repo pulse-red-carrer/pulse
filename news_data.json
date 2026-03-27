@@ -1,36 +1,266 @@
 {
-  "last_updated": "2026-03-27T20:04:27.577358+00:00",
+  "last_updated": "2026-03-27T22:01:04.682733+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Cybersecurity stocks fall on report Anthropic is testing a powerful new model",
-      "description": "The cybersecurity sector has slumped this year on fears that new AI will massively disrupt their business models.",
-      "url": "https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html",
+      "title": "TSA funding update: House GOP spikes DHS funding proposal, extending shutdown that's caused airport delays",
+      "description": "President Donald Trump on Friday issued an executive order to pay Transportation Security Administration agents during the shutdown.",
+      "url": "https://www.cnbc.com/2026/03/27/dhs-tsa-shutdown-congress.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-03-27T20:04:01+00:00",
+      "published_at": "2026-03-27T21:55:42+00:00",
       "category": "USA",
-      "simple_explanation": "The cybersecurity sector has slumped this year on fears that new AI will massively disrupt their business models."
+      "simple_explanation": "President Donald Trump on Friday issued an executive order to pay Transportation Security Administration agents during the shutdown."
     },
     {
-      "title": "Stock market today: S&P 500 clinches longest losing streak since 2022 as oil surges, 'Magnificent 7' stocks shed $300 billion",
-      "description": "The market sell-off continued on Friday even as Trump has postponed attacks against Iran's energy infrastructure.",
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-clinches-longest-losing-streak-since-2022-as-oil-surges-magnificent-7-stocks-shed-300-billion-200142689.html?.tsrc=rss",
+      "title": "S&P 500, Nasdaq hit lowest levels in over 6 months",
+      "description": "The S&P 500 fell to as low as 6,384.51 points on March 27—its lowest level since it hit $6,360.58 on Sep. 2, 2025. The Dow Jones Industrial Average (DJIA) fell to 45,208 points today, its lower level since hitting 45,211.78 points on Sep. 5 last year. The Nasdaq Composite fell to 20,957.42 ...",
+      "url": "https://www.thestreet.com/crypto/markets/sp-500-nasdaq-hit-lowest-levels-in-over-6-months?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-03-27T20:01:42+00:00",
+      "published_at": "2026-03-27T21:47:00+00:00",
       "category": "USA",
-      "simple_explanation": "The market sell-off continued on Friday even as Trump has postponed attacks against Iran's energy infrastructure."
+      "simple_explanation": "The S&P 500 fell to as low as 6,384.51 points on March 27—its lowest level since it hit $6,360.58 on Sep. 2, 2025. The Dow Jones Industrial Average (DJIA) fell to 45,208 points today, its lower level "
+    },
+    {
+      "title": "Why ExxonMobil (XOM) Stock Is Trading Up Today",
+      "description": "Shares of integrated energy company ExxonMobil (NYSE:XOM) jumped 3% in the afternoon session after the energy sector rallied as escalating geopolitical tensions in the Middle East stoked fears of a wider conflict and potential supply disruptions.",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/why-exxonmobil-xom-stock-trading-214508516.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T21:45:08+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Shares of integrated energy company ExxonMobil (NYSE:XOM) jumped 3% in the afternoon session after the energy sector rallied as escalating geopolitical tensions in the Middle East stoked fears of a wi"
+    },
+    {
+      "title": "Tiger Woods arrested for DUI after rollover car crash, Florida sheriff says",
+      "description": "Golf legend Tiger Woods was arrested for a DUI after a rollover car crash in Florida on Friday, the Martin County Sheriff said.",
+      "url": "https://www.cnbc.com/2026/03/27/tiger-woods-rollover-car-crash-florida.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-27T21:21:17+00:00",
+      "category": "USA",
+      "simple_explanation": "Golf legend Tiger Woods was arrested for a DUI after a rollover car crash in Florida on Friday, the Martin County Sheriff said."
+    },
+    {
+      "title": "Tech stocks suffer worst week in nearly a year, driven down by war worries, Meta legal woes",
+      "description": "Meta's twin legal defeats this week and a big sell-off in Micron spurred a drop in technology stocks, which were broadly hit by rising oil prices.",
+      "url": "https://www.cnbc.com/2026/03/27/tech-stocks-iran-war-meta-verdict.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-27T21:21:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Meta's twin legal defeats this week and a big sell-off in Micron spurred a drop in technology stocks, which were broadly hit by rising oil prices."
+    },
+    {
+      "title": "Bitcoin traders see 53% odds of sub-$66K BTC by April 24",
+      "description": "Bitcoin price slumped on Friday as uncertainty over the US economy and war in Iran negatively impacted stock and crypto markets.",
+      "url": "https://cointelegraph.com/news/bitcoin-traders-see-53-odds-of-sub-66k-btc-by-april-24?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDgvMDE5OGFlZmEtMWRlYi03OTEyLWFmZGMtM2M4ZjNkYjkwYzY3.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-27T21:15:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin price slumped on Friday as uncertainty over the US economy and war in Iran negatively impacted stock and crypto markets."
+    },
+    {
+      "title": "Why Atlassian (TEAM) Shares Are Trading Lower Today",
+      "description": "Shares of collaboration software company Atlassian (NASDAQ:TEAM) fell 4.5% in the afternoon session after the leak of Anthropic's \"Claude Mythos\" model ignited fresh concerns across the software sector.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-atlassian-team-shares-trading-211308516.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T21:13:08+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Shares of collaboration software company Atlassian (NASDAQ:TEAM) fell 4.5% in the afternoon session after the leak of Anthropic's \"Claude Mythos\" model ignited fresh concerns across the software secto"
+    },
+    {
+      "title": "Middle East war: global economic fallout",
+      "description": "Here are the latest economic events in the Middle East war:\n- Iran turns back ships -\nIran's Revolutionary Guards said Friday that they had turned back three ships trying to transit the Strait of Hormuz, saying the route was closed to vessels travelling to and from ports linked to countries aiding t",
+      "url": "https://finance.yahoo.com/economy/articles/middle-east-war-global-economic-160636725.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T21:12:42+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Here are the latest economic events in the Middle East war:\n- Iran turns back ships -\nIran's Revolutionary Guards said Friday that they had turned back three ships trying to transit the Strait of Horm"
+    },
+    {
+      "title": "Dow Jones Dives, Oil Prices At $100 As Iran War Drags On; Tesla Looms",
+      "description": "The major indexes sold off to hit six-month lows as oil prices near $100 amid the Iran war. Tesla deliveries loom.",
+      "url": "https://finance.yahoo.com/m/390ee993-3b8e-3011-9287-1cde0325dcb7/dow-jones-dives%2C-oil-prices.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T21:10:45+00:00",
+      "category": "USA",
+      "simple_explanation": "The major indexes sold off to hit six-month lows as oil prices near $100 amid the Iran war. Tesla deliveries loom."
+    },
+    {
+      "title": "Uncertainty over war-induced oil crisis dominates key energy summit",
+      "description": "The world's largest energy conference wrapped up in Houston on Friday with the crisis caused by the US-Israel war on Iran dominating discussions -- but with little to show for it beyond a prevailing sense of uncertainty.The effects of the crisis were a central theme at the conference in Houston.",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/uncertainty-over-war-induced-oil-210556970.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T21:05:56+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The world's largest energy conference wrapped up in Houston on Friday with the crisis caused by the US-Israel war on Iran dominating discussions -- but with little to show for it beyond a prevailing s"
+    },
+    {
+      "title": "8x8, Flywire, Commvault, Upland Software, and Procore Technologies Shares Are Falling, What You Need To Know",
+      "description": "A number of stocks fell in the afternoon session after the leak of Anthropic's \"Claude Mythos\" model ignited fresh concerns across the software sector.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/8x8-flywire-commvault-upland-software-210508059.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T21:05:08+00:00",
+      "category": "Commodities",
+      "simple_explanation": "A number of stocks fell in the afternoon session after the leak of Anthropic's \"Claude Mythos\" model ignited fresh concerns across the software sector."
+    },
+    {
+      "title": "Forte Minerals Moving To Advance Alto Ruri Gold Project in Peru",
+      "description": "Forte Minerals (CUAU.CN) after trade on Friday said it is advancing community engagement and permitt",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forte-minerals-moving-advance-alto-205434844.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T20:54:34+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Forte Minerals (CUAU.CN) after trade on Friday said it is advancing community engagement and permitt"
+    },
+    {
+      "title": "Equities Tumble as Nasdaq Logs Worst Week in 12 Months",
+      "description": "US equities slid Friday as Wall Street capped another rough week, with the Nasdaq Composite index po",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-tumble-nasdaq-logs-worst-205310888.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T20:53:10+00:00",
+      "category": "USA",
+      "simple_explanation": "US equities slid Friday as Wall Street capped another rough week, with the Nasdaq Composite index po"
+    },
+    {
+      "title": "Stock Market Today: Dow Enters Correction As Oil Jumps; Micron Rises (Live Coverage)",
+      "description": "The Dow Jones index dropped Friday as Trump extended the Iran negotiations deadline. Oil prices rallied.",
+      "url": "https://finance.yahoo.com/m/6f427f71-e4e2-3dee-af0d-09a1e56d4bd3/stock-market-today%3A-dow.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T20:49:28+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dow Jones index dropped Friday as Trump extended the Iran negotiations deadline. Oil prices rallied."
+    },
+    {
+      "title": "US Equity Indexes Slump This Week as Dragged-Out Iran War Concerns Fuel Inflation Worries",
+      "description": "US equity indexes fell this week as a failure to deliver a consistent message on how the Trump admin",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-slump-week-204912767.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T20:49:12+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity indexes fell this week as a failure to deliver a consistent message on how the Trump admin"
+    },
+    {
+      "title": "Dow sheds nearly 800 points, stocks sink as volatility spikes higher",
+      "description": "US stocks (^DJI, ^IXIC, ^GSPC) are selling off in Friday's session, marking another week of losses for all three of the major indexes. The Nasdaq Composite sank by over 2.1% and dropping 3.23% over the past five days.Yahoo Finance Senior Reporter Brooke DiPalma tracks the day's losses across sectors",
+      "url": "https://finance.yahoo.com/video/dow-sheds-nearly-800-points-stocks-sink-as-volatility-spikes-higher-204806451.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T20:48:06+00:00",
+      "category": "USA",
+      "simple_explanation": "US stocks (^DJI, ^IXIC, ^GSPC) are selling off in Friday's session, marking another week of losses for all three of the major indexes. The Nasdaq Composite sank by over 2.1% and dropping 3.23% over th"
+    },
+    {
+      "title": "S&P 500 Posts Fifth Consecutive Weekly Drop, Set for Biggest Monthly Loss in More Than Three Years",
+      "description": "The Standard & Poor's 500 index posted a 2.1% loss this week, marking its fifth consecutive weekly l",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-fifth-consecutive-204708833.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T20:47:08+00:00",
+      "category": "USA",
+      "simple_explanation": "The Standard & Poor's 500 index posted a 2.1% loss this week, marking its fifth consecutive weekly l"
+    },
+    {
+      "title": "Crypto Biz: Stablecoin jitters meet institutional momentum",
+      "description": "Regulatory uncertainty shakes stablecoins as institutions push forward, prediction markets tighten rules and AI agents reshape micropayment economics.",
+      "url": "https://cointelegraph.com/news/crypto-biz-stablecoin-regulation-institutions-ai-micropayments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmU4YzUtODU2Zi03YWQ4LThhMTctMzEwODFlM2ExNmNkLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-27T20:30:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Regulatory uncertainty shakes stablecoins as institutions push forward, prediction markets tighten rules and AI agents reshape micropayment economics."
+    },
+    {
+      "title": "Forte Minerals Provides Updates on Alto Ruri and Pucarini Projects, Peru",
+      "description": "VANCOUVER, British Columbia, March 27, 2026 (GLOBE NEWSWIRE) -- Forte Minerals Corp. (“Forte” or the “Company”) (CSE: CUAU) (OTCQB: FOMNF) (Frankfurt: 2OA) is pleased to announce that it is advancing community engagement and permitting at the Alto Ruri Project (“Alto Ruri”) located approximately 15 ",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/forte-minerals-provides-updates-alto-202900066.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T20:29:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "VANCOUVER, British Columbia, March 27, 2026 (GLOBE NEWSWIRE) -- Forte Minerals Corp. (“Forte” or the “Company”) (CSE: CUAU) (OTCQB: FOMNF) (Frankfurt: 2OA) is pleased to announce that it is advancing "
+    },
+    {
+      "title": "TSX Closer: The Index Closes Higher; Desjardins Sees Scope For Further Rise In Foreign Demand In Canada Stocks",
+      "description": "The Toronto Stock Exchange turned positive late Friday, with the resources-heavy index boosted by hi",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsx-closer-index-closes-higher-201901508.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T20:19:01+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The Toronto Stock Exchange turned positive late Friday, with the resources-heavy index boosted by hi"
+    },
+    {
+      "title": "P2P.me team discloses and apologizes for prediction market bets",
+      "description": "The P2P.me team opened positions on the Polymarket prediction platform to wager whether the project would hit its $6 million fundraising goal.",
+      "url": "https://cointelegraph.com/news/p2p-me-apologizes-prediction-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDMwZTUtNTRhNS03NTBlLTgwMjgtMDk3NWZkNzdiMTBlLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-27T20:15:59+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The P2P.me team opened positions on the Polymarket prediction platform to wager whether the project would hit its $6 million fundraising goal."
     },
     {
       "title": "TSA officers will start getting paychecks as early as Monday, DHS says",
-      "description": "The announcement comes as very long lines for screening of air travelers by TSA as airports around the United States persist.",
+      "description": "The announcement comes as long lines for TSA screening of air travelers at  airports around the United States persist.",
       "url": "https://www.cnbc.com/2026/03/27/tsa-dhs-paychecks-shutdown.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-03-27T20:00:39+00:00",
+      "published_at": "2026-03-27T20:10:06+00:00",
       "category": "USA",
-      "simple_explanation": "The announcement comes as very long lines for screening of air travelers by TSA as airports around the United States persist."
+      "simple_explanation": "The announcement comes as long lines for TSA screening of air travelers at  airports around the United States persist."
+    },
+    {
+      "title": "Price predictions 3/27: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH, LINK",
+      "description": "Bitcoin and select major altcoins have turned down sharply, indicating that the bears are trying to take charge of the market.",
+      "url": "https://cointelegraph.com/news/price-predictions-3-27-btc-eth-bnb-xrp-sol-doge-hype-ada-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDMwNTktODhlNy03Mzc1LTliMGMtMDBiYTkyNmU1MmYwLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-27T20:06:32+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin and select major altcoins have turned down sharply, indicating that the bears are trying to take charge of the market."
+    },
+    {
+      "title": "Citigroup Moves Into $1 Trillion London Gold Market With Heathrow Vault Plan",
+      "description": "Citigroup partners with Malca-Amit and seeks clearing role as bullion demand rises in London's gold hub.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/citigroup-moves-1-trillion-london-200443606.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T20:04:43+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Citigroup partners with Malca-Amit and seeks clearing role as bullion demand rises in London's gold hub."
+    },
+    {
+      "title": "US stocks today: US stocks tumble to lowest close in 6 months as Iran war drags; Nasdaq confirms correction",
+      "description": "U.S. stocks plunged Friday, with major indexes hitting over six-month lows as the Middle East war suppressed risk appetite. Megacap and software stocks led the decline, while rising oil prices fueled inflation fears and dampened rate cut expectations. Markets now anticipate potential Fed rate hikes.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-tumble-to-lowest-close-in-over-six-months-as-iran-war-drags/articleshow/129854169.cms",
+      "image": "https://img.etimg.com/photo/msid-129854169,imgsize-44356.cms",
+      "source": "Economic Times",
+      "published_at": "2026-03-27T20:01:45+00:00",
+      "category": "India",
+      "simple_explanation": "U.S. stocks plunged Friday, with major indexes hitting over six-month lows as the Middle East war suppressed risk appetite. Megacap and software stocks led the decline, while rising oil prices fueled "
+    },
+    {
+      "title": "Gold Heads for First Weekly Gain Since Middle East War Began",
+      "description": "(Bloomberg) -- Gold staged a recovery, putting it on track for its first weekly gain since the US-Israeli war in Iran began, as bargain-buying accelerated after recent price declines.The metal rose as much as much as 4.1% to top $4,550 an ounce Friday, clawing back the previous session’s loss. Gold ",
+      "url": "https://finance.yahoo.com/news/gold-gains-trump-extends-deadline-062541346.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-27T19:58:46+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Bloomberg) -- Gold staged a recovery, putting it on track for its first weekly gain since the US-Israeli war in Iran began, as bargain-buying accelerated after recent price declines.The metal rose as"
     },
     {
       "title": "Epstein victims sue Google and the Trump administration over alleged disclosure of personal information",
@@ -43,84 +273,14 @@
       "simple_explanation": "A lawsuit filed in Northern California alleges that Google's AI features generated contact information for Epstein victims."
     },
     {
-      "title": "Tiger Woods involved in rollover car crash, Florida Sheriff's office says",
-      "description": "Tiger Woods was involved in a rollover car crash in Florida on Friday, the Martin County Sheriff said in a statement.",
-      "url": "https://www.cnbc.com/2026/03/27/tiger-woods-rollover-car-crash-florida.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-27T19:56:24+00:00",
-      "category": "USA",
-      "simple_explanation": "Tiger Woods was involved in a rollover car crash in Florida on Friday, the Martin County Sheriff said in a statement."
-    },
-    {
-      "title": "Oil at $100 Could Trigger 10% US Stock Selloff, Guggenheim Warns",
-      "description": "This article first appeared on GuruFocus.  Guggenheim Partners Investment Management is flagging a scenario that could test one of the market's most reliable supports.  In comments from chief investment officer Anne Walsh, the firm outlined a stress case where crude prices hold near $100 a barrel fo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oil-100-could-trigger-10-195303992.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-27T19:53:03+00:00",
-      "category": "USA",
-      "simple_explanation": "This article first appeared on GuruFocus.  Guggenheim Partners Investment Management is flagging a scenario that could test one of the market's most reliable supports.  In comments from chief investme"
-    },
-    {
-      "title": "Carnival Cuts Profit Outlook as Oil Surges Over 60% This Year",
-      "description": "Fuel costs jump to $2.15 billion as Middle East conflict drives crude higher, pressuring full-year earnings guidance.",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/carnival-cuts-profit-outlook-oil-195148944.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-27T19:51:48+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Fuel costs jump to $2.15 billion as Middle East conflict drives crude higher, pressuring full-year earnings guidance."
-    },
-    {
-      "title": "Nasdaq slides into correction amid Iran tensions and oil surge",
-      "description": "Trump extended the deadline for Iran to reopen the Strait of Hormuz to April 6, saying talks were “going very well”",
-      "url": "https://www.proactiveinvestors.com/companies/news/1089653/nasdaq-to-lead-the-fall-as-stocks-shrug-off-trump-s-deadline-delay-1089653.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-27T19:48:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Trump extended the deadline for Iran to reopen the Strait of Hormuz to April 6, saying talks were “going very well”"
-    },
-    {
-      "title": "Today's Market: Dow Tumbles 500 Points, S&P 500 and Nasdaq Dips 1% as Iran Talks Falter",
-      "description": "Dow Tumbles Into Correction. Oil Tops $111 as Iran Talks Falter",
-      "url": "https://finance.yahoo.com/markets/articles/todays-market-dow-tumbles-500-194707509.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-27T19:47:07+00:00",
-      "category": "USA",
-      "simple_explanation": "Dow Tumbles Into Correction. Oil Tops $111 as Iran Talks Falter"
-    },
-    {
-      "title": "Nvidia, AMD and Intel Lead Chip Stocks Sell-Off Amid Middle East Tension",
-      "description": "War Jitters Torpedo Chip Stocks: Nvidia, Broadcom, Intel All in the Red",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-amd-intel-lead-chip-194439897.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-27T19:44:39+00:00",
-      "category": "Commodities",
-      "simple_explanation": "War Jitters Torpedo Chip Stocks: Nvidia, Broadcom, Intel All in the Red"
-    },
-    {
-      "title": "Sector Update: Energy",
-      "description": "Energy stocks were higher late Friday afternoon, with the NYSE Energy Sector Index rising 1.4% and t",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-194301083.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-27T19:43:01+00:00",
-      "category": "USA",
-      "simple_explanation": "Energy stocks were higher late Friday afternoon, with the NYSE Energy Sector Index rising 1.4% and t"
-    },
-    {
-      "title": "CONMED, Bruker, Waters Corporation, Avantor, and Bio-Techne Stocks Trade Down, What You Need To Know",
-      "description": "A number of stocks fell in the afternoon session after major indices including the S&P 500 and Dow Jones Industrial Average fell sharply as investors reacted to escalating uncertainty tied to the U.S.-Iran conflict and policy deadlines set by the Trump administration. Markets dislike unpredictabilit",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/conmed-bruker-waters-corporation-avantor-193708939.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-27T19:37:08+00:00",
-      "category": "USA",
-      "simple_explanation": "A number of stocks fell in the afternoon session after major indices including the S&P 500 and Dow Jones Industrial Average fell sharply as investors reacted to escalating uncertainty tied to the U.S."
+      "title": "Detroit set to enter Michigan‘s battle against Coinbase prediction markets",
+      "description": "The US city is expected to pen an amicus brief in Coinbase's lawsuit against the state of Michigan, which the exchange filed ahead of its prediction markets launch.",
+      "url": "https://cointelegraph.com/news/detroit-michigan-lawsuit-coinbase-prediction-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzI1NDItMWVkNS03NGM1LWJlYjAtOTliYTcxYzdlNmQ1LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-27T19:37:22+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The US city is expected to pen an amicus brief in Coinbase's lawsuit against the state of Michigan, which the exchange filed ahead of its prediction markets launch."
     },
     {
       "title": "Business Lookahead: Gauging the war's impact",
@@ -143,16 +303,6 @@
       "simple_explanation": "Online ​furniture ​rental platform ​Rentomojo has filed for an initial ‌public ⁠offering ⁠in ​Mumbai, according to a ​draft prospectus dated Friday."
     },
     {
-      "title": "Elanco, Tandem Diabetes, Fortrea, Natera, and Myriad Genetics Shares Plummet, What You Need To Know",
-      "description": "A number of stocks fell in the afternoon session after major indices including the S&P 500 and Dow Jones Industrial Average fell sharply as investors reacted to escalating uncertainty tied to the U.S.-Iran conflict and policy deadlines set by the Trump administration. Markets dislike unpredictabilit",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elanco-tandem-diabetes-fortrea-natera-192908793.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-27T19:29:08+00:00",
-      "category": "USA",
-      "simple_explanation": "A number of stocks fell in the afternoon session after major indices including the S&P 500 and Dow Jones Industrial Average fell sharply as investors reacted to escalating uncertainty tied to the U.S."
-    },
-    {
       "title": "White House launches app touting Trump's record, with some key omissions",
       "description": "The app includes a link to report tips to Immigration and Customs Enforcement.",
       "url": "https://www.cnbc.com/2026/03/27/white-house-app-trump-iran-war-oil-gas-ice.html",
@@ -163,16 +313,6 @@
       "simple_explanation": "The app includes a link to report tips to Immigration and Customs Enforcement."
     },
     {
-      "title": "Stock Market Today: Nasdaq Slumps 2% On Iran War, Rate Worries; Micron Rises (Live Coverage)",
-      "description": "The Dow Jones index dropped Friday as Trump extended the Iran negotiations deadline. Oil prices rallied.",
-      "url": "https://finance.yahoo.com/m/6f427f71-e4e2-3dee-af0d-09a1e56d4bd3/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-27T19:26:34+00:00",
-      "category": "USA",
-      "simple_explanation": "The Dow Jones index dropped Friday as Trump extended the Iran negotiations deadline. Oil prices rallied."
-    },
-    {
       "title": "Stocks fall, oil prices rise on darkening economic outlook from Middle East war",
       "description": "GLOBAL-MARKETS:S",
       "url": "https://www.livemint.com/market/stocks-fall-oil-prices-rise-on-darkening-economic-outlook-from-middle-east-war-11774638459538.html",
@@ -181,16 +321,6 @@
       "published_at": "2026-03-27T19:07:39+00:00",
       "category": "India",
       "simple_explanation": "GLOBAL-MARKETS:S"
-    },
-    {
-      "title": "TSA funding update: House GOP spikes DHS funding proposal, extending shutdown that's caused airport delays",
-      "description": "Funding for the Department of Homeland Security lapsed in February, leading to chaos at airports.",
-      "url": "https://www.cnbc.com/2026/03/27/dhs-tsa-shutdown-congress.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-27T18:59:58+00:00",
-      "category": "USA",
-      "simple_explanation": "Funding for the Department of Homeland Security lapsed in February, leading to chaos at airports."
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -213,34 +343,14 @@
       "simple_explanation": "USA-STOCKS/ (UPDATE 5):US STOCKS-Stocks stumble to lowest levels in over six months as Middle East tensions weigh"
     },
     {
-      "title": "Stocks Are in Retreat After a Month of War. Here Are the Losers—And Winners",
-      "description": "The majority of stocks have fallen since the war in Iran erupted late last month, with mining, travel, and homebuilder stocks hit particularly hard by the combination of rising oil prices and interest rates.",
-      "url": "https://www.investopedia.com/stocks-are-in-retreat-after-a-month-of-war-here-are-the-losers-and-winners-11936008?.tsrc=rss",
+      "title": "Bitcoin Policy Institute Voices Strong Opposition to PARITY Act",
+      "description": "A newly proposed bipartisan bill that hopes to deliver digital asset tax clarity has already ran into opposition within the crypto industry.",
+      "url": "https://www.bankless.com/read/news/bitcoin-policy-institute-voices-strong-opposition-to-newly-published-parity-act?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-03-27T18:35:34+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The majority of stocks have fallen since the war in Iran erupted late last month, with mining, travel, and homebuilder stocks hit particularly hard by the combination of rising oil prices and interest"
-    },
-    {
-      "title": "Oil and gold prices move higher, Carnival cuts 2026 outlook",
-      "description": "Yahoo Finance Anchor Josh Lipton tracks today's top moving stocks and biggest market stories in this Market Minute.US stocks slide amid rising oil (CL=F, BZ=F) prices tied to the Iran war, while gold (GC=F) inches higher.Carnival (CCL) stocks fall after the company cut its 2026 outlook amid fuel cos",
-      "url": "https://finance.yahoo.com/video/oil-and-gold-prices-move-higher-carnival-cuts-2026-outlook-182318904.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-27T18:23:18+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Yahoo Finance Anchor Josh Lipton tracks today's top moving stocks and biggest market stories in this Market Minute.US stocks slide amid rising oil (CL=F, BZ=F) prices tied to the Iran war, while gold "
-    },
-    {
-      "title": "LaFleur Minerals Files a PEA Supporting Restart of Gold Production at the Beacon Gold Mill in Quebec",
-      "description": "LaFleur Minerals (LFLR.CN) on Friday released a Preliminary Economic Assessment (PEA) for Swanson Go",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/lafleur-minerals-files-pea-supporting-180535408.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-27T18:05:35+00:00",
-      "category": "Commodities",
-      "simple_explanation": "LaFleur Minerals (LFLR.CN) on Friday released a Preliminary Economic Assessment (PEA) for Swanson Go"
+      "published_at": "2026-03-27T18:47:12+00:00",
+      "category": "Crypto",
+      "simple_explanation": "A newly proposed bipartisan bill that hopes to deliver digital asset tax clarity has already ran into opposition within the crypto industry."
     },
     {
       "title": "Brown-Forman shares climb nearly 7% on merger talks with French spirits giant Pernod Ricard",
@@ -263,16 +373,6 @@
       "simple_explanation": "NYSE Arca greenlit Morgan Stanley’s application on Wednesday to list shares of a spot Bitcoin exchange-traded fund. Another Bitcoin ETF On Wall Street The exchange certified its approval for the “list"
     },
     {
-      "title": "Update: Gold Rebounds from a Three-Month Low Despite a Higher Dollar",
-      "description": "(Updates prices.) Gold traded higher early Thursday, rebounding from a three-month low a day earl",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-rebounds-three-month-low-180017501.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-27T18:00:17+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Updates prices.) Gold traded higher early Thursday, rebounding from a three-month low a day earl"
-    },
-    {
       "title": "Mukesh Ambani’s mega IPO Reliance Jio is said to set bank fees in line with NSE",
       "description": "Reliance Industries Ltd. is planning a massive IPO for its telecom arm, Jio Platforms Ltd. The company is setting investment banking fees at a competitive 0.65% of the issue size. This move is in line with the National Stock Exchange of India Ltd.'s proposed fees. The Jio IPO could be India's larges",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/mukesh-ambanis-mega-ipo-reliance-jio-is-said-to-set-bank-fees-in-line-with-nse/articleshow/129851939.cms",
@@ -281,26 +381,6 @@
       "published_at": "2026-03-27T17:53:58+00:00",
       "category": "India",
       "simple_explanation": "Reliance Industries Ltd. is planning a massive IPO for its telecom arm, Jio Platforms Ltd. The company is setting investment banking fees at a competitive 0.65% of the issue size. This move is in line"
-    },
-    {
-      "title": "Comex Gold Ends the Week 1.72% Lower at $4492.00",
-      "description": "Gold settled up 2.7% Friday, and silver climbed 2.8%. For the week, gold posted a loss, while silver rose.",
-      "url": "https://finance.yahoo.com/m/40258e3c-c380-36de-83f2-c1bdff5f84bf/comex-gold-ends-the-week.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-27T17:49:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold settled up 2.7% Friday, and silver climbed 2.8%. For the week, gold posted a loss, while silver rose."
-    },
-    {
-      "title": "US lawmakers publish crypto tax proposal without Bitcoin tax exemption",
-      "description": "The bill proposes exempting dollar-pegged stablecoins from gains or losses if the tokens remain tightly pegged to the underlying fiat currency.",
-      "url": "https://cointelegraph.com/news/us-lawmakers-crypto-tax-no-bitcoin-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmQyNDQtMTg4MC03NGQzLTk1MzQtMDU2ZjcwZDE1NTUyLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-27T17:38:09+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The bill proposes exempting dollar-pegged stablecoins from gains or losses if the tokens remain tightly pegged to the underlying fiat currency."
     },
     {
       "title": "US stocks: Citigroup dismisses report of potential US regional bank acquisition",
@@ -321,86 +401,6 @@
       "published_at": "2026-03-27T17:22:37+00:00",
       "category": "India",
       "simple_explanation": "Chamelidevi Flour Mills Limited, an agro-processing company, has received approval for its Draft Red Herring Prospectus for an IPO, planning to issue 58,20,000 equity shares. Proceeds will enhance ope"
-    },
-    {
-      "title": "Kratikal Tech gets BSE approval to raise funds through an SME IPO",
-      "description": "Kratikal Tech Limited's IPO has received BSE approval to issue 3 million equity shares at  ₹10 each. The funds will support investments in Threatcop FZ LLC and Threatcop AI Inc., alongside enhancing cybersecurity services for diverse clients globally.",
-      "url": "https://www.livemint.com/market/stock-market-news/kratikal-tech-gets-bse-approval-to-raise-funds-through-an-sme-ipo-11774631273784.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/SME_IPO_1757393434059_1757393439445_1774631835915.png",
-      "source": "LiveMint",
-      "published_at": "2026-03-27T17:22:19+00:00",
-      "category": "India",
-      "simple_explanation": "Kratikal Tech Limited's IPO has received BSE approval to issue 3 million equity shares at  ₹10 each. The funds will support investments in Threatcop FZ LLC and Threatcop AI Inc., alongside enhancing c"
-    },
-    {
-      "title": "US stock market extends sell-off into second day; Nasdaq, Dow enter correction territory",
-      "description": "Despite Trump's reassurances, US stocks plummeted due to investor doubts over the Iran conflict, leading the Nasdaq and Dow into correction territory. Brent crude prices surged, raising fears of economic repercussions as tensions in the Middle East escalate.",
-      "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-extends-sell-off-into-second-day-nasdaq-dow-enter-correction-territory-11774626935320.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/US-STOCKS-2_1767939388346_1767939403937_1774626931510.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-03-27T17:15:15+00:00",
-      "category": "India",
-      "simple_explanation": "Despite Trump's reassurances, US stocks plummeted due to investor doubts over the Iran conflict, leading the Nasdaq and Dow into correction territory. Brent crude prices surged, raising fears of econo"
-    },
-    {
-      "title": "Coinbase users push back against prediction markets notifications",
-      "description": "While prediction market platforms are under legal scrutiny in the US, many Coinbase users are claiming that the app is pushing them to gamble.",
-      "url": "https://cointelegraph.com/news/coinbase-users-prediction-markets-notifications-march-madness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDJmZGUtNWI0OC03ODUyLTlhNzItN2VjZGJmNDU2NDM3LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-27T16:38:44+00:00",
-      "category": "Crypto",
-      "simple_explanation": "While prediction market platforms are under legal scrutiny in the US, many Coinbase users are claiming that the app is pushing them to gamble."
-    },
-    {
-      "title": "Rupee crosses 94/$1 mark for the first time, ends at 94.81/$ amid volatile crude prices due to US-Iran war",
-      "description": "The Indian rupee hit a record low of 94.81 against the dollar, nearing 95, as surging crude oil prices and a potentially prolonged West Asia conflict weighed on the currency. Mild central bank intervention offered little respite, with traders now forecasting levels as weak as 97 per dollar.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-crosses-94/1-mark-for-the-first-time-ends-at-94-81/-amid-volatile-crude-prices-due-to-us-iran-war/articleshow/129851183.cms",
-      "image": "https://img.etimg.com/photo/msid-129851183,imgsize-38644.cms",
-      "source": "Economic Times",
-      "published_at": "2026-03-27T16:32:05+00:00",
-      "category": "India",
-      "simple_explanation": "The Indian rupee hit a record low of 94.81 against the dollar, nearing 95, as surging crude oil prices and a potentially prolonged West Asia conflict weighed on the currency. Mild central bank interve"
-    },
-    {
-      "title": "Crypto 'Works Like Casino' Unless You're An Insider, Says Analyst: 'Just Buy Bitcoin And Get On With Your Life'",
-      "description": "Renowned cryptocurrency analyst Willy Woo likened all cryptocurrency trading other than Bitcoin to gambling—unless you’re an insider who knows the game is rigged in your favor. Crypto Trading Like Gambling, Says Woo In an X post, Woo said that without an informational or structural edge, one shouldn",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-works-casino-unless-youre-163138023.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-27T16:31:38+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Renowned cryptocurrency analyst Willy Woo likened all cryptocurrency trading other than Bitcoin to gambling—unless you’re an insider who knows the game is rigged in your favor. Crypto Trading Like Gam"
-    },
-    {
-      "title": "US Stocks: Rocket Pharma shares fall 15% despite FDA nod for childhood disorder treatment",
-      "description": "Rocket Pharmaceuticals' shares dropped significantly after gaining FDA approval for Kresladi, a gene therapy for a rare childhood immune disorder. Investors are concerned about practical challenges limiting patient access, despite the drug's potential to help those with severe Leukocyte Adhesion Def",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-rocket-pharma-shares-fall-15-despite-fda-nod-for-childhood-disorder-treatment/articleshow/129851108.cms",
-      "image": "https://img.etimg.com/photo/msid-129851108,imgsize-754962.cms",
-      "source": "Economic Times",
-      "published_at": "2026-03-27T16:17:16+00:00",
-      "category": "India",
-      "simple_explanation": "Rocket Pharmaceuticals' shares dropped significantly after gaining FDA approval for Kresladi, a gene therapy for a rare childhood immune disorder. Investors are concerned about practical challenges li"
-    },
-    {
-      "title": "Bitcoin, XRP down as Trump delays Iran negotiations deadline",
-      "description": "Markets opened in red on March 27 as geopolitical tensions kept investors on edge. The market reaction followed President Donald Trump's extension of a deadline tied to potential strikes on Iran’s energy infrastructure to Apr. 6, signaling a temporary pause as negotiations continue. Trump ...",
-      "url": "https://www.thestreet.com/crypto/trading/bitcoin-xrp-down-as-trump-delays-iran-negotiations-deadline?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-27T16:11:37+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Markets opened in red on March 27 as geopolitical tensions kept investors on edge. The market reaction followed President Donald Trump's extension of a deadline tied to potential strikes on Iran’s ene"
-    },
-    {
-      "title": "US stocks: US Fed's Anna Paulson says Iran war increases risks to growth, inflation",
-      "description": "Philadelphia Federal Reserve President ​Anna Paulson said on ​Friday the Iran war is creating challenges for ​the U.S. economy, while stopping short of saying what that might mean for near-term changes in monetary policy.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-feds-anna-paulson-says-iran-war-increases-risks-to-growth-inflation/articleshow/129850851.cms",
-      "image": "https://img.etimg.com/photo/msid-129850851,imgsize-79132.cms",
-      "source": "Economic Times",
-      "published_at": "2026-03-27T16:00:05+00:00",
-      "category": "India",
-      "simple_explanation": "Philadelphia Federal Reserve President ​Anna Paulson said on ​Friday the Iran war is creating challenges for ​the U.S. economy, while stopping short of saying what that might mean for near-term change"
     }
   ]
 }
