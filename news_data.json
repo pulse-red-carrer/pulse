@@ -1,26 +1,266 @@
 {
-  "last_updated": "2026-03-31T22:00:12.013179+00:00",
+  "last_updated": "2026-03-31T23:51:17.742240+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Nike shares tumble on weak sales outlook, slower-than-expected China recovery",
+      "title": "Trump signs executive order limiting mail-in voting ahead of 2026 U.S. elections",
+      "description": "Trump has put pressure on Congress to pass the SAVE America Act, a measure that would require photo identification and proof of U.S. citizenship to vote.",
+      "url": "https://www.cnbc.com/2026/03/31/trump-mail-in-voting-executive-order.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-31T23:50:06+00:00",
+      "category": "USA",
+      "simple_explanation": "Trump has put pressure on Congress to pass the SAVE America Act, a measure that would require photo identification and proof of U.S. citizenship to vote."
+    },
+    {
+      "title": "Dow Jones Futures: Trump Signals Iran War Exit In 'Two Or Three Weeks' After Market Soars; 7 Stocks To Watch",
+      "description": "President Trump is eyeing an Iran war exit even if the Strait of Hormuz stays closed. Stocks soared, oil prices were mixed.",
+      "url": "https://finance.yahoo.com/m/a8adcb6d-15db-3091-a220-e37a4a87e62c/dow-jones-futures%3A-trump.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T23:40:30+00:00",
+      "category": "USA",
+      "simple_explanation": "President Trump is eyeing an Iran war exit even if the Strait of Hormuz stays closed. Stocks soared, oil prices were mixed."
+    },
+    {
+      "title": "ITT, Oshkosh, Cummins, Littelfuse, and American Superconductor Shares Skyrocket, What You Need To Know",
+      "description": "A number of stocks jumped in the morning session after markets rebounded, driven by stabilizing oil prices and reports that President Trump was considering an end to the military conflict in Iran.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/itt-oshkosh-cummins-littelfuse-american-233319880.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T23:33:19+00:00",
+      "category": "USA",
+      "simple_explanation": "A number of stocks jumped in the morning session after markets rebounded, driven by stabilizing oil prices and reports that President Trump was considering an end to the military conflict in Iran."
+    },
+    {
+      "title": "Norwegian Cruise Line, Offerpad, fuboTV, Somnigroup, and Ralph Lauren Shares Are Soaring, What You Need To Know",
+      "description": "A number of stocks jumped in the morning session after investors priced in a potential de-escalation of the conflict in Iran alongside reassuring commentary from the Federal Reserve on interest rates.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/norwegian-cruise-line-offerpad-fubotv-232519367.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T23:25:19+00:00",
+      "category": "Commodities",
+      "simple_explanation": "A number of stocks jumped in the morning session after investors priced in a potential de-escalation of the conflict in Iran alongside reassuring commentary from the Federal Reserve on interest rates."
+    },
+    {
+      "title": "ExxonMobil (XOM) Valuation Check As Middle East Tensions Lift Oil Prices And Support Operational Momentum",
+      "description": "Exxon Mobil (XOM) has surged into focus as Middle East conflict tightens oil supply routes, with Iran’s move to restrict the Strait of Hormuz and military strikes lifting crude prices and energy security concerns. See our latest analysis for Exxon Mobil. That backdrop of supply risk has fed into Exx",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/exxonmobil-xom-valuation-check-middle-230944259.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T23:09:44+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Exxon Mobil (XOM) has surged into focus as Middle East conflict tightens oil supply routes, with Iran’s move to restrict the Strait of Hormuz and military strikes lifting crude prices and energy secur"
+    },
+    {
+      "title": "Bitcoin Price: Powell Just Spoke and the Jobs Report Drops April 3 — Here’s What Could Finally Move BTC",
+      "description": "The Bitcoin price has been stuck between $65,000 and $75,000 since early February, and nothing has broken the range. Now two events are lining up that could finally force a move in either direction. First is Powell’s speech at Harvard on March 30, one of his last public appearances before his term e",
+      "url": "https://247wallst.com/investing/2026/03/31/bitcoin-price-powell-just-spoke-and-the-jobs-report-drops-april-3-heres-what-could-finally-move-btc/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T23:05:19+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Bitcoin price has been stuck between $65,000 and $75,000 since early February, and nothing has broken the range. Now two events are lining up that could finally force a move in either direction. F"
+    },
+    {
+      "title": "Nouryon announces global price increase for ketone peroxide products",
+      "description": "Global specialty chemicals company Nouryon has today announced a global price increase of up to 30% on its full range of ketone peroxide products, which becomes effective April 1, 2026. The increase applies to all ketone peroxides marketed under the Cadox®, Butanox® and Trigonox® brands. The adjustm",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/nouryon-announces-global-price-increase-225200205.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T22:52:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Global specialty chemicals company Nouryon has today announced a global price increase of up to 30% on its full range of ketone peroxide products, which becomes effective April 1, 2026. The increase a"
+    },
+    {
+      "title": "Trump says US will leave Iran within 2 to 3 weeks",
+      "description": "“We’re finishing the job, and I think within maybe two weeks, maybe a couple of days longer to do the job,\" Trump told reporters in the Oval Office.",
+      "url": "https://cointelegraph.com/news/trump-signals-us-withdrawal-iran-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQ1ZmUtOGM5YS03ZDY4LWI2NTktZmEwYzY3MGZkZDJlLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-31T22:49:56+00:00",
+      "category": "Crypto",
+      "simple_explanation": "“We’re finishing the job, and I think within maybe two weeks, maybe a couple of days longer to do the job,\" Trump told reporters in the Oval Office."
+    },
+    {
+      "title": "Meta (META) Stock Trades Up, Here Is Why",
+      "description": "Shares of social network operator Meta Platforms (NASDAQ:META) jumped 3.2% in the morning session after President Donald Trump signaled a willingness to end the multi-week military conflict with Iran.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-stock-trades-why-224519243.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T22:45:19+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Shares of social network operator Meta Platforms (NASDAQ:META) jumped 3.2% in the morning session after President Donald Trump signaled a willingness to end the multi-week military conflict with Iran."
+    },
+    {
+      "title": "Nike shares fall 9% on weak outlook, expected 20% sales decline in China",
       "description": "Nike has shown some gains in North America, its largest market, amid its turnaround, but the strength was offset by weakness in China.",
       "url": "https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-03-31T21:53:17+00:00",
+      "published_at": "2026-03-31T22:45:18+00:00",
       "category": "USA",
       "simple_explanation": "Nike has shown some gains in North America, its largest market, amid its turnaround, but the strength was offset by weakness in China."
     },
     {
-      "title": "Alphabet (GOOGL) Stock Trades Up, Here Is Why",
-      "description": "Shares of online advertising giant Alphabet (NASDAQ:GOOGL) jumped 2.9% in the morning session after President Donald Trump signaled a willingness to end the multi-week military conflict with Iran.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-stock-trades-why-214919691.html?.tsrc=rss",
+      "title": "Stock market today: Dow S&P 500, Nasdaq futures climb as de-escalation talk in Iran sparks rally to close out Q1",
+      "description": "Hope for equities is building as Iran and the US appear to be winding down aggressive rhetoric while markets seek stability.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-de-escalation-talk-in-iran-sparks-rally-to-close-out-q1-224325839.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-03-31T21:49:19+00:00",
+      "published_at": "2026-03-31T22:43:25+00:00",
+      "category": "USA",
+      "simple_explanation": "Hope for equities is building as Iran and the US appear to be winding down aggressive rhetoric while markets seek stability."
+    },
+    {
+      "title": "NFL approves sale of 7% of Las Vegas Raiders at over $11 billion valuation",
+      "description": "The National Football League has approved the sale of 7% of the Las Vegas Raiders at a valuation of more than $11 billion.",
+      "url": "https://www.cnbc.com/2026/03/31/nfl-approves-sale-of-7percent-of-las-vegas-raiders-at-over-11-billion-valuation.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-31T22:41:23+00:00",
+      "category": "USA",
+      "simple_explanation": "The National Football League has approved the sale of 7% of the Las Vegas Raiders at a valuation of more than $11 billion."
+    },
+    {
+      "title": "Stock Market Today, March 31: Bitmine Immersion Technologies Jumps on Crypto Recovery Hopes",
+      "description": "Bitmine’s aggressive Ethereum staking push and wider cryptocurrency gains helped it erase some recent losses, today, March 31, 2026.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/03/31/stock-market-today-march-31-bitmine-immersion-technologies-jumps-on-crypto-recovery-hopes/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T22:32:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Bitmine’s aggressive Ethereum staking push and wider cryptocurrency gains helped it erase some recent losses, today, March 31, 2026."
+    },
+    {
+      "title": "Why Arm Stock Surged Today",
+      "description": "Arm stock just posted a double-digit gain.",
+      "url": "https://www.fool.com/investing/2026/03/31/why-fubo-stock-plummeted-this-week/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T22:31:43+00:00",
+      "category": "USA",
+      "simple_explanation": "Arm stock just posted a double-digit gain."
+    },
+    {
+      "title": "Crypto Fear and Greed Index stuck on ‘extreme fear,’ but is there a silver lining?",
+      "description": "The Crypto Fear and Greed Index remains pinned in the ‘extreme fear’ zone, but Bitcoin’s lengthy consolidation phase above the $60,000 support may be a positive sign.",
+      "url": "https://cointelegraph.com/news/crypto-fear-and-greed-index-stuck-on-extreme-fear-but-is-there-a-silver-lining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjNkZDUtOWM3Yi03MTgwLWFiZDYtOGNkYWJiODUwNGM1LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-31T22:29:21+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Crypto Fear and Greed Index remains pinned in the ‘extreme fear’ zone, but Bitcoin’s lengthy consolidation phase above the $60,000 support may be a positive sign."
+    },
+    {
+      "title": "Crypto asset manager CoinShares to begin trading on Nasdaq through SPAC merger",
+      "description": "CoinShares is merging with Vine Hill Capital to form the holding company CoinShares PLC in a deal valuing the business at about $1.2 billion.",
+      "url": "https://www.cnbc.com/2026/03/31/crypto-asset-manager-coinshares-to-begin-trading-on-nasdaq-through-spac-merger.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-31T22:24:29+00:00",
+      "category": "USA",
+      "simple_explanation": "CoinShares is merging with Vine Hill Capital to form the holding company CoinShares PLC in a deal valuing the business at about $1.2 billion."
+    },
+    {
+      "title": "Trump says U.S. will leave Iran in 'two or three weeks'",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/03/31/trump-iran-war.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-31T22:20:00+00:00",
+      "category": "USA",
+      "simple_explanation": ""
+    },
+    {
+      "title": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle'",
+      "description": "With Microsoft losing almost a quarter of its value this year, investors have reset the company's earnings multiple to the lowest since late 2022.",
+      "url": "https://www.cnbc.com/2026/03/31/microsofts-stock-closes-worst-quarter-since-2008-financial-crisis.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-03-31T22:06:16+00:00",
+      "category": "USA",
+      "simple_explanation": "With Microsoft losing almost a quarter of its value this year, investors have reset the company's earnings multiple to the lowest since late 2022."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-03-31T22:01:36+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+    },
+    {
+      "title": "Month of March Goes Out Like a Bull",
+      "description": "Buying in ahead of the new quarter does display some innate hopefulness that the Iran crisis does get resolved sooner than later.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/month-march-goes-bull-220100339.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T22:01:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Buying in ahead of the new quarter does display some innate hopefulness that the Iran crisis does get resolved sooner than later."
+    },
+    {
+      "title": "Quanta Services (PWR) Rises Yet Lags Behind Market: Some Facts Worth Knowing",
+      "description": "In the closing of the recent trading day, Quanta Services (PWR) stood at $549.02, denoting a +2.86% move from the preceding trading day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/quanta-services-pwr-rises-yet-220004275.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T22:00:04+00:00",
+      "category": "USA",
+      "simple_explanation": "In the closing of the recent trading day, Quanta Services (PWR) stood at $549.02, denoting a +2.86% move from the preceding trading day."
+    },
+    {
+      "title": "Sunoco LP (SUN) Stock Sinks As Market Gains: What You Should Know",
+      "description": "In the closing of the recent trading day, Sunoco LP (SUN) stood at $64.97, denoting a -2.04% move from the preceding trading day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sunoco-lp-sun-stock-sinks-220004551.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T22:00:04+00:00",
+      "category": "USA",
+      "simple_explanation": "In the closing of the recent trading day, Sunoco LP (SUN) stood at $64.97, denoting a -2.04% move from the preceding trading day."
+    },
+    {
+      "title": "Booking Holdings (BKNG) Advances But Underperforms Market: Key Facts",
+      "description": "In the latest trading session, Booking Holdings (BKNG) closed at $4, marking a +2.25% move from the previous day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-bkng-advances-underperforms-220004076.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T22:00:04+00:00",
+      "category": "USA",
+      "simple_explanation": "In the latest trading session, Booking Holdings (BKNG) closed at $4, marking a +2.25% move from the previous day."
+    },
+    {
+      "title": "Fiverr International (FVRR) Ascends But Remains Behind Market: Some Facts to Note",
+      "description": "Fiverr International (FVRR) closed the most recent trading day at $10.02, moving +2.04% from the previous trading session.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fiverr-international-fvrr-ascends-remains-220003607.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T22:00:03+00:00",
+      "category": "USA",
+      "simple_explanation": "Fiverr International (FVRR) closed the most recent trading day at $10.02, moving +2.04% from the previous trading session."
+    },
+    {
+      "title": "Cardinal Health (CAH) Increases Yet Falls Behind Market: What Investors Need to Know",
+      "description": "In the latest trading session, Cardinal Health (CAH) closed at $211.31, marking a +2.42% move from the previous day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cardinal-health-cah-increases-yet-220003482.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T22:00:03+00:00",
+      "category": "USA",
+      "simple_explanation": "In the latest trading session, Cardinal Health (CAH) closed at $211.31, marking a +2.42% move from the previous day."
+    },
+    {
+      "title": "B&N Mining Inc. Appoints Veteran Mining Executive Sam J. Shoemaker, Jr. as Chief Operating Officer",
+      "description": "Leadership addition supports advancement of gold resources and strategic tungsten assets in California's historic Rand Mining District INDIAN WELLS, CA / ACCESS Newswire / March 31, 2026 / B&N Mining Inc. (\"B&N\" or the \"Company\") today announced that ...",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/b-n-mining-inc-appoints-220000683.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-03-31T22:00:00+00:00",
       "category": "Commodities",
-      "simple_explanation": "Shares of online advertising giant Alphabet (NASDAQ:GOOGL) jumped 2.9% in the morning session after President Donald Trump signaled a willingness to end the multi-week military conflict with Iran."
+      "simple_explanation": "Leadership addition supports advancement of gold resources and strategic tungsten assets in California's historic Rand Mining District INDIAN WELLS, CA / ACCESS Newswire / March 31, 2026 / B&N Mining "
     },
     {
       "title": "Texas Lt. Gov. lists crypto, prediction markets in charges for lawmakers",
@@ -33,57 +273,7 @@
       "simple_explanation": "The #2 Texas state official called on lawmakers to study “the sudden inundation of prediction market gambling“ as other jurisdictions take the platforms to court."
     },
     {
-      "title": "Trump signs executive order limiting mail-in voting ahead of 2026 U.S. elections",
-      "description": "Trump has put pressure on Congress to pass the SAVE America Act, a measure that would require photo identification and proof of U.S. citizenship to vote.",
-      "url": "https://www.cnbc.com/2026/03/31/trump-mail-in-voting-executive-order.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-31T21:46:29+00:00",
-      "category": "USA",
-      "simple_explanation": "Trump has put pressure on Congress to pass the SAVE America Act, a measure that would require photo identification and proof of U.S. citizenship to vote."
-    },
-    {
-      "title": "Stock Market Today, March 31: Tesla Rises Ahead of Delivery Report as Rally Eases Demand Concerns",
-      "description": "Tesla rose as the market rallied, with focus turning to its delivery report and whether weaker vehicle demand will test the stock’s recent rebound.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/03/31/stock-market-today-march-31-tesla-rises-ahead-of-delivery-report-as-rally-eases-demand-concerns/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-31T21:45:47+00:00",
-      "category": "USA",
-      "simple_explanation": "Tesla rose as the market rallied, with focus turning to its delivery report and whether weaker vehicle demand will test the stock’s recent rebound."
-    },
-    {
-      "title": "Stock Market Today, March 31: Stocks Rally on Hopes of Easing Iran Conflict",
-      "description": "Big-tech leaders surged on fresh hopes that the Iran war may be nearing an end, today, March 31, 2026.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/03/31/stock-market-today-march-31-stocks-rally-on-hopes-of-easing-iran-conflict/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-31T21:44:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Big-tech leaders surged on fresh hopes that the Iran war may be nearing an end, today, March 31, 2026."
-    },
-    {
-      "title": "Update: US Equity Indexes Surge, Crude Oil Slips Amid Iran War Optimism",
-      "description": "(Updates with Abbas Araghchi's position in the third paragraph.) US equity indexes jumped on Tues",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-surge-crude-214248693.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-31T21:42:48+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with Abbas Araghchi's position in the third paragraph.) US equity indexes jumped on Tues"
-    },
-    {
-      "title": "Polaris, Callaway Golf Company, Compass, Sphere Entertainment, and Viking Shares Skyrocket, What You Need To Know",
-      "description": "A number of stocks jumped in the morning session after investors priced in a potential de-escalation of the conflict in Iran alongside reassuring commentary from the Federal Reserve on interest rates.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/polaris-callaway-golf-company-compass-214119108.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-31T21:41:19+00:00",
-      "category": "Commodities",
-      "simple_explanation": "A number of stocks jumped in the morning session after investors priced in a potential de-escalation of the conflict in Iran alongside reassuring commentary from the Federal Reserve on interest rates."
-    },
-    {
-      "title": "Wall Street moves benchmarks onchain as S&P tokenizes Treasury index",
+      "title": "Wall Street moves benchmarks onchain as S&P tokenizes Treasurys index",
       "description": "S&P Dow Jones Indices puts its iBoxx US Treasuries Index on the Canton Network, allowing institutions to access bond benchmark data through tokens rather than feeds.",
       "url": "https://cointelegraph.com/news/sp-tokenizes-treasury-index-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQ1OTgtNjljMy03YjRkLTgxMjgtNTBkMDEzZjljMTM3LmpwZw==.jpg",
@@ -91,26 +281,6 @@
       "published_at": "2026-03-31T21:33:58+00:00",
       "category": "Crypto",
       "simple_explanation": "S&P Dow Jones Indices puts its iBoxx US Treasuries Index on the Canton Network, allowing institutions to access bond benchmark data through tokens rather than feeds."
-    },
-    {
-      "title": "Dow Jones Futures: Market Soars As Trump Signals Iran War Exit; Seven Stocks To Watch",
-      "description": "President Trump is eyeing an Iran war exit even if the Strait of Hormuz stays closed. Stocks soared, oil prices were mixed.",
-      "url": "https://finance.yahoo.com/m/a8adcb6d-15db-3091-a220-e37a4a87e62c/dow-jones-futures%3A-market.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-31T21:33:52+00:00",
-      "category": "USA",
-      "simple_explanation": "President Trump is eyeing an Iran war exit even if the Strait of Hormuz stays closed. Stocks soared, oil prices were mixed."
-    },
-    {
-      "title": "Chegg, Sea, Wayfair, Etsy, and Duolingo Shares Skyrocket, What You Need To Know",
-      "description": "A number of stocks jumped in the morning session after President Donald Trump signaled a willingness to end the multi-week military conflict with Iran.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chegg-sea-wayfair-etsy-duolingo-213319728.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-31T21:33:19+00:00",
-      "category": "Commodities",
-      "simple_explanation": "A number of stocks jumped in the morning session after President Donald Trump signaled a willingness to end the multi-week military conflict with Iran."
     },
     {
       "title": "Allied Gold Shareholders Approve Arrangement With Zijin Gold",
@@ -123,16 +293,6 @@
       "simple_explanation": "TORONTO, March 31, 2026 (GLOBE NEWSWIRE) -- Allied Gold Corporation (“Allied” or the \"Company\") (TSX: AAUC) (NYSE: AAUC) is pleased to announce that shareholders of the Company approved the previously"
     },
     {
-      "title": "The new energy shock, Part 1: How the U.S.–Iran conflict is hitting fuel markets: by Oil & Gas 360",
-      "description": "(By Oil & Gas 360) – While crude oil grabs the headlines, the real pressure point in the U.S., Iran […]",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/energy-shock-part-1-u-213049368.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-31T21:30:49+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(By Oil & Gas 360) – While crude oil grabs the headlines, the real pressure point in the U.S., Iran […]"
-    },
-    {
       "title": "Gold Posts Worst Month Since 2008 Despite Hopes War Is Near End",
       "description": "(Bloomberg) -- Gold logged its worst month since the global financial crisis despite climbing for a third session Tuesday on signs the US and Iran are open to ending the war in the Middle East.The US dollar and Treasury yields retreated further on reports that both countries are signaling an opening",
       "url": "https://finance.yahoo.com/news/gold-report-trump-willing-end-013639220.html?.tsrc=rss",
@@ -141,16 +301,6 @@
       "published_at": "2026-03-31T21:30:21+00:00",
       "category": "Commodities",
       "simple_explanation": "(Bloomberg) -- Gold logged its worst month since the global financial crisis despite climbing for a third session Tuesday on signs the US and Iran are open to ending the war in the Middle East.The US "
-    },
-    {
-      "title": "US Equity Indexes Surge, Crude Oil Slips Amid Iran War Optimism",
-      "description": "US equity indexes jumped on Tuesday, with the Dow Jones Industrial Average surging more than 1,125 p",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-surge-crude-212835240.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-31T21:28:35+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity indexes jumped on Tuesday, with the Dow Jones Industrial Average surging more than 1,125 p"
     },
     {
       "title": "What's the Outlook for Gold- and Silver-Mining Stocks in 2026?",
@@ -173,94 +323,14 @@
       "simple_explanation": "OceanaGold (OGC.TO) after the close Tuesday said its shares will begin trading on the New York Stock"
     },
     {
-      "title": "Stock Market Today, March 31: Marvell Technology Surges After Nvidia Invests $2 Billion in AI Partnership",
-      "description": "Today, March 31, 2026, a $2 billion Nvidia stake spotlights Marvell’s expanding role at the core of AI data centers.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/03/31/stock-market-today-march-31-marvell-technology-surges-after-nvidia-invests-usd2-billion-in-ai-partnership/?.tsrc=rss",
+      "title": "Basic Materials Roundup: Market Talk",
+      "description": "Find insight on Alcoa, Northern Star Resources and more in the latest Market Talks covering basic materials.",
+      "url": "https://finance.yahoo.com/m/90145ea7-fb45-3472-86c9-5916fac68e88/basic-materials-roundup%3A.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-03-31T21:17:09+00:00",
-      "category": "USA",
-      "simple_explanation": "Today, March 31, 2026, a $2 billion Nvidia stake spotlights Marvell’s expanding role at the core of AI data centers."
-    },
-    {
-      "title": "Wall Street Marks Best Day Since May, Finishes March With Steep Losses",
-      "description": "US equity benchmarks logged their biggest one-day gains since May, though Wall Street finished March",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-marks-best-day-210927831.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-31T21:09:27+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity benchmarks logged their biggest one-day gains since May, though Wall Street finished March"
-    },
-    {
-      "title": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO",
-      "description": "The round totaled $122 billion of committed capital, up from the $110 billion figure that was previously announced.",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-31T21:08:30+00:00",
-      "category": "USA",
-      "simple_explanation": "The round totaled $122 billion of committed capital, up from the $110 billion figure that was previously announced."
-    },
-    {
-      "title": "Allied Gold Reports Record Q4 Production, Advances Growth Strategy and Completes Key Step Toward Transaction with Zijin Gold",
-      "description": "TORONTO, March 31, 2026 (GLOBE NEWSWIRE) -- Allied Gold Corporation (TSX: AAUC) (NYSE: AAUC) (“Allied” or the “Company”) herein provides its audited financial and operational results for the fourth quarter of 2025. As previously disclosed, the Company produced 117,004 ounces of gold in the fourth qu",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/allied-gold-reports-record-q4-210800483.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-31T21:08:00+00:00",
+      "published_at": "2026-03-31T21:17:00+00:00",
       "category": "Commodities",
-      "simple_explanation": "TORONTO, March 31, 2026 (GLOBE NEWSWIRE) -- Allied Gold Corporation (TSX: AAUC) (NYSE: AAUC) (“Allied” or the “Company”) herein provides its audited financial and operational results for the fourth qu"
-    },
-    {
-      "title": "Nike Tops Views, Turnaround Efforts Continue. China Sales Lag.",
-      "description": "Dow Jones retailer Nike progresses recovery strategy with a Q3 beat. But profit declines, China sales continue to lag.",
-      "url": "https://finance.yahoo.com/m/b2644d9c-e8e2-3119-b4f0-2f649f5f7bff/nike-tops-views%2C-turnaround.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-31T21:04:06+00:00",
-      "category": "USA",
-      "simple_explanation": "Dow Jones retailer Nike progresses recovery strategy with a Q3 beat. But profit declines, China sales continue to lag."
-    },
-    {
-      "title": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle'",
-      "description": "With Microsoft losing almost a quarter of its value this year, investors have reset the company's earnings multiple to the lowest since late 2022.",
-      "url": "https://www.cnbc.com/2026/03/31/microsofts-stock-closes-worst-quarter-since-2008-financial-crisis.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-31T21:03:45+00:00",
-      "category": "USA",
-      "simple_explanation": "With Microsoft losing almost a quarter of its value this year, investors have reset the company's earnings multiple to the lowest since late 2022."
-    },
-    {
-      "title": "Steppe Gold Announces 2025 Annual Financial Results",
-      "description": "Ulaanbaatar, Mongolia--(Newsfile Corp. - March 31, 2026) - Steppe Gold Ltd. (TSX: STGO) (OTCQX: STPGF) (FSE: 2J9) (\"Steppe Gold\" or the \"Company\") is pleased to announce its financial results for the year ended December 31, 2025. The Company delivered strong operating performance, record revenues an",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/steppe-gold-announces-2025-annual-210000035.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-31T21:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Ulaanbaatar, Mongolia--(Newsfile Corp. - March 31, 2026) - Steppe Gold Ltd. (TSX: STGO) (OTCQX: STPGF) (FSE: 2J9) (\"Steppe Gold\" or the \"Company\") is pleased to announce its financial results for the "
-    },
-    {
-      "title": "U.S. Army suspends Kid Rock helicopter flyby crews from flight duties",
-      "description": "Kid Rock is a prominent supporter of President Donald Trump and performed at the 2024 Republican National Convention.",
-      "url": "https://www.cnbc.com/2026/03/31/kid-rock-army-helicopter-suspended.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-31T20:57:17+00:00",
-      "category": "USA",
-      "simple_explanation": "Kid Rock is a prominent supporter of President Donald Trump and performed at the 2024 Republican National Convention."
-    },
-    {
-      "title": "Anthropic leaks part of Claude Code's internal source code",
-      "description": "Claude Code has seen massive adoption over the last year, and its run-rate revenue had swelled to more than $2.5 billion as of February.",
-      "url": "https://www.cnbc.com/2026/03/31/anthropic-leak-claude-code-internal-source.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-03-31T20:56:59+00:00",
-      "category": "USA",
-      "simple_explanation": "Claude Code has seen massive adoption over the last year, and its run-rate revenue had swelled to more than $2.5 billion as of February."
+      "simple_explanation": "Find insight on Alcoa, Northern Star Resources and more in the latest Market Talks covering basic materials."
     },
     {
       "title": "TSX rises the most since April but still posts steep monthly decline",
@@ -303,36 +373,6 @@
       "simple_explanation": "Wall Street surged Tuesday as speculation of a de-escalation in the Middle East conflict eased oil price and inflation fears. Major indexes rallied following reports of President Trump's willingness t"
     },
     {
-      "title": "Bitcoin hits $68K but BTC futures, macro data show traders remain bearish",
-      "description": "Bitcoin rallied to $68,000 as markets responded positively to the prospect of the US and Israel-Iran war ending, but data shows futures traders are not convinced.",
-      "url": "https://cointelegraph.com/news/bitcoin-hits-68k-but-btc-futures-macro-data-show-traders-remain-bearish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQzMmEtMzZmMC03ZjIxLThmY2ItM2UzOGJkNzc0MWNlLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-31T19:59:25+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin rallied to $68,000 as markets responded positively to the prospect of the US and Israel-Iran war ending, but data shows futures traders are not convinced."
-    },
-    {
-      "title": "Interactive Brokers expands crypto trading to retail investors in Europe",
-      "description": "Brokerage clients in the European Economic Area can now trade 11 cryptocurrencies alongside traditional assets within a single account.",
-      "url": "https://cointelegraph.com/news/interactive-brokers-expands-crypto-trading-to-retail-investors-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmJkN2ItYmEwZi03YzE4LTljMGMtNTQyZGE2M2NhYWI3LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-31T19:48:11+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Brokerage clients in the European Economic Area can now trade 11 cryptocurrencies alongside traditional assets within a single account."
-    },
-    {
-      "title": "Bitcoin’s $10K range expected to hold until spot traders show up: Data",
-      "description": "Futures market activity continues to drive Bitcoin price, while insufficient buy-side spot demand shortens the length of bullish breakouts and pins BTC in a $10,000 range.",
-      "url": "https://cointelegraph.com/news/bitcoin-s-dollar10k-range-expected-to-hold-until-spot-traders-show-up-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDEvMDE5NDg0ZTYtNTU4My03Zjk0LWI5MDUtZDc2ZmRmMDdjOTZl.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-03-31T19:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Futures market activity continues to drive Bitcoin price, while insufficient buy-side spot demand shortens the length of bullish breakouts and pins BTC in a $10,000 range."
-    },
-    {
       "title": "Alphabet Climbs 5%: Google’s Nine-Minute Bitcoin Warning Is Turning Heads on Wall Street",
       "description": "Alphabet (NASDAQ:GOOGL) shares rose approximately 4.83% in Tuesday’s session, climbing from an opening price of $273.50 to trade at around $287. The move is a meaningful bounce for a stock that has struggled in recent weeks, with GOOGL shares still down 9% year to date. Today’s session puts the stoc",
       "url": "https://247wallst.com/investing/2026/03/31/alphabet-climbs-5-googles-nine-minute-bitcoin-warning-is-turning-heads-on-wall-street/?.tsrc=rss",
@@ -361,46 +401,6 @@
       "published_at": "2026-03-31T16:37:47+00:00",
       "category": "Global",
       "simple_explanation": "The winning bidder — along with up to seven guests — will join Buffett and the Currys for an exclusive lunch in Omaha, Nebraska."
-    },
-    {
-      "title": "Gold has plummeted since Iran war began. Why it could climb 35% by July.",
-      "description": "UBS Global Wealth Management stands by its bullish forecasts for gold prices despite a steep fall since the Iran war began.",
-      "url": "https://www.livemint.com/market/commodities/gold-has-plummeted-since-iran-war-began-why-it-could-climb-35-by-july-11774974132943.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/31/1600x900/logo/gold-unsplash_1762957187888_1762957545932_1774974208015.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-03-31T16:24:14+00:00",
-      "category": "India",
-      "simple_explanation": "UBS Global Wealth Management stands by its bullish forecasts for gold prices despite a steep fall since the Iran war began."
-    },
-    {
-      "title": "Elon Musk reveals 'plus side' of quantum computing breaking Bitcoin",
-      "description": "The world’s wealthiest person, Elon Musk, is known for his deep interest in Bitcoin (BTC) and rarely holds back from sharing his views whenever the topic comes up. So when Google issued a new warning about the potential threat quantum computing poses to Bitcoin, he quickly responded with his ...",
-      "url": "https://www.thestreet.com/crypto/technology/elon-musk-reveals-plus-side-of-quantum-computing-breaking-bitcoin?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-31T16:14:28+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The world’s wealthiest person, Elon Musk, is known for his deep interest in Bitcoin (BTC) and rarely holds back from sharing his views whenever the topic comes up. So when Google issued a new warning "
-    },
-    {
-      "title": "XRP Price: A New Rule Could Open Trillions in 401(k) Funds to Crypto — What That Means for XRP",
-      "description": "For decades, the 401(k) has been limited to stocks, bonds, and mutual funds. However, on March 30, 2026, the U.S. Department of Labor proposed a rule that would open the door for retirement plan managers to include crypto for the first time. American 401(k) plans hold $10.1 trillion in retirement sa",
-      "url": "https://247wallst.com/investing/2026/03/31/xrp-price-a-new-rule-could-open-trillions-in-401k-funds-to-crypto-what-that-means-for-xrp/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-03-31T15:52:51+00:00",
-      "category": "Crypto",
-      "simple_explanation": "For decades, the 401(k) has been limited to stocks, bonds, and mutual funds. However, on March 30, 2026, the U.S. Department of Labor proposed a rule that would open the door for retirement plan manag"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
-      "description": "Nifty closed lower, ending FY26 down 5%, with Sensex down 7%, dragged by banking, auto, and IT sectors. India VIX rose, signaling high volatility. Analysts see support near 22,200, with potential for a rebound if levels hold.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/129930827.cms",
-      "image": "https://img.etimg.com/photo/msid-129930827,imgsize-110642.cms",
-      "source": "Economic Times",
-      "published_at": "2026-03-31T15:45:45+00:00",
-      "category": "India",
-      "simple_explanation": "Nifty closed lower, ending FY26 down 5%, with Sensex down 7%, dragged by banking, auto, and IT sectors. India VIX rose, signaling high volatility. Analysts see support near 22,200, with potential for "
     }
   ]
 }
