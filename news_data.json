@@ -1,46 +1,376 @@
 {
-  "last_updated": "2026-04-05T23:03:54.273668+00:00",
+  "last_updated": "2026-04-06T06:18:25.032037+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Dow Jones Futures Fall As Trump Says Iran Faces 'Hell' If No Deal; Sandisk Leads 7 Stocks To Watch",
+      "title": "Gold vs silver vs oil: Which commodity can offer the best returns in FY27? Explained",
+      "description": "Gold vs silver vs oil: Analysts predict silver could be the top performer in FY27 amid volatility, with gold serving as a stable asset. Crude oil presents short-term trading opportunities.",
+      "url": "https://www.livemint.com/market/commodities/gold-vs-silver-vs-oil-which-commodity-can-offer-the-best-returns-in-fy27-explained-11775455651943.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/06/1600x900/logo/Gold__1775455918407_1775455918553.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-06T06:14:21+00:00",
+      "category": "India",
+      "simple_explanation": "Gold vs silver vs oil: Analysts predict silver could be the top performer in FY27 amid volatility, with gold serving as a stable asset. Crude oil presents short-term trading opportunities."
+    },
+    {
+      "title": "Amfi seeks use of intraday loans to buy securities as Sebi defers strict mutual fund borrowing norms",
+      "description": "India's mutual fund body is engaging with the market regulator after fund houses raised concerns that limiting intraday loans mainly for redemptions could severely hamper their ability to acquire securities.",
+      "url": "https://www.livemint.com/market/sebi-intraday-borrowing-rules-mutual-funds-amfi-request-11775446544531.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/06/1600x900/logo/INDIA-SEBI-TRADING-0_1775206410594_1775206422633_1775455667116.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-04-06T06:11:37+00:00",
+      "category": "India",
+      "simple_explanation": "India's mutual fund body is engaging with the market regulator after fund houses raised concerns that limiting intraday loans mainly for redemptions could severely hamper their ability to acquire secu"
+    },
+    {
+      "title": "TCS, Wipro to Infosys: IT stocks defy market crash ahead of Q4 results season; Nifty IT jumps 6% in 3 days",
+      "description": "IT stocks outperformed the broader market on April 6, with Nifty IT rising over 1% for a third straight session ahead of Q4FY26 earnings. TCS, Infosys, Wipro and Coforge gained, while Kotak expects muted Q4 results but stable YoY growth and rupee-led earnings support.",
+      "url": "https://www.livemint.com/market/stock-market-news/tcs-wipro-to-infosys-hcl-tech-it-stocks-defy-stock-market-crash-ahead-of-q4-results-season-nifty-it-jumps-6-11775455104068.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/06/1600x900/logo/it_stocks_1775455626295_1775455626458.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-06T06:10:23+00:00",
+      "category": "India",
+      "simple_explanation": "IT stocks outperformed the broader market on April 6, with Nifty IT rising over 1% for a third straight session ahead of Q4FY26 earnings. TCS, Infosys, Wipro and Coforge gained, while Kotak expects mu"
+    },
+    {
+      "title": "A Look At Matador Resources (MTDR) Valuation After Middle East Tensions Lift Oil Prices",
+      "description": "What the oil price shock means for Matador Resources (MTDR) Escalating tensions in the Middle East have pushed crude prices sharply higher, and Matador Resources (MTDR) has moved with the broader energy group as investors reassess earnings potential tied to stronger commodity pricing. See our latest",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/look-matador-resources-mtdr-valuation-060624889.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-06T06:06:24+00:00",
+      "category": "Commodities",
+      "simple_explanation": "What the oil price shock means for Matador Resources (MTDR) Escalating tensions in the Middle East have pushed crude prices sharply higher, and Matador Resources (MTDR) has moved with the broader ener"
+    },
+    {
+      "title": "Japan, South Korea stocks rise as investors assess Trump's Iran war comments, extended deadline",
+      "description": "In an expletive-filled social media post, Trump also vowed to bring \"Hell\" to the country after the U.S. forces rescued an American airman in Iran last week.",
+      "url": "https://www.cnbc.com/2026/04/06/asia-markets-nikkei-225-crude-oil-trump-iran-hormuz.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-06T06:01:45+00:00",
+      "category": "USA",
+      "simple_explanation": "In an expletive-filled social media post, Trump also vowed to bring \"Hell\" to the country after the U.S. forces rescued an American airman in Iran last week."
+    },
+    {
+      "title": "India seen holding rates as 'Goldilocks' phase gives way to stress",
+      "description": "India's central bank is expected to hold interest rates steady amid fallout from the Iran war, focusing instead on calming financial markets. Policymakers will likely assure readiness to support the weakening rupee and inject liquidity to manage bond yields, as economists assess the impact of the en",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-seen-holding-rates-as-goldilocks-phase-gives-way-to-stress/articleshow/130052589.cms",
+      "image": "https://img.etimg.com/photo/msid-130052589,imgsize-64602.cms",
+      "source": "ET Markets",
+      "published_at": "2026-04-06T06:00:06+00:00",
+      "category": "India",
+      "simple_explanation": "India's central bank is expected to hold interest rates steady amid fallout from the Iran war, focusing instead on calming financial markets. Policymakers will likely assure readiness to support the w"
+    },
+    {
+      "title": "India bonds rise as likely RBI buying, lighter state borrowing aid sentiment",
+      "description": "Indian bonds saw gains on Monday. This rise followed potential central bank bond purchases last week. A lower-than-expected state borrowing plan also boosted market sentiment. Investors are now looking towards the Reserve Bank of India's monetary policy decision. Bond yields eased after a period of ",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-as-likely-rbi-buying-lighter-state-borrowing-aid-sentiment/articleshow/130052311.cms",
+      "image": "https://img.etimg.com/photo/msid-130052311,imgsize-79706.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-06T05:48:47+00:00",
+      "category": "India",
+      "simple_explanation": "Indian bonds saw gains on Monday. This rise followed potential central bank bond purchases last week. A lower-than-expected state borrowing plan also boosted market sentiment. Investors are now lookin"
+    },
+    {
+      "title": "Global supply shock not fully priced in, warns David Roche",
+      "description": "Geopolitical tensions in the Middle East are creating a deceptive calm in global markets, with oil prices failing to reflect significant supply disruptions. Experts warn that current market pricing, particularly in equities, overlooks the true risks, predicting substantial price hikes and potential ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-supply-shock-not-fully-priced-in-warns-david-roche/articleshow/130052105.cms",
+      "image": "https://img.etimg.com/photo/msid-130052105,imgsize-4180.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-06T05:46:20+00:00",
+      "category": "India",
+      "simple_explanation": "Geopolitical tensions in the Middle East are creating a deceptive calm in global markets, with oil prices failing to reflect significant supply disruptions. Experts warn that current market pricing, p"
+    },
+    {
+      "title": "Safety Controls & Devices IPO: Issue booked 7% so far on first bidding day; check GMP, issue details",
+      "description": "The Safety Controls &amp; Devices IPO runs from April 6 to April 8, priced between  ₹75-80 per share. It targets various investors, with 49% for institutional buyers. The firm specializes in EPC for government projects and reported a profit of  ₹8.5 crore for FY26.",
+      "url": "https://www.livemint.com/market/ipo/safety-controls-devices-ipo-issue-booked-6-so-far-on-first-bidding-day-check-gmp-issue-details-11775452100013.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/06/1600x900/logo/3-0-109501714-iStock-510565657-0_1679846147174_1775453919382.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-06T05:45:44+00:00",
+      "category": "India",
+      "simple_explanation": "The Safety Controls &amp; Devices IPO runs from April 6 to April 8, priced between  ₹75-80 per share. It targets various investors, with 49% for institutional buyers. The firm specializes in EPC for g"
+    },
+    {
+      "title": "AI data center boom ‘stress tests’ insurers as private capital floods in",
+      "description": "Rapid technological advancements and the huge sums of money flowing into the data center are posing both risks and rewards for insurers.",
+      "url": "https://www.cnbc.com/2026/04/06/ai-data-centers-financing-insurance-deals-gpu-debt.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-06T05:38:40+00:00",
+      "category": "USA",
+      "simple_explanation": "Rapid technological advancements and the huge sums of money flowing into the data center are posing both risks and rewards for insurers."
+    },
+    {
+      "title": "FIIs dump 48 crore HDFC Bank shares as stock crashes 26% in March quarter",
+      "description": "FIIs offloaded nearly 50 crore shares of HDFC Bank in Q4 as the stock slumped 26% amid a governance crisis triggered by the exit of former chairman Atanu Chakraborty. While Sebi and the Reserve Bank of India reviewed the issue, Jefferies argued valuations now look compelling.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-48-crore-hdfc-bank-shares-as-stock-crashes-26-in-march-quarter/articleshow/130052061.cms",
+      "image": "https://img.etimg.com/photo/msid-130052061,imgsize-2125633.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-06T05:36:22+00:00",
+      "category": "India",
+      "simple_explanation": "FIIs offloaded nearly 50 crore shares of HDFC Bank in Q4 as the stock slumped 26% amid a governance crisis triggered by the exit of former chairman Atanu Chakraborty. While Sebi and the Reserve Bank o"
+    },
+    {
+      "title": "Indian stock market could deliver 15-20% returns as medium-term outlook constructive despite US-Iran war",
+      "description": "While it remains premature to draw firm conclusions, this environment could pressure the earnings outlook, with an initial estimate of a 2% to 6% drag, depending on the trajectory of crude and macroeconomic developments in Q1FY27.",
+      "url": "https://www.livemint.com/market/stock-market-news/indian-stock-market-could-deliver-15-20-returns-as-medium-term-outlook-constructive-despite-us-iran-war-11775453171009.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/06/1600x900/logo/NSE_1768818662762_1768818703502_1775453644518.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-04-06T05:34:27+00:00",
+      "category": "India",
+      "simple_explanation": "While it remains premature to draw firm conclusions, this environment could pressure the earnings outlook, with an initial estimate of a 2% to 6% drag, depending on the trajectory of crude and macroec"
+    },
+    {
+      "title": "Trump's Iran ultimatum and signals of a possible deal keep investors on tenterhooks",
+      "description": "Investors head into what could be the most consequential week of the Iran conflict, scrambling to position for binary outcomes: an imminent deal or further escalation.",
+      "url": "https://www.cnbc.com/2026/04/06/trump-iran-deadline-investors-markets-trade-deal-war-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-06T05:31:39+00:00",
+      "category": "USA",
+      "simple_explanation": "Investors head into what could be the most consequential week of the Iran conflict, scrambling to position for binary outcomes: an imminent deal or further escalation."
+    },
+    {
+      "title": "Senco Gold shares rise 11% on strong Q4 business; demand boost expected from festive, wedding season",
+      "description": "Senco Gold shares surged following a strong business update. The company reported significant revenue growth in the fourth quarter and full fiscal year. This performance was fueled by wedding season demand and new store openings. Senco also focused on product innovation and digital initiatives. The ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/senco-gold-shares-rise-11-on-strong-q4-business-demand-boost-expected-from-festive-wedding-season/articleshow/130051930.cms",
+      "image": "https://img.etimg.com/photo/msid-130051930,imgsize-58094.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-06T05:29:55+00:00",
+      "category": "India",
+      "simple_explanation": "Senco Gold shares surged following a strong business update. The company reported significant revenue growth in the fourth quarter and full fiscal year. This performance was fueled by wedding season d"
+    },
+    {
+      "title": "DMart shares jump 4% after strong Q4 update, but JM Financial calls risk-reward ratio unattractive; here's why",
+      "description": "Avenue Supermarts' shares saw a jump after reporting a 19% year-on-year revenue increase for the January-March quarter of FY26. The company also reached a milestone of 500 stores. Despite positive revenue growth and store additions, an analyst firm finds the investment risk-reward unattractive. They",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dmart-shares-jump-4-after-strong-q4-update-but-jm-financial-calls-risk-reward-ratio-unattractive-heres-why/articleshow/130051861.cms",
+      "image": "https://img.etimg.com/photo/msid-130051861,imgsize-66978.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-06T05:27:01+00:00",
+      "category": "India",
+      "simple_explanation": "Avenue Supermarts' shares saw a jump after reporting a 19% year-on-year revenue increase for the January-March quarter of FY26. The company also reached a milestone of 500 stores. Despite positive rev"
+    },
+    {
+      "title": "Are we running out of oil? Goldman Sachs flags growing shortage fears - What it means for Asia and India?",
+      "description": "Goldman Sachs reports that India is vulnerable to fuel supply challenges, particularly in jet fuel, with modest storage compared to peers. Rising prices and potential shortages may impact industrial supply chains and inflation if disruptions in the Strait of Hormuz continue.",
+      "url": "https://www.livemint.com/market/commodities/are-we-running-out-of-oil-goldman-sachs-flags-growing-crude-oil-shortage-fears-what-it-means-for-asia-and-india-11775450755264.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/06/1600x900/logo/crude_oil_price_1775452879119_1775452879266.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-06T05:26:53+00:00",
+      "category": "India",
+      "simple_explanation": "Goldman Sachs reports that India is vulnerable to fuel supply challenges, particularly in jet fuel, with modest storage compared to peers. Rising prices and potential shortages may impact industrial s"
+    },
+    {
+      "title": "Bitcoin trades near $69K, wipes out $146M in shorts; transaction fees fall to 2011 lows",
+      "description": "Bitcoin hovered near $69,000, triggering over $146 million in short liquidations as major cryptocurrencies saw gains. Despite a 2% rise in global market cap to $2.36 trillion, analysts note a lack of conviction, with Bitcoin struggling to break past key resistance levels. Transaction fees and exchan",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-trades-near-69k-wipes-out-146m-in-shorts-transaction-fees-fall-to-2011-lows/articleshow/130051807.cms",
+      "image": "https://img.etimg.com/photo/msid-130051807,imgsize-33546.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-06T05:24:04+00:00",
+      "category": "India",
+      "simple_explanation": "Bitcoin hovered near $69,000, triggering over $146 million in short liquidations as major cryptocurrencies saw gains. Despite a 2% rise in global market cap to $2.36 trillion, analysts note a lack of "
+    },
+    {
+      "title": "The Oil Signal That Preceded Major Market Crashes Since 1987 Is Flashing Again",
+      "description": "Oil's 12-month rate of change is at 91%, nearing the 100% level that preceded every major market crash since 1987.",
+      "url": "https://beincrypto.com/oil-crash-signal-rate-change-threshold/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-06T05:15:35+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil's 12-month rate of change is at 91%, nearing the 100% level that preceded every major market crash since 1987."
+    },
+    {
+      "title": "Nykaa shares rally nearly 4% on strong Q4 business update",
+      "description": "Nykaa's shares climbed following a robust Q4 FY2026 revenue update. The company anticipates its fastest growth in 12 quarters, driven by a strong fashion segment recovery and steady beauty sales.  Full-year net sales are projected to accelerate, with aggressive retail expansion and a growing brand p",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nykaa-shares-rally-nearly-4-on-strong-q4-business-update/articleshow/130051589.cms",
+      "image": "https://img.etimg.com/photo/msid-130051589,imgsize-27714.cms",
+      "source": "ET Markets",
+      "published_at": "2026-04-06T05:08:36+00:00",
+      "category": "India",
+      "simple_explanation": "Nykaa's shares climbed following a robust Q4 FY2026 revenue update. The company anticipates its fastest growth in 12 quarters, driven by a strong fashion segment recovery and steady beauty sales.  Ful"
+    },
+    {
+      "title": "TVS Motor shares jump 3% after Goldman Sachs upgrades to Buy. Check target, upside",
+      "description": "TVS Motor shares surged following Goldman Sachs' 'Buy' upgrade, citing strong growth prospects and superior volume visibility from new premium products. The brokerage anticipates robust sales growth outpacing industry averages, supported by margin tailwinds and a positive outlook on electric vehicle",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-shares-jump-3-after-goldman-sachs-upgrades-to-buy-check-target-upside/articleshow/130051518.cms",
+      "image": "https://img.etimg.com/photo/msid-130051518,imgsize-36320.cms",
+      "source": "ET Markets",
+      "published_at": "2026-04-06T05:05:21+00:00",
+      "category": "India",
+      "simple_explanation": "TVS Motor shares surged following Goldman Sachs' 'Buy' upgrade, citing strong growth prospects and superior volume visibility from new premium products. The brokerage anticipates robust sales growth o"
+    },
+    {
+      "title": "Gold falls as Iran war, robust US jobs data dim Fed rate-cut hopes",
+      "description": "By Pablo Sinha April 6 (Reuters) - Gold prices fell on Monday, pressured by a stronger dollar as elevated oil prices on the back of a protracted Iran war and stronger-than-expected U.S. jobs data",
+      "url": "https://sg.finance.yahoo.com/news/gold-falls-iran-war-robust-050418034.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-06T05:04:18+00:00",
+      "category": "Commodities",
+      "simple_explanation": "By Pablo Sinha April 6 (Reuters) - Gold prices fell on Monday, pressured by a stronger dollar as elevated oil prices on the back of a protracted Iran war and stronger-than-expected U.S. jobs data"
+    },
+    {
+      "title": "Stocks Rise on Optimism at Possible Iran Ceasefire: Markets Wrap",
+      "description": "(Bloomberg) -- Stocks rose as investors cautiously returned to equities on signs the six-week-old Middle East conflict may be contained, after a report that Iran is pushing for a ceasefire. Crude oil pared gains.The MSCI Asia Pacific Index rose 0.4%, with advancers and decliners evenly matched in th",
+      "url": "https://finance.yahoo.com/news/trading-open-shadowed-trump-escalation-200039071.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-06T05:00:20+00:00",
+      "category": "USA",
+      "simple_explanation": "(Bloomberg) -- Stocks rose as investors cautiously returned to equities on signs the six-week-old Middle East conflict may be contained, after a report that Iran is pushing for a ceasefire. Crude oil "
+    },
+    {
+      "title": "Apple pulls Jack Dorsey's Bitchat from China at Beijing’s request",
+      "description": "Bitchat launched in July last year and has been used during protests in Madagascar, Uganda, Nepal, Indonesia and Iran as authorities attempted to restrict usage of the internet.",
+      "url": "https://cointelegraph.com/news/bitchat-jack-dorsey-china-app-store-removed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDYwNDUtZjk1MC03NDZkLThlZTQtY2MxOWM3Y2Q1NGM2LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-06T04:25:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitchat launched in July last year and has been used during protests in Madagascar, Uganda, Nepal, Indonesia and Iran as authorities attempted to restrict usage of the internet."
+    },
+    {
+      "title": "Bitcoin’s 36% Annualized Return Since August 2020 Shows Why Zooming Out Still Wins",
+      "description": "In CT, the easiest way to win an argument is to pick the timeframe that flatters your take. This is why Michael Say...",
+      "url": "https://www.cryptoprowl.com/releases/bitcoins-36-annualized-return-since-august-2020-shows-why-zooming-out-still-wins-4060?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-06T04:20:00+00:00",
+      "category": "USA",
+      "simple_explanation": "In CT, the easiest way to win an argument is to pick the timeframe that flatters your take. This is why Michael Say..."
+    },
+    {
+      "title": "Michael Saylor hints at next Strategy Bitcoin buy after weeklong pause",
+      "description": "Michael Saylor posted \"back to work\" on X on Sunday, signaling a potential Bitcoin purchase after the firm paused buying last week.",
+      "url": "https://cointelegraph.com/news/michael-saylor-hints-at-next-strategy-bitcoin-buy-after-weeklong-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjFmYzQtZDUwYy03ZWU1LWIwN2QtODQ0MTU4MTg4NjcxLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-06T04:14:08+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Michael Saylor posted \"back to work\" on X on Sunday, signaling a potential Bitcoin purchase after the firm paused buying last week."
+    },
+    {
+      "title": "Why Is The Crypto Market Up Today?",
+      "description": "The crypto market added $89 billion from its weekend low as a short squeeze and Bitcoin resilience drove recovery despite oil crossing $110.",
+      "url": "https://beincrypto.com/why-is-the-crypto-market-up-today/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-06T04:08:39+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The crypto market added $89 billion from its weekend low as a short squeeze and Bitcoin resilience drove recovery despite oil crossing $110."
+    },
+    {
+      "title": "Trump-Iran deadline chaos sends crypto higher while cease-fire hopes rise",
+      "description": "US President Donald Trump threatened Iran could be \"living in Hell\" if it doesn't open the Strait of Hormuz, though he also told reporters that a deal with Iran is getting close.",
+      "url": "https://cointelegraph.com/news/crypto-markets-bounce-trump-delays-deadline-for-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDYwODctZmViMC03NmIyLWFhODQtNDZjMjc0YzZjYzE0LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-06T04:06:39+00:00",
+      "category": "Crypto",
+      "simple_explanation": "US President Donald Trump threatened Iran could be \"living in Hell\" if it doesn't open the Strait of Hormuz, though he also told reporters that a deal with Iran is getting close."
+    },
+    {
+      "title": "Indian shares slip on caution over Trump's Iran threat",
+      "description": "April 6 (Reuters) - Indian shares fell in early trade on Monday on caution over a possible escalation in the Iran war after U.S.",
+      "url": "https://sg.finance.yahoo.com/news/indian-shares-seen-muted-caution-023858236.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-06T03:55:33+00:00",
+      "category": "Commodities",
+      "simple_explanation": "April 6 (Reuters) - Indian shares fell in early trade on Monday on caution over a possible escalation in the Iran war after U.S."
+    },
+    {
+      "title": "Jim Cramer Says “I Don’t Think There’s a Compelling AI Disruption Case Against Shopify”",
+      "description": "Shopify Inc. (NASDAQ:SHOP) is among the stocks in focus as Jim Cramer reviewed the S&P 500’s top performers and the Nasdaq 100’s biggest laggards for the first quarter. Cramer highlighted why the stock declined despite “tremendous growth and impressive profitability.” He commented: Finally, there’s ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-don-t-034521919.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-06T03:45:21+00:00",
+      "category": "USA",
+      "simple_explanation": "Shopify Inc. (NASDAQ:SHOP) is among the stocks in focus as Jim Cramer reviewed the S&P 500’s top performers and the Nasdaq 100’s biggest laggards for the first quarter. Cramer highlighted why the stoc"
+    },
+    {
+      "title": "Jim Cramer Discusses the Possibility of “End of Adobe’s Design Dominance”",
+      "description": "Adobe Inc. (NASDAQ:ADBE) is among the stocks in focus as Jim Cramer reviewed the S&P 500’s top performers and the Nasdaq 100’s biggest laggards for the first quarter. Cramer highlighted the threats to the company, as he stated: The ninth-worst decliner is Adobe, which was down over 30% in the first ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-possibility-end-034511719.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-06T03:45:11+00:00",
+      "category": "USA",
+      "simple_explanation": "Adobe Inc. (NASDAQ:ADBE) is among the stocks in focus as Jim Cramer reviewed the S&P 500’s top performers and the Nasdaq 100’s biggest laggards for the first quarter. Cramer highlighted the threats to"
+    },
+    {
+      "title": "Jim Cramer Discusses Why Thomson Reuters Became an AI Casualty",
+      "description": "Thomson Reuters Corporation (NASDAQ:TRI) is among the stocks in focus as Jim Cramer reviewed the S&P 500’s top performers and the Nasdaq 100’s biggest laggards for the first quarter. Cramer highlighted the impact of AI on the stock, as he commented: The eighth-worst name in the Nasdaq 100 was Thomso",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-why-thomson-034502012.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-06T03:45:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Thomson Reuters Corporation (NASDAQ:TRI) is among the stocks in focus as Jim Cramer reviewed the S&P 500’s top performers and the Nasdaq 100’s biggest laggards for the first quarter. Cramer highlighte"
+    },
+    {
+      "title": "Jim Cramer Says He Thinks “The Stock of DoorDash Can Be Bought Here”",
+      "description": "DoorDash, Inc. (NASDAQ:DASH) is among the stocks in focus as Jim Cramer reviewed the S&P 500’s top performers and the Nasdaq 100’s biggest laggards for the first quarter. Cramer was bullish on the stock during the episode, as he remarked: Number seven, odd, one, DoorDash, down nearly 34% in the firs",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-thinks-stock-034451950.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-06T03:44:51+00:00",
+      "category": "USA",
+      "simple_explanation": "DoorDash, Inc. (NASDAQ:DASH) is among the stocks in focus as Jim Cramer reviewed the S&P 500’s top performers and the Nasdaq 100’s biggest laggards for the first quarter. Cramer was bullish on the sto"
+    },
+    {
+      "title": "Jim Cramer Says Occidental Petroleum Is a “Big Loser If Peace Breaks Out” and Vice Versa",
+      "description": "Occidental Petroleum Corporation (NYSE:OXY) is among the stocks in focus as Jim Cramer reviewed the S&P 500’s top performers and the Nasdaq 100’s biggest laggards for the first quarter. Cramer highlighted a mixed forecast for the stock depending on the Iran conflict, as he commented: Next up, I was ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-occidental-petroleum-034325443.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-06T03:43:25+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Occidental Petroleum Corporation (NYSE:OXY) is among the stocks in focus as Jim Cramer reviewed the S&P 500’s top performers and the Nasdaq 100’s biggest laggards for the first quarter. Cramer highlig"
+    },
+    {
+      "title": "UBS has surprising message for gold investors after recent weakness",
+      "description": "Gold had a rough March, to say the least, but UBS isn’t backing down.The Swiss bank reiterated its bullish call on the king metal, doubling down on gold, with prices averaging $5,000 per ounce in 2026, holding near $4,800 in 2027 and $4,250 in 2028. However, even after a steep drop in March, UBS ...",
+      "url": "https://www.thestreet.com/investing/ubs-has-surprising-message-for-gold-investors-after-recent-weakness?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-06T03:33:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold had a rough March, to say the least, but UBS isn’t backing down.The Swiss bank reiterated its bullish call on the king metal, doubling down on gold, with prices averaging $5,000 per ounce in 2026"
+    },
+    {
+      "title": "Dow Jones Futures Fall As Trump Sees Iran Deal Or 'Hell'; Sandisk Leads 7 Stocks To Watch",
       "description": "President Trump threatened huge Tuesday attacks, saying Iran will be \"in hell\" if the Strait of Hormuz isn't opened. A market rally attempt is underway, but look for this signal.",
       "url": "https://finance.yahoo.com/m/7b231c75-cfb6-380b-bdd2-878fe84b548a/dow-jones-futures-fall-as.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-05T22:48:35+00:00",
+      "published_at": "2026-04-06T03:26:54+00:00",
       "category": "USA",
       "simple_explanation": "President Trump threatened huge Tuesday attacks, saying Iran will be \"in hell\" if the Strait of Hormuz isn't opened. A market rally attempt is underway, but look for this signal."
     },
     {
-      "title": "Exploring Three High Growth Tech Stocks in Asia",
-      "description": "Amidst global market fluctuations driven by geopolitical tensions and energy volatility, Asian markets have shown mixed signals with China's PMI data indicating a rebound in manufacturing activity while Japan faces challenges from rising oil prices. In this dynamic environment, identifying high grow",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/exploring-three-high-growth-tech-223535895.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T22:35:35+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Amidst global market fluctuations driven by geopolitical tensions and energy volatility, Asian markets have shown mixed signals with China's PMI data indicating a rebound in manufacturing activity whi"
+      "title": "Rwanda swats Bybit’s P2P platform offering franc-to-crypto trading",
+      "description": "The Rwanda central bank's warning came after Bybit added the Rwanda franc to its list of assets that its peer-to-peer platform can use to trade for crypto.",
+      "url": "https://cointelegraph.com/news/rwanda-swats-bybit-p2p-platform-offering-franc-to-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzc2MTEtMWE0NC03OTQzLThmYTQtYzJhMmY5YjI5MTc2LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-06T03:06:34+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Rwanda central bank's warning came after Bybit added the Rwanda franc to its list of assets that its peer-to-peer platform can use to trade for crypto."
     },
     {
-      "title": "Oil prices open higher as US-Israeli war with Iran continues to disrupt supply",
-      "description": "TOKYO, April 6 (Reuters) - Oil prices opened higher on Monday after the Easter holiday weekend as the U.S.-Israeli war with Iran continues to disrupt global oil supply.",
-      "url": "https://sg.finance.yahoo.com/news/oil-prices-open-higher-us-222604423.html?.tsrc=rss",
+      "title": "Stock market today: Oil surges, futures fall as Trump ratchets up threats against Iran",
+      "description": "Oil rose and stock futures fell on Sunday night as investors aimed to make sense of a busy weekend in the US-Iran conflict.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-oil-surges-futures-fall-as-trump-ratchets-up-threats-against-iran-002656735.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-05T22:26:04+00:00",
-      "category": "Commodities",
-      "simple_explanation": "TOKYO, April 6 (Reuters) - Oil prices opened higher on Monday after the Easter holiday weekend as the U.S.-Israeli war with Iran continues to disrupt global oil supply."
-    },
-    {
-      "title": "US Stock Futures Fall on Trump Escalation Threats: Markets Wrap",
-      "description": "(Bloomberg) -- US equity-index futures dropped and oil climbed after US President Donald Trump’s warning that he may significantly escalate the war in Iran, potentially worsening an energy-price shock that’s already upending the global economic outlook.Futures contracts for the S&P 500 Index retreat",
-      "url": "https://finance.yahoo.com/news/trading-open-shadowed-trump-escalation-200039071.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T22:04:28+00:00",
+      "published_at": "2026-04-06T00:26:56+00:00",
       "category": "USA",
-      "simple_explanation": "(Bloomberg) -- US equity-index futures dropped and oil climbed after US President Donald Trump’s warning that he may significantly escalate the war in Iran, potentially worsening an energy-price shock"
+      "simple_explanation": "Oil rose and stock futures fell on Sunday night as investors aimed to make sense of a busy weekend in the US-Iran conflict."
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -71,336 +401,6 @@
       "published_at": "2026-04-05T21:00:06+00:00",
       "category": "Crypto",
       "simple_explanation": "Here's why Lyulkin suggested not buying bitcoin while Trump is in office."
-    },
-    {
-      "title": "XRP Price Prediction April 2026: Why Analysts Are Split Between $1.15 and $1.60",
-      "description": "XRP (CRYPTO: XRP) has dropped to $1.30 in early April, after grinding lower from $1.45 within the past month. The $1.28 support that’s held through every selloff since February is now what’s keeping the XRP price from dropping back to less than a dollar. XRP’s value is down 64% from its $3.65 all-ti",
-      "url": "https://247wallst.com/investing/2026/04/05/xrp-price-prediction-april-2026-why-analysts-are-split-between-1-15-and-1-60/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T20:14:18+00:00",
-      "category": "Commodities",
-      "simple_explanation": "XRP (CRYPTO: XRP) has dropped to $1.30 in early April, after grinding lower from $1.45 within the past month. The $1.28 support that’s held through every selloff since February is now what’s keeping t"
-    },
-    {
-      "title": "A Look At G Mining Ventures (TSX:GMIN) Valuation After A 200% One Year Total Return",
-      "description": "What G Mining Ventures’ recent performance tells you G Mining Ventures (TSX:GMIN) has drawn attention after a sharp 1 year total return of about 200% and a reported market value of roughly CA$11.6b, prompting closer scrutiny of its fundamentals. See our latest analysis for G Mining Ventures. The rec",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/look-g-mining-ventures-tsx-200345630.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T20:03:45+00:00",
-      "category": "Commodities",
-      "simple_explanation": "What G Mining Ventures’ recent performance tells you G Mining Ventures (TSX:GMIN) has drawn attention after a sharp 1 year total return of about 200% and a reported market value of roughly CA$11.6b, p"
-    },
-    {
-      "title": "Polymarket odds of US invading Iran this year reach 63% after Trump's post",
-      "description": "The President of the United States continues to give contradictory signals of escalating the war and winding it down within a few weeks.",
-      "url": "https://cointelegraph.com/news/polymarket-odds-us-invade-iran-2027-60-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDVmMGMtYTgwNS03ZWZiLTkyOTctNDY4YTgxNDZhYzY2LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-05T19:37:50+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The President of the United States continues to give contradictory signals of escalating the war and winding it down within a few weeks."
-    },
-    {
-      "title": "Assessing BKV (BKV) Valuation After Lowered EPS Forecasts And Softer Energy Sector Support",
-      "description": "Research analysts at KeyCorp cut their earnings per share estimates for BKV (BKV) after lower than expected Q2 results, as easing U.S. Iran tensions cooled oil prices and pressure built across energy stocks. See our latest analysis for BKV. BKV’s share price has pulled back recently, with a 7.72% 7 ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-bkv-bkv-valuation-lowered-190741584.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T19:07:41+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Research analysts at KeyCorp cut their earnings per share estimates for BKV (BKV) after lower than expected Q2 results, as easing U.S. Iran tensions cooled oil prices and pressure built across energy "
-    },
-    {
-      "title": "Trump vows Iran will be 'living in Hell' by Tuesday if Strait of Hormuz deadline missed",
-      "description": "\"Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothing like it!!!\" Trump said in a Truth Social post.",
-      "url": "https://www.cnbc.com/2026/04/05/us-trump-confirms-missing-us-pilot-rescued.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-05T18:51:20+00:00",
-      "category": "USA",
-      "simple_explanation": "\"Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran. There will be nothing like it!!!\" Trump said in a Truth Social post."
-    },
-    {
-      "title": "James Wynn Reveals His Defensive Play Amid Trump’s Fiery Iran Message",
-      "description": "Trader James Wynn shorts equities and buys Bitcoin dips as Trump's Iran deadline and low-liquidity wicks shake crypto markets.",
-      "url": "https://beincrypto.com/james-wynn-bitcoin-dips-iran-war/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T18:48:19+00:00",
-      "category": "USA",
-      "simple_explanation": "Trader James Wynn shorts equities and buys Bitcoin dips as Trump's Iran deadline and low-liquidity wicks shake crypto markets."
-    },
-    {
-      "title": "Michael Saylor Exposes the Fatal Flaw in Peter Schiff’s Anti-Bitcoin Argument",
-      "description": "Michael Saylor counters Peter Schiff's claim that Bitcoin underperformed gold and stocks over five years with annualized return data.",
-      "url": "https://beincrypto.com/saylor-schiff-bitcoin-five-year-performance-criticism/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T18:35:40+00:00",
-      "category": "USA",
-      "simple_explanation": "Michael Saylor counters Peter Schiff's claim that Bitcoin underperformed gold and stocks over five years with annualized return data."
-    },
-    {
-      "title": "Montage Gold Resource Upgrade And Fast Build Shift Project Risk Profile",
-      "description": "Montage Gold (TSX:MAU) has released an updated Mineral Resource Estimate for the Koné and Gbongogo Main deposits. The new estimate covers both total resources and grades, reflecting recent exploration work and model refinements. Construction at the Koné gold project is progressing ahead of schedule,",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/montage-gold-upgrade-fast-build-180819988.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T18:08:19+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Montage Gold (TSX:MAU) has released an updated Mineral Resource Estimate for the Koné and Gbongogo Main deposits. The new estimate covers both total resources and grades, reflecting recent exploration"
-    },
-    {
-      "title": "Will the S&P 500 Crash in 2026? History Offers a Clear Answer",
-      "description": "The current pullback in the S&P 500 has investors wondering whether it'll worsen. History's answer may actually surprise you.",
-      "url": "https://www.fool.com/investing/2026/04/05/will-sp-500-crash-2026-history-offers-answer/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T17:40:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The current pullback in the S&P 500 has investors wondering whether it'll worsen. History's answer may actually surprise you."
-    },
-    {
-      "title": "Wall Street Week Ahead: Focus on inflation reports, crude oil, Federal Reserve minutes",
-      "description": "Crude oil will remain a primary focus following the Sunday decision by eight OPEC members to raise production starting in May",
-      "url": "https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-focus-on-inflation-reports-crude-oil-federal-reserve-minutes-11775405308423.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/05/1600x900/logo/US-ECONOMY-MARKETS-9_1775405390771_1775405418525.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-05T17:37:14+00:00",
-      "category": "India",
-      "simple_explanation": "Crude oil will remain a primary focus following the Sunday decision by eight OPEC members to raise production starting in May"
-    },
-    {
-      "title": "Bitcoin and the US dollar have a 'symbiotic' relationship: BPI exec",
-      "description": "Demand for either currency strengthens both in a reinforcing relationship, contrary to popular sentiment, Sam Lyman told Cointelegraph.",
-      "url": "https://cointelegraph.com/news/bitcoin-us-dollar-symbiotic-relationship-bpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDVlNmYtNmE1NC03MTFhLTk0MWMtNTk1MGE1YmU5Mzc3LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-05T17:17:37+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Demand for either currency strengthens both in a reinforcing relationship, contrary to popular sentiment, Sam Lyman told Cointelegraph."
-    },
-    {
-      "title": "VTI Owns Over 3,500 Stocks, Including Nvidia, Apple, and Microsoft. Is This the Smartest Way to Buy the Entire U.S. Market Right Now?",
-      "description": "Many investors may be thinking about buying the broader market after the sell-off this year.",
-      "url": "https://www.fool.com/investing/2026/04/05/vti-3500-stocks-nvidia-apple-microsoft-buy-etf/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T16:52:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Many investors may be thinking about buying the broader market after the sell-off this year."
-    },
-    {
-      "title": "International Stocks Are Trouncing Growth Stocks and This ETF Pays You a 3% Yield on Top",
-      "description": "The Nasdaq 100 is down more than 6% year-to-date. Meanwhile, the broad international developed market benchmark has held up far better. That gap reflects a deliberate macro dynamic. The dollar has been on an uneven path in 2026, and when the dollar softens, foreign earnings translate into more dolla",
-      "url": "https://247wallst.com/investing/2026/04/05/international-stocks-are-trouncing-growth-stocks-and-this-etf-pays-you-a-3-yield-on-top/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T16:11:59+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The Nasdaq 100 is down more than 6% year-to-date. Meanwhile, the broad international developed market benchmark has held up far better. That gap reflects a deliberate macro dynamic. The dollar has bee"
-    },
-    {
-      "title": "A Look At Zijin Gold International (SEHK:2259) Valuation After Recent Share Price Pullback",
-      "description": "What recent performance says about Zijin Gold International Zijin Gold International (SEHK:2259) has caught investor attention after a mixed run, with a 3.3% decline over the past day, a small gain over the past week, and a weaker month followed by a stronger past 3 months. See our latest analysis f",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/look-zijin-gold-international-sehk-160639842.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T16:06:39+00:00",
-      "category": "Commodities",
-      "simple_explanation": "What recent performance says about Zijin Gold International Zijin Gold International (SEHK:2259) has caught investor attention after a mixed run, with a 3.3% decline over the past day, a small gain ov"
-    },
-    {
-      "title": "Zohran Mamdani and the business exodus? New York's office real estate market is up under new mayor",
-      "description": "Reports Apollo Global Management is planning a second HQ in the US South renewed debate over a business exodus under NYC Mayor Mamdani. Data doesn't support it.",
-      "url": "https://www.cnbc.com/2026/04/05/mayor-zohran-mamdani-new-york-office-real-estate-market.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-05T15:53:59+00:00",
-      "category": "USA",
-      "simple_explanation": "Reports Apollo Global Management is planning a second HQ in the US South renewed debate over a business exodus under NYC Mayor Mamdani. Data doesn't support it."
-    },
-    {
-      "title": "Why Some Investors Are Moving to Cash in 2026: Is That a Mistake?",
-      "description": "Moving out of stocks and into cash based on short-term events is usually a bad move.",
-      "url": "https://www.fool.com/investing/2026/04/05/why-some-investors-moving-to-cash-in-2026-mistake/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T15:35:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Moving out of stocks and into cash based on short-term events is usually a bad move."
-    },
-    {
-      "title": "Robert Kiyosaki recommends Bitcoin, gold as 1974 shift comes full circle",
-      "description": "The Rich Dad Poor Dad author continues to back Bitcoin, gold and silver as alternatives to traditional money.",
-      "url": "https://cointelegraph.com/news/robert-kiyosaki-1974-shift-bitcoin-gold-real-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDVkODQtMGIwNi03NTVmLThmMDgtYjhmMTVlZDY0ODNhLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-05T12:17:50+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The Rich Dad Poor Dad author continues to back Bitcoin, gold and silver as alternatives to traditional money."
-    },
-    {
-      "title": "New Bitcoin price lows 'matter of time' says trader with BTC stuck at $67K",
-      "description": "Bitcoin added downside BTC price warnings as Binance order-book data showed multiple investor classes selling coins into the weekend.",
-      "url": "https://cointelegraph.com/news/new-bitcoin-price-lows-matter-of-time-says-trader-btc-stuck-67k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDVkNzItNjg5NS03OWJhLWI2YjMtMzRiY2YwNWU2ZTUwLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-05T11:54:02+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin added downside BTC price warnings as Binance order-book data showed multiple investor classes selling coins into the weekend."
-    },
-    {
-      "title": "Inflation readings, oil volatility, and airline earnings: What to watch this week",
-      "description": "Inflation readings, Delta earnings, and more Middle East volatility are set to headline the week ahead.",
-      "url": "https://finance.yahoo.com/news/inflation-readings-oil-volatility-and-airline-earnings-what-to-watch-this-week-100027649.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T11:30:27+00:00",
-      "category": "USA",
-      "simple_explanation": "Inflation readings, Delta earnings, and more Middle East volatility are set to headline the week ahead."
-    },
-    {
-      "title": "Is the Trump Bull Market in Its Final Act? History Offers a Decisive Answer.",
-      "description": "Historical precedent may be the insurmountable headwind that Wall Street's bull market can't overcome.",
-      "url": "https://www.fool.com/investing/2026/04/05/trump-bull-market-final-act-history-clear-answer/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T10:56:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Historical precedent may be the insurmountable headwind that Wall Street's bull market can't overcome."
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide D-Street action on Monday",
-      "description": "Bulls staged a sharp rebound on Thursday, lifting Sensex and Nifty to a second straight gain despite high volatility. IT stocks led the recovery, while India VIX edged higher. Analysts see near-term upside but caution that broader weakness and elevated volatility persist. Market sentiment remains po",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/130037775.cms",
-      "image": "https://img.etimg.com/photo/msid-130037775,imgsize-55920.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-05T10:45:34+00:00",
-      "category": "India",
-      "simple_explanation": "Bulls staged a sharp rebound on Thursday, lifting Sensex and Nifty to a second straight gain despite high volatility. IT stocks led the recovery, while India VIX edged higher. Analysts see near-term u"
-    },
-    {
-      "title": "Stocks braced for volatility as RBI policy, West Asia conflict take centre stage, say analysts",
-      "description": "The domestic stock market is expected to remain volatile this week as investors track the Reserve Bank's monetary policy decision, key global macroeconomic data and the impact of the West Asia conflict, analysts said.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-braced-for-volatility-as-rbi-policy-west-asia-conflict-take-centre-stage-say-analysts/articleshow/130037689.cms",
-      "image": "https://img.etimg.com/photo/msid-130037689,imgsize-19638.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-05T10:42:12+00:00",
-      "category": "India",
-      "simple_explanation": "The domestic stock market is expected to remain volatile this week as investors track the Reserve Bank's monetary policy decision, key global macroeconomic data and the impact of the West Asia conflic"
-    },
-    {
-      "title": "Gold rate today: Yellow metal falls 7% during the US-Iran war. Is it a right time to buy gold?",
-      "description": "Gold rate today: Despite continued geopolitical tensions, gold prices have declined by nearly 7% since February 28. Here's what gold prices are likely to trade in the coming week amid US-Iran war.",
-      "url": "https://www.livemint.com/market/commodities/gold-rate-today-yellow-metal-falls-7-during-the-us-iran-war-is-it-a-right-time-to-buy-gold-11775380117008.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/05/1600x900/logo/gold_1775384566852_1775384567071.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-05T10:27:05+00:00",
-      "category": "India",
-      "simple_explanation": "Gold rate today: Despite continued geopolitical tensions, gold prices have declined by nearly 7% since February 28. Here's what gold prices are likely to trade in the coming week amid US-Iran war."
-    },
-    {
-      "title": "HDFC Bank, Yes Bank to IDBI Bank: These banking stocks will remain in focus on Monday, here's why",
-      "description": "Shares of HDFC Bank, Yes Bank, Kotak Mahindra Bank, IDBI Bank and others will remain in focus on Monday. Here's a list of banks with their Q4 business updates for FY26.",
-      "url": "https://www.livemint.com/market/stock-market-news/hdfc-bank-yes-bank-to-idbi-bank-these-banking-stocks-will-remain-in-focus-on-monday-heres-why-11775378037318.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/05/1600x900/logo/bank_1775379524880_1775379524991.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-05T09:06:45+00:00",
-      "category": "India",
-      "simple_explanation": "Shares of HDFC Bank, Yes Bank, Kotak Mahindra Bank, IDBI Bank and others will remain in focus on Monday. Here's a list of banks with their Q4 business updates for FY26."
-    },
-    {
-      "title": "Opinion: If You Think the End of the Iran War Will Lead to a \"Trump Bump\" on Wall Street, You'll Be Sorely Disappointed",
-      "description": "While an eventual end to conflict in the Middle East will stem near-term uncertainty, it ignores the bigger picture.",
-      "url": "https://www.fool.com/investing/2026/04/05/end-iran-war-trump-bump-wall-street-disappointed/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-05T08:26:00+00:00",
-      "category": "USA",
-      "simple_explanation": "While an eventual end to conflict in the Middle East will stem near-term uncertainty, it ignores the bigger picture."
-    },
-    {
-      "title": "Mcap of 6 of top 10 most valued companies drops by nearly  ₹65,000 crore; Bharti Airtel loses nearly  ₹30,000 crore",
-      "description": "Last week, the BSE benchmark Sensex declined 263.67 points, or 0.35 per cent, and the NSE Nifty fell 106.5 points, or 0.46 per cent.",
-      "url": "https://www.livemint.com/market/stock-market-news/mcap-of-6-of-top-10-most-valued-companies-drops-by-nearly-65-000-crore-bharti-airtel-loses-nearly-30-000-crore-11775376271961.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/05/1600x900/logo/Stock_market_crash_1762247908118_1762247921999_1775376568500.png",
-      "source": "LiveMint",
-      "published_at": "2026-04-05T08:11:09+00:00",
-      "category": "India",
-      "simple_explanation": "Last week, the BSE benchmark Sensex declined 263.67 points, or 0.35 per cent, and the NSE Nifty fell 106.5 points, or 0.46 per cent."
-    },
-    {
-      "title": "US-Iran war: Can US dollar replace gold as safe-haven asset amid soaring oil prices?",
-      "description": "Despite the US being directly involved in the war, the dollar index has rebounded strongly after falling nearly 10% in 2025. Here's what experts say on whether the index could replace gold as safe-haven asset.",
-      "url": "https://www.livemint.com/market/stock-market-news/usiran-war-can-us-dollar-replace-gold-as-safe-haven-asset-amid-soaring-oil-prices-11775372285676.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/05/1600x900/logo/dollar_1775375849088_1775375849213.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-04-05T08:04:47+00:00",
-      "category": "India",
-      "simple_explanation": "Despite the US being directly involved in the war, the dollar index has rebounded strongly after falling nearly 10% in 2025. Here's what experts say on whether the index could replace gold as safe-hav"
-    },
-    {
-      "title": "M-cap of 6 of top 10 most valued firms drops nearly by Rs 65,000 cr; Bharti Airtel biggest laggard",
-      "description": "The combined market valuation of six of the top-10 most valued firms declined by Rs 64,734.46 crore in a holiday-shortened last week, with Bharti Airtel taking the biggest hit, reflecting the broader weakness in the equities market.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/m-cap-of-6-of-top-10-most-valued-firms-drops-nearly-by-rs-65000-cror-bharti-airtel-biggest-laggard/articleshow/130035445.cms",
-      "image": "https://img.etimg.com/photo/msid-130035445,imgsize-45440.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-05T07:51:39+00:00",
-      "category": "India",
-      "simple_explanation": "The combined market valuation of six of the top-10 most valued firms declined by Rs 64,734.46 crore in a holiday-shortened last week, with Bharti Airtel taking the biggest hit, reflecting the broader "
-    },
-    {
-      "title": "11 IPO stocks to see lock-in expiry worth Rs 2,378 crore in next two months. Do you own any?",
-      "description": "Rs 2,378 crore in IPO anchor shares unlocking across 11 firms during April–May may create supply pressure, with clustered expiries potentially impacting stock prices and short-term market sentiment significantly.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/11-ipo-stocks-to-see-lock-in-expiry-worth-rs-2378-crore-in-next-two-months-do-you-own-any/slideshow/130035542.cms",
-      "image": "https://img.etimg.com/photo/msid-130035259,imgsize-19416.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-05T07:26:57+00:00",
-      "category": "India",
-      "simple_explanation": "Rs 2,378 crore in IPO anchor shares unlocking across 11 firms during April–May may create supply pressure, with clustered expiries potentially impacting stock prices and short-term market sentiment si"
-    },
-    {
-      "title": "How to trade Nifty Bank amid RBI monetary policy: Anand James shares his playbook",
-      "description": "Bank Nifty is at a critical juncture ahead of the RBI policy, showing early signs of stabilization after recent volatility. Easing selling pressure and improving technical indicators suggest a potential short-term rebound. Traders are advised to monitor key levels and historical trends for positioni",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-to-trade-nifty-bank-amid-rbi-monetary-policy-anand-james-shares-his-playbook/articleshow/130034999.cms",
-      "image": "https://img.etimg.com/photo/msid-130034999,imgsize-37394.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-05T07:03:07+00:00",
-      "category": "India",
-      "simple_explanation": "Bank Nifty is at a critical juncture ahead of the RBI policy, showing early signs of stabilization after recent volatility. Easing selling pressure and improving technical indicators suggest a potenti"
-    },
-    {
-      "title": "Indian stock market: How are Sensex and Nifty likely to perform next week amid US-Iran war?",
-      "description": "Indian stock market: Both Indian indices - Sensex and Nifty 50 - ended the week on a lower note for sixth week. Checkout how's the Indian market is likely to perform this week, along with key technical levels to watch out.",
-      "url": "https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-likely-to-perform-next-week-amid-us-iran-war-11775367985838.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/05/1600x900/logo/stock_1775370056723_1775370056919.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-05T06:31:04+00:00",
-      "category": "India",
-      "simple_explanation": "Indian stock market: Both Indian indices - Sensex and Nifty 50 - ended the week on a lower note for sixth week. Checkout how's the Indian market is likely to perform this week, along with key technica"
-    },
-    {
-      "title": "IPO pipeline strengthens; 38 cos file draft papers in March",
-      "description": "As many as 38 companies, including SBI Funds Management and Manipal Health Enterprises, filed preliminary IPO papers with Sebi in March 2026, signalling improving issuer sentiment even as regulatory timelines contributed to the surge.",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-pipeline-strengthens-38-cos-file-draft-papers-in-march/articleshow/130034483.cms",
-      "image": "https://img.etimg.com/photo/msid-130034483,imgsize-15158.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-05T06:10:21+00:00",
-      "category": "India",
-      "simple_explanation": "As many as 38 companies, including SBI Funds Management and Manipal Health Enterprises, filed preliminary IPO papers with Sebi in March 2026, signalling improving issuer sentiment even as regulatory t"
-    },
-    {
-      "title": "Chasing trends or buying value? The strategy that wins over time",
-      "description": "The global stock market landscape has become increasingly complex, shaped by macroeconomic uncertainty, geopolitical risks, and shifting liquidity conditions. Yet, amid this volatility, timeless investing principles, such as those advocated by Joel Greenblatt offer a structured lens to interpret mar",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/chasing-trends-or-buying-value-the-strategy-that-wins-over-time/articleshow/130034440.cms",
-      "image": "https://img.etimg.com/photo/msid-130034440,imgsize-127681.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-05T06:04:28+00:00",
-      "category": "India",
-      "simple_explanation": "The global stock market landscape has become increasingly complex, shaped by macroeconomic uncertainty, geopolitical risks, and shifting liquidity conditions. Yet, amid this volatility, timeless inves"
     }
   ]
 }
