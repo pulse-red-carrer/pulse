@@ -1,176 +1,396 @@
 {
-  "last_updated": "2026-04-08T17:03:51.696571+00:00",
+  "last_updated": "2026-04-08T19:18:05.071200+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "U.S. has violated ceasefire agreement, Iran parliamentary speaker says",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/04/08/ceasefire-iran-war-lebanon.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-08T19:09:12+00:00",
+      "category": "USA",
+      "simple_explanation": ""
+    },
+    {
+      "title": "Bitcoin Pioneer Adam Back, Bernstein Say Quantum Threat to BTC Isn’t Existential",
+      "description": "Anxieties over the quantum threat to Bitcoin have been growing, but Bernstein backs Back in saying there’s no cause for alarm.",
+      "url": "https://decrypt.co/363680/bitcoin-pioneer-adam-back-bernstein-quantum-threat-not-existential?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T18:58:03+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Anxieties over the quantum threat to Bitcoin have been growing, but Bernstein backs Back in saying there’s no cause for alarm."
+    },
     {
       "title": "Meta debuts new AI model, attempting to catch Google, OpenAI after spending billions",
       "description": "Meta debuted its first major large language model, Muse Spark, spearheaded by chief AI officer Alexandr Wang, who leads Meta Superintelligence Labs.",
       "url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-08T17:01:08+00:00",
+      "published_at": "2026-04-08T18:48:28+00:00",
       "category": "USA",
       "simple_explanation": "Meta debuted its first major large language model, Muse Spark, spearheaded by chief AI officer Alexandr Wang, who leads Meta Superintelligence Labs."
     },
     {
-      "title": "Stock Market Today: Dow Surges 1,200 Points As Fed Minutes Loom; Alphabet Soars (Live Coverage)",
-      "description": "The Dow Jones Industrial Average and other major stock indexes held the bulk of their hefty gains Wednesday afternoon after President Donald Trump suspended Iran attacks for two weeks while Tehran agreed to open the Strait of Hormuz.  Meanwhile, the Federal Reserve's minutes from the March rate-sett",
+      "title": "April’s First US Treasury Auctions See Improved Demand",
+      "description": "The first Treasury auctions of the month attracted improved investor demand, diluting concern that foreigners were avoiding US debt amid the war in the Middle East.",
+      "url": "https://www.livemint.com/market/aprils-first-us-treasury-auctions-see-improved-demand-11775674099826.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "source": "LiveMint",
+      "published_at": "2026-04-08T18:48:19+00:00",
+      "category": "India",
+      "simple_explanation": "The first Treasury auctions of the month attracted improved investor demand, diluting concern that foreigners were avoiding US debt amid the war in the Middle East."
+    },
+    {
+      "title": "TFS Financial (TFSL): Buy, Sell, or Hold Post Q3 Earnings?",
+      "description": "Even during a down period for the markets, TFS Financial has gone against the grain, climbing to $14.33. Its shares have yielded a 6.5% return over the last six months, beating the S&P 500 by 8.6%. This was partly thanks to its solid quarterly results, and the run-up might have investors contemplati",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tfs-financial-tfsl-buy-sell-184547388.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T18:45:47+00:00",
+      "category": "USA",
+      "simple_explanation": "Even during a down period for the markets, TFS Financial has gone against the grain, climbing to $14.33. Its shares have yielded a 6.5% return over the last six months, beating the S&P 500 by 8.6%. Th"
+    },
+    {
+      "title": "Today's Market: Dow Jumps 1,000 Points, S&P 500 and Nasdaq Rises 2% as Trump Strikes Iran ...",
+      "description": "Iran Ceasefire Sparks Massive Rally: S&P 500 Soars 2.5% at Open",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/todays-market-dow-jumps-1-183734189.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T18:37:34+00:00",
+      "category": "USA",
+      "simple_explanation": "Iran Ceasefire Sparks Massive Rally: S&P 500 Soars 2.5% at Open"
+    },
+    {
+      "title": "Fed Minutes Suggest a Lengthy Iran War Could Lead to Rate Hikes",
+      "description": "Since the Iran war began on Feb. 28, borrowing costs have risen and markets have come under pressure, tightening conditions without any policy move from the Fed.",
+      "url": "https://finance.yahoo.com/m/d1d8f045-5e63-3e78-9efa-82cc609f7c85/fed-minutes-suggest-a-lengthy.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T18:36:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Since the Iran war began on Feb. 28, borrowing costs have risen and markets have come under pressure, tightening conditions without any policy move from the Fed."
+    },
+    {
+      "title": "Market indexes soared on the Iran truce, but risks remain",
+      "description": "Wall Street loved the Iran truce on Wednesday. Is the optimism justified?",
+      "url": "https://www.fool.com/investing/2026/04/08/market-indexes-soared-on-the-iran-truce/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T18:32:34+00:00",
+      "category": "USA",
+      "simple_explanation": "Wall Street loved the Iran truce on Wednesday. Is the optimism justified?"
+    },
+    {
+      "title": "Stocks Surge After U.S., Iran Walk Back From the Brink",
+      "description": "U.S. stocks jumped after President Trump said he had agreed to a cease-fire with Iran if the Strait of Hormuz reopened.",
+      "url": "https://www.wsj.com/finance/stocks/oil-tumbles-stocks-surge-as-markets-greet-u-s-iran-cease-fire-with-optimism-b9ac56e5?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T18:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "U.S. stocks jumped after President Trump said he had agreed to a cease-fire with Iran if the Strait of Hormuz reopened."
+    },
+    {
+      "title": "3 Reasons to Sell CMCSA and 1 Stock to Buy Instead",
+      "description": "Over the last six months, Comcast shares have sunk to $27.94, producing a disappointing 9.2% loss - worse than the S&P 500’s 2.1% drop. This was partly driven by its softer quarterly results and might have investors contemplating their next move.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-cmcsa-1-182947834.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T18:29:47+00:00",
+      "category": "USA",
+      "simple_explanation": "Over the last six months, Comcast shares have sunk to $27.94, producing a disappointing 9.2% loss - worse than the S&P 500’s 2.1% drop. This was partly driven by its softer quarterly results and might"
+    },
+    {
+      "title": "Stock Market Today: Dow Surges 1,200 Points After Fed Minutes; Caterpillar Soars (Live Coverage)",
+      "description": "The Dow Jones Industrial Average and other major stock indexes got a further lift Wednesday afternoon after the Federal Reserve's minutes of its March meeting were released.  Earlier, stocks soared on the stock market today after President Donald Trump suspended Iran attacks for two weeks while Tehr",
       "url": "https://finance.yahoo.com/m/c9240d23-e72c-3dc7-b480-3c3cfd25afe1/stock-market-today%3A-dow.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:51:23+00:00",
+      "published_at": "2026-04-08T18:28:25+00:00",
       "category": "USA",
-      "simple_explanation": "The Dow Jones Industrial Average and other major stock indexes held the bulk of their hefty gains Wednesday afternoon after President Donald Trump suspended Iran attacks for two weeks while Tehran agr"
+      "simple_explanation": "The Dow Jones Industrial Average and other major stock indexes got a further lift Wednesday afternoon after the Federal Reserve's minutes of its March meeting were released.  Earlier, stocks soared on"
     },
     {
-      "title": "First ships pass Strait of Hormuz since Trump-Iran ceasefire, but traffic remains low amid confusion",
-      "description": "Iran is reportedly planning to demand that shipping firms pay tolls in cryptocurrency to let their oil tankers through the Strait of Hormuz.",
-      "url": "https://www.cnbc.com/2026/04/08/trump-iran-ceasefire-strait-of-hormuz-toll.html",
+      "title": "Fed officials still foresee rate cut this year, despite war impacts, minutes show",
+      "description": "Policymakers said they would need to remain \"nimble\" as they weighed the impact the war had on inflation.",
+      "url": "https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-08T16:48:30+00:00",
+      "published_at": "2026-04-08T18:26:37+00:00",
       "category": "USA",
-      "simple_explanation": "Iran is reportedly planning to demand that shipping firms pay tolls in cryptocurrency to let their oil tankers through the Strait of Hormuz."
+      "simple_explanation": "Policymakers said they would need to remain \"nimble\" as they weighed the impact the war had on inflation."
     },
     {
-      "title": "UAE Oil Refining Market Assessment 2026: Identify Capital Investment Opportunities in New Refineries and Capacity Expansions",
-      "description": "Dublin, April 08, 2026 (GLOBE NEWSWIRE) -- The \"Oil Refining Industry in The United Arab Emirates 2026\" has been added to ResearchAndMarkets.com's offering. This comprehensive report delves into the United Arab Emirates' crude oil refining industry, offering in-depth insights on both existing and pl",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/uae-oil-refining-market-assessment-164600337.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:46:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Dublin, April 08, 2026 (GLOBE NEWSWIRE) -- The \"Oil Refining Industry in The United Arab Emirates 2026\" has been added to ResearchAndMarkets.com's offering. This comprehensive report delves into the U"
-    },
-    {
-      "title": "Qatar Oil Refining Market Analysis Report 2026 Including the Latest Deals and Developments",
-      "description": "Dublin, April 08, 2026 (GLOBE NEWSWIRE) -- The \"Oil Refining Industry in Qatar 2026\" has been added to ResearchAndMarkets.com's offering. The Qatar crude oil refining industry report is a comprehensive resource offering detailed insights into current and planned refinery operations, including an ana",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/qatar-oil-refining-market-analysis-164500794.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:45:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Dublin, April 08, 2026 (GLOBE NEWSWIRE) -- The \"Oil Refining Industry in Qatar 2026\" has been added to ResearchAndMarkets.com's offering. The Qatar crude oil refining industry report is a comprehensiv"
-    },
-    {
-      "title": "Assessment of Saudi Arabia's Oil Refining Industry, 2026: Companies, Capacities, Market Share and More",
-      "description": "Dublin, April 08, 2026 (GLOBE NEWSWIRE) -- The \"Oil Refining Industry in Saudi Arabia 2026\" has been added to ResearchAndMarkets.com's offering. The comprehensive report on Saudi Arabia's crude oil refining industry offers detailed insights into current and future refinery operations. It provides ex",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/assessment-saudi-arabias-oil-refining-164400474.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:44:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Dublin, April 08, 2026 (GLOBE NEWSWIRE) -- The \"Oil Refining Industry in Saudi Arabia 2026\" has been added to ResearchAndMarkets.com's offering. The comprehensive report on Saudi Arabia's crude oil re"
-    },
-    {
-      "title": "The Oil Refining Industry in Japan, 2026: Insights and Forecasts on Refinery Capacities, Production, and Consumption of Refined Petroleum Products",
-      "description": "Dublin, April 08, 2026 (GLOBE NEWSWIRE) -- The \"Oil Refining Industry in Japan 2026\" has been added to ResearchAndMarkets.com's offering. This comprehensive report provides an in-depth analysis of the Japan crude oil refining industry, offering vital information on existing and planned refineries. I",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/oil-refining-industry-japan-2026-164200522.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:42:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Dublin, April 08, 2026 (GLOBE NEWSWIRE) -- The \"Oil Refining Industry in Japan 2026\" has been added to ResearchAndMarkets.com's offering. This comprehensive report provides an in-depth analysis of the"
-    },
-    {
-      "title": "Oversold Home Depot Stock Not Likely To Fall Much Further",
-      "description": "Home Depot is one of the most oversold stocks on the Dow, but it likely won’t drop much more between now and mid-September.",
-      "url": "https://finance.yahoo.com/m/da53df9e-c27c-31d0-8a70-efe9f3731341/oversold-home-depot-stock-not.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:41:29+00:00",
-      "category": "USA",
-      "simple_explanation": "Home Depot is one of the most oversold stocks on the Dow, but it likely won’t drop much more between now and mid-September."
-    },
-    {
-      "title": "The Oil Refining Industry in India, 2026: Benchmarking India's Refinery Complexity Against Global Peers",
-      "description": "Dublin, April 08, 2026 (GLOBE NEWSWIRE) -- The \"Oil Refining Industry in India 2026\" has been added to ResearchAndMarkets.com's offering. Discover comprehensive insights into the India crude oil refining industry with our detailed report. This invaluable resource delivers refinery-level data includi",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/oil-refining-industry-india-2026-164100069.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:41:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Dublin, April 08, 2026 (GLOBE NEWSWIRE) -- The \"Oil Refining Industry in India 2026\" has been added to ResearchAndMarkets.com's offering. Discover comprehensive insights into the India crude oil refin"
-    },
-    {
-      "title": "Why e.l.f. Beauty Stock Plummeted 34.2% Last Month But Is Gaining in April",
-      "description": "Geopolitical pressures resulted in a huge pullback for e.l.f. Beauty's valuation.",
-      "url": "https://www.fool.com/investing/2026/04/08/why-elf-beauty-stock-plummeted-342-last-month-but/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:38:23+00:00",
-      "category": "USA",
-      "simple_explanation": "Geopolitical pressures resulted in a huge pullback for e.l.f. Beauty's valuation."
-    },
-    {
-      "title": "US Equity Indexes Surge, Crude Oil Plummets as Iran Ceasefire Deal Eases Geopolitical Risk",
-      "description": "US equity indexes jumped while crude oil futures sank as a conditional two-week ceasefire agreement",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-surge-crude-163800528.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:38:00+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity indexes jumped while crude oil futures sank as a conditional two-week ceasefire agreement"
-    },
-    {
-      "title": "Stocks Rally on Cease-Fire Deal. Will It Last?",
-      "description": "The stock market’s big relief rally on Wednesday has a few major caveats.  A fragile, two-week cease-fire between the U.S. and Iran and a reopening of the Strait of Hormuz may provide some temporary relief for energy prices, but it will need to evolve into a more permanent solution before Wall Stree",
-      "url": "https://finance.yahoo.com/m/e0764b8b-8ae2-3ffa-a884-46ee12268f8f/stocks-rally-on-cease-fire.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:36:49+00:00",
-      "category": "USA",
-      "simple_explanation": "The stock market’s big relief rally on Wednesday has a few major caveats.  A fragile, two-week cease-fire between the U.S. and Iran and a reopening of the Strait of Hormuz may provide some temporary r"
-    },
-    {
-      "title": "U.S stocks rally, oil prices tumble after Iran ceasefire",
-      "description": "Investors cheered the announcement of a two-week ceasefire, which President Trump said is contingent on the reopening of the Strait of Hormuz.",
-      "url": "https://www.cbsnews.com/news/stock-market-dow-oil-prices-iran-ceasefire/?ftag=YHF4eb9d17&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:35:21+00:00",
-      "category": "USA",
-      "simple_explanation": "Investors cheered the announcement of a two-week ceasefire, which President Trump said is contingent on the reopening of the Strait of Hormuz."
-    },
-    {
-      "title": "Why Applied Digital Stock Jumped Today",
-      "description": "Geopolitical news and high hopes for Q3 results are pushing the stock higher.",
-      "url": "https://www.fool.com/investing/2026/04/08/why-applied-digital-stock-jumped-today/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:35:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Geopolitical news and high hopes for Q3 results are pushing the stock higher."
-    },
-    {
-      "title": "FedEx Freight Aims for 12% Growth. How That Compares to the Leader.",
-      "description": "FedEx Freight, which is preparing to spinoff from the logistics giant, laid out its financial goals at an investor conference.",
-      "url": "https://finance.yahoo.com/m/f5927df4-e5d7-382c-979a-83db8642c79c/fedex-freight-aims-for-12%25.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:28:00+00:00",
-      "category": "USA",
-      "simple_explanation": "FedEx Freight, which is preparing to spinoff from the logistics giant, laid out its financial goals at an investor conference."
-    },
-    {
-      "title": "Alphabet, Meta, Amazon, Nvidia lead tech rally after Trump announces ceasefire with Iran",
-      "description": "President Donald Trump's Iran ceasefire announcement provided some relief to Wall Street and tech stocks shared in the rally.",
-      "url": "https://www.cnbc.com/2026/04/08/alphabet-nvidia-microsoft-tech-stocks-iran-ceasefire.html",
+      "title": "Latest investigation of Bitcoin founder ties identity to Blockstream CEO Adam Back",
+      "description": "A report by the New York Times claims it has discovered the identity of the pseudonymous creator of Bitcoin known as Satoshi Nakamoto.",
+      "url": "https://www.cnbc.com/2026/04/08/latest-investigation-of-bitcoin-founder-ties-identity-to-blockstream-ceo-adam-back.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-08T16:19:14+00:00",
+      "published_at": "2026-04-08T18:26:24+00:00",
       "category": "USA",
-      "simple_explanation": "President Donald Trump's Iran ceasefire announcement provided some relief to Wall Street and tech stocks shared in the rally."
+      "simple_explanation": "A report by the New York Times claims it has discovered the identity of the pseudonymous creator of Bitcoin known as Satoshi Nakamoto."
     },
     {
-      "title": "Share of Canada's Exports to The U.S. Is Gradually Trending Lower, Says Scotiabank",
-      "description": "The share of Canadian exports bound for the United States is gradually trending lower, averaging 76%",
-      "url": "https://finance.yahoo.com/economy/policy/articles/share-canada-apos-exports-u-161758583.html?.tsrc=rss",
+      "title": "Phillips 66 Flags $900 Million Derivatives Loss As Oil Surges 68%",
+      "description": "Refiner cites losses from net-short commodity positions as Iran conflict drives crude and diesel prices sharply higher.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/phillips-66-flags-900-million-182213384.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:17:58+00:00",
+      "published_at": "2026-04-08T18:22:13+00:00",
       "category": "Commodities",
-      "simple_explanation": "The share of Canadian exports bound for the United States is gradually trending lower, averaging 76%"
+      "simple_explanation": "Refiner cites losses from net-short commodity positions as Iran conflict drives crude and diesel prices sharply higher."
+    },
+    {
+      "title": "3 Reasons to Avoid INGM and 1 Stock to Buy Instead",
+      "description": "While the broader market has struggled with the S&P 500 down 2.1% since October 2025, Ingram Micro has surged ahead as its stock price has climbed by 21% to $26.51 per share. This run-up might have investors contemplating their next move.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-ingm-1-182147979.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T18:21:47+00:00",
+      "category": "USA",
+      "simple_explanation": "While the broader market has struggled with the S&P 500 down 2.1% since October 2025, Ingram Micro has surged ahead as its stock price has climbed by 21% to $26.51 per share. This run-up might have in"
+    },
+    {
+      "title": "US Shale Output Poised To Rise After 68% Oil Price Surge",
+      "description": "Higher crude prices near $113 per barrel are driving US producers toward increased drilling and supply growth after earlier reluctance.",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/us-shale-output-poised-rise-181802472.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T18:18:02+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Higher crude prices near $113 per barrel are driving US producers toward increased drilling and supply growth after earlier reluctance."
+    },
+    {
+      "title": "Wall Street jumps to near one-month highs after US-Iran ceasefire",
+      "description": "STORY: Wall Street's main indexes on Wednesday each soared more than 2% to near one-month highs after the U.S. and Iran agreed to a two-week ceasefire.The announcement also sent oil prices tumbling below $100 a barrel.The ceasefire agreement came hours before President Donald Trump's Tuesday night d",
+      "url": "https://finance.yahoo.com/video/wall-street-jumps-near-one-181658993.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T18:16:58+00:00",
+      "category": "Commodities",
+      "simple_explanation": "STORY: Wall Street's main indexes on Wednesday each soared more than 2% to near one-month highs after the U.S. and Iran agreed to a two-week ceasefire.The announcement also sent oil prices tumbling be"
+    },
+    {
+      "title": "Got $1,000? Here Are the Smartest Artificial Intelligence (AI) Stocks to Buy While the Market Is in Correction Mode.",
+      "description": "The market won't officially be out of this correction until it reaches a new all-time high.",
+      "url": "https://www.fool.com/investing/2026/04/08/got-1000-here-are-the-smartest-artificial-intellig/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T18:06:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The market won't officially be out of this correction until it reaches a new all-time high."
+    },
+    {
+      "title": "Equity Markets Jump Intraday, Oil Sinks Following US-Iran Ceasefire",
+      "description": "US benchmark equity indexes rallied intraday, while oil prices slumped after Washington and Iran agr",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equity-markets-jump-intraday-oil-180347560.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T18:03:47+00:00",
+      "category": "USA",
+      "simple_explanation": "US benchmark equity indexes rallied intraday, while oil prices slumped after Washington and Iran agr"
+    },
+    {
+      "title": "Update: Gold Trading Higher as the Dollar and Yields Drop Following the U.S.-Iran Ceasefire Agreement",
+      "description": "(Updates prices.) Gold traded higher midafternoon Wednesday as the U.S. dollar plunged after the",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-trading-higher-dollar-yields-180216836.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T18:02:16+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Updates prices.) Gold traded higher midafternoon Wednesday as the U.S. dollar plunged after the"
+    },
+    {
+      "title": "Traders place large $950 million bet on oil price falling hours ahead of ceasefire",
+      "description": "Just as the US and Iran reached a crucial ceasefire, investors took a colossal leap into the market with a $950 million bet against rising oil prices. This gamble follows a notable trend of large trades in recent weeks.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/traders-place-large-950-million-bet-on-oil-price-falling-hours-ahead-of-ceasefire/articleshow/130121381.cms",
+      "image": "https://img.etimg.com/photo/msid-130121381,imgsize-82142.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-08T18:01:21+00:00",
+      "category": "India",
+      "simple_explanation": "Just as the US and Iran reached a crucial ceasefire, investors took a colossal leap into the market with a $950 million bet against rising oil prices. This gamble follows a notable trend of large trad"
+    },
+    {
+      "title": "Why GE Aerospace Stock Is Having Its Best Day In Nearly a Year",
+      "description": "Commercial aerospace stocks are jumping in relief to President Donald Trump’s cease-fire announcement.",
+      "url": "https://finance.yahoo.com/m/009b468a-544c-3367-a5f0-50c8c50155ea/why-ge-aerospace-stock-is.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T17:59:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Commercial aerospace stocks are jumping in relief to President Donald Trump’s cease-fire announcement."
+    },
+    {
+      "title": "Jeff Shell leaves Paramount after allegations of SEC violations; company calls claims 'baseless'",
+      "description": "Paramount President Jeff Shell is leaving his position after a lawsuit accused him of violating SEC rules.",
+      "url": "https://www.cnbc.com/2026/04/08/jeff-shell-paramount.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-08T17:58:13+00:00",
+      "category": "USA",
+      "simple_explanation": "Paramount President Jeff Shell is leaving his position after a lawsuit accused him of violating SEC rules."
+    },
+    {
+      "title": "FedEx trucking spinoff targets 2026 operating margin of 12%",
+      "description": "As FedEx Freight prepares for its upcoming independence on June 1, it's setting ambitious goals with a projected 12 percent operating margin this year. The trucking giant forecasts a hefty revenue of $8.7 billion, alongside promising medium-term growth for its revenue and core profits. With a strong",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fedex-trucking-spinoff-targets-2026-operating-margin-of-12/articleshow/130121201.cms",
+      "image": "https://img.etimg.com/photo/msid-130121201,imgsize-127586.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-08T17:54:10+00:00",
+      "category": "India",
+      "simple_explanation": "As FedEx Freight prepares for its upcoming independence on June 1, it's setting ambitious goals with a projected 12 percent operating margin this year. The trucking giant forecasts a hefty revenue of "
+    },
+    {
+      "title": "Why the bond market won't bounce back to pre-war levels",
+      "description": "In light of the recent ceasefire, the prospects for global bond markets remain fraught with difficulty. Energy prices continue to climb, accompanied by stubborn inflation that renders a smooth recovery uncertain. As central banks appear reluctant to lower interest rates this year, investors should g",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-the-bond-market-wont-bounce-back-to-pre-war-levels/articleshow/130121101.cms",
+      "image": "https://img.etimg.com/photo/msid-130121101,imgsize-17168.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-08T17:48:19+00:00",
+      "category": "India",
+      "simple_explanation": "In light of the recent ceasefire, the prospects for global bond markets remain fraught with difficulty. Energy prices continue to climb, accompanied by stubborn inflation that renders a smooth recover"
+    },
+    {
+      "title": "Bitcoin price chart targets $90K as traders ‘aggressively’ buy on Binance",
+      "description": "Bitcoin gained momentum as data showed buyers are starting to dominate volumes on Binance, with a $90,000 BTC price target on their radar.",
+      "url": "https://cointelegraph.com/news/bitcoin-price-chart-targets-90k-aggressively-buy-on-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDZkODAtZjMxNy03NDAwLWFiMDItZmRmZmZlYjM3Mjc5LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-08T17:43:14+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin gained momentum as data showed buyers are starting to dominate volumes on Binance, with a $90,000 BTC price target on their radar."
+    },
+    {
+      "title": "Bitcoin demand returns, giving bulls fuel to turn $72K to support",
+      "description": "Bitcoin buy-side activity in the spot and futures markets supports the current rally toward $72,000, while short-term holders eased up on selling, increasing the chances of bulls taking control of BTC's price direction.",
+      "url": "https://cointelegraph.com/news/bitcoin-demand-returns-giving-bulls-fuel-to-turn-dollar72k-to-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2I4M2YtZGFhOS03N2EyLWEwOTMtODQyOTE2YjQ3YzU1LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-08T17:43:06+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin buy-side activity in the spot and futures markets supports the current rally toward $72,000, while short-term holders eased up on selling, increasing the chances of bulls taking control of BTC"
+    },
+    {
+      "title": "Comex Gold Settles 1.98% Higher at $4749.50",
+      "description": "Gold settled 2% higher, up for a third-consecutive session, and silver rose 4.7%, snapping a three-session losing streak.",
+      "url": "https://finance.yahoo.com/m/331160cc-a55a-3e1a-80f4-d787cb67ccb3/comex-gold-settles-1.98%25.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T17:42:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold settled 2% higher, up for a third-consecutive session, and silver rose 4.7%, snapping a three-session losing streak."
+    },
+    {
+      "title": "Ex-Rio Tinto CEO's deep-sea mining firm to merge with Odyssey in $1 billion deal",
+      "description": "A transformative merger is on the horizon as American Ocean Minerals, spearheaded by Tom Albanese, partners with Odyssey Marine Exploration to unveil one of the largest collections of deep-sea mineral reserves. This ambitious endeavor focuses on tapping into essential minerals buried beneath the wav",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ex-rio-tinto-ceos-deep-sea-mining-firm-to-merge-with-odyssey-in-1-billion-deal/articleshow/130120738.cms",
+      "image": "https://img.etimg.com/photo/msid-130120738,imgsize-10858.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-08T17:39:28+00:00",
+      "category": "India",
+      "simple_explanation": "A transformative merger is on the horizon as American Ocean Minerals, spearheaded by Tom Albanese, partners with Odyssey Marine Exploration to unveil one of the largest collections of deep-sea mineral"
+    },
+    {
+      "title": "Lupin shares to be in focus on Thursday as USFDA approves Dapagliflozin and Metformin tablets",
+      "description": "Lupin's shares are expected to attract investor attention as the company received U.S. FDA approval for Dapagliflozin and Metformin Hydrochloride Extended-Release Tablets.",
+      "url": "https://www.livemint.com/market/stock-market-news/lupin-shares-to-be-in-focus-on-thursday-as-usfda-approves-dapagliflozin-and-metformin-tablets-11775669174996.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/08/1600x900/logo/2-0-407341575-Lupin-0_1680682699633_1775669170286.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-04-08T17:38:59+00:00",
+      "category": "India",
+      "simple_explanation": "Lupin's shares are expected to attract investor attention as the company received U.S. FDA approval for Dapagliflozin and Metformin Hydrochloride Extended-Release Tablets."
+    },
+    {
+      "title": "Fortune Minerals Reaches Process Waste Disposal Agreement With SECURE for Its Planned Alberta Refinery",
+      "description": "Fortune Minerals (FT.TO) on Wednesday said its Fortune Mineral Alberta unit signed a backstop agree",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/fortune-minerals-reaches-process-waste-173317258.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T17:33:17+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Fortune Minerals (FT.TO) on Wednesday said its Fortune Mineral Alberta unit signed a backstop agree"
+    },
+    {
+      "title": "Meta unveils first AI model from costly superintelligence team",
+      "description": "In a bold leap into the future, Meta Platforms has introduced Muse Spark, the first artificial intelligence model crafted by its advanced superintelligence team. This launch is a clear signal of Meta's intention to stand toe-to-toe with competitors in the accelerating AI arena. The company's substan",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-unveils-first-ai-model-from-costly-superintelligence-team/articleshow/130120353.cms",
+      "image": "https://img.etimg.com/photo/msid-130120353,imgsize-20066.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-08T17:25:42+00:00",
+      "category": "India",
+      "simple_explanation": "In a bold leap into the future, Meta Platforms has introduced Muse Spark, the first artificial intelligence model crafted by its advanced superintelligence team. This launch is a clear signal of Meta'"
+    },
+    {
+      "title": "Delta Air Lines shares climb over 11% even as carrier forecasts higher fuel costs in second quarter",
+      "description": "Delta Air Lines anticipates more than $2 billion in additional fuel expenditures through June due to the ongoing Iran conflict, leading management to adopt a cautious stance and maintain its existing full year earnings target",
+      "url": "https://www.livemint.com/market/stock-market-news/delta-air-lines-shares-climb-over-11-even-as-carrier-forecasts-higher-fuel-costs-in-second-quarter-11775663970315.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/08/1600x900/logo/DELTA-AIR-BAGGAGE-FEE--0_1775664088320_1775664110327.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-04-08T17:18:12+00:00",
+      "category": "India",
+      "simple_explanation": "Delta Air Lines anticipates more than $2 billion in additional fuel expenditures through June due to the ongoing Iran conflict, leading management to adopt a cautious stance and maintain its existing "
+    },
+    {
+      "title": "France pulls $15B of gold out of US vaults, and more EU member states may follow. How it could hit your bottom line",
+      "description": "The US dollar's time to shine might be on the decline.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/france-pulls-15b-gold-us-171300099.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T17:13:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The US dollar's time to shine might be on the decline."
+    },
+    {
+      "title": "Intel shares jump 9.5% to near 5-year high after company joins Elon Musk’s Terafab project",
+      "description": "Intel shares surged 9.5% on 8 April, reaching $57.92, continuing a six-session winning streak. The rise is fuelled by the company's partnership with Elon Musk's Terafab initiative, aiming to revolutionise semiconductor production and boost AI capabilities.",
+      "url": "https://www.livemint.com/market/stock-market-news/intel-shares-jump-9-5-to-near-5-year-high-after-company-joins-elon-musk-s-terafab-project-11775664788300.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/08/1600x900/logo/US-INTEL-REPORTS-QUARTERLY-EARNINGS-10_17691700721_1775664780906_1775664781068.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-08T17:10:56+00:00",
+      "category": "India",
+      "simple_explanation": "Intel shares surged 9.5% on 8 April, reaching $57.92, continuing a six-session winning streak. The rise is fuelled by the company's partnership with Elon Musk's Terafab initiative, aiming to revolutio"
+    },
+    {
+      "title": "Is It Time To Reassess Equinox Gold (TSX:EQX) After Its 153% One-Year Surge?",
+      "description": "With Equinox Gold trading at around US$20.51 after a strong run, this article looks at what the current numbers suggest about the stock’s value today. Over the past year, the share price return is 152.8%, with a 3-year return of 171.9% and a 5-year return of 84.8%. Year to date, the stock is up 8.9%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/time-reassess-equinox-gold-tsx-171034829.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T17:10:34+00:00",
+      "category": "Commodities",
+      "simple_explanation": "With Equinox Gold trading at around US$20.51 after a strong run, this article looks at what the current numbers suggest about the stock’s value today. Over the past year, the share price return is 152"
+    },
+    {
+      "title": "Dollar Hold Up Above Early Lows",
+      "description": "1250 ET – Treasury yields and the dollar stabilize off early lows as markets digest news of a cease-fire in Iran.  President Trump posts on social media that some alleged negotiation points circulating in the media are false, without specifying which ones.  1323 GMT – The dollar’s price performance ",
+      "url": "https://finance.yahoo.com/m/ddb62e59-b1f8-3e76-8b6c-c4385dc5ac5c/dollar-hold-up-above-early.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T17:01:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "1250 ET – Treasury yields and the dollar stabilize off early lows as markets digest news of a cease-fire in Iran.  President Trump posts on social media that some alleged negotiation points circulatin"
+    },
+    {
+      "title": "Video - CEO Clips: Oreterra Metals Prepares First-Ever Drill Test at Trek South in BC's Golden Triangle",
+      "description": "Vancouver, British Columbia--(Newsfile Corp. - April 8, 2026) - Oreterra Metals Corp. (TSX.V: OTMC, OTCID: OTMCF) is preparing the first-ever drill test of its 100%-owned Trek South porphyry copper-gold prospect in BC's Golden Triangle. With strong surface exposure and stacked geological anomalies a",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/video-ceo-clips-oreterra-metals-170000376.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T17:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - April 8, 2026) - Oreterra Metals Corp. (TSX.V: OTMC, OTCID: OTMCF) is preparing the first-ever drill test of its 100%-owned Trek South porphyry copper-go"
+    },
+    {
+      "title": "XRP Price Analysis: XRP Posts Six Straight Monthly Losses — Could April Break the Streak?",
+      "description": "XRP’s (CRYPTO: XRP) price has dropped every single month since the crypto market got liquidated in October 2025. The token is now down over 60% from the $3.65 cycle high it hit last July. This is the first time in over a decade that XRP has been on a six-month losing streak, and it all ... XRP Price",
+      "url": "https://247wallst.com/investing/2026/04/08/xrp-price-analysis-xrp-posts-six-straight-monthly-losses-could-april-break-the-streak/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-08T16:45:25+00:00",
+      "category": "Crypto",
+      "simple_explanation": "XRP’s (CRYPTO: XRP) price has dropped every single month since the crypto market got liquidated in October 2025. The token is now down over 60% from the $3.65 cycle high it hit last July. This is the "
     },
     {
       "title": "US SEC taps Gibson Dunn attorney to be new enforcement director, sources say",
@@ -181,226 +401,6 @@
       "published_at": "2026-04-08T16:13:25+00:00",
       "category": "India",
       "simple_explanation": "The U.S. Securities and Exchange Commission has made a significant announcement with the appointment of David Woodcock as its new enforcement director. Woodcock, who previously steered the SEC's Fort "
-    },
-    {
-      "title": "Fortune Minerals Announces Process Waste Disposal Agreement With SECURE for Planned Alberta Refinery",
-      "description": "LONDON, Ontario, April 08, 2026--Fortune Minerals Alberta Inc., a wholly-owned subsidiary of Fortune Minerals Limited (TSX: FT) (OTCQB: FTMDF) (\"Fortune\" or the \"Company\") (www.fortuneminerals.com) is pleased to announce that it has signed a backstop agreement with SECURE Waste Infrastructure Corp. ",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/fortune-minerals-announces-process-waste-161100870.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:11:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "LONDON, Ontario, April 08, 2026--Fortune Minerals Alberta Inc., a wholly-owned subsidiary of Fortune Minerals Limited (TSX: FT) (OTCQB: FTMDF) (\"Fortune\" or the \"Company\") (www.fortuneminerals.com) is"
-    },
-    {
-      "title": "Sebi eases compliance norms for IPO lock-in of pledged shares",
-      "description": "SEBI rolled out a framework marking pledged shares as “non-transferable” during lock-in, simplifying compliance and enhancing transparency. The regulator also extended IPO observation letter validity amid market challenges.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-compliance-norms-for-ipo-lock-in-of-pledged-shares/articleshow/130118751.cms",
-      "image": "https://img.etimg.com/photo/msid-130118751,imgsize-1131901.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-08T16:03:35+00:00",
-      "category": "India",
-      "simple_explanation": "SEBI rolled out a framework marking pledged shares as “non-transferable” during lock-in, simplifying compliance and enhancing transparency. The regulator also extended IPO observation letter validity "
-    },
-    {
-      "title": "US Stocks: Exxon signals lower Q1 profit despite higher oil, gas revenue from Iran war price spikes",
-      "description": "ExxonMobil is bracing for a dip in first-quarter earnings, primarily due to a substantial financial hedging loss that is likely to eclipse the benefits of rising oil prices linked to the ongoing Iran conflict. However, as derivative contracts come to fruition, the company expects improved profitabil",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-exxon-signals-lower-q1-profit-despite-higher-oil-gas-revenue-from-iran-war-price-spikes/articleshow/130118685.cms",
-      "image": "https://img.etimg.com/photo/msid-130118685,imgsize-75864.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-08T16:01:37+00:00",
-      "category": "India",
-      "simple_explanation": "ExxonMobil is bracing for a dip in first-quarter earnings, primarily due to a substantial financial hedging loss that is likely to eclipse the benefits of rising oil prices linked to the ongoing Iran "
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-      "description": "Trump’s two-week ceasefire announcement boosted Nifty and global markets, with strong gains across banking, auto, and energy sectors. Technical indicators signal continued bullish momentum, while investors remain cautious of geopolitical risks.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/130118704.cms",
-      "image": "https://img.etimg.com/photo/msid-130118704,imgsize-110642.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-08T16:00:53+00:00",
-      "category": "India",
-      "simple_explanation": "Trump’s two-week ceasefire announcement boosted Nifty and global markets, with strong gains across banking, auto, and energy sectors. Technical indicators signal continued bullish momentum, while inve"
-    },
-    {
-      "title": "VIDEO - BTV Explores Thesis Gold, Lion Copper & Gold, Brixton Metals, North American Iron, Quimbaya Gold, Canstar Resources, Capitan Silver",
-      "description": "Watch on BNN Bloomberg nationalWednesday, April 8 at 7:30 PM EST & Saturday, April 11 at 8 PM EST Tune into BTV and Discover Investment Opportunities. Vancouver, British Columbia--(Newsfile Corp. - April 8, 2026) - As capital flows back into the resource sector, BTV - Business Television showcases c",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/video-btv-explores-thesis-gold-160000245.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T16:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Watch on BNN Bloomberg nationalWednesday, April 8 at 7:30 PM EST & Saturday, April 11 at 8 PM EST Tune into BTV and Discover Investment Opportunities. Vancouver, British Columbia--(Newsfile Corp. - Ap"
-    },
-    {
-      "title": "Market Trading Guide: Buy Hindustan Copper and Hindustan Petroleum on Thursday for gains up to 6%",
-      "description": "Nifty surged on US President Trump’s two-week pause, supported by banks, auto, and energy sectors. Analysts recommend Hindustan Copper and Hindustan Petroleum for short-term gains with defined stop-loss strategies.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-hindustan-copper-and-hindustan-petroleum-on-thursday-for-gains-up-to-6/articleshow/130118580.cms",
-      "image": "https://img.etimg.com/photo/msid-130118580,imgsize-17922.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-08T15:55:42+00:00",
-      "category": "India",
-      "simple_explanation": "Nifty surged on US President Trump’s two-week pause, supported by banks, auto, and energy sectors. Analysts recommend Hindustan Copper and Hindustan Petroleum for short-term gains with defined stop-lo"
-    },
-    {
-      "title": "K2 Gold Receives Positive Record of Decision for Exploration Drilling at the Mojave Project, California",
-      "description": "Drill MobilizingVancouver, British Columbia--(Newsfile Corp. - April 8, 2026) - K2 Gold Corporation (TSXV: KTO) (OTCQB: KTGDF) (FSE: 23K) (\"K2\" or the \"Company\") today announced that the U.S. Bureau of Land Management (\"BLM\") has issued a positive Record of Decision (\"ROD\") approving the Company's p",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/k2-gold-receives-positive-record-155300690.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T15:53:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Drill MobilizingVancouver, British Columbia--(Newsfile Corp. - April 8, 2026) - K2 Gold Corporation (TSXV: KTO) (OTCQB: KTGDF) (FSE: 23K) (\"K2\" or the \"Company\") today announced that the U.S. Bureau o"
-    },
-    {
-      "title": "What BlackRock, State Street's rival QQQ ETFs mean for investors",
-      "description": "BlackRock (BLK) and State Street (SPY) are both launching exchange-traded funds (ETFs) to rival Invesco QQQ (QQQ), which tracks the NASDAQ-100 (^NDX).BNY global head of ETFs Ben Slavin joins Yahoo Finance to discuss what this news means for investors.",
-      "url": "https://finance.yahoo.com/video/what-blackrock-state-streets-rival-qqq-etfs-mean-for-investors-155232475.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T15:52:32+00:00",
-      "category": "Commodities",
-      "simple_explanation": "BlackRock (BLK) and State Street (SPY) are both launching exchange-traded funds (ETFs) to rival Invesco QQQ (QQQ), which tracks the NASDAQ-100 (^NDX).BNY global head of ETFs Ben Slavin joins Yahoo Fin"
-    },
-    {
-      "title": "Rs 530 crore block deal: BNP Paribas, SBI MF, others buy stake in Delhivery",
-      "description": "Delhivery saw heavy institutional activity with BNP Paribas, SBI and Nippon India Mutual Funds buying shares worth over Rs 500 crore. Nexus Ventures sold stakes, while stock gained 4.2%, outperforming market benchmarks",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-530-crore-block-deal-bnp-paribas-sbi-mf-others-buy-stake-in-delhivery/articleshow/130118434.cms",
-      "image": "https://img.etimg.com/photo/msid-130118434,imgsize-32692.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-08T15:49:32+00:00",
-      "category": "India",
-      "simple_explanation": "Delhivery saw heavy institutional activity with BNP Paribas, SBI and Nippon India Mutual Funds buying shares worth over Rs 500 crore. Nexus Ventures sold stakes, while stock gained 4.2%, outperforming"
-    },
-    {
-      "title": "Gold, silver rates today: Comex gold jumps $204/oz; silver gains $5.8 on safe-haven demand after US-Iran ceasefire",
-      "description": "A temporary ceasefire in the Middle East has led to increased buying of gold and silver, with prices rising due to expectations of lower interest rates. The US dollar's fall also supported these gains, despite both metals still trading significantly lower than earlier this year.",
-      "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-204-oz-silver-gains-5-8-on-safe-haven-demand-after-us-iran-ceasefire-11775659725288.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/08/1600x900/logo/GLOBAL-PRECIOUS-GERMANY-GOLD-1_1775451412504_1775451424597_1775659719567.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-04-08T15:44:41+00:00",
-      "category": "India",
-      "simple_explanation": "A temporary ceasefire in the Middle East has led to increased buying of gold and silver, with prices rising due to expectations of lower interest rates. The US dollar's fall also supported these gains"
-    },
-    {
-      "title": "Iran is weighing crypto tolls for ships using Strait of Hormuz: Report",
-      "description": "Empty tankers will reportedly be permitted to pass through the waterway under the US-Iran deal, but certain ships will need to pay a tariff of $1 per barrel of oil in Bitcoin.",
-      "url": "https://cointelegraph.com/news/iran-crypto-ships-strait-hormuz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDZkN2YtMDM4My03MTE4LWI0Y2MtNjk4OTdjOGZlODc0LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-08T15:43:18+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Empty tankers will reportedly be permitted to pass through the waterway under the US-Iran deal, but certain ships will need to pay a tariff of $1 per barrel of oil in Bitcoin."
-    },
-    {
-      "title": "Trump threatens tariffs of 50% on countries 'supplying military weapons to Iran'",
-      "description": "President Donald Trump says the U.S. will impose tariffs of 50% on goods imported to the country from any nation \"supplying military weapons to Iran.\"",
-      "url": "https://www.cnbc.com/2026/04/08/trump-threatens-tariffs-countries-supplying-weapons-iran-ceasefire.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-08T15:43:12+00:00",
-      "category": "USA",
-      "simple_explanation": "President Donald Trump says the U.S. will impose tariffs of 50% on goods imported to the country from any nation \"supplying military weapons to Iran.\""
-    },
-    {
-      "title": "Sensex sees best day in 5 years after ceasefire talks",
-      "description": "While the Sensex had its best day in over five years on Wednesday and the Nifty rose the most in almost a year, experts cautioned that the relief may be temporary, as Tehran has not indicated a definitive pause to its missile and drone strikes.",
-      "url": "https://www.livemint.com/market/sensex-sees-best-day-in-5-years-after-ceasefire-talks-nifty-us-iran-11775653001833.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/08/1600x900/logo/PTI02-01-2023-000222B-0_1680087728609_1680087728609_1775659199124.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-08T15:38:46+00:00",
-      "category": "India",
-      "simple_explanation": "While the Sensex had its best day in over five years on Wednesday and the Nifty rose the most in almost a year, experts cautioned that the relief may be temporary, as Tehran has not indicated a defini"
-    },
-    {
-      "title": "Oil prices plunge after Iran agrees to safe passage through Strait of Hormuz during ceasefire",
-      "description": "President Donald Trump agreed to the ceasefire with Iran after discussions with Pakistan Prime Minister Shehbaz Sharif.",
-      "url": "https://www.cnbc.com/2026/04/07/oil-prices-iran-war-trump-deadline-strait-hormuz.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-08T15:38:29+00:00",
-      "category": "USA",
-      "simple_explanation": "President Donald Trump agreed to the ceasefire with Iran after discussions with Pakistan Prime Minister Shehbaz Sharif."
-    },
-    {
-      "title": "Iran demands crypto fees for ships passing Hormuz during ceasefire",
-      "description": "Iran will demand that shipping companies pay tolls in cryptocurrency for oil tankers passing through the Strait of Hormuz, as it seeks to retain...",
-      "url": "https://finance.yahoo.com/news/iran-demands-fees-ships-passing-125712535.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T15:36:37+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Iran will demand that shipping companies pay tolls in cryptocurrency for oil tankers passing through the Strait of Hormuz, as it seeks to retain..."
-    },
-    {
-      "title": "Gold Climbs After Trump Agrees to Two-Week Ceasefire in Iran",
-      "description": "(Bloomberg) -- Gold rose after US President Donald Trump and Iran signaled readiness to hold talks to end the war in the Middle East during a proposed two-week pause in hostilities, even as Israeli strikes on Lebanon threatened to derail the fragile truce.Bullion climbed as much as 4.3% to above $4,",
-      "url": "https://finance.yahoo.com/news/gold-climbs-trump-agrees-two-001130402.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T15:24:43+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Bloomberg) -- Gold rose after US President Donald Trump and Iran signaled readiness to hold talks to end the war in the Middle East during a proposed two-week pause in hostilities, even as Israeli st"
-    },
-    {
-      "title": "Ray Dalio: Trump-Xi meeting to focus on trade, capital flows",
-      "description": "Bridgewater founder Ray Dalio told CNBC he is optimistic about the outcome of a meeting  between the U.S. and Chinese presidents next month.",
-      "url": "https://www.cnbc.com/2026/04/08/ray-dalio-trump-xi-meeting-to-focus-on-trade-capital-flows.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-04-08T15:07:38+00:00",
-      "category": "Global",
-      "simple_explanation": "Bridgewater founder Ray Dalio told CNBC he is optimistic about the outcome of a meeting  between the U.S. and Chinese presidents next month."
-    },
-    {
-      "title": "Marquee investor GQG sells shares worth Rs 197 crore in ITC Hotels through bulk deal",
-      "description": "GQG Partners sold shares worth Rs 197 crore in ITC Hotels amid a 20% stock correction. Despite short-term weakness, steady hotel operations and real estate growth support a positive long-term outlook, with analysts maintaining buy ratings.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/marquee-investor-gqg-sells-shares-worth-rs-197-crore-in-itc-hotels-through-bulk-deal/articleshow/130117499.cms",
-      "image": "https://img.etimg.com/photo/msid-130117499,imgsize-16950.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-08T15:02:46+00:00",
-      "category": "India",
-      "simple_explanation": "GQG Partners sold shares worth Rs 197 crore in ITC Hotels amid a 20% stock correction. Despite short-term weakness, steady hotel operations and real estate growth support a positive long-term outlook,"
-    },
-    {
-      "title": "Bitcoin Over $100K 'Totally Reasonable In One Year's Time,' VanEck Digital Assets Research Chief Says",
-      "description": "Bitcoin could return above $100,000 in the short- to medium-term horizon, according to VanEck Head of Digital Assets Research Matthew Sigel. \"I think that’s totally reasonable in one year’s time,\" Sigel told CNBC on April 2 when asked when investors...",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-over-100k-totally-reasonable-144607164.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-08T14:46:07+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin could return above $100,000 in the short- to medium-term horizon, according to VanEck Head of Digital Assets Research Matthew Sigel. \"I think that’s totally reasonable in one year’s time,\" Sig"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-08T14:45:06+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-    },
-    {
-      "title": "Bitcoin fades three-week highs as BTC price shrugs off Iran war ceasefire",
-      "description": "Bitcoin bulls failed to stay above $72,000 for long as BTC price action already began to discount the impact of a US-Iran ceasefire agreement.",
-      "url": "https://cointelegraph.com/news/bitcoin-fades-three-week-highs-btc-price-shrugs-off-iran-war-ceasefire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDZkN2EtNDQxNi03ZWRlLThhNTctYjQ3NGNhNjJhYzg4LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-08T14:44:17+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin bulls failed to stay above $72,000 for long as BTC price action already began to discount the impact of a US-Iran ceasefire agreement."
-    },
-    {
-      "title": "Pakistan stocks see biggest-ever surge after US-Iran ceasefire, KSE 100 jumps 12,000 points",
-      "description": "Pakistan’s stock market surged sharply after a temporary ceasefire between the United States and Iran eased tensions. The rally triggered a trading halt amid volatility, reversing earlier losses, as improved sentiment and hopes of diplomatic progress lifted investor confidence.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pakistan-stocks-see-biggest-ever-surge-after-us-iran-ceasefire-kse-100-jumps-12000-points/articleshow/130116925.cms",
-      "image": "https://img.etimg.com/photo/msid-130116925,imgsize-18956.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-08T14:35:56+00:00",
-      "category": "India",
-      "simple_explanation": "Pakistan’s stock market surged sharply after a temporary ceasefire between the United States and Iran eased tensions. The rally triggered a trading halt amid volatility, reversing earlier losses, as i"
     }
   ]
 }
