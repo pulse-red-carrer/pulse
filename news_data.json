@@ -1,46 +1,356 @@
 {
-  "last_updated": "2026-04-10T05:26:00.762075+00:00",
+  "last_updated": "2026-04-10T07:43:29.152341+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Janus and Tecnoglass Shares Are Soaring, What You Need To Know",
-      "description": "A number of stocks jumped in the afternoon session after investors reacted to the news that Israel and Lebanon might enter direct negotiations, further supporting the fragile U.S.-Iran ceasefire.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/janus-tecnoglass-shares-soaring-know-050947298.html?.tsrc=rss",
+      "title": "3 Industrials Stocks We’re Skeptical Of",
+      "description": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. They are also bound to benefit from a friendlier regulatory environment with the Trump administration, and this excitement has led to a six-month gain of 15.5% for the sector - hi",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-skeptical-073444788.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-10T05:09:47+00:00",
+      "published_at": "2026-04-10T07:34:44+00:00",
+      "category": "USA",
+      "simple_explanation": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. They are also bound to benefit from a friendlier regulatory environment with th"
+    },
+    {
+      "title": "US sales may drag pharma companies’ Q4, even as India holds up",
+      "description": "Cipla, Dr Reddy’s Laboratories, and Zydus Lifesciences are among the most affected by the US sales decline.",
+      "url": "https://www.livemint.com/market/mark-to-market/pharma-companies-march-qtr-may-be-dragged-by-us-market-even-as-india-holds-up-11775803105163.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/10/1600x900/logo/Med_1772021540096_1775805810292.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-10T07:30:33+00:00",
+      "category": "India",
+      "simple_explanation": "Cipla, Dr Reddy’s Laboratories, and Zydus Lifesciences are among the most affected by the US sales decline."
+    },
+    {
+      "title": "Stocks rise and oil prices gain as investors await ceasefire talks",
+      "description": "Markets have remained positive, with oil prices edging slightly upward, coupled with gains for global equities ahead of the US-Iran talks in Islamabad on Saturday.View on euronews",
+      "url": "https://www.euronews.com/2026/04/10/stocks-rise-and-oil-prices-gain-as-investors-await-ceasefire-talks?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T07:25:38+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Markets have remained positive, with oil prices edging slightly upward, coupled with gains for global equities ahead of the US-Iran talks in Islamabad on Saturday.View on euronews"
+    },
+    {
+      "title": "Pakistan stock market a profitable tactical play, says Jefferies’ Chris Wood; here’s the rationale",
+      "description": "Chris Wood reports highlighted the investment potential in Pakistan's stock market amid IMF cycles. Additionally, he views India favourably, despite risks from geopolitical developments.",
+      "url": "https://www.livemint.com/market/stock-market-news/pakistan-stock-market-a-profitable-trade-says-jefferies-chris-wood-here-s-the-rationale-11775805286036.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/10/1600x900/logo/RAJA_IMG1_1741066214214_1775805526947.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-10T07:19:41+00:00",
+      "category": "India",
+      "simple_explanation": "Chris Wood reports highlighted the investment potential in Pakistan's stock market amid IMF cycles. Additionally, he views India favourably, despite risks from geopolitical developments."
+    },
+    {
+      "title": "IT stocks tumble up to 3% after TCS Q4 earnings. What's spooking investors?",
+      "description": "IT stocks fell up to 3% after TCS reported Q4 results that failed to impress the Street, dragging the Nifty IT index over 2%. Despite broader market gains, investor sentiment weakened amid muted demand outlook, cautious brokerage commentary and renewed concerns that rapidly advancing AI models could",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-tumble-up-to-3-after-tcs-q4-earnings-whats-spooking-investors/articleshow/130162512.cms",
+      "image": "https://img.etimg.com/photo/msid-130162512,imgsize-56974.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-10T07:14:37+00:00",
+      "category": "India",
+      "simple_explanation": "IT stocks fell up to 3% after TCS reported Q4 results that failed to impress the Street, dragging the Nifty IT index over 2%. Despite broader market gains, investor sentiment weakened amid muted deman"
+    },
+    {
+      "title": "Is It Too Late To Consider Lundin Gold (TSX:LUG) After A 148% One-Year Surge?",
+      "description": "If you are wondering whether Lundin Gold's share price still offers value after a strong run, the key is understanding how its current price lines up against underlying fundamentals. The stock last closed at C$112.78, with a 1.2% gain over 7 days, a 5.4% decline over 30 days, a 0.8% return year to d",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/too-consider-lundin-gold-tsx-070930666.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T07:09:30+00:00",
+      "category": "Commodities",
+      "simple_explanation": "If you are wondering whether Lundin Gold's share price still offers value after a strong run, the key is understanding how its current price lines up against underlying fundamentals. The stock last cl"
+    },
+    {
+      "title": "Bank Nifty nears key 56,000, led by ICICI, HDFC Bank, SBI shares; Breakout or profit-booking zone? Here’s how to trade",
+      "description": "The Bank Nifty index opened strong at 55,182.25, buoyed by gains in major banks. Analysts suggest monitoring profit-taking as it approaches 56,000, while a positive earnings outlook persists, despite concerns in the MSME sector and ongoing geopolitical tensions.",
+      "url": "https://www.livemint.com/market/stock-market-news/bank-nifty-nears-key-56-000-led-by-icici-hdfc-bank-sbi-shares-breakout-or-profit-booking-zone-here-s-how-to-trade-11775801554741.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/10/1600x900/logo/2-0-85820715-Mumbai-Stock-4Cnew--0_1681743391999_1775803613097.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-10T06:50:54+00:00",
+      "category": "India",
+      "simple_explanation": "The Bank Nifty index opened strong at 55,182.25, buoyed by gains in major banks. Analysts suggest monitoring profit-taking as it approaches 56,000, while a positive earnings outlook persists, despite "
+    },
+    {
+      "title": "TCS Q4 steadies, but AI fears and macro risks keep investors wary",
+      "description": "Sequential growth and record deal wins offer comfort, but AI disruption fears, BFSI weakness and geopolitical risks keep investors cautious on TCS’s FY27 recovery path.",
+      "url": "https://www.livemint.com/market/mark-to-market/tcs-india-tata-consultancy-services-q4-results-ai-revenue-it-sector-bfsi-slowdown-deal-wins-ebitda-margins-west-asia-war-11775799627199.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/10/1600x900/logo/TCS_logo_1775729253246_1775729262246_1775802475329.png",
+      "source": "LiveMint",
+      "published_at": "2026-04-10T06:45:31+00:00",
+      "category": "India",
+      "simple_explanation": "Sequential growth and record deal wins offer comfort, but AI disruption fears, BFSI weakness and geopolitical risks keep investors cautious on TCS’s FY27 recovery path."
+    },
+    {
+      "title": "Bitcoin retreats to $71K after $73K rejection as macro risks, $250M ETF outflows weigh on sentiment",
+      "description": "Bitcoin trades near $71,000 on Friday. Macroeconomic uncertainty and geopolitical risks are capping its momentum. Recent ETF outflows have also impacted buying pressure. Analysts watch the CPI release for potential price movements. Market sentiment has improved to neutral, suggesting a continued ups",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-retreats-to-71k-after-73k-rejection-as-macro-risks-250m-etf-outflows-weigh-on-sentiment/articleshow/130161516.cms",
+      "image": "https://img.etimg.com/photo/msid-130161516,imgsize-1652344.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-10T06:33:18+00:00",
+      "category": "India",
+      "simple_explanation": "Bitcoin trades near $71,000 on Friday. Macroeconomic uncertainty and geopolitical risks are capping its momentum. Recent ETF outflows have also impacted buying pressure. Analysts watch the CPI release"
+    },
+    {
+      "title": "3 Key Signals Paint a Bullish Picture for US Stocks",
+      "description": "S&P 500 posts longest win streak since October 2025 as breadth, insider buying, and analyst calls align on stock market recovery.",
+      "url": "https://beincrypto.com/stock-market-recovery-signals-april-2026/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T06:32:19+00:00",
+      "category": "USA",
+      "simple_explanation": "S&P 500 posts longest win streak since October 2025 as breadth, insider buying, and analyst calls align on stock market recovery."
+    },
+    {
+      "title": "Mideast War Will Leave a Bill to Pay",
+      "description": "0520 GMT – The Middle East war will leave a mark despite the cease-fire,  Barclays’    Ajay Rajadhyaksha  says in a note.  Barclays’s base case for 2026 is an average Brent price of $85 a barrel.  The bond market is still pricing in over two interest-rate hikes by the European Central Bank this year",
+      "url": "https://finance.yahoo.com/m/aaf14e40-3a06-3d62-91ee-d696d349354f/mideast-war-will-leave-a-bill.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T06:31:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "0520 GMT – The Middle East war will leave a mark despite the cease-fire,  Barclays’    Ajay Rajadhyaksha  says in a note.  Barclays’s base case for 2026 is an average Brent price of $85 a barrel.  The"
+    },
+    {
+      "title": "The Stories Behind the Market’s 10 Cheapest Stocks—and Which One Looks Best",
+      "description": "From Micron and GM to Fiserv and Charter Communications, the companies on our list reflect the trends shaping corporate America.",
+      "url": "https://finance.yahoo.com/m/987f9d9b-9de2-38f4-b89e-69d9400eb6d6/the-stories-behind-the.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T06:30:00+00:00",
+      "category": "USA",
+      "simple_explanation": "From Micron and GM to Fiserv and Charter Communications, the companies on our list reflect the trends shaping corporate America."
+    },
+    {
+      "title": "Ola Electric, Vodafone Idea, Filatex Fashions, JP Power— These are among most traded stocks on NSE today, April 10, 2026",
+      "description": "Most traded stocks today: Ola Electric Mobility, Vodafone Idea, Filatex Fashions, Jaiprakash Power Ventures (JP Power), and Auri Grow India were among the most traded stocks, or most active stocks in terms of volume, on the NSE.",
+      "url": "https://www.livemint.com/market/stock-market-news/ola-electric-vodafone-idea-filatex-fashions-jp-power-these-are-among-most-traded-stocks-on-nse-today-april-10-2026-11775800068627.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/10/1600x900/logo/Market_blog_1771492873231_1771492877316_1775800399098.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-10T06:29:12+00:00",
+      "category": "India",
+      "simple_explanation": "Most traded stocks today: Ola Electric Mobility, Vodafone Idea, Filatex Fashions, Jaiprakash Power Ventures (JP Power), and Auri Grow India were among the most traded stocks, or most active stocks in "
+    },
+    {
+      "title": "CZ hopes in 5 years people stop talking about crypto and just use it",
+      "description": "Some industry insiders speculate the crypto sector may be just one market cycle away from full-scale mainstream adoption.",
+      "url": "https://cointelegraph.com/news/cz-crypto-invisible-mainstream-adoption-ai-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzYyY2YtODAwMi03ZjcyLThlOTEtNzg1NzQ3YzI1ZTQ5LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-10T06:24:48+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Some industry insiders speculate the crypto sector may be just one market cycle away from full-scale mainstream adoption."
+    },
+    {
+      "title": "Capri Global Capital share price gains 2% on announcing  ₹500 crore NCD issue; check details",
+      "description": "Capri Global Capital's shares rose 2% following the announcement of a  ₹500 crore NCD issue with returns up to 9.5%. The issue opens on April 15 and closes on April 28, featuring multiple tenures and interest payout options.",
+      "url": "https://www.livemint.com/market/stock-market-news/capri-global-capital-share-price-gains-2-on-announcing-rs-500-crore-ncd-issue-check-details-11775801116024.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/10/1600x900/logo/capri_global_capital_share_price_1775801889497_1775801889595.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-10T06:21:11+00:00",
+      "category": "India",
+      "simple_explanation": "Capri Global Capital's shares rose 2% following the announcement of a  ₹500 crore NCD issue with returns up to 9.5%. The issue opens on April 15 and closes on April 28, featuring multiple tenures and "
+    },
+    {
+      "title": "What this real-world oil price says about the level of stress in the energy market",
+      "description": "Energy analysts warn that the Iran ceasefire is not likely to alleviate acute signs of stress in the physical oil market.",
+      "url": "https://www.cnbc.com/2026/04/10/oil-prices-dated-brent-energy-iran-war-ceasefire-strait-of-hormuz.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-10T06:20:39+00:00",
+      "category": "USA",
+      "simple_explanation": "Energy analysts warn that the Iran ceasefire is not likely to alleviate acute signs of stress in the physical oil market."
+    },
+    {
+      "title": "Could Investing $10,000 in IWM Make You a Millionaire?",
+      "description": "During the past 26 years, this small-cap stock ETF has underperformed the S&P 500.",
+      "url": "https://www.fool.com/investing/2026/04/10/could-investing-10000-in-iwm-make-you-millionaire/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T06:20:00+00:00",
+      "category": "USA",
+      "simple_explanation": "During the past 26 years, this small-cap stock ETF has underperformed the S&P 500."
+    },
+    {
+      "title": "Indian rupee retreats from 3-week high on heavy dollar demand from importers",
+      "description": "By Dharamraj Dhutia MUMBAI, April 10 (Reuters) - The Indian rupee reversed early gains on Friday, pressured by increased dollar hedging from importers amid signs of strain in the U.S.-Iran ceasefire a",
+      "url": "https://sg.finance.yahoo.com/news/rupee-contend-fading-rbi-rule-030453621.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T06:17:31+00:00",
+      "category": "Commodities",
+      "simple_explanation": "By Dharamraj Dhutia MUMBAI, April 10 (Reuters) - The Indian rupee reversed early gains on Friday, pressured by increased dollar hedging from importers amid signs of strain in the U.S.-Iran ceasefire a"
+    },
+    {
+      "title": "Japan approves bill to classify crypto as financial instruments",
+      "description": "The Japanese Cabinet reclassified crypto as a financial instrument and will enforce insider trading bans and annual disclosure mandates for issuers.",
+      "url": "https://cointelegraph.com/news/japan-approves-bill-classify-cryptocurrencies-financial-instruments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc2MDQtOTQ2Ny03OTZlLTlmYjAtMDNjMDNmYzQzYjNlLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-10T06:13:12+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Japanese Cabinet reclassified crypto as a financial instrument and will enforce insider trading bans and annual disclosure mandates for issuers."
+    },
+    {
+      "title": "BlackRock’s Bitcoin ETF inflows $269M, marking a 5-week high",
+      "description": "Fidelity and Morgan Stanley’s Bitcoin ETFs also saw a combined $68.2 million in inflows, while four other Bitcoin ETFs also tallied inflows on Thursday.",
+      "url": "https://cointelegraph.com/news/blackrock-biggest-btc-etf-inflow-in-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc1ZjgtZGU1Yy03MGQ2LWE4NmYtODljZjRmMTJkNWUxLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-10T06:12:29+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Fidelity and Morgan Stanley’s Bitcoin ETFs also saw a combined $68.2 million in inflows, while four other Bitcoin ETFs also tallied inflows on Thursday."
+    },
+    {
+      "title": "Costco Gold Bars Spark Viral Buzz And Raise Valuation Questions",
+      "description": "Costco Wholesale (NasdaqGS:COST) has drawn viral attention by selling one ounce gold bars through its membership warehouse clubs and online channels. The gold bars have attracted strong consumer interest, with reported rapid sellouts and waitlists as members seek access to physical gold at warehouse",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-gold-bars-spark-viral-060712815.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T06:07:12+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Costco Wholesale (NasdaqGS:COST) has drawn viral attention by selling one ounce gold bars through its membership warehouse clubs and online channels. The gold bars have attracted strong consumer inter"
+    },
+    {
+      "title": "Chinese Refiners Buy Iranian Crude at Premium",
+      "description": "Iranian crude is trading above Brent as Chinese and Indian buyers rush to secure supply amid sanctions relief and severe disruption to Middle Eastern oil flows.",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/chinese-refiners-buy-iranian-crude-060608678.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T06:06:08+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Iranian crude is trading above Brent as Chinese and Indian buyers rush to secure supply amid sanctions relief and severe disruption to Middle Eastern oil flows."
+    },
+    {
+      "title": "Jim Cramer on Casey’s: “This Is a Terrific Company That Tends to Fly Under the Radar”",
+      "description": "Casey’s General Stores, Inc. (NASDAQ:CASY) is one of Jim Cramer’s stock calls as he discussed the impact of the Iran war on the markets. Cramer highlighted the reasons for the stock’s success, as he commented: I love Casey’s not just because it’s made our viewers big money, although that certainly h",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-casey-terrific-company-060252116.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T06:02:52+00:00",
+      "category": "USA",
+      "simple_explanation": "Casey’s General Stores, Inc. (NASDAQ:CASY) is one of Jim Cramer’s stock calls as he discussed the impact of the Iran war on the markets. Cramer highlighted the reasons for the stock’s success, as he c"
+    },
+    {
+      "title": "Gold Heads for Weekly Gain as Traders Weigh Iran Truce Prospects",
+      "description": "(Bloomberg) -- Gold was headed for a third weekly gain as hopes for a diplomatic resolution to the war in Iran and sustained buying by central banks outweighed persistent risks around inflation.Bullion steadied near $4,765 an ounce on Friday, on track for a weekly gain of almost 2%. With key issues ",
+      "url": "https://finance.yahoo.com/news/gold-heads-weekly-gain-traders-000725806.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T06:00:25+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Bloomberg) -- Gold was headed for a third weekly gain as hopes for a diplomatic resolution to the war in Iran and sustained buying by central banks outweighed persistent risks around inflation.Bullio"
+    },
+    {
+      "title": "Sun Pharma shares tumble 4% as firm closes in on $12-billion Organon acquisition. What’s spooking investors?",
+      "description": "Shares of Sun Pharmaceutical Industries fell sharply after ET reported the company had submitted a $12-billion binding offer for Organon & Co. Investors remain cautious as the pharma major nears its biggest-ever overseas acquisition amid debt concerns and volatile global conditions.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-shares-tumble-4-as-firm-closes-in-on-12-billion-organon-acquisition-whats-spooking-investors/articleshow/130160781.cms",
+      "image": "https://img.etimg.com/photo/msid-130160781,imgsize-119514.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-10T06:00:22+00:00",
+      "category": "India",
+      "simple_explanation": "Shares of Sun Pharmaceutical Industries fell sharply after ET reported the company had submitted a $12-billion binding offer for Organon & Co. Investors remain cautious as the pharma major nears its b"
+    },
+    {
+      "title": "Tata Sons IPO: After Venu Srinivasan, Tata Trusts Vice Chairman Vijay Singh backs listing of Tata Sons, says report",
+      "description": "A Tata Trusts trustee has backed listing Tata Sons via an IPO, aligning with growing support despite the group’s earlier stance to remain unlisted and explore alternatives to avoid going public.",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tata-sons-ipo-after-venu-srinivasan-tata-trusts-vice-chairman-vijay-singh-backs-listing-of-tata-sons-says-report/articleshow/130160730.cms",
+      "image": "https://img.etimg.com/photo/msid-130160730,imgsize-98518.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-10T05:56:56+00:00",
+      "category": "India",
+      "simple_explanation": "A Tata Trusts trustee has backed listing Tata Sons via an IPO, aligning with growing support despite the group’s earlier stance to remain unlisted and explore alternatives to avoid going public."
+    },
+    {
+      "title": "Gold set for third weekly gain as US rate outlook offsets dollar strength",
+      "description": "By Pablo Sinha April 10 (Reuters) - Gold steadied on Friday as U.S.-Iran ceasefire uncertainty lingered, but the metal stayed on course for a third consecutive weekly climb as investors priced in",
+      "url": "https://sg.finance.yahoo.com/news/gold-set-third-weekly-gain-055349323.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T05:53:49+00:00",
+      "category": "Commodities",
+      "simple_explanation": "By Pablo Sinha April 10 (Reuters) - Gold steadied on Friday as U.S.-Iran ceasefire uncertainty lingered, but the metal stayed on course for a third consecutive weekly climb as investors priced in"
+    },
+    {
+      "title": "RailTel Corporation shares jump 4% after securing Rs 23.18 crore order",
+      "description": "RailTel Corporation of India's shares surged after securing a Rs 23.18 crore work order from the Goa Building and Other Construction Workers Welfare Board for an online portal. This follows a significant Rs 455 crore infrastructure contract awarded in February. The company's stock is currently tradi",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/railtel-corporation-shares-jump-4-after-securing-rs-23-18-crore-order/articleshow/130160619.cms",
+      "image": "https://img.etimg.com/photo/msid-130160619,imgsize-160495.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-10T05:52:33+00:00",
+      "category": "India",
+      "simple_explanation": "RailTel Corporation of India's shares surged after securing a Rs 23.18 crore work order from the Goa Building and Other Construction Workers Welfare Board for an online portal. This follows a signific"
+    },
+    {
+      "title": "AZZ, Resideo, and Apogee Shares Skyrocket, What You Need To Know",
+      "description": "A number of stocks jumped in the afternoon session after investors reacted to the news that Israel and Lebanon might enter direct negotiations, further supporting the fragile U.S.-Iran ceasefire.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/azz-resideo-apogee-shares-skyrocket-054947487.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T05:49:47+00:00",
       "category": "USA",
       "simple_explanation": "A number of stocks jumped in the afternoon session after investors reacted to the news that Israel and Lebanon might enter direct negotiations, further supporting the fragile U.S.-Iran ceasefire."
     },
     {
-      "title": "Sensex jumps 850 points, Nifty 50 reclaims 24,000; investors earn  ₹5 lakh Cr— Key factors behind market rally explained",
-      "description": "The Sensex jumped over 850 points, or more than 1%, to an intraday high of 77,501, while the Nifty 50 rose by more than 250 points, or 1%, to the day's high of 24,036. The mid and small-cap segments also rose by more than 1% during the session.",
-      "url": "https://www.livemint.com/market/stock-market-news/sensex-jumps-800-points-nifty-50-reclaims-24-000-investors-earn-5-lakh-cr-key-factors-behind-market-rally-explained-11775795439849.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/10/1600x900/Stock_market_1763027050319_1763027059850_1775795583804.png",
-      "source": "LiveMint",
-      "published_at": "2026-04-10T05:05:34+00:00",
-      "category": "India",
-      "simple_explanation": "The Sensex jumped over 850 points, or more than 1%, to an intraday high of 77,501, while the Nifty 50 rose by more than 250 points, or 1%, to the day's high of 24,036. The mid and small-cap segments a"
+      "title": "Upside Gold expands Kena Project potential",
+      "description": "Upside Gold (CSE:UG) has reported new findings from a historic data compilation at its Kena Gold-Copper Project in British Columbia, providing fresh evidence that the deposit may be significantly larger than previously defined.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/upside-gold-expands-kena-project-054605896.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T05:46:05+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Upside Gold (CSE:UG) has reported new findings from a historic data compilation at its Kena Gold-Copper Project in British Columbia, providing fresh evidence that the deposit may be significantly larg"
     },
     {
-      "title": "Markets stay resilient even as geopolitical uncertainty lingers: Ed Yardeni",
-      "description": "Global markets signal resilience despite Middle East geopolitical tensions and uncertain ceasefire talks. Market strategist Ed Yardeni notes that while the ground reality remains volatile, markets are looking beyond current disruptions, anticipating a resolution within months. The bond market's calm",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/markets-stay-resilient-even-as-geopolitical-uncertainty-lingers-ed-yardeni/articleshow/130159829.cms",
-      "image": "https://img.etimg.com/photo/msid-130159829,imgsize-25724.cms",
+      "title": "Why Comfort Systems (FIX) Stock Is Up Today",
+      "description": "Shares of HVAC and electrical contractor Comfort Systems (NYSE:FIX) jumped 3.9% in the afternoon session after the U.S. and Iran agreed to a \"double-sided\" ceasefire, contingent on the reopening of the crucial Strait of Hormuz.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-comfort-systems-fix-stock-054147575.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T05:41:47+00:00",
+      "category": "USA",
+      "simple_explanation": "Shares of HVAC and electrical contractor Comfort Systems (NYSE:FIX) jumped 3.9% in the afternoon session after the U.S. and Iran agreed to a \"double-sided\" ceasefire, contingent on the reopening of th"
+    },
+    {
+      "title": "TCS deal wins signal stability despite AI concerns: Sandip Agarwal",
+      "description": "TCS's robust $12 billion Total Contract Value signals stability amidst AI disruption fears, indicating intact client spending. Analysts project 5-6% dollar growth and 16-17% rupee earnings CAGR, suggesting potential stock rerating. IT firms' system integrator role remains a strong moat, though AI ma",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/tcs-deal-wins-signal-stability-despite-ai-concerns-sandip-agarwal/articleshow/130160448.cms",
+      "image": "https://img.etimg.com/photo/msid-130160448,imgsize-14906.cms",
       "source": "Economic Times",
-      "published_at": "2026-04-10T05:03:10+00:00",
+      "published_at": "2026-04-10T05:41:12+00:00",
       "category": "India",
-      "simple_explanation": "Global markets signal resilience despite Middle East geopolitical tensions and uncertain ceasefire talks. Market strategist Ed Yardeni notes that while the ground reality remains volatile, markets are"
+      "simple_explanation": "TCS's robust $12 billion Total Contract Value signals stability amidst AI disruption fears, indicating intact client spending. Analysts project 5-6% dollar growth and 16-17% rupee earnings CAGR, sugge"
     },
     {
-      "title": "Gold, silver rate today, 10 April: Check live price of 24 kt, 22 kt, 18 kt gold and 10 gm, 100 gm, 1 kg silver",
-      "description": "Gold, silver rate today, 10 April: Check the live price of gold and silver today in Delhi, Mumbai, Bangalore. Kolkata, Chennai and other major Indian cities.",
-      "url": "https://www.livemint.com/market/commodities/gold-silver-rate-today-10-april-check-live-price-of-24-kt-22-kt-18-kt-gold-and-10-gm-100-gm-1-kg-silver-11775794432295.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/10/1600x900/logo/2-0-768121551-gold3-0_1680413436705_1775797270565.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-10T05:02:29+00:00",
+      "title": "Why Orion (ORN) Stock Is Trading Up Today",
+      "description": "Shares of marine infrastructure company Orion (NYSE:ORN) jumped 2.8% in the afternoon session after the U.S. and Iran agreed to a \"double-sided\" ceasefire, contingent on the reopening of the crucial Strait of Hormuz.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-orion-orn-stock-trading-053347814.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T05:33:47+00:00",
+      "category": "USA",
+      "simple_explanation": "Shares of marine infrastructure company Orion (NYSE:ORN) jumped 2.8% in the afternoon session after the U.S. and Iran agreed to a \"double-sided\" ceasefire, contingent on the reopening of the crucial S"
+    },
+    {
+      "title": "Asian stocks mostly higher and oil gains ahead of planned U.S.-Iran ceasefire talks",
+      "description": "Asian stocks were mostly up Friday tracking Wall Street gains while oil prices also rose on the fragile Iran war ceasefire and ahead of Iran-U.S. ceasefire talks in Pakistan.  Shares of Fast Retailing, parent of Japanese clothing retailer Uniqlo, surged more than 10% after the group raised profit ex",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mostly-higher-oil-053143960.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-10T05:31:43+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Asian stocks were mostly up Friday tracking Wall Street gains while oil prices also rose on the fragile Iran war ceasefire and ahead of Iran-U.S. ceasefire talks in Pakistan.  Shares of Fast Retailing"
+    },
+    {
+      "title": "India bull Chris Wood likes Pakistan stock market around IMF bailout cycles",
+      "description": "Jefferies strategist Christopher Wood says Pakistan offers high-beta opportunities around IMF bailout cycles, even as India remains his core long-term bet. While Pakistan’s market has soared since the latest IMF programme, Wood notes that India’s structural strength and improved valuations position ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-bull-chris-wood-likes-pakistan-stock-market-around-imf-bailout-cycles/articleshow/130160030.cms",
+      "image": "https://img.etimg.com/photo/msid-130160030,imgsize-49112.cms",
+      "source": "ET Markets",
+      "published_at": "2026-04-10T05:14:18+00:00",
       "category": "India",
-      "simple_explanation": "Gold, silver rate today, 10 April: Check the live price of gold and silver today in Delhi, Mumbai, Bangalore. Kolkata, Chennai and other major Indian cities."
+      "simple_explanation": "Jefferies strategist Christopher Wood says Pakistan offers high-beta opportunities around IMF bailout cycles, even as India remains his core long-term bet. While Pakistan’s market has soared since the"
     },
     {
       "title": "Why Construction Partners (ROAD) Stock Is Trading Up Today",
@@ -53,26 +363,6 @@
       "simple_explanation": "Shares of civil infrastructure company Construction Partners (NASDAQ:ROAD) jumped 3.8% in the afternoon session after the U.S. and Iran agreed to a \"double-sided\" ceasefire, contingent on the reopenin"
     },
     {
-      "title": "Petrol and diesel in Europe: Where are prices highest and lowest?",
-      "description": "Petrol and diesel prices have risen significantly across Europe since the escalation of the Middle East crisis. Euronews Business takes a closer look at the latest fuel prices.View on euronews",
-      "url": "https://www.euronews.com/2026/04/10/petrol-and-diesel-in-europe-where-are-prices-highest-and-lowest?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-10T05:01:28+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Petrol and diesel prices have risen significantly across Europe since the escalation of the Middle East crisis. Euronews Business takes a closer look at the latest fuel prices.View on euronews"
-    },
-    {
-      "title": "Iran Shows You Don’t Have to Be a Superpower to Wage Economic Warfare",
-      "description": "The U.S. and Iran may have agreed to a temporary cease-fire this week, but economic warfare is here to stay.  Tehran’s chokehold on the Strait of Hormuz is a stark demonstration that control of a critical waterway, technology or even company can give governments enormous sway in an interconnected gl",
-      "url": "https://finance.yahoo.com/m/9311c0ae-fa7a-3197-a874-9c8574621d2e/iran-shows-you-don%E2%80%99t-have-to.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-10T05:01:22+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The U.S. and Iran may have agreed to a temporary cease-fire this week, but economic warfare is here to stay.  Tehran’s chokehold on the Strait of Hormuz is a stark demonstration that control of a crit"
-    },
-    {
       "title": "The Trump administration is getting angry as EU Big Tech fines top $7 billion in 2 years",
       "description": "The European Commission and Trump administration are increasingly clashing over the bloc's actions against U.S. tech companies.",
       "url": "https://www.cnbc.com/2026/04/10/google-meta-big-tech-6-billion-euros-eu-fine.html",
@@ -83,34 +373,14 @@
       "simple_explanation": "The European Commission and Trump administration are increasingly clashing over the bloc's actions against U.S. tech companies."
     },
     {
-      "title": "CSW (CSW) Stock Trades Up, Here Is Why",
-      "description": "Shares of industrial products company CSW (NYSE:CSW) jumped 3.6% in the afternoon session after investors reacted to the news that Israel and Lebanon might enter direct negotiations, further supporting the fragile U.S.-Iran ceasefire.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/csw-csw-stock-trades-why-045347506.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-10T04:53:47+00:00",
-      "category": "USA",
-      "simple_explanation": "Shares of industrial products company CSW (NYSE:CSW) jumped 3.6% in the afternoon session after investors reacted to the news that Israel and Lebanon might enter direct negotiations, further supportin"
-    },
-    {
-      "title": "Keir Starmer: 'I'm fed up' with Trump and Putin affecting UK energy costs",
-      "description": "Iran has effectively closed the Strait of Hormuz in the war with the U.S. and Israel, creating an oil supply crunch and sending global energy prices soaring.",
-      "url": "https://www.cnbc.com/2026/04/09/keir-starmer-fed-up-trump-putin-uk-energy-costs.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-10T04:49:22+00:00",
-      "category": "USA",
-      "simple_explanation": "Iran has effectively closed the Strait of Hormuz in the war with the U.S. and Israel, creating an oil supply crunch and sending global energy prices soaring."
-    },
-    {
-      "title": "Bitcoin down 23% in FY26, Ethereum hit $5K peak in August. Here is what analyst expect",
-      "description": "Bitcoin saw a 23% decline in FY26, ending at $66,694. Ethereum reached a peak of $5,000 in August 2025.  Despite market volatility and geopolitical tensions, Bitcoin frequently reclaimed $70k levels.  The cryptocurrency market capitalization crossed $4 trillion in 2025, showing integration with glob",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-down-23-in-fy26-ethereum-hit-5k-peak-in-august-here-is-what-analyst-expect/articleshow/130159624.cms",
-      "image": "https://img.etimg.com/photo/msid-130159624,imgsize-94570.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-10T04:49:06+00:00",
-      "category": "India",
-      "simple_explanation": "Bitcoin saw a 23% decline in FY26, ending at $66,694. Ethereum reached a peak of $5,000 in August 2025.  Despite market volatility and geopolitical tensions, Bitcoin frequently reclaimed $70k levels. "
+      "title": "Elon Musk’s xAI sues Colorado arguing its AI rules restrict speech",
+      "description": "The AI company argued that such rules would force it to feed its AI chatbot Grok with data aligned with Colorado’s political views rather than striving to be “maximally truth seeking.”",
+      "url": "https://cointelegraph.com/news/xai-sues-colorado-over-ai-law-restricting-free-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc1YjUtNjQ3Ny03NTM5LWEwYjEtOWVjY2VhODNlYzM1LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-10T04:50:28+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The AI company argued that such rules would force it to feed its AI chatbot Grok with data aligned with Colorado’s political views rather than striving to be “maximally truth seeking.”"
     },
     {
       "title": "Why Is The Crypto Market Up Today?",
@@ -127,280 +397,10 @@
       "description": "Groww parent Billionbrains Garage Ventures surged to a record high, gaining over 5% amid strong volumes and extending its recent rally. The stock is up sharply over the past months, supported by its leading market share and strong user-driven growth.",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/groww-shares-hit-all-time-high-jump-18-in-just-3-sessions-whats-driving-the-surge/articleshow/130159579.cms",
       "image": "https://img.etimg.com/photo/msid-130159579,imgsize-21456.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-04-10T04:45:23+00:00",
       "category": "India",
       "simple_explanation": "Groww parent Billionbrains Garage Ventures surged to a record high, gaining over 5% amid strong volumes and extending its recent rally. The stock is up sharply over the past months, supported by its l"
-    },
-    {
-      "title": "Ola Electric shares surge 35% in 3 days as EV momentum accelerates",
-      "description": "Ola Electric extended its gains in Friday's session, boosted by strong demand, new product certifications, and a major milestone as its in-house LFP battery cell becomes production-ready. With registrations jumping over 150% in March and improved operations driving conversions, investor confidence i",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-shares-surge-35-in-3-days-as-ev-momentum-accelerates/articleshow/130159559.cms",
-      "image": "https://img.etimg.com/photo/msid-130159559,imgsize-85730.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-10T04:43:03+00:00",
-      "category": "India",
-      "simple_explanation": "Ola Electric extended its gains in Friday's session, boosted by strong demand, new product certifications, and a major milestone as its in-house LFP battery cell becomes production-ready. With registr"
-    },
-    {
-      "title": "x402 protocol adds usage-based pricing for AI compute requests",
-      "description": "The upgrade from flat fees to variable pricing is designed to support the use of AI agents for LLM inference, compute and data queries.",
-      "url": "https://cointelegraph.com/news/coinbase-x402-rolls-out-usage-based-pricing-agentic-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc0YzYtMmE4Ni03Njg5LWFjYjctMTU0ZDdlYmE3YTg5LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-10T04:41:19+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The upgrade from flat fees to variable pricing is designed to support the use of AI agents for LLM inference, compute and data queries."
-    },
-    {
-      "title": "Rajesh Palviya of Axis Sec suggests Hindalco Industries, Cummins India, Adani Power shares to buy on April 10",
-      "description": "The stock market opened positively on April 10, with Nifty 50 and Sensex rising. Financial sector gains contrasted with TCS's drop. Hindalco and Cummins India showed strong bullish trends, while investors are advised to buy and hold these stocks for potential gains.",
-      "url": "https://www.livemint.com/market/stock-market-news/rajesh-palviya-of-axis-sec-suggests-hindalco-industries-cummins-india-adani-power-shares-to-buy-on-april-10-11775795301661.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/10/1600x900/logo/Rajesh_Palviya_1770616160698_1770616164175_1775795861674.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-10T04:40:48+00:00",
-      "category": "India",
-      "simple_explanation": "The stock market opened positively on April 10, with Nifty 50 and Sensex rising. Financial sector gains contrasted with TCS's drop. Hindalco and Cummins India showed strong bullish trends, while inves"
-    },
-    {
-      "title": "Wipro slides 23% in 3 months, turns Nifty's worst performer. Can buyback, Q4 nos. reverse trend?",
-      "description": "Wipro shares have plummeted 23% in three months, becoming the Nifty's worst performer, impacted by weak Q3 results and sector-wide AI concerns. Despite a recent 8% gain in April, analysts remain cautious due to weak growth guidance and integration pressures. The company's upcoming Q4 results and pot",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-slides-23-in-3-months-turns-niftys-worst-performer-can-buyback-q4-nos-reverse-trend/articleshow/130159507.cms",
-      "image": "https://img.etimg.com/photo/msid-130159507,imgsize-2387235.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-10T04:39:23+00:00",
-      "category": "India",
-      "simple_explanation": "Wipro shares have plummeted 23% in three months, becoming the Nifty's worst performer, impacted by weak Q3 results and sector-wide AI concerns. Despite a recent 8% gain in April, analysts remain cauti"
-    },
-    {
-      "title": "MYR Group (MYRG) Stock Trades Up, Here Is Why",
-      "description": "Shares of electrical construction and infrastructure services provider MYR Group (NASDAQ:MYRG) jumped 4.6% in the afternoon session after the U.S. and Iran agreed to a \"double-sided\" ceasefire, contingent on the reopening of the crucial Strait of Hormuz.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/myr-group-myrg-stock-trades-043747867.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-10T04:37:47+00:00",
-      "category": "USA",
-      "simple_explanation": "Shares of electrical construction and infrastructure services provider MYR Group (NASDAQ:MYRG) jumped 4.6% in the afternoon session after the U.S. and Iran agreed to a \"double-sided\" ceasefire, contin"
-    },
-    {
-      "title": "Global Market: Japan sees no major risk from private credit, flags global concerns",
-      "description": "Japan's Finance Minister stated that private credit is not a significant domestic risk, as companies still rely on traditional bank financing. However, authorities are closely monitoring the rapidly growing global market and Japanese banks' increasing cross-border exposure to private credit funds am",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-sees-no-major-risk-from-private-credit-flags-global-concerns/articleshow/130159445.cms",
-      "image": "https://img.etimg.com/photo/msid-130159445,imgsize-184066.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-10T04:35:28+00:00",
-      "category": "India",
-      "simple_explanation": "Japan's Finance Minister stated that private credit is not a significant domestic risk, as companies still rely on traditional bank financing. However, authorities are closely monitoring the rapidly g"
-    },
-    {
-      "title": "China's teapots buy Iranian oil at premiums to Brent for first time in years, sources say",
-      "description": "SINGAPORE, April 10 (Reuters) - Chinese independent refiners have bought Iranian oil at premiums to Brent for the first time in years, after benchmark prices fell and amid expectations that India",
-      "url": "https://sg.finance.yahoo.com/news/chinas-teapots-buy-iranian-oil-043401829.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-10T04:34:01+00:00",
-      "category": "Commodities",
-      "simple_explanation": "SINGAPORE, April 10 (Reuters) - Chinese independent refiners have bought Iranian oil at premiums to Brent for the first time in years, after benchmark prices fell and amid expectations that India"
-    },
-    {
-      "title": "A Look At Canadian Natural Resources (TSX:CNQ) Valuation After Strong Long Term Shareholder Returns",
-      "description": "How Canadian Natural Resources Shares Have Been Trending Canadian Natural Resources (TSX:CNQ) has seen mixed share price moves recently, with a 1.5% decline over the past day and a 4.6% decline over the past week, alongside a 41.5% gain in the past 3 months. See our latest analysis for Canadian Natu",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/look-canadian-natural-resources-tsx-043139914.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-10T04:31:39+00:00",
-      "category": "Commodities",
-      "simple_explanation": "How Canadian Natural Resources Shares Have Been Trending Canadian Natural Resources (TSX:CNQ) has seen mixed share price moves recently, with a 1.5% decline over the past day and a 4.6% decline over t"
-    },
-    {
-      "title": "Why Primoris (PRIM) Stock Is Up Today",
-      "description": "Shares of infrastructure construction company Primoris (NYSE:PRIM) jumped 4.3% in the afternoon session after the U.S. and Iran agreed to a \"double-sided\" ceasefire, contingent on the reopening of the crucial Strait of Hormuz.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-primoris-prim-stock-today-042947152.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-10T04:29:47+00:00",
-      "category": "USA",
-      "simple_explanation": "Shares of infrastructure construction company Primoris (NYSE:PRIM) jumped 4.3% in the afternoon session after the U.S. and Iran agreed to a \"double-sided\" ceasefire, contingent on the reopening of the"
-    },
-    {
-      "title": "IOC, BPCL to HPCL: Oil PSU stocks gain up to 2.5% as crude oil rally loses steam ahead of US-Iran talks this weekend",
-      "description": "Oil PSU stocks Indian Oil Corporation (IOC), Bharat Petroleum Corporation Limited (BPCL) and Hindustan Petroleum Corporation (HPCL) rose 2%-2.5% today as crude pulled back from recent highs. A positive sentiment in the Indian stock market also boosted gains.",
-      "url": "https://www.livemint.com/market/stock-market-news/ioc-bpcl-to-hpcl-oil-psu-stocks-gain-up-to-2-5-as-crude-oil-rally-loses-steam-ahead-of-us-iran-talks-this-weekend-11775795240687.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/10/1600x900/Oil-Cuts-Explainer-0_1680529456417_1680529456417_1775795364600.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-10T04:29:11+00:00",
-      "category": "India",
-      "simple_explanation": "Oil PSU stocks Indian Oil Corporation (IOC), Bharat Petroleum Corporation Limited (BPCL) and Hindustan Petroleum Corporation (HPCL) rose 2%-2.5% today as crude pulled back from recent highs. A positiv"
-    },
-    {
-      "title": "Silver dips Rs 2,000/kg, gold at Rs 1.53 lakh/10g as ceasefire uncertainty weighs on sentiment. Key levels to watch",
-      "description": "Gold and silver prices fell on MCX as geopolitical tensions kept investors cautious despite a fragile U.S.–Iran ceasefire. Concerns over the Strait of Hormuz and ongoing regional conflicts weighed on sentiment, with both metals declining modestly in early trade.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/silver-dips-rs-2000/kg-gold-at-rs-1-53-lakh/10g-as-ceasefire-uncertainty-weighs-on-sentiment-key-levels-to-watch/articleshow/130159274.cms",
-      "image": "https://img.etimg.com/photo/msid-130159274,imgsize-49052.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-10T04:26:22+00:00",
-      "category": "India",
-      "simple_explanation": "Gold and silver prices fell on MCX as geopolitical tensions kept investors cautious despite a fragile U.S.–Iran ceasefire. Concerns over the Strait of Hormuz and ongoing regional conflicts weighed on "
-    },
-    {
-      "title": "RDB Infrastructure share price surges over 4% after leadership changes, new business launch",
-      "description": "RDB Infrastructure And Power shares rose over 4% after appointing Shubham Vaidya as Managing Director and Ramakant Asopa as CFO. The company also announced a new venture, RDB Ergoflex LLP, entering the furniture manufacturing market with a capital of  ₹1 crore and a 51% stake.",
-      "url": "https://www.livemint.com/market/stock-market-news/rdb-infrastructure-share-price-surges-over-4-after-leadership-changes-new-business-launch-11775794394787.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/10/1600x900/logo/gd70f5493189350f0737302b3e9d20084f484c5909356fbdc7_1724647995684_1775794778635.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-10T04:25:43+00:00",
-      "category": "India",
-      "simple_explanation": "RDB Infrastructure And Power shares rose over 4% after appointing Shubham Vaidya as Managing Director and Ramakant Asopa as CFO. The company also announced a new venture, RDB Ergoflex LLP, entering th"
-    },
-    {
-      "title": "Ceasefire calm or chaos? 50 stocks that brokerages expect to rally after Iran truce",
-      "description": "A two-week US-Iran ceasefire has sparked a relief rally in Indian equities, though its sustainability is questioned as oil prices rebound. Brokerages identify around 50 stocks across sectors, favoring those with strong fundamentals and domestic demand exposure, as markets shift to selective position",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ceasefire-calm-or-chaos-50-stocks-that-brokerages-expect-to-rally-after-iran-truce/articleshow/130159197.cms",
-      "image": "https://img.etimg.com/photo/msid-130159197,imgsize-2447240.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-10T04:22:37+00:00",
-      "category": "India",
-      "simple_explanation": "A two-week US-Iran ceasefire has sparked a relief rally in Indian equities, though its sustainability is questioned as oil prices rebound. Brokerages identify around 50 stocks across sectors, favoring"
-    },
-    {
-      "title": "Poonawalla Fincorp launches QIP at a floor price of  ₹390.26 per share, down 2.6% from previous close; stock up 3%",
-      "description": "Poonawalla Fincorp has launched its qualified institutional placement, approving a floor price of  ₹390.26 per share, 2.6% lower than the previous closing. The issue follows earlier board approvals and may offer a discount of up to 5% on the floor price, pending shareholder consent.",
-      "url": "https://www.livemint.com/market/stock-market-news/poonawalla-fincorp-launches-qip-at-a-floor-price-of-rs-390-26-per-share-down-2-6-from-previous-close-11775793977004.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/10/1600x900/logo/Poonawalla_Fincorp_launches_qip_1775794589745_1775794589908.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-10T04:17:25+00:00",
-      "category": "India",
-      "simple_explanation": "Poonawalla Fincorp has launched its qualified institutional placement, approving a floor price of  ₹390.26 per share, 2.6% lower than the previous closing. The issue follows earlier board approvals an"
-    },
-    {
-      "title": "Is Nifty's cheap-looking valuation a mirage? Why $100 oil could trap value hunters",
-      "description": "Analysts warn India's Nifty valuations may be a mirage, with crude oil prices above $100 potentially triggering significant earnings downgrades for FY27. BofA Securities has already cut its Nifty earnings growth forecast, citing elevated oil prices and a potential slowdown in GDP growth. Elevated cr",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/is-niftys-cheap-looking-valuation-a-mirage-why-100-oil-could-trap-value-hunters/articleshow/130158945.cms",
-      "image": "https://img.etimg.com/photo/msid-130158945,imgsize-2712769.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-10T04:06:52+00:00",
-      "category": "India",
-      "simple_explanation": "Analysts warn India's Nifty valuations may be a mirage, with crude oil prices above $100 potentially triggering significant earnings downgrades for FY27. BofA Securities has already cut its Nifty earn"
-    },
-    {
-      "title": "China factory prices return to growth after 3 years, beating expectations on surging oil prices",
-      "description": "China faces possible inflationary spillovers, though its massive strategic stockpiling onshore and diversified sources of energy provided some cushion.",
-      "url": "https://www.cnbc.com/2026/04/10/china-cpi-ppi-march-iran-oil-chock-consumer-inflation-manufacturing-.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-10T03:50:29+00:00",
-      "category": "USA",
-      "simple_explanation": "China faces possible inflationary spillovers, though its massive strategic stockpiling onshore and diversified sources of energy provided some cushion."
-    },
-    {
-      "title": "Bitcoin can be made quantum-safe without a protocol upgrade: Researcher",
-      "description": "However, it could cost users between $75 and $150 per transaction in GPU computing power, limiting its practical use.",
-      "url": "https://cointelegraph.com/news/researchers-say-bitcoin-can-be-made-quantum-safe-without-protocol-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY3MGMtNGJiMC03NzBjLTljZTktMjNhYmFhYTVkYjIx.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-10T03:44:27+00:00",
-      "category": "Crypto",
-      "simple_explanation": "However, it could cost users between $75 and $150 per transaction in GPU computing power, limiting its practical use."
-    },
-    {
-      "title": "BMO Capital Raises APA Outlook as Oil Hinges on Iran Conflict Outcome",
-      "description": "APA Corporation (NASDAQ:APA) is included among the 15 Best Cheap Dividend Stocks to Buy. On April 7, BMO Capital raised its price recommendation on APA Corporation (NASDAQ:APA) to $47 from $35. It kept a Market Perform rating. The update came as part of a broader research note. The firm adjusted its",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/bmo-capital-raises-apa-outlook-033454431.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-10T03:34:54+00:00",
-      "category": "Commodities",
-      "simple_explanation": "APA Corporation (NASDAQ:APA) is included among the 15 Best Cheap Dividend Stocks to Buy. On April 7, BMO Capital raised its price recommendation on APA Corporation (NASDAQ:APA) to $47 from $35. It kep"
-    },
-    {
-      "title": "Bitcoin Is The Ultimate 'Hard Money' Backed By Energy, Says Top Analyst: 'Very Few Economists Understand...'",
-      "description": "Top cryptocurrency analyst Willy Woo took to X on Tuesday to express his thoughts on how the economy functions as an engine, transforming raw materials and energy into goods and services. He also shared his perspective on the interplay between...",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ultimate-hard-money-backed-033108967.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-10T03:31:08+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Top cryptocurrency analyst Willy Woo took to X on Tuesday to express his thoughts on how the economy functions as an engine, transforming raw materials and energy into goods and services. He also shar"
-    },
-    {
-      "title": "Is It Too Late To Consider AngloGold Ashanti (NYSE:AU) After A 192% One Year Surge?",
-      "description": "Wondering if AngloGold Ashanti at US$108.55 is still offering value after a strong run, or if you might be late to the story. The stock has recent returns of 7.2% over 7 days, 0.3% over 30 days, 26.8% year to date, 192.1% over 1 year, 320.4% over 3 years, and 452.4% over 5 years. This naturally rais",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/too-consider-anglogold-ashanti-nyse-031055560.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-10T03:10:55+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Wondering if AngloGold Ashanti at US$108.55 is still offering value after a strong run, or if you might be late to the story. The stock has recent returns of 7.2% over 7 days, 0.3% over 30 days, 26.8%"
-    },
-    {
-      "title": "Rupee to contend with fading RBI rule-linked flows, costly oil",
-      "description": "By Nimesh Vora MUMBAI, April 10 (Reuters) - The Indian rupee on Friday will have to contend with the likely drying up of flows that the central bank's directive had drawn in to support it, and with",
-      "url": "https://sg.finance.yahoo.com/news/rupee-contend-fading-rbi-rule-030453621.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-10T03:04:53+00:00",
-      "category": "Commodities",
-      "simple_explanation": "By Nimesh Vora MUMBAI, April 10 (Reuters) - The Indian rupee on Friday will have to contend with the likely drying up of flows that the central bank's directive had drawn in to support it, and with"
-    },
-    {
-      "title": "Dow Jones Futures: Trump Issues Hormuz Threat Before Iran Talks; CPI Inflation, Nvidia Chipmaker Due",
-      "description": "Late Thursday, President Trump said Iran \"better stop\" Hormuz tolls. Nvidia chipmaker Taiwan Semiconductor, CPI inflation loom.",
-      "url": "https://finance.yahoo.com/m/a772792b-e0e1-3b25-9240-2743359e10ad/dow-jones-futures%3A-trump.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-10T03:02:35+00:00",
-      "category": "USA",
-      "simple_explanation": "Late Thursday, President Trump said Iran \"better stop\" Hormuz tolls. Nvidia chipmaker Taiwan Semiconductor, CPI inflation loom."
-    },
-    {
-      "title": "Kevin Warsh Fed chair confirmation plan hits snag as nomination hearing is delayed",
-      "description": "President Trump's nomination of Kevin Warsh as Federal Reserve chair already faced a hurdle by Sen. Thom Tillis over a probe of current chair Jerome Powell.",
-      "url": "https://www.cnbc.com/2026/04/10/warsh-fed-nomination-hearing-delayed.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-10T02:55:07+00:00",
-      "category": "USA",
-      "simple_explanation": "President Trump's nomination of Kevin Warsh as Federal Reserve chair already faced a hurdle by Sen. Thom Tillis over a probe of current chair Jerome Powell."
-    },
-    {
-      "title": "OKX Ventures, HashKey back VPBank-linked CAEX for Vietnam crypto pilot push",
-      "description": "OKX Ventures and HashKey are buying into VPBank-backed CAEX as Vietnam’s strict crypto pilot pushes offshore exchanges toward a high-bar, onshore licensing regime.",
-      "url": "https://cointelegraph.com/news/okx-and-hashkey-back-vpbank-linked-bid-for-vietnam-s-tight-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDcyOGUtMjdlNi03YjlhLWI1N2UtODAwMzMwYTAxYjU5LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-10T02:30:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "OKX Ventures and HashKey are buying into VPBank-backed CAEX as Vietnam’s strict crypto pilot pushes offshore exchanges toward a high-bar, onshore licensing regime."
-    },
-    {
-      "title": "Alibaba leads $290 million investment for building a new kind of AI model as LLM limits emerge",
-      "description": "Startup Shengshu plans to use the money for a \"general world model,\" paving the way for more practical robot applications.",
-      "url": "https://www.cnbc.com/2026/04/10/alibaba-cloud-invests-world-model-ai-shengshu-vidu.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-04-10T02:00:43+00:00",
-      "category": "Global",
-      "simple_explanation": "Startup Shengshu plans to use the money for a \"general world model,\" paving the way for more practical robot applications."
-    },
-    {
-      "title": "Bitmine uplists to the NYSE, share buyback increased to $4B",
-      "description": "A listing on the NYSE requires a company to meet strict requirements covering financial health, share distribution and corporate governance.",
-      "url": "https://cointelegraph.com/news/bitmine-nyse-listing-4b-share-buyback-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjcxZmEtYWY1NC03YjkyLTg1YmItNWU1ZmFmNDI5ZWVlLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-10T01:38:25+00:00",
-      "category": "Crypto",
-      "simple_explanation": "A listing on the NYSE requires a company to meet strict requirements covering financial health, share distribution and corporate governance."
-    },
-    {
-      "title": "CIA to integrate AI ‘co-workers’ to process intelligence, catch spies",
-      "description": "The CIA has already tested AI across 300 projects to process large data sets, assist with language translation and publish reports.",
-      "url": "https://cointelegraph.com/news/cia-ai-co-workers-help-intelligence-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc0N2YtNjhiMC03NDNjLWI5ZGEtN2EwNWM0NTQyNWU3LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-10T01:31:37+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The CIA has already tested AI across 300 projects to process large data sets, assist with language translation and publish reports."
     }
   ]
 }
