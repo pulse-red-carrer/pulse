@@ -1,16 +1,36 @@
 {
-  "last_updated": "2026-04-11T17:32:26.071580+00:00",
+  "last_updated": "2026-04-11T18:47:18.612434+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Bitcoin price analysis sees new short squeeze as open interest nears $25B",
+      "description": "Bitcoin open interest hit five-week highs while funding rates mimicked the BTC price collapse below $60,000, leading analysis to predict a new short squeeze.",
+      "url": "https://cointelegraph.com/news/bitcoin-price-analysis-sees-new-short-squeeze-as-open-interest-nears-25b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDdkNWYtYzM4YS03ODE1LWI5NjctMWVjZWRkYzlhZjNhLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-11T18:28:22+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin open interest hit five-week highs while funding rates mimicked the BTC price collapse below $60,000, leading analysis to predict a new short squeeze."
+    },
     {
       "title": "U.S.-Iran talks underway in Pakistani capital after delegations arrive",
       "description": "Two American warships transited through the Strait of Hormuz for the first time since the start of the conflict.",
       "url": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-11T17:24:17+00:00",
+      "published_at": "2026-04-11T18:00:31+00:00",
       "category": "USA",
       "simple_explanation": "Two American warships transited through the Strait of Hormuz for the first time since the start of the conflict."
+    },
+    {
+      "title": "Messaging push notifications are a privacy attack surface, says Durov",
+      "description": "The comments followed recent reports that law enforcement officials retrieved deleted Signal messages through device push notification logs.",
+      "url": "https://cointelegraph.com/news/messaging-notifications-privacy-attack-durov?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDdkYWUtZTQ3MC03ZWE4LTg1NDItNzZhOWYyNDRjODYyLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-11T17:57:57+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The comments followed recent reports that law enforcement officials retrieved deleted Signal messages through device push notification logs."
     },
     {
       "title": "A Look At Equinox Gold (TSX:EQX) Valuation After Q1 2026 Results Debt Cut And First Dividend",
@@ -381,26 +401,6 @@
       "published_at": "2026-04-11T07:19:36+00:00",
       "category": "India",
       "simple_explanation": "Indian markets are near 2023 highs, yet many stocks lag. Experienced investors express uncertainty about the current downturn, a sentiment the author attributes to Kahneman's 'Two Selves' theory. This"
-    },
-    {
-      "title": "Execution, order inflows to drive L&T growth; BEL rides defence push: Siddhartha Khemka",
-      "description": "India's capital goods sector is experiencing robust growth, fueled by strong order backlogs and increasing project execution across infrastructure, power, and industrial segments. Government focus on development and manufacturing, alongside new-age tech investments, is driving demand. Companies are ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/execution-order-inflows-to-drive-lt-growth-bel-rides-defence-push-siddhartha-khemka/articleshow/130186637.cms",
-      "image": "https://img.etimg.com/photo/msid-130186637,imgsize-61806.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-11T07:15:46+00:00",
-      "category": "India",
-      "simple_explanation": "India's capital goods sector is experiencing robust growth, fueled by strong order backlogs and increasing project execution across infrastructure, power, and industrial segments. Government focus on "
-    },
-    {
-      "title": "Federal court blocks Arizona crackdown on Kalshi’s event contracts",
-      "description": "A federal judge in Arizona has temporarily barred state officials from enforcing gambling laws against Kalshi, siding with the CFTC.",
-      "url": "https://cointelegraph.com/news/arizona-court-kalshi-gambling-enforcement-block?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDdiNWMtNGU4Ny03YThhLThkOWMtODI2ZTUyZGUzYTNjLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-11T07:07:37+00:00",
-      "category": "Crypto",
-      "simple_explanation": "A federal judge in Arizona has temporarily barred state officials from enforcing gambling laws against Kalshi, siding with the CFTC."
     }
   ]
 }
