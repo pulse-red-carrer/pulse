@@ -1,56 +1,316 @@
 {
-  "last_updated": "2026-04-13T18:02:21.247027+00:00",
+  "last_updated": "2026-04-13T20:06:01.606016+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Oracle pops 11%, leading bounce back rally in software stocks",
+      "title": "Oracle pops nearly 12%, leading bounce back rally in software stocks",
       "description": "Oracle has lost more than a fifth of its value this year on AI disruption concerns.",
       "url": "https://www.cnbc.com/2026/04/13/oracle-orcl-stock-rally-software-ai-risk.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-13T17:58:02+00:00",
+      "published_at": "2026-04-13T20:05:43+00:00",
       "category": "USA",
       "simple_explanation": "Oracle has lost more than a fifth of its value this year on AI disruption concerns."
     },
     {
-      "title": "UBS Tempers Fed Rate Cut Expectations Amid Inflation Concerns",
-      "description": "The Federal Reserve will now likely deliver just one interest rate cut this year instead of two amid",
-      "url": "https://finance.yahoo.com/economy/policy/articles/ubs-tempers-fed-rate-cut-175136827.html?.tsrc=rss",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq gain as Trump says Iran wants to talk, software stocks rally",
+      "description": "The major US gauges sank as tensions over the Strait of Hormuz revived worries about inflation and damage to the global economy.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-after-trump-orders-hormuz-blockade-against-iran-145712025.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-13T17:51:36+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The Federal Reserve will now likely deliver just one interest rate cut this year instead of two amid"
+      "published_at": "2026-04-13T20:01:16+00:00",
+      "category": "USA",
+      "simple_explanation": "The major US gauges sank as tensions over the Strait of Hormuz revived worries about inflation and damage to the global economy."
     },
     {
-      "title": "Stock hold steady, oil hovers around $100 after partial blockade begins",
-      "description": "Global oil prices jumped to over $100 a barrel as investors fret over Trump's partial naval blockade of the vital trade route.",
+      "title": "The Best Vanguard ETF to Invest $1,000 in This April",
+      "description": "With the markets looking very choppy so far in 2026, this sector has the tailwinds to keep moving higher.",
+      "url": "https://www.fool.com/investing/2026/04/13/best-vanguard-etf-to-invest-1000-in-this-april/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T19:50:00+00:00",
+      "category": "USA",
+      "simple_explanation": "With the markets looking very choppy so far in 2026, this sector has the tailwinds to keep moving higher."
+    },
+    {
+      "title": "3 Reasons to Sell FDP and 1 Stock to Buy Instead",
+      "description": "Fresh Del Monte Produce has had an impressive run over the past six months as its shares have beaten the S&P 500 by 23.9%. The stock now trades at $41.93, marking a 26.4% gain. This was partly due to its solid quarterly results, and the run-up might have investors contemplating their next move.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-fdp-1-194801238.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T19:48:01+00:00",
+      "category": "USA",
+      "simple_explanation": "Fresh Del Monte Produce has had an impressive run over the past six months as its shares have beaten the S&P 500 by 23.9%. The stock now trades at $41.93, marking a 26.4% gain. This was partly due to "
+    },
+    {
+      "title": "Key Chemicals Keep Rallying in US on Strait of Hormuz Disruption",
+      "description": "US spot petrochemical prices climbed further last week, with spot polymer-grade propylene rising to its highest in more than three years after shipping disruptions in the Strait of Hormuz.",
+      "url": "https://www.livemint.com/market/key-chemicals-keep-rallying-in-us-on-strait-of-hormuz-disruption-11776109640377.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-13T19:47:19+00:00",
+      "category": "India",
+      "simple_explanation": "US spot petrochemical prices climbed further last week, with spot polymer-grade propylene rising to its highest in more than three years after shipping disruptions in the Strait of Hormuz."
+    },
+    {
+      "title": "Fed nominee Warsh clears a hurdle to Senate hearing",
+      "description": "Kevin Warsh submitted required ethics paperwork to the Senate Monday.",
+      "url": "https://www.cnbc.com/2026/04/13/fed-chair-nominee-kevin-warsh-senate-confirmation-hearing.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-13T19:45:09+00:00",
+      "category": "USA",
+      "simple_explanation": "Kevin Warsh submitted required ethics paperwork to the Senate Monday."
+    },
+    {
+      "title": "3 Reasons to Avoid XPRO and 1 Stock to Buy Instead",
+      "description": "Expro’s 35.8% return over the past six months has outpaced the S&P 500 by 33.3%, and its stock price has climbed to $16.88 per share. This run-up might have investors contemplating their next move.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-xpro-1-194001614.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T19:40:01+00:00",
+      "category": "USA",
+      "simple_explanation": "Expro’s 35.8% return over the past six months has outpaced the S&P 500 by 33.3%, and its stock price has climbed to $16.88 per share. This run-up might have investors contemplating their next move."
+    },
+    {
+      "title": "Oil Gains as US Blocks Hormuz, Trump Says Iran Reached Out",
+      "description": "(Bloomberg) -- Oil rose after a US blockade of Iranian ports threatened to tighten global markets further, though gains were capped on signs that truce talks could still be active.Brent was up 4.4% to settle at $99.36 and West Texas Intermediate for May gained 2.6% to settle at $99.08. While conside",
+      "url": "https://finance.yahoo.com/news/oil-rallies-gas-us-blockade-232705115.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T19:34:50+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Bloomberg) -- Oil rose after a US blockade of Iranian ports threatened to tighten global markets further, though gains were capped on signs that truce talks could still be active.Brent was up 4.4% to"
+    },
+    {
+      "title": "Prolonged Iran War Could Drive Outlook Cuts at US Auto Companies in 2026 Second Half, RBC Says",
+      "description": "US automotive companies could lower outlooks in the second half of this year in case of a prolonged",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/prolonged-iran-war-could-drive-193449575.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T19:34:49+00:00",
+      "category": "Commodities",
+      "simple_explanation": "US automotive companies could lower outlooks in the second half of this year in case of a prolonged"
+    },
+    {
+      "title": "3 Reasons to Avoid OGN and 1 Stock to Buy Instead",
+      "description": "Over the last six months, Organon’s shares have sunk to $9.03, producing a disappointing 5.9% loss - a stark contrast to the S&P 500’s 2.5% gain. This may have investors wondering how to approach the situation.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-ogn-1-193201984.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T19:32:01+00:00",
+      "category": "USA",
+      "simple_explanation": "Over the last six months, Organon’s shares have sunk to $9.03, producing a disappointing 5.9% loss - a stark contrast to the S&P 500’s 2.5% gain. This may have investors wondering how to approach the "
+    },
+    {
+      "title": "Blockade Plunges Oil Market Into Fresh Round of Turmoil",
+      "description": "President Trump’s order to blockade Iranian trade through the Strait of Hormuz and Tehran’s promise to continue to choke the strait are leaving global energy markets in even deeper trouble than they were just days ago.",
+      "url": "https://finance.yahoo.com/m/bc2f4ae4-7949-38d2-9c52-2ac1ca8e8847/blockade-plunges-oil-market.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T19:27:12+00:00",
+      "category": "Commodities",
+      "simple_explanation": "President Trump’s order to blockade Iranian trade through the Strait of Hormuz and Tehran’s promise to continue to choke the strait are leaving global energy markets in even deeper trouble than they w"
+    },
+    {
+      "title": "3 Reasons Investors Love Diamondback Energy (FANG)",
+      "description": "Since April 2021, the S&P 500 has delivered a total return of 64.7%. But one standout stock has more than doubled the market - over the past five years, Diamondback Energy has surged 149% to $188.80 per share. Its momentum hasn’t stopped as it’s also gained 32.9% in the last six months thanks to its",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/3-reasons-investors-love-diamondback-192401435.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T19:24:01+00:00",
+      "category": "USA",
+      "simple_explanation": "Since April 2021, the S&P 500 has delivered a total return of 64.7%. But one standout stock has more than doubled the market - over the past five years, Diamondback Energy has surged 149% to $188.80 p"
+    },
+    {
+      "title": "Kraken won‘t negotiate after extortion attempt with client data",
+      "description": "The exchange’s head of security said there had been two incidents involving “inappropriate access” to client data, involving about 2,000 user accounts.",
+      "url": "https://cointelegraph.com/news/kraken-extortion-attempt-but-funds-never-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg3ZDctNDU1Ni03YTU0LTg2ZjEtZGJkMjNhODU4MzE3LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-13T19:23:05+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The exchange’s head of security said there had been two incidents involving “inappropriate access” to client data, involving about 2,000 user accounts."
+    },
+    {
+      "title": "Stocks edge up, oil hovers around $100 after partial blockade begins",
+      "description": "Despite start of military operations to intercept ships region, investors still expect U.S. and Iran to find an off-ramp.",
       "url": "https://www.cbsnews.com/news/oil-prices-stock-market-trump-blockade-strait-of-hormuz-iran/?ftag=YHF4eb9d17&.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-13T17:50:19+00:00",
+      "published_at": "2026-04-13T19:09:42+00:00",
       "category": "USA",
-      "simple_explanation": "Global oil prices jumped to over $100 a barrel as investors fret over Trump's partial naval blockade of the vital trade route."
+      "simple_explanation": "Despite start of military operations to intercept ships region, investors still expect U.S. and Iran to find an off-ramp."
     },
     {
-      "title": "3 Reasons to Avoid TNL and 1 Stock to Buy Instead",
-      "description": "Travel + Leisure’s 27.6% return over the past six months has outpaced the S&P 500 by 25.1%, and its stock price has climbed to $75.83 per share. This was partly due to its solid quarterly results, and the run-up might have investors contemplating their next move.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-tnl-1-174801192.html?.tsrc=rss",
+      "title": "Why Markets Are Shrugging Off Trump's Hormuz Blockade",
+      "description": "Are investors looking past the war?",
+      "url": "https://www.fool.com/investing/2026/04/13/why-markets-are-shurgging-off-trumps-hormuz-blocka/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-13T17:48:01+00:00",
-      "category": "USA",
-      "simple_explanation": "Travel + Leisure’s 27.6% return over the past six months has outpaced the S&P 500 by 25.1%, and its stock price has climbed to $75.83 per share. This was partly due to its solid quarterly results, and"
-    },
-    {
-      "title": "Hormuz Blockade Will Be Costly for Iran, One Estimate Shows",
-      "description": "According to one estimate, a U.S. blockade of the Strait of Hormuz will cost Iran approximately $435 million a day, including $276 million in lost exports, mostly of crude oil and petrochemicals.  Miad Maleki, analyst with the Foundation for Defense of Democracies research group, based his estimate ",
-      "url": "https://finance.yahoo.com/m/6a4b8dcf-453c-3b02-94ac-d8a23e3dc829/hormuz-blockade-will-be.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T17:40:33+00:00",
+      "published_at": "2026-04-13T19:04:42+00:00",
       "category": "Commodities",
-      "simple_explanation": "According to one estimate, a U.S. blockade of the Strait of Hormuz will cost Iran approximately $435 million a day, including $276 million in lost exports, mostly of crude oil and petrochemicals.  Mia"
+      "simple_explanation": "Are investors looking past the war?"
+    },
+    {
+      "title": "Oil Prices Slip Below $100 as Two Ships Turn Back From U.S. Blockade",
+      "description": "Iran has said no port in the Sea of Oman and Persian Gulf would be safe if its ports are threatened.",
+      "url": "https://finance.yahoo.com/m/5c81ab4b-f3f6-3ad4-800a-835b552bc60f/oil-prices-slip-below-%24100-as.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T19:03:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Iran has said no port in the Sea of Oman and Persian Gulf would be safe if its ports are threatened."
+    },
+    {
+      "title": "Bitcoin's struggle to build long-lasting uptrend remain: Here’s why",
+      "description": "Bitcoin’s attempts to hold rallies above the $70,000 to $75,000 range continue as ETF demand limps along, US treasury yields rise and traders take profit as BTC price hits overhead resistance.",
+      "url": "https://cointelegraph.com/news/bitcoin-s-struggle-to-build-long-lasting-uptrend-remain-here-s-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg3ODgtY2U1NC03NWIwLWJmYzUtMGVlNjRlYzQ1MjBiLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-13T19:00:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin’s attempts to hold rallies above the $70,000 to $75,000 range continue as ETF demand limps along, US treasury yields rise and traders take profit as BTC price hits overhead resistance."
+    },
+    {
+      "title": "UBP Rebuilds Gold Position After 10% Drop, Maintains $6,000 Outlook",
+      "description": "Swiss private bank raises exposure to 6% after cutting to 3%, citing balanced positioning and sustained structural demand drivers",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/ubp-rebuilds-gold-position-10-185516325.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T18:55:16+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Swiss private bank raises exposure to 6% after cutting to 3%, citing balanced positioning and sustained structural demand drivers"
+    },
+    {
+      "title": "The Most Unloved ETF in the World Is Also One of the Cheapest",
+      "description": "Gold is up nearly 50% over the past year, platinum group metals are tightening on mine supply constraints, and the world’s energy transition is creating demand for minerals that sit overwhelmingly under African soil. The one ETF that packages all of that into a single ticker, at a cost most investor",
+      "url": "https://247wallst.com/investing/2026/04/13/the-most-unloved-etf-in-the-world-is-also-one-of-the-cheapest/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T18:53:27+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold is up nearly 50% over the past year, platinum group metals are tightening on mine supply constraints, and the world’s energy transition is creating demand for minerals that sit overwhelmingly und"
+    },
+    {
+      "title": "U.S. begins blockade in Strait of Hormuz; Trump warns Iran 'attack ships' to stay away",
+      "description": "The U.S. blockade would apply to \"any and all Ships trying to enter, or leave, the Strait of Hormuz,\" President Donald Trump said.",
+      "url": "https://www.cnbc.com/2026/04/13/trump-iran-war-strait-of-hormuz-blockade.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-13T18:52:28+00:00",
+      "category": "USA",
+      "simple_explanation": "The U.S. blockade would apply to \"any and all Ships trying to enter, or leave, the Strait of Hormuz,\" President Donald Trump said."
+    },
+    {
+      "title": "Precious Metals Lose Ground as U.S. Blockade in Hormuz Gets Underway",
+      "description": "Gold and silver futures both settled lower. The U.S. naval blockade at the Strait of Hormuz is triggering a move back into energy and away from precious metals.",
+      "url": "https://finance.yahoo.com/m/d2b983d5-8bba-335c-a3a6-e400c79da5a0/precious-metals-lose-ground.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T18:48:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold and silver futures both settled lower. The U.S. naval blockade at the Strait of Hormuz is triggering a move back into energy and away from precious metals."
+    },
+    {
+      "title": "Is Caterpillar Actually An AI Stock?",
+      "description": "Caterpillar stock is breaking out. Its sales of generators have surged on the back of the AI boom and data center build out. Is it fair to consider it an AI play?",
+      "url": "https://finance.yahoo.com/m/0394851f-7d0e-3c66-84db-dc02d809ec08/is-caterpillar-actually-an-ai.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T18:38:15+00:00",
+      "category": "USA",
+      "simple_explanation": "Caterpillar stock is breaking out. Its sales of generators have surged on the back of the AI boom and data center build out. Is it fair to consider it an AI play?"
+    },
+    {
+      "title": "BlackRock raises view on U.S. stocks on belief that war is over, profits are up",
+      "description": "The firm, which manages $14 trillion for clients, said in its weekly market note that it raised the rating a notch to overweight from neutral.",
+      "url": "https://www.cnbc.com/2026/04/13/blackrock-raises-view-on-us-stocks-on-belief-that-war-is-over-profits-are-up.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-13T18:36:41+00:00",
+      "category": "USA",
+      "simple_explanation": "The firm, which manages $14 trillion for clients, said in its weekly market note that it raised the rating a notch to overweight from neutral."
+    },
+    {
+      "title": "Dormant Bitcoin wallets are the biggest quantum risk: Here is why",
+      "description": "Not all Bitcoin faces the same level of risk from quantum computing. Dormant wallets with exposed public keys could be the first targets.",
+      "url": "https://cointelegraph.com/explained/dormant-bitcoin-wallets-quantum-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg4MTQtZWNhNy03ZTc0LTkyYWMtNmNmMDI1YWExNjFkLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-13T18:30:24+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Not all Bitcoin faces the same level of risk from quantum computing. Dormant wallets with exposed public keys could be the first targets."
+    },
+    {
+      "title": "Equities Mostly Rise Intraday; Oil Prices Advance Amid Hormuz Blockade",
+      "description": "US benchmark equity indexes were mostly higher intraday, while oil prices rose as traders kept an ey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-mostly-rise-intraday-oil-182618334.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T18:26:18+00:00",
+      "category": "USA",
+      "simple_explanation": "US benchmark equity indexes were mostly higher intraday, while oil prices rose as traders kept an ey"
+    },
+    {
+      "title": "Oracle Stock Leads the S&P 500 Today After AI Announcement",
+      "description": "Oracle stock rose on Monday, leading the S&P 500, as the cloud platform provider highlighted some of its AI tools for utilities.",
+      "url": "https://finance.yahoo.com/m/5bd39b5a-7657-37af-bc38-5040a05e91fb/oracle-stock-leads-the-s%26p.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T18:23:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Oracle stock rose on Monday, leading the S&P 500, as the cloud platform provider highlighted some of its AI tools for utilities."
+    },
+    {
+      "title": "How to invest in silver in 5 steps",
+      "description": "Interested in investing in silver? Understanding available investment options, the risks, and where to buy silver is key. Here's what you need to know.",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-silver-181155954.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T18:11:55+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Interested in investing in silver? Understanding available investment options, the risks, and where to buy silver is key. Here's what you need to know."
+    },
+    {
+      "title": "Going for Gold: How IAU's Pure Play on Physical Gold Compares to SGDM's Gold Mining Focus",
+      "description": "Two gold-focused ETFs, two very different strategies. See how cost, scale, and portfolio structure set IAU and SGDM apart for investors.",
+      "url": "https://www.fool.com/coverage/etfs/2026/04/13/going-for-gold-how-iau-s-pure-play-on-physical-gold-compares-to-sgdm-s-gold-mining-focus/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T18:11:14+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Two gold-focused ETFs, two very different strategies. See how cost, scale, and portfolio structure set IAU and SGDM apart for investors."
+    },
+    {
+      "title": "Update: Gold Falls Again As Dollar Rises After U.S. and Iran Fail to Reach a Peace Deal",
+      "description": "(Updates prices.) Gold prices weakened for a second session midafternoon on Monday as the dollar",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-again-dollar-rises-180022333.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T18:00:22+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Updates prices.) Gold prices weakened for a second session midafternoon on Monday as the dollar"
+    },
+    {
+      "title": "Bitcoin shorts above $70K at risk since ‘90% of downside’ is already complete",
+      "description": "Bitcoin price data suggests BTC remains undervalued and that short positions opened above $70,000 face a high risk of liquidation.",
+      "url": "https://cointelegraph.com/news/bitcoin-shorts-above-70k-at-risk-since-90-of-downside-is-already-complete?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg3MjMtYWU1ZC03YjQzLWIzYTQtY2YzMmVjYmFmZjlmLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-13T18:00:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin price data suggests BTC remains undervalued and that short positions opened above $70,000 face a high risk of liquidation."
+    },
+    {
+      "title": "Sector Update: Energy Stocks Advance Monday Afternoon",
+      "description": "Energy stocks were higher Monday afternoon, with the NYSE Energy Sector Index rising 0.3% and the St",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-stocks-advance-monday-175518098.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T17:55:18+00:00",
+      "category": "USA",
+      "simple_explanation": "Energy stocks were higher Monday afternoon, with the NYSE Energy Sector Index rising 0.3% and the St"
     },
     {
       "title": "LIC board approves issuance of bonus equity shares in 1:1 ratio. Check details",
@@ -63,74 +323,14 @@
       "simple_explanation": "The board of LIC approved a 1:1 bonus share issuance, subject to shareholder approval. The move, aimed at rewarding its 20.90 lakh retail shareholders, will increase paid-up equity capital significant"
     },
     {
-      "title": "US Equity Indexes Rise Amid Tech Gains; Crude Oil Jumps as Hormuz Blockade Takes Effect",
-      "description": "US equity indexes were higher in Monday's midday trading amid gains in technology and financials.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-amid-173619713.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T17:36:19+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity indexes were higher in Monday's midday trading amid gains in technology and financials."
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq edge higher after Trump orders Hormuz blockade against Iran",
-      "description": "The major US gauges sank as tensions over the Strait of Hormuz revived worries about inflation and damage to the global economy.",
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-after-trump-orders-hormuz-blockade-against-iran-145712025.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T17:34:46+00:00",
-      "category": "USA",
-      "simple_explanation": "The major US gauges sank as tensions over the Strait of Hormuz revived worries about inflation and damage to the global economy."
-    },
-    {
-      "title": "Oil Tanker Firm Climbs As Strait Of Hormuz Blockade Drives Crude Prices Higher",
-      "description": "This oil tanker is rising along with the price of crude on Monday as the U.S. blocks ships in the Strait of Hormuz.",
-      "url": "https://finance.yahoo.com/m/6f36b9e2-e9b5-3cc4-bf96-a3081b5dd99b/oil-tanker-firm-climbs-as.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T17:25:51+00:00",
-      "category": "Commodities",
-      "simple_explanation": "This oil tanker is rising along with the price of crude on Monday as the U.S. blocks ships in the Strait of Hormuz."
-    },
-    {
-      "title": "Sector Update: Energy",
-      "description": "Energy stocks were higher Monday afternoon, with the NYSE Energy Sector Index rising 0.4% and the St",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-172127206.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T17:21:27+00:00",
-      "category": "USA",
-      "simple_explanation": "Energy stocks were higher Monday afternoon, with the NYSE Energy Sector Index rising 0.4% and the St"
-    },
-    {
-      "title": "Keep Calm and Carry On: This ETF Is Beating the S&P 500",
-      "description": "The Invesco S&P 500 Low Volatility ETF and similar funds are outperforming the S&P 500 as investors seek safety amid market uncertainty.",
-      "url": "https://finance.yahoo.com/m/f5b7694f-0952-3447-a93c-5fad6d4fabd2/keep-calm-and-carry-on%3A-this.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T17:19:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The Invesco S&P 500 Low Volatility ETF and similar funds are outperforming the S&P 500 as investors seek safety amid market uncertainty."
-    },
-    {
-      "title": "BlackRock raises view on U.S. stocks on belief that war is over, profits are up",
-      "description": "The firm, which manages $14 trillion for clients, said in its weekly market note that it raised the rating a notch to overweight from neutral.",
-      "url": "https://www.cnbc.com/2026/04/13/blackrock-raises-view-on-us-stocks-on-belief-that-war-is-over-profits-are-up.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-13T17:16:44+00:00",
-      "category": "USA",
-      "simple_explanation": "The firm, which manages $14 trillion for clients, said in its weekly market note that it raised the rating a notch to overweight from neutral."
-    },
-    {
-      "title": "Exchange-Traded Funds Rise, US Equities Mixed After Midday",
-      "description": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded Inve",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-rise-us-171031010.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T17:10:31+00:00",
-      "category": "USA",
-      "simple_explanation": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded Inve"
+      "title": "Jito, KODA team up on institutional staking in South Korea",
+      "description": "The collaboration aims to bring regulated custody and staking for JitoSOL to South Korea as institutions prepare for new crypto rules.",
+      "url": "https://cointelegraph.com/news/jito-koda-team-up-on-institutional-staking-in-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg3OTktMTk3Yy03YzA5LWI4NzMtMDI5YTQ4OTg4ODM2LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-13T17:26:28+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The collaboration aims to bring regulated custody and staking for JitoSOL to South Korea as institutions prepare for new crypto rules."
     },
     {
       "title": "Chevron, Shell to sign agreements for oil, gas areas in Venezuela, sources say",
@@ -141,16 +341,6 @@
       "published_at": "2026-04-13T17:09:05+00:00",
       "category": "India",
       "simple_explanation": "Chevron is set to sign agreements to return a gas field in Venezuela and expand operations in the Orinoco heavy crude belt, while Shell prepares to operate the Loran gas field. The deals reflect Venez"
-    },
-    {
-      "title": "Stock Market Today: Dow Inches Up, Home Sales Skid; Stock Clears Entry Amid Hormuz Blockade (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones fell on President Trump's latest Iran move. Software stocks and biotech shined but Goldman Sachs fell.",
-      "url": "https://finance.yahoo.com/m/67798b21-fe64-3914-8525-78ec96833a9b/stock-market-today%3A-dow.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T17:08:41+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones fell on President Trump's latest Iran move. Software stocks and biotech shined but Goldman Sachs fell."
     },
     {
       "title": "Trump deletes Truth Social image depicting him as Jesus: 'I thought it was me as a doctor'",
@@ -173,26 +363,6 @@
       "simple_explanation": "The Fellowship PAC reported spending $300,000 on advertising for a Republican running to represent Georgia's 14th Congressional District in 2026."
     },
     {
-      "title": "Stronger U.S. Dollar Presses on Gold",
-      "description": "Strength in the U.S. dollar put pressure on gold futures, with traders thinking that the current hostilities driving activity in the Strait of Hormuz is a trigger for further inflation issues in the U.S. and the rest of the world.",
-      "url": "https://finance.yahoo.com/m/d2b983d5-8bba-335c-a3a6-e400c79da5a0/stronger-u.s.-dollar-presses.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T17:01:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Strength in the U.S. dollar put pressure on gold futures, with traders thinking that the current hostilities driving activity in the Strait of Hormuz is a trigger for further inflation issues in the U"
-    },
-    {
-      "title": "Bitcoin bounces to $72.5K as markets react to US Strait of Hormuz blockade",
-      "description": "Bitcoin rallied to $72,500 as US stocks reacted to US efforts to blockade the Strait of Hormuz. Despite the rebound, BTC traders warned that a price correction remains a risk.",
-      "url": "https://cointelegraph.com/news/bitcoin-bounces-to-dollar72-5k-as-markets-react-to-us-strait-of-hormuz-blockade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg3YTEtODBhMC03YzM2LWE5NTUtMjZiNzU0MWE5ZTgzLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-13T16:47:42+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin rallied to $72,500 as US stocks reacted to US efforts to blockade the Strait of Hormuz. Despite the rebound, BTC traders warned that a price correction remains a risk."
-    },
-    {
       "title": "US airline stocks fall up to 3% as crude surges on renewed West Asia conflict; Delta, United, American trade in red",
       "description": "US airline stocks plunged on Monday as crude oil prices soared after failed peace talks between Iran and the US. Delta Air Lines shares dropped 3.2%, while other major airlines also saw declines, highlighting the aviation industry's vulnerability to rising fuel costs amid escalating tensions.",
       "url": "https://www.livemint.com/market/stock-market-news/us-airline-stocks-fall-up-to-3-as-crude-surges-on-renewed-west-asia-tensions-11776093582468.html",
@@ -201,16 +371,6 @@
       "published_at": "2026-04-13T16:44:39+00:00",
       "category": "India",
       "simple_explanation": "US airline stocks plunged on Monday as crude oil prices soared after failed peace talks between Iran and the US. Delta Air Lines shares dropped 3.2%, while other major airlines also saw declines, high"
-    },
-    {
-      "title": "Wall Street still loves streaming, but are its affections well placed?",
-      "description": "While streaming continues to drive media stocks, especially around quarterly earnings, it's not clear when it will start driving profits for smaller players.",
-      "url": "https://www.cnbc.com/2026/04/13/wall-street-streaming-focus-future.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-13T16:31:17+00:00",
-      "category": "USA",
-      "simple_explanation": "While streaming continues to drive media stocks, especially around quarterly earnings, it's not clear when it will start driving profits for smaller players."
     },
     {
       "title": "US IPO hopefuls forge ahead with listing plans amid market swings",
@@ -241,166 +401,6 @@
       "published_at": "2026-04-13T16:15:27+00:00",
       "category": "USA",
       "simple_explanation": "The U.S. chipmaker has announced recent deals with Google and Elon Musk as it continues to gain investments."
-    },
-    {
-      "title": "CoreWeave shares jump 12% on deal with Anthropic; stock surges 40% in unbeaten five-session rally",
-      "description": "CoreWeave shares surged after a multi-year deal with Anthropic to power Claude AI models, extending a five-session rally. The agreement boosts its position in AI infrastructure as demand for large-scale compute accelerates globally.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-shares-jump-12-on-deal-with-anthropic-stock-surges-40-in-unbeaten-five-session-rally/articleshow/130241485.cms",
-      "image": "https://img.etimg.com/photo/msid-130241485,imgsize-16424.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-13T16:00:44+00:00",
-      "category": "India",
-      "simple_explanation": "CoreWeave shares surged after a multi-year deal with Anthropic to power Claude AI models, extending a five-session rally. The agreement boosts its position in AI infrastructure as demand for large-sca"
-    },
-    {
-      "title": "What Makes Equinox Gold (EQX) a Strong Momentum Stock: Buy Now?",
-      "description": "Does Equinox Gold (EQX) have what it takes to be a top stock pick for momentum investors? Let's find out.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-equinox-gold-eqx-strong-160003696.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T16:00:03+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Does Equinox Gold (EQX) have what it takes to be a top stock pick for momentum investors? Let's find out."
-    },
-    {
-      "title": "U.S. begins blockade in Strait of Hormuz; Trump warns Iran 'attack ships' to stay away",
-      "description": "The U.S. blockade would apply to \"any and all Ships trying to enter, or leave, the Strait of Hormuz,\" President Donald Trump said.",
-      "url": "https://www.cnbc.com/2026/04/13/trump-iran-war-strait-of-hormuz-blockade.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-13T15:57:21+00:00",
-      "category": "USA",
-      "simple_explanation": "The U.S. blockade would apply to \"any and all Ships trying to enter, or leave, the Strait of Hormuz,\" President Donald Trump said."
-    },
-    {
-      "title": "J.P.Morgan, Morgan Stanley urge buying the dip as US earnings stay resilient",
-      "description": "Wall Street brokerages J.P. Morgan and Morgan Stanley see recent market weakness as a buying opportunity, backed by resilient earnings growth. Despite Middle East tensions, the S&P 500 has rebounded from March lows, with strategists viewing the pullback as a correction rather than a prolonged downtu",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/j-p-morgan-morgan-stanley-urge-buying-the-dip-as-us-earnings-stay-resilient/articleshow/130241179.cms",
-      "image": "https://img.etimg.com/photo/msid-130241179,imgsize-90742.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-13T15:47:44+00:00",
-      "category": "India",
-      "simple_explanation": "Wall Street brokerages J.P. Morgan and Morgan Stanley see recent market weakness as a buying opportunity, backed by resilient earnings growth. Despite Middle East tensions, the S&P 500 has rebounded f"
-    },
-    {
-      "title": "Goldman Sachs tops estimates on record equities trading — here's why the stock is falling",
-      "description": "Goldman Sachs posted record equities trading revenue for the first quarter, helping propel the overall firm to its second-highest quarterly revenue.",
-      "url": "https://www.cnbc.com/2026/04/13/goldman-sachs-gs-earnings-1q-2026.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-04-13T15:35:32+00:00",
-      "category": "Global",
-      "simple_explanation": "Goldman Sachs posted record equities trading revenue for the first quarter, helping propel the overall firm to its second-highest quarterly revenue."
-    },
-    {
-      "title": "Why Newmont Corporation Stock Dropped Today",
-      "description": "President Trump's good news for oil... isn't. And it isn't good news for gold, either.",
-      "url": "https://www.fool.com/investing/2026/04/13/why-newmont-corporation-stock-dropped-today/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T15:24:44+00:00",
-      "category": "Commodities",
-      "simple_explanation": "President Trump's good news for oil... isn't. And it isn't good news for gold, either."
-    },
-    {
-      "title": "LIC announces 1:1 bonus issue, first since listing. Check details",
-      "description": "State-owned insurer LIC's board has approved a 1:1 bonus share issue, granting one additional share for every share held on the record date. This move will be funded by capitalizing Rs 6,325 crore from reserves by December 2025 and is expected to be completed within two months of the board's approva",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lic-announces-11-bonus-issue-check-details/articleshow/130240698.cms",
-      "image": "https://img.etimg.com/photo/msid-130240698,imgsize-123232.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-13T15:16:39+00:00",
-      "category": "India",
-      "simple_explanation": "State-owned insurer LIC's board has approved a 1:1 bonus share issue, granting one additional share for every share held on the record date. This move will be funded by capitalizing Rs 6,325 crore fro"
-    },
-    {
-      "title": "FNV Set to Gain From Cobre Panama Stockpile Processing Approval",
-      "description": "Franco-Nevada gains as Panama approves Cobre Panama stockpile processing, unlocking gold and silver output from pre-suspension ore.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/fnv-set-gain-cobre-panama-151500873.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T15:15:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Franco-Nevada gains as Panama approves Cobre Panama stockpile processing, unlocking gold and silver output from pre-suspension ore."
-    },
-    {
-      "title": "Goldman sets tone for Q1 earnings season. How markets react is key.",
-      "description": "Are stocks priced to perfection? The next few weeks will reveal a lot as to where markets are headed.",
-      "url": "https://www.livemint.com/market/stock-market-news/goldman-sets-tone-for-q1-earnings-season-how-markets-react-is-key-11776092679128.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/13/1600x900/logo/GOLDMAN-EARNS-24_1776092730961_1776092739801.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-13T15:06:59+00:00",
-      "category": "India",
-      "simple_explanation": "Are stocks priced to perfection? The next few weeks will reveal a lot as to where markets are headed."
-    },
-    {
-      "title": "Goldman Sachs shares fall 5% despite 19% YoY earnings growth amid Wall Street gloom",
-      "description": "Goldman Sachs shares dropped nearly 5% despite strong Q1 results, as geopolitical tensions and market volatility weighed on sentiment. Revenue, profit, and trading performance improved year-on-year, but broader uncertainty pressured the stock.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-shares-fall-5-despite-19-yoy-earnings-growth-amid-wall-street-gloom/articleshow/130240531.cms",
-      "image": "https://img.etimg.com/photo/msid-130240531,imgsize-1723618.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-13T15:06:44+00:00",
-      "category": "India",
-      "simple_explanation": "Goldman Sachs shares dropped nearly 5% despite strong Q1 results, as geopolitical tensions and market volatility weighed on sentiment. Revenue, profit, and trading performance improved year-on-year, b"
-    },
-    {
-      "title": "Gold, silver rates today: Comex gold slips $161/oz; silver down $4/oz on renewed US-Iran tensions",
-      "description": "Precious metals experienced significant losses on 13 April due to renewed Middle East tensions following the failure of US-Iran peace talks. Gold futures fell sharply, while silver also declined.",
-      "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-slips-161-oz-silver-down-4-oz-on-renewed-us-iran-tensions-11776087805917.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/13/1600x900/logo/gold_silver_1769939448265_1769939448416_1776089910629.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-13T14:55:16+00:00",
-      "category": "India",
-      "simple_explanation": "Precious metals experienced significant losses on 13 April due to renewed Middle East tensions following the failure of US-Iran peace talks. Gold futures fell sharply, while silver also declined."
-    },
-    {
-      "title": "Patanjali Foods board to meet on April 21 to consider second interim dividend, Q4 earnings",
-      "description": "Patanjali Foods will consider a second interim dividend for FY26 on April 21, alongside March quarter results. The stock remains under pressure, trading below key averages and down sharply over the past year.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/patanjali-foods-board-to-meet-on-april-21-to-consider-second-interim-dividend-q4-earnings/articleshow/130240302.cms",
-      "image": "https://img.etimg.com/photo/msid-130240302,imgsize-1100108.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-13T14:55:09+00:00",
-      "category": "India",
-      "simple_explanation": "Patanjali Foods will consider a second interim dividend for FY26 on April 21, alongside March quarter results. The stock remains under pressure, trading below key averages and down sharply over the pa"
-    },
-    {
-      "title": "Sego Resources Intersects 100 Metres of 0.626 gpt Gold, Including 24.37 Metres of 0.958 gpt Gold",
-      "description": "Vancouver, British Columbia--(Newsfile Corp. - April 13, 2026) - Sego Resources Inc. (TSXV: SGZ) (\"Sego\" or \"the Company\") is delighted to announce results from four drill holes in the Southern Gold Zone and one hole in the Cuba Zone area of the Miner Mountain Porphyry Copper-Gold project near Princ",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/sego-resources-intersects-100-metres-142900309.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T14:29:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - April 13, 2026) - Sego Resources Inc. (TSXV: SGZ) (\"Sego\" or \"the Company\") is delighted to announce results from four drill holes in the Southern Gold Z"
-    },
-    {
-      "title": "Gold Continues To Fall As Middle East Tensions Worsen",
-      "description": "Gold’s price continues to decline as signs of a wider Middle East war and rising oil prices fuel inflation co...",
-      "url": "https://www.cryptoprowl.com/releases/gold-continues-to-fall-as-middle-east-tensions-worsen-4142?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T14:24:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold’s price continues to decline as signs of a wider Middle East war and rising oil prices fuel inflation co..."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-13T14:09:09+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-    },
-    {
-      "title": "ECB backs tokenized EU capital markets with strict guardrails",
-      "description": "The European Central Bank said tokenization could improve EU capital markets, but only with central bank money, interoperable infrastructure and resilient regulation.",
-      "url": "https://cointelegraph.com/news/ecb-tokenized-eu-markets-central-bank-money-anchor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg2ZjgtZWZlZC03ZTdkLWEwYzItY2I4NGVhNjczNjA4LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-13T14:02:17+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The European Central Bank said tokenization could improve EU capital markets, but only with central bank money, interoperable infrastructure and resilient regulation."
     }
   ]
 }
