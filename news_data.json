@@ -1,16 +1,156 @@
 {
-  "last_updated": "2026-04-13T14:50:17.087888+00:00",
+  "last_updated": "2026-04-13T16:14:09.268744+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq trim losses after Trump orders Hormuz blockade against Iran",
-      "description": "The major US gauges sank as tensions over the Strait of Hormuz revived worries about inflation and damage to the global economy.",
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trim-losses-after-trump-orders-hormuz-blockade-against-iran-142624712.html?.tsrc=rss",
+      "title": "Stock Market Today: Dow Dips But Microsoft Pops; This Stock Clears Entry Amid Hormuz Blockade (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones fell on President Trump's latest Iran move. Software stocks and biotech shined but Goldman Sachs fell.",
+      "url": "https://finance.yahoo.com/m/67798b21-fe64-3914-8525-78ec96833a9b/stock-market-today%3A-dow-dips.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-13T14:48:34+00:00",
+      "published_at": "2026-04-13T16:04:30+00:00",
       "category": "USA",
-      "simple_explanation": "The major US gauges sank as tensions over the Strait of Hormuz revived worries about inflation and damage to the global economy."
+      "simple_explanation": "Stock Market Today: The Dow Jones fell on President Trump's latest Iran move. Software stocks and biotech shined but Goldman Sachs fell."
+    },
+    {
+      "title": "CoreWeave shares jump 12% on deal with Anthropic; stock surges 40% in unbeaten five-session rally",
+      "description": "CoreWeave shares surged after a multi-year deal with Anthropic to power Claude AI models, extending a five-session rally. The agreement boosts its position in AI infrastructure as demand for large-scale compute accelerates globally.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-shares-jump-12-on-deal-with-anthropic-stock-surges-40-in-unbeaten-five-session-rally/articleshow/130241485.cms",
+      "image": "https://img.etimg.com/photo/msid-130241485,imgsize-16424.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-13T16:00:44+00:00",
+      "category": "India",
+      "simple_explanation": "CoreWeave shares surged after a multi-year deal with Anthropic to power Claude AI models, extending a five-session rally. The agreement boosts its position in AI infrastructure as demand for large-sca"
+    },
+    {
+      "title": "Salesforce, Snowflake, and Tenable Shares Skyrocket, What You Need To Know",
+      "description": "A number of stocks jumped in the morning session after investors moved to buy the dip in SaaS names that had become significantly oversold amid a fragile market rebound driven by cautious optimism surrounding U.S.-Iran ceasefire talks.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-snowflake-tenable-shares-skyrocket-160043188.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T16:00:43+00:00",
+      "category": "USA",
+      "simple_explanation": "A number of stocks jumped in the morning session after investors moved to buy the dip in SaaS names that had become significantly oversold amid a fragile market rebound driven by cautious optimism sur"
+    },
+    {
+      "title": "Stocks to Watch: Goldman, Palantir, Exxon, Carnival",
+      "description": "↘️ Goldman Sachs (GS): The Wall Street bank reported a jump in quarterly profit, thanks to more dealmaking and market volatility. Its shares were down 3.6% at midday. ↗️ Palantir Technologies (PLTR): The stock clawed back some of last week's losses, when fears that newer artificial-intelligence tech",
+      "url": "https://finance.yahoo.com/m/79a1a6a9-9e9c-3b24-9ab4-1aa71f465324/stocks-to-watch%3A-goldman%2C.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T16:00:02+00:00",
+      "category": "Commodities",
+      "simple_explanation": "↘️ Goldman Sachs (GS): The Wall Street bank reported a jump in quarterly profit, thanks to more dealmaking and market volatility. Its shares were down 3.6% at midday. ↗️ Palantir Technologies (PLTR): "
+    },
+    {
+      "title": "LVMH sales miss expectations as luxury recovery is put on pause amid Middle East war",
+      "description": "The luxury sector had shown some signs of a long-awaited recovery after a years-long slump prompted by soft demand from Chinese consumers.",
+      "url": "https://www.cnbc.com/2026/04/13/lvmh-earnings-q1-2026-sales-luxury-iran-war-middle-east.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-13T16:00:01+00:00",
+      "category": "USA",
+      "simple_explanation": "The luxury sector had shown some signs of a long-awaited recovery after a years-long slump prompted by soft demand from Chinese consumers."
+    },
+    {
+      "title": "U.S. begins blockade in Strait of Hormuz; Trump warns Iran 'attack ships' to stay away",
+      "description": "The U.S. blockade would apply to \"any and all Ships trying to enter, or leave, the Strait of Hormuz,\" President Donald Trump said.",
+      "url": "https://www.cnbc.com/2026/04/13/trump-iran-war-strait-of-hormuz-blockade.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-13T15:57:21+00:00",
+      "category": "USA",
+      "simple_explanation": "The U.S. blockade would apply to \"any and all Ships trying to enter, or leave, the Strait of Hormuz,\" President Donald Trump said."
+    },
+    {
+      "title": "J.P.Morgan, Morgan Stanley urge buying the dip as US earnings stay resilient",
+      "description": "Wall Street brokerages J.P. Morgan and Morgan Stanley see recent market weakness as a buying opportunity, backed by resilient earnings growth. Despite Middle East tensions, the S&P 500 has rebounded from March lows, with strategists viewing the pullback as a correction rather than a prolonged downtu",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/j-p-morgan-morgan-stanley-urge-buying-the-dip-as-us-earnings-stay-resilient/articleshow/130241179.cms",
+      "image": "https://img.etimg.com/photo/msid-130241179,imgsize-90742.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-13T15:47:44+00:00",
+      "category": "India",
+      "simple_explanation": "Wall Street brokerages J.P. Morgan and Morgan Stanley see recent market weakness as a buying opportunity, backed by resilient earnings growth. Despite Middle East tensions, the S&P 500 has rebounded f"
+    },
+    {
+      "title": "China and Iran Can Wait Out a Blockade",
+      "description": "Iran has built a stockpile of oil outside the Strait of Hormuz that could help it—and Chinese crude importers—withstand a blockade for weeks or even months.  Iran has been exporting more oil than usual during the war.  This puts Iran’s average exports over the last two months 26% above 2025 levels.",
+      "url": "https://finance.yahoo.com/m/0f999dd9-9d5c-33a4-aeeb-949024362928/china-and-iran-can-wait-out-a.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T15:45:52+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Iran has built a stockpile of oil outside the Strait of Hormuz that could help it—and Chinese crude importers—withstand a blockade for weeks or even months.  Iran has been exporting more oil than usua"
+    },
+    {
+      "title": "As Global Energy Markets Continue to Face Volatility, Domestic SAF Highlights a Structurally Distinct and More Resilient Supply Chain",
+      "description": "Jet fuel prices have nearly doubled in weeks as global supply routes tighten, exposing vulnerabilities in crude-based aviation fuel. Ongoing instability in global oil markets continues to underscore risks associated with petroleum‑derived aviation ...",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/global-energy-markets-continue-face-154500696.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T15:45:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Jet fuel prices have nearly doubled in weeks as global supply routes tighten, exposing vulnerabilities in crude-based aviation fuel. Ongoing instability in global oil markets continues to underscore r"
+    },
+    {
+      "title": "$100 Oil: Why Suze Orman Says Panic-Selling Now is the Ultimate Investing Mistake",
+      "description": "Crude oil prices have surged more than 50% since the U.S.-Iran war began on February 28, with WTI crude sitting at $102 per barrel as of April 13, 2026. The S&P 500 is essentially flat year-to-date, down 0.36%, and both the Dow and Nasdaq are more than 10% below their record highs. President Trump t",
+      "url": "https://247wallst.com/investing/2026/04/13/100-oil-why-suze-orman-says-panic-selling-now-is-the-ultimate-investing-mistake/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T15:43:31+00:00",
+      "category": "USA",
+      "simple_explanation": "Crude oil prices have surged more than 50% since the U.S.-Iran war began on February 28, with WTI crude sitting at $102 per barrel as of April 13, 2026. The S&P 500 is essentially flat year-to-date, d"
+    },
+    {
+      "title": "Why is S&P 500 and US Stocks Reacting Positively to Trump’s Hormuz Blockade?",
+      "description": "S&P 500 erased losses as US began Hormuz blockade. JPMorgan sees V-shaped rebound while Iran may drop enrichment.",
+      "url": "https://beincrypto.com/sp500-stock-market-rally-hormuz-blockade/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T15:43:24+00:00",
+      "category": "USA",
+      "simple_explanation": "S&P 500 erased losses as US began Hormuz blockade. JPMorgan sees V-shaped rebound while Iran may drop enrichment."
+    },
+    {
+      "title": "OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients",
+      "description": "In an internal memo, OpenAI's new revenue chief pointed to the artificial intelligence company's ongoing effort to reduce its reliance on Microsoft.",
+      "url": "https://www.cnbc.com/2026/04/13/openai-touts-amazon-alliance-in-memo-microsoft-limited-our-ability.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-13T15:40:42+00:00",
+      "category": "USA",
+      "simple_explanation": "In an internal memo, OpenAI's new revenue chief pointed to the artificial intelligence company's ongoing effort to reduce its reliance on Microsoft."
+    },
+    {
+      "title": "Top Midday Stories: Goldman Shares Fall Despite Q1 Earnings Topping Estimates; Revolution's Pancreatic Cancer Drug Met Key Study Goals",
+      "description": "The Dow Jones Industrial Average was down while the S&P 500 and Nasdaq Composite were up in late-mor",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-goldman-shares-154013839.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T15:40:13+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dow Jones Industrial Average was down while the S&P 500 and Nasdaq Composite were up in late-mor"
+    },
+    {
+      "title": "The Artificial Intelligence (AI) Trade Just Changed Forever. Here's How to Reposition Your Portfolio for the Rest of 2026.",
+      "description": "It would be a huge mistake to invest only in tech stocks.",
+      "url": "https://www.fool.com/investing/2026/04/13/the-artificial-intelligence-ai-trade-just-changed/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T15:40:00+00:00",
+      "category": "USA",
+      "simple_explanation": "It would be a huge mistake to invest only in tech stocks."
+    },
+    {
+      "title": "GE Verona, Parker-Hannifin Poised to Benefit From Improving Industrial Demand, BofA Says",
+      "description": "GE Vernova (GEV), Parker-Hannifin (PH), and Ametek (AME) are among companies expected to benefit fro",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ge-verona-parker-hannifin-poised-153845732.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T15:38:45+00:00",
+      "category": "USA",
+      "simple_explanation": "GE Vernova (GEV), Parker-Hannifin (PH), and Ametek (AME) are among companies expected to benefit fro"
     },
     {
       "title": "Middle East oil production plunges due to Iran war, OPEC data shows",
@@ -18,29 +158,119 @@
       "url": "https://www.cnbc.com/2026/04/13/iran-war-oil-opec-production-decline.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-13T14:44:34+00:00",
+      "published_at": "2026-04-13T15:35:39+00:00",
       "category": "USA",
       "simple_explanation": "The Gulf Arab states have cut production because they are unable to export through the Strait of Hormuz due to the war."
     },
     {
-      "title": "Judge dismisses Trump defamation lawsuit against Murdoch, WSJ about Epstein letter",
+      "title": "Goldman Sachs tops estimates on record equities trading — here's why the stock is falling",
+      "description": "Goldman Sachs posted record equities trading revenue for the first quarter, helping propel the overall firm to its second-highest quarterly revenue.",
+      "url": "https://www.cnbc.com/2026/04/13/goldman-sachs-gs-earnings-1q-2026.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-04-13T15:35:32+00:00",
+      "category": "Global",
+      "simple_explanation": "Goldman Sachs posted record equities trading revenue for the first quarter, helping propel the overall firm to its second-highest quarterly revenue."
+    },
+    {
+      "title": "Trump Signals Hormuz Blockade As S&P 500 Jumps 3.5%, Oil Drops 13.4%",
+      "description": "Failed US-Iran talks threaten oil flows, reversing ceasefire-driven gains across equities, crypto, and commodities",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/trump-signals-hormuz-blockade-p-152821134.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T15:28:21+00:00",
+      "category": "USA",
+      "simple_explanation": "Failed US-Iran talks threaten oil flows, reversing ceasefire-driven gains across equities, crypto, and commodities"
+    },
+    {
+      "title": "Best Buy Stock Gets Double Downgrade to Sell. Why Goldman Says Sell.",
+      "description": "Best Buy stock was downgraded to Sell by Goldman Sachs, which warns that rising memory costs could pressure margins and weaken demand for PCs.",
+      "url": "https://finance.yahoo.com/m/360481dc-f98a-3e60-9a30-e483067f81ee/best-buy-stock-gets-double.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T15:26:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Best Buy stock was downgraded to Sell by Goldman Sachs, which warns that rising memory costs could pressure margins and weaken demand for PCs."
+    },
+    {
+      "title": "Why Newmont Corporation Stock Dropped Today",
+      "description": "President Trump's good news for oil... isn't. And it isn't good news for gold, either.",
+      "url": "https://www.fool.com/investing/2026/04/13/why-newmont-corporation-stock-dropped-today/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-13T15:24:44+00:00",
+      "category": "Commodities",
+      "simple_explanation": "President Trump's good news for oil... isn't. And it isn't good news for gold, either."
+    },
+    {
+      "title": "LIC announces 1:1 bonus issue, first since listing. Check details",
+      "description": "State-owned insurer LIC's board has approved a 1:1 bonus share issue, granting one additional share for every share held on the record date. This move will be funded by capitalizing Rs 6,325 crore from reserves by December 2025 and is expected to be completed within two months of the board's approva",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lic-announces-11-bonus-issue-check-details/articleshow/130240698.cms",
+      "image": "https://img.etimg.com/photo/msid-130240698,imgsize-123232.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-13T15:16:39+00:00",
+      "category": "India",
+      "simple_explanation": "State-owned insurer LIC's board has approved a 1:1 bonus share issue, granting one additional share for every share held on the record date. This move will be funded by capitalizing Rs 6,325 crore fro"
+    },
+    {
+      "title": "Judge dismisses Trump $10B defamation lawsuit against Murdoch, WSJ about Epstein letter",
       "description": "President Donald Trump has denied sending a bawdy 50th birthday letter to his then-friend Jeffrey Epstein at the request of Ghislaine Maxwell.",
       "url": "https://www.cnbc.com/2026/04/13/trump-epstein-murdoch-wsj-lawsuit-dismissed.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-13T14:43:34+00:00",
+      "published_at": "2026-04-13T15:07:32+00:00",
       "category": "USA",
       "simple_explanation": "President Donald Trump has denied sending a bawdy 50th birthday letter to his then-friend Jeffrey Epstein at the request of Ghislaine Maxwell."
     },
     {
-      "title": "$100 is the new $60 for oil prices: Expert on impacts of US blockade",
-      "description": "Oil prices (CL=F, BZ=F) have surged back above $100 per barrel after the reported collapse in US-Iran negotiations over the weekend, prompting President Trump to order a US blockade of the Strait of Hormuz. ClearView Energy Partners, LLC co-founder and director of research Kevin Book examines the cu",
-      "url": "https://finance.yahoo.com/video/100-is-the-new-60-for-oil-prices-expert-on-impacts-of-us-blockade-143703295.html?.tsrc=rss",
+      "title": "Goldman sets tone for Q1 earnings season. How markets react is key.",
+      "description": "Are stocks priced to perfection? The next few weeks will reveal a lot as to where markets are headed.",
+      "url": "https://www.livemint.com/market/stock-market-news/goldman-sets-tone-for-q1-earnings-season-how-markets-react-is-key-11776092679128.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/13/1600x900/logo/GOLDMAN-EARNS-24_1776092730961_1776092739801.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-13T15:06:59+00:00",
+      "category": "India",
+      "simple_explanation": "Are stocks priced to perfection? The next few weeks will reveal a lot as to where markets are headed."
+    },
+    {
+      "title": "Goldman Sachs shares fall 5% despite 19% YoY earnings growth amid Wall Street gloom",
+      "description": "Goldman Sachs shares dropped nearly 5% despite strong Q1 results, as geopolitical tensions and market volatility weighed on sentiment. Revenue, profit, and trading performance improved year-on-year, but broader uncertainty pressured the stock.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-shares-fall-5-despite-19-yoy-earnings-growth-amid-wall-street-gloom/articleshow/130240531.cms",
+      "image": "https://img.etimg.com/photo/msid-130240531,imgsize-1723618.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-13T15:06:44+00:00",
+      "category": "India",
+      "simple_explanation": "Goldman Sachs shares dropped nearly 5% despite strong Q1 results, as geopolitical tensions and market volatility weighed on sentiment. Revenue, profit, and trading performance improved year-on-year, b"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq mixed after Trump orders Hormuz blockade against Iran",
+      "description": "The major US gauges sank as tensions over the Strait of Hormuz revived worries about inflation and damage to the global economy.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-after-trump-orders-hormuz-blockade-against-iran-145712025.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-13T14:37:03+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil prices (CL=F, BZ=F) have surged back above $100 per barrel after the reported collapse in US-Iran negotiations over the weekend, prompting President Trump to order a US blockade of the Strait of H"
+      "published_at": "2026-04-13T14:57:12+00:00",
+      "category": "USA",
+      "simple_explanation": "The major US gauges sank as tensions over the Strait of Hormuz revived worries about inflation and damage to the global economy."
+    },
+    {
+      "title": "Gold, silver rates today: Comex gold slips $161/oz; silver down $4/oz on renewed US-Iran tensions",
+      "description": "Precious metals experienced significant losses on 13 April due to renewed Middle East tensions following the failure of US-Iran peace talks. Gold futures fell sharply, while silver also declined.",
+      "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-slips-161-oz-silver-down-4-oz-on-renewed-us-iran-tensions-11776087805917.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/13/1600x900/logo/gold_silver_1769939448265_1769939448416_1776089910629.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-13T14:55:16+00:00",
+      "category": "India",
+      "simple_explanation": "Precious metals experienced significant losses on 13 April due to renewed Middle East tensions following the failure of US-Iran peace talks. Gold futures fell sharply, while silver also declined."
+    },
+    {
+      "title": "Patanjali Foods board to meet on April 21 to consider second interim dividend, Q4 earnings",
+      "description": "Patanjali Foods will consider a second interim dividend for FY26 on April 21, alongside March quarter results. The stock remains under pressure, trading below key averages and down sharply over the past year.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/patanjali-foods-board-to-meet-on-april-21-to-consider-second-interim-dividend-q4-earnings/articleshow/130240302.cms",
+      "image": "https://img.etimg.com/photo/msid-130240302,imgsize-1100108.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-13T14:55:09+00:00",
+      "category": "India",
+      "simple_explanation": "Patanjali Foods will consider a second interim dividend for FY26 on April 21, alongside March quarter results. The stock remains under pressure, trading below key averages and down sharply over the pa"
     },
     {
       "title": "U.S. stocks dip, oil prices rise amid Trump's blockade plan",
@@ -53,46 +283,6 @@
       "simple_explanation": "Global oil prices jumped over $100 a barrel as investors fret over Trump's threat to launch a partial naval blockade of the vital trade route."
     },
     {
-      "title": "2028 Shockwave? Why 75 Years of American Prosperity Could Be About to Hit a Brick Wall.",
-      "description": "Learn how the emergence of a dystopian digital landscape could lead to big trouble on Wall Street.",
-      "url": "https://www.fool.com/investing/2026/04/13/2028-shockwave-why-75-years-of-american-prosperity/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T14:36:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Learn how the emergence of a dystopian digital landscape could lead to big trouble on Wall Street."
-    },
-    {
-      "title": "The Case for and Against Buying Ford Right Now",
-      "description": "Investors are paying attention to the Detroit automaker that has long been an industry heavyweight.",
-      "url": "https://www.fool.com/investing/2026/04/13/the-case-for-and-against-buying-ford-right-now/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T14:35:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Investors are paying attention to the Detroit automaker that has long been an industry heavyweight."
-    },
-    {
-      "title": "Mar Vista U.S. Quality Strategy Exited Veralto Corporation (VLTO) for More Compelling Opportunities",
-      "description": "Mar Vista Investment Partners, LLC, an investment management company, released its “Mar Vista U.S. Quality Strategy” first-quarter 2026 investor letter. A copy of the letter can be downloaded here. U.S. equities entered 2026 with sustained momentum, despite market leadership evolving significantly o",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mar-vista-u-quality-strategy-143219322.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T14:32:19+00:00",
-      "category": "USA",
-      "simple_explanation": "Mar Vista Investment Partners, LLC, an investment management company, released its “Mar Vista U.S. Quality Strategy” first-quarter 2026 investor letter. A copy of the letter can be downloaded here. U."
-    },
-    {
-      "title": "Goldman Sachs tops estimates on record equities trading — here's why the stock is falling",
-      "description": "Goldman Sachs posted record equities trading revenue for the first quarter, helping propel the overall firm to its second-highest quarterly revenue.",
-      "url": "https://www.cnbc.com/2026/04/13/goldman-sachs-gs-earnings-1q-2026.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-13T14:30:28+00:00",
-      "category": "USA",
-      "simple_explanation": "Goldman Sachs posted record equities trading revenue for the first quarter, helping propel the overall firm to its second-highest quarterly revenue."
-    },
-    {
       "title": "Sego Resources Intersects 100 Metres of 0.626 gpt Gold, Including 24.37 Metres of 0.958 gpt Gold",
       "description": "Vancouver, British Columbia--(Newsfile Corp. - April 13, 2026) - Sego Resources Inc. (TSXV: SGZ) (\"Sego\" or \"the Company\") is delighted to announce results from four drill holes in the Southern Gold Zone and one hole in the Cuba Zone area of the Miner Mountain Porphyry Copper-Gold project near Princ",
       "url": "https://finance.yahoo.com/markets/commodities/articles/sego-resources-intersects-100-metres-142900309.html?.tsrc=rss",
@@ -101,26 +291,6 @@
       "published_at": "2026-04-13T14:29:00+00:00",
       "category": "Commodities",
       "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - April 13, 2026) - Sego Resources Inc. (TSXV: SGZ) (\"Sego\" or \"the Company\") is delighted to announce results from four drill holes in the Southern Gold Z"
-    },
-    {
-      "title": "Update: Meta Urged by Philippines to Curb False Content, Warned of Legal Measures",
-      "description": "(Updates throughout with official statement from the Philippine government.) Meta Platforms (META",
-      "url": "https://finance.yahoo.com/economy/policy/articles/meta-urged-philippines-curb-false-142506437.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T14:25:06+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Updates throughout with official statement from the Philippine government.) Meta Platforms (META"
-    },
-    {
-      "title": "OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients",
-      "description": "In an internal memo, OpenAI's new revenue chief pointed to the artificial intelligence company's ongoing effort to reduce its reliance on Microsoft.",
-      "url": "https://www.cnbc.com/2026/04/13/openai-touts-amazon-alliance-in-memo-microsoft-limited-our-ability.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-13T14:24:20+00:00",
-      "category": "USA",
-      "simple_explanation": "In an internal memo, OpenAI's new revenue chief pointed to the artificial intelligence company's ongoing effort to reduce its reliance on Microsoft."
     },
     {
       "title": "Gold Continues To Fall As Middle East Tensions Worsen",
@@ -143,16 +313,6 @@
       "simple_explanation": "(Bloomberg) -- Gold edged down amid mounting inflation concerns after President Donald Trump’s order to blockade the Strait of Hormuz deepened a global energy-supply shock.Bullion fell as much as 2.2%"
     },
     {
-      "title": "Stock Market Today: Dow Dips On Trump Iran Move; These Biotech, Software Stocks Shine (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index dropped on President Trump's plan to blockade the Strait of Hormuz. Oil prices surged.",
-      "url": "https://finance.yahoo.com/m/67798b21-fe64-3914-8525-78ec96833a9b/stock-market-today%3A-dow-dips.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T14:21:36+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index dropped on President Trump's plan to blockade the Strait of Hormuz. Oil prices surged."
-    },
-    {
       "title": "Revolution Medicines says its potential breakthrough pancreatic cancer drug succeeds in late-stage trial",
       "description": "Revolution Medicines' drug for pancreatic cancer succeeded in a highly anticipated Phase 3 trial, the company said.",
       "url": "https://www.cnbc.com/2026/04/13/pancreatic-cancer-drug-daraxonrasib-from-revolution-medicines-succeeds-in-trial.html",
@@ -161,16 +321,6 @@
       "published_at": "2026-04-13T14:17:42+00:00",
       "category": "USA",
       "simple_explanation": "Revolution Medicines' drug for pancreatic cancer succeeded in a highly anticipated Phase 3 trial, the company said."
-    },
-    {
-      "title": "U.S. begins blockade of Strait of Hormuz",
-      "description": "The U.S. blockade would apply to \"any and all Ships trying to enter, or leave, the Strait of Hormuz,\" President Donald Trump said.",
-      "url": "https://www.cnbc.com/2026/04/13/trump-iran-war-strait-of-hormuz-blockade.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-13T14:13:16+00:00",
-      "category": "USA",
-      "simple_explanation": "The U.S. blockade would apply to \"any and all Ships trying to enter, or leave, the Strait of Hormuz,\" President Donald Trump said."
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -223,16 +373,6 @@
       "simple_explanation": "Bernstein says Bitcoin’s selloff already reflects quantum risk and that developers still have time to agree on a post-quantum upgrade path."
     },
     {
-      "title": "Versamet finalises Eskay Creek gold stream acquisition",
-      "description": "The transaction was completed with fund entities managed by Orion Resource Partners and affiliates of Blackstone.",
-      "url": "https://www.mining-technology.com/news/versamet-eskay-creek-gold-stream-acquisition/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T13:43:51+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The transaction was completed with fund entities managed by Orion Resource Partners and affiliates of Blackstone."
-    },
-    {
       "title": "Strategy's Bitcoin Stockpile Nears BlackRock's ETF Holdings After $1 Billion BTC Buy",
       "description": "Following its latest Bitcoin purchase, Strategy only needs 9,000 BTC at present to surpass BlackRock’s industry-leading investment vehicle.",
       "url": "https://decrypt.co/364114/strategy-bitcoin-stockpile-nears-blackrocks-etf-holdings-1-billion-buy?.tsrc=rss",
@@ -243,7 +383,7 @@
       "simple_explanation": "Following its latest Bitcoin purchase, Strategy only needs 9,000 BTC at present to surpass BlackRock’s industry-leading investment vehicle."
     },
     {
-      "title": "US stocks today: Dow falls over 300 points at open as failed US-Iran talks unsettle investors",
+      "title": "US stocks today: Dow falls over 300 points as failed US-Iran talks unsettle investors",
       "description": "Wall Street slipped as failed US-Iran talks and a US naval blockade on Iranian ports revived geopolitical risks, denting market sentiment. Rising oil prices and inflation concerns added pressure, while Goldman Sachs shares fell despite earnings. Investors turned cautious, with volatility rising and ",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-subdued-at-open-as-failed-us-iran-talks-unsettle-investors/articleshow/130238638.cms",
       "image": "https://img.etimg.com/photo/msid-130238638,imgsize-90500.cms",
@@ -251,16 +391,6 @@
       "published_at": "2026-04-13T13:38:58+00:00",
       "category": "India",
       "simple_explanation": "Wall Street slipped as failed US-Iran talks and a US naval blockade on Iranian ports revived geopolitical risks, denting market sentiment. Rising oil prices and inflation concerns added pressure, whil"
-    },
-    {
-      "title": "The Dow Falls 300 Points on U.S. Blockade Threats. Don't Sleep on Earnings Season.",
-      "description": "Stocks slipped at the open on Monday after the U.S.-Iran peace talks over the weekend ended with President Trump threatening to blockade Iranian ports.  The S&P 500 was down 0.3%.  Talks between U.S. negotiators led by Vice President J.D. Vance and Iranian officials in Pakistan ended without a deal.",
-      "url": "https://finance.yahoo.com/m/64ec58f7-954f-3167-8263-9a346c7c9253/the-dow-falls-300-points-on.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T13:33:35+00:00",
-      "category": "USA",
-      "simple_explanation": "Stocks slipped at the open on Monday after the U.S.-Iran peace talks over the weekend ended with President Trump threatening to blockade Iranian ports.  The S&P 500 was down 0.3%.  Talks between U.S. "
     },
     {
       "title": "Om Power Transmission IPO: Issue subscribed 3.3x on Day 03; NII portion sees strong demand, GMP signals flat listing",
@@ -271,136 +401,6 @@
       "published_at": "2026-04-13T13:24:43+00:00",
       "category": "India",
       "simple_explanation": "Om Power Transmission's IPO saw strong investor interest, with a subscription rate of 3.3 times. The issue, priced between  ₹166-175 per share, attracted bids for 1.99 crore shares. The company plans "
-    },
-    {
-      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Trump Prepares to Block Strait of Hormuz",
-      "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.7% and the actively tr",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131230625.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T13:12:30+00:00",
-      "category": "USA",
-      "simple_explanation": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.7% and the actively tr"
-    },
-    {
-      "title": "ICICI Pru AMC Q4 results: Profit rises 10% YoY to Rs 763 cr; co declares Rs 12.4 dividend",
-      "description": "ICICI Prudential Asset Management Company reported 10% YoY Q4 profit growth to Rs 763 crore, driven by higher revenue and improved operating leverage. Annual earnings rose strongly, though sequential profit declined due to lower income despite controlled expenses.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-pru-amc-q4-results-profit-rises-10-yoy-to-rs-763-cr-co-declares-rs-12-4-dividend/articleshow/130237894.cms",
-      "image": "https://img.etimg.com/photo/msid-130237894,imgsize-16014.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-13T13:05:45+00:00",
-      "category": "India",
-      "simple_explanation": "ICICI Prudential Asset Management Company reported 10% YoY Q4 profit growth to Rs 763 crore, driven by higher revenue and improved operating leverage. Annual earnings rose strongly, though sequential "
-    },
-    {
-      "title": "Strategy buys 13,927 Bitcoin for $1B, holdings near 800,000 BTC",
-      "description": "Michael Saylor’s Strategy acquired 13,927 Bitcoin for $1 billion last week, funding the purchase through STRC share sales, lifting the company’s holdings to 780,897 BTC.",
-      "url": "https://cointelegraph.com/news/strategy-buys-13-927-bitcoin-1b-holdings-780-897-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg2YzgtYTdhNC03ZTkwLWJiMzctYjllYmUwN2I1MTIwLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-13T13:00:53+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Michael Saylor’s Strategy acquired 13,927 Bitcoin for $1 billion last week, funding the purchase through STRC share sales, lifting the company’s holdings to 780,897 BTC."
-    },
-    {
-      "title": "US stock market: Dow Jones futures drop 1% in after Trump’s Strait of Hormuz blockade warning",
-      "description": "US stock futures indicate a gap-down start as oil prices rise following military preparations to blockade Iranian ports. Key indices are down 0.5%-1%. Tensions escalate after failed US-Iran peace talks, with Trump warning of a blockade and potential retaliation from Iran.",
-      "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-dow-jones-dips-1-in-pre-open-session-after-trumps-blockade-of-the-strait-of-hormuz-11776079817946.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/13/1600x900/logo/im-70173394_1763985670730_1776082742189.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-13T12:48:58+00:00",
-      "category": "India",
-      "simple_explanation": "US stock futures indicate a gap-down start as oil prices rise following military preparations to blockade Iranian ports. Key indices are down 0.5%-1%. Tensions escalate after failed US-Iran peace talk"
-    },
-    {
-      "title": "MCX India among 4 midcap stocks that hit 52-week high; rally up to 17% in a month",
-      "description": "Four BSE 150 Midcap Index stocks, including MCX India, hit 52-week highs even as the broader market fell, with gains of up to 17% in a month, signalling strong momentum in select midcap counters.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-india-among-4-midcap-stocks-that-hit-52-week-high-rally-up-to-17-in-a-month/slideshow/130237291.cms",
-      "image": "https://img.etimg.com/photo/msid-130237188,imgsize-162268.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-13T12:36:47+00:00",
-      "category": "India",
-      "simple_explanation": "Four BSE 150 Midcap Index stocks, including MCX India, hit 52-week highs even as the broader market fell, with gains of up to 17% in a month, signalling strong momentum in select midcap counters."
-    },
-    {
-      "title": "India bonds trim losses as soft CPI spurs value buying",
-      "description": "Indian government bonds trimmed ​most of their losses ​on Monday, as softer-than-expected inflation data drew in ​late-session buyers, tempering concerns over price pressures following oil's surge after the collapse of the U.S.-Iran peace talks.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-trim-losses-as-soft-cpi-spurs-value-buying/articleshow/130237111.cms",
-      "image": "https://img.etimg.com/photo/msid-130237111,imgsize-87352.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-13T12:35:11+00:00",
-      "category": "India",
-      "simple_explanation": "Indian government bonds trimmed ​most of their losses ​on Monday, as softer-than-expected inflation data drew in ​late-session buyers, tempering concerns over price pressures following oil's surge aft"
-    },
-    {
-      "title": "StarkWare cuts staff in push toward revenue-generating products",
-      "description": "StarkWare CEO Eli Ben-Sasson said the company will split into two units as it adopts a faster and leaner “startup mode.”",
-      "url": "https://cointelegraph.com/news/starkware-cuts-jobs-restructures-revenue-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg2OGYtYWQ0NC03YzYxLThlZmEtZjgyZGJlYzY1Y2Y0LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-13T12:21:50+00:00",
-      "category": "Crypto",
-      "simple_explanation": "StarkWare CEO Eli Ben-Sasson said the company will split into two units as it adopts a faster and leaner “startup mode.”"
-    },
-    {
-      "title": "Quote of the day by Carl Icahn: \"In takeovers, the metaphor is war. The secret is reserves. You must have reserves stretched way out ahead.\"",
-      "description": "Carl Icahn's \"war chest\" analogy highlights that sustained success in investing, particularly in takeovers, hinges on having ample \"reserves.\" This principle extends to broader market investing, where liquidity and psychological resilience are crucial for navigating volatility and capitalizing on op",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-carl-icahn-in-takeovers-the-metaphor-is-war-the-secret-is-reserves-you-must-have-reserves-stretched-way-out-ahead-/articleshow/130236625.cms",
-      "image": "https://img.etimg.com/photo/msid-130236625,imgsize-204984.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-13T12:21:01+00:00",
-      "category": "India",
-      "simple_explanation": "Carl Icahn's \"war chest\" analogy highlights that sustained success in investing, particularly in takeovers, hinges on having ample \"reserves.\" This principle extends to broader market investing, where"
-    },
-    {
-      "title": "US Stock Market Today | Dow Jones | Nasdaq Live: Dow falls over 300 points at open as failed US-Iran talks unsettle investors; oil prices surge",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-war-israel-ceasefire-talks-fail-ports-barricade-brent-crude-oil-stock-price-news/liveblog/130236460.cms",
-      "image": "https://img.etimg.com/photo/msid-130236460,imgsize-2373412.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-13T12:12:41+00:00",
-      "category": "India",
-      "simple_explanation": ""
-    },
-    {
-      "title": "Nigel Farage-backed Stack BTC adds $2.7M in Bitcoin to treasury",
-      "description": "Nigel Farage-backed Stack BTC bought $2.7 million of Bitcoin, deepening the Reform UK leader’s crypto ties as the UK moves to curb crypto donations.",
-      "url": "https://cointelegraph.com/news/nigel-farage-backed-stack-btc-acquires-2-7m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg2NjEtNTBkYi03YThkLWE2OWItNjRiNGM5NjhlZGE2LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-13T12:09:54+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Nigel Farage-backed Stack BTC bought $2.7 million of Bitcoin, deepening the Reform UK leader’s crypto ties as the UK moves to curb crypto donations."
-    },
-    {
-      "title": "GIFT wrapped: The unexpected second purpose of Gujarat's financial hub",
-      "description": "A gleaming but barely-noticed financial district in Gujarat is quietly becoming the most convenient gateway for ordinary Indians who want a slice of the world's biggest companies. But can it deliver?",
-      "url": "https://www.livemint.com/market/gift-city-international-investments-lrs-nifty-11776076566568.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/13/1600x900/logo/Digital_lead__1776080129703_1776080135089_1776080210296.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-04-13T11:53:17+00:00",
-      "category": "India",
-      "simple_explanation": "A gleaming but barely-noticed financial district in Gujarat is quietly becoming the most convenient gateway for ordinary Indians who want a slice of the world's biggest companies. But can it deliver?"
-    },
-    {
-      "title": "Gainers & Losers: Ather Energy and Jyoti CNC among 7 big movers on Monday",
-      "description": "For more such web stories click on the ET icon below",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-ather-energy-and-jyoti-cnc-among-7-big-movers-on-monday/slideshow/130235776.cms",
-      "image": "https://img.etimg.com/photo/msid-130235776,imgsize-922726.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-13T11:51:15+00:00",
-      "category": "India",
-      "simple_explanation": "For more such web stories click on the ET icon below"
-    },
-    {
-      "title": "Bitcoin and ethereum price today, Monday, April 13, 2026: Prices under pressure after U.S.-Iran peace talks fail",
-      "description": "​​Bitcoin opened at  $70,741.30 on Monday, while ethereum opened at $2,191.66. Both cryptos were down more than 3% since the prior day’s open.",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-13-2026-prices-under-pressure-after-us-iran-peace-talks-fail-113342218.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-13T11:33:42+00:00",
-      "category": "Crypto",
-      "simple_explanation": "​​Bitcoin opened at  $70,741.30 on Monday, while ethereum opened at $2,191.66. Both cryptos were down more than 3% since the prior day’s open."
     }
   ]
 }
