@@ -1,26 +1,106 @@
 {
-  "last_updated": "2026-04-14T21:53:44.166735+00:00",
+  "last_updated": "2026-04-14T22:47:20.801136+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "NAACP sues Elon Musk's xAI over Memphis data center air pollution",
-      "description": "Elopn Musk, who is the world's richest person, has been counting on the greater Memphis area to serve as the backbone for xAI's buildout.",
-      "url": "https://www.cnbc.com/2026/04/14/elon-musk-xai-memphis-data-centers.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-14T21:51:36+00:00",
-      "category": "USA",
-      "simple_explanation": "Elopn Musk, who is the world's richest person, has been counting on the greater Memphis area to serve as the backbone for xAI's buildout."
-    },
-    {
-      "title": "Meta commits to one gigawatt of custom chips with Broadcom as Hock Tan agrees to leave board",
-      "description": "Meta commits to deploying 1 GW of custom in-house MTIA chips co-designed with Broadcom in sweeping new multiyear deal announced Tuesday",
+      "title": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan agrees to leave board",
+      "description": "Meta commits to deploying 1 GW of custom in-house MTIA chips codesigned with Broadcom in sweeping new multiyear deal announced Tuesday",
       "url": "https://www.cnbc.com/2026/04/14/meta-commits-to-one-gigawatt-of-custom-chips-with-broadcom-as-hock-tan-agrees-to-leave-board.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-14T21:50:13+00:00",
+      "published_at": "2026-04-14T22:32:20+00:00",
       "category": "USA",
-      "simple_explanation": "Meta commits to deploying 1 GW of custom in-house MTIA chips co-designed with Broadcom in sweeping new multiyear deal announced Tuesday"
+      "simple_explanation": "Meta commits to deploying 1 GW of custom in-house MTIA chips codesigned with Broadcom in sweeping new multiyear deal announced Tuesday"
+    },
+    {
+      "title": "Why Transocean (RIG) Shares Are Getting Obliterated Today",
+      "description": "Shares of offshore drilling contractor Transocean (NYSE:RIG) fell 6.6% in the afternoon session after renewed hopes for a U.S.-Iran ceasefire triggered a massive \"relief rally\" in broader markets, prompting investors to rotate out of energy hedges.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-transocean-rig-shares-getting-223003864.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-14T22:30:03+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Shares of offshore drilling contractor Transocean (NYSE:RIG) fell 6.6% in the afternoon session after renewed hopes for a U.S.-Iran ceasefire triggered a massive \"relief rally\" in broader markets, pro"
+    },
+    {
+      "title": "Why Nabors Industries (NBR) Shares Are Sliding Today",
+      "description": "Shares of drilling services company Nabors Industries (NYSE:NBR) fell 5.7% in the afternoon session after renewed hopes for a U.S.-Iran ceasefire triggered a massive \"relief rally\" in broader markets, prompting investors to rotate out of energy hedges.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nabors-industries-nbr-shares-222203397.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-14T22:22:03+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Shares of drilling services company Nabors Industries (NYSE:NBR) fell 5.7% in the afternoon session after renewed hopes for a U.S.-Iran ceasefire triggered a massive \"relief rally\" in broader markets,"
+    },
+    {
+      "title": "Chevron says Venezuelan oil imports are helping curb U.S. gas prices",
+      "description": "Venezuelan oil shipped to the U.S. is providing relief from higher prices caused by the Iran war, according to a senior Chevron executive.",
+      "url": "https://www.cbsnews.com/news/chevron-refinery-venezuelan-oil/?ftag=YHF4eb9d17&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-14T22:20:28+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Venezuelan oil shipped to the U.S. is providing relief from higher prices caused by the Iran war, according to a senior Chevron executive."
+    },
+    {
+      "title": "Wall Street rallies on renewed hopes for US-Iran talks, earnings boost",
+      "description": "STORY: Wall Street's main indexes rallied on Tuesday, with the Dow gaining two-thirds of a percent, the S&P 500 adding more than 1% and the Nasdaq climbing nearly 2%.:: FilePresident Donald Trump told the New York Post that talks to end the Iran war could resume over the next two days, boosting inve",
+      "url": "https://finance.yahoo.com/video/wall-street-rallies-renewed-hopes-221824061.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-14T22:18:24+00:00",
+      "category": "USA",
+      "simple_explanation": "STORY: Wall Street's main indexes rallied on Tuesday, with the Dow gaining two-thirds of a percent, the S&P 500 adding more than 1% and the Nasdaq climbing nearly 2%.:: FilePresident Donald Trump told"
+    },
+    {
+      "title": "Dow Jones Futures: Nasdaq Win Streak Hits 10 Days As Nvidia, Google Flash Buy Signals; What To Do Now",
+      "description": "The stock market rally powers higher with the Nasdaq and Nvidia up for 10 days. Here's what to do now. ASML, Bank of America earnings are on tap.",
+      "url": "https://finance.yahoo.com/m/eca7c0e2-0be2-3fcd-82d4-5949478b56f5/dow-jones-futures%3A-nasdaq-win.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-14T22:16:33+00:00",
+      "category": "USA",
+      "simple_explanation": "The stock market rally powers higher with the Nasdaq and Nvidia up for 10 days. Here's what to do now. ASML, Bank of America earnings are on tap."
+    },
+    {
+      "title": "Altman arson suspect Moreno-Gama suffered 'acute mental health crisis,' lawyer says",
+      "description": "Daniel Moreno-Gama allegedly threw a lit Molotov cocktail at the driveway gate of OpenAI CEO Sam Altman's home.",
+      "url": "https://www.cnbc.com/2026/04/14/sam-altman-openai-molotov-attack-arraignment.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-14T22:09:03+00:00",
+      "category": "USA",
+      "simple_explanation": "Daniel Moreno-Gama allegedly threw a lit Molotov cocktail at the driveway gate of OpenAI CEO Sam Altman's home."
+    },
+    {
+      "title": "A Look At Orla Mining’s Valuation After Recent Share Price Momentum And Growth Expectations",
+      "description": "What Recent Returns Say About Orla Mining Orla Mining (TSX:OLA) has drawn attention after a recent share price move, with the stock showing a 1.8% decline over the past day, alongside gains over the past week, month, and past 3 months. See our latest analysis for Orla Mining. That 1.8% one day share",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/look-orla-mining-valuation-recent-220354671.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-14T22:03:54+00:00",
+      "category": "Commodities",
+      "simple_explanation": "What Recent Returns Say About Orla Mining Orla Mining (TSX:OLA) has drawn attention after a recent share price move, with the stock showing a 1.8% decline over the past day, alongside gains over the p"
+    },
+    {
+      "title": "Why HighPeak Energy (HPK) Shares Are Getting Obliterated Today",
+      "description": "Shares of oil and gas producer HighPeak Energy (NASDAQ:HPK) fell 6.3% in the afternoon session after renewed hopes for a U.S.-Iran ceasefire triggered a massive \"relief rally\" in broader markets, prompting investors to rotate out of energy hedges.",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/why-highpeak-energy-hpk-shares-215803859.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-14T21:58:03+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Shares of oil and gas producer HighPeak Energy (NASDAQ:HPK) fell 6.3% in the afternoon session after renewed hopes for a U.S.-Iran ceasefire triggered a massive \"relief rally\" in broader markets, prom"
+    },
+    {
+      "title": "Why New Fortress Energy (NFE) Shares Are Plunging Today",
+      "description": "Shares of LNG infrastructure company New Fortress Energy (NASDAQ:NFE) fell 5.5% in the afternoon session after renewed hopes for a U.S.-Iran ceasefire triggered a massive \"relief rally\" in broader markets, prompting investors to rotate out of energy hedges.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-fortress-energy-nfe-shares-215003105.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-14T21:50:03+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Shares of LNG infrastructure company New Fortress Energy (NASDAQ:NFE) fell 5.5% in the afternoon session after renewed hopes for a U.S.-Iran ceasefire triggered a massive \"relief rally\" in broader mar"
     },
     {
       "title": "Bank of America sends stark warning on global investor sentiment",
@@ -73,26 +153,6 @@
       "simple_explanation": "Toronto, Ontario--(Newsfile Corp. - April 14, 2026) - Wesdome Gold Mines Ltd. (TSX: WDO) (OTCQX: WDOFF) (\"Wesdome\" or the \"Company\") today announces its operating results for the three months ended Ma"
     },
     {
-      "title": "4 Dividend Energy Stocks to Buy in April",
-      "description": "If you are looking at the energy sector, now isn't the time for dividend investors to take on big risks.",
-      "url": "https://www.fool.com/investing/2026/04/14/4-dividend-energy-stocks-to-buy-in-april/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-14T21:35:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "If you are looking at the energy sector, now isn't the time for dividend investors to take on big risks."
-    },
-    {
-      "title": "Why Patterson-UTI (PTEN) Stock Is Trading Lower Today",
-      "description": "Shares of oilfield services company Patterson-UTI (NASDAQ:PTEN) fell 6% in the afternoon session after renewed hopes for a U.S.-Iran ceasefire triggered a massive \"relief rally\" in broader markets, prompting investors to rotate out of energy hedges.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-patterson-uti-pten-stock-213403040.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-14T21:34:03+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Shares of oilfield services company Patterson-UTI (NASDAQ:PTEN) fell 6% in the afternoon session after renewed hopes for a U.S.-Iran ceasefire triggered a massive \"relief rally\" in broader markets, pr"
-    },
-    {
       "title": "Paxos Labs to use $12M raise toward yield, lending, issuance tools",
       "description": "Backed by Blockchain Capital, the Amplify suite aims to enable platforms to generate yield and offer lending using customer-held digital assets.",
       "url": "https://cointelegraph.com/news/paxos-labs-raises-12m-to-launch-platform-for-turning-digital-assets-into-financial-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -101,36 +161,6 @@
       "published_at": "2026-04-14T21:29:32+00:00",
       "category": "Crypto",
       "simple_explanation": "Backed by Blockchain Capital, the Amplify suite aims to enable platforms to generate yield and offer lending using customer-held digital assets."
-    },
-    {
-      "title": "Crypto exchange Kraken confirms it has confidentially filed for an IPO",
-      "description": "Kraken co-CEO Arjun Sethi said the crypto exchange has confidentially filed for a U.S. initial public offering, confirming CNBC's previous reporting.",
-      "url": "https://www.cnbc.com/2026/04/14/crypto-exchange-kraken-confirms-it-has-confidentially-filed-for-an-ipo.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-14T21:22:48+00:00",
-      "category": "USA",
-      "simple_explanation": "Kraken co-CEO Arjun Sethi said the crypto exchange has confidentially filed for a U.S. initial public offering, confirming CNBC's previous reporting."
-    },
-    {
-      "title": "Oil shock 2.0: Inflation back, rate cuts fading",
-      "description": "(By Oil & Gas 360) – The market isn’t just reacting to higher oil prices. It’s reacting to what those prices mean […]",
-      "url": "https://finance.yahoo.com/economy/policy/articles/oil-shock-2-0-inflation-212016199.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-14T21:20:16+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(By Oil & Gas 360) – The market isn’t just reacting to higher oil prices. It’s reacting to what those prices mean […]"
-    },
-    {
-      "title": "Dow Jones Futures: Nasdaq Win Streak Hits 10 Days As Nvidia, Google Flash Buy Signals; What To Do Now",
-      "description": "The stock market rally powers higher with the Nasdaq and Nvidia up for 10 days. Here's what to do now. ASML, Bank of America earnings are on tap.",
-      "url": "https://finance.yahoo.com/m/eca7c0e2-0be2-3fcd-82d4-5949478b56f5/dow-jones-futures%3A-nasdaq-win.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-14T21:17:37+00:00",
-      "category": "USA",
-      "simple_explanation": "The stock market rally powers higher with the Nasdaq and Nvidia up for 10 days. Here's what to do now. ASML, Bank of America earnings are on tap."
     },
     {
       "title": "Bitcoin’s brief rally to $76K may have been a bull trap: Here’s the data",
@@ -143,16 +173,6 @@
       "simple_explanation": "Bitcoin rallied alongside stocks and investors’ hope for interest rate cuts, but is the rejection at $76,000 a sign of a bull trap?"
     },
     {
-      "title": "Food is a 'fascinating' geopolitical issue: World Central Kitchen",
-      "description": "World Central Kitchen founder José Andrés sits down with Yahoo Finance Executive Editor Brian Sozzi at Semafor's World Economy summit to discuss inflation's impact on tackling hunger around the world, food as a geopolitical topic, and more. Andrés is also the owner of the José Andrés Group.",
-      "url": "https://finance.yahoo.com/video/food-is-a-fascinating-geopolitical-issue-world-central-kitchen-210554175.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-14T21:05:54+00:00",
-      "category": "Commodities",
-      "simple_explanation": "World Central Kitchen founder José Andrés sits down with Yahoo Finance Executive Editor Brian Sozzi at Semafor's World Economy summit to discuss inflation's impact on tackling hunger around the world,"
-    },
-    {
       "title": "Insight Wealth Just Bought a $26.9 Million Opening Stake in VPLS",
       "description": "Insight Wealth quietly opened a 3% position last quarter, snapping up shares of this diversified bond ETF.",
       "url": "https://www.fool.com/coverage/filings/2026/04/14/insight-wealth-just-bought-a-usd26-9-million-opening-stake-in-vpls/?.tsrc=rss",
@@ -161,16 +181,6 @@
       "published_at": "2026-04-14T21:05:24+00:00",
       "category": "USA",
       "simple_explanation": "Insight Wealth quietly opened a 3% position last quarter, snapping up shares of this diversified bond ETF."
-    },
-    {
-      "title": "Nvidia stock is on a 10-day winning streak and up 18% over that stretch",
-      "description": "Nvidia denied rumors that it's in talks to buy a large PC company, telling CNBC in a statement that it's \"not engaged in discussions.\"",
-      "url": "https://www.cnbc.com/2026/04/14/nvidia-stock-nvda-ai-streak.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-14T21:01:37+00:00",
-      "category": "USA",
-      "simple_explanation": "Nvidia denied rumors that it's in talks to buy a large PC company, telling CNBC in a statement that it's \"not engaged in discussions.\""
     },
     {
       "title": "Heard on the Street Recap: Stocks Carry On",
@@ -233,16 +243,6 @@
       "simple_explanation": "US equity indexes advanced on Tuesday as optimism that Iran peace talks may resume this week pushed"
     },
     {
-      "title": "3 Steady Stocks with 3% Yields and Growing Profits",
-      "description": "AT&T, Darden Restaurants, and Philip Morris International offer reliable dividends above 3% and steady earnings growth in a volatile market.",
-      "url": "https://finance.yahoo.com/m/c2b1cf60-b056-3dce-99b7-1da41c13fd09/3-steady-stocks-with-3%25.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-14T20:48:00+00:00",
-      "category": "USA",
-      "simple_explanation": "AT&T, Darden Restaurants, and Philip Morris International offer reliable dividends above 3% and steady earnings growth in a volatile market."
-    },
-    {
       "title": "Nasdaq Extends Winning Streak to 10 Days Amid US-Iran Deal Hopes",
       "description": "The Nasdaq Composite extended its winning streak to a tenth consecutive session on Tuesday as oil pr",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-extends-winning-streak-10-204255974.html?.tsrc=rss",
@@ -271,16 +271,6 @@
       "published_at": "2026-04-14T20:33:00+00:00",
       "category": "USA",
       "simple_explanation": "Black Hills Corp.  shares rose on Tuesday after  Microsoft  announced plans to purchase approximately 3,200 acres in Cheyenne, Wyo., to develop a data center.  The project will add to Microsoft’s foot"
-    },
-    {
-      "title": "Tesla Stock Rises on an Upgrade. AI Progress Will Come.",
-      "description": "Tuesday, UBS analyst Joseph Spak upgraded Tesla stock to Hold from Sell.  Tesla stock gained 3.3%, closing at $364.16, while the  and  rose 1.2% and 0.7%, respectively.  Coming into Tuesday trading, Tesla stock was down 22% so far this year and up 40% over the past 12 months.",
-      "url": "https://finance.yahoo.com/m/b003f177-fa07-3e38-a8ee-af4d9f69bd5f/tesla-stock-rises-on-an.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-14T20:31:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Tuesday, UBS analyst Joseph Spak upgraded Tesla stock to Hold from Sell.  Tesla stock gained 3.3%, closing at $364.16, while the  and  rose 1.2% and 0.7%, respectively.  Coming into Tuesday trading, T"
     },
     {
       "title": "Gold Rises as Traders Weigh Renewed Push for US-Iran Talks",
@@ -363,16 +353,6 @@
       "simple_explanation": "GLOBAL-FOREX/ (UPDATE 1, GRAPHICS):FOREX-Dollar falls on hopes for Middle East talks"
     },
     {
-      "title": "Omai Gold Mines Up Near 10%, Posts 52 Week High, As Lifts Indicated Mineral Resources With Expansion of Wenot and Gilt Deposits",
-      "description": "Omai Gold Mines (OMG.V) was at last look up near 10% and had posted fresh 52 week highs Tuesday afte",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/omai-gold-mines-near-10-185316776.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-14T18:53:16+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Omai Gold Mines (OMG.V) was at last look up near 10% and had posted fresh 52 week highs Tuesday afte"
-    },
-    {
       "title": "David Einhorn signals caution as his hedge fund Greenlight prioritizes capital protection",
       "description": "\"It probably won't surprise anyone that we are again putting capital preservation at the top of our priorities,\" Einhorn said in his latest investor letter.",
       "url": "https://www.cnbc.com/2026/04/14/david-einhorn-signals-caution-as-his-hedge-fund-greenlight-prioritizes-capital-protection.html",
@@ -401,6 +381,26 @@
       "published_at": "2026-04-14T17:34:12+00:00",
       "category": "India",
       "simple_explanation": "GIFT Nifty is up 350 points, signaling potential market recovery after Monday's losses, amid renewed hope for US-Iran peace talks. Crude prices retreated sharply as expectations for further dialogue t"
+    },
+    {
+      "title": "Bloom Energy shares surge over 20% to record high after securing major Oracle data centre power deal",
+      "description": "Bloom Energy's shares rose 24% to a record $218.68 after signing a deal to supply 2.8 gigawatts of fuel cell energy systems for Oracle's data centre. The partnership supports Oracle's AI infrastructure amid rising demand for cloud computing.",
+      "url": "https://www.livemint.com/market/stock-market-news/bloom-energy-shares-surge-over-20-to-record-high-after-securing-major-oracle-data-centre-power-deal-11776181610984.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/14/1600x900/logo/BOY2025-25_1770686449827_1770686457684_1776183515765.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-14T16:41:32+00:00",
+      "category": "India",
+      "simple_explanation": "Bloom Energy's shares rose 24% to a record $218.68 after signing a deal to supply 2.8 gigawatts of fuel cell energy systems for Oracle's data centre. The partnership supports Oracle's AI infrastructur"
+    },
+    {
+      "title": "Crypto News: ByBit Is Now Letting Traders Use Bitcoin and Ethereum to Trade Stocks Like Apple and BlackRock’s IBIT",
+      "description": "Most people who hold Bitcoin (CRYPTO: BTC) or Ethereum (CRYPTO: ETH) are doing one of two things with it. They’re either holding and waiting for the price to go up, or trading it for other cryptos—and ByBit just added a third option. The crypto exchange, which serves over 80 million users and ranks ",
+      "url": "https://247wallst.com/investing/2026/04/14/crypto-news-bybit-is-now-letting-traders-use-bitcoin-and-ethereum-to-trade-stocks-like-apple-and-blackrocks-ibit/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-14T16:40:44+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Most people who hold Bitcoin (CRYPTO: BTC) or Ethereum (CRYPTO: ETH) are doing one of two things with it. They’re either holding and waiting for the price to go up, or trading it for other cryptos—and"
     }
   ]
 }
