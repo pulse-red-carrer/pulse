@@ -1,16 +1,326 @@
 {
-  "last_updated": "2026-04-15T20:03:48.591864+00:00",
+  "last_updated": "2026-04-15T21:53:34.532569+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Bessent comments on taxes, Kevin Warsh, and the lowering of gas prices",
-      "description": "Treasury Secretary Scott Bessent spoke at the White House Press Briefing. He is confident gas prices will return to $3 a gallon \"sometime between June 20th and September 20th\" as well as it having been an \"incredible tax season.\" Bessent is also \"optimistic that Kevin Warsh will be the chair of the ",
-      "url": "https://finance.yahoo.com/video/bessent-comments-on-taxes-kevin-warsh-and-the-lowering-of-gas-prices-194514460.html?.tsrc=rss",
+      "title": "Iridium and Getty Images Stocks Trade Up, What You Need To Know",
+      "description": "A number of stocks jumped in the afternoon session after major financial and service firms like BlackRock and Citigroup reported impressive earnings. Investor confidence was further bolstered by the S&P 500’s steady climb toward a new all-time high, supported by the prospect of a diplomatic resoluti",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/iridium-getty-images-stocks-trade-214627727.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-15T19:45:14+00:00",
+      "published_at": "2026-04-15T21:46:27+00:00",
+      "category": "USA",
+      "simple_explanation": "A number of stocks jumped in the afternoon session after major financial and service firms like BlackRock and Citigroup reported impressive earnings. Investor confidence was further bolstered by the S"
+    },
+    {
+      "title": "Treasury Secretary Scott Bessent is preparing banks to collect citizenship data",
+      "description": "Treasury Secretary Scott Bessent says the Trump administration expects banks to comply in collecting citizenship information from customers.",
+      "url": "https://www.cnbc.com/2026/04/15/banks-citizenship-data-collection-customer-accounts.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-15T21:42:40+00:00",
+      "category": "USA",
+      "simple_explanation": "Treasury Secretary Scott Bessent says the Trump administration expects banks to comply in collecting citizenship information from customers."
+    },
+    {
+      "title": "Dow Jones Futures: S&P 500, Nasdaq Hit New Highs As Tesla, Robinhood Lead; Nvidia Chipmaker On Tap",
+      "description": "The S&P 500 and Nasdaq hit highs as Tesla, Robinhood and other former leaders soared. Nvidia chipmaker Taiwan Semi looms.",
+      "url": "https://finance.yahoo.com/m/16a723af-04e5-37e5-92ae-a9f8f1f598c7/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T21:39:46+00:00",
+      "category": "USA",
+      "simple_explanation": "The S&P 500 and Nasdaq hit highs as Tesla, Robinhood and other former leaders soared. Nvidia chipmaker Taiwan Semi looms."
+    },
+    {
+      "title": "Stock Market Today, April 15: Snap Jumps After Announcing 1,000 Job Cuts and $500 Million Cost Savings Plan",
+      "description": "On April 15, 2026, investors weighed sweeping layoffs, AI ambitions, and activist pressure as the platform’s turnaround stakes rose.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/04/15/stock-market-today-april-15-snap-jumps-after-announcing-1000-job-cuts-and-500-million-cost-savings-plan/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T21:38:27+00:00",
+      "category": "USA",
+      "simple_explanation": "On April 15, 2026, investors weighed sweeping layoffs, AI ambitions, and activist pressure as the platform’s turnaround stakes rose."
+    },
+    {
+      "title": "Goldman Sachs bond traders stumbled as Wall Street rivals thrived: 'A fire is being lit under' them",
+      "description": "Goldman's identity as a trader's firm — one expected to perform in turbulent markets — makes any stumble in the division notable.",
+      "url": "https://www.cnbc.com/2026/04/15/goldman-sachs-bond-traders-wall-street-rivals.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-15T21:31:54+00:00",
+      "category": "USA",
+      "simple_explanation": "Goldman's identity as a trader's firm — one expected to perform in turbulent markets — makes any stumble in the division notable."
+    },
+    {
+      "title": "Fuerte Files Annual 2025 Financial Results",
+      "description": "Vancouver, British Columbia--(Newsfile Corp. - April 15, 2026) - Fuerte Metals Corporation (TSXV: FMT) (OTCQB: FUEMF) (\"Fuerte\" or the \"Company\") announces that it has filed its annual financial results for the year ended December 31, 2025. The Company's audited Consolidated Financial Statements, Ma",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fuerte-files-annual-2025-financial-213000900.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T21:30:00+00:00",
       "category": "Commodities",
-      "simple_explanation": "Treasury Secretary Scott Bessent spoke at the White House Press Briefing. He is confident gas prices will return to $3 a gallon \"sometime between June 20th and September 20th\" as well as it having bee"
+      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - April 15, 2026) - Fuerte Metals Corporation (TSXV: FMT) (OTCQB: FUEMF) (\"Fuerte\" or the \"Company\") announces that it has filed its annual financial resul"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY2NjktN2UxNi03ZmI0LTlmNjItOTIxNWU3YTcwZmIwLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-15T21:29:33+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+    },
+    {
+      "title": "Stock Market Today, April 15: TeraWulf Shares Fall After $900 Million Stock Sale Heightens Concerns",
+      "description": "On April 15, 2026, investors weighed a massive equity raise against ambitious data center and AI infrastructure expansion plans.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/04/15/stock-market-today-april-15-terawulf-shares-fall-after-usd900-million-stock-sale-heightens-concerns/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T21:26:55+00:00",
+      "category": "USA",
+      "simple_explanation": "On April 15, 2026, investors weighed a massive equity raise against ambitious data center and AI infrastructure expansion plans."
+    },
+    {
+      "title": "Bitcoin traders cash out 63K BTC profit as price rallied above $76K: Will the market rebound?",
+      "description": "Short-term Bitcoin traders took profit on 63,000 BTC over the past 24-hours. Will profit-taking continue to stall the rally?",
+      "url": "https://cointelegraph.com/news/bitcoin-traders-cash-out-63k-btc-profits-as-price-rallied-above-dollar76k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkxNzctNjM3Ni03NmExLWJjY2UtMTNkOGRiODRhMGU5LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-15T21:17:06+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Short-term Bitcoin traders took profit on 63,000 BTC over the past 24-hours. Will profit-taking continue to stall the rally?"
+    },
+    {
+      "title": "Democratic Senator slams X Money in blistering letter to Elon Musk",
+      "description": "Senator Elizabeth Warren (D-MA) wrote a blistering letter to X Corp. owner Elon Musk on Apr. 14. The Democrat leader expressed her concern that the upcoming X Money feature could pose threats to consumers, national security, and the financial system in the U.S. Earlier, X product head Nikita ...",
+      "url": "https://www.thestreet.com/crypto/markets/democratic-senator-slams-x-money-in-blistering-letter-to-elon-musk?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T21:15:05+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Senator Elizabeth Warren (D-MA) wrote a blistering letter to X Corp. owner Elon Musk on Apr. 14. The Democrat leader expressed her concern that the upcoming X Money feature could pose threats to consu"
+    },
+    {
+      "title": "Stock Market Today, April 15: S&P 500 and Nasdaq Reach New Highs",
+      "description": "Hopes of a U.S.-Iran peace deal and tech strength helped push the S&P 500 to another record, today, April 15, 2026.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/04/15/stock-market-today-april-15-s-and-p-500-and-nasdaq-reach-new-highs/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T21:14:07+00:00",
+      "category": "USA",
+      "simple_explanation": "Hopes of a U.S.-Iran peace deal and tech strength helped push the S&P 500 to another record, today, April 15, 2026."
+    },
+    {
+      "title": "Bitnomial launches Injective futures in US, with eyes on ETF eligibility",
+      "description": "The contracts mark Injective’s first entry into US-regulated derivatives markets and could help support a spot ETF following a filing from Canary Capital.",
+      "url": "https://cointelegraph.com/news/injective-futures-go-live-on-cftc-regulated-us-exchange-opening-etf-pathway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyZTItNjA2OC03YTQwLWE2NDMtZmY0YzkwNjg4NjNiLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-15T21:13:03+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The contracts mark Injective’s first entry into US-regulated derivatives markets and could help support a spot ETF following a filing from Canary Capital."
+    },
+    {
+      "title": "Stock Market Today, April 15: Robinhood Markets Surges After SEC Eases Day Trading Rules",
+      "description": "Today, April 15, 2026, traders are optimistic that more relaxed SEC day-trading rules will boost Robinhood's results.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/04/15/stock-market-today-april-15-robinhood-markets-surges-after-sec-eases-day-trading-rules/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T21:10:35+00:00",
+      "category": "USA",
+      "simple_explanation": "Today, April 15, 2026, traders are optimistic that more relaxed SEC day-trading rules will boost Robinhood's results."
+    },
+    {
+      "title": "IMF chief warns of 'tough times' if oil prices stay high",
+      "description": "IMF chief Kristalina Georgieva warned Wednesday of difficult times ahead for the global economy if war in the Middle East is unresolved and oil prices stay high, adding that inflation risks could seep into food prices.\"We are concerned about risks for inflation moving into food prices should the del",
+      "url": "https://finance.yahoo.com/economy/policy/articles/imf-chief-warns-tough-times-153630665.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T21:06:47+00:00",
+      "category": "Commodities",
+      "simple_explanation": "IMF chief Kristalina Georgieva warned Wednesday of difficult times ahead for the global economy if war in the Middle East is unresolved and oil prices stay high, adding that inflation risks could seep"
+    },
+    {
+      "title": "Is Chevron (CVX) Trading Long-Term Risk for Cash Flow With Its Venezuela Heavy Oil Bet?",
+      "description": "In early April 2026, Chevron confirmed a new oil discovery at the Bandit prospect in the Gulf of America and expanded its heavy crude footprint in Venezuela through asset-swap agreements with PDVSA that increased its stake in the Petroindependencia joint venture and secured additional Orinoco Belt a",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/chevron-cvx-trading-long-term-210627322.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T21:06:27+00:00",
+      "category": "Commodities",
+      "simple_explanation": "In early April 2026, Chevron confirmed a new oil discovery at the Bandit prospect in the Gulf of America and expanded its heavy crude footprint in Venezuela through asset-swap agreements with PDVSA th"
+    },
+    {
+      "title": "Nasdaq, S&P 500 Hit New Highs Amid US-Iran Peace Talk Prospects",
+      "description": "The Nasdaq Composite and the S&P 500 notched record highs on Wednesday, buoyed by hopes that another",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-hit-highs-210559729.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T21:05:59+00:00",
+      "category": "USA",
+      "simple_explanation": "The Nasdaq Composite and the S&P 500 notched record highs on Wednesday, buoyed by hopes that another"
+    },
+    {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "description": "Find insight on crude futures, U.S. commercia crude stocks, demand for renewable energy sources and more in the latest Market Talks covering Energy and Utilities.",
+      "url": "https://finance.yahoo.com/m/de8a4ffe-47e2-3023-9f76-bff3e834f16a/energy-%26-utilities-roundup%3A.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T21:02:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Find insight on crude futures, U.S. commercia crude stocks, demand for renewable energy sources and more in the latest Market Talks covering Energy and Utilities."
+    },
+    {
+      "title": "S&P 500 Hits Record Amid Reports Iran Ceasefire to be Extended to Reach Peace Deal",
+      "description": "US equity indexes closed mixed on Wednesday as strong gains in growth sectors pushed the S&P 500 to",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-hits-record-amid-205847432.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T20:58:47+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity indexes closed mixed on Wednesday as strong gains in growth sectors pushed the S&P 500 to"
+    },
+    {
+      "title": "S&P 500, Nasdaq end at records as markets bet on US-Iran accord",
+      "description": "Major Wall Street stock indices finished at records Wednesday, extending an upward climb on optimism about an accord in the US-Iran conflict as the White House signaled plans for more talks.White House Press Secretary Karoline Leavitt told reporters further US-Iran talks \"would very likely\" be held ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-oil-extends-losses-025607401.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T20:46:42+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Major Wall Street stock indices finished at records Wednesday, extending an upward climb on optimism about an accord in the US-Iran conflict as the White House signaled plans for more talks.White Hous"
+    },
+    {
+      "title": "Hyperscale Data to Host Conference Call on April 21, 2026 to Provide Michigan AI Data Center Campus Update",
+      "description": "Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (\"AI\") data center company anchored by Bitcoin (\"Hyperscale Data\" or the \"Company\"), today announced that it will host a conference call and webcast on Tuesday, April 21, 2026, after the close of market trading, to provide a cor",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/hyperscale-data-host-conference-call-204500167.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T20:45:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (\"AI\") data center company anchored by Bitcoin (\"Hyperscale Data\" or the \"Company\"), today announced that it will host a confere"
+    },
+    {
+      "title": "Kalshi to create ‘portal for parents‘ on prediction markets: Report",
+      "description": "CEO Tarek Mansour said in an interview that Kalshi would prevent kids from using a parent’s ID to skirt its age restrictions by launching a parent portal and AI verification.",
+      "url": "https://cointelegraph.com/news/kalshi-parents-monitoring-minors-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyYjUtYmU1YS03YWFiLWEzZjEtNTg4ODZmMDQ1OGZjLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-15T20:44:41+00:00",
+      "category": "Crypto",
+      "simple_explanation": "CEO Tarek Mansour said in an interview that Kalshi would prevent kids from using a parent’s ID to skirt its age restrictions by launching a parent portal and AI verification."
+    },
+    {
+      "title": "Iran war damaged as much as $58 billion of energy infrastructure, Rystad estimates",
+      "description": "It could take years to repair damaged energy infrastructure in the Middle East and restore production to prewar levels.",
+      "url": "https://www.cnbc.com/2026/04/15/iran-war-energy-facilities-refinery-pipeline-lng.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-15T20:42:48+00:00",
+      "category": "USA",
+      "simple_explanation": "It could take years to repair damaged energy infrastructure in the Middle East and restore production to prewar levels."
+    },
+    {
+      "title": "Phillips 66 CEO says oil supply won't just snap back after Iran conflict",
+      "description": "Phillips 66 CEO Mark Lashier says a \"slow, gradual\" recovery means the worst may be yet to come.",
+      "url": "https://finance.yahoo.com/news/phillips-66-ceo-says-oil-supply-wont-just-snap-back-after-iran-conflict-203148382.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T20:31:48+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Phillips 66 CEO Mark Lashier says a \"slow, gradual\" recovery means the worst may be yet to come."
+    },
+    {
+      "title": "Amazon sellers boycott ads in policy change revolt: 'We're running out of f---ing margin'",
+      "description": "Hundreds of large Amazon sellers are boycotting the online retailer's advertising platform on Wednesday to protest the policy changes.",
+      "url": "https://www.cnbc.com/2026/04/15/amazon-sellers-boycott-ads-payment-changes.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-15T20:28:14+00:00",
+      "category": "USA",
+      "simple_explanation": "Hundreds of large Amazon sellers are boycotting the online retailer's advertising platform on Wednesday to protest the policy changes."
+    },
+    {
+      "title": "Gold Declines as Traders Assess Renewed Push for US-Iran Talks",
+      "description": "(Bloomberg) -- Gold fell as traders assessed fragile optimism for a negotiated settlement to the war in the Middle East, despite the near-total blockade of energy shipments via the Strait of Hormuz.Bullion declined as much as 1.1% to $4,786.54 an ounce, reversing an earlier gain. The US and Iran are",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-wavers-traders-assess-renewed-065357323.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T20:27:09+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Bloomberg) -- Gold fell as traders assessed fragile optimism for a negotiated settlement to the war in the Middle East, despite the near-total blockade of energy shipments via the Strait of Hormuz.Bu"
+    },
+    {
+      "title": "The Mystery Behind Tesla Stock’s Sudden Rise",
+      "description": "The gain comes as TD Cowen analyst Itay Michaeli lowered his price target to $490 from $519.  CEO Elon Musk appears to be one of the reasons for the stock’s jump.  Early Wednesday, Musk tweeted a picture of a Tesla-designed microchip, dubbed AI5.",
+      "url": "https://finance.yahoo.com/m/c3f18da0-ca5c-35f5-bfd6-cae86ff70a9f/the-mystery-behind-tesla.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T20:25:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The gain comes as TD Cowen analyst Itay Michaeli lowered his price target to $490 from $519.  CEO Elon Musk appears to be one of the reasons for the stock’s jump.  Early Wednesday, Musk tweeted a pict"
+    },
+    {
+      "title": "How major US stock indexes fared Wednesday 4/15/2026",
+      "description": "U.S. stocks have hit a record following their big rally over the last two weeks. The S&P 500 rose 0.8% Wednesday and eclipsed its prior all-time high set in January. After falling nearly 10% below its record in March, the S&P 500 has roared roughly 10% higher on hopes the global economy can avoid a ",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-202337119.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T20:23:37+00:00",
+      "category": "USA",
+      "simple_explanation": "U.S. stocks have hit a record following their big rally over the last two weeks. The S&P 500 rose 0.8% Wednesday and eclipsed its prior all-time high set in January. After falling nearly 10% below its"
+    },
+    {
+      "title": "A Look At Southern Cross Gold Consolidated’s Valuation After Recent Share Price Momentum",
+      "description": "Recent Performance Snapshot Southern Cross Gold Consolidated (TSX:SXGC) has drawn attention after recent share price moves, with the stock posting a 9.12% daily return and gains over the past week, month, and past 3 months. See our latest analysis for Southern Cross Gold Consolidated. The recent 22.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/look-southern-cross-gold-consolidated-201218355.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T20:12:18+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Recent Performance Snapshot Southern Cross Gold Consolidated (TSX:SXGC) has drawn attention after recent share price moves, with the stock posting a 9.12% daily return and gains over the past week, mo"
+    },
+    {
+      "title": "Morgan Stanley Coverage Casts Donlin Gold Progress In Long Term Focus",
+      "description": "Morgan Stanley has initiated coverage on NovaGold Resources (TSX:NG), focusing on the Donlin Gold project. The firm highlights recent progress in engineering, permitting, and stakeholder engagement. The coverage centers on the long-term development potential of Donlin Gold rather than near term earn",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-coverage-casts-donlin-201126427.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T20:11:26+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Morgan Stanley has initiated coverage on NovaGold Resources (TSX:NG), focusing on the Donlin Gold project. The firm highlights recent progress in engineering, permitting, and stakeholder engagement. T"
+    },
+    {
+      "title": "Silver Inches Up as Attention Turns to World Deficit",
+      "description": "Gold settled 0.5% lower, down three of the past four sessions, while silver rose 0.1%, up for a second-consecutive session.",
+      "url": "https://finance.yahoo.com/m/6cdf61b5-838d-3d2e-8ee0-63756bb491bf/silver-inches-up-as-attention.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-15T20:10:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold settled 0.5% lower, down three of the past four sessions, while silver rose 0.1%, up for a second-consecutive session."
+    },
+    {
+      "title": "Bitwise debuts Avalanche ETP offering AVAX exposure and yield",
+      "description": "The product is designed to generate yield by participating in network validation, adding an income component to passive exposure.",
+      "url": "https://cointelegraph.com/news/bitwise-launches-avalanche-etp-with-staking-feature?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyN2YtMzRkYi03ODQ0LWFmNzMtZTA5ZjNmMDAxNWNmLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-15T20:07:42+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The product is designed to generate yield by participating in network validation, adding an income component to passive exposure."
+    },
+    {
+      "title": "US stocks today: S&P 500, Nasdaq push to closing records on earnings and Middle East optimism",
+      "description": "US stocks surged to record highs as the S&P 500 and Nasdaq rallied on strong corporate earnings and hopes of progress in US-Iran negotiations. Investors are betting on reduced geopolitical risk despite ongoing sanctions and tensions. Financial stocks led gains, while volatility dropped to its lowest",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-push-to-closing-records-on-earnings-and-middle-east-optimism/articleshow/130293102.cms",
+      "image": "https://img.etimg.com/photo/msid-130293102,imgsize-193682.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-15T20:06:20+00:00",
+      "category": "India",
+      "simple_explanation": "US stocks surged to record highs as the S&P 500 and Nasdaq rallied on strong corporate earnings and hopes of progress in US-Iran negotiations. Investors are betting on reduced geopolitical risk despit"
     },
     {
       "title": "Why Robinhood Markets Stock Is Rocketing Higher Today",
@@ -23,26 +333,6 @@
       "simple_explanation": "A regulatory change from the Securities and Exchange Commission has Robinhood's shares soaring today."
     },
     {
-      "title": "U.S. and Iran could meet in Pakistan for peace talks next week: MS NOW",
-      "description": "Oil tanker traffic through the Strait of Hormuz remains at a trickle as the U.S. enforces a retaliatory blockade of Iranian ports.",
-      "url": "https://www.cnbc.com/2026/04/15/trump-iran-war-peace-talks-pakistan.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-15T19:39:11+00:00",
-      "category": "USA",
-      "simple_explanation": "Oil tanker traffic through the Strait of Hormuz remains at a trickle as the U.S. enforces a retaliatory blockade of Iranian ports."
-    },
-    {
-      "title": "Fed’s Musalem: rates on hold \"for some time,\" open to hikes",
-      "description": "Investing.com -- High oil prices are likely to keep underlying inflation nearly a percentage point above the Federal Reserve's 2% target for the rest of this year, with the U.S. central bank likely needing to leave interest rates unchanged, St. Louis Fed President Alberto Musalem said on Wednesday.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-musalem-rates-hold-time-193722496.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T19:37:22+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Investing.com -- High oil prices are likely to keep underlying inflation nearly a percentage point above the Federal Reserve's 2% target for the rest of this year, with the U.S. central bank likely ne"
-    },
-    {
       "title": "Dollar drifts as investors gauge odds for renewed US-Iran peace talks",
       "description": "GLOBAL-FOREX/ (UPDATE 5, GRAPHICS):FOREX-Dollar drifts as investors gauge odds for renewed US-Iran peace talks",
       "url": "https://www.livemint.com/market/dollar-drifts-as-investors-gauge-odds-for-renewed-us-iran-peace-talks-11776281685557.html",
@@ -53,74 +343,14 @@
       "simple_explanation": "GLOBAL-FOREX/ (UPDATE 5, GRAPHICS):FOREX-Dollar drifts as investors gauge odds for renewed US-Iran peace talks"
     },
     {
-      "title": "Oil Holds Steady Amid Prospect of Peace Talks With Hormuz Shut",
-      "description": "(Bloomberg) -- Oil held steady as traders weighed signs of rapidly depleting US reserves against efforts by the US and Iran to seek further talks to end a war that has brought transit through the vital Strait of Hormuz waterway to a near-halt. West Texas Intermediate ended the day virtually unchange",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/oil-steadies-slumping-moves-restart-023340428.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T19:32:47+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Bloomberg) -- Oil held steady as traders weighed signs of rapidly depleting US reserves against efforts by the US and Iran to seek further talks to end a war that has brought transit through the vita"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq, S&P 500 Eye Records Amid Trump Comments; Shoe Stock Rockets 600% (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index slips in mixed trade Wednesday after President Donald Trump's latest comments on the U.S.-Iran peace talks.",
-      "url": "https://finance.yahoo.com/m/e4af691f-37b2-3a47-9f37-6166299cfe08/stock-market-today%3A-nasdaq%2C.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T19:32:17+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index slips in mixed trade Wednesday after President Donald Trump's latest comments on the U.S.-Iran peace talks."
-    },
-    {
-      "title": "S&P 500 hits record high as investors shrug off Iran war fears",
-      "description": "With another round of U.S.-Iran peace talks on the horizon, investors are optimistic that the war will wind down.",
-      "url": "https://www.cbsnews.com/news/stocks-market-today-s-p-500-record-highs/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T19:30:34+00:00",
-      "category": "USA",
-      "simple_explanation": "With another round of U.S.-Iran peace talks on the horizon, investors are optimistic that the war will wind down."
-    },
-    {
-      "title": "DHT Holdings (DHT) Stock Trades Up, Here Is Why",
-      "description": "Shares of crude oil tanker operator DHT Holdings (NYSE:DHT) jumped 3.6% in the afternoon session after the company provided a positive business update, including strong preliminary earnings for the first quarter of 2026 and impressive booking rates for the second quarter.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dht-holdings-dht-stock-trades-193027797.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T19:30:27+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Shares of crude oil tanker operator DHT Holdings (NYSE:DHT) jumped 3.6% in the afternoon session after the company provided a positive business update, including strong preliminary earnings for the fi"
-    },
-    {
-      "title": "A Fund Just Bet $5.7 Million on Robert Half -- Is the Staffing Sector Due for a Rebound?",
-      "description": "Robert Half Inc. provides staffing and risk consulting solutions globally to employers across diverse industries.",
-      "url": "https://www.fool.com/coverage/filings/2026/04/15/a-fund-just-bet-usd5-7-million-on-robert-half-is-the-staffing-sector-due-for-a-rebound/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T19:27:58+00:00",
-      "category": "USA",
-      "simple_explanation": "Robert Half Inc. provides staffing and risk consulting solutions globally to employers across diverse industries."
-    },
-    {
-      "title": "S&P 500 hits record high as US blockade disrupts Strait of Hormuz",
-      "description": "The Nasdaq Composite (^IXIC) and S&P 500 (^GSPC) keep the momentum going in Wednesday's session, the latter hitting its first intraday record high since January. Yahoo Finance Markets and Data Editor Jared Blikre and Breaking News Reporter Jake Conley highlight the day's market moves and oil price (",
-      "url": "https://finance.yahoo.com/video/sp-500-hits-record-high-as-us-blockade-disrupts-strait-of-hormuz-192332393.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T19:23:32+00:00",
-      "category": "USA",
-      "simple_explanation": "The Nasdaq Composite (^IXIC) and S&P 500 (^GSPC) keep the momentum going in Wednesday's session, the latter hitting its first intraday record high since January. Yahoo Finance Markets and Data Editor "
-    },
-    {
-      "title": "6.3% Monthly Yield, up 7% in 6 Months. Is There a Catch With This CEF?",
-      "description": "A $0.15 monthly distribution on a fund trading near $28 works out to roughly 6.3% annualized yield, paid monthly. Gabelli Dividend & Income Trust (NYSE:GDV) has delivered that consistency for over two decades, with distributions rising from $0.11 per month in 2024 to $0.14 in 2025 to $0.15 starting ",
-      "url": "https://247wallst.com/investing/2026/04/15/6-3-monthly-yield-up-7-in-6-months-is-there-a-catch-with-this-cef/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T19:21:00+00:00",
-      "category": "USA",
-      "simple_explanation": "A $0.15 monthly distribution on a fund trading near $28 works out to roughly 6.3% annualized yield, paid monthly. Gabelli Dividend & Income Trust (NYSE:GDV) has delivered that consistency for over two"
+      "title": "CoreWeave signs $6B deal with Jane Street to provide AI compute power",
+      "description": "Jane Street said it needs GPU-based computing power to keep its trading and research operations competitive amid growing adoption of AI.",
+      "url": "https://cointelegraph.com/news/coreweave-6b-deal-jane-street-ai-compute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyOGQtMGZlZS03ZmJmLWIzMDYtMmNmNDZlMmQ0YzM2LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-15T19:30:52+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Jane Street said it needs GPU-based computing power to keep its trading and research operations competitive amid growing adoption of AI."
     },
     {
       "title": "Risk-on trade helps lift Canadian dollar to a three-week high",
@@ -131,26 +361,6 @@
       "published_at": "2026-04-15T19:16:02+00:00",
       "category": "India",
       "simple_explanation": "CANADA-FOREX/:CANADA FX DEBT-Risk-on trade helps lift Canadian dollar to a three-week high"
-    },
-    {
-      "title": "Tesla Regains 50-Day Line. Here's When The Stock Could Become Actionable.",
-      "description": "On Wednesday, Tesla stock had one of its best days in months, as it looks to end an eight-week losing streak.  Tesla stock could become actionable if it makes a decisive move above the 200-day line.  Tesla is due to report first-quarter earnings on April 22.",
-      "url": "https://finance.yahoo.com/m/800a0cc5-cb38-3dd7-bb87-71200918ca72/tesla-regains-50-day-line..html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T19:14:20+00:00",
-      "category": "USA",
-      "simple_explanation": "On Wednesday, Tesla stock had one of its best days in months, as it looks to end an eight-week losing streak.  Tesla stock could become actionable if it makes a decisive move above the 200-day line.  "
-    },
-    {
-      "title": "Europe Is Desperate for American Natural Gas. FCG Owns the Companies Selling It to Them",
-      "description": "Europe has spent three years trying to wean itself off Russian energy, and the Strait of Hormuz crisis has made that urgency impossible to ignore. When Iran began imposing tolls and laying mines in the strait in March 2026, oil markets snapped to attention. WTI crude surged from around $102 to $114 ",
-      "url": "https://247wallst.com/investing/2026/04/15/europe-is-desperate-for-american-natural-gas-fcg-owns-the-companies-selling-it-to-them/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T19:12:29+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Europe has spent three years trying to wean itself off Russian energy, and the Strait of Hormuz crisis has made that urgency impossible to ignore. When Iran began imposing tolls and laying mines in th"
     },
     {
       "title": "Iran war puts US companies in wait-and-see mode, Fed Beige Book says",
@@ -173,56 +383,6 @@
       "simple_explanation": "The information sought includes so-called Tag 50 identifiers, which can be used to determine who was behind the trades."
     },
     {
-      "title": "Iran war damaged as much as $58 billion of energy infrastructure, Rystad estimates",
-      "description": "It could take years to repair damaged energy infrastructure in the Middle East and restore production to pre-war levels.",
-      "url": "https://www.cnbc.com/2026/04/15/iran-war-energy-facilities-refinery-pipeline-lng.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-15T19:06:28+00:00",
-      "category": "USA",
-      "simple_explanation": "It could take years to repair damaged energy infrastructure in the Middle East and restore production to pre-war levels."
-    },
-    {
-      "title": "TRX Gold Q2 Earnings Call Highlights",
-      "description": "TRX Gold (NYSEAMERICAN:TRX) reported record financial and operating results for its fiscal second quarter of 2026, driven by higher production and a record realized gold price, while management outlined plans to expand processing capacity and update the project’s mine plan and economic study at its",
-      "url": "https://www.marketbeat.com/instant-alerts/trx-gold-q2-earnings-call-highlights-2026-04-15/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T19:04:23+00:00",
-      "category": "Commodities",
-      "simple_explanation": "TRX Gold (NYSEAMERICAN:TRX) reported record financial and operating results for its fiscal second quarter of 2026, driven by higher production and a record realized gold price, while management outlin"
-    },
-    {
-      "title": "Amazon sellers boycott ads in policy change revolt: 'We're running out of f---ing margin'",
-      "description": "Hundreds of large Amazon sellers are boycotting its advertising platform on Wednesday to protest the policy changes.",
-      "url": "https://www.cnbc.com/2026/04/15/amazon-sellers-boycott-ads-payment-changes.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-15T19:03:40+00:00",
-      "category": "USA",
-      "simple_explanation": "Hundreds of large Amazon sellers are boycotting its advertising platform on Wednesday to protest the policy changes."
-    },
-    {
-      "title": "S&P 500 erases Iran war losses on peace talk hopes",
-      "description": "Oil fell below $100 a barrel and the S&P 500 extended its winning streak as Trump said the conflict is \"very close to over\"",
-      "url": "https://qz.com/sp500-iran-war-losses-peace-talks-stocks-rally-041526?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T18:58:34+00:00",
-      "category": "USA",
-      "simple_explanation": "Oil fell below $100 a barrel and the S&P 500 extended its winning streak as Trump said the conflict is \"very close to over\""
-    },
-    {
-      "title": "Price predictions 4/15: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, LINK",
-      "description": "A Bitcoin daily candlestick close above $76,000 would complete a bullish trend reversal and shift the bulls’ short-term price target to $84,000. Will altcoins follow the rally?",
-      "url": "https://cointelegraph.com/news/price-predictions-4-15-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyMTQtMGE5MC03NjNjLTllYzktMTc2ZjlhMzZhZjAzLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-15T18:51:43+00:00",
-      "category": "Crypto",
-      "simple_explanation": "A Bitcoin daily candlestick close above $76,000 would complete a bullish trend reversal and shift the bulls’ short-term price target to $84,000. Will altcoins follow the rally?"
-    },
-    {
       "title": "Copper Prices Slip as Traders Eye Talks to End Iran Conflict",
       "description": "Copper edged lower as traders eyed the prospect of peace negotiations between the US and Iran.",
       "url": "https://www.livemint.com/market/copper-prices-slip-as-traders-eye-talks-to-end-iran-conflict-11776278508445.html",
@@ -233,26 +393,6 @@
       "simple_explanation": "Copper edged lower as traders eyed the prospect of peace negotiations between the US and Iran."
     },
     {
-      "title": "Why Is The US Stock Market Up Today?",
-      "description": "US stock market rises as S&P 500 touches 7,000 and bank earnings beat. Tech leads while industrials drag as key levels surface.",
-      "url": "https://beincrypto.com/why-us-stock-market-is-up-today/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T18:37:26+00:00",
-      "category": "USA",
-      "simple_explanation": "US stock market rises as S&P 500 touches 7,000 and bank earnings beat. Tech leads while industrials drag as key levels surface."
-    },
-    {
-      "title": "Dow Jones Falls 0.5% as S&P 500, Nasdaq 100 Post Modest Mid-Day Gains",
-      "description": "Big banks are crushing earnings expectations. Meanwhile, the Dow is having a mildly rough Tax Day.",
-      "url": "https://www.fool.com/investing/2026/04/15/dow-jones-falls-slightly-amid-iran-tension/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T18:36:26+00:00",
-      "category": "USA",
-      "simple_explanation": "Big banks are crushing earnings expectations. Meanwhile, the Dow is having a mildly rough Tax Day."
-    },
-    {
       "title": "White House budget chief Russell Vought won't estimate Iran war cost in testimony",
       "description": "Office of Management and Budget Director Russell Vought testified before the House Budget Committee on Wednesday.",
       "url": "https://www.cnbc.com/2026/04/15/iran-war-budget-white-house-russ-vought.html",
@@ -261,146 +401,6 @@
       "published_at": "2026-04-15T18:30:48+00:00",
       "category": "USA",
       "simple_explanation": "Office of Management and Budget Director Russell Vought testified before the House Budget Committee on Wednesday."
-    },
-    {
-      "title": "2 Mining Stocks to Buy in 2026 to Hedge Inflation",
-      "description": "Gold and silver prices have surged amid persistent inflationary pressures. Recent stock market volatility has made now a good time to scoop up these two mining stocks.",
-      "url": "https://www.fool.com/investing/2026/04/15/2-mining-stocks-to-buy-in-2026-to-hedge-inflation/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T18:25:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold and silver prices have surged amid persistent inflationary pressures. Recent stock market volatility has made now a good time to scoop up these two mining stocks."
-    },
-    {
-      "title": "Equities Mostly Rise Intraday as Trump Reportedly Says War Likely 'Very Close to Over'",
-      "description": "US benchmark equity indexes were mostly higher intraday as President Donald Trump reportedly said th",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-mostly-rise-intraday-trump-182450044.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T18:24:50+00:00",
-      "category": "USA",
-      "simple_explanation": "US benchmark equity indexes were mostly higher intraday as President Donald Trump reportedly said th"
-    },
-    {
-      "title": "S&P 500 Notches New Intraday Record",
-      "description": "The S&P 500 set a fresh record for the first time since January. The market benchmark was up 0.6% to 7008.45, topping its Jan. 28 intraday high of 7002.28. The index’s closing high is 6978.60 from Jan.",
-      "url": "https://finance.yahoo.com/m/2b52edcc-c92e-35d1-b378-7ee3903562f2/s%26p-500-notches-new-intraday.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T18:19:30+00:00",
-      "category": "USA",
-      "simple_explanation": "The S&P 500 set a fresh record for the first time since January. The market benchmark was up 0.6% to 7008.45, topping its Jan. 28 intraday high of 7002.28. The index’s closing high is 6978.60 from Jan"
-    },
-    {
-      "title": "MegaETH's Brix Raises $5.5M, Announces Imminent Launch of Turkish Lira Stablecoin",
-      "description": "The MegaMafia-backed startup will focus on tokenizing emerging market real world assets, starting with iTRY.",
-      "url": "https://www.bankless.com/read/news/megaeths-brix-raises-5-5m-announces-imminent-launch-of-turkish-lira-stablecoin?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T18:04:19+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The MegaMafia-backed startup will focus on tokenizing emerging market real world assets, starting with iTRY."
-    },
-    {
-      "title": "Peter Schiff Wants Investors To Ditch Bitcoin For Gold, Silver Which Could 'Start New Legs Up'",
-      "description": "Economist Peter Schiff advised his followers on Monday to swap their Bitcoin for gold and silver as the apex cryptocurrency aimed to recapture the critical $75,000 level. Schiff Repeats Old Advice In an X post, Schiff noted that Bitcoin was...",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/peter-schiff-wants-investors-ditch-180118224.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T18:01:18+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Economist Peter Schiff advised his followers on Monday to swap their Bitcoin for gold and silver as the apex cryptocurrency aimed to recapture the critical $75,000 level. Schiff Repeats Old Advice In "
-    },
-    {
-      "title": "US midterm election mirrors 2024 as crypto PACs move into Ohio races",
-      "description": "Potential conflicts of interest in the state’s gubernatorial race and a pro-crypto Super PAC endorsing a Republican candidate for Senate could cloud the 2026 race.",
-      "url": "https://cointelegraph.com/news/us-election-mirrors-2024-crypto-ohio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkxZGQtNGJlOS03ZDA1LTg0NmMtM2Q0OTlhYzEyNDk3LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-15T17:52:37+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Potential conflicts of interest in the state’s gubernatorial race and a pro-crypto Super PAC endorsing a Republican candidate for Senate could cloud the 2026 race."
-    },
-    {
-      "title": "Mark Mobius, pioneer of emerging markets investing, dies at 89",
-      "description": "Mark Mobius, a pioneer of emerging markets investing, has died at 89. Known for decades at Franklin Templeton Investments, he championed opportunities across developing economies, delivering strong returns and shaping global investment strategies worldwide.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/mark-mobius-pioneer-of-emerging-markets-investing-dies-at-89/articleshow/130290715.cms",
-      "image": "https://img.etimg.com/photo/msid-130290715,imgsize-15458.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-15T17:48:17+00:00",
-      "category": "India",
-      "simple_explanation": "Mark Mobius, a pioneer of emerging markets investing, has died at 89. Known for decades at Franklin Templeton Investments, he championed opportunities across developing economies, delivering strong re"
-    },
-    {
-      "title": "Comex Gold Settles 0.52% Lower at $4800.00",
-      "description": "Gold settled 0.5% lower, down three of the past four sessions, while silver rose 0.1%, up for a second-consecutive session.",
-      "url": "https://finance.yahoo.com/m/6cdf61b5-838d-3d2e-8ee0-63756bb491bf/comex-gold-settles-0.52%25.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T17:48:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold settled 0.5% lower, down three of the past four sessions, while silver rose 0.1%, up for a second-consecutive session."
-    },
-    {
-      "title": "Kitsault Energy Proposes Strategic Energy and Commodity Export Corridor and Port Development in Northwest British Columbia, South of Kitsault, Canada",
-      "description": "OTTAWA, Canada, April 15, 2026--At Scotiabank’s annual meeting, CEO Scott Thomson said the current conflict in the Middle East is a reminder of how resources can be used as geopolitical tools and the importance of secure supplies. He believes that Canada is uniquely positioned as a reliable alternat",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/kitsault-energy-proposes-strategic-energy-174200268.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-15T17:42:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "OTTAWA, Canada, April 15, 2026--At Scotiabank’s annual meeting, CEO Scott Thomson said the current conflict in the Middle East is a reminder of how resources can be used as geopolitical tools and the "
-    },
-    {
-      "title": "Nvidia shares extend winning run to 11th session; top $200 for first time in five months, near record high",
-      "description": "Nvidia shares climbed to $200.40, continuing an 11-day rally, fuelled by robust AI hardware demand. The stock is now 5.5% shy of its record high, with investors optimistic about upcoming Big Tech earnings and ongoing AI investments.",
-      "url": "https://www.livemint.com/market/stock-market-news/nvidia-shares-extend-winning-run-to-11th-session-top-200-for-first-time-in-five-months-near-record-high-11776272927905.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/15/1600x900/logo/ISRAEL-TECH-FUNDRAISING-0_1766837773858_1766837781379_1776272924271.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-04-15T17:38:34+00:00",
-      "category": "India",
-      "simple_explanation": "Nvidia shares climbed to $200.40, continuing an 11-day rally, fuelled by robust AI hardware demand. The stock is now 5.5% shy of its record high, with investors optimistic about upcoming Big Tech earn"
-    },
-    {
-      "title": "L&G brings £50B liquidity funds onchain via Calastone tokenized network",
-      "description": "London-based Legal & General Asset Management is the latest global asset manager to expand distribution across blockchain networks and trading models.",
-      "url": "https://cointelegraph.com/news/london-based-legal-general-asset-management-has-made-its-liquidity-funds-available-in-tokenized-form-through-calastone-s-blockchain-based-distribution-network-enabling-investors-to-access-and-transfer-fund-shares-via-digital-infrastructure-rather-than?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyMDUtMmZlYy03ZWYyLWI1MzgtY2E5NWRmYzIyMTg0LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-15T17:32:53+00:00",
-      "category": "Crypto",
-      "simple_explanation": "London-based Legal & General Asset Management is the latest global asset manager to expand distribution across blockchain networks and trading models."
-    },
-    {
-      "title": "ETH/BTC ratio hits 10-week high as Ether outpaces Bitcoin: Are new price highs next?",
-      "description": "Ether looks poised to gain a price advantage over BTC as the ETH/BTC ratio soars to a 10-week high.",
-      "url": "https://cointelegraph.com/news/ethbtc-ratio-hits-10-week-high-as-ether-outpaces-bitcoin-are-new-price-highs-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkyMDctMDExNy03OTM4LThjYmYtY2ZkOGRjM2E4NjExLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-15T17:30:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Ether looks poised to gain a price advantage over BTC as the ETH/BTC ratio soars to a 10-week high."
-    },
-    {
-      "title": "Morgan Stanley shares climb 5% after Q1 profit beats estimates on strong dealmaking & record trading revenue",
-      "description": "Morgan Stanley capitalized on a favorable regulatory shift and heightened market volatility, fueled in part by a major software sector selloff and geopolitical tensions",
-      "url": "https://www.livemint.com/market/stock-market-news/morgan-stanley-shares-climb-5-after-q1-profit-beats-estimates-on-strong-dealmaking-record-trading-revenue-11776270251093.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/15/1600x900/logo/MORGAN-STANLEY-EARNS-29_1776270331284_1776270355187.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-15T17:27:56+00:00",
-      "category": "India",
-      "simple_explanation": "Morgan Stanley capitalized on a favorable regulatory shift and heightened market volatility, fueled in part by a major software sector selloff and geopolitical tensions"
-    },
-    {
-      "title": "Here are all the ways the Iran war has affected the U.S. economy so far",
-      "description": "The Iran war is starting to show up in the U.S. economy in ways both obvious and not so much.",
-      "url": "https://www.cnbc.com/2026/04/15/here-are-all-the-ways-the-iran-war-has-affected-the-us-economy-so-far.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-15T17:13:37+00:00",
-      "category": "USA",
-      "simple_explanation": "The Iran war is starting to show up in the U.S. economy in ways both obvious and not so much."
     }
   ]
 }
