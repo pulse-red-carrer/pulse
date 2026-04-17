@@ -1,36 +1,306 @@
 {
-  "last_updated": "2026-04-17T16:04:47.639586+00:00",
+  "last_updated": "2026-04-17T17:50:45.358724+00:00",
   "total": 40,
   "articles": [
     {
+      "title": "Stocks Rally As Yardeni Flags Earnings-Led Melt Up And Ceasefire Relief",
+      "description": "Strong earnings momentum and easing Middle East tensions may be supporting continued gains across major U.S. equity indices",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-yardeni-flags-earnings-173748126.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T17:37:48+00:00",
+      "category": "USA",
+      "simple_explanation": "Strong earnings momentum and easing Middle East tensions may be supporting continued gains across major U.S. equity indices"
+    },
+    {
+      "title": "Gold Climbs Fourth Straight Week; Soft PPI and Weak Dollar Outshine Ceasefire",
+      "description": "Happy Friday, traders. Gold locked in its fourth straight weekly gain despite a late-week geopolitical pivot that could have taken the wind out of the rally. The yellow metal closed near $4,850, up about 0.8% on the week, after pushing to a new post-March intraweek high of $4,878 on Thursday. Silver",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-climbs-fourth-straight-week-173715651.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T17:37:15+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Happy Friday, traders. Gold locked in its fourth straight weekly gain despite a late-week geopolitical pivot that could have taken the wind out of the rally. The yellow metal closed near $4,850, up ab"
+    },
+    {
+      "title": "AI chipmaker Cerebras set to file for IPO as soon as today",
+      "description": "Through the public offering, Cerebras could be worth three times more than what it was in a 2025 funding round, one person said.",
+      "url": "https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-17T17:36:52+00:00",
+      "category": "USA",
+      "simple_explanation": "Through the public offering, Cerebras could be worth three times more than what it was in a 2025 funding round, one person said."
+    },
+    {
+      "title": "3 Reasons to Sell MLM and 1 Stock to Buy Instead",
+      "description": "Martin Marietta Materials has been treading water for the past six months, recording a small loss of 2.7% while holding steady at $608.55. The stock also fell short of the S&P 500’s 5.4% gain during that period.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-mlm-1-173626661.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T17:36:26+00:00",
+      "category": "USA",
+      "simple_explanation": "Martin Marietta Materials has been treading water for the past six months, recording a small loss of 2.7% while holding steady at $608.55. The stock also fell short of the S&P 500’s 5.4% gain during t"
+    },
+    {
+      "title": "Quarter-Long Hormuz Closure to Push US Inflation Higher by 0.6 Percentage Points, Dallas Fed Says",
+      "description": "A quarter-long closure of the crucial Strait of Hormuz will likely push US inflation higher by 0.6 p",
+      "url": "https://finance.yahoo.com/economy/policy/articles/quarter-long-hormuz-closure-push-173245609.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T17:32:45+00:00",
+      "category": "Commodities",
+      "simple_explanation": "A quarter-long closure of the crucial Strait of Hormuz will likely push US inflation higher by 0.6 p"
+    },
+    {
+      "title": "3 Reasons A is Risky and 1 Stock to Buy Instead",
+      "description": "Over the past six months, Agilent’s stock price fell to $118.28. Shareholders have lost 16.7% of their capital, which is disappointing considering the S&P 500 has climbed by 5.4%. This may have investors wondering how to approach the situation.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-risky-1-stock-172826123.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T17:28:26+00:00",
+      "category": "USA",
+      "simple_explanation": "Over the past six months, Agilent’s stock price fell to $118.28. Shareholders have lost 16.7% of their capital, which is disappointing considering the S&P 500 has climbed by 5.4%. This may have invest"
+    },
+    {
+      "title": "Stock Of The Day: Trucking Company, Up 140% In A Year, Jumps On Iran, Oil Prices",
+      "description": "Trucking company XPO jumped up on Friday because of changing oil prices and the opening of the Strait of Hormuz.",
+      "url": "https://finance.yahoo.com/m/52a5820f-1869-35aa-b138-19dd4c57c4ea/stock-of-the-day%3A-trucking.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T17:28:07+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Trucking company XPO jumped up on Friday because of changing oil prices and the opening of the Strait of Hormuz."
+    },
+    {
+      "title": "Sector Update: Energy Stocks Fall Friday Afternoon",
+      "description": "Energy stocks were sharply lower Friday afternoon, with the NYSE Energy Sector Index dropping 4.4% a",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-stocks-fall-friday-172516677.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T17:25:16+00:00",
+      "category": "USA",
+      "simple_explanation": "Energy stocks were sharply lower Friday afternoon, with the NYSE Energy Sector Index dropping 4.4% a"
+    },
+    {
+      "title": "3 Battle‑Tested Energy Stocks With the Balance Sheets to Handle the Next Iran‑Driven Shock",
+      "description": "These oil companies built their businesses to withstand oil shocks.",
+      "url": "https://www.fool.com/investing/2026/04/17/3-battletested-energy-stocks-with-the-balance-shee/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T17:25:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "These oil companies built their businesses to withstand oil shocks."
+    },
+    {
+      "title": "Strategy’s Stock Jumps 12% As Bitcoin Hits $78,000",
+      "description": "The stock of Strategy (NASDAQ: $MSTR) is up 12% on April 17 as the price of Bitcoin (CRYPTO: $BTC) trades as high a...",
+      "url": "https://www.cryptoprowl.com/releases/strategys-stock-jumps-12-as-bitcoin-hits-78000-4207?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T17:25:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The stock of Strategy (NASDAQ: $MSTR) is up 12% on April 17 as the price of Bitcoin (CRYPTO: $BTC) trades as high a..."
+    },
+    {
+      "title": "Trump's Iran Strategy Is Redrawing the Map for Oil -- 3 Energy Stocks Built to Outlast the Headlines",
+      "description": "Energy volatility stemming from the conflict in Iran is creating opportunities for overlooked players like Archrock, Ovintiv, and HF Sinclair.",
+      "url": "https://www.fool.com/investing/2026/04/17/trump-iran-strategy-redraw-map-oil-energy-stock/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T17:24:48+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Energy volatility stemming from the conflict in Iran is creating opportunities for overlooked players like Archrock, Ovintiv, and HF Sinclair."
+    },
+    {
+      "title": "Gold, silver rates today: Comex gold jumps $109/oz, silver surges $4.5/oz as Strait of Hormuz reopens",
+      "description": "Precious metals saw gains on 17 April as safe-haven sentiment improved after Iran reopened the Strait of Hormuz, easing inflation concerns. Gold rose $109 to $4,917 and silver surged $4.53 to $83.24.",
+      "url": "https://www.livemint.com/market/stock-market-news/gold-silver-rates-today-comex-gold-jumps-109-oz-silver-surges-4-5-oz-as-strait-of-hormuz-reopens-11776441960955.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/17/1600x900/logo/gold_prices_silver_market_commodity_april_27_inves_1745720035075_1776442150670.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-17T17:24:46+00:00",
+      "category": "India",
+      "simple_explanation": "Precious metals saw gains on 17 April as safe-haven sentiment improved after Iran reopened the Strait of Hormuz, easing inflation concerns. Gold rose $109 to $4,917 and silver surged $4.53 to $83.24."
+    },
+    {
+      "title": "3 Reasons to Avoid ACT and 1 Stock to Buy Instead",
+      "description": "Over the past six months, Enact Holdings has been a great trade, beating the S&P 500 by 12.4%. Its stock price has climbed to $41.83, representing a healthy 17.7% increase. This was partly due to its solid quarterly results, and the run-up might have investors contemplating their next move.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-act-1-172026715.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T17:20:26+00:00",
+      "category": "USA",
+      "simple_explanation": "Over the past six months, Enact Holdings has been a great trade, beating the S&P 500 by 12.4%. Its stock price has climbed to $41.83, representing a healthy 17.7% increase. This was partly due to its "
+    },
+    {
+      "title": "Markets eye 3rd week of gains as Robinhood stock leads S&P 500",
+      "description": "As US stocks (^DJI, ^GSPC, ^IXIC) are set to close out with a third straight week of gains, Yahoo Finance Senior Producer John Hyland takes a closer look at this week's market action. Tech (XLK), consumer discretionary (XLY), and financials (XLF) have been the best-performing sectors this week, whil",
+      "url": "https://finance.yahoo.com/video/markets-eye-3rd-week-of-gains-as-robinhood-stock-leads-sp-500-171613489.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T17:16:13+00:00",
+      "category": "USA",
+      "simple_explanation": "As US stocks (^DJI, ^GSPC, ^IXIC) are set to close out with a third straight week of gains, Yahoo Finance Senior Producer John Hyland takes a closer look at this week's market action. Tech (XLK), cons"
+    },
+    {
+      "title": "S&P 500, Nasdaq Composite Hit Records as Iran Reopens Hormuz Chokepoint for Ceasefire Period",
+      "description": "US equity indexes jumped, with the S&P 500 and the Nasdaq Composite making all-time highs, and crude",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-composite-hit-171442257.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T17:14:42+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity indexes jumped, with the S&P 500 and the Nasdaq Composite making all-time highs, and crude"
+    },
+    {
       "title": "Anthropic's Dario Amodei to meet with White House about Mythos",
-      "description": "",
+      "description": "The meeting comes less than two months after President Donald Trump blacklisted Anthropic.",
       "url": "https://www.cnbc.com/2026/04/17/anthropic-dario-amodei-trump-mythos.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-17T16:00:48+00:00",
+      "published_at": "2026-04-17T17:14:09+00:00",
       "category": "USA",
-      "simple_explanation": ""
+      "simple_explanation": "The meeting comes less than two months after President Donald Trump blacklisted Anthropic."
     },
     {
-      "title": "Iran declares Strait of Hormuz open to shipping; Trump says U.S. blockade still active",
+      "title": "Sector Update: Energy",
+      "description": "Energy stocks were sharply lower Friday afternoon, with the NYSE Energy Sector Index dropping 4.5% a",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-170907786.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T17:09:07+00:00",
+      "category": "USA",
+      "simple_explanation": "Energy stocks were sharply lower Friday afternoon, with the NYSE Energy Sector Index dropping 4.5% a"
+    },
+    {
+      "title": "Exchange-Traded Funds, US Equities Rise After Midday",
+      "description": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV advanced. Actively trade",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-us-equities-170836273.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T17:08:36+00:00",
+      "category": "USA",
+      "simple_explanation": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV advanced. Actively trade"
+    },
+    {
+      "title": "Iran declares Strait of Hormuz open to shipping but Trump says U.S. blockade still active",
       "description": "The Strait of Hormuz has remained almost completely closed as the U.S. and Iran have disputed the terms of their ceasefire agreement.",
       "url": "https://www.cnbc.com/2026/04/17/iran-war-hormuz-strait-israel-lebanon-ceasefire.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-17T15:57:21+00:00",
+      "published_at": "2026-04-17T17:07:41+00:00",
       "category": "USA",
       "simple_explanation": "The Strait of Hormuz has remained almost completely closed as the U.S. and Iran have disputed the terms of their ceasefire agreement."
     },
     {
-      "title": "Zeta Global (ZETA): Buy, Sell, or Hold Post Q4 Earnings?",
-      "description": "Since October 2025, Zeta Global has been in a holding pattern, posting a small loss of 1.9% while floating around $17.49. The stock also fell short of the S&P 500’s 5.4% gain during that period.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zeta-global-zeta-buy-sell-155226000.html?.tsrc=rss",
+      "title": "Traders place $760 million bet on falling oil ahead of Hormuz announcement",
+      "description": "Just ahead of pivotal updates concerning the Strait of Hormuz and Iran, lucrative oil trades totaling millions were executed, raising eyebrows among U.S. officials. Such timely trades have prompted a thorough investigation into several oil futures transactions made right before key policy changes, w",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/traders-place-760-million-bet-on-falling-oil-ahead-of-hormuz-announcement/articleshow/130338898.cms",
+      "image": "https://img.etimg.com/photo/msid-130338898,imgsize-76304.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-17T17:06:58+00:00",
+      "category": "India",
+      "simple_explanation": "Just ahead of pivotal updates concerning the Strait of Hormuz and Iran, lucrative oil trades totaling millions were executed, raising eyebrows among U.S. officials. Such timely trades have prompted a "
+    },
+    {
+      "title": "The Market Seems Ebullient. But Gold, Bonds, and Stocks Send a Mixed Message.",
+      "description": "Gold, U.S. Treasury bonds, and the S&P 500 are all holding near key levels. What comes next matters.",
+      "url": "https://finance.yahoo.com/m/95e7dd15-458a-3d74-a820-4f480dcbdae1/the-market-seems-ebullient..html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-17T15:52:26+00:00",
+      "published_at": "2026-04-17T16:58:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold, U.S. Treasury bonds, and the S&P 500 are all holding near key levels. What comes next matters."
+    },
+    {
+      "title": "How 50 days of the Iran war led to the loss of $50 billion worth of oil",
+      "description": "Global oil markets have lost over 500 million barrels since the Iran conflict began, worth nearly $50 billion. Supply disruptions across the Gulf have tightened inventories and hit exports sharply. Despite partial ceasefire signals and Strait of Hormuz reopening, analysts expect recovery to be slow,",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/how-50-days-of-the-iran-war-led-to-the-loss-of-50-billion-worth-of-oil/articleshow/130338646.cms",
+      "image": "https://img.etimg.com/photo/msid-130338646,imgsize-108216.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-17T16:55:05+00:00",
+      "category": "India",
+      "simple_explanation": "Global oil markets have lost over 500 million barrels since the Iran conflict began, worth nearly $50 billion. Supply disruptions across the Gulf have tightened inventories and hit exports sharply. De"
+    },
+    {
+      "title": "Three things to know about FISA Section 702: Congress passes short-term extension of controversial surveillance program",
+      "description": "The law allows the U.S. government to surveil people outside the U.S., including when they're communicating with American citizens.",
+      "url": "https://www.cnbc.com/2026/04/17/section-702-fisa-congress-surveillance.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-17T16:43:48+00:00",
       "category": "USA",
-      "simple_explanation": "Since October 2025, Zeta Global has been in a holding pattern, posting a small loss of 1.9% while floating around $17.49. The stock also fell short of the S&P 500’s 5.4% gain during that period."
+      "simple_explanation": "The law allows the U.S. government to surveil people outside the U.S., including when they're communicating with American citizens."
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "description": "BUSINESS  The latest Market Talks covering Basic Materials. Published exclusively on Dow Jones Newswires at 4:20 ET, 12:20 ET and 16:50 ET. 1114 ET – Canada’s miners are among the biggest gainers on the TSX as gold climbs, even as tensions ease around the Strait of Hormuz.",
+      "url": "https://finance.yahoo.com/m/7d866a23-f405-3c77-9ffd-08eab41e44e5/basic-materials-roundup%3A.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T16:40:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "BUSINESS  The latest Market Talks covering Basic Materials. Published exclusively on Dow Jones Newswires at 4:20 ET, 12:20 ET and 16:50 ET. 1114 ET – Canada’s miners are among the biggest gainers on t"
+    },
+    {
+      "title": "Stock Market Today: Dow Soars 1,100 Points On Hormuz Opening; Tesla Makes This Bullish Move (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index rallied Friday on the reopening of the Strait of Hormuz. Oil prices and Netflix stock plunged.",
+      "url": "https://finance.yahoo.com/m/9410d1ad-32a8-3e0a-ac9f-6e3f7754487f/stock-market-today%3A-dow-soars.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T16:37:21+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index rallied Friday on the reopening of the Strait of Hormuz. Oil prices and Netflix stock plunged."
+    },
+    {
+      "title": "Hemlo Mining Maintained at Buy at Stifel Canada Following Q4 Results; Price Target Kept at C$12.00",
+      "description": "Stifel Canada on Friday reiterated its buy rating on the shares of Hemlo Mining (HMMC.V) and its C$1",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hemlo-mining-maintained-buy-stifel-163041829.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T16:30:41+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Stifel Canada on Friday reiterated its buy rating on the shares of Hemlo Mining (HMMC.V) and its C$1"
+    },
+    {
+      "title": "Banks' NPAs hold steady despite war shake-up, shows Crisil stress test",
+      "description": "The US-Iran war, which started on 28 February 2026, has hit global supply chains, especially in energy, leading to a cascade effect across the economy, putting pressure on inflation as well as growth.",
+      "url": "https://www.livemint.com/market/bank-npa-stress-test-war-crisil-us-iran-war-global-supply-chains-msme-inflation-economy-energy-11776426031808.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/17/1600x900/logo/gf7e02367cfa5ee32e5b93cb4b7e74a802324d6e2bb7e8563fc96d09e05b026514987a8c3d260888e75fb3fca003d1d443d01928a625070c8fbcf23adbe6c24a0_1280_1706943300251_1776442888740.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-17T16:26:43+00:00",
+      "category": "India",
+      "simple_explanation": "The US-Iran war, which started on 28 February 2026, has hit global supply chains, especially in energy, leading to a cascade effect across the economy, putting pressure on inflation as well as growth."
+    },
+    {
+      "title": "AMD, Oracle, Microsoft and the IGV lead a monster week for tech stocks",
+      "description": "Oracle, AMD and Microsoft are on pace for historic weeks, while Intel, Broadcom, Micron, Marvell and ON Semiconductor are all roaring in April.",
+      "url": "https://www.cnbc.com/2026/04/17/big-tech-stocks-winning-streaks-oracle-amd-microsoft-igv-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-17T16:22:42+00:00",
+      "category": "USA",
+      "simple_explanation": "Oracle, AMD and Microsoft are on pace for historic weeks, while Intel, Broadcom, Micron, Marvell and ON Semiconductor are all roaring in April."
+    },
+    {
+      "title": "Strive Soars 12%, Bitmine Jumps 5% as Bitcoin and Ethereum’s Surge Lifts the Crypto Proxy Trade",
+      "description": "Strive (NASDAQ:ASST) stock is up 13% in Friday afternoon trading while Bitmine Immersion Technologies (NYSE:BMNR) shares are up 5%, as a broad crypto rally sends both names sharply higher. The catalyst is clear: Bitcoin (CRYPTO:BTC) is up 5% over the past 24 hours, trading near $77,800, while Ethere",
+      "url": "https://247wallst.com/investing/2026/04/17/strive-soars-12-bitmine-jumps-5-as-bitcoin-and-ethereums-surge-lifts-the-crypto-proxy-trade/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T16:08:48+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Strive (NASDAQ:ASST) stock is up 13% in Friday afternoon trading while Bitmine Immersion Technologies (NYSE:BMNR) shares are up 5%, as a broad crypto rally sends both names sharply higher. The catalys"
+    },
+    {
+      "title": "This 1 Commodity ETF Is up 42% as It’s the Perfect Inflation Hedge",
+      "description": "Forty-five days into the U.S.-Iran war, the Strait of Hormuz remains largely choked off, shutting in roughly 20% of global oil and LNG shipments. Talks in Islamabad collapsed on April 12 without an agreement. Trump’s naval blockade is now reportedly halting all seaborne trade into and out of Iran. A",
+      "url": "https://247wallst.com/investing/2026/04/17/this-1-commodity-etf-is-up-42-as-its-the-perfect-inflation-hedge/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-17T16:03:43+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Forty-five days into the U.S.-Iran war, the Strait of Hormuz remains largely choked off, shutting in roughly 20% of global oil and LNG shipments. Talks in Islamabad collapsed on April 12 without an ag"
     },
     {
       "title": "Kadimi Group expands global footprint",
@@ -53,46 +323,6 @@
       "simple_explanation": "VANCOUVER, British Columbia, April 17, 2026--Aris Mining Corporation (Aris Mining or the Company) (TSX: ARIS; NYSE: ARIS) announces a significant construction milestone at its Marmato gold mine with t"
     },
     {
-      "title": "Why Chevron Stock Dropped on Friday",
-      "description": "The Iran War is over. (Or is it?)",
-      "url": "https://www.fool.com/investing/2026/04/17/why-chevron-stock-dropped-on-friday/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T15:47:16+00:00",
-      "category": "USA",
-      "simple_explanation": "The Iran War is over. (Or is it?)"
-    },
-    {
-      "title": "QQQ vs. IWO: Big Tech Dominance or Small-Cap Potential?",
-      "description": "Explore how each ETF’s unique portfolio construction shapes risk, sector exposure, and potential fit for different investment goals.",
-      "url": "https://www.fool.com/coverage/etfs/2026/04/17/qqq-vs-iwo-big-tech-dominance-or-small-cap-potential/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T15:45:29+00:00",
-      "category": "USA",
-      "simple_explanation": "Explore how each ETF’s unique portfolio construction shapes risk, sector exposure, and potential fit for different investment goals."
-    },
-    {
-      "title": "Stock Market Today: Dow Soars 1,000 Points On Hormuz Opening; Tesla Makes This Bullish Move (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index rallied Friday on the reopening of the Strait of Hormuz. Oil prices and Netflix stock plunged.",
-      "url": "https://finance.yahoo.com/m/9410d1ad-32a8-3e0a-ac9f-6e3f7754487f/stock-market-today%3A-dow-soars.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T15:42:14+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index rallied Friday on the reopening of the Strait of Hormuz. Oil prices and Netflix stock plunged."
-    },
-    {
-      "title": "The Tariff Winner Nobody Expected: Why Century Aluminum Is Crushing the S&P 500",
-      "description": "Century Aluminum (NASDAQ: CENX) has delivered one of the most remarkable runs in the metals space over the past year. The stock has risen 299.5% in that time, as well as 59.0% year to date, and 10.3% over the past month. For context, the S&P 500 has risen 35.1% over the one-year window. Why Century ",
-      "url": "https://247wallst.com/investing/2026/04/17/the-tariff-winner-nobody-expected-why-century-aluminum-is-crushing-the-sp-500/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T15:40:58+00:00",
-      "category": "USA",
-      "simple_explanation": "Century Aluminum (NASDAQ: CENX) has delivered one of the most remarkable runs in the metals space over the past year. The stock has risen 299.5% in that time, as well as 59.0% year to date, and 10.3% "
-    },
-    {
       "title": "Netflix was long 'a builder not a buyer.' Is that era over?",
       "description": "Netflix co-CEO Ted Sarandos said during an investor call that the company built its \"M&A muscle\" during its pursuit of WBD's assets.",
       "url": "https://www.cnbc.com/2026/04/17/netflix-mergers-m-a-strategy.html",
@@ -103,26 +333,6 @@
       "simple_explanation": "Netflix co-CEO Ted Sarandos said during an investor call that the company built its \"M&A muscle\" during its pursuit of WBD's assets."
     },
     {
-      "title": "McEwen (MUX) Just Unveiled Something That Could Change Its 2030 Outlook",
-      "description": "McEwen Inc. (NYSE:MUX) is among the 9 Fastest Growing Rare Earth Stocks to Invest In. On March 23, McEwen Inc. (NYSE:MUX) reported an updated Mineral Resource Estimate for its Tartan Mine Project in Manitoba, outlining 308,900 indicated gold ounces and 302,700 inferred ounces. The company highlighte",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mcewen-mux-just-unveiled-something-153733694.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T15:37:33+00:00",
-      "category": "Commodities",
-      "simple_explanation": "McEwen Inc. (NYSE:MUX) is among the 9 Fastest Growing Rare Earth Stocks to Invest In. On March 23, McEwen Inc. (NYSE:MUX) reported an updated Mineral Resource Estimate for its Tartan Mine Project in M"
-    },
-    {
-      "title": "The S&P 500 Hits an All-Time High as Iran Opens the Strait of Hormuz and Oil Prices Plunge. Can it Last?",
-      "description": "Stocks were off to the races after Iran's foreign minister announced on X that the Strait of Hormuz is open.",
-      "url": "https://www.fool.com/investing/2026/04/17/the-sp-500-hits-an-all-time-high-as-iran-opens-the/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T15:34:48+00:00",
-      "category": "USA",
-      "simple_explanation": "Stocks were off to the races after Iran's foreign minister announced on X that the Strait of Hormuz is open."
-    },
-    {
       "title": "RIL to announce Q4 earnings on April 24; board to consider final dividend",
       "description": "Reliance Industries will announce Q4FY26 earnings on April 24 as its board meets to approve results and consider final dividend for FY26 followed by an analyst meet to discuss performance and outlook",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-to-announce-q4-earnings-on-april-24-board-to-consider-final-dividend/articleshow/130337159.cms",
@@ -131,16 +341,6 @@
       "published_at": "2026-04-17T15:32:06+00:00",
       "category": "India",
       "simple_explanation": "Reliance Industries will announce Q4FY26 earnings on April 24 as its board meets to approve results and consider final dividend for FY26 followed by an analyst meet to discuss performance and outlook"
-    },
-    {
-      "title": "Why ConocoPhillips Stock Dropped on Friday",
-      "description": "An end to the Iran war may be in sight.",
-      "url": "https://www.fool.com/investing/2026/04/17/why-conocophillips-stock-dropped-on-friday/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T15:24:28+00:00",
-      "category": "Commodities",
-      "simple_explanation": "An end to the Iran war may be in sight."
     },
     {
       "title": "Trent to consider bonus, dividend along with Q4 results on this date. Check details",
@@ -163,33 +363,13 @@
       "simple_explanation": "Securities and Exchange Board of India approved IPOs of Avaada Electro Grand Housing Sonaselection India and Vishal Nirmiti with Avaada leading as a major renewable energy listing aimed at expansion a"
     },
     {
-      "title": "APA and Dow Inc. Stocks Sink as the Strait of Hormuz Reopens. Here’s Why.",
-      "description": "Shares of oil exploration companies and fertilizer stocks are tumbling as the Strait of Hormuz reopens to commercial traffic.",
-      "url": "https://finance.yahoo.com/m/1e175a8a-ec93-3316-8d9a-17846dd7b199/apa-and-dow-inc.-stocks-sink.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T15:15:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Shares of oil exploration companies and fertilizer stocks are tumbling as the Strait of Hormuz reopens to commercial traffic."
-    },
-    {
-      "title": "Carlos Slim Sells $497 Million In PBF As Shares Nearly Double",
-      "description": "Slim family trims stakes in PBF and Talos after energy stocks surge over 30% amid geopolitical tensions",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/carlos-slim-sells-497-million-151139354.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T15:11:39+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Slim family trims stakes in PBF and Talos after energy stocks surge over 30% amid geopolitical tensions"
-    },
-    {
       "title": "Bitcoin vs. gold: Safe-haven debate remains unclear after Iran shock",
       "description": "Investing.com -- The conflict between the U.S., Israel and Iran produced one of the most significant geopolitical shocks to markets since 2022, yet the safe-haven debate between Bitcoin and gold remains unresolved, according to new analysis from Capital.com.",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-vs-gold-safe-haven-145709024.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-04-17T14:57:09+00:00",
-      "category": "Commodities",
+      "category": "Crypto",
       "simple_explanation": "Investing.com -- The conflict between the U.S., Israel and Iran produced one of the most significant geopolitical shocks to markets since 2022, yet the safe-haven debate between Bitcoin and gold remai"
     },
     {
@@ -213,66 +393,6 @@
       "simple_explanation": "US equities surged on 17 April, with two indices hitting record highs after Iran announced that the Strait of Hormuz is fully open, allowing oil tankers to operate. The S&amp;P 500 rose 1.34%, while c"
     },
     {
-      "title": "The Nasdaq Is Partying Like It’s the 90s. Iran Says the Strait of Hormuz Is Open.",
-      "description": "Stocks surged at the open on Friday after Iran said it would reopen the Strait of Hormuz. The Dow rallied 1,011 points, or 2.1%. The S&P 500 rose 1.3%. The Nasdaq surged another 1.5%. The Nasdaq is on track for its thirteenth-consecutive daily gain, which would be its longest winning streak since it",
-      "url": "https://finance.yahoo.com/m/4ded2000-4d47-366d-be91-4ae45d933a99/the-nasdaq-is-partying-like.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T14:42:22+00:00",
-      "category": "USA",
-      "simple_explanation": "Stocks surged at the open on Friday after Iran said it would reopen the Strait of Hormuz. The Dow rallied 1,011 points, or 2.1%. The S&P 500 rose 1.3%. The Nasdaq surged another 1.5%. The Nasdaq is on"
-    },
-    {
-      "title": "Newmont Downgraded as Costs Surge: Is This Gold Giant Losing Its Shine at the Worst Possible Time?",
-      "description": "Newmont Corporation (NYSE:NEM) just received a sobering reality check from Wall Street. National Bank downgraded Newmont to Sector Perform from Outperform and cut its price target to $130 from $140, citing a confluence of cost pressures that are chipping away at the gold giant’s margins. For long-te",
-      "url": "https://247wallst.com/investing/2026/04/17/newmont-downgraded-as-costs-surge-is-this-gold-giant-losing-its-shine-at-the-worst-possible-time/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T14:33:10+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Newmont Corporation (NYSE:NEM) just received a sobering reality check from Wall Street. National Bank downgraded Newmont to Sector Perform from Outperform and cut its price target to $130 from $140, c"
-    },
-    {
-      "title": "Pre-Markets Very Happy About Middle East Developments",
-      "description": "Futures are climbing higher from here, as reports coming from the Middle East.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-very-happy-middle-143300567.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T14:33:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Futures are climbing higher from here, as reports coming from the Middle East."
-    },
-    {
-      "title": "AMD, Oracle, Microsoft and the IGV lead a monster week for tech stocks",
-      "description": "Oracle, AMD and Microsoft are on pace for historic weeks, while Intel, Broadcom, Micron, Marvell and ON Semiconductor are all roaring in April.",
-      "url": "https://www.cnbc.com/2026/04/17/big-tech-stocks-winning-streaks-oracle-amd-microsoft-igv-.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-17T14:29:44+00:00",
-      "category": "USA",
-      "simple_explanation": "Oracle, AMD and Microsoft are on pace for historic weeks, while Intel, Broadcom, Micron, Marvell and ON Semiconductor are all roaring in April."
-    },
-    {
-      "title": "Gold Jumps to One-Month High as Iran Says Hormuz Completely Open",
-      "description": "(Bloomberg) -- Gold jumped to the highest in almost a month after Iran announced that the Strait of Hormuz is now “completely open” for commercial traffic, a major step toward ending a war with the US and Israel that has sent energy prices soaring and threatened economic growth. Silver surged more t",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-heads-fourth-weekly-gain-082858091.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T14:26:36+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Bloomberg) -- Gold jumped to the highest in almost a month after Iran announced that the Strait of Hormuz is now “completely open” for commercial traffic, a major step toward ending a war with the US"
-    },
-    {
-      "title": "Gold Heads For Fourth Weekly Gain",
-      "description": "The price of gold is inching higher and headed for a fourth consecutive weekly gain as hopes rise for a lasting U.S...",
-      "url": "https://www.cryptoprowl.com/releases/gold-heads-for-fourth-weekly-gain-4202?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T14:20:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The price of gold is inching higher and headed for a fourth consecutive weekly gain as hopes rise for a lasting U.S..."
-    },
-    {
       "title": "Here’s what happened in crypto today",
       "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -281,126 +401,6 @@
       "published_at": "2026-04-17T14:14:01+00:00",
       "category": "Crypto",
       "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-    },
-    {
-      "title": "Bitcoin, Stocks Surge as Iran Says Strait of Hormuz Is 'Completely Open'",
-      "description": "Bitcoin spiked above $77,000 as stock indices set records, following word that Iran's Strait of Hormuz is open during the ceasefire.",
-      "url": "https://decrypt.co/364725/bitcoin-stocks-surge-iran-strait-hormuz-completely-open?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T14:10:16+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin spiked above $77,000 as stock indices set records, following word that Iran's Strait of Hormuz is open during the ceasefire."
-    },
-    {
-      "title": "US Stocks: Russell 2000 scales intraday peak weeks after war-driven slide into correction",
-      "description": "The small-cap Russell 2000 hit its first ​intraday record high ​on Friday since the U.S.-Iran conflict erupted, ​joining other major indexes at all-time highs and suggesting the recent equities rally is broadening beyond large companies.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-russell-2000-scales-intraday-peak-weeks-after-war-driven-slide-into-correction/articleshow/130335400.cms",
-      "image": "https://img.etimg.com/photo/msid-130335400,imgsize-64254.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-17T14:05:13+00:00",
-      "category": "India",
-      "simple_explanation": "The small-cap Russell 2000 hit its first ​intraday record high ​on Friday since the U.S.-Iran conflict erupted, ​joining other major indexes at all-time highs and suggesting the recent equities rally "
-    },
-    {
-      "title": "GIFT Nifty jumps over 300 points after oil price crash. What to expect on Monday?",
-      "description": "Indian markets are set for a strong opening as GIFT Nifty surged over 300 points tracking falling crude prices and easing tensions with support from Dow Jones Industrial Average strength and improving global risk sentiment",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-jumps-over-300-points-after-oil-price-crash-what-to-expect-on-monday/articleshow/130335382.cms",
-      "image": "https://img.etimg.com/photo/msid-130335382,imgsize-14592.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-17T14:02:26+00:00",
-      "category": "India",
-      "simple_explanation": "Indian markets are set for a strong opening as GIFT Nifty surged over 300 points tracking falling crude prices and easing tensions with support from Dow Jones Industrial Average strength and improving"
-    },
-    {
-      "title": "Oil prices crash nearly 10% after Iran says Strait of Hormuz completely open during ceasefire",
-      "description": "Oil prices plunged as Strait of Hormuz remained open during the US Iran ceasefire with Brent crude and West Texas Intermediate falling sharply amid easing tensions though volatility is expected to persist",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-crash-nearly-10-after-iran-says-homurz-completely-open-in-ceasefire/articleshow/130335258.cms",
-      "image": "https://img.etimg.com/photo/msid-130335258,imgsize-69898.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-17T13:57:58+00:00",
-      "category": "India",
-      "simple_explanation": "Oil prices plunged as Strait of Hormuz remained open during the US Iran ceasefire with Brent crude and West Texas Intermediate falling sharply amid easing tensions though volatility is expected to per"
-    },
-    {
-      "title": "Bitcoin price quietly sets new 10-week high as trader sees $88K in weeks",
-      "description": "Bitcoin price rallied above $77,000 amid cooling geopolitical tensions and record-high back-to-back closes for the S&P 500.",
-      "url": "https://cointelegraph.com/news/bitcoin-price-quietly-sets-new-10-week-high-as-trader-sees-88k-in-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDliNWQtYzllYi03NTk5LTkwZjEtOWVmOTVmZjNmOTliLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-17T13:52:38+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin price rallied above $77,000 amid cooling geopolitical tensions and record-high back-to-back closes for the S&P 500."
-    },
-    {
-      "title": "Neo co-founder proposes $461M treasury overhaul to end ‘trust me’ governance",
-      "description": "Neo’s proposed overhaul would restructure its foundation, return tokens to the community and impose formal oversight, as co-founders clash over governance and control.",
-      "url": "https://cointelegraph.com/news/neo-founder-proposes-461m-overhaul-to-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDliMGMtNmQ2MS03ZDUzLWI3ODMtMWRiY2I0ZGQyZDliLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-17T13:50:03+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Neo’s proposed overhaul would restructure its foundation, return tokens to the community and impose formal oversight, as co-founders clash over governance and control."
-    },
-    {
-      "title": "Crypto execs ramp up security as wrench attacks increase",
-      "description": "Notable crypto execs descended on Paris Blockchain Week, bringing more attention to personal security as kidnapping and ransom attempts skyrocket.",
-      "url": "https://cointelegraph.com/news/crypto-execs-ramp-security-wrench-attacks-increase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDliYTktNDVmZS03MzE4LWIxYzMtNGUwYjA5MjliMjExLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-17T13:45:01+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Notable crypto execs descended on Paris Blockchain Week, bringing more attention to personal security as kidnapping and ransom attempts skyrocket."
-    },
-    {
-      "title": "Yes Bank Q4 results preview: NII growth seen steady, asset quality improves; profit to rise YoY",
-      "description": "Yes Bank's financial performance for Q4 and FY ending 31 March is anticipated to show steady NII growth of 9-12% YoY. Analysts expect improved profitability, with net profit projections varying, while the stock has gained 17% in April, recovering from previous losses.",
-      "url": "https://www.livemint.com/market/stock-market-news/yes-bank-q4-results-preview-nii-growth-seen-steady-asset-quality-improves-profits-to-rise-yoy-11776427808103.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/17/1600x900/logo/YES-BANK-FUNDRAISE--0_1755176397182_1755176418663_1776427804343.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-04-17T13:42:41+00:00",
-      "category": "India",
-      "simple_explanation": "Yes Bank's financial performance for Q4 and FY ending 31 March is anticipated to show steady NII growth of 9-12% YoY. Analysts expect improved profitability, with net profit projections varying, while"
-    },
-    {
-      "title": "Strategy Climbs 6% as Bitcoin Surges: 762,000 Coins and a Mountain of Debt Keep Investors Divided",
-      "description": "Strategy (NASDAQ:MSTR) stock is up 6% in early Friday trading, riding a sharp surge in Bitcoin (CRYPTO:BTC) prices. Bitcoin climbed to $76,885.19, a two-month high, boosted by signals that the Iran War may be nearing an end. For a company that has staked its entire identity on Bitcoin accumulation, ",
-      "url": "https://247wallst.com/investing/2026/04/17/strategy-climbs-6-as-bitcoin-surges-762000-coins-and-a-mountain-of-debt-keep-investors-divided/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T13:41:11+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Strategy (NASDAQ:MSTR) stock is up 6% in early Friday trading, riding a sharp surge in Bitcoin (CRYPTO:BTC) prices. Bitcoin climbed to $76,885.19, a two-month high, boosted by signals that the Iran Wa"
-    },
-    {
-      "title": "Dollar Indexes Fall Toward Pre-War Levels",
-      "description": "The dollar erased nearly all of its wartime gains as the Strait of Hormuz was declared open for commercial traffic and Wall Street grew confident an Iran peace deal is coming.",
-      "url": "https://finance.yahoo.com/m/0226c957-8e78-34e2-a0fa-fdf0d0538132/dollar-indexes-fall-toward.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T13:39:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The dollar erased nearly all of its wartime gains as the Strait of Hormuz was declared open for commercial traffic and Wall Street grew confident an Iran peace deal is coming."
-    },
-    {
-      "title": "House Dem Sam Liccardo probes suspicious oil trades during Iran war",
-      "description": "A number of well-timed trades during the war have caught the attention of lawmakers and regulators.",
-      "url": "https://www.cnbc.com/2026/04/17/house-dem-probe-iran-war-trades-suspicious.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-17T13:30:01+00:00",
-      "category": "USA",
-      "simple_explanation": "A number of well-timed trades during the war have caught the attention of lawmakers and regulators."
-    },
-    {
-      "title": "Oil prices fall, stocks rise as Iran opens Strait of Hormuz",
-      "description": "A top Iranian official declared the Strait of Hormuz \"completely open\" to commercial vessels during the Israel-Lebanon ceasefire",
-      "url": "https://qz.com/oil-prices-fall-iran-strait-hormuz-ceasefire-stocks-041726?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-17T13:27:12+00:00",
-      "category": "USA",
-      "simple_explanation": "A top Iranian official declared the Strait of Hormuz \"completely open\" to commercial vessels during the Israel-Lebanon ceasefire"
     }
   ]
 }
