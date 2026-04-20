@@ -1,16 +1,126 @@
 {
-  "last_updated": "2026-04-20T20:49:49.591169+00:00",
+  "last_updated": "2026-04-20T21:49:09.758717+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Apple names John Ternus as CEO to replace Tim Cook, who will become chairman",
+      "title": "Apple taps John Ternus as CEO to replace Tim Cook, who will become chairman",
       "description": "Apple said on Monday that John Ternus is succeeding Tim Cook as CEO, with Cook assuming the role of executive chairman on Sept. 1.",
       "url": "https://www.cnbc.com/2026/04/20/apple-names-john-ternus-ceo-replacing-tim-cook-who-becomes-chairman.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-20T20:49:00+00:00",
+      "published_at": "2026-04-20T21:45:50+00:00",
       "category": "USA",
       "simple_explanation": "Apple said on Monday that John Ternus is succeeding Tim Cook as CEO, with Cook assuming the role of executive chairman on Sept. 1."
+    },
+    {
+      "title": "Labor Secretary Lori Chavez-DeRemer leaves Trump cabinet, Keith Sonderling takes over",
+      "description": "Department of Labor Secretary Lori Chavez-DeRemer is resigning from the Trump administration, the White House said.",
+      "url": "https://www.cnbc.com/2026/04/20/labor-secretary-lori-chavez-deremer-resignation-keith-sonderling.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-20T21:44:54+00:00",
+      "category": "USA",
+      "simple_explanation": "Department of Labor Secretary Lori Chavez-DeRemer is resigning from the Trump administration, the White House said."
+    },
+    {
+      "title": "Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal",
+      "description": "Amazon is boosting its investment in Anthropic, which is committing to spending over $100 billion on Amazon cloud services over the next decade.",
+      "url": "https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-20T21:44:47+00:00",
+      "category": "USA",
+      "simple_explanation": "Amazon is boosting its investment in Anthropic, which is committing to spending over $100 billion on Amazon cloud services over the next decade."
+    },
+    {
+      "title": "Iran Tensions Are Heating Up Again. So Why Did the Russell 2000 Just Hit an All-Time High?",
+      "description": "Stocks cooled off with the Strait of Hormuz closing, but small-cap stocks were still winners.",
+      "url": "https://www.fool.com/investing/2026/04/20/iran-tensions-are-heating-up-again-so-why-did-the/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-20T21:38:08+00:00",
+      "category": "USA",
+      "simple_explanation": "Stocks cooled off with the Strait of Hormuz closing, but small-cap stocks were still winners."
+    },
+    {
+      "title": "Energy Market Assessment: Our predictions, Strait of Hormuz safely opens in 3-4 weeks",
+      "description": "(Oil & Gas 360) By Michael Smolinski – Our Predictions: Strait Of Hormuz Safely Open In 3-4 Weeks, We’ve Seen […]",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/energy-market-assessment-predictions-strait-213026152.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-20T21:30:26+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Oil & Gas 360) By Michael Smolinski – Our Predictions: Strait Of Hormuz Safely Open In 3-4 Weeks, We’ve Seen […]"
+    },
+    {
+      "title": "Stock Market Today, April 20: Market Rebound Stumbles as Oil Disruption Continues",
+      "description": "U.S.-Iran tensions drive jitters as the S&P 500 and Nasdaq pull back from highs, and the Strait of Hormuz remains largely closed, today, April 20, 2026.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/04/20/stock-market-today-april-20-market-rebound-stumbles-as-oil-disruption-continues/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-20T21:25:42+00:00",
+      "category": "USA",
+      "simple_explanation": "U.S.-Iran tensions drive jitters as the S&P 500 and Nasdaq pull back from highs, and the Strait of Hormuz remains largely closed, today, April 20, 2026."
+    },
+    {
+      "title": "Why Beyond Meat Stock Skyrocketed Today",
+      "description": "Beyond recently announced new products and a significant distribution deal. What else is lifting the stock?",
+      "url": "https://www.fool.com/investing/2026/04/20/why-beyond-meat-stock-skyrocketed-today/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-20T21:17:36+00:00",
+      "category": "USA",
+      "simple_explanation": "Beyond recently announced new products and a significant distribution deal. What else is lifting the stock?"
+    },
+    {
+      "title": "Target stock is on fire in April. Here's why.",
+      "description": "Target's stock shows signs of life, finally.",
+      "url": "https://finance.yahoo.com/news/target-stock-is-on-fire-in-april-heres-why-210914423.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-20T21:09:14+00:00",
+      "category": "USA",
+      "simple_explanation": "Target's stock shows signs of life, finally."
+    },
+    {
+      "title": "Bybit leads funding for Malaysia’s Hata dual-licensed crypto platform",
+      "description": "The funding supports a dual-licensed platform as Malaysia expands its regulatory framework for digital assets and tokenization.",
+      "url": "https://cointelegraph.com/news/bybit-leads-8m-round-in-malaysian-crypto-exchange-hata?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGFjOGQtMmM1OS03OWQ5LTgzODgtYTM1NGE2NTA2NzU0LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-20T21:05:36+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The funding supports a dual-licensed platform as Malaysia expands its regulatory framework for digital assets and tokenization."
+    },
+    {
+      "title": "Is This the Right Time to Rebalance Your Portfolio?",
+      "description": "It's a prudent strategy for some investors, but a wasteful one for others.",
+      "url": "https://www.fool.com/investing/2026/04/20/is-this-the-right-time-to-rebalance-your-portfolio/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-20T21:05:00+00:00",
+      "category": "USA",
+      "simple_explanation": "It's a prudent strategy for some investors, but a wasteful one for others."
+    },
+    {
+      "title": "North of South Dumps $38.5 Million Vipshop Stake -- What Investors Should Know",
+      "description": "Vipshop Holdings is a Chinese e-commerce platform specializing in flash sales of branded goods for value-focused consumers.",
+      "url": "https://www.fool.com/coverage/filings/2026/04/20/north-of-south-dumps-usd38-5-million-vipshop-stake-what-investors-should-know/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-20T21:02:54+00:00",
+      "category": "USA",
+      "simple_explanation": "Vipshop Holdings is a Chinese e-commerce platform specializing in flash sales of branded goods for value-focused consumers."
+    },
+    {
+      "title": "European Stocks Drop on Worries Over Iran Ceasefire Extension",
+      "description": "European stocks fell as hopes for an end to the Iran war were dashed by President Donald Trump’s comments that a ceasefire extension was “highly unlikely.”",
+      "url": "https://www.livemint.com/market/european-stocks-drop-on-worries-over-iran-ceasefire-extension-11776718556213.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "source": "LiveMint",
+      "published_at": "2026-04-20T20:55:55+00:00",
+      "category": "India",
+      "simple_explanation": "European stocks fell as hopes for an end to the Iran war were dashed by President Donald Trump’s comments that a ceasefire extension was “highly unlikely.”"
     },
     {
       "title": "Most Emerging Currencies Slip as Middle East Uncertainty Lingers",
@@ -23,14 +133,14 @@
       "simple_explanation": "Most emerging-market currencies weakened Monday after Iran closed the Strait of Hormuz again and President Donald Trump sent mixed signals about progress on a peace deal with the Islamic Republic."
     },
     {
-      "title": "Marvell pops on report it will help Google with custom AI chips. Broadcom shares sink",
-      "description": "Marvell saw a $2 billion investment from Nvidia in March, as AI demand continues to surge.",
-      "url": "https://www.cnbc.com/2026/04/20/marvell-stock-google-custom-ai-chips.html",
+      "title": "Gold Falls as Renewed Hormuz Disruption Stokes Inflation Concern",
+      "description": "(Bloomberg) -- Gold fell after a weekend flare-up in Middle Eastern waters renewed inflation risks from an energy-supply shock and cast doubt over talks to end the Iran war.Most Read from BloombergCruise Ships Seized Brief Hormuz Reopening to Flee Persian GulfTrump Aims to Seal Iran Deal, Says Truce",
+      "url": "https://finance.yahoo.com/news/gold-falls-as-renewed-hormuz-disruption-stokes-inflation-concern-010143211.html?.tsrc=rss",
       "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-20T20:43:47+00:00",
-      "category": "USA",
-      "simple_explanation": "Marvell saw a $2 billion investment from Nvidia in March, as AI demand continues to surge."
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-20T20:32:01+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Bloomberg) -- Gold fell after a weekend flare-up in Middle Eastern waters renewed inflation risks from an energy-supply shock and cast doubt over talks to end the Iran war.Most Read from BloombergCru"
     },
     {
       "title": "Iran’s GDP drain grows as maritime blockades tighten financial pressure points",
@@ -43,44 +153,14 @@
       "simple_explanation": "(Oil & Gas 360) By Greg Barnett, MBA – Iran’s economy is absorbing a fast‑widening financial shock as the combined impact […]"
     },
     {
-      "title": "Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal",
-      "description": "Amazon is boosting its investment in Anthropic, which is committing to spending over $100 billion on Amazon cloud services over the next decade.",
-      "url": "https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-20T20:30:09+00:00",
-      "category": "USA",
-      "simple_explanation": "Amazon is boosting its investment in Anthropic, which is committing to spending over $100 billion on Amazon cloud services over the next decade."
-    },
-    {
-      "title": "3 Reasons to Sell TPC and 1 Stock to Buy Instead",
-      "description": "Tutor Perini currently trades at $84.22 and has been a dream stock for shareholders. It’s returned 419% since April 2021, blowing past the S&P 500’s 70.2% gain. The company has also beaten the index over the past six months as its stock price is up 26.6% thanks to its solid quarterly results.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-tpc-1-202932449.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-20T20:29:32+00:00",
-      "category": "USA",
-      "simple_explanation": "Tutor Perini currently trades at $84.22 and has been a dream stock for shareholders. It’s returned 419% since April 2021, blowing past the S&P 500’s 70.2% gain. The company has also beaten the index o"
-    },
-    {
       "title": "ExxonMobil Is One of 2026's Hottest Stocks. Should You Still Own It?",
       "description": "Even if oil stays expensive, that doesn't mean ExxonMobil is the best play.",
       "url": "https://www.fool.com/investing/2026/04/20/exxon-mobil-is-one-of-2026s-hottest-stocks-should/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-04-20T20:25:00+00:00",
-      "category": "USA",
+      "category": "Commodities",
       "simple_explanation": "Even if oil stays expensive, that doesn't mean ExxonMobil is the best play."
-    },
-    {
-      "title": "Centennial Wealth Advisory Builds Stake in First Trust Growth Strength ETF, According to Recent SEC Filing",
-      "description": "The First Trust Growth Strength ETF (FTGS) filters growth stocks through financial strength screens instead of tracking the full growth universe. That distinction tends to stand out when market leadership shifts away from higher-risk, momentum-driven names.",
-      "url": "https://www.fool.com/coverage/filings/2026/04/20/centennial-wealth-advisory-builds-stake-in-first-trust-growth-strength-etf-according-to-recent-sec-filing/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-20T20:24:06+00:00",
-      "category": "USA",
-      "simple_explanation": "The First Trust Growth Strength ETF (FTGS) filters growth stocks through financial strength screens instead of tracking the full growth universe. That distinction tends to stand out when market leader"
     },
     {
       "title": "How major US stock indexes fared Monday 4/20/2026",
@@ -91,26 +171,6 @@
       "published_at": "2026-04-20T20:17:50+00:00",
       "category": "USA",
       "simple_explanation": "Oil prices climbed following the latest rise of U.S.-Iran tensions, but the moves were more modest than they were earlier in the war. U.S. stocks meanwhile gave back a bit of their record-breaking ral"
-    },
-    {
-      "title": "3 Reasons Investors Love Visa (V)",
-      "description": "Over the past six months, Visa’s shares (currently trading at $317.21) have posted a disappointing 7.9% loss, well below the S&P 500’s 5.8% gain. This might have investors contemplating their next move.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-investors-love-visa-201332530.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-20T20:13:32+00:00",
-      "category": "USA",
-      "simple_explanation": "Over the past six months, Visa’s shares (currently trading at $317.21) have posted a disappointing 7.9% loss, well below the S&P 500’s 5.8% gain. This might have investors contemplating their next mov"
-    },
-    {
-      "title": "3 Reasons to Sell CAKE and 1 Stock to Buy Instead",
-      "description": "The Cheesecake Factory’s 15.3% return over the past six months has outpaced the S&P 500 by 9.5%, and its stock price has climbed to $62.73 per share. This performance may have investors wondering how to approach the situation.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-cake-1-200532924.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-20T20:05:32+00:00",
-      "category": "USA",
-      "simple_explanation": "The Cheesecake Factory’s 15.3% return over the past six months has outpaced the S&P 500 by 9.5%, and its stock price has climbed to $62.73 per share. This performance may have investors wondering how "
     },
     {
       "title": "United Q1 earnings preview: Crude surge, premium push, and merger chatter are on the agenda",
@@ -151,16 +211,6 @@
       "published_at": "2026-04-20T20:01:02+00:00",
       "category": "Global",
       "simple_explanation": "Blue Origin acknowledged the satellite was placed in the wrong orbit, but has not commented since it was deemed lost."
-    },
-    {
-      "title": "Options Traders Pivot To Upside Bets As 5.6% Earnings Moves Expected",
-      "description": "Falling volatility and easing Iran tensions shift investors toward tech earnings and dispersion strategies",
-      "url": "https://finance.yahoo.com/markets/options/articles/options-traders-pivot-upside-bets-193446984.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-20T19:34:46+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Falling volatility and easing Iran tensions shift investors toward tech earnings and dispersion strategies"
     },
     {
       "title": "US dollar drops as traders remain optimistic on Iran peace breakthrough",
@@ -351,56 +401,6 @@
       "published_at": "2026-04-20T16:51:51+00:00",
       "category": "India",
       "simple_explanation": "Honeywell is selling its productivity solutions and services unit to Brady for $1.4 billion in an all-cash deal. This move aims to streamline Honeywell's business footprint as it prepares to split int"
-    },
-    {
-      "title": "Ethereum whale opens $90M long bets as ETH price chart eyes $3.2K",
-      "description": "ETH price rising to $2,400 drove whales to open large ETH long bets, as technical indicators suggest a short-term ETH price rally toward $3,000.",
-      "url": "https://cointelegraph.com/news/ethereum-whale-opens-90m-long-bets-eth-price-chart-eyes-3-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGFiOTYtOGU5OC03ZWYzLWE2NzQtOTAyYzczZWNjN2FjLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-20T16:42:53+00:00",
-      "category": "Crypto",
-      "simple_explanation": "ETH price rising to $2,400 drove whales to open large ETH long bets, as technical indicators suggest a short-term ETH price rally toward $3,000."
-    },
-    {
-      "title": "680% rally in five years! Multibagger stock to be in focus on Tuesday; here's why",
-      "description": "Godawari Power and Ispat Limited has allotted 13.61 lakh equity shares after a key investor converted warrants, raising approximately  ₹25 crore.",
-      "url": "https://www.livemint.com/market/stock-market-news/680-rally-in-five-years-multibagger-stock-to-be-in-focus-on-tuesday-heres-why-11776701671910.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/20/1600x900/logo/gfd7eb6a4ff3b7722c26419631ebb2ff072e650093667ac8ce_1749522059479_1776702365335.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-20T16:41:14+00:00",
-      "category": "India",
-      "simple_explanation": "Godawari Power and Ispat Limited has allotted 13.61 lakh equity shares after a key investor converted warrants, raising approximately  ₹25 crore."
-    },
-    {
-      "title": "BSE launches Housing Finance Index to track sectoral opportunities, enable passive investing",
-      "description": "BSE Index Services introduced the Housing Finance Index to measure housing finance companies’ performance. Drawn from BSE 1000, it supports ETFs, mutual funds, PMS strategies, and sector-specific tracking. LIC Housing Finance holds the highest weight, while Aadhar and others contribute smaller share",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bse-launches-housing-finance-index-to-track-sectoral-opportunities-enable-passive-investing/articleshow/130397312.cms",
-      "image": "https://img.etimg.com/photo/msid-130397312,imgsize-212200.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-20T16:13:54+00:00",
-      "category": "India",
-      "simple_explanation": "BSE Index Services introduced the Housing Finance Index to measure housing finance companies’ performance. Drawn from BSE 1000, it supports ETFs, mutual funds, PMS strategies, and sector-specific trac"
-    },
-    {
-      "title": "PNB Housing Finance Q4 profit surges 19% to Rs 656 crore with strong retail growth",
-      "description": "PNB Housing Finance reported a 19% rise in Q4 net profit to Rs 656 crore. FY26 profit grew 18% to Rs 2,291 crore. The company proposed Rs 8 per share dividend while its assets under management expanded 13% to Rs 90,921 crore with strong retail loan growth.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/pnb-housing-finance-q4-profit-surges-19-to-rs-656-crore-with-strong-retail-growth/articleshow/130397271.cms",
-      "image": "https://img.etimg.com/photo/msid-130397271,imgsize-15530.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-20T16:10:33+00:00",
-      "category": "India",
-      "simple_explanation": "PNB Housing Finance reported a 19% rise in Q4 net profit to Rs 656 crore. FY26 profit grew 18% to Rs 2,291 crore. The company proposed Rs 8 per share dividend while its assets under management expande"
-    },
-    {
-      "title": "India Inc borrowed $4.6 billion from overseas markets in February",
-      "description": "Indian corporates raised $4.60 billion in ECB in February, 14% lower than January. Over 100 firms borrowed $4.20 billion via the automatic route, while Piramal Finance took $400 million via approval. ABC Cleantech led with $595 million.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-inc-borrowed-4-6-billion-from-overseas-markets-in-february/articleshow/130397195.cms",
-      "image": "https://img.etimg.com/photo/msid-130397195,imgsize-21250.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-20T16:07:37+00:00",
-      "category": "India",
-      "simple_explanation": "Indian corporates raised $4.60 billion in ECB in February, 14% lower than January. Over 100 firms borrowed $4.20 billion via the automatic route, while Piramal Finance took $400 million via approval. "
     }
   ]
 }
