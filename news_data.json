@@ -1,29 +1,249 @@
 {
-  "last_updated": "2026-04-21T07:52:54.439178+00:00",
+  "last_updated": "2026-04-21T09:27:53.463245+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "A US-Iran Peace Deal May Not Be Enough To Save the Oil Market Now: Here’s Why",
+      "description": "HFI Research says oil market breaking point has passed. Tanker math shows the ceasefire deal may not be enough to reverse the shock.",
+      "url": "https://beincrypto.com/oil-market-breaking-point-hormuz-peace-deal/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-21T09:07:53+00:00",
+      "category": "Commodities",
+      "simple_explanation": "HFI Research says oil market breaking point has passed. Tanker math shows the ceasefire deal may not be enough to reverse the shock."
+    },
+    {
+      "title": "Thermon Group Holdings: The Heating System Nobody Removes",
+      "description": "Why Thermon earns its returns from the process industry's installed base, not from oil and gas capital spending cycles.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/thermon-group-holdings-heating-system-090707428.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-21T09:07:07+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Why Thermon earns its returns from the process industry's installed base, not from oil and gas capital spending cycles."
+    },
+    {
+      "title": "Is the US stock market due for a deep correction amid stretched valuations and geopolitical risks?",
+      "description": "With the S&amp;P 500 nearing all-time highs, experts debate whether the US stock market is primed for a correction. Rising inflation, geopolitical tensions, and stretched valuations present risks.",
+      "url": "https://www.livemint.com/market/stock-market-news/is-the-us-stock-market-due-for-a-deep-correction-amid-stretched-valuations-and-geopolitical-risks-11776760178506.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/21/1600x900/logo/US-NEW-YORK-STOCK-EXCHANG_1715995367099_1776760415527.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-21T09:05:56+00:00",
+      "category": "India",
+      "simple_explanation": "With the S&amp;P 500 nearing all-time highs, experts debate whether the US stock market is primed for a correction. Rising inflation, geopolitical tensions, and stretched valuations present risks."
+    },
+    {
+      "title": "Nestle Q4 Results 2026: Net profit rises 26% at  ₹1,114 crore; declares final dividend of  ₹5/share",
+      "description": "Nestle reported a 26% increase in Q4 net profit, reaching  ₹1,114 crore, up from  ₹885 crore last year. The company announced a final dividend of  ₹5 per share for the 2025-26 financial year.",
+      "url": "https://www.livemint.com/market/stock-market-news/nestle-q4-results-2026-net-profit-rises-26-at-rs-1-114-crore-declares-final-dividend-of-rs-5share-11776761545319.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/21/1600x900/nestle_q4_results_2026_1776761890415_1776761890658.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-21T08:58:29+00:00",
+      "category": "India",
+      "simple_explanation": "Nestle reported a 26% increase in Q4 net profit, reaching  ₹1,114 crore, up from  ₹885 crore last year. The company announced a final dividend of  ₹5 per share for the 2025-26 financial year."
+    },
+    {
+      "title": "Nestle India Q4 Results: Cons profit jumps 27% YoY to Rs 1,111 crore; Rs 5/sh dividend declared",
+      "description": "Nestle Q4 Results: Revenue from operations grew 23% to Rs 6,748 crore, up from Rs 5,504 crore in the corresponding period last year.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/nestle-q4-results-cons-profit-jumps-27-yoy-to-rs-1111-crore-revenue-up-23-rs-5/sh-dividend-declared/articleshow/130412681.cms",
+      "image": "https://img.etimg.com/photo/msid-130412681,imgsize-109798.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-21T08:57:07+00:00",
+      "category": "India",
+      "simple_explanation": "Nestle Q4 Results: Revenue from operations grew 23% to Rs 6,748 crore, up from Rs 5,504 crore in the corresponding period last year."
+    },
+    {
+      "title": "MF Picks: 13 smallcap stocks surge up to 115% in six months; 3 turn multibaggers",
+      "description": "MFs are ramping up exposure to smallcaps, with 13 picks soaring up to 115% in six months and three turning multibaggers.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mf-picks-13-smallcap-stocks-surge-up-to-115-in-six-months-3-turn-multibaggers/slideshow/130413136.cms",
+      "image": "https://img.etimg.com/photo/msid-130412744,imgsize-3722.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-21T08:55:59+00:00",
+      "category": "India",
+      "simple_explanation": "MFs are ramping up exposure to smallcaps, with 13 picks soaring up to 115% in six months and three turning multibaggers."
+    },
+    {
+      "title": "Bank of Korea governor backs CBDCs, deposit tokens in first address",
+      "description": "New Bank of Korea governor Shin Hyun-song supported CBDCs and deposit tokens in his first address, while stablecoins were notably absent from his remarks.",
+      "url": "https://cointelegraph.com/news/new-bank-of-korea-governor-backs-cbdcs-deposit-tokens-first-address?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGFmMmEtMzI4MC03NzgxLWEyYzUtZjBkZDBlYjQzNjY3LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-21T08:52:17+00:00",
+      "category": "Crypto",
+      "simple_explanation": "New Bank of Korea governor Shin Hyun-song supported CBDCs and deposit tokens in his first address, while stablecoins were notably absent from his remarks."
+    },
+    {
+      "title": "Wipro share buyback: Should you participate or not in  ₹15,000-crore offer? Experts weigh in",
+      "description": "Wipro buyback: IT giant Wipro announced its biggest-ever share buyback on April 16, worth  ₹15,000 crore. Check out buyback details, along with expert opinions on whether you should participate or not.",
+      "url": "https://www.livemint.com/market/stock-market-news/wipro-share-buyback-should-you-participate-or-not-in-rs-15-000-crore-offer-experts-weigh-in-11776754646184.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/21/1600x900/logo/WIPRO_1776760593384_1776760593514.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-04-21T08:47:27+00:00",
+      "category": "India",
+      "simple_explanation": "Wipro buyback: IT giant Wipro announced its biggest-ever share buyback on April 16, worth  ₹15,000 crore. Check out buyback details, along with expert opinions on whether you should participate or not"
+    },
+    {
+      "title": "Gold Price Outlook: Is the yellow metal still the most trusted asset for Indian households?",
+      "description": "Gold remains a key asset for Indian households despite an 8% price drop due to geopolitical tensions. The trend towards financial investments, such as ETFs, shows trust in gold is evolving rather than declining. Strong demand from central banks and domestic flows support a positive outlook for gold.",
+      "url": "https://www.livemint.com/market/commodities/gold-price-outlook-is-the-yellow-metal-still-the-most-trusted-asset-for-indian-households-11776759713231.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/21/1600x900/logo/gold_price_1776760812816_1776760812965.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-21T08:46:06+00:00",
+      "category": "India",
+      "simple_explanation": "Gold remains a key asset for Indian households despite an 8% price drop due to geopolitical tensions. The trend towards financial investments, such as ETFs, shows trust in gold is evolving rather than"
+    },
+    {
+      "title": "Sebi’s crackdown on options frenzy is bearing fruit, NSE data shows",
+      "description": "Small investor  participation in the high-risk equity options segment dropped by nearly 20% in FY26 as tighter regulations and higher entry barriers began to rein in excessive speculation by retail investors.",
+      "url": "https://www.livemint.com/market/sebis-crackdown-options-frenzy-bearing-fruit-nse-data-shows-high-risk-equity-options-segment-retail-investors-11776755742873.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/21/1600x900/logo/GROWW-IPO--0_1751108472593_1751108486410_1776760101454.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-04-21T08:41:37+00:00",
+      "category": "India",
+      "simple_explanation": "Small investor  participation in the high-risk equity options segment dropped by nearly 20% in FY26 as tighter regulations and higher entry barriers began to rein in excessive speculation by retail in"
+    },
+    {
+      "title": "Penny stock under Re 1 jumps over 8% after this acquisition update",
+      "description": "Penny stock under Re 1: NHC Foods share price jumped 33% in one month, and gained 12% on a year-to-date (YTD) basis. The penny stock has fallen 5% in six months, but gained 3% in one year.",
+      "url": "https://www.livemint.com/market/stock-market-news/penny-stock-under-re-1-nhc-foods-share-price-jumps-8-after-this-acquisition-update-11776760234846.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/21/1600x900/logo/g68c90b3c5ec9347bb_1776760408157_1776760408296.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-21T08:37:00+00:00",
+      "category": "India",
+      "simple_explanation": "Penny stock under Re 1: NHC Foods share price jumped 33% in one month, and gained 12% on a year-to-date (YTD) basis. The penny stock has fallen 5% in six months, but gained 3% in one year."
+    },
+    {
+      "title": "Late-night crypto trading rises in India, dip-buying seen during corrections: CoinSwitch",
+      "description": "A report by CoinSwitch shows Indian investors are most active in crypto trading between 10–11 PM, reflecting a preference for post-work hours. Despite 24/7 markets, weekday trading dominates, indicating a shift toward more disciplined, routine-driven investing.",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/late-night-crypto-trading-rises-in-india-dip-buying-seen-during-corrections-coinswitch/articleshow/130412147.cms",
+      "image": "https://img.etimg.com/photo/msid-130412147,imgsize-239066.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-21T08:29:14+00:00",
+      "category": "India",
+      "simple_explanation": "A report by CoinSwitch shows Indian investors are most active in crypto trading between 10–11 PM, reflecting a preference for post-work hours. Despite 24/7 markets, weekday trading dominates, indicati"
+    },
+    {
+      "title": "Bitcoin risks losing $70K as Strategy's STRC slips below $100",
+      "description": "STRC's dropped below its $100 par value, indicating that Strategy will likely pause Bitcoin buying this week, which could help the bears pull price down to $70,000.",
+      "url": "https://cointelegraph.com/news/bitcoin-risks-losing-70k-strategy-strc-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGFiOWEtZTFkOS03MDI5LWE2MWMtNDYyMTNiYTgzOTIxLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-21T08:25:10+00:00",
+      "category": "Crypto",
+      "simple_explanation": "STRC's dropped below its $100 par value, indicating that Strategy will likely pause Bitcoin buying this week, which could help the bears pull price down to $70,000."
+    },
+    {
+      "title": "Tariffs, Oil Shocks, and Volatility: Is Nike Still Worth Owning in 2026?",
+      "description": "Nike has been confronting issues besides higher tariffs.",
+      "url": "https://www.fool.com/investing/2026/04/21/tariffs-oil-shocks-and-volatility-is-writer-pick-s/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-21T08:25:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Nike has been confronting issues besides higher tariffs."
+    },
+    {
+      "title": "Groww's Ishan Bansal sees structural shift in derivatives participation post regulatory changes",
+      "description": "Derivatives business faces a structural reset post FY25 regulatory changes, with growth now driven by a smaller but stable customer base, increased market volatility, and an evolving product mix.  Despite a dip in equity derivatives participation, future growth is anticipated from overall industry e",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/growws-ishan-bansal-sees-structural-shift-in-derivatives-participation-post-regulatory-changes/articleshow/130411877.cms",
+      "image": "https://img.etimg.com/photo/msid-130411877,imgsize-6554.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-21T08:20:13+00:00",
+      "category": "India",
+      "simple_explanation": "Derivatives business faces a structural reset post FY25 regulatory changes, with growth now driven by a smaller but stable customer base, increased market volatility, and an evolving product mix.  Des"
+    },
+    {
+      "title": "Agnico Eagle to consolidate assets in Finland’s CLGB",
+      "description": "The company will acquire Rupert and Aurion shares and a 70% stake in Fingold JV from B2Gold.",
+      "url": "https://www.mining-technology.com/news/agnico-eagle-to-consolidate-assets-finlands-clgb/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-21T08:16:33+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The company will acquire Rupert and Aurion shares and a 70% stake in Fingold JV from B2Gold."
+    },
+    {
+      "title": "‘New cards on the battlefield’: U.S., Iran ratchet up rhetoric with peace talks in limbo",
+      "description": "American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, says analyst, ahead of potential high-stakes meeting.",
+      "url": "https://www.cnbc.com/2026/04/21/new-cards-on-the-battlefield-us-iran-ratchet-up-rhetoric-with-peace-talks-in-limbo.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-21T08:15:10+00:00",
+      "category": "USA",
+      "simple_explanation": "American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, says analyst, ahead of potential high-stakes meeting."
+    },
+    {
+      "title": "The Stock Market Flashes a Warning as Investors Get Bad News About President Trump's Economy. History Says This Will Happen Next.",
+      "description": "The S&P 500 currently trades near its record high, but the bull market may be in jeopardy.",
+      "url": "https://www.fool.com/investing/2026/04/21/stock-market-warning-bad-news-about-trumps-economy/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-21T08:15:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The S&P 500 currently trades near its record high, but the bull market may be in jeopardy."
+    },
+    {
+      "title": "Zacks Investment Ideas feature highlights Vertiv and Intel",
+      "description": "Vertiv and Intel have been highlighted in this Investment Ideas article.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-080400714.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-21T08:04:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Vertiv and Intel have been highlighted in this Investment Ideas article."
+    },
+    {
+      "title": "European banks tap Fireblocks for MiCA-compliant euro stablecoin",
+      "description": "A 12-bank European consortium led by Qivalis is partnering with Fireblocks to develop a regulated euro stablecoin under MiCA, targeting launch in the second half of 2026.",
+      "url": "https://cointelegraph.com/news/european-banks-tap-fireblocks-for-mica-compliant-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGFlZmYtNzgwZC03MmYxLTg2MWUtYWFmM2Q0NWJmNDk0LmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-21T08:01:03+00:00",
+      "category": "Crypto",
+      "simple_explanation": "A 12-bank European consortium led by Qivalis is partnering with Fireblocks to develop a regulated euro stablecoin under MiCA, targeting launch in the second half of 2026."
+    },
+    {
+      "title": "Trump tariff refunds begin today: Gokaldas Exports, Avanti Feeds, other textile and shrimp stocks rally up to 7%",
+      "description": "Export-oriented shrimp and textile stocks rallied up to 7% on Tuesday after the US began rolling out refunds for tariffs imposed during Donald Trump’s presidency, following a Supreme Court ruling that struck them down. Companies like Gokaldas Exports and Avanti Feeds saw strong gains as investors be",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/trump-tariff-refunds-begin-today-gokaldas-exports-avanti-feeds-other-textile-and-shrimp-stocks-rally-up-to-7/articleshow/130411567.cms",
+      "image": "https://img.etimg.com/photo/msid-130411567,imgsize-92754.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-21T07:59:20+00:00",
+      "category": "India",
+      "simple_explanation": "Export-oriented shrimp and textile stocks rallied up to 7% on Tuesday after the US began rolling out refunds for tariffs imposed during Donald Trump’s presidency, following a Supreme Court ruling that"
+    },
+    {
+      "title": "Oil falls as investors assess mixed messaging on Iran peace talks ahead of ceasefire deadline",
+      "description": "West Texas Intermediate and Brent had settled 7% and 5% higher on Monday.",
+      "url": "https://www.cnbc.com/2026/04/21/oil-price-iran-war-strait-hormuz-tanker-ceasefire-peace-talks.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-21T07:57:28+00:00",
+      "category": "USA",
+      "simple_explanation": "West Texas Intermediate and Brent had settled 7% and 5% higher on Monday."
+    },
+    {
+      "title": "1 Red-Hot Growth Stock to Buy as the S&P 500 Turns Positive in 2026",
+      "description": "With the major indexes back near their all-time highs, investors should focus on quality companies rather than ones priced on hype alone.",
+      "url": "https://www.fool.com/investing/2026/04/21/red-hot-growth-stock-buy-asml-2026/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-21T07:51:00+00:00",
+      "category": "USA",
+      "simple_explanation": "With the major indexes back near their all-time highs, investors should focus on quality companies rather than ones priced on hype alone."
+    },
     {
       "title": "JPMorgan expands $1.5 trillion economic security splurge into Europe",
       "description": "The banking giant is looking to invest in areas deemed critical to economic security, including defense and AI.",
       "url": "https://www.cnbc.com/2026/04/21/jpmorgan-chase-security-defense-spending-ai-europe-uk-dimon.html",
       "image": "",
-      "source": "CNBC World",
+      "source": "CNBC",
       "published_at": "2026-04-21T07:49:06+00:00",
-      "category": "Global",
+      "category": "USA",
       "simple_explanation": "The banking giant is looking to invest in areas deemed critical to economic security, including defense and AI."
     },
     {
-      "title": "Stock market holiday: Why is the Israeli stock market closed today?",
-      "description": "Israel’s Memorial Day begins at sundown on April 20, marked by ceremonies, a nationwide siren, and restricted public activities. It will transition into Independence Day festivities, including fireworks and parades.",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-why-is-the-israeli-stock-market-closed-today-11776756916561.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/21/1600x900/g287329cb42e9fe20622b_1776757590352_1776757590562.png",
-      "source": "LiveMint",
-      "published_at": "2026-04-21T07:46:55+00:00",
-      "category": "India",
-      "simple_explanation": "Israel’s Memorial Day begins at sundown on April 20, marked by ceremonies, a nationwide siren, and restricted public activities. It will transition into Independence Day festivities, including firewor"
-    },
-    {
-      "title": "Sensex jumps 1,200 points in three days ahead of Iran war ceasefire expiry. key factors",
+      "title": "Sensex jumps 1,200 points in three days ahead of Iran war ceasefire expiry. 4 key factors",
       "description": "Indian markets extended gains for a third straight session, supported by easing oil prices and optimism around US-Iran talks. Sensex and Nifty rose sharply, adding over Rs 8 lakh crore in market capitalisation. Broader markets and realty stocks led gains, while declining volatility signalled improvi",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-1200-points-in-three-days-ahead-of-iran-war-ceasefire-expiry-key-factors/articleshow/130411076.cms",
       "image": "https://img.etimg.com/photo/msid-130411076,imgsize-23920.cms",
@@ -33,21 +253,11 @@
       "simple_explanation": "Indian markets extended gains for a third straight session, supported by easing oil prices and optimism around US-Iran talks. Sensex and Nifty rose sharply, adding over Rs 8 lakh crore in market capit"
     },
     {
-      "title": "Global markets face rising strain as supply chain tightens and oil risk persists: Neelkanth Mishra",
-      "description": "Global supply chains are showing stress as inventories run dry.  This is impacting manufacturing and even international aviation.  Oil markets face short-term volatility with long-term questions about resilience.  India's energy exposure is a temporary risk, with a focus on electrification.  The glo",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-face-rising-strain-as-supply-chain-tightens-and-oil-risk-persists-neelkanth-mishra/articleshow/130411086.cms",
-      "image": "https://img.etimg.com/photo/msid-130411086,imgsize-24808.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-21T07:40:34+00:00",
-      "category": "India",
-      "simple_explanation": "Global supply chains are showing stress as inventories run dry.  This is impacting manufacturing and even international aviation.  Oil markets face short-term volatility with long-term questions about"
-    },
-    {
       "title": "Trent shares jump 8% in two days as investors await bonus issue bonanza on April 22. What to expect?",
       "description": "Trent shares surged after the company announced a board meeting to consider a bonus issue, dividend and fund-raising plans. The stock has gained sharply in recent sessions, supported by strong business momentum. Despite expected pressure on operating profit, analysts remain focused on the growth out",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/trent-shares-jump-8-in-two-days-as-investors-await-bonus-issue-bonanza-on-april-22-what-to-expect/articleshow/130411143.cms",
       "image": "https://img.etimg.com/photo/msid-130411143,imgsize-35758.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-04-21T07:38:32+00:00",
       "category": "India",
       "simple_explanation": "Trent shares surged after the company announced a board meeting to consider a bonus issue, dividend and fund-raising plans. The stock has gained sharply in recent sessions, supported by strong busines"
@@ -57,80 +267,30 @@
       "description": "Lemon Tree Hotels' shares surged over 13% following the announcement of its expansion into Gujarat with a new hotel signing. This move, part of a broader asset-light growth strategy, reinforces the company's focus on tourism and pilgrimage markets. The company is also undergoing a strategic restruct",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/lemon-tree-hotels-shares-soar-13-whats-keeping-traders-active/articleshow/130411113.cms",
       "image": "https://img.etimg.com/photo/msid-130411113,imgsize-139106.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-04-21T07:36:44+00:00",
       "category": "India",
       "simple_explanation": "Lemon Tree Hotels' shares surged over 13% following the announcement of its expansion into Gujarat with a new hotel signing. This move, part of a broader asset-light growth strategy, reinforces the co"
     },
     {
-      "title": "Global stocks have recouped Iran war losses to hit fresh records — but the shadow of Mideast conflict still looms",
-      "description": "Global stocks have clawed back losses triggered by the Iran conflict, with major indexes now trading at or above pre-war levels.",
-      "url": "https://www.cnbc.com/2026/04/21/global-stocks-iran-conflict-ai-rally.html",
+      "title": "The Zacks Analyst Blog XLEI,WEEI,MDST,AMZA and EIPI",
+      "description": "XLEI leads a pack of high-yield energy ETFs as oil volatility and Middle East tensions keep income-focused funds in the spotlight.",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/zacks-analyst-blog-xlei-weei-073500683.html?.tsrc=rss",
       "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-21T07:34:59+00:00",
-      "category": "USA",
-      "simple_explanation": "Global stocks have clawed back losses triggered by the Iran conflict, with major indexes now trading at or above pre-war levels."
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-21T07:35:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "XLEI leads a pack of high-yield energy ETFs as oil volatility and Middle East tensions keep income-focused funds in the spotlight."
     },
     {
-      "title": "Global Markets | South Korea's KOSPI rises to record high as chipmakers surge on export boom",
-      "description": "South Korea's KOSPI index reached an all-time high, surpassing its previous peak, driven by a surge in chipmakers following robust export data. Semiconductor sales saw a significant increase, boosting investor sentiment ahead of key corporate earnings reports. The market is closely watching upcoming",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-south-koreas-kospi-rises-to-record-high-as-chipmakers-surge-on-export-boom/articleshow/130411024.cms",
-      "image": "https://img.etimg.com/photo/msid-130411024,imgsize-95112.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-21T07:32:28+00:00",
-      "category": "India",
-      "simple_explanation": "South Korea's KOSPI index reached an all-time high, surpassing its previous peak, driven by a surge in chipmakers following robust export data. Semiconductor sales saw a significant increase, boosting"
-    },
-    {
-      "title": "European stocks open higher as U.S.-Iran ceasefire deadline looms",
-      "description": "European stocks opened broadly higher on Tuesday as investors try to gauge the direction of efforts to end the U.S.-Iran war.",
-      "url": "https://www.cnbc.com/2026/04/21/european-markets-stoxx-600-ftse-dax-cac-iran-latest-oil-prices.html",
+      "title": "The Zacks Analyst Blog  Tesla, Ciena, Ubiquiti and Imperial Oil",
+      "description": "Imperial Oil (IMO) in focus as oil prices stay elevated amid Iran tensions, with markets weighing energy risks, inflation pressure and global growth signals.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-tesla-ciena-071500909.html?.tsrc=rss",
       "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-21T07:31:27+00:00",
-      "category": "USA",
-      "simple_explanation": "European stocks opened broadly higher on Tuesday as investors try to gauge the direction of efforts to end the U.S.-Iran war."
-    },
-    {
-      "title": "Global Markets | Australian shares end flat on US-Iran peace talk uncertainty; Rio Tinto gains",
-      "description": "Australian shares saw little movement as investors awaited U.S.-Iran peace talk developments. Mining giant Rio Tinto bucked the trend, rising on strong first-quarter output. Meanwhile, tech and real estate sectors showed recovery in April after significant March quarter losses. Across the Tasman, Ne",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-end-flat-on-us-iran-peace-talk-uncertainty-rio-tinto-gains/articleshow/130410959.cms",
-      "image": "https://img.etimg.com/photo/msid-130410959,imgsize-69606.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-21T07:29:53+00:00",
-      "category": "India",
-      "simple_explanation": "Australian shares saw little movement as investors awaited U.S.-Iran peace talk developments. Mining giant Rio Tinto bucked the trend, rising on strong first-quarter output. Meanwhile, tech and real e"
-    },
-    {
-      "title": "Small-cap FMCG stock inches close to 52-week high. Do you own?",
-      "description": "GRM Overseas shares rose over 2% after announcing its launch of 10X Basmati Rice Suitable for Diabetics. The product aims to meet rising demand for healthier food options and supports the company's strategy to expand its health-focused portfolio in domestic and international markets.",
-      "url": "https://www.livemint.com/market/stock-market-news/smallcap-fmcg-stock-inches-close-to-52-week-high-do-you-own-11776754286787.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/21/1600x900/logo/g212b9b6dbc996de9dc74487c45f37af4747a4941146f70d4e_1734319845009_1776755964419.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-21T07:21:45+00:00",
-      "category": "India",
-      "simple_explanation": "GRM Overseas shares rose over 2% after announcing its launch of 10X Basmati Rice Suitable for Diabetics. The product aims to meet rising demand for healthier food options and supports the company's st"
-    },
-    {
-      "title": "HCL Tech Q4 Results LIVE: IT stock jumps 1.5% ahead of results, dividend — What to expect from earnings show?",
-      "description": "HCL Tech Q4 Results LIVE: Shares of HCL Tech traded marginally higher ahead of Q4 results announcement today. Brokerages expect double-digit profit and revenue growth for the IT major on a YoY basis.",
-      "url": "https://www.livemint.com/market/stock-market-news/hcl-tech-q4-results-2026-live-hcl-tech-share-price-hcl-technologies-q4-dividend-earnings-profit-21-april-2026-11776754333284.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/21/1600x900/logo/HCL_Tech_1760348819841_1760348827430_1776755826614.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-21T07:21:33+00:00",
-      "category": "India",
-      "simple_explanation": "HCL Tech Q4 Results LIVE: Shares of HCL Tech traded marginally higher ahead of Q4 results announcement today. Brokerages expect double-digit profit and revenue growth for the IT major on a YoY basis."
-    },
-    {
-      "title": "'No theme runs forever': Devina Mehra busts the ‘buy and forget’ investing myth",
-      "description": "Devina Mehra warns investors against the behavioral trap of assuming past market leaders will continue to dominate. She highlights the importance of adapting to market changes and avoiding the flawed 'buy and forget' strategy.",
-      "url": "https://www.livemint.com/market/stock-market-news/no-theme-runs-forever-devina-mehra-busts-the-buy-and-forget-investing-myth-11776754146340.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/21/1600x900/logo/devina_mehra_1776755068111_1776755068233.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-21T07:18:04+00:00",
-      "category": "India",
-      "simple_explanation": "Devina Mehra warns investors against the behavioral trap of assuming past market leaders will continue to dominate. She highlights the importance of adapting to market changes and avoiding the flawed "
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-21T07:15:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Imperial Oil (IMO) in focus as oil prices stay elevated amid Iran tensions, with markets weighing energy risks, inflation pressure and global growth signals."
     },
     {
       "title": "Tata Steel shares jump 12% so far in April. Here’s why Nomura stays bullish on India’s steel sector",
@@ -153,16 +313,6 @@
       "simple_explanation": "GoldMining Inc. recently reported results for the first quarter ended February 28, 2026, posting a net loss of C$6.64 million versus C$4.55 million a year earlier, with basic loss per share from conti"
     },
     {
-      "title": "Patanjali Foods declares Rs 1.75/share interim dividend, sets April 25 as record date",
-      "description": "Patanjali Foods has announced a second interim dividend of Rs 1.75 per share for FY26, amounting to 87.5% of its face value. Shareholders on record as of April 25, 2026, will receive this payout by May 20, 2026. This follows an earlier interim dividend of the same amount declared for the fiscal year",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/patanjali-foods-declares-rs-1-75-interim-dividend-sets-april-25-as-record-date/articleshow/130410261.cms",
-      "image": "https://img.etimg.com/photo/msid-130410261,imgsize-60570.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-21T07:01:42+00:00",
-      "category": "India",
-      "simple_explanation": "Patanjali Foods has announced a second interim dividend of Rs 1.75 per share for FY26, amounting to 87.5% of its face value. Shareholders on record as of April 25, 2026, will receive this payout by Ma"
-    },
-    {
       "title": "Inside the 'fake police raid' that forced a $1M Bitcoin transfer",
       "description": "A fake police raid enabled a $1 million Bitcoin robbery, exposing the rise of wrench attacks and the shift from digital hacks to physical crypto threats.",
       "url": "https://cointelegraph.com/news/crypto-coercion-attack-fake-police-raid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -171,16 +321,6 @@
       "published_at": "2026-04-21T06:59:51+00:00",
       "category": "Crypto",
       "simple_explanation": "A fake police raid enabled a $1 million Bitcoin robbery, exposing the rise of wrench attacks and the shift from digital hacks to physical crypto threats."
-    },
-    {
-      "title": "Nifty 50 Trading Strategy: Analysts recommend Bull Call Spread options strategy for 28 April expiry",
-      "description": "Nifty 50 Trading Strategy: Axis Securities has recommended a Bull Call Spread strategy for Nifty options contracts expiring on 28 April 2026, forecasting a moderately bullish view.",
-      "url": "https://www.livemint.com/market/stock-market-news/nifty-50-trading-strategy-analysts-recommend-bull-call-spread-options-strategy-for-28-april-expiry-11776753528039.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/21/1600x900/logo/laptops_for_trading_1772448599500_1772448666270_1776753907410.png",
-      "source": "LiveMint",
-      "published_at": "2026-04-21T06:47:30+00:00",
-      "category": "India",
-      "simple_explanation": "Nifty 50 Trading Strategy: Axis Securities has recommended a Bull Call Spread strategy for Nifty options contracts expiring on 28 April 2026, forecasting a moderately bullish view."
     },
     {
       "title": "Singapore’s OCBC launches tokenized gold fund on Ethereum and Solana",
@@ -193,44 +333,14 @@
       "simple_explanation": "The value of tokenized real-world assets on public blockchains is estimated at more than $29 billion, up more than 10% in the last 30 days."
     },
     {
-      "title": "Ola Electric shares surge 70% in April on sales revival. Are they a better bet than rival Ather?",
-      "description": "After falling for six months in a row, Ola Electric's stock price has surged 70% in April so far, boosted by an increase in vehicle registrations. Meanwhile, rival Ather Energy shares have inched higher by 19% in April so far.",
-      "url": "https://www.livemint.com/market/stock-market-news/ola-electric-shares-surge-70-in-april-on-sales-revival-can-they-outperform-rival-ather-going-ahead-11776752654663.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/21/1600x900/logo/OLA_ELECTRIC_1776752981881_1776752986021.png",
-      "source": "LiveMint",
-      "published_at": "2026-04-21T06:32:37+00:00",
-      "category": "India",
-      "simple_explanation": "After falling for six months in a row, Ola Electric's stock price has surged 70% in April so far, boosted by an increase in vehicle registrations. Meanwhile, rival Ather Energy shares have inched high"
-    },
-    {
-      "title": "FIIs pull out another $2 billion from bank stocks. Are financials most hated now?",
-      "description": "Brokerages remain constructive on banks despite near-term headwinds. Prabhudas Lilladher flags NIM pressure, slowing retail credit and macro risks, though credit growth has rebounded. Domestic funds see attractive valuations after FII selling, favouring large private lenders. BNP Paribas finds the r",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-pull-out-another-2-billion-from-bank-stocks-are-financials-most-hated-now/articleshow/130409344.cms",
-      "image": "https://img.etimg.com/photo/msid-130409344,imgsize-3268712.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-21T06:23:03+00:00",
-      "category": "India",
-      "simple_explanation": "Brokerages remain constructive on banks despite near-term headwinds. Prabhudas Lilladher flags NIM pressure, slowing retail credit and macro risks, though credit growth has rebounded. Domestic funds s"
-    },
-    {
-      "title": "Adani Power shares zoom nearly 40% in just 13 sessions. Should you book profits now?",
-      "description": "Adani Power Limited shares have surged nearly 40% in 13 sessions, driven by strong momentum and rising power demand outlook. Analysts suggest holding positions amid bullish trends, while cautioning that overbought signals could trigger near-term consolidation, making dips potential buying opportunit",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-power-shares-zoom-nearly-40-in-just-13-sessions-should-you-book-profits-now/articleshow/130409131.cms",
-      "image": "https://img.etimg.com/photo/msid-130409131,imgsize-20280.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-21T06:13:24+00:00",
-      "category": "India",
-      "simple_explanation": "Adani Power Limited shares have surged nearly 40% in 13 sessions, driven by strong momentum and rising power demand outlook. Analysts suggest holding positions amid bullish trends, while cautioning th"
-    },
-    {
-      "title": "Vedanta Demerger: Check record date, demerger ratio, other key things to know",
-      "description": "Eight stocks flashed bullish signals by crossing above their 200-day moving averages, indicating strengthening momentum and potential upside ahead.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-demerger-check-record-date-demerger-ratio-other-key-things-to-know/slideshow/130409061.cms",
-      "image": "https://img.etimg.com/photo/msid-130408970,imgsize-323708.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-21T06:04:02+00:00",
-      "category": "India",
-      "simple_explanation": "Eight stocks flashed bullish signals by crossing above their 200-day moving averages, indicating strengthening momentum and potential upside ahead."
+      "title": "Apple incoming CEO John Ternus faces a defining challenge: Fixing the company's AI strategy",
+      "description": "Tim Cook had a highly successful tenure as Apple's CEO, but he leaves his successor with a big gap to fill when it comes to the company's position in AI.",
+      "url": "https://www.cnbc.com/2026/04/20/apple-new-ceo-john-ternus-faces-defining-challenge-fixing-ai-strategy.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-21T06:40:39+00:00",
+      "category": "USA",
+      "simple_explanation": "Tim Cook had a highly successful tenure as Apple's CEO, but he leaves his successor with a big gap to fill when it comes to the company's position in AI."
     },
     {
       "title": "Arbitrum freezes $71M of Ether connected to Kelp exploit",
@@ -241,56 +351,6 @@
       "published_at": "2026-04-21T06:00:03+00:00",
       "category": "Crypto",
       "simple_explanation": "Griff Green, a member of Arbitrum’s security council, said the group acted with input from law enforcement and “did not make this decision lightly.\""
-    },
-    {
-      "title": "US senator urges delay of CLARITY Act Senate markup until May: Report",
-      "description": "US Senator Thom Tillis said members of the crypto and banking industries still need more time to be heard.",
-      "url": "https://cointelegraph.com/news/us-senator-asks-clarity-senate-markup-pushed-back-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzYxNmYtY2Q3MS03ODU5LTk2NjktOTc5NGM1MDAwNDJmLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-21T05:57:19+00:00",
-      "category": "Crypto",
-      "simple_explanation": "US Senator Thom Tillis said members of the crypto and banking industries still need more time to be heard."
-    },
-    {
-      "title": "Code is ‘functional’ free speech under the First Amendment: Coin Center",
-      "description": "Crypto software developers are concerned about whether they could be held criminally liable for publishing their software, following high-profile convictions last year.",
-      "url": "https://cointelegraph.com/news/crypto-code-free-speech-coin-center-first-amendment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGFkNzMtMzJjOS03OGY3LWJjNzAtMTAxMDgxNjhjZWY0LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-21T04:47:58+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Crypto software developers are concerned about whether they could be held criminally liable for publishing their software, following high-profile convictions last year."
-    },
-    {
-      "title": "Coinbase’s AI payments protocol x402 launches app store for AI agents",
-      "description": "Coinbase’s x402 AI payments protocol has launched Agentic.market, a platform where AI agents can discover and use AI-friendly services.",
-      "url": "https://cointelegraph.com/news/coinbase-ai-payments-protocol-x402-launches-ai-agent-app-store?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzRlYjMtMzQ4Zi03ZDIyLTljZjMtZDY1MmM3YjJiMzhmLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-21T04:40:53+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Coinbase’s x402 AI payments protocol has launched Agentic.market, a platform where AI agents can discover and use AI-friendly services."
-    },
-    {
-      "title": "‘New cards on the battlefield’: U.S., Iran ratchet up rhetoric with peace talks in limbo",
-      "description": "American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, says analyst, ahead of potential high-stakes meeting.",
-      "url": "https://www.cnbc.com/2026/04/21/new-cards-on-the-battlefield-us-iran-ratchet-up-rhetoric-with-peace-talks-in-limbo.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-21T04:23:04+00:00",
-      "category": "USA",
-      "simple_explanation": "American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, says analyst, ahead of potential high-stakes meeting."
-    },
-    {
-      "title": "Oil Slips as Iran Set to Attend Negotiations With US in Pakistan",
-      "description": "(Bloomberg) -- Oil slipped on signs that Iran will attend negotiations with the US in Islamabad before a ceasefire between the sides ends.Most Read from BloombergTrump Aims to Seal Iran Deal, Says Truce Extension UnlikelyCruise Ships Seized Brief Hormuz Reopening to Flee Persian GulfInside Alex Coop",
-      "url": "https://finance.yahoo.com/news/oil-slips-as-iran-set-to-attend-negotiations-with-us-in-pakistan-002045814.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-21T04:04:35+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Bloomberg) -- Oil slipped on signs that Iran will attend negotiations with the US in Islamabad before a ceasefire between the sides ends.Most Read from BloombergTrump Aims to Seal Iran Deal, Says Tru"
     },
     {
       "title": "ConocoPhillips (COP) Gained from a Favorable Macroeconomic Backdrop",
@@ -313,16 +373,6 @@
       "simple_explanation": "Investor sentiment has swung wildly in recent weeks."
     },
     {
-      "title": "Exploring Undiscovered Gems in the Middle East April 2026",
-      "description": "In the midst of renewed US-Iran tensions, Middle Eastern stock markets have experienced declines, with key indices such as Dubai's main share index retreating by 2.1% after a streak of gains. Despite these geopolitical challenges and market volatility, resilient domestic fundamentals and elevated oi",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exploring-undiscovered-gems-middle-east-033302368.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-21T03:33:02+00:00",
-      "category": "Commodities",
-      "simple_explanation": "In the midst of renewed US-Iran tensions, Middle Eastern stock markets have experienced declines, with key indices such as Dubai's main share index retreating by 2.1% after a streak of gains. Despite "
-    },
-    {
       "title": "Dow Futures Sink Over 450 Points, Oil Reaches $90 Again; Trump Says Marines Took Custody Of Iranian Ship, Tehran Rejects Negotiations",
       "description": "Late Sunday, U.S. stock futures fell sharply while oil prices surged as tensions between the U.S. and Iran escalated following a naval confrontation in the Gulf of Oman. Stock Futures Slide As Geopolitical Risks Mount Dow futures fell 455.00 points, or 0.92%, to 49,186.00, while S&P 500 futures drop",
       "url": "https://finance.yahoo.com/markets/commodities/articles/dow-futures-sink-over-450-033102589.html?.tsrc=rss",
@@ -331,26 +381,6 @@
       "published_at": "2026-04-21T03:31:02+00:00",
       "category": "USA",
       "simple_explanation": "Late Sunday, U.S. stock futures fell sharply while oil prices surged as tensions between the U.S. and Iran escalated following a naval confrontation in the Gulf of Oman. Stock Futures Slide As Geopoli"
-    },
-    {
-      "title": "Oil prices slip and Asian shares mostly gain as US-Iran talks still in doubt",
-      "description": "Oil prices slipped and Asian shares were mostly higher Tuesday with the future of U.S.-Iran talks aimed at ending the war in doubt.  The price for a barrel of Brent crude oil dipped 1% to $94.44.  U.S. President Donald Trump said Vice President JD Vance would be going to Pakistan’s capital Islamabad",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-oil-prices-031053955.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-21T03:10:53+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil prices slipped and Asian shares were mostly higher Tuesday with the future of U.S.-Iran talks aimed at ending the war in doubt.  The price for a barrel of Brent crude oil dipped 1% to $94.44.  U.S"
-    },
-    {
-      "title": "Diesel Is Up 50% in Weeks. Here Are 2 Stocks Quietly Benefiting From the Spike.",
-      "description": "Refiners are the real winners when diesel fuel prices soar.",
-      "url": "https://www.fool.com/investing/2026/04/20/diesel-is-up-50-in-weeks-here-are-2-stocks-quietly/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-21T01:50:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Refiners are the real winners when diesel fuel prices soar."
     },
     {
       "title": "Ora Banda drilling boosts Golden Pole case as Waihi’s potential third underground mine",
@@ -371,36 +401,6 @@
       "published_at": "2026-04-21T01:08:06+00:00",
       "category": "Commodities",
       "simple_explanation": "Fortuna Mining (TSX:FVI) has entered into an earn in agreement with Qstone for the Quartzstone gold exploration project in Guyana. The agreement gives Fortuna Mining the option to acquire up to a 70% "
-    },
-    {
-      "title": "Major bank identifies surprising trend for American crypto investors",
-      "description": "While the S&P 500 has climbed to historic heights above 7,000 this month, Bitcoin (BTC) has struggled to regain the record-breaking energy that pushed it past $122,000 in October 2025. A new survey of 3,400 global consumers by Deutsche Bank suggests that while more people are ...",
-      "url": "https://www.thestreet.com/crypto/markets/major-bank-identifies-surprising-trend-for-american-crypto-investors?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-21T00:34:44+00:00",
-      "category": "USA",
-      "simple_explanation": "While the S&P 500 has climbed to historic heights above 7,000 this month, Bitcoin (BTC) has struggled to regain the record-breaking energy that pushed it past $122,000 in October 2025. A new survey of"
-    },
-    {
-      "title": "Apple CEO Tim Cook steps down: 7 big challenges for new CEO John Ternus",
-      "description": "Apple's incoming new CEO John Ternus has a long list of to-dos early on.",
-      "url": "https://finance.yahoo.com/news/apple-ceo-tim-cook-steps-down-7-big-challenges-for-new-ceo-john-ternus-233730971.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-20T23:37:30+00:00",
-      "category": "USA",
-      "simple_explanation": "Apple's incoming new CEO John Ternus has a long list of to-dos early on."
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, and Nasdaq futures inch up amid Apple CEO change and Iran uncertainty",
-      "description": "Tim Cook's exit as Apple CEO and the clouded prospects for an extension to the US-Iran truce are in focus.",
-      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-dow-sp-500-and-nasdaq-futures-inch-up-amid-apple-ceo-change-and-iran-uncertainty-231748168.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-20T23:17:48+00:00",
-      "category": "USA",
-      "simple_explanation": "Tim Cook's exit as Apple CEO and the clouded prospects for an extension to the US-Iran truce are in focus."
     }
   ]
 }
