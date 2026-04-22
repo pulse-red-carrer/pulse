@@ -1,16 +1,96 @@
 {
-  "last_updated": "2026-04-22T15:14:10.992796+00:00",
+  "last_updated": "2026-04-22T17:02:30.752317+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Trump administration in advanced talks for Spirit Airlines rescue package, source says",
+      "title": "Strait of Hormuz remains basically closed as Iran seizes ships after Trump ceasefire extension",
+      "description": "Ship traffic in the Strait of Hormuz is still way below normal levels before the war when more than 100 vessels crossed daily.",
+      "url": "https://www.cnbc.com/2026/04/22/iran-war-strait-hormuz-tanker-ship-trump-blockade.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-22T16:58:30+00:00",
+      "category": "USA",
+      "simple_explanation": "Ship traffic in the Strait of Hormuz is still way below normal levels before the war when more than 100 vessels crossed daily."
+    },
+    {
+      "title": "The Mag 7 May Be Splitting Apart",
+      "description": "Earnings could reshape how investors play tech",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mag-7-may-splitting-apart-165120974.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T16:51:20+00:00",
+      "category": "USA",
+      "simple_explanation": "Earnings could reshape how investors play tech"
+    },
+    {
+      "title": "Interactive Brokers Posts Record Revenue but Shares Slip",
+      "description": "Commission and interest income both hit new highs as account growth and trading volumes accelerate",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-posts-record-revenue-164920605.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T16:49:20+00:00",
+      "category": "USA",
+      "simple_explanation": "Commission and interest income both hit new highs as account growth and trading volumes accelerate"
+    },
+    {
+      "title": "Tesla stock rises over 1% as analysts predict exceptional Q1 earnings",
+      "description": "Wall Street analysts forecast that the electric carmaker’s adjusted quarterly earnings will surge 30% in first quarter of 2026 as compared to the previous year",
+      "url": "https://www.livemint.com/market/tesla-stock-rises-over-1-as-analysts-predict-exceptional-q1-earnings-11776874932456.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/22/1600x900/TESLA-CHINA--12_1776875416607_1776875455607.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-04-22T16:45:57+00:00",
+      "category": "India",
+      "simple_explanation": "Wall Street analysts forecast that the electric carmaker’s adjusted quarterly earnings will surge 30% in first quarter of 2026 as compared to the previous year"
+    },
+    {
+      "title": "Microsoft's LinkedIn names longtime exec Dan Shapero its new CEO",
+      "description": "Microsoft said Daniel Shapero will be the new CEO of LinkedIn, reporting to Ryan Roslansky, who held the job since 2020 and now has added responsibility.",
+      "url": "https://www.cnbc.com/2026/04/22/microsofts-linkedin-makes-executive-daniel-shapero-its-new-ceo.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-22T16:40:36+00:00",
+      "category": "USA",
+      "simple_explanation": "Microsoft said Daniel Shapero will be the new CEO of LinkedIn, reporting to Ryan Roslansky, who held the job since 2020 and now has added responsibility."
+    },
+    {
+      "title": "Trump administration in advanced talks for Spirit Airlines rescue package, sources say",
       "description": "The Trump administration is preparing to rescue ailing budget carrier Spirit Airlines.",
       "url": "https://www.cnbc.com/2026/04/22/spirit-airlines-rescue-trump-administration.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-22T15:10:22+00:00",
+      "published_at": "2026-04-22T16:38:02+00:00",
       "category": "USA",
       "simple_explanation": "The Trump administration is preparing to rescue ailing budget carrier Spirit Airlines."
+    },
+    {
+      "title": "President Trump Indefinitely Extends the Iran Ceasefire. How Will This Impact the Oil Markets?",
+      "description": "There's no end to the current oil market disruption in sight.",
+      "url": "https://www.fool.com/investing/2026/04/22/president-trump-indefinitely-extends-the-iran-ceas/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T16:35:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "There's no end to the current oil market disruption in sight."
+    },
+    {
+      "title": "Michael Burry plans to buy Salesforce stock for crucial reason",
+      "description": "The investor who called the 2008 housing collapse is doing something that Wall Street is quite bearish on. He is buying software stocks. Michael Burry, whose famous trade against the mortgage market was depicted in the film \"The Big Short,\" has been building positions in a group of well-known ...",
+      "url": "https://www.thestreet.com/investing/stocks/michael-burry-plans-to-buy-salesforce-crm-stock-at-a-discount?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T16:33:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The investor who called the 2008 housing collapse is doing something that Wall Street is quite bearish on. He is buying software stocks. Michael Burry, whose famous trade against the mortgage market w"
+    },
+    {
+      "title": "Tesla set to report first-quarter results after the bell",
+      "description": "Tesla's stock has underperformed all of its megacap peers so far this year as global competition ramps up in the electric vehicle market.",
+      "url": "https://www.cnbc.com/2026/04/22/tesla-tsla-q1-2026-earnings-report.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-22T16:32:54+00:00",
+      "category": "USA",
+      "simple_explanation": "Tesla's stock has underperformed all of its megacap peers so far this year as global competition ramps up in the electric vehicle market."
     },
     {
       "title": "Iran says it has seized two ships in Strait of Hormuz after U.S. extends ceasefire",
@@ -18,9 +98,159 @@
       "url": "https://www.cnbc.com/2026/04/22/strait-of-hormuz-ships-attacked-iran-war.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-22T15:04:35+00:00",
+      "published_at": "2026-04-22T16:28:18+00:00",
       "category": "USA",
       "simple_explanation": "The attacks come shortly after President Donald Trump said the U.S. would extend the ceasefire with Iran to allow peace talks to continue."
+    },
+    {
+      "title": "Goldquest Mining Reports Potential Depth Extension at Romero Gold-Copper Project in the Dominican Republic",
+      "description": "Goldquest Mining (GQC.V) on Wednesday reported preliminary visual results from the ongoing explorati",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/goldquest-mining-reports-potential-depth-162530689.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T16:25:30+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Goldquest Mining (GQC.V) on Wednesday reported preliminary visual results from the ongoing explorati"
+    },
+    {
+      "title": "Patterson-UTI (PTEN) Q2 2025 Earnings Transcript",
+      "description": "William Andrew Hendricks: Thank you, Mike, and welcome to our second quarter earnings conference call.  The second quarter saw several macro events take place that raised the volatility in the oil markets.  While at the same time, OPEC+ was signaling to the market that it would be raising oil produc",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/04/22/patterson-uti-pten-q2-2025-earnings-transcript/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T16:23:57+00:00",
+      "category": "Commodities",
+      "simple_explanation": "William Andrew Hendricks: Thank you, Mike, and welcome to our second quarter earnings conference call.  The second quarter saw several macro events take place that raised the volatility in the oil mar"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Flashes Highs On Trump Ceasefire; Boeing Soars (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index rose Wednesday after Trump extended the U.S.-Iran ceasefire. Tesla earnings are due late.",
+      "url": "https://finance.yahoo.com/m/7ab1524e-92c4-32c9-81b7-f9d2fd027cef/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T16:20:29+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index rose Wednesday after Trump extended the U.S.-Iran ceasefire. Tesla earnings are due late."
+    },
+    {
+      "title": "Prudential Stock Slumps. A Misconduct Probe in Japan Is Getting ‘Ugly.’",
+      "description": "The insurer’s CEO warned of an expected $525 million to $575 million hit to 2026 operating income after the firm’s Japan affiliate voluntarily extended a suspension of new sales",
+      "url": "https://finance.yahoo.com/m/512cbc9f-f8aa-3778-8ee3-15877d7cb1e7/prudential-stock-slumps.-a.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T16:20:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The insurer’s CEO warned of an expected $525 million to $575 million hit to 2026 operating income after the firm’s Japan affiliate voluntarily extended a suspension of new sales"
+    },
+    {
+      "title": "Ethereum risks 10% decline versus Bitcoin despite record ETH staking",
+      "description": "Ethereum’s record 32.33% staking ratio is shrinking liquid supply, reducing sell pressure and potentially supporting an ETH price recovery over time.",
+      "url": "https://cointelegraph.com/news/ethereum-decline-10percent-versus-bitcoin-despite-record-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGI0ZjctZTBiOC03NDI2LThiOTYtOGFlMTlhYWRlODJhLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-22T16:19:07+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Ethereum’s record 32.33% staking ratio is shrinking liquid supply, reducing sell pressure and potentially supporting an ETH price recovery over time."
+    },
+    {
+      "title": "GE Vernova shares jump over 15% to record high after company raises 2026 outlook on data centre demand",
+      "description": "GE Vernova's shares surged 15.2% to $1,142 after raising its full-year outlook and reporting strong Q1 results, with revenue up 16% YoY to $9.3 billion and a profit of $4.8 billion. The company anticipates 2026 revenue between $44.5 billion and $45.5 billion.",
+      "url": "https://www.livemint.com/market/stock-market-news/ge-vernova-shares-jump-over-15-to-record-high-after-company-raises-2026-outlook-on-data-centre-demand-11776871936817.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/22/1600x900/logo/pexels-photo-6771900_1761442932720_1761442944548_1776872659933.jpeg",
+      "source": "LiveMint",
+      "published_at": "2026-04-22T16:15:32+00:00",
+      "category": "India",
+      "simple_explanation": "GE Vernova's shares surged 15.2% to $1,142 after raising its full-year outlook and reporting strong Q1 results, with revenue up 16% YoY to $9.3 billion and a profit of $4.8 billion. The company antici"
+    },
+    {
+      "title": "United earnings: How airlines continue to factor in fuel cost risks",
+      "description": "United Airlines (UAL) stock is hitting some turbulence on Wednesday after trimming its full-year guidance on the back of rising fuel costs. Yahoo Finance Senior Reporter Pras Subramanian and SDT Capital Advisors president Steve Trent discuss United's earnings results and the airline industry's top c",
+      "url": "https://finance.yahoo.com/video/united-earnings-how-airlines-continue-to-factor-in-fuel-cost-risks-161500245.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T16:15:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "United Airlines (UAL) stock is hitting some turbulence on Wednesday after trimming its full-year guidance on the back of rising fuel costs. Yahoo Finance Senior Reporter Pras Subramanian and SDT Capit"
+    },
+    {
+      "title": "GE Vernova Is Setting Records. This Might Be the Most Surprising One.",
+      "description": "Power-generation technology provider  GE Vernova  remains the best pick-and-shovel stock to play the artificial-intelligence boom.  On Wednesday, the company’s market value exceeded  GE Aerospace’s  for the first time.  GE Aerospace stock was down about 4% to just over $275 a share.",
+      "url": "https://finance.yahoo.com/m/55983651-2182-3277-bed3-7671b617518e/ge-vernova-is-setting.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T15:56:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Power-generation technology provider  GE Vernova  remains the best pick-and-shovel stock to play the artificial-intelligence boom.  On Wednesday, the company’s market value exceeded  GE Aerospace’s  f"
+    },
+    {
+      "title": "Oil prices rise on uncertain prospects for US-Iran ceasefire",
+      "description": "Oil prices climbed Wednesday while stocks were mixed after US President Donald Trump announced the extension of a ceasefire with Iran, prompting investors to wait and see if peace talks would resume.Iranian gunboats attacked at least one container ship in the Strait of Hormuz on Wednesday, maritime ",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/oil-stocks-fall-traders-weigh-025322715.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T15:55:19+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil prices climbed Wednesday while stocks were mixed after US President Donald Trump announced the extension of a ceasefire with Iran, prompting investors to wait and see if peace talks would resume.I"
+    },
+    {
+      "title": "Interactive Brokers Stock Slips After First-Quarter Revenue Misses Estimates",
+      "description": "The brokerage firm has been riding a surge of investor activity that has boosted account openings and trading volume.",
+      "url": "https://finance.yahoo.com/m/6bb55865-ade2-3dde-9a69-a28e160561a2/interactive-brokers-stock.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T15:55:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The brokerage firm has been riding a surge of investor activity that has boosted account openings and trading volume."
+    },
+    {
+      "title": "European Stocks Trend Lower in Wednesday Trading as Strait of Hormuz Remains Closed",
+      "description": "European stock markets were tracking lower and oil prices surged in Wednesday trading as the Strait",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/european-stocks-trend-lower-wednesday-154754897.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T15:47:54+00:00",
+      "category": "Commodities",
+      "simple_explanation": "European stock markets were tracking lower and oil prices surged in Wednesday trading as the Strait"
+    },
+    {
+      "title": "Oil Rises on Elusive Peace Deal Outlook, Iran Gunboat Attacks",
+      "description": "(Bloomberg) -- Oil inched higher as attempts to resolve the seven-week conflict between the US and Iran struggled, and Iranian gunboats opened fire on vessels near the critical Strait of Hormuz waterway.Most Read from BloombergAnthropic’s Mythos Model Is Being Accessed by Unauthorized UsersInside Al",
+      "url": "https://finance.yahoo.com/news/oil-falls-after-iran-says-it-received-sign-us-will-end-blockade-053757101.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T15:42:53+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Bloomberg) -- Oil inched higher as attempts to resolve the seven-week conflict between the US and Iran struggled, and Iranian gunboats opened fire on vessels near the critical Strait of Hormuz waterw"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+      "description": "Nifty 50 and BSE Sensex declined, snapping a three-day rally due to IT and FMCG losses. Rising India VIX signaled caution, though broader trends remain positive with key support and resistance levels in focus.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/130445804.cms",
+      "image": "https://img.etimg.com/photo/msid-130445804,imgsize-116884.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-22T15:32:10+00:00",
+      "category": "India",
+      "simple_explanation": "Nifty 50 and BSE Sensex declined, snapping a three-day rally due to IT and FMCG losses. Rising India VIX signaled caution, though broader trends remain positive with key support and resistance levels "
+    },
+    {
+      "title": "Dow Is Up Nearly 10% From Its Correction Closing Low",
+      "description": "The Dow may soon exit correction territory. The blue-chip index was up 400 points, 0.8%, to about 49,540 points. If it closes above 49,683.30, it will mark a 10% rise from its correction closing low of 45,166.",
+      "url": "https://finance.yahoo.com/m/e798a073-3458-3711-8e8e-8797788febb3/dow-is-up-nearly-10%25-from-its.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T15:21:36+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dow may soon exit correction territory. The blue-chip index was up 400 points, 0.8%, to about 49,540 points. If it closes above 49,683.30, it will mark a 10% rise from its correction closing low o"
+    },
+    {
+      "title": "Market Trading Guide: Buy Adani Green and HBL Engineering on Thursday for gains up to 16%",
+      "description": "Nifty 50 ended lower, breaking its winning streak amid IT and FMCG weakness. Technical indicators show mixed signals with bearish bias short term. Analysts highlight support levels and recommend selective buying in Adani Green Energy and HBL Engineering.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-adani-green-and-hbl-engineering-on-thursday-for-gains-up-to-16/articleshow/130445336.cms",
+      "image": "https://img.etimg.com/photo/msid-130445336,imgsize-139860.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-22T15:04:46+00:00",
+      "category": "India",
+      "simple_explanation": "Nifty 50 ended lower, breaking its winning streak amid IT and FMCG weakness. Technical indicators show mixed signals with bearish bias short term. Analysts highlight support levels and recommend selec"
     },
     {
       "title": "What is a blockchain, and how does it work?",
@@ -31,6 +261,16 @@
       "published_at": "2026-04-22T15:02:44+00:00",
       "category": "Crypto",
       "simple_explanation": "Discover how blockchain works, its real-world limitations, and why decentralization matters. Explore the tech behind the ledger in this comprehensive guide."
+    },
+    {
+      "title": "Gold Recovers After Two-Day Drop as Trump Extends Iran Ceasefire",
+      "description": "(Bloomberg) -- Gold regained some ground after a two-day decline, as US President Donald Trump extended a ceasefire with Iran and allowed more time to arrange fresh peace talks. Most Read from BloombergAnthropic’s Mythos Model Is Being Accessed by Unauthorized UsersInside Alex Cooper’s Unwell: Tears",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-recovers-two-day-drop-055855723.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T14:57:26+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Bloomberg) -- Gold regained some ground after a two-day decline, as US President Donald Trump extended a ceasefire with Iran and allowed more time to arrange fresh peace talks. Most Read from Bloombe"
     },
     {
       "title": "Gold, silver rates today: Comex gold gains $70/oz; silver up $2/oz as Iran ceasefire extension boosts safe-haven demand",
@@ -53,16 +293,6 @@
       "simple_explanation": "Nithin Kamath said India’s F&O market remains small despite perceptions, with limited participation. A tiny group of 1–2% traders drives 60–70% of volumes, making brokerage revenues highly dependent o"
     },
     {
-      "title": "AA Financial Advisors Loads Up on $8.3 Million Worth of DFGP in New Fixed Income Position",
-      "description": "Dimensional Global Core Plus Fixed Income ETF offers investors globally diversified bond exposure, balancing yield opportunities with risk controls.",
-      "url": "https://www.fool.com/coverage/filings/2026/04/22/aa-financial-advisors-loads-up-on-usd8-3-million-worth-of-dfgp-in-new-fixed-income-position/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T14:54:53+00:00",
-      "category": "USA",
-      "simple_explanation": "Dimensional Global Core Plus Fixed Income ETF offers investors globally diversified bond exposure, balancing yield opportunities with risk controls."
-    },
-    {
       "title": "India denies cash, crypto payments to Iran for Hormuz passage",
       "description": "India has denied making any payments, in cash or cryptocurrency, to Iran for safe passage of its vessels through the Strait of Hormuz. This clarification follows an incident on April 18 where two Indian vessels were fired upon by Iranian forces and forced to turn back.",
       "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/india-denies-cash-crypto-payments-to-iran-for-hormuz-passage/articleshow/130445104.cms",
@@ -71,16 +301,6 @@
       "published_at": "2026-04-22T14:54:02+00:00",
       "category": "India",
       "simple_explanation": "India has denied making any payments, in cash or cryptocurrency, to Iran for safe passage of its vessels through the Strait of Hormuz. This clarification follows an incident on April 18 where two Indi"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Picks Up Steam On Trump Ceasefire; United Airlines Takes A Tumble (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index rose Wednesday after Trump extended the U.S.-Iran ceasefire. Tesla earnings are due late.",
-      "url": "https://finance.yahoo.com/m/7ab1524e-92c4-32c9-81b7-f9d2fd027cef/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T14:53:36+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index rose Wednesday after Trump extended the U.S.-Iran ceasefire. Tesla earnings are due late."
     },
     {
       "title": "U.S. Gold Bureau Announces 2026 Gold Krugerrand Prestige 6-Coin Set NGC Proof 70 Featuring Six Flawless Coins",
@@ -93,14 +313,14 @@
       "simple_explanation": "The 2026 Gold Krugerrand Prestige 6-Coin Set features Proof 70 coins across six gold weights from a globally recognized bullion series. LEANDER, TX / ACCESS Newswire / April 22, 2026 / The 2026 releas"
     },
     {
-      "title": "Nvidia's 1,200% Returns Over the Past 5 Years Make It the Third-Best Stock on the S&P 500. These Stocks Have Done Better",
-      "description": "These stocks have surged due to the excitement and growth around data centers.",
-      "url": "https://www.fool.com/investing/2026/04/22/nvidias-1200-returns-over-the-past-5-years-make-it/?.tsrc=rss",
+      "title": "S&P 500, Nasdaq on Pace for New Record Highs as Markets Rebound",
+      "description": "With the U.S.-Iran cease-fire extended indefinitely, the S&P 500 and Nasdaq climbed out of this week’s hole to return to their highest closing levels on record.  The S&P 500 was up 0.9% and trading above Friday's closing high of 7126.06.  The Nasdaq was up 1.2% and trading above Friday's record clos",
+      "url": "https://finance.yahoo.com/m/ceaef852-5a17-3a44-ac92-36a3ca0a24f1/s%26p-500%2C-nasdaq-on-pace-for.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-22T14:50:00+00:00",
+      "published_at": "2026-04-22T14:51:13+00:00",
       "category": "USA",
-      "simple_explanation": "These stocks have surged due to the excitement and growth around data centers."
+      "simple_explanation": "With the U.S.-Iran cease-fire extended indefinitely, the S&P 500 and Nasdaq climbed out of this week’s hole to return to their highest closing levels on record.  The S&P 500 was up 0.9% and trading ab"
     },
     {
       "title": "Best Buy Stock Drops. Can Its New CEO Fix the Slump?",
@@ -111,6 +331,16 @@
       "published_at": "2026-04-22T14:45:00+00:00",
       "category": "USA",
       "simple_explanation": "Best Buy  is shaking things up at the top.  The retailer on Wednesday said that Jason Bonfig will be the retailer’s next CEO, succeeding Corie Barry when she steps down on Oct. 31.  Bonfig comes from "
+    },
+    {
+      "title": "Strategy Jumps 9%, Marathon Digital Rises 6% on Fresh Bitcoin Breakout",
+      "description": "Strategy (NASDAQ:MSTR) shares are up 9% in Wednesday morning trading, climbing from a prior close of $163.97 to around $179. Meanwhile, Marathon Digital Holdings (NASDAQ:MARA) shares are up roughly 6% on the session, rising from $11.23 to nearly $12. Both names are moving hard today, and the reason ",
+      "url": "https://247wallst.com/investing/2026/04/22/strategy-jumps-9-marathon-digital-rises-6-on-fresh-bitcoin-breakout/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-22T14:39:48+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Strategy (NASDAQ:MSTR) shares are up 9% in Wednesday morning trading, climbing from a prior close of $163.97 to around $179. Meanwhile, Marathon Digital Holdings (NASDAQ:MARA) shares are up roughly 6%"
     },
     {
       "title": "Bitcoin Rises on Optimism Over Trump’s Extended Iran Ceasefire",
@@ -133,16 +363,6 @@
       "simple_explanation": "BitDelta India launched as an FIU-registered VDASP, targeting India’s growing crypto market with institutional-grade infrastructure, strong security, and compliance. The platform offers unified INR tr"
     },
     {
-      "title": "Russell 2000 Extends Gains as Risk-On Trade Buoys Small Cap Sentiment",
-      "description": "The Russell 2000 (^RUT) is moving higher Wednesday as small-cap stocks join a broad market rally fueled by President Trump’s decision to extend the U.S. cease-fire with Iran. The Russell 2000 (^RUT) is tacking on 0.82% today and is out front in 2026 with a 12% YTD advance. The small-cap index is sig",
-      "url": "https://247wallst.com/investing/2026/04/22/russell-2000-extends-gains-as-risk-on-trade-buoys-small-cap-sentiment/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T14:30:24+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The Russell 2000 (^RUT) is moving higher Wednesday as small-cap stocks join a broad market rally fueled by President Trump’s decision to extend the U.S. cease-fire with Iran. The Russell 2000 (^RUT) i"
-    },
-    {
       "title": "US Stocks: Traders place $430 million bet on lower oil price before Trump ceasefire extension",
       "description": "Traders placed a series of bets worth $430 million on a drop ​in crude prices just ​15 minutes before U.S. President Donald Trump said he would extend a ​ceasefire with Iran on Tuesday.",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/traders-place-430-million-bet-on-lower-oil-price-before-trump-ceasefire-extension/articleshow/130444359.cms",
@@ -153,74 +373,14 @@
       "simple_explanation": "Traders placed a series of bets worth $430 million on a drop ​in crude prices just ​15 minutes before U.S. President Donald Trump said he would extend a ​ceasefire with Iran on Tuesday."
     },
     {
-      "title": "What Makes DNOW (DNOW) a Lucrative Investment?",
-      "description": "Rewey Asset Management, an investment management firm, released its “RAM Smid Composite” investor letter for the first quarter of 2026. A copy of the letter can be downloaded here. The Composite reports a return of 9.21% in Q1 2026, outperforming the Russell 2500 Value Total Return index, which gain",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-dnow-dnow-lucrative-investment-142603103.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T14:26:03+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Rewey Asset Management, an investment management firm, released its “RAM Smid Composite” investor letter for the first quarter of 2026. A copy of the letter can be downloaded here. The Composite repor"
-    },
-    {
-      "title": "Vertiv Earnings Beat Expectations. The AI Infrastructure Stock Is Sliding Anyway.",
-      "description": "Vertiv, a critical Nvidia partner, posts first-quarter earnings and revenue that top analysts’ forecasts.",
-      "url": "https://finance.yahoo.com/m/e98d062c-4efe-3050-b2b3-433d5cfbd5aa/vertiv-earnings-beat.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T14:26:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Vertiv, a critical Nvidia partner, posts first-quarter earnings and revenue that top analysts’ forecasts."
-    },
-    {
-      "title": "One Wealth Advisors Initiated a Position in iShares' BLCR. Is This ETF a Buy?",
-      "description": "This ETF targets total return through active management of large-cap U.S. equities, blending fundamental and quantitative selection methods.",
-      "url": "https://www.fool.com/coverage/filings/2026/04/22/one-wealth-advisors-initiated-a-position-in-ishares-blcr-is-this-etf-a-buy/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T14:21:09+00:00",
-      "category": "USA",
-      "simple_explanation": "This ETF targets total return through active management of large-cap U.S. equities, blending fundamental and quantitative selection methods."
-    },
-    {
-      "title": "S&P 500, Nasdaq on Pace for New Record Highs as Markets Rebound",
-      "description": "With the U.S.-Iran cease-fire extended indefinitely, the S&P 500 and Nasdaq climbed out of this week’s hole to return to their highest closing levels on record.  The S&P 500 was up 0.8% and trading above Friday's closing high of 7126.06.  The Nasdaq was up 1% and trading above Friday's record close ",
-      "url": "https://finance.yahoo.com/m/ceaef852-5a17-3a44-ac92-36a3ca0a24f1/s%26p-500%2C-nasdaq-on-pace-for.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T14:16:08+00:00",
-      "category": "USA",
-      "simple_explanation": "With the U.S.-Iran cease-fire extended indefinitely, the S&P 500 and Nasdaq climbed out of this week’s hole to return to their highest closing levels on record.  The S&P 500 was up 0.8% and trading ab"
-    },
-    {
-      "title": "RAM Smid Composite’s Views on Kyndryl Holdings (KD)",
-      "description": "Rewey Asset Management, an investment management firm, released its “RAM Smid Composite” investor letter for the first quarter of 2026. A copy of the letter can be downloaded here. The Composite reports a return of 9.21% in Q1 2026, outperforming the Russell 2500 Value Total Return index, which gain",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ram-smid-composite-views-kyndryl-141526564.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T14:15:26+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Rewey Asset Management, an investment management firm, released its “RAM Smid Composite” investor letter for the first quarter of 2026. A copy of the letter can be downloaded here. The Composite repor"
-    },
-    {
-      "title": "TE Connectivity Beats Earnings Estimates. The Stock Is Falling.",
-      "description": "TE Connectivity reported fiscal second-quarter earnings per share of $2.73 from sales of $4.7 billion.",
-      "url": "https://finance.yahoo.com/m/b7e2bce1-a22d-347f-a24d-60e59b46bd6a/te-connectivity-beats.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T14:15:00+00:00",
-      "category": "USA",
-      "simple_explanation": "TE Connectivity reported fiscal second-quarter earnings per share of $2.73 from sales of $4.7 billion."
-    },
-    {
-      "title": "US Stocks: Boeing posts smaller-than-expected quarterly loss as recovery gains traction",
-      "description": "Boeing on Wednesday reported a ​much smaller first-quarter loss than analysts expected, a sign of continued operational recovery at the U.S. planemaker after years of crises that dented its reputation and left it with a mountain of debt.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-boeing-posts-smaller-than-expected-quarterly-loss-as-recovery-gains-traction/articleshow/130444122.cms",
-      "image": "https://img.etimg.com/photo/msid-130444122,imgsize-41650.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-22T14:14:36+00:00",
-      "category": "India",
-      "simple_explanation": "Boeing on Wednesday reported a ​much smaller first-quarter loss than analysts expected, a sign of continued operational recovery at the U.S. planemaker after years of crises that dented its reputation"
+      "title": "Lazarus-linked macOS malware hits crypto and fintech firms",
+      "description": "Security researchers linked a new “Mach-O Man” malware kit to a Lazarus campaign that uses fake meeting invites and ClickFix prompts to steal credentials and access corporate systems on macOS.",
+      "url": "https://cointelegraph.com/news/lazarus-group-malware-crypto-business-execs-macos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGI1MmMtZTMwNy03ZGU1LTk0NDktZTFhMmM0YWI5NjVjLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-22T14:20:48+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Security researchers linked a new “Mach-O Man” malware kit to a Lazarus campaign that uses fake meeting invites and ClickFix prompts to steal credentials and access corporate systems on macOS."
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -233,26 +393,6 @@
       "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
     },
     {
-      "title": "Boeing Trounces Estimates, FAA Sees Path To Key Certifications",
-      "description": "Boeing reports narrower-than-expected loss on a record backlog. FAA says 737 MAX 7, MAX 10 certifications on track for approval this year.",
-      "url": "https://finance.yahoo.com/m/72cda898-59ae-3fe3-ac7a-3432f440607e/boeing-trounces-estimates%2C.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T14:09:56+00:00",
-      "category": "USA",
-      "simple_explanation": "Boeing reports narrower-than-expected loss on a record backlog. FAA says 737 MAX 7, MAX 10 certifications on track for approval this year."
-    },
-    {
-      "title": "US Stocks: Blockchain billionaire Sun takes Trump family’s crypto firm to court",
-      "description": "Crypto entrepreneur Justin Sun on Tuesday sued World Liberty Financial, the digital currency venture co-founded by U.S. President Donald Trump and ​his sons, alleging that World Liberty illegally froze his holdings of tokens issued by the company.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-blockchain-billionaire-sun-takes-trump-familys-crypto-firm-to-court/articleshow/130443905.cms",
-      "image": "https://img.etimg.com/photo/msid-130443905,imgsize-72772.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-22T14:09:47+00:00",
-      "category": "India",
-      "simple_explanation": "Crypto entrepreneur Justin Sun on Tuesday sued World Liberty Financial, the digital currency venture co-founded by U.S. President Donald Trump and ​his sons, alleging that World Liberty illegally froz"
-    },
-    {
       "title": "Commodity Traders Reap a Profit Bonanza from War Oil Shock",
       "description": "(Bloomberg) -- The world’s biggest energy traders are reaping a fresh profit bonanza as the war in Iran causes unprecedented disruption to oil markets. Most Read from BloombergAnthropic’s Mythos Model Is Being Accessed by Unauthorized UsersInside Alex Cooper’s Unwell: Tears, Screaming and Employees ",
       "url": "https://finance.yahoo.com/markets/commodities/articles/commodity-traders-reap-profit-bonanza-210039350.html?.tsrc=rss",
@@ -261,146 +401,6 @@
       "published_at": "2026-04-22T14:06:32+00:00",
       "category": "Commodities",
       "simple_explanation": "(Bloomberg) -- The world’s biggest energy traders are reaping a fresh profit bonanza as the war in Iran causes unprecedented disruption to oil markets. Most Read from BloombergAnthropic’s Mythos Model"
-    },
-    {
-      "title": "Boeing Earnings Beat as Jet Deliveries Take Off. Stock Rises as Turnaround Takes Shape.",
-      "description": "Boeing reported a first-quarter per-share loss of 20 cents from sales of $22.2 billion. Wall Street was looking for a per-share loss of 68 cents from sales of $21.3 billion.",
-      "url": "https://finance.yahoo.com/m/74e5a257-54bd-3497-83e3-4ee06f72d453/boeing-earnings-beat-as-jet.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T14:06:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Boeing reported a first-quarter per-share loss of 20 cents from sales of $22.2 billion. Wall Street was looking for a per-share loss of 68 cents from sales of $21.3 billion."
-    },
-    {
-      "title": "Caprock Mining Plans to Start Drill Program Designed for Pit-Constrained Mineral Resource Expansion at Destiny",
-      "description": "Caprock Mining (CAPR.CN) on Wednesday said it plans to start a shallow drill program designed to exp",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/caprock-mining-plans-start-drill-140523125.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T14:05:23+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Caprock Mining (CAPR.CN) on Wednesday said it plans to start a shallow drill program designed to exp"
-    },
-    {
-      "title": "Bitcoin Price Hits Two-Month High Amid Strategy Buys. Watch This Range, Analyst Says.",
-      "description": "Strategy's buying spree, ETF rebound and institutional participation push bitcoin price above $78,000.",
-      "url": "https://finance.yahoo.com/m/5d65cab0-129a-37b1-be2c-9a11b2761dec/bitcoin-price-hits-two-month.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T14:05:23+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Strategy's buying spree, ETF rebound and institutional participation push bitcoin price above $78,000."
-    },
-    {
-      "title": "Boeing CEO says 'all systems are go' to increase 737 production as company narrows loss",
-      "description": "Boeing expects certification of new Max 7 and 10 models later this year,  with deliveries starting in 2027.",
-      "url": "https://www.cnbc.com/2026/04/22/boeing-ba-q1-2026-earnings.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-22T14:05:20+00:00",
-      "category": "USA",
-      "simple_explanation": "Boeing expects certification of new Max 7 and 10 models later this year,  with deliveries starting in 2027."
-    },
-    {
-      "title": "Ultra Clean Holdings (UCTT) Delivered a 141.5% Return in Q1",
-      "description": "Rewey Asset Management, an investment management firm, released its “RAM Smid Composite” investor letter for the first quarter of 2026. A copy of the letter can be downloaded here. The Composite reports a return of 9.21% in Q1 2026, outperforming the Russell 2500 Value Total Return index, which gain",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ultra-clean-holdings-uctt-surged-140338351.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T14:03:38+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Rewey Asset Management, an investment management firm, released its “RAM Smid Composite” investor letter for the first quarter of 2026. A copy of the letter can be downloaded here. The Composite repor"
-    },
-    {
-      "title": "Binance.US cuts spot trading fees to near zero in push to undercut rivals",
-      "description": "The exchange set maker fees at 0% and taker fees at 0.02% across all pairs, extending near-zero pricing to all users with no volume tiers or subscription requirements.",
-      "url": "https://cointelegraph.com/news/binance-us-cuts-spot-trading-fees-to-near-zero-in-push-to-undercut-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGIxZDctY2Y1ZS03M2Q2LTgxOTQtNDI0MDU2OTI0MWY5LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-22T14:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The exchange set maker fees at 0% and taker fees at 0.02% across all pairs, extending near-zero pricing to all users with no volume tiers or subscription requirements."
-    },
-    {
-      "title": "Why GLDI investors captured only 29% while gold soared 44% in one year",
-      "description": "Credit Suisse X-Links Gold Shares Covered Call ETN (NASDAQ:GLDI) has paid monthly distributions every month since its 2013 inception, with recent payouts generous but structurally variable. The gap between what GLDI delivers and what gold itself has returned reveals the product’s core trade-offs. Wh",
-      "url": "https://247wallst.com/investing/2026/04/22/why-gldi-investors-captured-only-29-while-gold-soared-44-in-one-year/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T13:54:13+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Credit Suisse X-Links Gold Shares Covered Call ETN (NASDAQ:GLDI) has paid monthly distributions every month since its 2013 inception, with recent payouts generous but structurally variable. The gap be"
-    },
-    {
-      "title": "Wall Street surges after Trump extends Iran ceasefire",
-      "description": "At 09:50 a.m. ET, the Dow Jones Industrial Average rose 0.72%, the S&amp;P 500 gained 0.65%, the Nasdaq Composite gained 0.76%",
-      "url": "https://www.livemint.com/market/stock-market-news/wall-street-surges-after-trump-extends-iran-ceasefire-11776864300315.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/22/1600x900/logo/US-STOCKS-24_1776864608823_1776864630427.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-22T13:53:37+00:00",
-      "category": "India",
-      "simple_explanation": "At 09:50 a.m. ET, the Dow Jones Industrial Average rose 0.72%, the S&amp;P 500 gained 0.65%, the Nasdaq Composite gained 0.76%"
-    },
-    {
-      "title": "Aave deposits fall by $15B as Kelp exploit sparks flight from DeFi lender",
-      "description": "Aave’s supplied balance has tanked since the Kelp DAO bridge exploit, as users pull funds amid uncertainty over how much of the rsETH-linked shortfall the protocol will ultimately absorb.",
-      "url": "https://cointelegraph.com/news/aave-deposits-drop-15b-kelp-dao-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGI1MTktMzUxMy03NDJlLWE5MmUtNTNiNzUwM2FlMzRiLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-22T13:47:33+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Aave’s supplied balance has tanked since the Kelp DAO bridge exploit, as users pull funds amid uncertainty over how much of the rsETH-linked shortfall the protocol will ultimately absorb."
-    },
-    {
-      "title": "UK cracks down on illegal peer-to-peer crypto trading in nationwide raids",
-      "description": "The Financial Conduct Authority has raided eight locations suspected of illegal peer-to-peer crypto trading, issuing cease-and-desist orders.",
-      "url": "https://cointelegraph.com/news/uk-fca-illegal-peer-to-peer-crypto-trading-raids?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGI1MzEtMTI5OS03NWUwLThiODEtMmVlYjlmMWM1MzAxLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-22T13:38:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The Financial Conduct Authority has raided eight locations suspected of illegal peer-to-peer crypto trading, issuing cease-and-desist orders."
-    },
-    {
-      "title": "Queensland fast-tracks major coal and gold projects",
-      "description": "The Big Vein South Gold Project has been declared a Prescribed Project.",
-      "url": "https://www.mining-technology.com/news/queensland-fast-tracks-coal-gold-projects/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-22T13:29:04+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The Big Vein South Gold Project has been declared a Prescribed Project."
-    },
-    {
-      "title": "Europe’s MiCA regime puts smaller crypto firms under pressure",
-      "description": "Smaller crypto companies across Europe face mounting compliance costs as MiCA moves from framework to enforcement, raising fears of market consolidation.",
-      "url": "https://cointelegraph.com/news/europe-mica-regime-smaller-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGI1MDUtZDZhNi03YTE4LWIxNjctNGYxMzA5OWFhYWYyLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-22T13:28:35+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Smaller crypto companies across Europe face mounting compliance costs as MiCA moves from framework to enforcement, raising fears of market consolidation."
-    },
-    {
-      "title": "Tata Communications Q4 Results: Profit falls 75% YoY to Rs 259 crore; co declares Rs 17.5 dividend",
-      "description": "Tata Communications reported a 75% YoY drop in Q4 profit to Rs 259 crore due to absence of one-off gains, despite 9% revenue growth. Higher costs and base effects pressured margins, while the company announced a Rs 17.5 dividend.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-communications-q4-results-profit-falls-75-yoy-to-rs-259-crore-co-declares-rs-17-5-dividend/articleshow/130442972.cms",
-      "image": "https://img.etimg.com/photo/msid-130442972,imgsize-20160.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-22T13:21:25+00:00",
-      "category": "India",
-      "simple_explanation": "Tata Communications reported a 75% YoY drop in Q4 profit to Rs 259 crore due to absence of one-off gains, despite 9% revenue growth. Higher costs and base effects pressured margins, while the company "
-    },
-    {
-      "title": "Google unveils chips for AI training and inference in latest shot at Nvidia",
-      "description": "Google is packing ample amounts of static random access memory into a dedicated chip for running artificial intelligence models, following Nvidia's plans.",
-      "url": "https://www.cnbc.com/2026/04/22/google-launches-training-and-inference-tpus-in-latest-shot-at-nvidia.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-22T13:18:40+00:00",
-      "category": "USA",
-      "simple_explanation": "Google is packing ample amounts of static random access memory into a dedicated chip for running artificial intelligence models, following Nvidia's plans."
     }
   ]
 }
