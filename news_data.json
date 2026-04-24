@@ -1,26 +1,326 @@
 {
-  "last_updated": "2026-04-24T10:22:23.047600+00:00",
+  "last_updated": "2026-04-24T11:57:36.586450+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Nike cuts 1,400 roles in second round of layoffs this year",
+      "description": "Nike announced 1,400 layoffs, primarily in its technology department, on Thursday after cutting 775 jobs in January.",
+      "url": "https://www.cnbc.com/2026/04/23/nike-job-cuts-layoffs.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-24T11:46:54+00:00",
+      "category": "USA",
+      "simple_explanation": "Nike announced 1,400 layoffs, primarily in its technology department, on Thursday after cutting 775 jobs in January."
+    },
+    {
+      "title": "Trump warns of ‘big tariff’ if UK doesn’t drop digital services tax on U.S. tech firms",
+      "description": "The tax is a 2% levy on the revenues of search engines, social media services and online marketplaces that derive value from U.K. users.",
+      "url": "https://www.cnbc.com/2026/04/24/trump-tariffs-uk-tech-apple-google-meta.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-24T11:45:05+00:00",
+      "category": "USA",
+      "simple_explanation": "The tax is a 2% levy on the revenues of search engines, social media services and online marketplaces that derive value from U.K. users."
+    },
+    {
+      "title": "Wall Street's 'fear gauge' is doing something unusual. What it means",
+      "description": "The S&P 500 touched record highs Thursday morning, but the Cboe Volatility Index (VIX) remained stuck near 20 and is up from five days ago.",
+      "url": "https://www.cnbc.com/2026/04/24/wall-streets-fear-gauge-is-doing-something-unusual-what-it-means.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-24T11:44:11+00:00",
+      "category": "USA",
+      "simple_explanation": "The S&P 500 touched record highs Thursday morning, but the Cboe Volatility Index (VIX) remained stuck near 20 and is up from five days ago."
+    },
+    {
+      "title": "Dow Jones Futures Rise As Iran Talks Seen; Chip Rally Has Intel Inside",
+      "description": "Futures rose as oil prices fell amid reports that new U.S.-Iran talks are ahead. Techs jumped as Intel spiked on earnings and guidance.",
+      "url": "https://finance.yahoo.com/m/4ed9028d-98a4-36bd-b44f-a9bbe1410bd6/dow-jones-futures-rise-as.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-24T11:43:53+00:00",
+      "category": "USA",
+      "simple_explanation": "Futures rose as oil prices fell amid reports that new U.S.-Iran talks are ahead. Techs jumped as Intel spiked on earnings and guidance."
+    },
+    {
+      "title": "Persian Gulf Uncertainty Undercuts European Bourses Midday",
+      "description": "European bourses tracked moderately lower midday Friday as traders weighed the still-closed Strait o",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/persian-gulf-uncertainty-undercuts-european-113959231.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-24T11:39:59+00:00",
+      "category": "Commodities",
+      "simple_explanation": "European bourses tracked moderately lower midday Friday as traders weighed the still-closed Strait o"
+    },
+    {
+      "title": "Polymarket gambler makes $35,000 profit by using hair dryer to tamper with temperature readings at Paris airport",
+      "description": "A Polymarket user allegedly made $35,000 by exploiting unusual temperature spikes recorded at Paris airport, prompting a police investigation into possible sensor tampering. While speculation points to physical interference, authorities are probing the incident, raising fresh concerns over manipulat",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/polymarket-gambler-makes-35000-profit-by-using-hair-dryer-to-tamper-with-temperature-readings-at-paris-airport/articleshow/130492802.cms",
+      "image": "https://img.etimg.com/photo/msid-130492802,imgsize-8642.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-24T11:39:11+00:00",
+      "category": "India",
+      "simple_explanation": "A Polymarket user allegedly made $35,000 by exploiting unusual temperature spikes recorded at Paris airport, prompting a police investigation into possible sensor tampering. While speculation points t"
+    },
+    {
+      "title": "Procter & Gamble earnings beat estimates as sales grow 7%",
+      "description": "The company reiterated its full-year forecast for earnings and sales.",
+      "url": "https://www.cnbc.com/2026/04/24/procter-gamble-pg-q3-2026-earnings.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-24T11:35:38+00:00",
+      "category": "USA",
+      "simple_explanation": "The company reiterated its full-year forecast for earnings and sales."
+    },
+    {
+      "title": "Investors Will Soon Have Two New Alternatives to Invesco QQQ",
+      "description": "Two investment firms just filed to launch Nasdaq-100-focused ETFs.",
+      "url": "https://www.fool.com/investing/2026/04/24/investors-will-soon-have-two-new-alternatives-to-i/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-24T11:35:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Two investment firms just filed to launch Nasdaq-100-focused ETFs."
+    },
     {
       "title": "Porsche is selling its Bugatti Rimac stake and walking away from Rimac",
       "description": "The automotive industry has grappled with mounting pressure to consolidate amid slowing growth, rising costs and intensifying margin pressure.",
       "url": "https://www.cnbc.com/2026/04/24/porsche-bugatti-bluefive-hof-capital-european-supercar-automakers.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-24T10:20:49+00:00",
+      "published_at": "2026-04-24T11:34:41+00:00",
       "category": "USA",
       "simple_explanation": "The automotive industry has grappled with mounting pressure to consolidate amid slowing growth, rising costs and intensifying margin pressure."
     },
     {
-      "title": "California's jet fuel stockpile hits two-year low as war strangles oil supplies",
-      "description": "The closure of the Strait of Hormuz has squeezed global oil supply, putting pressure on California's jet fuel reserves.",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/californias-jet-fuel-stockpile-hits-100000158.html?.tsrc=rss",
+      "title": "Metaplanet raises $50M in zero-interest bonds to buy more Bitcoin",
+      "description": "Metaplanet raises $50 million through zero-interest bonds from EVO FUND to expand its Bitcoin treasury, extending its capital markets-driven accumulation strategy.",
+      "url": "https://cointelegraph.com/news/metaplanet-issues-50-million-in-zero-coupon-bonds-to-buy-more-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGJmMjUtMzM3Ni03ZjJkLWEwMDktMzc2ZDI0NTZjMjhmLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-24T11:33:22+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Metaplanet raises $50 million through zero-interest bonds from EVO FUND to expand its Bitcoin treasury, extending its capital markets-driven accumulation strategy."
+    },
+    {
+      "title": "Stocks Mostly Up Pre-Bell as Israel, Lebanon Agree to Extend Ceasefire",
+      "description": "The benchmark US stock measures were mostly pointing higher before the open Friday as President Dona",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-pre-bell-israel-113130009.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-24T10:00:00+00:00",
+      "published_at": "2026-04-24T11:31:30+00:00",
+      "category": "USA",
+      "simple_explanation": "The benchmark US stock measures were mostly pointing higher before the open Friday as President Dona"
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Friday, April 24, 2026: Values up over the last five days",
+      "description": "Bitcoin opened at $78,278.66 on Friday. The value of bitcoin as of 7:06 a.m ET was $78,106.63. Ethereum opened at $2,331.54 on Friday. The value of ethereum as of 7:06 a.m. ET was $2,352.95.",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-24-2026-values-up-over-the-last-five-days-112919953.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-24T11:29:19+00:00",
       "category": "Commodities",
-      "simple_explanation": "The closure of the Strait of Hormuz has squeezed global oil supply, putting pressure on California's jet fuel reserves."
+      "simple_explanation": "Bitcoin opened at $78,278.66 on Friday. The value of bitcoin as of 7:06 a.m ET was $78,106.63. Ethereum opened at $2,331.54 on Friday. The value of ethereum as of 7:06 a.m. ET was $2,352.95."
+    },
+    {
+      "title": "TSMC shares jump to record high as Taiwan eases single-stock investment caps for funds",
+      "description": "TSMC, whose shares had a hit a record high on Thursday as well, last week reported a 58% increase in first-quarter profit.",
+      "url": "https://www.cnbc.com/2026/04/24/tsmc-shares-record-high-taiwan-single-stock-investment-cap-for-funds.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-24T11:28:49+00:00",
+      "category": "USA",
+      "simple_explanation": "TSMC, whose shares had a hit a record high on Thursday as well, last week reported a 58% increase in first-quarter profit."
+    },
+    {
+      "title": "Fed Chair Nominee Kevin Warsh Just Said 9 Words That Should Have Wall Street Worried",
+      "description": "Warsh's Senate Banking Committee testimony shed light on one way he'd transform the nation's central bank.",
+      "url": "https://www.fool.com/investing/2026/04/24/fed-chair-kevin-warsh-9-words-wall-street-worried/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-24T11:26:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Warsh's Senate Banking Committee testimony shed light on one way he'd transform the nation's central bank."
+    },
+    {
+      "title": "Imperial Metals Reports Lower Copper and Gold Production for Q1 2026 from Red Chris Mine",
+      "description": "Imperial Metals (III.TO) reported lower copper and gold production for the first quarter 2026 from R",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/imperial-metals-reports-lower-copper-112454734.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-24T11:24:54+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Imperial Metals (III.TO) reported lower copper and gold production for the first quarter 2026 from R"
+    },
+    {
+      "title": "SLB Stock Tumbles on Earnings as CEO Cites ‘Challenging Start to the Year’",
+      "description": "While  SLB  claimed in January that its struggles in key regions were over, Friday’s earnings report signaled challenges continue for the oilfield services provider.  CEO Olivier Le Peuch conceded that SLB had “a challenging start to the year” as conflict in the Middle East affected its business, wi",
+      "url": "https://finance.yahoo.com/m/ba0ca60a-1659-3acc-904e-92f064ec0829/slb-stock-tumbles-on-earnings.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-24T11:24:00+00:00",
+      "category": "USA",
+      "simple_explanation": "While  SLB  claimed in January that its struggles in key regions were over, Friday’s earnings report signaled challenges continue for the oilfield services provider.  CEO Olivier Le Peuch conceded tha"
+    },
+    {
+      "title": "Stocks Take a Breather After Record Run. Big Tech Earnings and Fed Meeting Loom Large.",
+      "description": "Investors will need to rest up ahead of next week’s bruising slate of corporate earnings, economic data, and central bank policy meetings.  The  took a breather on Thursday, falling around 30 points from its recent record high as global oil prices extended their weekly run of gains amid rising U.S.-",
+      "url": "https://finance.yahoo.com/m/900d22d7-715b-3342-ba74-a685e2e8bd7d/stocks-take-a-breather-after.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-24T11:24:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Investors will need to rest up ahead of next week’s bruising slate of corporate earnings, economic data, and central bank policy meetings.  The  took a breather on Thursday, falling around 30 points f"
+    },
+    {
+      "title": "Oil extends gains, stocks drop as peace talk hopes fade",
+      "description": "Oil prices extended gains Friday and stock markets largely declined as investors worried about a lack of progress in ending the Middle East crisis, with Tehran keeping the Strait of Hormuz closed and the US maintaining a blockade of Iranian ports.However on Friday, \"stocks are down across the board,",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/oil-extends-gains-stocks-sink-025127756.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-24T11:22:47+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil prices extended gains Friday and stock markets largely declined as investors worried about a lack of progress in ending the Middle East crisis, with Tehran keeping the Strait of Hormuz closed and "
+    },
+    {
+      "title": "IndusInd Bank Q4 Results: Profit at  ₹594 crore vs loss YoY; NII jumps 43%, asset quality improves",
+      "description": "IndusInd Bank reported a net profit of  ₹594.2 crore for FY26, reversing last year's loss of  ₹2,329 crore. The bank's net interest income rose 43.4% year-on-year to  ₹4,372 crore, surpassing analysts' expectations.",
+      "url": "https://www.livemint.com/market/indusind-bank-q4-results-profit-at-rs-594-crore-vs-loss-yoy-nii-jumps-43-asset-quality-improves-11777029446425.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/24/1600x900/INDUSIND-BANK-MANAGEMENT-STOCKS-0_1746019330354_1777029441737.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-04-24T11:21:51+00:00",
+      "category": "India",
+      "simple_explanation": "IndusInd Bank reported a net profit of  ₹594.2 crore for FY26, reversing last year's loss of  ₹2,329 crore. The bank's net interest income rose 43.4% year-on-year to  ₹4,372 crore, surpassing analysts"
+    },
+    {
+      "title": "IndusInd Bank Q4 Results: Lender reports profit of Rs 533 cr vs loss year ago; declares Rs 1.5/share final dividend",
+      "description": "IndusInd Bank Q4 Results: IndusInd Bank has announced a significant turnaround, posting a standalone net profit of Rs 533 crore in the fourth quarter, a stark contrast to the Rs 2,236 crore loss a year ago. Despite a sequential dip in profit, the bank declared a final dividend of Rs 1.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q4-results-lender-reports-profit-of-rs-533-cr-vs-loss-year-ago-declares-rs-1-5/share-final-dividend-check-record-date/articleshow/130492287.cms",
+      "image": "https://img.etimg.com/photo/msid-130492287,imgsize-1735814.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-24T11:20:48+00:00",
+      "category": "India",
+      "simple_explanation": "IndusInd Bank Q4 Results: IndusInd Bank has announced a significant turnaround, posting a standalone net profit of Rs 533 crore in the fourth quarter, a stark contrast to the Rs 2,236 crore loss a yea"
+    },
+    {
+      "title": "Meet the Under-the-Radar Growth Stock Crushing the S&P 500, the Nasdaq-100, and the Dow Jones in 2026",
+      "description": "This company is benefiting from the wild swings in the stock market.",
+      "url": "https://www.fool.com/investing/2026/04/24/meet-growth-stock-crushing-sp-500-nasdaq-dow-2026/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-24T11:20:00+00:00",
+      "category": "USA",
+      "simple_explanation": "This company is benefiting from the wild swings in the stock market."
+    },
+    {
+      "title": "Foreign car companies bet on technology to hang onto once-lucrative China auto market",
+      "description": "U.S., Korean and German automakers announced a rush of new, tech-enabled cars at the Beijing Auto Show as they battle a sales slump",
+      "url": "https://www.cnbc.com/2026/04/24/foreign-car-companies-use-technology-to-hang-onto-china-auto-market.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-04-24T11:18:47+00:00",
+      "category": "Global",
+      "simple_explanation": "U.S., Korean and German automakers announced a rush of new, tech-enabled cars at the Beijing Auto Show as they battle a sales slump"
+    },
+    {
+      "title": "Newmont Beats Q1 Estimates as Record Cash Flow Drives Buyback Expansion",
+      "description": "Newmont Corporation (NYSE:NEM) reported first-quarter results ahead of expectations, with adjusted earnings per share of $2. 90 topping forecasts by $0.",
+      "url": "https://investorshub.advfn.com/market-news/article/27206/newmont-beats-q1-estimates-as-record-cash-flow-drives-buyback-expansion?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-24T11:14:23+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Newmont Corporation (NYSE:NEM) reported first-quarter results ahead of expectations, with adjusted earnings per share of $2. 90 topping forecasts by $0."
+    },
+    {
+      "title": "Tech Tops Oil Pre-Bell on Wall Street; Asia Up, Europe Off",
+      "description": "Wall Street futures largely pointed higher on Wall Street after Intel (INTC) shares jumped 26.6% pre",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-tops-oil-pre-bell-110837225.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-24T11:08:37+00:00",
+      "category": "USA",
+      "simple_explanation": "Wall Street futures largely pointed higher on Wall Street after Intel (INTC) shares jumped 26.6% pre"
+    },
+    {
+      "title": "Assessing International Petroleum (TSX:IPCO) Valuation After Strong Recent Share Price Performance",
+      "description": "Recent Performance Snapshot International Petroleum (TSX:IPCO) has drawn fresh attention after a period of strong share price moves, with returns of 3.6% over the past month and 42.6% over the past 3 months. See our latest analysis for International Petroleum. Short term momentum in International Pe",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-international-petroleum-tsx-ipco-110717099.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-24T11:07:17+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Recent Performance Snapshot International Petroleum (TSX:IPCO) has drawn fresh attention after a period of strong share price moves, with returns of 3.6% over the past month and 42.6% over the past 3 "
+    },
+    {
+      "title": "The aerospace and defense trade is taking investors deeper into space, and more ETFs are up for the mission",
+      "description": "VettaFi's Cinthia Murphy finds more exchange-traded funds are tackling the space theme more directly as excitement over the SpaceX IPO grows.",
+      "url": "https://www.cnbc.com/2026/04/24/aerospace-and-defense-as-growth-drivers-for-etfs-amid-iran-war.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-04-24T11:00:01+00:00",
+      "category": "Global",
+      "simple_explanation": "VettaFi's Cinthia Murphy finds more exchange-traded funds are tackling the space theme more directly as excitement over the SpaceX IPO grows."
+    },
+    {
+      "title": "Gold and silver prices today, Friday, April 24: Gold and silver slipping as oil prices and dollar gain strength",
+      "description": "Gold June futures opened at $4,715.60 per troy ounce on Friday, and moved lower to $4,700.20 at 6:35 a.m. ET. Silver May futures opened at $75.56 per ounce on Friday, and continued to slide to $74.83 as of 6:35 a.m. ET.",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-and-silver-prices-today-friday-april-24-gold-and-silver-slipping-as-oil-prices-and-dollar-gain-strength-105942338.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-24T10:59:42+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold June futures opened at $4,715.60 per troy ounce on Friday, and moved lower to $4,700.20 at 6:35 a.m. ET. Silver May futures opened at $75.56 per ounce on Friday, and continued to slide to $74.83 "
+    },
+    {
+      "title": "Push to unwind Bitcoin hoarder shows once-hot trade failing",
+      "description": "Shareholders, including Pantera Capital, are urging UK Bitcoin accumulator Satsuma Technology Plc to sell its $50 million in Bitcoin and wind down operations. This push highlights the decline of the once-popular digital-asset treasury model, as Satsuma's stock price has plummeted, reflecting the eva",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-failing/articleshow/130491643.cms",
+      "image": "https://img.etimg.com/photo/msid-130491643,imgsize-90334.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-24T10:58:21+00:00",
+      "category": "India",
+      "simple_explanation": "Shareholders, including Pantera Capital, are urging UK Bitcoin accumulator Satsuma Technology Plc to sell its $50 million in Bitcoin and wind down operations. This push highlights the decline of the o"
+    },
+    {
+      "title": "Small-cap stock Krystal Integrated Services jumps 2.5% despite stock market sell-off",
+      "description": "Krystal Integrated Services Limited's share price rose 2.5% on April 24 after winning a  ₹138 crore solar contract from Maharashtra. The stock peaked at  ₹643 before settling at  ₹588.70, amidst an overall market decline due to rising crude prices and geopolitical tensions.",
+      "url": "https://www.livemint.com/market/stock-market-news/smallcap-stock-krystal-integrated-services-share-price-jumps-2-5-despite-stock-market-selloff-11777027643784.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/24/1600x900/logo/Small-cap_stock_Krystal_Integrated_Services_share__1777027728568_1777027728713.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-24T10:55:39+00:00",
+      "category": "India",
+      "simple_explanation": "Krystal Integrated Services Limited's share price rose 2.5% on April 24 after winning a  ₹138 crore solar contract from Maharashtra. The stock peaked at  ₹643 before settling at  ₹588.70, amidst an ov"
+    },
+    {
+      "title": "‘Would love to own it, but…’: Aswath Damodaran flags $1.75 trillion valuation for SpaceX ahead of IPO",
+      "description": "Aswath Damodaran calls SpaceX an engineering marvel with strong competitive advantages, but is wary of the rumoured IPO pricing of $1.75 trillion to $2 trillion.",
+      "url": "https://www.livemint.com/market/ipo/would-love-to-own-it-but-aswath-damodaran-flags-1-75-trillion-valuation-for-spacex-ahead-of-ipo-11777026498444.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/24/1600x900/logo/2-0-817933311-aswathdamodaran3-0_1679561100907_1777026644450.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-04-24T10:31:51+00:00",
+      "category": "India",
+      "simple_explanation": "Aswath Damodaran calls SpaceX an engineering marvel with strong competitive advantages, but is wary of the rumoured IPO pricing of $1.75 trillion to $2 trillion."
+    },
+    {
+      "title": "Top Gainers & Losers on April 24: Anant Raj, Infosys, Cyient, Ceat, HCL Tech, Coforge among top losers",
+      "description": "The Indian stock market faced a weak session, with key indices declining for the third day due to broad selling in technology stocks and rising crude oil prices. The Nifty dropped 1.10% to 23,907, while the Sensex fell 1.28% to 76,670 amid unfavorable global sentiment.",
+      "url": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-april-24-anant-raj-infosys-cyient-ceat-hcl-tech-coforge-among-top-losers-11777025840580.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/24/1600x900/3-0-103769130-iStock-1182812188-0_1679850494801_1777025935810.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-04-24T10:23:54+00:00",
+      "category": "India",
+      "simple_explanation": "The Indian stock market faced a weak session, with key indices declining for the third day due to broad selling in technology stocks and rising crude oil prices. The Nifty dropped 1.10% to 23,907, whi"
+    },
+    {
+      "title": "Rupee logs steepest weekly drop in over three years as Iran war worries resurface",
+      "description": "The Indian rupee ​declined in all five trading ​sessions to log its steepest week-on-week loss since September 2022, ​as worries over the fragility of a U.S.-Iran ceasefire and disrupted energy flows sparked a renewed surge in oil prices.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-logs-steepest-weekly-drop-in-over-three-years-as-iran-war-worries-resurface/articleshow/130490733.cms",
+      "image": "https://img.etimg.com/photo/msid-130490733,imgsize-80898.cms",
+      "source": "Economic Times",
+      "published_at": "2026-04-24T10:21:42+00:00",
+      "category": "India",
+      "simple_explanation": "The Indian rupee ​declined in all five trading ​sessions to log its steepest week-on-week loss since September 2022, ​as worries over the fragility of a U.S.-Iran ceasefire and disrupted energy flows "
     },
     {
       "title": "Global Markets | Japan's Nikkei closes at record high as tech earnings overshadow Mideast concerns",
@@ -43,74 +343,34 @@
       "simple_explanation": "Tata Capital anticipates strong performance in FY27, driven by growth, improved margins, and operating efficiency. The company has seen a consistent decline in credit costs, a trend expected to contin"
     },
     {
-      "title": "Global Markets | European shares fall, set for weekly loss on Middle East worries",
-      "description": "European shares fell on ​Friday and were set to end the week lower, as investors remained concerned about the lack of progress toward a resolution to the Middle East conflict, while also ‌keeping a ⁠close ⁠watch on corporate earnings.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-fall-set-for-weekly-loss-on-middle-east-worries/articleshow/130490115.cms",
-      "image": "https://img.etimg.com/photo/msid-130490115,imgsize-44356.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-24T09:55:53+00:00",
-      "category": "India",
-      "simple_explanation": "European shares fell on ​Friday and were set to end the week lower, as investors remained concerned about the lack of progress toward a resolution to the Middle East conflict, while also ‌keeping a ⁠c"
-    },
-    {
-      "title": "SocGen's Overnight Economic News Summary",
-      "description": "Societe Generale in its early Friday economic news summary pointed out: -- Risk off, Brent scales",
-      "url": "https://finance.yahoo.com/economy/articles/socgen-apos-overnight-economic-news-095411940.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-24T09:54:11+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Societe Generale in its early Friday economic news summary pointed out: -- Risk off, Brent scales"
-    },
-    {
-      "title": "Hindustan Zinc announces Rs 11/share dividend: Check record date, other key details",
+      "title": "Hindustan Zinc announces first interim dividend of Rs 11: Check record date for Rs 4,600 crore payout",
       "description": "Metals major Hindustan Zinc on Friday declared a first interim dividend of Rs 11 per equity share for the ongoing financial year 2027, with the record date to determine the eligibility of shareholders being fixed on April 30.",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-announces-rs-11/share-dividend-check-record-date-other-key-details/articleshow/130490102.cms",
       "image": "https://img.etimg.com/photo/msid-130490102,imgsize-32264.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-04-24T09:53:38+00:00",
       "category": "India",
       "simple_explanation": "Metals major Hindustan Zinc on Friday declared a first interim dividend of Rs 11 per equity share for the ongoing financial year 2027, with the record date to determine the eligibility of shareholders"
     },
     {
       "title": "Shriram Finance Q4 Results: Net profit jumps 41% to  ₹3,014 crore YoY, final dividend of  ₹6/share recommended",
-      "description": "Shriram Finance Q4 Results: Net profit jumps 41% to  ₹3,014 crore YoY, final dividend of  ₹6/share recommended",
+      "description": "Shriram Finance Q4 Results: Shriram Finance reported a 41% increase in Q4 standalone net profit to  ₹3,014 crore. NII rose by 21% to  ₹6,751 crore. Profit after tax increased by 20.87% to  ₹9,998.15 crore, and total assets under management grew by 15% to  ₹302,274 crore.",
       "url": "https://www.livemint.com/market/stock-market-news/shriram-finance-q4-results-net-profit-jumps-41-to-rs-3-014-crore-yoy-final-dividend-of-rs-6-share-recommended-11777023894364.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/24/1600x900/breaking_news_1545650155659_1777024009856.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/24/1600x900/logo/2-0-944280881-shriram1-0_1679727940652_1777026036062.jpg",
       "source": "LiveMint",
       "published_at": "2026-04-24T09:46:47+00:00",
       "category": "India",
-      "simple_explanation": "Shriram Finance Q4 Results: Net profit jumps 41% to  ₹3,014 crore YoY, final dividend of  ₹6/share recommended"
+      "simple_explanation": "Shriram Finance Q4 Results: Shriram Finance reported a 41% increase in Q4 standalone net profit to  ₹3,014 crore. NII rose by 21% to  ₹6,751 crore. Profit after tax increased by 20.87% to  ₹9,998.15 c"
     },
     {
       "title": "Shriram Finance Q4 Results: Standalone profit jumps 41% YoY to Rs 3,014 crore, NII rises 16%",
       "description": "Shriram Finance announced a strong financial performance for the March quarter. The company's standalone net profit surged 41% year-on-year to Rs 3,014 crore. Net Interest Income also saw a healthy increase. The NBFC recommended a final dividend of Rs 6 per share, bringing the total for FY26 to Rs 1",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q4-results-standalone-profit-jumps-41-yoy-to-rs-3014-crore-nii-rises-16/articleshow/130489730.cms",
       "image": "https://img.etimg.com/photo/msid-130489730,imgsize-48468.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-04-24T09:43:07+00:00",
       "category": "India",
       "simple_explanation": "Shriram Finance announced a strong financial performance for the March quarter. The company's standalone net profit surged 41% year-on-year to Rs 3,014 crore. Net Interest Income also saw a healthy in"
-    },
-    {
-      "title": "AI Swallows Wall Street: Stocks Hit Record 45% of S&P 500 Market Cap",
-      "description": "AI-linked stocks now represent a record 45% of the S&P 500, while AI debt tops $1.4 trillion in US credit markets.",
-      "url": "https://beincrypto.com/ai-stocks-sp500-record-market-cap/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-24T09:40:52+00:00",
-      "category": "USA",
-      "simple_explanation": "AI-linked stocks now represent a record 45% of the S&P 500, while AI debt tops $1.4 trillion in US credit markets."
-    },
-    {
-      "title": "Energy Stocks Rise as Hormuz Waterway Remains Closed",
-      "description": "Europe's energy stocks were rising in opening trade as the Iran conflict showed no signs of stopping. Talks on resolution appeared to have stalled, meaning Brent futures for June delivery increased 0.",
-      "url": "https://finance.yahoo.com/m/8adb9ed8-280b-3210-bfd2-0b3c630b6e0c/energy-stocks-rise-as-hormuz.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-24T09:37:27+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Europe's energy stocks were rising in opening trade as the Iran conflict showed no signs of stopping. Talks on resolution appeared to have stalled, meaning Brent futures for June delivery increased 0."
     },
     {
       "title": "Multibagger Himadri Speciality shares jump 13% to 14-month high after Q4; up 30% in April",
@@ -137,270 +397,10 @@
       "description": "Despite relative resilience in the broader smallcap index, several individual stocks have witnessed sharp corrections in CY26, falling up to 45%. The divergence highlights underlying weakness in select counters even as a few outperformers deliver strong gains, pointing to a highly stock-specific mar",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-shock-10-stocks-crashed-up-to-45-in-cy26-so-far-are-you-holding-any/slideshow/130489996.cms",
       "image": "https://img.etimg.com/photo/msid-130489601,imgsize-2148.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-04-24T09:32:30+00:00",
       "category": "India",
       "simple_explanation": "Despite relative resilience in the broader smallcap index, several individual stocks have witnessed sharp corrections in CY26, falling up to 45%. The divergence highlights underlying weakness in selec"
-    },
-    {
-      "title": "Gold, Silver Outlook: Gold rate set to break 4-week rally; silver price plunges 6% — key levels to watch",
-      "description": "Gold, Silver Outlook: Gold prices are hovering around  ₹1,51,100, below the 20- and 50-day exponential moving averages (EMA) placed at  ₹1,52,100 and  ₹1,51,100, respectively.",
-      "url": "https://www.livemint.com/market/commodities/gold-silver-outlook-gold-rate-set-to-break-4-week-rally-silver-price-plunges-6-key-levels-to-watch-11777022423272.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/24/1600x900/logo/2-0-506572837-_1777023040103_1777023040280.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-24T09:31:51+00:00",
-      "category": "India",
-      "simple_explanation": "Gold, Silver Outlook: Gold prices are hovering around  ₹1,51,100, below the 20- and 50-day exponential moving averages (EMA) placed at  ₹1,52,100 and  ₹1,51,100, respectively."
-    },
-    {
-      "title": "Pension fund regulator's fee tweak may not be enough to attract NPS distributors",
-      "description": "Experts suggest that revised commission structures for the National Pension System may not significantly attract distributors. They can now earn a trail commission of 0.20% along with a  ₹200 onboarding fee, but earnings remain lower compared to mutual funds.",
-      "url": "https://www.livemint.com/market/pension-fund-regulator-fee-tweak-nps-distributors-mutual-funds-trail-commissions-pfrda-subhasis-ghosh-11777010427015.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/24/1600x900/logo/PPF_SSY_NPS_1711700071873_1777022823352.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-24T09:30:29+00:00",
-      "category": "India",
-      "simple_explanation": "Experts suggest that revised commission structures for the National Pension System may not significantly attract distributors. They can now earn a trail commission of 0.20% along with a  ₹200 onboardi"
-    },
-    {
-      "title": "Foreign car companies bet on technology to hang onto once-lucrative China auto market",
-      "description": "U.S., Korean and German automakers announced a rush of new, tech-enabled cars at the Beijing Auto Show as they battle a sales slump",
-      "url": "https://www.cnbc.com/2026/04/24/foreign-car-companies-use-technology-to-hang-onto-china-auto-market.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-04-24T09:27:32+00:00",
-      "category": "Global",
-      "simple_explanation": "U.S., Korean and German automakers announced a rush of new, tech-enabled cars at the Beijing Auto Show as they battle a sales slump"
-    },
-    {
-      "title": "Newmont Tops Earnings Expectations for Sixth Consecutive Quarter. What Gold Prices Mean for the Stock.",
-      "description": "Newmont stock is rising after the gold mining giant reported better-than-expected first-quarter earnings and revenue for the sixth consecutive quarter.",
-      "url": "https://finance.yahoo.com/m/1424cd75-41c9-3bd3-96db-cd34f2970a98/newmont-tops-earnings.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-24T09:24:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Newmont stock is rising after the gold mining giant reported better-than-expected first-quarter earnings and revenue for the sixth consecutive quarter."
-    },
-    {
-      "title": "The Oil Futures Market Is Lying to Us",
-      "description": "The oil market, like nature, abhors a vacuum. It’s got one anyway, and a big one at that.",
-      "url": "https://www.livemint.com/market/the-oil-futures-market-is-lying-to-us-11777022465874.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-24T09:21:05+00:00",
-      "category": "India",
-      "simple_explanation": "The oil market, like nature, abhors a vacuum. It’s got one anyway, and a big one at that."
-    },
-    {
-      "title": "Oil Advances on Fears of Escalating Middle East Conflict",
-      "description": "Oil prices moved higher on Friday amid growing concerns that military tensions in the Middle East could intensify, after Iran released footage showing commandos boarding a cargo vessel in the Strait of Hormuz and reports emerged that its air defence systems had engaged “hostile targets. ” Brent crud",
-      "url": "https://investorshub.advfn.com/market-news/article/27201/oil-advances-on-fears-of-escalating-middle-east-conflict?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-24T09:20:10+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil prices moved higher on Friday amid growing concerns that military tensions in the Middle East could intensify, after Iran released footage showing commandos boarding a cargo vessel in the Strait o"
-    },
-    {
-      "title": "MCX crude oil prices jump 19% this week so far. What's the outlook ahead?",
-      "description": "Crude oil prices rose on Friday, 24 April amid fears of military escalation in the Middle East, influenced by Iran's actions in the Strait of Hormuz. Brent crude increased by 1.8% while WTI rose by 0.8%. Geopolitical tensions continue to impact market sentiment and supply concerns.",
-      "url": "https://www.livemint.com/market/commodities/mcx-crude-oil-prices-jump-19-this-week-so-far-whats-the-outlook-ahead-11777020524962.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/04/24/1600x900/logo/AdobeStock_1835016779_1773993302680_1773993308424_1777020859756.jpeg",
-      "source": "LiveMint",
-      "published_at": "2026-04-24T09:15:42+00:00",
-      "category": "India",
-      "simple_explanation": "Crude oil prices rose on Friday, 24 April amid fears of military escalation in the Middle East, influenced by Iran's actions in the Strait of Hormuz. Brent crude increased by 1.8% while WTI rose by 0."
-    },
-    {
-      "title": "Gold Heads for Weekly Drop as Dollar Strength Weighs Amid U.S.-Iran Tensions",
-      "description": "Gold prices declined on Friday and were on track for a notable weekly loss, as heightened uncertainty surrounding the U. S.",
-      "url": "https://investorshub.advfn.com/market-news/article/27199/gold-heads-for-weekly-drop-as-dollar-strength-weighs-amid-u-s-iran-tensions?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-24T09:15:12+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold prices declined on Friday and were on track for a notable weekly loss, as heightened uncertainty surrounding the U. S."
-    },
-    {
-      "title": "Markets Drift as Oil Stays Elevated and Intel Jumps: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-      "description": "Futures tied to major U. S. indices were mixed on Friday, hovering around flat levels, while oil prices held above $100 per barrel as disruptions in the Strait of Hormuz persisted despite a fragile U.",
-      "url": "https://investorshub.advfn.com/market-news/article/27197/markets-drift-as-oil-stays-elevated-and-intel-jumps-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-24T09:12:08+00:00",
-      "category": "USA",
-      "simple_explanation": "Futures tied to major U. S. indices were mixed on Friday, hovering around flat levels, while oil prices held above $100 per barrel as disruptions in the Strait of Hormuz persisted despite a fragile U."
-    },
-    {
-      "title": "Hochschild Mining Posts Q1 Output of 76K Gold-Equivalent Ounces, Reaffirms 2026 Guidance",
-      "description": "Hochschild Mining (LON:HOC) reported first-quarter 2026 production of nearly 76,000 gold equivalent ounces, supported by what CEO Eduardo Landin described as a “solid performance” at Inmaculada in Peru and a rising contribution from the Mara Rosa operation in Brazil. Landin said the company remains",
-      "url": "https://www.marketbeat.com/instant-alerts/hochschild-mining-posts-q1-output-of-76k-gold-equivalent-ounces-reaffirms-2026-guidance-2026-04-24/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-24T09:07:42+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Hochschild Mining (LON:HOC) reported first-quarter 2026 production of nearly 76,000 gold equivalent ounces, supported by what CEO Eduardo Landin described as a “solid performance” at Inmaculada in Per"
-    },
-    {
-      "title": "Adani Green Q4 Results: Cons PAT jumps 34% YoY to Rs 514 crore; revenue up 16%",
-      "description": "Adani Green Q4 Results: Adani Green Energy announced impressive financial results for the March quarter. Net profit surged by 34.3%  year-on-year. Revenue from operations also saw a healthy 16% jump, fueled by the addition of 5.1 GW of new capacity. The company's operational capacity expanded signif",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-green-q4-results-cons-pat-jump-34-yoy-to-rs-514-crore-revenue-up-16/articleshow/130488889.cms",
-      "image": "https://img.etimg.com/photo/msid-130488889,imgsize-1872580.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-24T09:06:24+00:00",
-      "category": "India",
-      "simple_explanation": "Adani Green Q4 Results: Adani Green Energy announced impressive financial results for the March quarter. Net profit surged by 34.3%  year-on-year. Revenue from operations also saw a healthy 16% jump, "
-    },
-    {
-      "title": "Hindustan Zinc Q4 Results: Cons PAT surges 68% YoY to Rs 5,033 crore; Rs 11/share dividend declared",
-      "description": "Hindustan Zinc Q4 Results: The Vedanta arm reported Q4 revenue of Rs 13,544 crore, up 49% from Rs 9,087 crore posted in the corresponding quarter of the previous financial year.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hindustan-zinc-q4-results-cons-pat-surges-68-yoy-to-rs-5033-crore-rs-11/-share-dividend-declared/articleshow/130488960.cms",
-      "image": "https://img.etimg.com/photo/msid-130488960,imgsize-32264.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-24T09:04:07+00:00",
-      "category": "India",
-      "simple_explanation": "Hindustan Zinc Q4 Results: The Vedanta arm reported Q4 revenue of Rs 13,544 crore, up 49% from Rs 9,087 crore posted in the corresponding quarter of the previous financial year."
-    },
-    {
-      "title": "SBI General Insurance’s annual GDP crosses Rs 15,000 crore for first time, PAT jumps 8.7% YoY in FY26",
-      "description": "SBI General Insurance delivered a strong FY26 performance, crossing Rs 15,000 crore in gross direct premium for the first time with 14.5% growth. Profit after tax rose 8.7% to Rs 553 crore, supported by robust expansion across health, motor, personal accident and fire insurance, along with improved ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-general-insurances-annual-gdp-crosses-rs-15000-crore-for-first-time-pat-jumps-8-7-yoy-in-fy26/articleshow/130488470.cms",
-      "image": "https://img.etimg.com/photo/msid-130488470,imgsize-339986.cms",
-      "source": "ET Markets",
-      "published_at": "2026-04-24T08:38:51+00:00",
-      "category": "India",
-      "simple_explanation": "SBI General Insurance delivered a strong FY26 performance, crossing Rs 15,000 crore in gross direct premium for the first time with 14.5% growth. Profit after tax rose 8.7% to Rs 553 crore, supported "
-    },
-    {
-      "title": "Oil Prices Rise. Trump Tells Americans to Expect Higher Gas Prices as Iran War Rumbles.",
-      "description": "Oil prices hovered around $100 a barrel early Friday after President Donald Trump said he wouldn’t be rushed to end the Iran war and that Americans should expect higher gas prices for “a little while.”  Brent crude futures  the international benchmark, rose 1% to $100.38 after falling 2.5% in the pr",
-      "url": "https://finance.yahoo.com/m/4331769e-77fd-300f-8fce-f642538ff29e/oil-prices-rise.-trump-tells.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-24T08:34:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil prices hovered around $100 a barrel early Friday after President Donald Trump said he wouldn’t be rushed to end the Iran war and that Americans should expect higher gas prices for “a little while."
-    },
-    {
-      "title": "Best Value Stocks to Buy for April 24th",
-      "description": "KALU made it to the Zacks Rank #1 (Strong Buy) value stocks list on April 24th, 2026.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-april-080800013.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-24T08:08:00+00:00",
-      "category": "USA",
-      "simple_explanation": "KALU made it to the Zacks Rank #1 (Strong Buy) value stocks list on April 24th, 2026."
-    },
-    {
-      "title": "Vizsla Silver advances Panuco project with new contract awards",
-      "description": "The company and its partners will concentrate on off-site design, construction planning and equipment procurement for Panuco.",
-      "url": "https://www.mining-technology.com/news/vizsla-silver-advances-panuco-project-new-contract/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-24T08:02:55+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The company and its partners will concentrate on off-site design, construction planning and equipment procurement for Panuco."
-    },
-    {
-      "title": "Gold Funds Have Dipped. Are They Still a Good Hedge in This Market?",
-      "description": "After a steep run-up, the precious metal—long considered a hedge in times of distress—has taken a dive. But the selloff may have had more to do with profit-taking than anything else.",
-      "url": "https://finance.yahoo.com/m/bbe4034c-0d66-387d-9d4b-c03184349360/gold-funds-have-dipped.-are.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-24T07:30:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "After a steep run-up, the precious metal—long considered a hedge in times of distress—has taken a dive. But the selloff may have had more to do with profit-taking than anything else."
-    },
-    {
-      "title": "White House confirms Trump to address memecoin gala on Saturday",
-      "description": "US President Donald Trump will appear at an event for holders of the TRUMP memecoin after the White House previously said it wasn’t locked into his schedule.",
-      "url": "https://cointelegraph.com/news/trump-to-address-memecoin-event-after-speculation-of-no-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDczMjEtNzNmOC03MWQyLTk0NTgtNDY0OTVlMWFjYjM2LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-24T07:17:14+00:00",
-      "category": "Crypto",
-      "simple_explanation": "US President Donald Trump will appear at an event for holders of the TRUMP memecoin after the White House previously said it wasn’t locked into his schedule."
-    },
-    {
-      "title": "Newmont Corp (NEM) Q1 2026 Earnings Call Highlights: Record Free Cash Flow and Strategic ...",
-      "description": "Newmont Corp (NEM) achieves an all-time quarterly record in free cash flow, announces a $6 billion share repurchase authorization, and navigates operational challenges with resilience.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/newmont-corp-nem-q1-2026-071536070.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-24T07:15:36+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Newmont Corp (NEM) achieves an all-time quarterly record in free cash flow, announces a $6 billion share repurchase authorization, and navigates operational challenges with resilience."
-    },
-    {
-      "title": "US DOJ strike force 'restrains' $701M in crypto in ongoing scam crackdown",
-      "description": "Besides freezing crypto, the strike force also seized a Telegram channel used to recruit unsuspecting job seekers and took down 503 fake crypto investment websites.",
-      "url": "https://cointelegraph.com/news/us-scam-center-task-force-restrains-crypto-in-southeast-asia-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGJkYjEtNmU4NS03YmI4LTkwZjAtZDdkZWM2Njc4ODNmLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-24T07:15:03+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Besides freezing crypto, the strike force also seized a Telegram channel used to recruit unsuspecting job seekers and took down 503 fake crypto investment websites."
-    },
-    {
-      "title": "Warren Buffett Found Plenty of Stock Buys Over the Years. Right Now His Company Looks Like One.",
-      "description": "Berkshire Hathaway stock is in the midst of one of its worst periods of underperformance relative to the S&P 500, since Warren Buffett took control in 1965.",
-      "url": "https://finance.yahoo.com/m/55817bdb-346b-3dac-933f-3a9d46d40937/warren-buffett-found-plenty.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-24T07:00:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Berkshire Hathaway stock is in the midst of one of its worst periods of underperformance relative to the S&P 500, since Warren Buffett took control in 1965."
-    },
-    {
-      "title": "TSMC shares jump to record high as Taiwan eases single-stock investment caps for funds",
-      "description": "TSMC, whose shares had a hit a record high on Thursday as well, last week reported a 58% increase in first-quarter profit.",
-      "url": "https://www.cnbc.com/2026/04/24/tsmc-shares-record-high-taiwan-single-stock-investment-cap-for-funds.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-24T06:21:37+00:00",
-      "category": "USA",
-      "simple_explanation": "TSMC, whose shares had a hit a record high on Thursday as well, last week reported a 58% increase in first-quarter profit."
-    },
-    {
-      "title": "Morgan Stanley launches stablecoin offering through money market fund",
-      "description": "Stablecoin issuers must invest a minimum of $10 million into Morgan Stanley’s money market fund, MSNXX, to access the stablecoin reserve offering.",
-      "url": "https://cointelegraph.com/news/morgan-stanley-launches-stablecoin-offering-through-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjkzM2QtMjNhZi03NzE0LThhMzUtNjcxZWNlOWY0NjBkLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-24T06:17:07+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Stablecoin issuers must invest a minimum of $10 million into Morgan Stanley’s money market fund, MSNXX, to access the stablecoin reserve offering."
-    },
-    {
-      "title": "US vows to fight ‘industrial scale’ AI theft by Chinese firms",
-      "description": "The White House’s office of technology policy said that foreign entities are using proxy accounts and jailbreaking techniques to distill capabilities from American AI models.",
-      "url": "https://cointelegraph.com/news/us-government-reveals-plan-counter-foreign-ai-distillation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGJjZmUtMDUwZi03NjQzLThkZWYtMDhlMjYyYzFiYTMyLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-24T06:05:37+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The White House’s office of technology policy said that foreign entities are using proxy accounts and jailbreaking techniques to distill capabilities from American AI models."
-    },
-    {
-      "title": "Don’t Fret the War. Why ‘Big Money’ Investors Are Bullish—and Where They’re Investing Now.",
-      "description": "In our latest Big Money poll, professional investors sees meager gains for the S&P 500 this year. Here’s where they’re putting money to work.",
-      "url": "https://finance.yahoo.com/m/accaddc5-68ee-355a-9736-c890b30800a6/don%E2%80%99t-fret-the-war.-why-%E2%80%98big.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-24T06:00:00+00:00",
-      "category": "USA",
-      "simple_explanation": "In our latest Big Money poll, professional investors sees meager gains for the S&P 500 this year. Here’s where they’re putting money to work."
-    },
-    {
-      "title": "Jane Street asks US court to toss Terraform’s insider trading suit",
-      "description": "Jane Street has filed to dismiss Terraform’s insider trading suit, arguing the reasons for Terra’s collapse have already been litigated.",
-      "url": "https://cointelegraph.com/news/jane-street-seeks-dismissal-of-terraforms-insider-trading-suit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmQ0NjktMjBhMi03YzNkLTk2Y2EtYzhlYzk1OTdkYTNkLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-24T05:39:25+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Jane Street has filed to dismiss Terraform’s insider trading suit, arguing the reasons for Terra’s collapse have already been litigated."
     }
   ]
 }
