@@ -1,26 +1,246 @@
 {
-  "last_updated": "2026-04-29T21:06:27.446472+00:00",
+  "last_updated": "2026-04-29T22:57:52.168176+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Amazon stock dips even as earnings beat expectations with strong cloud growth",
-      "description": "Amazon reported its first-quarter results after the market close on Wednesday.",
+      "title": "Amazon earnings beat expectations with strong cloud growth",
+      "description": "Revenue in Amazon's cloud computing segment expanded 28% year over year, topping analysts' estimates.",
       "url": "https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-29T21:02:27+00:00",
+      "published_at": "2026-04-29T22:57:06+00:00",
       "category": "USA",
-      "simple_explanation": "Amazon reported its first-quarter results after the market close on Wednesday."
+      "simple_explanation": "Revenue in Amazon's cloud computing segment expanded 28% year over year, topping analysts' estimates."
     },
     {
-      "title": "Microsoft beats on top and bottom lines with 40% Azure growth",
-      "description": "Microsoft's Azure growth beat consensus, and corporate adoption of the Copilot artificial intelligence assistant is growing. Capital expenditures fell short.",
+      "title": "SoFi CEO defends decision to hold guidance steady",
+      "description": "SoFi CEO Anthony Noto explained that the company declined to raise its full-year outlook due to macro uncertainty, not weakness in fundamentals.",
+      "url": "https://www.cnbc.com/2026/04/29/sofi-ceo-defends-decision-to-hold-guidance-steady.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-04-29T22:48:10+00:00",
+      "category": "Global",
+      "simple_explanation": "SoFi CEO Anthony Noto explained that the company declined to raise its full-year outlook due to macro uncertainty, not weakness in fundamentals."
+    },
+    {
+      "title": "Fed holds rates steady, Powell to remain on board of governors",
+      "description": "STORY: The Federal Reserve held interest rates steady on Wednesday in a near unanimous vote. Though three policy makers wanted the U.S. central bank to remove its bias toward lowering borrowing costs making this the most divided decision since 1992.Chair Jerome Powell acknowledged that while the eco",
+      "url": "https://finance.yahoo.com/video/fed-holds-rates-steady-powell-224522422.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T22:45:22+00:00",
+      "category": "Commodities",
+      "simple_explanation": "STORY: The Federal Reserve held interest rates steady on Wednesday in a near unanimous vote. Though three policy makers wanted the U.S. central bank to remove its bias toward lowering borrowing costs "
+    },
+    {
+      "title": "Microsoft calls for $190 billion in 2026 capital spending on soaring memory prices",
+      "description": "Microsoft's forecast on revenue and operating margin was light, but the company sees $190 billion in 2026 capital spending, well above Wall Street's estimate.",
       "url": "https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-04-29T21:01:25+00:00",
+      "published_at": "2026-04-29T22:44:43+00:00",
       "category": "USA",
-      "simple_explanation": "Microsoft's Azure growth beat consensus, and corporate adoption of the Copilot artificial intelligence assistant is growing. Capital expenditures fell short."
+      "simple_explanation": "Microsoft's forecast on revenue and operating margin was light, but the company sees $190 billion in 2026 capital spending, well above Wall Street's estimate."
+    },
+    {
+      "title": "Dow Jones Futures: Google, Amazon, Meta, Microsoft Are Big Earnings Movers After Oil Prices Spike, Fed's Powell Stays",
+      "description": "Futures fell as Amazon, Microsoft and Meta slumped on earnings. Google rose. Oil prices are surging while Fed's Powell is staying.",
+      "url": "https://finance.yahoo.com/m/fb01687d-2e7a-3280-8daf-89487aed782f/dow-jones-futures%3A-google%2C.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T22:44:18+00:00",
+      "category": "USA",
+      "simple_explanation": "Futures fell as Amazon, Microsoft and Meta slumped on earnings. Google rose. Oil prices are surging while Fed's Powell is staying."
+    },
+    {
+      "title": "Stock Market Today, April 29: Mixed Reactions as Big Tech Earnings Beat Expectations",
+      "description": "On April 29, 2026, the Fed leaves rates unchanged, and markets remain muted ahead of megacap earnings.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/04/29/stock-market-today-april-29-mixed-reactions-as-big-tech-earnings-beat-expectations/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T22:39:18+00:00",
+      "category": "USA",
+      "simple_explanation": "On April 29, 2026, the Fed leaves rates unchanged, and markets remain muted ahead of megacap earnings."
+    },
+    {
+      "title": "Alphabet ups 2026 capex to as much as $190 billion, expects to 'significantly increase' in 2027",
+      "description": "Alphabet reported first-quarter earnings, posting booming cloud revenue and upping its full-year capex spend to as much as $190 billion.",
+      "url": "https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-29T22:32:26+00:00",
+      "category": "USA",
+      "simple_explanation": "Alphabet reported first-quarter earnings, posting booming cloud revenue and upping its full-year capex spend to as much as $190 billion."
+    },
+    {
+      "title": "Brazil lowers benchmark rate to 14.5% in second consecutive cut",
+      "description": "Brazil's Central Bank on Wednesday announced a second consecutive cut to its benchmark interest rate, one of the world's highest, in a boost for left-wing President Luiz Inacio Lula da Silva as he courts a fourth term.Lula, who is seeking a fourth term in October elections, has persistently railed a",
+      "url": "https://finance.yahoo.com/economy/policy/articles/brazil-lowers-benchmark-rate-14-222932368.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T22:29:32+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Brazil's Central Bank on Wednesday announced a second consecutive cut to its benchmark interest rate, one of the world's highest, in a boost for left-wing President Luiz Inacio Lula da Silva as he cou"
+    },
+    {
+      "title": "Bitcoin recovery stalls after Fed holds interest rates, citing ‘uncertainty’ in Middle East",
+      "description": "Bitcoin dropped under $75,000 after FOMC minutes showed the US Federal Reserve holding interest rates and expressing slight concerns over inflation and the war in Iran.",
+      "url": "https://cointelegraph.com/markets/bitcoin-recovery-stalls-after-fed-holds-interest-rates-citing-uncertainty-in-middle-east?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL3N0b3AlMjByZWd1bGF0aW9uJTIwYml0Y29pbi5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-29T22:22:54+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin dropped under $75,000 after FOMC minutes showed the US Federal Reserve holding interest rates and expressing slight concerns over inflation and the war in Iran."
+    },
+    {
+      "title": "Stock Market Today, April 29: KalVista Pharmaceuticals Surges on Chiesi Group Acquisition Announcement",
+      "description": "On April 29, 2026, a rare-disease deal reshapes biotech M&A expectations as investors weigh tender terms.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/04/29/stock-market-today-april-29-kalvista-pharmaceuticals-surges-on-chiesi-group-acquisition-announcement/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T22:07:49+00:00",
+      "category": "USA",
+      "simple_explanation": "On April 29, 2026, a rare-disease deal reshapes biotech M&A expectations as investors weigh tender terms."
+    },
+    {
+      "title": "NovaRed Mining Completes Plume Tenure Registration; 2,063-Hectare Alteration Target Now Fully Secured for 2026 Geophysical Program",
+      "description": "Vancouver, British Columbia--(Newsfile Corp. - April 29, 2026) - NovaRed Mining Inc. (CSE: NRED) (OTCQB: NREDF) (\"NovaRed\" or the \"Company\") announces that the Plume mineral tenure, which forms part of the Company's 70%-optioned Wilmac copper-gold project (\"Wilmac\" or the \"Project\"), has been approv",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/novared-mining-completes-plume-tenure-220500754.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T22:05:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - April 29, 2026) - NovaRed Mining Inc. (CSE: NRED) (OTCQB: NREDF) (\"NovaRed\" or the \"Company\") announces that the Plume mineral tenure, which forms part o"
+    },
+    {
+      "title": "Why Stride Stock Topped the Market Today",
+      "description": "Despite a bottom-line slide, the educational services provider still crushed analyst estimates in its fiscal third quarter.",
+      "url": "https://www.fool.com/investing/2026/04/29/why-stride-stock-topped-the-market-today/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T21:59:24+00:00",
+      "category": "USA",
+      "simple_explanation": "Despite a bottom-line slide, the educational services provider still crushed analyst estimates in its fiscal third quarter."
+    },
+    {
+      "title": "Stock Market Today, April 29: Plug Power Jumps on Sector Strength and a Price Target Boost",
+      "description": "On April 29, 2026, a fresh analyst upgrade and fuel cell momentum put this hydrogen player’s turnaround narrative under the microscope.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/04/29/stock-market-today-april-29-plug-power-jumps-on-sector-strength-and-a-price-target-boost/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T21:48:36+00:00",
+      "category": "USA",
+      "simple_explanation": "On April 29, 2026, a fresh analyst upgrade and fuel cell momentum put this hydrogen player’s turnaround narrative under the microscope."
+    },
+    {
+      "title": "Chipotle posts surprise same-store sales growth in early sign chain could be breaking its slump",
+      "description": "Chipotle shares have plummeted 35% over the last year.",
+      "url": "https://www.cnbc.com/2026/04/29/chipotle-mexican-grill-cmg-q1-2026-earnings.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-29T21:40:27+00:00",
+      "category": "USA",
+      "simple_explanation": "Chipotle shares have plummeted 35% over the last year."
+    },
+    {
+      "title": "Stock Market Today, April 29: Advanced Micro Devices Rises After Analyst Upgrade Points to Data Center GPU Demand Ahead of Earnings",
+      "description": "AMD rose after an analyst upgrade pointed to stronger expectations for data center GPU demand, with upcoming earnings set to provide updated detail on revenue and deployment growth tied to AI infrastructure.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/04/29/stock-market-today-april-29-advanced-micro-devices-rises-after-analyst-upgrade-points-to-data-center-gpu-demand-ahead-of-earnings/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T21:39:40+00:00",
+      "category": "USA",
+      "simple_explanation": "AMD rose after an analyst upgrade pointed to stronger expectations for data center GPU demand, with upcoming earnings set to provide updated detail on revenue and deployment growth tied to AI infrastr"
+    },
+    {
+      "title": "Centerra Gold Posts Higher Revenue, Adjusted Profit for Fist Quarter; Issues 2026 Production Outlook",
+      "description": "Centerra Gold (CG.TO, CGAU) after trade Wednesday reported higher revenue and adjusted profit for th",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/centerra-gold-posts-higher-revenue-213442119.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T21:34:42+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Centerra Gold (CG.TO, CGAU) after trade Wednesday reported higher revenue and adjusted profit for th"
+    },
+    {
+      "title": "UAE exit shakes OPEC’s grip on oil markets",
+      "description": "(By Oil & Gas 360) – The United Arab Emirates stepping away from OPEC and the broader OPEC+ framework would […] The post UAE exit shakes OPEC’s grip on oil markets appeared first on Oil & Gas 360.",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/uae-exit-shakes-opec-grip-213010711.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T21:30:10+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(By Oil & Gas 360) – The United Arab Emirates stepping away from OPEC and the broader OPEC+ framework would […] The post UAE exit shakes OPEC’s grip on oil markets appeared first on Oil & Gas 360."
+    },
+    {
+      "title": "Formation Metals Announces Non-Brokered Offering of up to $15 Million to Increase 2026 Drill Program to 50,000 Metres",
+      "description": "VANCOUVER, BC / ACCESS Newswire / April 29, 2026 /Formation Metals Inc. (\"Formation\" or the \"Company\") (CSE:FOMO)(FSE:VF1)(OTCQB:FOMTF), a North American mineral acquisition and exploration company, is pleased to announce a proposed non-brokered private ...",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/formation-metals-announces-non-brokered-212500616.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T21:25:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "VANCOUVER, BC / ACCESS Newswire / April 29, 2026 /Formation Metals Inc. (\"Formation\" or the \"Company\") (CSE:FOMO)(FSE:VF1)(OTCQB:FOMTF), a North American mineral acquisition and exploration company, i"
+    },
+    {
+      "title": "Treasuries Slump as Fed Dissents Spur Wagers on 2027 Rate Hike",
+      "description": "(Bloomberg) -- Treasuries slumped, with two-year yields rising the most on a Federal Reserve decision day since 2022, as traders boosted bets the central bank may need to raise interest rates amid persistent inflation pressures.Most Read from BloombergNorth Korea Confirms Suicide Rule for Soldiers U",
+      "url": "https://finance.yahoo.com/economy/policy/articles/treasuries-slump-fed-dissents-spur-195842246.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T21:14:47+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Bloomberg) -- Treasuries slumped, with two-year yields rising the most on a Federal Reserve decision day since 2022, as traders boosted bets the central bank may need to raise interest rates amid per"
+    },
+    {
+      "title": "Fed Chair Jerome Powell says rising gas prices could hit consumer wallets, economic growth: ‘They’re going to spend less on other things’",
+      "description": "Fed Chair Jerome Powell said the war in Iran could impact both inflation and growth the longer the conflict continues to wreak havoc on the global energy market.",
+      "url": "https://finance.yahoo.com/markets/article/fed-chair-jerome-powell-says-rising-gas-prices-could-hit-consumer-wallets-economic-growth-theyre-going-to-spend-less-on-other-things-210925223.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T21:09:25+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Fed Chair Jerome Powell said the war in Iran could impact both inflation and growth the longer the conflict continues to wreak havoc on the global energy market."
+    },
+    {
+      "title": "Meta stock drops on quarterly results as 'internet disruptions' in Iran drag down user numbers",
+      "description": "Meta beat on revenue, but showed disappointing user numbers and its capital expenditures were below estimates.",
+      "url": "https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-04-29T21:08:51+00:00",
+      "category": "USA",
+      "simple_explanation": "Meta beat on revenue, but showed disappointing user numbers and its capital expenditures were below estimates."
+    },
+    {
+      "title": "US Equity Indexes Close Mixed as Crude Oil, Treasury Yields Jump; Fed Policy Faces Growing Dissent",
+      "description": "US equity indexes closed mixed on Wednesday as crude oil futures and government bond yields rose ami",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-close-mixed-210320831.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T21:03:20+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity indexes closed mixed on Wednesday as crude oil futures and government bond yields rose ami"
+    },
+    {
+      "title": "RealOpen and TRON verify $9.4M in USDT for crypto-enabled real estate purchases",
+      "description": "RealOpen, the leading platform for buying real estate with crypto, today announced the conclusion of its collaborative \"Fast Moves, Fast Payments\" Holiday Campaign with TRON",
+      "url": "https://cointelegraph.com/press-releases/realopen-and-tron-verify-94m-in-usdt-for-crypto-enabled-real-estate-purchases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL3ByJTIwKDEpLTMuanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-04-29T21:02:38+00:00",
+      "category": "Crypto",
+      "simple_explanation": "RealOpen, the leading platform for buying real estate with crypto, today announced the conclusion of its collaborative \"Fast Moves, Fast Payments\" Holiday Campaign with TRON"
+    },
+    {
+      "title": "Centerra Gold Announces Quarterly Dividend of C$0.07 per Common Share",
+      "description": "TORONTO, April 29, 2026 (GLOBE NEWSWIRE) -- Centerra Gold Inc. (“Centerra” or the “Company”) (TSX: CG) (NYSE: CGAU) announced today that its Board of Directors has approved a quarterly dividend of C$0.07 per common share – approximately C$13.9 million or US$10.0 million in aggregate. The quarterly d",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/centerra-gold-announces-quarterly-dividend-210100557.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T21:01:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "TORONTO, April 29, 2026 (GLOBE NEWSWIRE) -- Centerra Gold Inc. (“Centerra” or the “Company”) (TSX: CG) (NYSE: CGAU) announced today that its Board of Directors has approved a quarterly dividend of C$0"
     },
     {
       "title": "Kinross declares quarterly dividend",
@@ -43,16 +263,6 @@
       "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - April 29, 2026) - West Point Gold Corp. (TSXV: WPG) (OTCQB: WPGCF) (FSE: LRA0) (\"West Point Gold\" or the \"Company\") is pleased to announce that the Compa"
     },
     {
-      "title": "Patagonia Gold 2025 Financial Results",
-      "description": "VANCOUVER, British Columbia, April 29, 2026 (GLOBE NEWSWIRE) -- Patagonia Gold Corp. (“Patagonia” or the “Company”) (TSXV: PGDC) announces its audited results for the financial year ended December 31, 2025 (“YE 2025”). The audited, consolidated financial statements at year-end 2025, together with th",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/patagonia-gold-2025-financial-results-210000597.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T21:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "VANCOUVER, British Columbia, April 29, 2026 (GLOBE NEWSWIRE) -- Patagonia Gold Corp. (“Patagonia” or the “Company”) (TSXV: PGDC) announces its audited results for the financial year ended December 31,"
-    },
-    {
       "title": "Visa Stock Soars Because AI Agents Will Pay With Cards",
       "description": "Visa stock led all Dow Jones Industrial Average stocks on Wednesday after it blew away fiscal second-quarter earnings forecasts late Tuesday on the strongest revenue growth since 2022.  The digital payment network, long seen as a potential casualty of fintech innovation, provided a shot of confidenc",
       "url": "https://finance.yahoo.com/m/5aee0401-ca4b-3547-bcc2-815dae11e38b/visa-stock-soars-because-ai.html?.tsrc=rss",
@@ -61,46 +271,6 @@
       "published_at": "2026-04-29T20:58:51+00:00",
       "category": "USA",
       "simple_explanation": "Visa stock led all Dow Jones Industrial Average stocks on Wednesday after it blew away fiscal second-quarter earnings forecasts late Tuesday on the strongest revenue growth since 2022.  The digital pa"
-    },
-    {
-      "title": "Meta stock drops as capex, user growth numbers come in below Wall Street estimates",
-      "description": "Meta beat on revenue, but showed disappointing user numbers and its capital expenditures were below estimates.",
-      "url": "https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-29T20:57:02+00:00",
-      "category": "USA",
-      "simple_explanation": "Meta beat on revenue, but showed disappointing user numbers and its capital expenditures were below estimates."
-    },
-    {
-      "title": "GoldInvestingCompanies.org Announces Ranking of Gold IRA Companies of 2026",
-      "description": "PHOENIX, AZ, April 29, 2026 (GLOBE NEWSWIRE) -- GoldInvestingCompanies.org has released its 2026 ranking of the best gold IRA companies, naming Goldco as the best overall gold IRA company based on a decade of independent research and review. GoldInvestingCompanies.org, based in Phoenix, Arizona, has",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/goldinvestingcompanies-org-announces-ranking-gold-205700438.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T20:57:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "PHOENIX, AZ, April 29, 2026 (GLOBE NEWSWIRE) -- GoldInvestingCompanies.org has released its 2026 ranking of the best gold IRA companies, naming Goldco as the best overall gold IRA company based on a d"
-    },
-    {
-      "title": "Dow Jones Futures: Google, Amazon, Meta, Microsoft Are Big Earnings Movers After Oil Prices Spike, Fed's Powell Stays",
-      "description": "Futures fell as Amazon, Microsoft and Meta slumped on earnings. Google rose. Oil prices are surging while Fed's Powell is staying.",
-      "url": "https://finance.yahoo.com/m/fb01687d-2e7a-3280-8daf-89487aed782f/dow-jones-futures%3A-google%2C.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T20:54:07+00:00",
-      "category": "USA",
-      "simple_explanation": "Futures fell as Amazon, Microsoft and Meta slumped on earnings. Google rose. Oil prices are surging while Fed's Powell is staying."
-    },
-    {
-      "title": "Phillips 66 Q1 2026 Earnings Call Summary",
-      "description": "Moby summary of Phillips 66's Q1 2026 earnings call",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-phillips-66-q1-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T20:53:55+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Moby summary of Phillips 66's Q1 2026 earnings call"
     },
     {
       "title": "Equities Mixed Following Fed Pause; Oil Gains",
@@ -113,84 +283,14 @@
       "simple_explanation": "US equities closed mixed Wednesday after the Federal Reserve kept interest rates steady at the end o"
     },
     {
-      "title": "Chipotle posts surprise same-store sales growth in early sign chain could be breaking its slump",
-      "description": "Chipotle shares have plummeted 35% over the last year.",
-      "url": "https://www.cnbc.com/2026/04/29/chipotle-mexican-grill-cmg-q1-2026-earnings.html",
+      "title": "Ford Stock Rises on Strong Earnings. Trucks Are a Luxury Good.",
+      "description": "Ford Motor reported a first-quarter operating profit of $3.5 billion. Wall Street was looking for $1.3 billion.",
+      "url": "https://finance.yahoo.com/m/a0a0042b-2fee-36b3-88da-56eaefd0ab68/ford-stock-rises-on-strong.html?.tsrc=rss",
       "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-29T20:49:41+00:00",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-29T20:41:00+00:00",
       "category": "USA",
-      "simple_explanation": "Chipotle shares have plummeted 35% over the last year."
-    },
-    {
-      "title": "Alphabet beats on revenue, with cloud booming 63% and topping $20 billion",
-      "description": "Alphabet reported first-quarter earnings after the bell Wednesday.",
-      "url": "https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-29T20:48:37+00:00",
-      "category": "USA",
-      "simple_explanation": "Alphabet reported first-quarter earnings after the bell Wednesday."
-    },
-    {
-      "title": "Oil spikes while divided Federal Reserve keeps interest rates unchanged",
-      "description": "Oil prices shot higher Wednesday on concerns of an extended blockade of the Strait of Hormuz, while Wall Street stocks moved indecisively after a divided Federal Reserve kept interest rates unchanged.After a weak lead from Wall Street, Asian stock markets mostly rose Wednesday, with Hong Kong up mor",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/stocks-swing-oil-edges-iran-023507548.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T20:47:49+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil prices shot higher Wednesday on concerns of an extended blockade of the Strait of Hormuz, while Wall Street stocks moved indecisively after a divided Federal Reserve kept interest rates unchanged."
-    },
-    {
-      "title": "Delek Logistics Partners, LP Q1 2026 Earnings Call Summary",
-      "description": "Moby summary of Delek Logistics Partners, LP's Q1 2026 earnings call",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-delek-logistics-partners-lp-q1-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T20:47:16+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Moby summary of Delek Logistics Partners, LP's Q1 2026 earnings call"
-    },
-    {
-      "title": "Antero Resources’s (NYSE:AR) Q1 CY2026: Strong Sales",
-      "description": "Natural gas producer Antero Resources (NYSE:AR) announced better-than-expected revenue in Q1 CY2026, with sales up 40.2% year on year to $1.95 billion. Its GAAP profit of $1.72 per share was 47.8% above analysts’ consensus estimates.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/antero-resources-nyse-ar-q1-203143993.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T20:31:43+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Natural gas producer Antero Resources (NYSE:AR) announced better-than-expected revenue in Q1 CY2026, with sales up 40.2% year on year to $1.95 billion. Its GAAP profit of $1.72 per share was 47.8% abo"
-    },
-    {
-      "title": "OceanaGold Releases 2025 Sustainability Report",
-      "description": "OceanaGold Corporation (TSX: OGC) (NYSE: OGC) (\"OceanaGold\" or the \"Company\") is pleased to publish its annual Sustainability Report for the year ended December 31, 2025. The report outlines OceanaGold's sustainability performance and progress across safety, health, people and culture, community and",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/oceanagold-releases-2025-sustainability-report-203000777.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T20:30:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "OceanaGold Corporation (TSX: OGC) (NYSE: OGC) (\"OceanaGold\" or the \"Company\") is pleased to publish its annual Sustainability Report for the year ended December 31, 2025. The report outlines OceanaGol"
-    },
-    {
-      "title": "Bitmine (BMNR) Identifies the Perfect Wartime Store of Value",
-      "description": "Bitmine Immersion Technologies, Inc. (NYSE:BMNR) is among the best cryptocurrency stocks to buy right now. The shares have soared more than 175% over the past 12 months. Bitmine Immersion Technologies Inc (NYSE:BMNR) recently hit a milestone in its Ethereum accumulation efforts. On April 20, the com",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-bmnr-identifies-perfect-wartime-202908214.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T20:29:08+00:00",
-      "category": "USA",
-      "simple_explanation": "Bitmine Immersion Technologies, Inc. (NYSE:BMNR) is among the best cryptocurrency stocks to buy right now. The shares have soared more than 175% over the past 12 months. Bitmine Immersion Technologies"
-    },
-    {
-      "title": "This Hydrogen Stock Is Soaring on Earnings. The Iran Blockade Could Give It a Lasting Tailwind",
-      "description": "Bloom Energy is booming, and high oil prices could be a boon for the company.",
-      "url": "https://www.fool.com/investing/2026/04/29/bloom-energy-is-soaring-on-earnings-the-iran-block/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T20:27:49+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Bloom Energy is booming, and high oil prices could be a boon for the company."
+      "simple_explanation": "Ford Motor reported a first-quarter operating profit of $3.5 billion. Wall Street was looking for $1.3 billion."
     },
     {
       "title": "Google parent Alphabet's cloud unit beats quarterly revenue estimates on strong AI demand",
@@ -203,26 +303,6 @@
       "simple_explanation": "Alphabet's cloud unit revenue surged 63% to $20 billion, exceeding estimates and driven by strong enterprise spending on AI infrastructure. The company's overall revenue also beat expectations, with i"
     },
     {
-      "title": "How major US stock indexes fared Wednesday 4/29/2026",
-      "description": "The Dow dropped 0.6%, while the Nasdaq composite inched up less than 0.1%.  The Dow Jones Industrial Average fell 280.12 points, or 0.6%, to 48,861.81.  The Nasdaq composite rose 9.44 points, or less than 0.1%, to 24,673.24.",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-202101087.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T20:21:01+00:00",
-      "category": "USA",
-      "simple_explanation": "The Dow dropped 0.6%, while the Nasdaq composite inched up less than 0.1%.  The Dow Jones Industrial Average fell 280.12 points, or 0.6%, to 48,861.81.  The Nasdaq composite rose 9.44 points, or less "
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Pares Losses, Powell Notes Resilient Economy; Mag 7 Earnings Loom (Live Coverage)",
-      "description": "Major stock indexes pared losses Wednesday afternoon after the Federal Reserve kept its key interest rate unchanged and Fed Chair Jerome Powell noted resilience in the economy.  Meanwhile, earnings reports from four members of the Magnificent Seven are due after the market close.  Earlier Wednesday,",
-      "url": "https://finance.yahoo.com/m/e3652675-afe0-328b-9e2e-987e4785dbf7/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T20:20:26+00:00",
-      "category": "USA",
-      "simple_explanation": "Major stock indexes pared losses Wednesday afternoon after the Federal Reserve kept its key interest rate unchanged and Fed Chair Jerome Powell noted resilience in the economy.  Meanwhile, earnings re"
-    },
-    {
       "title": "US stocks today: Microsoft cloud revenue accelerates as spending growth cools",
       "description": "Microsoft's cloud revenue saw a jump in the March quarter. Spending on infrastructure was lower than anticipated. This performance aims to reassure investors about the company's significant artificial intelligence investments. Microsoft is expanding its AI offerings, including partnerships, to maint",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-microsoft-cloud-revenue-accelerates-as-spending-growth-cools/articleshow/130617696.cms",
@@ -231,16 +311,6 @@
       "published_at": "2026-04-29T20:20:17+00:00",
       "category": "India",
       "simple_explanation": "Microsoft's cloud revenue saw a jump in the March quarter. Spending on infrastructure was lower than anticipated. This performance aims to reassure investors about the company's significant artificial"
-    },
-    {
-      "title": "US Equity Markets Mixed as Crude Oil Surges, Fed Holds Rates Steady",
-      "description": "US equity indexes were mixed on Wednesday after crude oil prices and government bond yields rose ami",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-mixed-crude-201942694.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T20:19:42+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity indexes were mixed on Wednesday after crude oil prices and government bond yields rose ami"
     },
     {
       "title": "Meta lifts capital expenditure forecast, doubling down on AI push",
@@ -253,26 +323,6 @@
       "simple_explanation": "Meta Platforms is significantly increasing its capital expenditure forecast to between $125 billion and $145 billion by 2026, doubling down on AI infrastructure investments despite planned layoffs. Th"
     },
     {
-      "title": "Ford raises 2026 guidance as $1.3 billion tariff refund assists in offsetting higher costs",
-      "description": "Aside from earnings and any changes to the automaker's 2026 guidance, investors will be monitoring effects from the Iran war, tariffs and the pullback in EVs.",
-      "url": "https://www.cnbc.com/2026/04/29/ford-motor-f-earnings-q1-2026.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-29T20:16:57+00:00",
-      "category": "USA",
-      "simple_explanation": "Aside from earnings and any changes to the automaker's 2026 guidance, investors will be monitoring effects from the Iran war, tariffs and the pullback in EVs."
-    },
-    {
-      "title": "TSX Closer: The Index Falls For a Fifth-Straight Session as the Bank of Canada Stands Pat",
-      "description": "The Toronto Stock Exchange closed down for a fifth-straight session Wednesday, with most sectors low",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-falls-fifth-201647645.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T20:16:47+00:00",
-      "category": "USA",
-      "simple_explanation": "The Toronto Stock Exchange closed down for a fifth-straight session Wednesday, with most sectors low"
-    },
-    {
       "title": "Amazon beats quarterly cloud growth estimates on strong AI demand; AWS revenue jumps 28%",
       "description": "Amazon Web Services (AWS) surpassed Wall Street's cloud revenue expectations, driven by increased enterprise spending on AI adoption. Despite strong cloud performance and significant AI partnerships, the company's stock dipped after projecting current-quarter operating income below estimates. Amazon",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-beats-quarterly-cloud-growth-estimates-on-strong-ai-demand-aws-revenue-jumps-28/articleshow/130617676.cms",
@@ -281,36 +331,6 @@
       "published_at": "2026-04-29T20:13:44+00:00",
       "category": "India",
       "simple_explanation": "Amazon Web Services (AWS) surpassed Wall Street's cloud revenue expectations, driven by increased enterprise spending on AI adoption. Despite strong cloud performance and significant AI partnerships, "
-    },
-    {
-      "title": "Kalshi bettors called it: Powell says he will stay on as Fed governor after chair term ends",
-      "description": "Bettors on the platform don't think Powell will leave until August. If he stays on until then, he'd attend two more meetings of the FOMC.",
-      "url": "https://www.cnbc.com/2026/04/29/kalshi-bettors-prediction-powell-to-stay-as-fed-governor.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-04-29T20:11:46+00:00",
-      "category": "Global",
-      "simple_explanation": "Bettors on the platform don't think Powell will leave until August. If he stays on until then, he'd attend two more meetings of the FOMC."
-    },
-    {
-      "title": "INTEGRA RECEIVES FINAL APPROVAL OF EXPLORATION PLAN OF OPERATIONS FOR THE WILDCAT DEPOSIT, ADVANCING NEVADA NORTH PROJECT TOWARD PRE-FEASIBILITY STUDY",
-      "description": "Integra Resources Corp. (\"Integra\" or the \"Company\") (TSXV: ITR) (NYSE American: ITRG) is pleased to announce that it has received the National Environmental Policy Act (\"NEPA\") Decision Record and Reclamation Permit approving its Exploration Plan of Operations (the \"EPO\") for the Wildcat deposit (\"",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/integra-receives-final-approval-exploration-200500607.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T20:05:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Integra Resources Corp. (\"Integra\" or the \"Company\") (TSXV: ITR) (NYSE American: ITRG) is pleased to announce that it has received the National Environmental Policy Act (\"NEPA\") Decision Record and Re"
-    },
-    {
-      "title": "Sector Update: Energy Stocks Rise Wednesday",
-      "description": "Energy stocks rose Wednesday with the NYSE Energy Sector Index adding 2% and the State Street Energy",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-stocks-rise-wednesday-200350253.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T20:03:50+00:00",
-      "category": "USA",
-      "simple_explanation": "Energy stocks rose Wednesday with the NYSE Energy Sector Index adding 2% and the State Street Energy"
     },
     {
       "title": "US stocks today: S&P, Nasdaq end flat after US Fed holds rates",
@@ -331,16 +351,6 @@
       "published_at": "2026-04-29T20:00:17+00:00",
       "category": "India",
       "simple_explanation": "After my term as chair ends on May 15, I will continue to serve as a governor for a period of time to be determined, Jerome Powell said at the press conference that was broadcast at midnight on Thursd"
-    },
-    {
-      "title": "US Equity Indexes Fall Amid Surge in Crude Oil Prices, Dissent in Fed Policy Highest in Over 3 Decades",
-      "description": "US equity indexes fell ahead of Wednesday's close as crude oil futures and government bond yields ro",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-fall-amid-195923760.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-29T19:59:23+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity indexes fell ahead of Wednesday's close as crude oil futures and government bond yields ro"
     },
     {
       "title": "Stable Sea integrates WisdomTree tokenized Treasury fund for corporate cash management",
@@ -391,16 +401,6 @@
       "published_at": "2026-04-29T19:13:31+00:00",
       "category": "Global",
       "simple_explanation": "PayPal is betting that a new corporate structure can reignite growth at a company that has lost ground to Apple, Google and Stripe in the e-commerce battle."
-    },
-    {
-      "title": "Jerome Powell underlines importance of Fed independence as he welcomes successor Kevin Warsh",
-      "description": "Federal Reserve Chair Jerome Powell emphasized the critical need for the Fed to operate free from political influence to effectively serve the American people. He congratulated his likely successor, Kevin Warsh, on advancing through the Senate Banking Committee.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/jerome-powell-underlines-importance-of-fed-independence-as-he-welcomes-successor-kevin-warsh/articleshow/130616537.cms",
-      "image": "https://img.etimg.com/photo/msid-130616537,imgsize-79514.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-29T19:06:48+00:00",
-      "category": "India",
-      "simple_explanation": "Federal Reserve Chair Jerome Powell emphasized the critical need for the Fed to operate free from political influence to effectively serve the American people. He congratulated his likely successor, K"
     }
   ]
 }
