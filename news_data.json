@@ -1,26 +1,356 @@
 {
-  "last_updated": "2026-04-30T23:53:31.562393+00:00",
+  "last_updated": "2026-05-01T03:30:20.695572+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Oil prices hit wartime peak, with Brent crude touching $126 a barrel",
-      "description": "Brent crude surged past $126 a barrel early Thursday, while U.S. gasoline prices jumped to $4.30 a gallon.",
-      "url": "https://www.cbsnews.com/news/brent-crude-oil-price-wartime-high-gasoline-highest-since-july-2022/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T23:41:45+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Brent crude surged past $126 a barrel early Thursday, while U.S. gasoline prices jumped to $4.30 a gallon."
+      "title": "US Stock Market: US inflation jumps as war-driven fuel costs complicate Fed outlook",
+      "description": "U.S. inflation surged in March, driven by rising gasoline prices amid the Iran conflict, with the PCE index recording its sharpest monthly gain in nearly two years. Elevated inflation and steady core pressures have reinforced expectations of prolonged higher interest rates, while real consumer spend",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-us-inflation-jumps-as-war-driven-fuel-costs-complicate-fed-outlook/articleshow/130669241.cms",
+      "image": "https://img.etimg.com/photo/msid-130669241,imgsize-103408.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-01T03:19:39+00:00",
+      "category": "India",
+      "simple_explanation": "U.S. inflation surged in March, driven by rising gasoline prices amid the Iran conflict, with the PCE index recording its sharpest monthly gain in nearly two years. Elevated inflation and steady core "
     },
     {
-      "title": "Dow Jones Futures Rise As Apple Jumps On Earnings, Sandisk Skids; Stock Market At High",
+      "title": "Australia and Japan markets climb, looking past Iran war escalation fears",
+      "description": "This comes as investors took in strong earnings stateside, looking past weaker-than-expected economic data and threats of escalation in Iran.",
+      "url": "https://www.cnbc.com/2026/05/01/asia-markets-today-asx-200-nikkei-225-labor-day-live-updates.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-01T03:17:21+00:00",
+      "category": "USA",
+      "simple_explanation": "This comes as investors took in strong earnings stateside, looking past weaker-than-expected economic data and threats of escalation in Iran."
+    },
+    {
+      "title": "Alamos Gold (TSX:AGI) Valuation Check After Strong Q1 2026 Earnings And Production Outlook",
+      "description": "Alamos Gold (TSX:AGI) just released Q1 2026 results, reporting sales of US$596.7 million and net income of US$191.4 million. The company met its production guidance and kept its full-year outlook unchanged. See our latest analysis for Alamos Gold. The strong Q1 print follows a softer patch for the s",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alamos-gold-tsx-agi-valuation-030824125.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-01T03:08:24+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Alamos Gold (TSX:AGI) just released Q1 2026 results, reporting sales of US$596.7 million and net income of US$191.4 million. The company met its production guidance and kept its full-year outlook unch"
+    },
+    {
+      "title": "Oil rises as Trump faces crucial 60-day deadline for Iran war",
+      "description": "Under the 1973 War Powers Resolution, a U.S. president needs to withdraw troops 60 days after reporting their deployment to Congress",
+      "url": "https://www.cnbc.com/2026/05/01/oil-prices-today-brent-wti-us-iran-war-trump-war-powers-deadline.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-01T03:08:17+00:00",
+      "category": "USA",
+      "simple_explanation": "Under the 1973 War Powers Resolution, a U.S. president needs to withdraw troops 60 days after reporting their deployment to Congress"
+    },
+    {
+      "title": "Dow Jones Futures Rise As Apple Climbs On Earnings, Sandisk Skids; Stock Market At High",
       "description": "Apple, Sandisk and Roku were key movers after the stock market hit new highs amid huge earnings and lower oil prices.",
       "url": "https://finance.yahoo.com/m/c0df32c8-866d-379a-9315-203c3bff518e/dow-jones-futures-rise-as.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-30T23:39:46+00:00",
+      "published_at": "2026-05-01T03:04:34+00:00",
       "category": "USA",
       "simple_explanation": "Apple, Sandisk and Roku were key movers after the stock market hit new highs amid huge earnings and lower oil prices."
+    },
+    {
+      "title": "Asian shares gain with most markets closed for May Day, while oil holds steady at $111 a barrel",
+      "description": "Brent crude’s price held steady at $111.66 per barrel while U.S. benchmark crude oil added 46 cents to $105.53 a barrel.  Prospects for a deal to cement a three-week ceasefire in the Iran wa r remained clouded as Iran’s supreme leader said it will protect its nuclear and missile capabilities as a na",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-gain-most-markets-025005990.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-01T02:50:05+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Brent crude’s price held steady at $111.66 per barrel while U.S. benchmark crude oil added 46 cents to $105.53 a barrel.  Prospects for a deal to cement a three-week ceasefire in the Iran wa r remaine"
+    },
+    {
+      "title": "Oil Price Today (May 1): Crude oil holds above $110/barrel. What lies ahead?",
+      "description": "Oil prices stay above $110 a barrel as the Middle East conflict enters its second month. The Strait of Hormuz remains blocked, impacting global supply. Peace talks are stalled, with expectations of a swift agreement fading. Fresh attacks and potential US military strikes are pushing prices higher. A",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-may-1-crude-oil-holds-above-110/barrel-what-lies-ahead/articleshow/130665530.cms",
+      "image": "https://img.etimg.com/photo/msid-130665530,imgsize-115636.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-01T02:43:43+00:00",
+      "category": "India",
+      "simple_explanation": "Oil prices stay above $110 a barrel as the Middle East conflict enters its second month. The Strait of Hormuz remains blocked, impacting global supply. Peace talks are stalled, with expectations of a "
+    },
+    {
+      "title": "Vodafone Idea share price to be in focus after  ₹23,649-crore AGR relief",
+      "description": "Vodafone Idea share price has gained 20% in one month, but the stock has fallen 8.5% in three months. The telecom stock has gained 17% in six months and has rallied over 43% in one year.",
+      "url": "https://www.livemint.com/market/stock-market-news/vodafone-idea-share-price-to-be-in-focus-after-rs-23-649-crore-agr-relief-11777601492353.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/01/1600x900/3-0-118875096-DSC-2408-0_1679840318723_1777602301150.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-01T02:28:38+00:00",
+      "category": "India",
+      "simple_explanation": "Vodafone Idea share price has gained 20% in one month, but the stock has fallen 8.5% in three months. The telecom stock has gained 17% in six months and has rallied over 43% in one year."
+    },
+    {
+      "title": "Crude edges up after wild swing, stocks track Wall St rally",
+      "description": "Oil prices edged up Friday after the previous day's wild swings, with investors awaiting the next move in the Middle East crisis, while stocks rose in holiday-thinned trade following a tech-led record day on Wall Street.Still, stocks rose on a day when the majority of markets in Asia Pacific were sh",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/crude-edges-wild-swing-stocks-022732742.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-01T02:27:32+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil prices edged up Friday after the previous day's wild swings, with investors awaiting the next move in the Middle East crisis, while stocks rose in holiday-thinned trade following a tech-led record"
+    },
+    {
+      "title": "Riversgold advances Kalgoorlie gold project as funding deal removes up-front costs in March quarter",
+      "description": "Riversgold Ltd (ASX:RGL, FRA:RGV, OTC:RVSGF) has advanced development plans at its Northern Zone Gold Project near Kalgoorlie during the March quarter, underpinned by a funding and mining agreement that removes up-front capital requirements and supports a pathway towards production. Work at...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1091556/riversgold-advances-kalgoorlie-gold-project-as-funding-deal-removes-up-front-costs-in-march-quarter-1091556.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-01T02:20:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Riversgold Ltd (ASX:RGL, FRA:RGV, OTC:RVSGF) has advanced development plans at its Northern Zone Gold Project near Kalgoorlie during the March quarter, underpinned by a funding and mining agreement th"
+    },
+    {
+      "title": "Spot Bitcoin ETF outflows top $490M: Is BTC’s rally losing momentum?",
+      "description": "Spot Bitcoin ETF outflows reached $490 million as crypto investors considered the impact of high oil prices, Big Tech earnings and a shortfall in AI industry growth metrics.",
+      "url": "https://cointelegraph.com/markets/spot-bitcoin-etf-outflows-top-490m-is-btcs-rally-losing-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwV2hhdCUyMGFyZSUyMGluZmxvd3MlMjBhbmQlMjBvdXRmbG93cyUyMG9uJTIwY3J5cHRvJTIwZXhjaGFuZ2VzJTIwYml0Y29pbi5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-01T02:15:18+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Spot Bitcoin ETF outflows reached $490 million as crypto investors considered the impact of high oil prices, Big Tech earnings and a shortfall in AI industry growth metrics."
+    },
+    {
+      "title": "McEwen Inc. and Golden Lake Exploration Inc. Announce Closing of Arrangement",
+      "description": "TORONTO and VANCOUVER, British Columbia, April 30, 2026 (GLOBE NEWSWIRE) -- McEwen Inc. (“McEwen”) (NYSE/TSX:MUX) and Golden Lake Exploration Inc. (“Golden Lake”) (CSE: GLM) (OTCQB: GOLXF) are pleased to announce the completion of the previously announced business combination between McEwen and Gold",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mcewen-inc-golden-lake-exploration-021300555.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-01T02:13:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "TORONTO and VANCOUVER, British Columbia, April 30, 2026 (GLOBE NEWSWIRE) -- McEwen Inc. (“McEwen”) (NYSE/TSX:MUX) and Golden Lake Exploration Inc. (“Golden Lake”) (CSE: GLM) (OTCQB: GOLXF) are pleased"
+    },
+    {
+      "title": "Oil rises over $1 with no sign of Iran conflict ending",
+      "description": "Oil prices climbed Friday as Iran conflict resolution efforts stalled, with Tehran blocking the Strait of Hormuz and the U.S. Navy restricting Iranian crude exports. Brent crude futures rose to $111.59 a barrel, and WTI futures reached $105.46, marking four consecutive months of gains.  Tensions esc",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-over-1-with-no-sign-of-iran-conflict-ending/articleshow/130664341.cms",
+      "image": "https://img.etimg.com/photo/msid-130664341,imgsize-46238.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-01T02:07:09+00:00",
+      "category": "India",
+      "simple_explanation": "Oil prices climbed Friday as Iran conflict resolution efforts stalled, with Tehran blocking the Strait of Hormuz and the U.S. Navy restricting Iranian crude exports. Brent crude futures rose to $111.5"
+    },
+    {
+      "title": "Gold heads for weekly loss amid oil-driven inflation concerns",
+      "description": "Gold prices held steady Friday, but a weekly dip was likely as soaring oil prices fueled inflation concerns, impacting interest rate expectations.  Meanwhile, geopolitical tensions in the Strait of Hormuz and a significant drop in India's gold imports due to tax issues also played a role in the mark",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-weekly-loss-amid-oil-driven-inflation-concerns/articleshow/130663776.cms",
+      "image": "https://img.etimg.com/photo/msid-130663776,imgsize-41814.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-01T01:49:10+00:00",
+      "category": "India",
+      "simple_explanation": "Gold prices held steady Friday, but a weekly dip was likely as soaring oil prices fueled inflation concerns, impacting interest rate expectations.  Meanwhile, geopolitical tensions in the Strait of Ho"
+    },
+    {
+      "title": "Yen trims gains against dollar after Japan's intervention in markets",
+      "description": "Japan's currency, the yen, saw a slight dip against the dollar on Friday. However, it is set for its strongest weekly rise in over two months. This comes after Japanese officials stepped in to support the yen. Investors are watching closely for more action. Oil prices remain high due to threats agai",
+      "url": "https://economictimes.indiatimes.com/markets/forex/yen-trims-gains-against-dollar-after-japans-intervention-in-markets/articleshow/130663707.cms",
+      "image": "https://img.etimg.com/photo/msid-130663707,imgsize-56270.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-01T01:47:05+00:00",
+      "category": "India",
+      "simple_explanation": "Japan's currency, the yen, saw a slight dip against the dollar on Friday. However, it is set for its strongest weekly rise in over two months. This comes after Japanese officials stepped in to support"
+    },
+    {
+      "title": "4-30-2026: Mega‑Tech Earnings, AI Capex Boom + Powell Fed Transition",
+      "description": "Eric Criscuolo, NYSE Market Strategist, recaps a choppy but resilient week as markets balanced Iran headlines, a Fed hold, and a flood of earnings. Mega‑cap tech and semiconductors delivered strong results tied to AI growth, though elevated capital spending sparked mixed stock reactions. The Fed kep",
+      "url": "https://finance.yahoo.com/video/4-30-2026-mega-tech-014657796.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-01T01:46:57+00:00",
+      "category": "USA",
+      "simple_explanation": "Eric Criscuolo, NYSE Market Strategist, recaps a choppy but resilient week as markets balanced Iran headlines, a Fed hold, and a flood of earnings. Mega‑cap tech and semiconductors delivered strong re"
+    },
+    {
+      "title": "Global Market: Asia shares find relief in tech resilience, oil off peak",
+      "description": "Asian markets rebounded as tech stocks rallied on strong earnings, while Japan intervened to support the yen after its slide. Oil prices eased from four-year peaks amid geopolitical tensions, though Iran's threats kept crude firm. Central banks signaled potential rate hikes, influencing currency mov",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-asia-shares-find-relief-in-tech-resilience-oil-off-peak/articleshow/130663620.cms",
+      "image": "https://img.etimg.com/photo/msid-130663620,imgsize-77562.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-01T01:44:25+00:00",
+      "category": "India",
+      "simple_explanation": "Asian markets rebounded as tech stocks rallied on strong earnings, while Japan intervened to support the yen after its slide. Oil prices eased from four-year peaks amid geopolitical tensions, though I"
+    },
+    {
+      "title": "Trump Says Iran Blockade ‘Incredible’ as Pump Prices Keep Rising",
+      "description": "(Bloomberg) -- President Donald Trump said he was sticking with a naval blockade of Iranian ports amid concerns the vital Strait of Hormuz would not reopen anytime soon. Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranTwo NJ Malls Separated by Just Four M",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/us-iran-standoff-shows-no-082006284.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-01T01:44:05+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Bloomberg) -- President Donald Trump said he was sticking with a naval blockade of Iranian ports amid concerns the vital Strait of Hormuz would not reopen anytime soon. Most Read from BloombergUS See"
+    },
+    {
+      "title": "Stocks to buy or sell for short term: Religare Broking's Ajit Mishra suggests strategies for 3 shares",
+      "description": "Stocks to buy or sell for short term: Ajit Mishra, SVP of Research at Religare Broking, suggests trading strategies for three stocks, including RBL Bank and Sun Pharma. He believes a decisive move below 23,800 in Nifty could trigger further downside towards 23,500 or lower.",
+      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-for-short-term-religare-brokings-ajit-mishra-suggests-strategies-for-3-shares-11777597506549.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/01/1600x900/logo/Ajit_Mishra_1735172296883_1777597699645.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-01T01:31:14+00:00",
+      "category": "India",
+      "simple_explanation": "Stocks to buy or sell for short term: Ajit Mishra, SVP of Research at Religare Broking, suggests trading strategies for three stocks, including RBL Bank and Sun Pharma. He believes a decisive move bel"
+    },
+    {
+      "title": "Rupee slide deepens in 2026: Will it hit 100 against the dollar?",
+      "description": "Persistent dollar strength, foreign outflows and rising oil prices have kept the Indian rupee under pressure, even as it holds near 95—for now.",
+      "url": "https://www.livemint.com/market/rupee-slide-deepens-in-2026-will-it-hit-100-against-the-dollar-11777566213933.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/04/30/1600x900/logo/pexels-photo-8566288_1777567204363_1777567236786.jpeg",
+      "source": "LiveMint",
+      "published_at": "2026-05-01T01:30:59+00:00",
+      "category": "India",
+      "simple_explanation": "Persistent dollar strength, foreign outflows and rising oil prices have kept the Indian rupee under pressure, even as it holds near 95—for now."
+    },
+    {
+      "title": "Stock market holiday today: Are NSE, BSE and MCX open or closed on May 1 for Maharashtra Day and Labour Day? Check now",
+      "description": "NSE Holidays 2026: Domestic stock exchanges NSE and BSE will be shut for trading on Friday due to  Maharashtra Day holiday. There will be no trading on NCDEX, while MCX will resume trading in the evening session.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-today-for-maharashtra-day-2026-are-nse-bse-and-mcx-open-or-closed-on-may-1-check-now/articleshow/130627770.cms",
+      "image": "https://img.etimg.com/photo/msid-130627770,imgsize-88448.cms",
+      "source": "ET Markets",
+      "published_at": "2026-05-01T01:30:00+00:00",
+      "category": "India",
+      "simple_explanation": "NSE Holidays 2026: Domestic stock exchanges NSE and BSE will be shut for trading on Friday due to  Maharashtra Day holiday. There will be no trading on NCDEX, while MCX will resume trading in the even"
+    },
+    {
+      "title": "Yen Soars After Japan Intervened Following ‘Final’ Warning",
+      "description": "(Bloomberg) -- The yen surged 3%, its biggest gain in almost two years, after Japan intervened in the foreign-exchange market following a “final” warning by officials to investors against selling the currency.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against Ir",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/japan-issues-final-warning-intervention-101255980.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-01T01:24:21+00:00",
+      "category": "Crypto",
+      "simple_explanation": "(Bloomberg) -- The yen surged 3%, its biggest gain in almost two years, after Japan intervened in the foreign-exchange market following a “final” warning by officials to investors against selling the "
+    },
+    {
+      "title": "Video shows Cole Allen casing hotel, storming checkpoint in alleged Trump assassination attempt",
+      "description": "U.S. Attorney Jeanine Pirro said there is no evidence that a Secret Service shot during the incident was the victim of friendly fire.",
+      "url": "https://www.cnbc.com/2026/04/30/cole-allen-video-trump-attempted-assassination-pirro.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-01T01:22:10+00:00",
+      "category": "USA",
+      "simple_explanation": "U.S. Attorney Jeanine Pirro said there is no evidence that a Secret Service shot during the incident was the victim of friendly fire."
+    },
+    {
+      "title": "Brent Crude Spikes to $117 on Iran Military Option Reports",
+      "description": "The Marketplace Morning Report segment titled “Chipping away at Nvidia’s chip dominance” carried a market call that pulled focus from semiconductors to crude. The hosts noted Brent crude oil prices spiked to just under $117 per barrel as headlines crossed that, per Axios, President Trump is being br",
+      "url": "https://247wallst.com/investing/2026/04/30/brent-crude-spikes-to-117-on-iran-military-option-reports/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-01T01:17:56+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The Marketplace Morning Report segment titled “Chipping away at Nvidia’s chip dominance” carried a market call that pulled focus from semiconductors to crude. The hosts noted Brent crude oil prices sp"
+    },
+    {
+      "title": "Stock market holiday: BSE, NSE closed today for Maharashtra Day; Commodity trading on MCX to begin at 5 PM",
+      "description": "Stock market holiday: Most major stock markets across Asia are also closed today, May 1, on account of Labour Day. Markets in China, Hong Kong, Indonesia, Singapore, Thailand, Mauritius, Malaysia, Vietnam, Taiwan, Pakistan and Sri Lanka are shut.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-bse-nse-closed-today-for-maharashtra-day-commodity-trading-on-mcx-to-begin-at-5-pm-11777597555760.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/01/1600x900/logo/The-30-share-BSE-Sensex-jumped-494-28-points---REU_1717525440809_1777597940949.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-01T01:14:42+00:00",
+      "category": "India",
+      "simple_explanation": "Stock market holiday: Most major stock markets across Asia are also closed today, May 1, on account of Labour Day. Markets in China, Hong Kong, Indonesia, Singapore, Thailand, Mauritius, Malaysia, Vie"
+    },
+    {
+      "title": "China’s self-driving truck leaders say AI breakthroughs won’t accelerate rollout — here’s why",
+      "description": "Rapid advances in AI for coding and chatbots doesn't change the timeline for getting self-driving vehicles on the road, industry executives in China said.",
+      "url": "https://www.cnbc.com/2026/05/01/chinas-self-driving-truck-leaders-say-ai-breakthroughs-wont-accelerate-rollout-heres-why.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-05-01T01:10:28+00:00",
+      "category": "Global",
+      "simple_explanation": "Rapid advances in AI for coding and chatbots doesn't change the timeline for getting self-driving vehicles on the road, industry executives in China said."
+    },
+    {
+      "title": "Oil Holds Weekly Gain as Trump Says Iran Blockade Is Working",
+      "description": "(Bloomberg) -- Oil held its second weekly gain as US President Donald Trump said he was sticking with a naval blockade of Iranian ports, elevating concerns the vital Strait of Hormuz would not reopen anytime soon.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Agains",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/oil-holds-weekly-gain-trump-000543267.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-01T01:09:49+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Bloomberg) -- Oil held its second weekly gain as US President Donald Trump said he was sticking with a naval blockade of Iranian ports, elevating concerns the vital Strait of Hormuz would not reopen "
+    },
+    {
+      "title": "Bajaj Auto board to consider share buyback on May 6",
+      "description": "Bajaj Auto's board will meet on May 6 to consider a share buyback. This move signals another capital return to shareholders. The company has a strong cash position. The details of the buyback will be announced after the meeting. The trading window for company securities remains closed until May 8.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-board-to-consider-share-buyback-on-may-6/articleshow/130662369.cms",
+      "image": "https://img.etimg.com/photo/msid-130662369,imgsize-45786.cms",
+      "source": "ET Markets",
+      "published_at": "2026-05-01T01:04:19+00:00",
+      "category": "India",
+      "simple_explanation": "Bajaj Auto's board will meet on May 6 to consider a share buyback. This move signals another capital return to shareholders. The company has a strong cash position. The details of the buyback will be "
+    },
+    {
+      "title": "Bank of America resets Microsoft stock forecast after earnings",
+      "description": "Microsoft (MSFT) is a software giant, known for its Windows operating system and Office software suite. It is also a hyperscaler. The biggest driver for the stock is artificial intelligence. The company's revenue comes from three different business segments. These include Productivity and Business .",
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-reiterates-buy-rating-microsoft-stock-after-earnings?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-01T01:03:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Microsoft (MSFT) is a software giant, known for its Windows operating system and Office software suite. It is also a hyperscaler. The biggest driver for the stock is artificial intelligence. The compa"
+    },
+    {
+      "title": "Metals, PSU banks drag markets down amid currency weakness and global uncertainty",
+      "description": "Indian stocks and the rupee experienced a significant downturn on Thursday. Surging oil prices and rumors of potential military action against Iran impacted investor sentiment. Despite this, Indian markets saw their best April performance in 28 months. The Reserve Bank of India intervened to support",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/metals-psu-banks-drag-markets-down-amid-currency-weakness-and-global-uncertainty/articleshow/130661726.cms",
+      "image": "https://img.etimg.com/photo/msid-130661726,imgsize-59710.cms",
+      "source": "ET Markets",
+      "published_at": "2026-05-01T00:48:09+00:00",
+      "category": "India",
+      "simple_explanation": "Indian stocks and the rupee experienced a significant downturn on Thursday. Surging oil prices and rumors of potential military action against Iran impacted investor sentiment. Despite this, Indian ma"
+    },
+    {
+      "title": "RBI's net short positions hit a record $104 billion",
+      "description": "The Reserve Bank of India's net short forward position surged to a record $104 billion in March, a significant increase from February's $77 billion. This reflects the RBI's continuous intervention to protect the rupee against volatility, impacting India's import cover to under nine months.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbis-net-short-positions-hit-a-record-104-billion/articleshow/130661444.cms",
+      "image": "https://img.etimg.com/photo/msid-130661444,imgsize-36152.cms",
+      "source": "ET Markets",
+      "published_at": "2026-05-01T00:34:58+00:00",
+      "category": "India",
+      "simple_explanation": "The Reserve Bank of India's net short forward position surged to a record $104 billion in March, a significant increase from February's $77 billion. This reflects the RBI's continuous intervention to "
+    },
+    {
+      "title": "Sebi announces norms to fast-track launch of AIF schemes",
+      "description": "The Securities and Exchange Board of India has launched a new fast-track system for alternative investment funds. This allows schemes to launch quicker after filing documents. Merchant bankers and AIF managers now hold greater responsibility. The regulator will not review draft disclosures beforehan",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-announces-norms-to-fast-track-launch-of-aif-schemes/articleshow/130661031.cms",
+      "image": "https://img.etimg.com/photo/msid-130661031,imgsize-20624.cms",
+      "source": "ET Markets",
+      "published_at": "2026-05-01T00:22:49+00:00",
+      "category": "India",
+      "simple_explanation": "The Securities and Exchange Board of India has launched a new fast-track system for alternative investment funds. This allows schemes to launch quicker after filing documents. Merchant bankers and AIF"
+    },
+    {
+      "title": "Small-cap stocks rebound in April with best month in a decade",
+      "description": "India's small-cap stocks experienced their strongest monthly rally in at least a decade during April, recovering significantly after a sharp March sell-off. Local investors actively bought beaten-down stocks, with the Nifty Smallcap 250 index jumping 17.1%. This surge followed a period where many sm",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/small-cap-stocks-rebound-in-april-with-best-month-in-a-decade/articleshow/130660778.cms",
+      "image": "https://img.etimg.com/photo/msid-130660778,imgsize-51848.cms",
+      "source": "ET Markets",
+      "published_at": "2026-05-01T00:15:26+00:00",
+      "category": "India",
+      "simple_explanation": "India's small-cap stocks experienced their strongest monthly rally in at least a decade during April, recovering significantly after a sharp March sell-off. Local investors actively bought beaten-down"
+    },
+    {
+      "title": "Cathie Wood buys $14.1 million of megacap tech stock",
+      "description": "Cathie Wood, chief of Ark Investment Management, often trades during earnings season. This time, the timing worked. She picked up shares of a megacap tech company just before results, and the stock has since surged following the report. In 2025, the flagship Ark Innovation ETF gained 35.49%, far ...",
+      "url": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-14-1-million-of-megacap-tech-stock-alphabet-goog?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-01T00:03:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Cathie Wood, chief of Ark Investment Management, often trades during earnings season. This time, the timing worked. She picked up shares of a megacap tech company just before results, and the stock ha"
+    },
+    {
+      "title": "Review & Preview: Partying Like It’s 2020",
+      "description": "The markets had a remarkable day on Thursday, with strong showings from all the major indexes and a standout performance from one in particular.  The Nasdaq Composite clinched its best month since April 2020 and its seventh record close of the year, thanks to a rally in semiconductor stocks.  Chip s",
+      "url": "https://finance.yahoo.com/m/f73af0ac-99de-3424-a5fd-2e52e3eb3fb4/review-%26-preview%3A-partying.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-04-30T23:55:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The markets had a remarkable day on Thursday, with strong showings from all the major indexes and a standout performance from one in particular.  The Nasdaq Composite clinched its best month since Apr"
     },
     {
       "title": "Stock Market Today, April 30: Aurora Innovation Jumps on Hirschbach’s 500-Truck Autonomous Freight Plan",
@@ -53,354 +383,24 @@
       "simple_explanation": "Apple reported 17% revenue growth, topping estimates, even as iPhone sales came up short."
     },
     {
-      "title": "Reddit reports 69% jump in revenue, topping analyst estimates",
-      "description": "Reddit reported first-quarter earnings and revenue that exceeded Wall Street expectations.",
-      "url": "https://www.cnbc.com/2026/04/30/reddit-rddt-q1-2026-earnings-report.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-30T22:57:54+00:00",
-      "category": "USA",
-      "simple_explanation": "Reddit reported first-quarter earnings and revenue that exceeded Wall Street expectations."
-    },
-    {
-      "title": "Wall Street ends higher, S&P 500, Nasdaq notch strong monthly gains",
-      "description": "STORY: U.S. stocks advanced on Thursday as solid corporate earnings offset the war-related oil supply shock that sent crude prices to four-year highs.The Dow added 1.6% while the S&P 500 rose 1% and the Nasdaq climbed a little less than that on the last trading day of April.The S&P had its best mont",
-      "url": "https://finance.yahoo.com/video/wall-street-ends-higher-p-225504341.html?.tsrc=rss",
+      "title": "Agnico Eagle Mines (AEM) Beats Q1 Earnings and Revenue Estimates",
+      "description": "Agnico (AEM) delivered earnings and revenue surprises of +6.58% and +6.68%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-beats-222504865.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-30T22:55:04+00:00",
-      "category": "USA",
-      "simple_explanation": "STORY: U.S. stocks advanced on Thursday as solid corporate earnings offset the war-related oil supply shock that sent crude prices to four-year highs.The Dow added 1.6% while the S&P 500 rose 1% and t"
-    },
-    {
-      "title": "Crypto Markets Today, April 30: Sluggish Crypto Markets Struggle to Gain Momentum",
-      "description": "Today, April 30, 2026, crypto prices edged upwards as profit-taking and a lack of clear drivers weighed on prices.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/04/30/crypto-markets-today-april-30-sluggish-crypto-markets-struggle-to-gain-momentum/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T22:25:51+00:00",
+      "published_at": "2026-04-30T22:25:04+00:00",
       "category": "Commodities",
-      "simple_explanation": "Today, April 30, 2026, crypto prices edged upwards as profit-taking and a lack of clear drivers weighed on prices."
+      "simple_explanation": "Agnico (AEM) delivered earnings and revenue surprises of +6.58% and +6.68%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?"
     },
     {
-      "title": "Veeva Systems Set to Join S&P 500",
-      "description": "Veeva Systems Inc. (NYSE: VEEV) will replace Coterra Energy Inc. (NYSE: CTRA) in the S&P 500 effective prior to the opening of trading on Thursday, May 7. S&P 500 constituent Devon Energy Corp. (NYSE: DVN) is acquiring Coterra Energy in a deal expected to close soon, pending final closing conditions",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/veeva-systems-set-join-p-222300086.html?.tsrc=rss",
+      "title": "MongoDB (MDB) Stock Declines While Market Improves: Some Information for Investors",
+      "description": "MongoDB (MDB) closed at $250.83 in the latest trading session, marking a -2.89% move from the prior day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-mdb-stock-declines-while-221503429.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-04-30T22:23:00+00:00",
+      "published_at": "2026-04-30T22:15:03+00:00",
       "category": "USA",
-      "simple_explanation": "Veeva Systems Inc. (NYSE: VEEV) will replace Coterra Energy Inc. (NYSE: CTRA) in the S&P 500 effective prior to the opening of trading on Thursday, May 7. S&P 500 constituent Devon Energy Corp. (NYSE:"
-    },
-    {
-      "title": "Morgan Stanley resets Coca-Cola stock price target after earnings",
-      "description": "The market is full of earnings anxiety. With that, there's something quietly reassuring about a company that sells the same product it did a hundred years ago, and keeps finding ways to grow faster than almost everyone around it. Coca-Cola (KO) delivered a first-quarter 2026 earnings report that ...",
-      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-raises-coca-cola-stock-price-target-after-earnings?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T22:17:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The market is full of earnings anxiety. With that, there's something quietly reassuring about a company that sells the same product it did a hundred years ago, and keeps finding ways to grow faster th"
-    },
-    {
-      "title": "Gold Price Outlook: Bulls Fight For a Breakout Near $5,000",
-      "description": "Gold (XAU) compresses near $4,611 as bulls press a descending channel, targeting $4,786 if the breakout holds above resistance.",
-      "url": "https://beincrypto.com/gold-price-prediction-may-2026/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T22:14:10+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold (XAU) compresses near $4,611 as bulls press a descending channel, targeting $4,786 if the breakout holds above resistance."
-    },
-    {
-      "title": "Peter Schiff: U.S. stocks are a ‘ticking time bomb’ — what to buy before the crash",
-      "description": "Transcript:Caroline WoodsMarkets are near highs, but not everyone is buying this rally. Peter Schiff has been warning about a weaker dollar, higher gold and real risk for equities. He joins us now. Peter Schiff, chief economist and global strategist at Europac.com. Thanks so much for being here. ...",
-      "url": "https://www.thestreet.com/video/peter-schiff-u-s-stocks-are-a-ticking-time-bomb-what-to-buy-before-the-crash?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T22:13:56+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Transcript:Caroline WoodsMarkets are near highs, but not everyone is buying this rally. Peter Schiff has been warning about a weaker dollar, higher gold and real risk for equities. He joins us now. Pe"
-    },
-    {
-      "title": "Tethys Petroleum Annual Results and Corporate Update",
-      "description": "Grand Cayman, Cayman Islands--(Newsfile Corp. - April 30, 2026) - Tethys Petroleum Limited (TSXV: TPL) (\"Tethys\" or the \"Company\") today announced that it has filed its Annual Results for the year ended December 31, 2025 with the Canadian securities regulatory authorities comprising its Audited Fina",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/tethys-petroleum-annual-results-corporate-220000589.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T22:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Grand Cayman, Cayman Islands--(Newsfile Corp. - April 30, 2026) - Tethys Petroleum Limited (TSXV: TPL) (\"Tethys\" or the \"Company\") today announced that it has filed its Annual Results for the year end"
-    },
-    {
-      "title": "Middle East Crisis Accelerates Asia’s Electrification Drive",
-      "description": "High fuel prices are driving a surge in EV adoption and faster rollout of renewables, as countries seek long-term energy security and lower import bills.",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/middle-east-crisis-accelerates-asia-220000490.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T22:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "High fuel prices are driving a surge in EV adoption and faster rollout of renewables, as countries seek long-term energy security and lower import bills."
-    },
-    {
-      "title": "AngloGold Ashanti Plc (AU) A Top Goldman Sachs Pick On 4.9M Gold Ounce Reserve in Nevada",
-      "description": "Anglogold Ashanti Plc (NYSE:AU) is one of Goldman Sachs top gold stock picks. On April 16, Morgan Stanley raised its price target on Anglogold Ashanti Plc (NYSE:AU) to ZAR 165,000 from ZAR 150,000 while maintaining an Equal Weight rating, citing higher gold price assumptions that led to upward revis",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/anglogold-ashanti-plc-au-top-215243608.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T21:52:43+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Anglogold Ashanti Plc (NYSE:AU) is one of Goldman Sachs top gold stock picks. On April 16, Morgan Stanley raised its price target on Anglogold Ashanti Plc (NYSE:AU) to ZAR 165,000 from ZAR 150,000 whi"
-    },
-    {
-      "title": "Kinross Gold Corporation (KGC) Asserts Status as one of Goldman Sachs top Gold Stock Picks",
-      "description": "Kinross Gold Corporation (NYSE:KGC) is one of Goldman Sachs top gold stock picks. On April 22, it became clear that Peak Gold Joint Venture, in which Kinross Gold Corporation (NYSE:KGC) owns a 70% stake, has achieved significant milestones. For starters, 5,900 meters of underground drilling have alr",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/kinross-gold-corporation-kgc-asserts-215240271.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T21:52:40+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Kinross Gold Corporation (NYSE:KGC) is one of Goldman Sachs top gold stock picks. On April 22, it became clear that Peak Gold Joint Venture, in which Kinross Gold Corporation (NYSE:KGC) owns a 70% sta"
-    },
-    {
-      "title": "Coeur Mining Inc (CDE) Completes $385.8 Note Exchange after New Gold Acquisition",
-      "description": "Coeur Mining, Inc. (NYSE:CDE) is one of Goldman Sachs top gold stock picks. On April 22, Coeur Mining, Inc. (NYSE:CDE) completed its exchange offer for New Gold senior notes. Coeur accepted $385.8 million of New Gold’s 6.875% Senior Notes due 2032, or about 96.5% of the $400 million outstanding, and",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coeur-mining-inc-cde-completes-215236420.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T21:52:36+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Coeur Mining, Inc. (NYSE:CDE) is one of Goldman Sachs top gold stock picks. On April 22, Coeur Mining, Inc. (NYSE:CDE) completed its exchange offer for New Gold senior notes. Coeur accepted $385.8 mil"
-    },
-    {
-      "title": "This is How Teck Resources Limited (TECK) Capitalized on Higher Commodity Prices",
-      "description": "Teck Resources Limited (NYSE:TECK) is one of Goldman Sachs top gold stock picks. On April 22, Teck Resources Ltd (NYSE:TECK) reported a strong start to the year, characterized by record quarterly copper sales, as the company also capitalized on strong commodity prices. The company achieved an adjust",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/teck-resources-limited-teck-capitalized-215227924.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T21:52:27+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Teck Resources Limited (NYSE:TECK) is one of Goldman Sachs top gold stock picks. On April 22, Teck Resources Ltd (NYSE:TECK) reported a strong start to the year, characterized by record quarterly copp"
-    },
-    {
-      "title": "Canopy Growth Corporation (CGC) Beats Stock Market Upswing: What Investors Need to Know",
-      "description": "Canopy Growth Corporation (CGC) reached $1.11 at the closing of the latest trading day, reflecting a +1.83% change compared to its last close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/canopy-growth-corporation-cgc-beats-215005128.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T21:50:05+00:00",
-      "category": "USA",
-      "simple_explanation": "Canopy Growth Corporation (CGC) reached $1.11 at the closing of the latest trading day, reflecting a +1.83% change compared to its last close."
-    },
-    {
-      "title": "ZIM Integrated Shipping Services (ZIM) Exceeds Market Returns: Some Facts to Consider",
-      "description": "ZIM Integrated Shipping Services (ZIM) closed at $26.44 in the latest trading session, marking a +1.65% move from the prior day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zim-integrated-shipping-services-zim-215005184.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T21:50:05+00:00",
-      "category": "USA",
-      "simple_explanation": "ZIM Integrated Shipping Services (ZIM) closed at $26.44 in the latest trading session, marking a +1.65% move from the prior day."
-    },
-    {
-      "title": "Okta (OKTA) Stock Falls Amid Market Uptick: What Investors Need to Know",
-      "description": "The latest trading day saw Okta (OKTA) settling at $73.65, representing a -3.3% change from its previous close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/okta-okta-stock-falls-amid-215004719.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T21:50:04+00:00",
-      "category": "USA",
-      "simple_explanation": "The latest trading day saw Okta (OKTA) settling at $73.65, representing a -3.3% change from its previous close."
-    },
-    {
-      "title": "Sony (SONY) Laps the Stock Market: Here's Why",
-      "description": "In the most recent trading session, Sony (SONY) closed at $20.09, indicating a +1.57% shift from the previous trading day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sony-sony-laps-stock-market-215004058.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T21:50:04+00:00",
-      "category": "USA",
-      "simple_explanation": "In the most recent trading session, Sony (SONY) closed at $20.09, indicating a +1.57% shift from the previous trading day."
-    },
-    {
-      "title": "Stablecoins overtake Bitcoin in Latin America crypto purchases — Bitso",
-      "description": "A Bitso report shows shifting user behavior as dollar-linked stablecoins gain traction for everyday financial use across Latin America’s inflation-hit economies.",
-      "url": "https://cointelegraph.com/news/stablecoins-surpass-bitcoin-latin-america-crypto-purchases-bitso-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJLUxhdGluLUFtZXJpY2EtaXMtcmVhZHktZm9yLWNyeXB0by0lRTIlODAlOTQtanVzdC1pbnRlZ3JhdGUtaXQtd2l0aC10aGVpci1wYXltZW50LXN5c3RlbXMyMS5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-30T21:12:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "A Bitso report shows shifting user behavior as dollar-linked stablecoins gain traction for everyday financial use across Latin America’s inflation-hit economies."
-    },
-    {
-      "title": "FISA Section 702: Congress passes short-term surveillance program extension just before deadline",
-      "description": "The controversial foreign surveillance program was due to expire by the end of Thursday.",
-      "url": "https://www.cnbc.com/2026/04/30/fisa-section-702-congress-extension.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-30T21:09:18+00:00",
-      "category": "USA",
-      "simple_explanation": "The controversial foreign surveillance program was due to expire by the end of Thursday."
-    },
-    {
-      "title": "Yen Soars as Japan Intervenes After Issuing ‘Final’ Warning",
-      "description": "(Bloomberg) -- The yen surged more than 2%, for its biggest gain in three years, after Japan intervened in the foreign-exchange market hours after officials delivered a “final” warning to investors against selling the currency.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the Fir",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/japan-issues-final-warning-intervention-101255980.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T21:07:52+00:00",
-      "category": "Crypto",
-      "simple_explanation": "(Bloomberg) -- The yen surged more than 2%, for its biggest gain in three years, after Japan intervened in the foreign-exchange market hours after officials delivered a “final” warning to investors ag"
-    },
-    {
-      "title": "Trump signs DHS funding bill, ending shutdown for most of agency, including TSA",
-      "description": "Trump on Thursday signed legislation to fund the Department of Homeland Security after the House approved the bill earlier in the afternoon.",
-      "url": "https://www.cnbc.com/2026/04/30/congress-dhs-tsa-funding.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-30T20:54:05+00:00",
-      "category": "USA",
-      "simple_explanation": "Trump on Thursday signed legislation to fund the Department of Homeland Security after the House approved the bill earlier in the afternoon."
-    },
-    {
-      "title": "Gold Rebounds as Speculation of Yen Intervention Weakens Dollar",
-      "description": "Gold bounced back from a three-day decline, as the dollar sank and traders weighed the prospect of a fresh US military engagement in Iran.",
-      "url": "https://www.livemint.com/market/gold-rebounds-as-speculation-of-yen-intervention-weakens-dollar-11777581543889.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-04-30T20:39:03+00:00",
-      "category": "India",
-      "simple_explanation": "Gold bounced back from a three-day decline, as the dollar sank and traders weighed the prospect of a fresh US military engagement in Iran."
-    },
-    {
-      "title": "Cathie Wood Buys Tumbling Robinhood Stock, ARK Adds $30 Mil Of This Stock",
-      "description": "Cathie Wood's ARK Invest bought Robinhood stock as shares fell, loads up on Kratos Defense, Intellia Therapeutics. Firm sells bitcoin ETF.",
-      "url": "https://finance.yahoo.com/m/619fe44e-8e06-37be-a40b-441f5df59d60/cathie-wood-buys-tumbling.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T20:21:34+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Cathie Wood's ARK Invest bought Robinhood stock as shares fell, loads up on Kratos Defense, Intellia Therapeutics. Firm sells bitcoin ETF."
-    },
-    {
-      "title": "Treasuries Draw Buyers After Selloff as Oil Surge Stalls",
-      "description": "Treasuries rose as the recent surge in oil prices stalled and bond investors were drawn to 30-year yields that topped 5% for the first time this year.",
-      "url": "https://www.livemint.com/market/treasuries-draw-buyers-after-selloff-as-oil-surge-stalls-11777580292964.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-      "source": "LiveMint",
-      "published_at": "2026-04-30T20:18:12+00:00",
-      "category": "India",
-      "simple_explanation": "Treasuries rose as the recent surge in oil prices stalled and bond investors were drawn to 30-year yields that topped 5% for the first time this year."
-    },
-    {
-      "title": "Intel's stock more than doubles in April for best month in chipmaker's 55 years on Nasdaq",
-      "description": "Intel's market cap more than doubled in April, boosted by a blowout earnings report and optimism that the chipmaker is in the midst of a revival.",
-      "url": "https://www.cnbc.com/2026/04/30/intel-has-best-month-ever-after-years-of-losing-to-tsmc-and-nvidia.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-30T20:10:36+00:00",
-      "category": "USA",
-      "simple_explanation": "Intel's market cap more than doubled in April, boosted by a blowout earnings report and optimism that the chipmaker is in the midst of a revival."
-    },
-    {
-      "title": "US stocks today: US market ends higher, S&P 500, Nasdaq notch biggest monthly gains in years",
-      "description": "U.S. stocks surged on Thursday, with the S&P 500 and Nasdaq achieving their largest monthly gains in years. Strong corporate earnings, particularly from tech giants like Alphabet, helped offset concerns over oil supply shocks and geopolitical tensions. Economic data indicated continued healthy U.S. ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-market-ends-higher-sp-500-nasdaq-notch-biggest-monthly-gains-in-years/articleshow/130651806.cms",
-      "image": "https://img.etimg.com/photo/msid-130651806,imgsize-81974.cms",
-      "source": "Economic Times",
-      "published_at": "2026-04-30T20:02:47+00:00",
-      "category": "India",
-      "simple_explanation": "U.S. stocks surged on Thursday, with the S&P 500 and Nasdaq achieving their largest monthly gains in years. Strong corporate earnings, particularly from tech giants like Alphabet, helped offset concer"
-    },
-    {
-      "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand",
-      "description": "Amazon, Google and Microsoft all reported better-than-expected first-quarter cloud results, signaling an acceleration of AI demand",
-      "url": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-04-30T20:00:59+00:00",
-      "category": "USA",
-      "simple_explanation": "Amazon, Google and Microsoft all reported better-than-expected first-quarter cloud results, signaling an acceleration of AI demand"
-    },
-    {
-      "title": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX",
-      "description": "Blue Owl said it's made 10 times its investment in SpaceX, which is headed for a record IPO later this year.",
-      "url": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-04-30T19:36:55+00:00",
-      "category": "Global",
-      "simple_explanation": "Blue Owl said it's made 10 times its investment in SpaceX, which is headed for a record IPO later this year."
-    },
-    {
-      "title": "Yields ease as oil retreats from four-year high",
-      "description": "USA-BONDS/ (UPDATE 2):TREASURIES-Yields ease as oil retreats from four-year high",
-      "url": "https://www.livemint.com/market/yields-ease-as-oil-retreats-from-four-year-high-11777576198123.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-      "source": "LiveMint",
-      "published_at": "2026-04-30T19:09:57+00:00",
-      "category": "India",
-      "simple_explanation": "USA-BONDS/ (UPDATE 2):TREASURIES-Yields ease as oil retreats from four-year high"
-    },
-    {
-      "title": "This Indonesian ETF Has A High Yield But Has Notable Risks",
-      "description": "The iShares MSCI Indonesia ETF (NYSEARCA:EIDO) gives U.S. investors a single-ticker route into Southeast Asia’s largest economy, but the trip has been bumpy. Shares trade around $15 after sliding roughly 20% year to date and about 9% over the past year. The ten-year chart is no kinder: the fund is d",
-      "url": "https://247wallst.com/investing/2026/04/30/this-indonesian-etf-has-a-high-yield-but-has-notable-risks/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T19:05:32+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The iShares MSCI Indonesia ETF (NYSEARCA:EIDO) gives U.S. investors a single-ticker route into Southeast Asia’s largest economy, but the trip has been bumpy. Shares trade around $15 after sliding roug"
-    },
-    {
-      "title": "Bitcoin’s $75K cost basis emerges as key support zone for current bull trend",
-      "description": "Bitcoin found support above a key investor cost-basis level as spot BTC ETF flows and spot positioning compressed BTC’s price range in preparation for the next trending move.",
-      "url": "https://cointelegraph.com/markets/bitcoins-75k-cost-basis-cluster-emerges-as-key-support-zone-for-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJLUEtYmVnaW5uZXIncy1ndWlkZS10by11bmRlcnN0YW5kaW5nLXdyYXBwZWQtQml0Y29pbi5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-30T18:56:06+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin found support above a key investor cost-basis level as spot BTC ETF flows and spot positioning compressed BTC’s price range in preparation for the next trending move."
-    },
-    {
-      "title": "Insider trading backlash forces Polymarket to step up surveillance",
-      "description": "Polymarket has selected Chainalysis to flag suspicious trades as insider betting concerns mount and regulators tighten scrutiny on prediction markets.",
-      "url": "https://cointelegraph.com/news/polymarket-chainalysis-insider-betting-detection-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwV2hhdCUyMEFyZSUyMHprLVNOQVJLcyUyMGFuZCUyMEhvdyUyMERvJTIwVGhleSUyMEFmZmVjdCUyMERpZ2l0YWwlMjBQcml2YWN5LmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-04-30T18:35:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Polymarket has selected Chainalysis to flag suspicious trades as insider betting concerns mount and regulators tighten scrutiny on prediction markets."
-    },
-    {
-      "title": "AI Debt Investors Show Signs of Fatigue After $300 Billion Binge",
-      "description": "After a $300 billion AI debt binge that spanned every corner of the credit market, investors are starting to show some signs of fatigue.",
-      "url": "https://www.livemint.com/market/ai-debt-investors-show-signs-of-fatigue-after-300-billion-binge-11777573828570.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-      "source": "LiveMint",
-      "published_at": "2026-04-30T18:30:28+00:00",
-      "category": "India",
-      "simple_explanation": "After a $300 billion AI debt binge that spanned every corner of the credit market, investors are starting to show some signs of fatigue."
-    },
-    {
-      "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi",
-      "description": "Apple is set to report earnings after the bell on Thursday, with its conference call scheduled for 5:00 pm ET.",
-      "url": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-04-30T17:56:28+00:00",
-      "category": "Global",
-      "simple_explanation": "Apple is set to report earnings after the bell on Thursday, with its conference call scheduled for 5:00 pm ET."
-    },
-    {
-      "title": "Eric Trump Gives His Unsurprising Bitcoin Prediction in Las Vegas",
-      "description": "Eric Trump predicted Bitcoin will hit $1 million at the Bitcoin 2026 Vegas conference. The Trump family signals continued crypto support.",
-      "url": "https://beincrypto.com/eric-trump-bitcoin-prediction-las-vegas/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-04-30T17:46:29+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Eric Trump predicted Bitcoin will hit $1 million at the Bitcoin 2026 Vegas conference. The Trump family signals continued crypto support."
+      "simple_explanation": "MongoDB (MDB) closed at $250.83 in the latest trading session, marking a -2.89% move from the prior day."
     }
   ]
 }
