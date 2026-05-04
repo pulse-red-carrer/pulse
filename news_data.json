@@ -1,236 +1,286 @@
 {
-  "last_updated": "2026-05-04T11:49:23.030928+00:00",
+  "last_updated": "2026-05-04T14:03:25.941004+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Ryan Cohen tells CNBC GameStop could issue more stock to achieve eBay takeover",
+      "title": "U.S. military denies Iran's claim it struck American warship in Strait of Hormuz",
+      "description": "Iran has blocked tanker traffic through the Strait of Hormuz since the U.S. and Israel started the war in late February, resulting in supply and price shocks.",
+      "url": "https://www.cnbc.com/2026/05/04/iran-war-trump-strait-of-hormuz.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-04T14:01:27+00:00",
+      "category": "USA",
+      "simple_explanation": "Iran has blocked tanker traffic through the Strait of Hormuz since the U.S. and Israel started the war in late February, resulting in supply and price shocks."
+    },
+    {
+      "title": "EBay pops as Ryan Cohen says GameStop could issue stock to pay for takeover of much bigger retailer",
       "description": "GameStop made a takeover bid for eBay, offering $125 per share in a cash-and-stock deal that values the e-commerce platform at roughly $55.5 billion.",
       "url": "https://www.cnbc.com/2026/05/04/gamestop-ebay-takeover-bid-ryan-cohen-gaming-retail-ecommerce.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-05-04T11:48:38+00:00",
+      "published_at": "2026-05-04T14:00:10+00:00",
       "category": "USA",
       "simple_explanation": "GameStop made a takeover bid for eBay, offering $125 per share in a cash-and-stock deal that values the e-commerce platform at roughly $55.5 billion."
     },
     {
-      "title": "California Resources (CRC) Q1 Earnings: What To Expect",
-      "description": "Oil and gas producer California Resources (NYSE:CRC) will be reporting earnings this Tuesday afternoon. Here’s what to expect.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/california-resources-crc-q1-earnings-113255983.html?.tsrc=rss",
+      "title": "Oil prices rise as U.S. launches operation to restore freedom of navigation in Strait of Hormuz",
+      "description": "The U.S. operation comes after renewed attacks on commercial vessels over the weekend.",
+      "url": "https://www.cnbc.com/2026/05/04/oil-prices-today-wti-brent-trump-iran-us-hormuz.html",
       "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T11:32:55+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil and gas producer California Resources (NYSE:CRC) will be reporting earnings this Tuesday afternoon. Here’s what to expect."
-    },
-    {
-      "title": "Bitcoin briefly tops $80,000, the highest level since January",
-      "description": "Bitcoin briefly topped $80,000 overnight.",
-      "url": "https://finance.yahoo.com/markets/article/bitcoin-briefly-tops-80000-the-highest-level-since-january-113035570.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T11:30:35+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Bitcoin briefly topped $80,000 overnight."
-    },
-    {
-      "title": "Gold Strike Announces Closing of Transaction to Acquire Florin, FLR and RJ Gold Projects and Satisfies Release Conditions for $17.2 Million Escrowed Financing",
-      "description": "Vancouver, British Columbia--(Newsfile Corp. - May 4, 2026) - Gold Strike Resources Corp.(TSXV: GSR) (the \"Company\" or \"GSR\") has completed its previously announced acquisition of 100% interest in three contiguous mineral projects, consisting of an aggregate of 1,687 mineral claims, located within t",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-strike-announces-closing-transaction-113000495.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T11:30:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - May 4, 2026) - Gold Strike Resources Corp.(TSXV: GSR) (the \"Company\" or \"GSR\") has completed its previously announced acquisition of 100% interest in thr"
-    },
-    {
-      "title": "Valhalla Metals Announces Upsize to Private Placement",
-      "description": "Vancouver, British Columbia--(Newsfile Corp. - May 4, 2026) - Valhalla Metals Inc. (TSXV: VMXX) (OTCQB: VMXXF) (\"Valhalla\" or the \"Company\") is pleased to announce that, due to strong investor demand, it has increased the size of its non-brokered private placement (the \"Offering\") of subscription re",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/valhalla-metals-announces-upsize-private-113000349.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T11:30:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - May 4, 2026) - Valhalla Metals Inc. (TSXV: VMXX) (OTCQB: VMXXF) (\"Valhalla\" or the \"Company\") is pleased to announce that, due to strong investor demand,"
-    },
-    {
-      "title": "StrikePoint Drills Multiple Gold-Silver Intercepts Including 21.34m grading 0.62 g/t Au and 8.6 g/t Ag at the Hercules Target and 13.72m grading 1.09 g/t Au and 4.6 g/t Ag at the Cliffs Target",
-      "description": "Vancouver, British Columbia--(Newsfile Corp. - May 4, 2026) - StrikePoint Gold Inc. (TSXV: SKP) (OTCQB: STKXF) (\"StrikePoint\" or the \"Company\") is pleased to announce initial assay results from its Spring 2026 drill program on the Hercules Gold Project located in Nevada's prolific Walker Lane. The d",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/strikepoint-drills-multiple-gold-silver-113000242.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T11:30:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - May 4, 2026) - StrikePoint Gold Inc. (TSXV: SKP) (OTCQB: STKXF) (\"StrikePoint\" or the \"Company\") is pleased to announce initial assay results from its Sp"
-    },
-    {
-      "title": "CME Group Reports April 2026 ADV of 25.9 Million Contracts",
-      "description": "CME Group, the world's leading derivatives marketplace, today reported its April 2026 average daily volume (ADV) reached 25.9 million contracts. Market statistics are available in greater detail at https://cmegroupinc.gcs-web.com/monthly-volume.",
-      "url": "https://finance.yahoo.com/markets/options/articles/cme-group-reports-april-2026-113000309.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T11:30:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "CME Group, the world's leading derivatives marketplace, today reported its April 2026 average daily volume (ADV) reached 25.9 million contracts. Market statistics are available in greater detail at ht"
-    },
-    {
-      "title": "TE Connectivity maintains position on Dow Jones Best-In-Class Index through continued sustainability, governance efforts",
-      "description": "TE Connectivity, a world leader in connectors and sensors, has been named to the Dow Jones Best-In-Class Index for the 14th consecutive year.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/te-connectivity-maintains-position-dow-112800762.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T11:28:00+00:00",
+      "source": "CNBC",
+      "published_at": "2026-05-04T13:56:48+00:00",
       "category": "USA",
-      "simple_explanation": "TE Connectivity, a world leader in connectors and sensors, has been named to the Dow Jones Best-In-Class Index for the 14th consecutive year."
+      "simple_explanation": "The U.S. operation comes after renewed attacks on commercial vessels over the weekend."
     },
     {
-      "title": "Wall St futures slip as US-Iran tensions fuel volatility",
-      "description": "Wall ​Street futures whipsawed on Monday after conflicting reports about a U.S. warship near the Strait of Hormuz heightened investor anxiety over the Middle East conflict.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-futures-slip-as-us-iran-tensions-fuel-volatility/articleshow/130790983.cms",
-      "image": "https://img.etimg.com/photo/msid-130790983,imgsize-139556.cms",
+      "title": "Wall Street falls on heightened anxieties over Middle East conflict",
+      "description": "The Dow Jones Industrial Average fell 0.17%, the S&amp;P 500 fell 0.02%, the Nasdaq Composite dropped 0.01%",
+      "url": "https://www.livemint.com/market/stock-market-news/wall-street-falls-on-heightened-anxieties-over-middle-east-conflict-11777902033717.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/04/1600x900/US-NYSE-OPENS-TO-BEGIN-MAY-AFTER-ONE-OF-MARKET-S-S_1777902271793_1777902271959.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-04T13:52:13+00:00",
+      "category": "India",
+      "simple_explanation": "The Dow Jones Industrial Average fell 0.17%, the S&amp;P 500 fell 0.02%, the Nasdaq Composite dropped 0.01%"
+    },
+    {
+      "title": "Small-cap stock under  ₹50 hits upper circuit for 13th straight session, declares  ₹500 crore fundraise move",
+      "description": "AVI Polymers shares surged to  ₹20.95, driven by a consistent upward trend. The company plans to raise  ₹500 crore and expand into technology services. Financial results reveal strong growth, with a net worth increase to  ₹115.99 crore by FY26's end.",
+      "url": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-hits-upper-circuit-for-13th-straight-session-declares-rs-500-crore-fundraise-move-11777901327006.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/04/1600x900/logo/gdba00e56a1893a12acddc4b9b158a9a9fe310afe76375ef52_1726729068736_1777901323654.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-04T13:48:54+00:00",
+      "category": "India",
+      "simple_explanation": "AVI Polymers shares surged to  ₹20.95, driven by a consistent upward trend. The company plans to raise  ₹500 crore and expand into technology services. Financial results reveal strong growth, with a n"
+    },
+    {
+      "title": "Stock Market Today: Dow Drops On U.S.-Iran News; Micron, Sandisk Shares Continue To Rally (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index dropped Monday on the latest U.S.-Iran news as oil prices rallied. Micron and Sandisk jumped.",
+      "url": "https://finance.yahoo.com/m/68a7ae61-7710-373a-aaa2-a40e3ac796c7/stock-market-today%3A-dow-drops.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T13:41:51+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index dropped Monday on the latest U.S.-Iran news as oil prices rallied. Micron and Sandisk jumped."
+    },
+    {
+      "title": "Why the iShares Semiconductor ETF Jumped 40% in April",
+      "description": "Semiconductor stocks had a banner month in April.",
+      "url": "https://www.fool.com/investing/2026/05/04/why-the-ishares-semiconductor-etf-jumped-40-in-apr/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T13:40:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Semiconductor stocks had a banner month in April."
+    },
+    {
+      "title": "Oil prices increase as US-Iran negotiations remain unresolved",
+      "description": "Prices retained levels above $100 per barrel while negotiations failed to yield an agreement and transit remained affected.",
+      "url": "https://www.offshore-technology.com/news/oil-prices-increase-us-iran-unresolved/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T13:36:29+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Prices retained levels above $100 per barrel while negotiations failed to yield an agreement and transit remained affected."
+    },
+    {
+      "title": "Tech Giants Prop Up Nasdaq Composite as Oil Shock Tests Market Resilience",
+      "description": "The Nasdaq Composite (^IXIC) is leaning on its biggest tech names this morning to absorb a fresh oil shock, with index futures hovering near flat after climbing well off their overnight lows. A 3% spike in crude on renewed Iran tensions is the main drag, but blowout earnings from Alphabet and Amazon",
+      "url": "https://247wallst.com/investing/2026/05/04/tech-giants-prop-up-nasdaq-composite-as-oil-shock-tests-market-resilience/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T13:33:58+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The Nasdaq Composite (^IXIC) is leaning on its biggest tech names this morning to absorb a fresh oil shock, with index futures hovering near flat after climbing well off their overnight lows. A 3% spi"
+    },
+    {
+      "title": "US stocks today: US market slips at open as Iran war tensions unsettle investors",
+      "description": "Wall Street indexes experienced a slight decline at the market open on Monday. Investor anxiety surrounding the Middle East conflict overshadowed the positive sentiment from last week's earnings reports. The Dow, S&P 500, and Nasdaq Composite all saw minor drops in early trading.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-market-slips-at-open-as-iran-war-tensions-unsettle-investors/articleshow/130802423.cms",
+      "image": "https://img.etimg.com/photo/msid-130802423,imgsize-242258.cms",
       "source": "Economic Times",
-      "published_at": "2026-05-04T11:25:21+00:00",
+      "published_at": "2026-05-04T13:33:29+00:00",
       "category": "India",
-      "simple_explanation": "Wall ​Street futures whipsawed on Monday after conflicting reports about a U.S. warship near the Strait of Hormuz heightened investor anxiety over the Middle East conflict."
+      "simple_explanation": "Wall Street indexes experienced a slight decline at the market open on Monday. Investor anxiety surrounding the Middle East conflict overshadowed the positive sentiment from last week's earnings repor"
     },
     {
-      "title": "JonesTrading Launches JT20™ Index, a Concentrated Benchmark Tracking the 20 Largest U.S. Companies",
-      "description": "JonesTrading Institutional Services LLC (\"Jones\") today announced the launch of the JT20™ Index, a full market-capitalization-weighted equity index comprised of the 20 largest listed U.S. companies.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jonestrading-launches-jt20-index-concentrated-112400063.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T11:24:00+00:00",
-      "category": "USA",
-      "simple_explanation": "JonesTrading Institutional Services LLC (\"Jones\") today announced the launch of the JT20™ Index, a full market-capitalization-weighted equity index comprised of the 20 largest listed U.S. companies."
-    },
-    {
-      "title": "Stocks Mostly Down Pre-Bell as Traders Assess Middle East Developments, Await Fresh Labor Data",
-      "description": "The benchmark US stock measures were mostly pointing lower before the opening bell Monday as investo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-pre-bell-112300773.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T11:23:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The benchmark US stock measures were mostly pointing lower before the opening bell Monday as investo"
-    },
-    {
-      "title": "TVK poised for Tamil Nadu win: What Thalapathy Vijay’s victory could mean for companies operating in the state",
-      "description": "Vijay's Tamilaga Vettri Kazhagam (TVK) is set to win the Tamil Nadu Assembly Election 2026. Most exit polls had projected that the DMK-led alliance under Chief Minister M K Stalin would retain power.",
-      "url": "https://www.livemint.com/market/stock-market-news/tvk-poised-for-tamil-nadu-win-what-thalapathy-vijay-s-victory-could-mean-for-companies-operating-in-the-state-11777890484610.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/04/1600x900/logo/PTI03-30-2026-000177B-0_1777870806584_1777870814326_1777890762459.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-04T11:19:43+00:00",
-      "category": "India",
-      "simple_explanation": "Vijay's Tamilaga Vettri Kazhagam (TVK) is set to win the Tamil Nadu Assembly Election 2026. Most exit polls had projected that the DMK-led alliance under Chief Minister M K Stalin would retain power."
-    },
-    {
-      "title": "Cathay Financial Holdings Extends Streak on Dow Jones' Best-in-Class World Index, and Emerging Markets Index",
-      "description": "Cathay Financial Holdings (Cathay FHC) has reinforced its position as a global sustainability leader, securing inclusion in the Dow Jones Best-in-Class Indices (DJBIC, formerly DJSI) World Index for the eighth consecutive year and the Emerging Markets Index for the eleventh. Cathay FHC has been reco",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathay-financial-holdings-extends-streak-111700041.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T11:17:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Cathay Financial Holdings (Cathay FHC) has reinforced its position as a global sustainability leader, securing inclusion in the Dow Jones Best-in-Class Indices (DJBIC, formerly DJSI) World Index for t"
-    },
-    {
-      "title": "Manappuram Finance Q4 Results: Firm swings to black with  ₹405 crore profit, announces  ₹0.50 dividend",
-      "description": "Manappuram Finance's Q4 consolidated profit came in at  ₹404.79 crore as against a loss of  ₹203.17 crore in the same period a year ago. Meanwhile, on a quarter-on-quarter (QoQ) basis, the figure rose 69% from  ₹238.55 crore in the December quarter.",
-      "url": "https://www.livemint.com/market/stock-market-news/manappuram-finance-q4-results-firm-swings-to-black-with-rs-405-crore-profit-announces-rs-0-50-dividend-11777893199463.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/04/1600x900/2-0-163957724-Manappuram-0_1681129966284_1777893400519.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-04T11:16:49+00:00",
-      "category": "India",
-      "simple_explanation": "Manappuram Finance's Q4 consolidated profit came in at  ₹404.79 crore as against a loss of  ₹203.17 crore in the same period a year ago. Meanwhile, on a quarter-on-quarter (QoQ) basis, the figure rose"
-    },
-    {
-      "title": "AI, Persian Gulf Outlooks Cap Wall Street Pre-Bell; Asia Up, Europe Off",
-      "description": "Wall Street futures pointed largely sideways pre-bell Monday, as traders weighed unverified reports",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-persian-gulf-outlooks-cap-111340217.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T11:13:40+00:00",
-      "category": "USA",
-      "simple_explanation": "Wall Street futures pointed largely sideways pre-bell Monday, as traders weighed unverified reports"
-    },
-    {
-      "title": "Gainers & Losers: BHEL, DMart among 6 big movers on Monday",
-      "description": "Indian markets closed higher as election trends boosted sentiment. Stocks such as Valor Estate, BHEL, and Vedanta surged, whereas Sun TV, Avenue Supermarts, and Kotak Bank declined.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-bhel-dmart-among-6-big-movers-on-monday/slideshow/130789857.cms",
-      "image": "https://img.etimg.com/photo/msid-130789857,imgsize-922726.cms",
+      "title": "Tata Chemicals Q4 results: Cons loss widens YoY to Rs 2,132 crore on exceptional items; revenue drops 2%",
+      "description": "Tata Chemicals reported a sharp Q4FY26 net loss due to significant impairment charges and weak global pricing. Revenue declined marginally, margins turned negative, and cash flows weakened, though core operations showed improvement before exceptional items amid challenging market conditions.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-chemicals-q4-results-cons-loss-widens-yoy-to-rs-2132-crore-on-exceptional-items-revenue-drops-2/articleshow/130802414.cms",
+      "image": "https://img.etimg.com/photo/msid-130802414,imgsize-6448.cms",
       "source": "Economic Times",
-      "published_at": "2026-05-04T11:12:16+00:00",
+      "published_at": "2026-05-04T13:33:29+00:00",
       "category": "India",
-      "simple_explanation": "Indian markets closed higher as election trends boosted sentiment. Stocks such as Valor Estate, BHEL, and Vedanta surged, whereas Sun TV, Avenue Supermarts, and Kotak Bank declined."
+      "simple_explanation": "Tata Chemicals reported a sharp Q4FY26 net loss due to significant impairment charges and weak global pricing. Revenue declined marginally, margins turned negative, and cash flows weakened, though cor"
     },
     {
-      "title": "Oil prices edge up despite Trump vowing action in Hormuz tensions",
-      "description": "Oil prices rose slightly in early trading on Monday as investors monitored Iran war developments. Brent crude and WTI front month contracts are trading around 1% higher at around $109 and $103 per barrel respectively.View on euronews",
-      "url": "https://www.euronews.com/2026/05/04/oil-markets-lower-as-trump-vows-to-help-ships-leave-strait-of-hormuz?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral&.tsrc=rss",
+      "title": "OPEC+ raises June oil output amid Strait of Hormuz blockade",
+      "description": "The 7-country group agreed to the increase Sunday, its first meeting since the UAE left the oil cartel on May 1",
+      "url": "https://qz.com/opec-plus-june-output-hike-strait-hormuz-050426?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-05-04T11:11:51+00:00",
+      "published_at": "2026-05-04T13:30:34+00:00",
       "category": "Commodities",
-      "simple_explanation": "Oil prices rose slightly in early trading on Monday as investors monitored Iran war developments. Brent crude and WTI front month contracts are trading around 1% higher at around $109 and $103 per bar"
+      "simple_explanation": "The 7-country group agreed to the increase Sunday, its first meeting since the UAE left the oil cartel on May 1"
     },
     {
-      "title": "Gold and silver prices today, Monday, May 4: Gold and silver down this morning after 'Project Freedom' announcement",
-      "description": "Gold opened at $4,644 per troy ounce on Monday, down 1.4% from last Monday’s opening price. Silver opened at $76.45 per ounce on Monday, 1.6% higher than last Monday’s opening price.",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-and-silver-prices-today-monday-may-4-gold-and-silver-down-this-morning-after-project-freedom-announcement-110939701.html?.tsrc=rss",
+      "title": "Sector Update: Energy Stocks Decline Premarket Monday",
+      "description": "Energy stocks were declining premarket Monday, with the State Street Energy Select Sector SPDR ETF (",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-stocks-decline-premarket-132910387.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-05-04T11:09:39+00:00",
+      "published_at": "2026-05-04T13:29:10+00:00",
       "category": "Commodities",
-      "simple_explanation": "Gold opened at $4,644 per troy ounce on Monday, down 1.4% from last Monday’s opening price. Silver opened at $76.45 per ounce on Monday, 1.6% higher than last Monday’s opening price."
+      "simple_explanation": "Energy stocks were declining premarket Monday, with the State Street Energy Select Sector SPDR ETF ("
     },
     {
-      "title": "Gold, silver rates today nosedive up to 5% as crude oil price soars after escalation in the US-Iran war",
-      "description": "US-Iran war: According to the News Agency Reuters, Iran hit two missiles at a US warship on Monday, when it was sailing near Jask island",
-      "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-4-may-2026-nosedive-up-to-5-as-crude-oil-price-soars-us-iran-news-strait-of-hormuz-in-focus-11777890370782.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/04/1600x900/Gold_Rate_Today_Silver_Rate_Today_US_Iran_news_1777890635301_1777890635473.png",
-      "source": "LiveMint",
-      "published_at": "2026-05-04T11:09:38+00:00",
-      "category": "India",
-      "simple_explanation": "US-Iran war: According to the News Agency Reuters, Iran hit two missiles at a US warship on Monday, when it was sailing near Jask island"
-    },
-    {
-      "title": "Crude oil jumps over 5% as US-Iran tensions flare again; Brent crude climbs past $114",
-      "description": "Crude oil prices rose on May 4 after a tanker was reportedly hit in the Strait of Hormuz. Tensions escalated between the U.S. and Iran, with Trump promising to guide ships through the strait, while Iran warned of military action against US forces and urged coordination for passing vessels.",
-      "url": "https://www.livemint.com/market/stock-market-news/crude-oil-jumps-over-5-as-us-iran-tensions-flare-again-brent-crude-climbs-past-114-11777891892017.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/04/1600x900/logo/g09be794353ad7e11e5c5ec093115c56f57278908fd7117b19_1712577839092_1777892271470.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-04T11:09:34+00:00",
-      "category": "India",
-      "simple_explanation": "Crude oil prices rose on May 4 after a tanker was reportedly hit in the Strait of Hormuz. Tensions escalated between the U.S. and Iran, with Trump promising to guide ships through the strait, while Ir"
-    },
-    {
-      "title": "Talos Energy (TALO) Reports Earnings Tomorrow: What To Expect",
-      "description": "Offshore energy producer Talos Energy (NYSE:TALO) will be reporting earnings this Tuesday after market hours. Here’s what you need to know.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/talos-energy-talo-reports-earnings-110855126.html?.tsrc=rss",
+      "title": "Trillion Energy Advances Earn-In Payment and Announces Attendance at Emerging Growth Conference",
+      "description": "Vancouver, British Columbia--(Newsfile Corp. - May 4, 2026) - Trillion Energy International Inc. (CSE: TCF) (OTCQB: TRLEF) (FSE: Z62) (\"Trillion\" or the \"Company\") is pleased to announce that it has fulfilled a near-term cash commitment of US$250,000 toward its earn-in obligations for a 29% particip",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/trillion-energy-advances-earn-payment-132600954.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-05-04T11:08:55+00:00",
+      "published_at": "2026-05-04T13:26:00+00:00",
       "category": "Commodities",
-      "simple_explanation": "Offshore energy producer Talos Energy (NYSE:TALO) will be reporting earnings this Tuesday after market hours. Here’s what you need to know."
+      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - May 4, 2026) - Trillion Energy International Inc. (CSE: TCF) (OTCQB: TRLEF) (FSE: Z62) (\"Trillion\" or the \"Company\") is pleased to announce that it has f"
     },
     {
-      "title": "BTC price can 'easily' hit $95K: Five things to know in Bitcoin this week",
-      "description": "Bitcoin gained fresh bullish BTC price targets after hitting new three-month highs above $80,000.",
-      "url": "https://cointelegraph.com/markets/btc-price-can-easily-hit-95k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmNvaW50ZWxlZ3JhcGguY29tL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0JpdGNvaW5fanVtcGVyNTYuanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-04T11:05:33+00:00",
+      "title": "CSB Bank Q4 profit rises 6% on lower provisions, growth steady",
+      "description": "CSB Bank reported 6% Q4 profit growth aided by lower provisions despite higher costs and weaker income. Margins improved, while advances and deposits showed strong growth. Asset quality improved sequentially but weakened year-on-year, reflecting mixed operational performance.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/csb-bank-q4-profit-rises-6-on-lower-provisions-growth-steady/articleshow/130801882.cms",
+      "image": "https://img.etimg.com/photo/msid-130801882,imgsize-8366.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-04T13:22:55+00:00",
+      "category": "India",
+      "simple_explanation": "CSB Bank reported 6% Q4 profit growth aided by lower provisions despite higher costs and weaker income. Margins improved, while advances and deposits showed strong growth. Asset quality improved seque"
+    },
+    {
+      "title": "GameStop Slides After 6% Friday Rally: Can Ryan Cohen Really Pull Off an eBay Buyout?",
+      "description": "Shares of GameStop (NYSE:GME) are sliding in early Monday trading, indicated to open down roughly 6% at around $25. The pullback follows Friday’s rally, when the stock closed at $26.53, up 6% on the session. The catalyst is a surprise, non-binding proposal from chief executive officer (CEO) Ryan Coh",
+      "url": "https://247wallst.com/investing/2026/05/04/gamestop-slides-after-6-friday-rally-can-ryan-cohen-really-pull-off-an-ebay-buyout/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T13:22:44+00:00",
       "category": "Crypto",
-      "simple_explanation": "Bitcoin gained fresh bullish BTC price targets after hitting new three-month highs above $80,000."
+      "simple_explanation": "Shares of GameStop (NYSE:GME) are sliding in early Monday trading, indicated to open down roughly 6% at around $25. The pullback follows Friday’s rally, when the stock closed at $26.53, up 6% on the s"
     },
     {
-      "title": "Rupee falls 39 paise to end at all-time low of 95.23 against US dollar — What's plaguing the domestic currency?",
-      "description": "At the interbank foreign exchange market, the rupee opened at 94.95 against the US dollar, then lost ground and finally settled for the day at 95.23 (provisional), registering a fall of 39 paise over its previous close.",
-      "url": "https://www.livemint.com/market/stock-market-news/rupee-falls-39-paise-to-end-at-all-time-low-of-95-23-against-us-dollar-whats-plaguing-the-domestic-currency-11777892426631.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/04/1600x900/logo/rupee_1777892537142_1777892537318.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-04T11:04:57+00:00",
+      "title": "Veeva Systems Just Joined the S&P 500. 3 Reasons to Buy It and 1 Not To.",
+      "description": "Veeva Systems sits at the intersection of life sciences and enterprise cloud computing.",
+      "url": "https://www.fool.com/investing/2026/05/04/veeva-systems-just-joined-the-sp-500-3-reasons-to/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T13:20:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Veeva Systems sits at the intersection of life sciences and enterprise cloud computing."
+    },
+    {
+      "title": "RBC says higher stock market valuations don’t signal a top yet",
+      "description": "Investing.com -- U.S. equity market valuations are rising but have not reached levels that historically signal a ceiling, according to RBC Capital, which remains constructive on stocks in the year ahead.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-says-higher-stock-market-131952144.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T13:19:52+00:00",
+      "category": "USA",
+      "simple_explanation": "Investing.com -- U.S. equity market valuations are rising but have not reached levels that historically signal a ceiling, according to RBC Capital, which remains constructive on stocks in the year ahe"
+    },
+    {
+      "title": "S&P 500 Faces Oil-Fueled Sell-off Pressure in Possible Return to Merger Monday Deal",
+      "description": "The S&P 500 (^GSPC) opened the week lower as oil prices spiked on renewed Iran tensions, with index futures slipping 0.1% after conflicting reports about a U.S. warship near the Strait of Hormuz. WTI crude futures jumped 3% to trade above $105 per barrel, and Brent climbed 3% to above $111, pulling ",
+      "url": "https://247wallst.com/investing/2026/05/04/sp-500-faces-oil-fueled-sell-off-pressure-in-possible-return-to-merger-monday-deal/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T13:16:19+00:00",
+      "category": "USA",
+      "simple_explanation": "The S&P 500 (^GSPC) opened the week lower as oil prices spiked on renewed Iran tensions, with index futures slipping 0.1% after conflicting reports about a U.S. warship near the Strait of Hormuz. WTI "
+    },
+    {
+      "title": "Tata Technologies Q4 Results: Cons PAT rises 8% YoY to Rs 204 crore, revenue rises 22%",
+      "description": "Tata Technologies reported 8% year-on-year profit growth in Q4FY26 with strong 22% revenue rise. Improved margins, sequential earnings surge, and dividend announcement highlighted performance, driven by robust services segment growth and operational efficiency.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-technologies-q4-results-cons-pat-rises-8-yoy-to-rs-204-crore-revenue-rises-22/articleshow/130801353.cms",
+      "image": "https://img.etimg.com/photo/msid-130801353,imgsize-21020.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-04T13:16:07+00:00",
       "category": "India",
-      "simple_explanation": "At the interbank foreign exchange market, the rupee opened at 94.95 against the US dollar, then lost ground and finally settled for the day at 95.23 (provisional), registering a fall of 39 paise over "
+      "simple_explanation": "Tata Technologies reported 8% year-on-year profit growth in Q4FY26 with strong 22% revenue rise. Improved margins, sequential earnings surge, and dividend announcement highlighted performance, driven "
+    },
+    {
+      "title": "Pacgold produces maiden gold doré bar at White Dam project",
+      "description": "The sale revenue will transition Pacgold from explorer to producer, funding further growth activities on-site.",
+      "url": "https://www.mining-technology.com/news/pacgold-maiden-gold-dore-white-dam-project/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T13:15:18+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The sale revenue will transition Pacgold from explorer to producer, funding further growth activities on-site."
+    },
+    {
+      "title": "Musk texted OpenAI's Brockman about settlement two days before trial began",
+      "description": "Elon Musk co-founded OpenAI in 2015 and sued the company, President Greg Brockman and CEO Sam Altman in 2024.",
+      "url": "https://www.cnbc.com/2026/05/04/musk-altman-open-ai-settlement-trial-brockman.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-04T13:08:15+00:00",
+      "category": "USA",
+      "simple_explanation": "Elon Musk co-founded OpenAI in 2015 and sued the company, President Greg Brockman and CEO Sam Altman in 2024."
+    },
+    {
+      "title": "Gold Falls as the Dollar and Yields Climb, But Remains Rangebound",
+      "description": "Gold traded lower early Monday as the dollar and yields rose, but the precious metal remains within",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-dollar-yields-climb-130601539.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T13:06:01+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold traded lower early Monday as the dollar and yields rose, but the precious metal remains within"
+    },
+    {
+      "title": "Berkshire shares trade higher as Buffett successor Abel scores good marks at meeting, earnings jump",
+      "description": "Many in the investment community were reassured by Abel's firm grasp over Berkshire's sprawling enterprise.",
+      "url": "https://www.cnbc.com/2026/05/04/berkshire-shares-trade-higher-as-buffett-successor-abel-scores-good-marks-at-meeting-earnings-jump.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-05-04T13:05:45+00:00",
+      "category": "Global",
+      "simple_explanation": "Many in the investment community were reassured by Abel's firm grasp over Berkshire's sprawling enterprise."
+    },
+    {
+      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as US-Iran Tensions Escalate Near Strait of Hormuz",
+      "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.3% and the actively tr",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-130447905.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T13:04:47+00:00",
+      "category": "USA",
+      "simple_explanation": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.3% and the actively tr"
+    },
+    {
+      "title": "Bitcoin surges above $80,000 for first time since January",
+      "description": "U.S. spot bitcoin ETFs pulled in about $2.7 billion over three weeks, helping lift total net assets above $100 billion",
+      "url": "https://qz.com/bitcoin-80000-three-month-high-etf-inflows-050426?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T13:04:02+00:00",
+      "category": "Crypto",
+      "simple_explanation": "U.S. spot bitcoin ETFs pulled in about $2.7 billion over three weeks, helping lift total net assets above $100 billion"
+    },
+    {
+      "title": "Brambles Earns No. 2 Industry Ranking in Dow Jones Best-in-Class World Index",
+      "description": "ATLANTA, May 04, 2026--Brambles, a global leader in logistics and operator of the CHEP brand, has been ranked No. 2 globally in the Commercial Services and Supplies category of the Dow Jones Best‑in‑Class (DJ BIC) World Index, following the latest rebalancing of the indices.",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/brambles-earns-no-2-industry-130000492.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T13:00:00+00:00",
+      "category": "USA",
+      "simple_explanation": "ATLANTA, May 04, 2026--Brambles, a global leader in logistics and operator of the CHEP brand, has been ranked No. 2 globally in the Commercial Services and Supplies category of the Dow Jones Best‑in‑C"
+    },
+    {
+      "title": "Black Mammoth Metals Identifies Geophysical Drill Target and Acquires Claims at 305 Property, NV",
+      "description": "Black Mammoth Metals Corporation (TSXV: BMM) (OTC: LQRCF) (\"Black Mammoth\" or the \"Company\") is pleased to announce the results of a ground gravity survey (the \"Gravity Survey\") and a pole-dipole induced polarization (IP) survey with inversion model at the Company's 100% owned 305 Property (the \"Pro",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/black-mammoth-metals-identifies-geophysical-130000976.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T13:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Black Mammoth Metals Corporation (TSXV: BMM) (OTC: LQRCF) (\"Black Mammoth\" or the \"Company\") is pleased to announce the results of a ground gravity survey (the \"Gravity Survey\") and a pole-dipole indu"
     },
     {
       "title": "Warsh's take on Fed independence is met with confusion and some concern",
@@ -238,169 +288,119 @@
       "url": "https://www.cnbc.com/2026/05/04/fed-kevin-warsh-interest-rates.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-05-04T11:00:01+00:00",
+      "published_at": "2026-05-04T12:58:35+00:00",
       "category": "USA",
       "simple_explanation": "Fed chair nominee Kevin Warsh is putting his own spin on the independence of monetary policy. Many former Fed officials aren't sold."
     },
     {
-      "title": "Awalé Reports New Discovery on 100%-Owned Ground with Multiple Shallow Intercepts, Including 17 Metres at 1.9 g/t Gold",
-      "description": "Highlights:Discovery made on Fremen, on Awalé's 100%-owned ground and 11 km along strike from the BBM target.1.9 g/t gold over 17m from 6m, including 2.3 g/t gold over 9m (SSAC-08).2.1 g/t gold over 12m from 32m, including 8.2 g/t gold over 1m (SSAC-07).1.1 g/t gold over 17m from 113m, including 4.7",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/awal-reports-discovery-100-owned-110000764.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T11:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Highlights:Discovery made on Fremen, on Awalé's 100%-owned ground and 11 km along strike from the BBM target.1.9 g/t gold over 17m from 6m, including 2.3 g/t gold over 9m (SSAC-08).2.1 g/t gold over 1"
-    },
-    {
-      "title": "Jindal Stainless Q4 Results: Co posts quarterly profit jump on strong domestic demand",
-      "description": "Jindal Stainless has seen a significant profit increase of 42.7 percent in its fourth quarter. This growth is attributed to robust domestic demand for its stainless steel products. The company's net revenue also saw a healthy rise. Despite challenges like fuel shortages and shipping delays, Jindal S",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jindal-stainless-q4-results-co-posts-quarterly-profit-jump-on-strong-domestic-demand/articleshow/130788457.cms",
-      "image": "https://img.etimg.com/photo/msid-130788457,imgsize-794664.cms",
+      "title": "Sanjay H Parekh bets big on Reliance, private banks, and domestic plays amid global uncertainty",
+      "description": "Sohum Asset Managers is shifting its focus to largecap stocks for safety. The fund is overweighting domestic businesses and underweighting global ones. This strategy has benefited performance. Reliance Industries is a key bet, with significant upside expected. Private sector banks also form a large ",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/sanjay-h-parekh-bets-big-on-reliance-private-banks-and-domestic-plays-amid-global-uncertainty/articleshow/130798887.cms",
+      "image": "https://img.etimg.com/photo/msid-130798887,imgsize-17608.cms",
       "source": "Economic Times",
-      "published_at": "2026-05-04T10:59:08+00:00",
+      "published_at": "2026-05-04T12:50:58+00:00",
       "category": "India",
-      "simple_explanation": "Jindal Stainless has seen a significant profit increase of 42.7 percent in its fourth quarter. This growth is attributed to robust domestic demand for its stainless steel products. The company's net r"
+      "simple_explanation": "Sohum Asset Managers is shifting its focus to largecap stocks for safety. The fund is overweighting domestic businesses and underweighting global ones. This strategy has benefited performance. Relianc"
     },
     {
-      "title": "Barclays pivots, says no Fed rate cuts in 2026",
-      "description": "Investing.com -- Barclays has abandoned its forecast for Federal Reserve rate cuts this year, now expecting the central bank to remain on hold through 2026 before delivering a single 25-basis-point reduction in March 2027, as elevated energy prices slow progress on inflation.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/barclays-pivots-says-no-fed-105845981.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T10:58:45+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Investing.com -- Barclays has abandoned its forecast for Federal Reserve rate cuts this year, now expecting the central bank to remain on hold through 2026 before delivering a single 25-basis-point re"
-    },
-    {
-      "title": "Oil jumps by 5% after report of US warship being hit by missiles",
-      "description": "Oil prices rose about 5% on Monday after Iran's Fars news agency ​reported an incident with a U.S. ​warship in the Strait of Hormuz, sparking concerns over a prolonged ​disruption in the vital oil transit route.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-jumps-by-5-after-report-of-us-warship-being-hit-by-missiles/articleshow/130787601.cms",
-      "image": "https://img.etimg.com/photo/msid-130787601,imgsize-38972.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-04T10:52:29+00:00",
-      "category": "India",
-      "simple_explanation": "Oil prices rose about 5% on Monday after Iran's Fars news agency ​reported an incident with a U.S. ​warship in the Strait of Hormuz, sparking concerns over a prolonged ​disruption in the vital oil tra"
-    },
-    {
-      "title": "Prediction: This Will Be 1 of the World's Most Valuable Stocks in 2050",
-      "description": "This tech giant has all the tools required to succeed in the artificial intelligence era.",
-      "url": "https://www.fool.com/investing/2026/05/04/prediction-will-1-worlds-most-valuable-stocks-2050/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T10:52:00+00:00",
-      "category": "USA",
-      "simple_explanation": "This tech giant has all the tools required to succeed in the artificial intelligence era."
-    },
-    {
-      "title": "Oil Swings on Signs of Heightened Tensions in Strait of Hormuz",
-      "description": "(Bloomberg) -- Oil fluctuated sharply on signs of heightened tensions in the Strait of Hormuz after President Donald Trump said the US would guide stranded ships out of the vital water.Most Read from BloombergBeijing Tells China Firms to Ignore US Sanctions on RefinersSupertanker Appears to Have Cro",
-      "url": "https://finance.yahoo.com/news/oil-steadies-with-trumps-hormuz-plan-and-tanker-attack-in-focus-004922081.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T10:51:26+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Bloomberg) -- Oil fluctuated sharply on signs of heightened tensions in the Strait of Hormuz after President Donald Trump said the US would guide stranded ships out of the vital water.Most Read from "
-    },
-    {
-      "title": "AI chipmaker Cerebras targets $3.5 billion raise in IPO",
-      "description": "The share sale could give the company a valuation of up to $24.5 billion, compared with $23 billion as of February.",
-      "url": "https://www.cnbc.com/2026/05/04/cerebras-ipo-ai-chipmaker.html",
+      "title": "‘Misplaced euphoria’: Markets are sleepwalking into a recession amid Iran war oil price shock",
+      "description": "As US equities hit fresh highs, strategists warn that investors are downplaying the impact of soaring oil prices.",
+      "url": "https://www.cnbc.com/2026/05/04/strait-hormuz-gas-price-oil-shock-recession-risk-economy-iran-us-war.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-05-04T10:45:24+00:00",
+      "published_at": "2026-05-04T12:50:34+00:00",
       "category": "USA",
-      "simple_explanation": "The share sale could give the company a valuation of up to $24.5 billion, compared with $23 billion as of February."
+      "simple_explanation": "As US equities hit fresh highs, strategists warn that investors are downplaying the impact of soaring oil prices."
     },
     {
-      "title": "Rupee sinks to fresh closing low of 95.08 against USD on NDF maturities, firm crude",
-      "description": "The Indian rupee has reached its weakest point ever. This is due to increased demand for dollars and higher oil prices. India's central bank is exploring ways to attract dollar inflows. These measures aim to strengthen foreign exchange reserves. The rupee faces pressure from rising oil costs linked ",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-sinks-to-fresh-closing-low-of-95-08-against-usd-on-ndf-maturities-firm-crude/articleshow/130785470.cms",
-      "image": "https://img.etimg.com/photo/msid-130785470,imgsize-47754.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-04T10:41:18+00:00",
-      "category": "India",
-      "simple_explanation": "The Indian rupee has reached its weakest point ever. This is due to increased demand for dollars and higher oil prices. India's central bank is exploring ways to attract dollar inflows. These measures"
-    },
-    {
-      "title": "Stock Futures Tumble on Report of Iran Attack on US Warship",
-      "description": "Stocks were to drop on Monday after Iranian state media said missiles had hit a U.S. warship in the Strait of Hormuz, stoking fears that the war in the Middle East could escalate again.  S&P 500 futures fell 0.4% and contracts tied to the tech-heavy Nasdaq 100 were 0.5% lower.  The S&P and the Nasda",
-      "url": "https://finance.yahoo.com/m/551adfb4-434b-308d-b69b-0b3cb1c32b3d/stock-futures-tumble-on.html?.tsrc=rss",
+      "title": "US Equity Futures Slip Pre-Bell as Middle East Conflict Enters Third Month, Oil Prices Rise",
+      "description": "US equity futures were marginally lower pre-bell Monday as the standoff in the Strait of Hormuz cont",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slip-pre-124944839.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-05-04T10:31:51+00:00",
+      "published_at": "2026-05-04T12:49:44+00:00",
       "category": "USA",
-      "simple_explanation": "Stocks were to drop on Monday after Iranian state media said missiles had hit a U.S. warship in the Strait of Hormuz, stoking fears that the war in the Middle East could escalate again.  S&P 500 futur"
+      "simple_explanation": "US equity futures were marginally lower pre-bell Monday as the standoff in the Strait of Hormuz cont"
     },
     {
-      "title": "Temasek arm backs Milky Mist ahead of IPO as part of Rs 482 crore pre-listing round",
-      "description": "Milky Mist Dairy Food has raised Rs 482 crore in a Temasek-backed pre-IPO round, led by Jongsong Investments. The funding strengthens its balance sheet ahead of its planned market debut, signalling strong institutional interest in the value-added dairy brand as it accelerates expansion and prepares ",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/temasek-arm-backs-milky-mist-ahead-of-ipo-as-part-of-rs-482-crore-pre-listing-round/articleshow/130785267.cms",
-      "image": "https://img.etimg.com/photo/msid-130785267,imgsize-49970.cms",
+      "title": "Thalapathy government? Why Vijay's historic rise in India's industrial powerhouse state matters for stock market",
+      "description": "Vijay’s TVK is set to reshape Tamil Nadu’s political landscape, prompting investors to assess what a “Thalapathy government” could mean for industry and markets. With the state being a key auto, electronics and export hub, policy clarity on incentives, welfare spending and governance will drive sent",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/thalapathy-government-why-vijays-historic-rise-in-indias-industrial-powerhouse-state-matters-for-stock-market/articleshow/130798865.cms",
+      "image": "https://img.etimg.com/photo/msid-130798865,imgsize-2176409.cms",
       "source": "Economic Times",
-      "published_at": "2026-05-04T10:27:26+00:00",
+      "published_at": "2026-05-04T12:43:46+00:00",
       "category": "India",
-      "simple_explanation": "Milky Mist Dairy Food has raised Rs 482 crore in a Temasek-backed pre-IPO round, led by Jongsong Investments. The funding strengthens its balance sheet ahead of its planned market debut, signalling st"
+      "simple_explanation": "Vijay’s TVK is set to reshape Tamil Nadu’s political landscape, prompting investors to assess what a “Thalapathy government” could mean for industry and markets. With the state being a key auto, elect"
     },
     {
-      "title": "Update: US Equity Investors to Focus This Week on Risk of Iran Ceasefire Falling Apart, Earnings, Nonfarm Payrolls",
-      "description": "(Updates to add more information on the headline) US equity investors will look out for Iran endi",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-week-101634033.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-04T10:16:34+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates to add more information on the headline) US equity investors will look out for Iran endi"
-    },
-    {
-      "title": "ET Alpha Wealth Summit: D-St moguls set to decode the next wealth-creation avenues",
-      "description": "The Economic Times will host the ET Alpha Wealth Summit on June 4 in Mumbai. Fund managers and market veterans like Saurabh Mukherjea, S Naren, Nilesh Shah, Vikash Khemani, Rajeev Thakkar and Rajesh Saluja will discuss future wealth creation avenues. Sessions will explore identifying opportunities i",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-d-st-moguls-set-to-decode-the-next-wealth-creation-avenues/articleshow/130782616.cms",
-      "image": "https://img.etimg.com/photo/msid-130782616,imgsize-1844019.cms",
-      "source": "ET Markets",
-      "published_at": "2026-05-04T10:13:44+00:00",
-      "category": "India",
-      "simple_explanation": "The Economic Times will host the ET Alpha Wealth Summit on June 4 in Mumbai. Fund managers and market veterans like Saurabh Mukherjea, S Naren, Nilesh Shah, Vikash Khemani, Rajeev Thakkar and Rajesh S"
-    },
-    {
-      "title": "Top Gainers & Losers on May 4: Meesho, Vedanta, HFCL, BHEL, Cemindia Projects, Anant Raj among top gainers",
-      "description": "On May 4, major indices saw gains due to strong buying in heavyweight stocks and positive state election trends for the Bharatiya Janata Party. The Nifty 50 rose 0.51% to 24,119, while the S&amp;P BSE Sensex increased 0.31% to 77,159, with midcap and smallcap indices outperforming.",
-      "url": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-may-4-meesho-vedanta-hfcl-bhel-cemindia-projects-anant-raj-among-top-gainers-11777888789396.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/04/1600x900/Top_Gainer_Loser_1695188517120_1777888899425.webp",
+      "title": "US stock market today: Dow, S&P 500 futures slip as renewed Middle East tensions lift oil prices",
+      "description": "Investor anxiety surged as US stock futures fluctuated amid reports of a US warship incident near the Strait of Hormuz. While concerns over oil supply disruptions grow, April's robust corporate earnings helped maintain market momentum despite geopolitical risks.",
+      "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-s-p-500-futures-slip-as-renewed-middle-east-tensions-lift-oil-prices-11777895709011.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/04/1600x900/logo/US-MARKETS-CONTINUE-TO-DROP-SHARPLY-ON-RECENT-ECON_1777895819663_1777895820092.jpg",
       "source": "LiveMint",
-      "published_at": "2026-05-04T10:10:56+00:00",
+      "published_at": "2026-05-04T12:37:13+00:00",
       "category": "India",
-      "simple_explanation": "On May 4, major indices saw gains due to strong buying in heavyweight stocks and positive state election trends for the Bharatiya Janata Party. The Nifty 50 rose 0.51% to 24,119, while the S&amp;P BSE"
+      "simple_explanation": "Investor anxiety surged as US stock futures fluctuated amid reports of a US warship incident near the Strait of Hormuz. While concerns over oil supply disruptions grow, April's robust corporate earnin"
     },
     {
-      "title": "Capital B raises $1.3M from Adam Back for Bitcoin strategy",
-      "description": "The Blockstream CEO subscribed to 10 million warrants as Capital B pushes ahead with its Bitcoin treasury strategy.",
-      "url": "https://cointelegraph.com/news/capital-b-raises-12m-from-adam-back-to-fuel-bitcoin-treasury-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJLUJpdGNvaW4tYXMtY29ycG9yYXRlLXRyZWFzdXJ5LXdoeS1NZXRhJTJDLUFtYXpvbiUyQy1hbmQtTWljcm9zb2Z0LWFsbC1zYWlkLW5vMi0xLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg",
+      "title": "Gold Drops 12% As Hormuz Plan And Rate Fears Hit Bullion",
+      "description": "Gold extends its decline as investors weigh Trump's Hormuz plan, US-Iran talks, and hawkish central-bank signals.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-drops-12-hormuz-plan-123553340.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T12:35:53+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold extends its decline as investors weigh Trump's Hormuz plan, US-Iran talks, and hawkish central-bank signals."
+    },
+    {
+      "title": "South Korea crypto sector warns AML proposal goes too far: Report",
+      "description": "Crypto industry body DAXA said the proposed rules could push suspicious transaction reports from South Korea’s five largest exchanges to more than 5.4 million a year, Yonhap reported.",
+      "url": "https://cointelegraph.com/news/south-koreas-crypto-exchanges-push-bank-on-10m-won-reporting-rule-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJLUNyeXB0by1vbi1jb3Jwb3JhdGUtYmFsYW5jZS1zaGVldHMtV2hhdCVFMiU4MCU5OXMtdGhlLXJpc2stYW5kLXJld2FyZC0xLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg",
       "source": "CoinTelegraph",
-      "published_at": "2026-05-04T10:05:30+00:00",
+      "published_at": "2026-05-04T12:31:47+00:00",
       "category": "Crypto",
-      "simple_explanation": "The Blockstream CEO subscribed to 10 million warrants as Capital B pushes ahead with its Bitcoin treasury strategy."
+      "simple_explanation": "Crypto industry body DAXA said the proposed rules could push suspicious transaction reports from South Korea’s five largest exchanges to more than 5.4 million a year, Yonhap reported."
     },
     {
-      "title": "Election impact on stock market explained: What likely BJP win in West Bengal means for investors",
-      "description": "West Bengal's election results signal a significant political shift with the BJP leading, prompting a surge in market sentiment. Analysts anticipate gradual improvements and long-term benefits for sectors like real estate and infrastructure, aligning with the BJP's manifesto. However, global macro i",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/election-impact-on-stock-market-explained-what-likely-bjp-win-in-west-bengal-means-for-investors/articleshow/130782780.cms",
-      "image": "https://img.etimg.com/photo/msid-130782780,imgsize-87570.cms",
+      "title": "Quote of the day by Walter Schloss: \"One of the things you learn in this business is humility because you see your mistakes the next day.\"",
+      "description": "Walter Schloss highlights that investing demands humility, as markets quickly expose mistakes through immediate feedback. Rather than avoiding errors, successful investors learn from them—using humility to adapt, cut losses, and refine strategies.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/quote-of-the-day-by-walter-schloss-one-of-the-things-you-learn-in-this-business-is-humility-because-you-see-your-mistakes-the-next-day-/articleshow/130757125.cms",
+      "image": "https://img.etimg.com/photo/msid-130757125,imgsize-2239463.cms",
       "source": "ET Markets",
-      "published_at": "2026-05-04T10:04:28+00:00",
+      "published_at": "2026-05-04T12:30:00+00:00",
       "category": "India",
-      "simple_explanation": "West Bengal's election results signal a significant political shift with the BJP leading, prompting a surge in market sentiment. Analysts anticipate gradual improvements and long-term benefits for sec"
+      "simple_explanation": "Walter Schloss highlights that investing demands humility, as markets quickly expose mistakes through immediate feedback. Rather than avoiding errors, successful investors learn from them—using humili"
     },
     {
-      "title": "Commodity Radar: As gold holds near Rs 1.5 lakh support, NFP data to decide next breakout. Buy-on-dips strategy emerges",
-      "description": "Gold prices are consolidating near key support levels around Rs 1.5 lakh after a brief correction, with analysts recommending a buy-on-dips strategy. Market direction hinges on upcoming US Nonfarm Payrolls data, which could influence dollar strength and interest rate expectations, thereby determinin",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/commodity-radar-as-gold-holds-near-rs-1-5-lakh-support-nfp-data-to-decide-next-breakout-buy-on-dips-strategy-emerges/articleshow/130782052.cms",
-      "image": "https://img.etimg.com/photo/msid-130782052,imgsize-45106.cms",
+      "title": "Sitka Reports 94.3% Gold Recovery and 84.7% Tungsten Recovery from Metallurgical Testing at the Rhosgobel Deposit at Its Rc Gold Project, Yukon",
+      "description": "Gold recovery averaging 94.3% from Rhosgobel deposit utilizing conventional whole ore cyanidation leaching at a grind size of 75 microns;Results from initial metallurgical testing returned a tungsten recovery of 84.7% in rougher concentrate using conventional flotation with a very low mass pull of l",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/sitka-reports-94-3-gold-123000697.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T12:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold recovery averaging 94.3% from Rhosgobel deposit utilizing conventional whole ore cyanidation leaching at a grind size of 75 microns;Results from initial metallurgical testing returned a tungsten "
+    },
+    {
+      "title": "Bajaj Auto and 4 other stocks hit a 52-week high, rally up to 40% in a month",
+      "description": "Five BSE 100 stocks, including Adani Power, Adani Ports, Nestle India, Cummins India and Bajaj Auto, hit fresh 52-week highs after rallying up to 40% over the past month.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-and-4-other-stocks-hit-a-52-week-high-rally-up-to-40-in-a-month/slideshow/130797550.cms",
+      "image": "https://img.etimg.com/photo/msid-130797339,imgsize-48240.cms",
       "source": "ET Markets",
-      "published_at": "2026-05-04T09:59:33+00:00",
+      "published_at": "2026-05-04T12:27:35+00:00",
       "category": "India",
-      "simple_explanation": "Gold prices are consolidating near key support levels around Rs 1.5 lakh after a brief correction, with analysts recommending a buy-on-dips strategy. Market direction hinges on upcoming US Nonfarm Pay"
+      "simple_explanation": "Five BSE 100 stocks, including Adani Power, Adani Ports, Nestle India, Cummins India and Bajaj Auto, hit fresh 52-week highs after rallying up to 40% over the past month."
+    },
+    {
+      "title": "Bitcoin Price Prediction as BTC Breaks Above $80,000",
+      "description": "The Bitcoin (CRYPTO: BTC) price has been stuck below $80,000 for the past three months. Every push toward the $80K level has been rejected so far, with BTC pulling back anytime it gets above $79,000. Then in the early Singapore hours today, the $80K resistance finally cracked, with BTC pushing past ",
+      "url": "https://247wallst.com/investing/2026/05/04/bitcoin-price-prediction-as-btc-breaks-above-80000/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-04T12:26:47+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Bitcoin (CRYPTO: BTC) price has been stuck below $80,000 for the past three months. Every push toward the $80K level has been rejected so far, with BTC pulling back anytime it gets above $79,000. "
     }
   ]
 }
