@@ -1,46 +1,396 @@
 {
-  "last_updated": "2026-05-06T14:13:28.802772+00:00",
+  "last_updated": "2026-05-06T16:28:08.888716+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Nvidia, Corning partner on massive optical fiber deal that may be a game changer for AI",
-      "description": "Corning is opening three new advanced manufacturing plants in the U.S. dedicated entirely to optical technologies for Nvidia.",
-      "url": "https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html",
+      "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
+      "description": "Uber and Disney pointed to a resilient spending backdrop, with consumers continuing to shell out for rides, food delivery, vacations and theme park trips.",
+      "url": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-05-06T14:12:26+00:00",
+      "published_at": "2026-05-06T16:18:38+00:00",
       "category": "USA",
-      "simple_explanation": "Corning is opening three new advanced manufacturing plants in the U.S. dedicated entirely to optical technologies for Nvidia."
+      "simple_explanation": "Uber and Disney pointed to a resilient spending backdrop, with consumers continuing to shell out for rides, food delivery, vacations and theme park trips."
     },
     {
-      "title": "Shree Cement profit dips as costs rise and demand outlook weakens",
-      "description": "Shree Cement reported an 8% fall in Q4 profit due to rising costs, despite higher revenue and volumes. Elevated fuel expenses and geopolitical risks weighed on margins, while monsoon uncertainty and West Asia tensions pose short-term growth challenges for the sector",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/shree-cement-profit-dips-as-costs-rise-and-demand-outlook-weakens/articleshow/130859570.cms",
-      "image": "https://img.etimg.com/photo/msid-130859570,imgsize-9830.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-06T14:10:10+00:00",
-      "category": "India",
-      "simple_explanation": "Shree Cement reported an 8% fall in Q4 profit due to rising costs, despite higher revenue and volumes. Elevated fuel expenses and geopolitical risks weighed on margins, while monsoon uncertainty and W"
-    },
-    {
-      "title": "Car payments squeeze Americans as auto debt hits $1.68 trillion, report finds",
-      "description": "Auto debt has swelled to $1.68 trillion, a new analysis finds. Americans face costlier vehicles, higher interest rates and lengthier loan terms.",
-      "url": "https://www.cnbc.com/2026/05/06/car-payments-squeeze-americans.html",
+      "title": "Apollo CEO Rowan warns of market correction, slams ‘egregious’ practices at rival insurers",
+      "description": "Apollo CEO Marc Rowan warned that markets face an elevated risk of unexpected shocks, saying he is positioning the firm defensively for an expected correction.",
+      "url": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-05-06T14:09:50+00:00",
+      "published_at": "2026-05-06T16:18:19+00:00",
       "category": "USA",
-      "simple_explanation": "Auto debt has swelled to $1.68 trillion, a new analysis finds. Americans face costlier vehicles, higher interest rates and lengthier loan terms."
+      "simple_explanation": "Apollo CEO Marc Rowan warned that markets face an elevated risk of unexpected shocks, saying he is positioning the firm defensively for an expected correction."
     },
     {
-      "title": "Stock Market Today: Dow Jumps On U.S.-Iran Deal Hopes; Arista Flashes Sell Signal (Live Coverage)",
+      "title": "Stock Market Today: Nasdaq Leads Charge On U.S.-Iran Deal Hopes; Berkshire Hathaway Holding Soars (Live Coverage)",
       "description": "Stock Market Today: The Dow Jones index jumped Wednesday on hopes of a U.S.-Iran deal. AMD stock soared on earnings.",
-      "url": "https://finance.yahoo.com/m/30c7c2fe-7e37-38ea-b929-d4cbc4dc6ff5/stock-market-today%3A-dow-jumps.html?.tsrc=rss",
+      "url": "https://finance.yahoo.com/m/30c7c2fe-7e37-38ea-b929-d4cbc4dc6ff5/stock-market-today%3A-nasdaq.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-05-06T14:02:43+00:00",
+      "published_at": "2026-05-06T16:13:53+00:00",
       "category": "USA",
       "simple_explanation": "Stock Market Today: The Dow Jones index jumped Wednesday on hopes of a U.S.-Iran deal. AMD stock soared on earnings."
+    },
+    {
+      "title": "Epstein files: Commerce Sec. Howard Lutnick answering questions from House panel",
+      "description": "Howard Lutnick admitted to a Senate committee in February that he and his family visited Epstein's private island in the U.S. Virgin Islands in 2012.",
+      "url": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-06T16:13:12+00:00",
+      "category": "USA",
+      "simple_explanation": "Howard Lutnick admitted to a Senate committee in February that he and his family visited Epstein's private island in the U.S. Virgin Islands in 2012."
+    },
+    {
+      "title": "Trump says Iran will be bombed at a 'much higher level' if it doesn't agree to peace deal",
+      "description": "Washington reportedly expects responses from Tehran on several key points within the next 48 hours.",
+      "url": "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-06T16:03:30+00:00",
+      "category": "USA",
+      "simple_explanation": "Washington reportedly expects responses from Tehran on several key points within the next 48 hours."
+    },
+    {
+      "title": "Suncor Energy Maintained at Buy at TPH Following Q1 Results; Price Target at C$105.00",
+      "description": "Tudor, Pickering, Holt on Wednesday maintained its buy rating on the shares of Suncor Energy (SU.TO,",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/suncor-energy-maintained-buy-tph-155945203.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T15:59:45+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Tudor, Pickering, Holt on Wednesday maintained its buy rating on the shares of Suncor Energy (SU.TO,"
+    },
+    {
+      "title": "Novo Nordisk CEO says the drugmaker is more active than ever in seeking out deals",
+      "description": "Novo Nordisk CEO Mike Doustdar says the Ozempic and Wegovy maker is looking for deals more than ever before.",
+      "url": "https://www.cnbc.com/2026/05/06/novo-nordisk-ceo-mike-doustdar-ozempic-maker-looking-for-deals.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-06T15:56:08+00:00",
+      "category": "USA",
+      "simple_explanation": "Novo Nordisk CEO Mike Doustdar says the Ozempic and Wegovy maker is looking for deals more than ever before."
+    },
+    {
+      "title": "European Stocks Rising Sharply in Wednesday Trading; Euro Area Economy Contracts",
+      "description": "The European stock markets were surging higher in Wednesday trading amid reports that the US and Ira",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/european-stocks-rising-sharply-wednesday-155602126.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T15:56:02+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The European stock markets were surging higher in Wednesday trading amid reports that the US and Ira"
+    },
+    {
+      "title": "US market today: Apollo surpasses $1 trillion in AUM, beats profit estimates",
+      "description": "Apollo Global Management crossed $1 trillion in assets under management and beat Wall Street ​expectations for first-quarter profit on Wednesday after posting record quarterly fee-related earnings.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/us-market-today-apollo-surpasses-1-trillion-in-aum-beats-profit-estimates/articleshow/130862261.cms",
+      "image": "https://img.etimg.com/photo/msid-130862261,imgsize-29252.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-06T15:55:15+00:00",
+      "category": "India",
+      "simple_explanation": "Apollo Global Management crossed $1 trillion in assets under management and beat Wall Street ​expectations for first-quarter profit on Wednesday after posting record quarterly fee-related earnings."
+    },
+    {
+      "title": "Cenovus Energy Maintained at Buy at TPH Following Q1 Results; Price Target at C$42.00",
+      "description": "Stifel Canada on Wednesday reiterated its buy rating on the shares of Cenovus Energy (CVE.TO, CVE) w",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/cenovus-energy-maintained-buy-tph-155333672.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T15:53:33+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Stifel Canada on Wednesday reiterated its buy rating on the shares of Cenovus Energy (CVE.TO, CVE) w"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+      "description": "Domestic equities surged as crude oil slipped below $100 and US-India trade optimism boosted sentiment. Nifty and Sensex gained over 1%, led by banking, auto and pharma stocks, while global markets also strengthened amid easing geopolitical concerns and positive momentum signals",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/130862200.cms",
+      "image": "https://img.etimg.com/photo/msid-130862200,imgsize-110642.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-06T15:53:21+00:00",
+      "category": "India",
+      "simple_explanation": "Domestic equities surged as crude oil slipped below $100 and US-India trade optimism boosted sentiment. Nifty and Sensex gained over 1%, led by banking, auto and pharma stocks, while global markets al"
+    },
+    {
+      "title": "Market Trading Guide: Buy Hindustan Zinc and Vedanta on Thursday for gains up to 9%",
+      "description": "Domestic stock markets ended with strong gains on Wednesday as oil prices slipped below the $100 a barrel mark while news of a likely trade deal between the US and India lifted sentiments.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-hindustan-zinc-and-vedanta-on-thursday-for-gains-up-to-9/articleshow/130861940.cms",
+      "image": "https://img.etimg.com/photo/msid-130861940,imgsize-135753.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-06T15:44:53+00:00",
+      "category": "India",
+      "simple_explanation": "Domestic stock markets ended with strong gains on Wednesday as oil prices slipped below the $100 a barrel mark while news of a likely trade deal between the US and India lifted sentiments."
+    },
+    {
+      "title": "Oil prices bounce off lows, as an Iran peace deal may be just a ‘structured pause’",
+      "description": "Global oil prices fell by as much as 12% Wednesday, then pared nearly half of those losses as the market weighed reports of progress toward a U.S.-Iran peace deal and the potential impact on the growing crude-supply crisis in the Persian Gulf.",
+      "url": "https://www.marketwatch.com/story/oil-futures-fall-after-trump-pauses-u-s-effort-to-partially-reopen-strait-of-hormuz-936c77f9?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T15:41:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Global oil prices fell by as much as 12% Wednesday, then pared nearly half of those losses as the market weighed reports of progress toward a U.S.-Iran peace deal and the potential impact on the growi"
+    },
+    {
+      "title": "These Stocks Are Today’s Movers: AMD, Intel, Corning, Uber, Super Micro, Disney, Arista, DaVita, and More",
+      "description": "Shares in Advanced Micro Devices surge after AMD CEO Lisa Su flags surging demand for central processing units.",
+      "url": "https://finance.yahoo.com/m/14506533-e453-325c-9e6d-b7d97b069da1/these-stocks-are-today%E2%80%99s.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T15:39:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Shares in Advanced Micro Devices surge after AMD CEO Lisa Su flags surging demand for central processing units."
+    },
+    {
+      "title": "NSE says enough shareholder participation for IPO even if valuation tops  ₹5 tn",
+      "description": "Based on the current unlisted share price of NSE, which can be bought between  ₹2,030 and  ₹2,045 apiece, the company is valued at around  ₹5.06 trillion.",
+      "url": "https://www.livemint.com/market/ipo/nse-ipo-valuation-5-trillion-ofs-participation-11778073367832.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/06/1600x900/logo/GROWW-IPO--0_1751108472593_1751108486410_1778081400882.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-05-06T15:37:45+00:00",
+      "category": "India",
+      "simple_explanation": "Based on the current unlisted share price of NSE, which can be bought between  ₹2,030 and  ₹2,045 apiece, the company is valued at around  ₹5.06 trillion."
+    },
+    {
+      "title": "Bitcoin price rejects at $83K as Trump calls Iran deal 'big assumption'",
+      "description": "Bitcoin price action failed to revisit the $83,000 mark after US-Iran war tensions took over to steer the crypto market mood.",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-rejects-83k-trump-calls-iran-deal-big-assumption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmNvaW50ZWxlZ3JhcGguY29tL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0dvb2dsZS1sYXB0b3AtYml0Y29pbi1UcnVtcC5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-06T15:37:38+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin price action failed to revisit the $83,000 mark after US-Iran war tensions took over to steer the crypto market mood."
+    },
+    {
+      "title": "Paytm Q4 Results: Co turns to black, logs profit of Rs 184 crore vs loss a year ago",
+      "description": "Paytm Q4 Results: One 97 Communications, which operates Paytm reported a net profit of Rs 184 crore in the fourth quarter, compared with a loss of Rs 540 crore in the year-ago quarter.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/paytm-q4-results-co-turns-to-black-logs-profit-of-rs-184-crore-vs-loss-a-year-ago/articleshow/130861498.cms",
+      "image": "https://img.etimg.com/photo/msid-130861498,imgsize-1153909.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-06T15:30:52+00:00",
+      "category": "India",
+      "simple_explanation": "Paytm Q4 Results: One 97 Communications, which operates Paytm reported a net profit of Rs 184 crore in the fourth quarter, compared with a loss of Rs 540 crore in the year-ago quarter."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL2FydGljbGUtY292ZXJzLTExMDU4OS13aGF0LWhhcHBlbmVkLWluLWNyeXB0by10b2RheS5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-06T15:27:38+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
+    },
+    {
+      "title": "Paytm Q4 results: Net profit swings to  ₹183 crore profit in March quarter; revenue rises 18.4%",
+      "description": "One 97 Communications reported a consolidated net profit of  ₹183 crore for the March quarter, a significant improvement from a net loss of  ₹545 crore a year earlier, though it represented an 18% decline from  ₹225 crore in the previous quarter.",
+      "url": "https://www.livemint.com/market/stock-market-news/paytm-q4-results-net-profit-swings-to-rs-183-crore-profit-in-march-quarter-revenue-rises-184-11778079695095.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/06/1600x900/PAYTM-INDIA-INVESTIGATION-0_1707273112273_1778079691923.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-05-06T15:19:24+00:00",
+      "category": "India",
+      "simple_explanation": "One 97 Communications reported a consolidated net profit of  ₹183 crore for the March quarter, a significant improvement from a net loss of  ₹545 crore a year earlier, though it represented an 18% dec"
+    },
+    {
+      "title": "So Many Worries—and Nothing to for the Stock Market to Worry About",
+      "description": "U.S. stocks are outpacing their global rivals, with tech leading the charge. But worries about the war in Iran still linger.",
+      "url": "https://finance.yahoo.com/m/7721c10f-4c21-36ae-9d3c-9f213b3478ba/so-many-worries%E2%80%94and-nothing.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T15:16:00+00:00",
+      "category": "USA",
+      "simple_explanation": "U.S. stocks are outpacing their global rivals, with tech leading the charge. But worries about the war in Iran still linger."
+    },
+    {
+      "title": "Microsoft Corporation (MSFT) Slid Amid Broad-Based Sell-Off in Software Companies",
+      "description": "Aristotle Capital Management, LLC, an investment management company, released its “Value Equity Fund” first-quarter 2026 investor letter. A copy of the letter can be downloaded here. During the first quarter, the U.S. equity market declined, with the S&P 500 Index falling by 4.33%. The fixed-income ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-slid-amid-151116770.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T15:11:16+00:00",
+      "category": "USA",
+      "simple_explanation": "Aristotle Capital Management, LLC, an investment management company, released its “Value Equity Fund” first-quarter 2026 investor letter. A copy of the letter can be downloaded here. During the first "
+    },
+    {
+      "title": "AI Data Centers Need to Stay Cool. These Stocks Could Benefit.",
+      "description": "Carrier, Trane, Vertiv, Eaton, and other companies are seeing a surge in demand as AI data centers require more advanced cooling technology.",
+      "url": "https://finance.yahoo.com/m/02025f44-9a80-3890-bb5e-f3c9d71508ae/ai-data-centers-need-to-stay.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T15:11:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Carrier, Trane, Vertiv, Eaton, and other companies are seeing a surge in demand as AI data centers require more advanced cooling technology."
+    },
+    {
+      "title": "US stocks today: Disney earnings beat estimates as new CEO outlines growth strategy",
+      "description": "Walt Disney's new Chief Executive Josh D'Amaro ​laid out his strategy for the entertainment company ​Wednesday, saying it would remain committed to creative excellence, strengthen its streaming business, capitalize on the ​power of live sports and continue to invest in its theme parks and cruise lin",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-today-disney-earnings-beat-estimates-as-new-ceo-outlines-growth-strategy/articleshow/130861131.cms",
+      "image": "https://img.etimg.com/photo/msid-130861131,imgsize-74990.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-06T15:10:01+00:00",
+      "category": "India",
+      "simple_explanation": "Walt Disney's new Chief Executive Josh D'Amaro ​laid out his strategy for the entertainment company ​Wednesday, saying it would remain committed to creative excellence, strengthen its streaming busine"
+    },
+    {
+      "title": "Morgan Stanley takes on crypto trading rivals with E*Trade pilot",
+      "description": "The Wall Street bank is charging 50 basis points per crypto trade, below basic retail pricing at Coinbase, Robinhood and Charles Schwab.",
+      "url": "https://cointelegraph.com/news/morgan-stanley-emerges-as-crypto-exchange-competitor-with-low-fee-trading-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL01vb24tQml0Y29pbjEtMS5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-06T15:08:47+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Wall Street bank is charging 50 basis points per crypto trade, below basic retail pricing at Coinbase, Robinhood and Charles Schwab."
+    },
+    {
+      "title": "Disney Stock Pops After Earnings—and a 3,000-Word Memo From the New CEO",
+      "description": "Josh D’Amaro’s letter to investors was full of grand ideas to boost the company’s battered shares, but a little light on detail.",
+      "url": "https://finance.yahoo.com/m/236d6146-b0a9-3c1b-97c7-0a6505147b10/disney-stock-pops-after.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T15:07:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Josh D’Amaro’s letter to investors was full of grand ideas to boost the company’s battered shares, but a little light on detail."
+    },
+    {
+      "title": "Stablecoin industry opposes Bank of England’s unhosted wallet ban",
+      "description": "The crypto industry in the UK has come out against the Bank of England’s proposed policy that would ban custodial wallets for stablecoins.",
+      "url": "https://cointelegraph.com/features/stablecoin-industry-opposes-bank-of-englands-unhosted-wallet-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwQSUyMGxpc3QlMjBvZiUyMG1vc3QlMjBwcm9taW5lbnQlMjBmaWF0JTIwYmFja2VkJTIwc3RhYmxlY29pbnMuanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-06T14:55:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The crypto industry in the UK has come out against the Bank of England’s proposed policy that would ban custodial wallets for stablecoins."
+    },
+    {
+      "title": "AMD shares jump 13% as AI chip demand lifts strong results",
+      "description": "Shares of Advanced Micro Devices jumped sharply after the chipmaker delivered strong quarterly results and issued an upbeat outlook, driven by robust demand for AI chips. Growth in its data centre business and rising adoption of AI infrastructure reinforced investor confidence in AMD’s position as a",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/amd-shares-jump-13-as-ai-chip-demand-lifts-strong-results/articleshow/130860802.cms",
+      "image": "https://img.etimg.com/photo/msid-130860802,imgsize-83832.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-06T14:54:05+00:00",
+      "category": "India",
+      "simple_explanation": "Shares of Advanced Micro Devices jumped sharply after the chipmaker delivered strong quarterly results and issued an upbeat outlook, driven by robust demand for AI chips. Growth in its data centre bus"
+    },
+    {
+      "title": "Nasdaq Hits Fresh Highs After AMD Earnings. The Dot-Com Bubble Parallels Keep Popping Up.",
+      "description": "Fresh off a record close on Tuesday, the Nasdaq was soaring to fresh highs on Wednesday after Advanced Micro Devices’ earnings report kept the chip rally rolling.  The S&P and Nasdaq only need to close above yesterday’s level to establish new record closing highs.  The Dow was on pace to exit correc",
+      "url": "https://finance.yahoo.com/m/4a664149-688d-311d-9dea-d71d563dfe98/nasdaq-hits-fresh-highs-after.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T14:45:29+00:00",
+      "category": "USA",
+      "simple_explanation": "Fresh off a record close on Tuesday, the Nasdaq was soaring to fresh highs on Wednesday after Advanced Micro Devices’ earnings report kept the chip rally rolling.  The S&P and Nasdaq only need to clos"
+    },
+    {
+      "title": "AMD's Su explains what's behind massive forecast change as stock roars 15% on earnings",
+      "description": "CEO Lisa Su highlighted the growing demand for central processing units, doubling her long term forecast after strong first-quarter earnings.",
+      "url": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-06T14:39:39+00:00",
+      "category": "USA",
+      "simple_explanation": "CEO Lisa Su highlighted the growing demand for central processing units, doubling her long term forecast after strong first-quarter earnings."
+    },
+    {
+      "title": "Bajaj Auto announces Rs 5,633 crore share buyback via tender route, sets price at Rs 12,000 apiece",
+      "description": "Bajaj Auto approved a Rs 5,633 crore share buyback and Rs 150 dividend alongside strong Q4 results. Profit rose 34% and revenue grew 32%, driven by higher volumes, strong exports, and improved margins, reflecting robust overall financial and operational performance",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-announces-rs-5633-crore-share-buyback-via-tender-route-sets-price-at-rs-12000-apiece/articleshow/130860345.cms",
+      "image": "https://img.etimg.com/photo/msid-130860345,imgsize-63642.cms",
+      "source": "ET Markets",
+      "published_at": "2026-05-06T14:36:10+00:00",
+      "category": "India",
+      "simple_explanation": "Bajaj Auto approved a Rs 5,633 crore share buyback and Rs 150 dividend alongside strong Q4 results. Profit rose 34% and revenue grew 32%, driven by higher volumes, strong exports, and improved margins"
+    },
+    {
+      "title": "Peter Schiff Says 'Buy The Dip' in Gold And Silver Amid Iran War Selloff— 'Take Advantage Of Their...'",
+      "description": "The markets are mispricing the impact of escalating geopolitical tensions and rising macro risks, according to Peter Schiff, who suggests buying the dip in precious metals. In a Monday post on X, Schiff said, \"gold is down over $100 and silver is down over $2.50\" as conflict with Iran intensifies, o",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/peter-schiff-says-buy-dip-143103386.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T14:31:03+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The markets are mispricing the impact of escalating geopolitical tensions and rising macro risks, according to Peter Schiff, who suggests buying the dip in precious metals. In a Monday post on X, Schi"
+    },
+    {
+      "title": "MochaTrade raises funding to offer global access to US perpetual futures",
+      "description": "MochaTrade raised pre-seed funding from Y Combinator and Pioneer Fund to build a regulated platform offering perpetual futures on US stocks, indices and commodities. The app aims to simplify global access, enabling leveraged trading with real-time settlement and broader market participation",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mochatrade-raises-funding-to-offer-global-access-to-us-perpetual-futures/articleshow/130860045.cms",
+      "image": "https://img.etimg.com/photo/msid-130860045,imgsize-62694.cms",
+      "source": "ET Markets",
+      "published_at": "2026-05-06T14:26:20+00:00",
+      "category": "India",
+      "simple_explanation": "MochaTrade raised pre-seed funding from Y Combinator and Pioneer Fund to build a regulated platform offering perpetual futures on US stocks, indices and commodities. The app aims to simplify global ac"
+    },
+    {
+      "title": "Gold and Silver Catch Fire as Iran Deal Hopes Rewrite the Inflation Playbook",
+      "description": "The PHLX Gold/Silver Sector (^XAU) is climbing roughly 8% this morning as a wave of buying hits both bullion and the equities that mine it. Spot gold is trading near $4,695 an ounce, up about 3%, while silver is jumping a sharper 5.5% to roughly $77 an ounce. The catalyst is a combination of geopoli",
+      "url": "https://247wallst.com/investing/2026/05/06/gold-and-silver-catch-fire-as-iran-deal-hopes-rewrite-the-inflation-playbook/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T14:23:44+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The PHLX Gold/Silver Sector (^XAU) is climbing roughly 8% this morning as a wave of buying hits both bullion and the equities that mine it. Spot gold is trading near $4,695 an ounce, up about 3%, whil"
+    },
+    {
+      "title": "Dividend stocks: Shree Cement announces  ₹70 final dividend for FY26 along with Q4 results",
+      "description": "Shree Cement announced a final dividend of  ₹70 per share for FY26, totaling  ₹150 for the year. The company reported a March-quarter revenue of  ₹6,101 crore and a net profit of  ₹1,292 crore. Expansion plans include new RMC plants and increased cement capacity.",
+      "url": "https://www.livemint.com/market/stock-market-news/dividend-stocks-shree-cement-announces-rs-70-final-dividend-for-fy26-along-with-q4-results-11778076575373.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/06/1600x900/logo/cement_1754382403125_1754382403464_1778076572125.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-06T14:22:45+00:00",
+      "category": "India",
+      "simple_explanation": "Shree Cement announced a final dividend of  ₹70 per share for FY26, totaling  ₹150 for the year. The company reported a March-quarter revenue of  ₹6,101 crore and a net profit of  ₹1,292 crore. Expans"
+    },
+    {
+      "title": "Bitcoin Miner Soars On $9.8 Bil Data Center Deal, Morgan Stanley Debuts Crypto Trading",
+      "description": "Bitcoin miner Hut 8 accelerates AI data center growth with $9.8 billion deal. Morgan Stanley debuts crypto trading on E-Trade.",
+      "url": "https://finance.yahoo.com/m/74fdcbb7-e71c-3dac-b023-588e32b0e2ee/bitcoin-miner-soars-on-%249.8.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T14:19:08+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin miner Hut 8 accelerates AI data center growth with $9.8 billion deal. Morgan Stanley debuts crypto trading on E-Trade."
+    },
+    {
+      "title": "Brigade Enterprises reports FY26 net profit at Rs 725 cr, approves 1:3 bonus issue",
+      "description": "Brigade Enterprises posted higher annual profit and 11% revenue growth driven by strong real estate pre-sales, leasing gains and hospitality expansion. Despite a weaker quarterly profit, robust sales momentum, improved realisations and strong cash flows support a positive business outlook",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/brigade-enterprises-reports-fy26-net-profit-at-rs-725-cr-approves-13-bonus-issue/articleshow/130859708.cms",
+      "image": "https://img.etimg.com/photo/msid-130859708,imgsize-12458.cms",
+      "source": "ET Markets",
+      "published_at": "2026-05-06T14:15:51+00:00",
+      "category": "India",
+      "simple_explanation": "Brigade Enterprises posted higher annual profit and 11% revenue growth driven by strong real estate pre-sales, leasing gains and hospitality expansion. Despite a weaker quarterly profit, robust sales "
+    },
+    {
+      "title": "Tesla Has Recalled 219,000 Cars This Year. How That Compares to Ford and Toyota.",
+      "description": "Tesla  stock rose early Wednesday as the electric-vehicle maker recalled 218,868 cars to correct a rearview camera issue.  Tesla shares were up 0.4% at $390.72, while the  and  were up 0.8% and 0.9%, respectively.  Benchmark  oil prices  were down 8% at just over $101 per barrel in early trading.",
+      "url": "https://finance.yahoo.com/m/4479760a-d581-3cd5-b04b-01bc7b6219fe/tesla-has-recalled-219%2C000.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T14:09:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Tesla  stock rose early Wednesday as the electric-vehicle maker recalled 218,868 cars to correct a rearview camera issue.  Tesla shares were up 0.4% at $390.72, while the  and  were up 0.8% and 0.9%, "
+    },
+    {
+      "title": "Dow Finally Nears Correction Exit. It's Still Chasing Its February Highs.",
+      "description": "The Dow may finally exit correction territory.  The blue-chip index was up 465 points, or 0.9%, to 49,777.85.  It needs to finish above 49,683.30 to officially exit correction, according to Dow Jones Market Data.",
+      "url": "https://finance.yahoo.com/m/b26cc76e-8970-300b-8600-c21ac52619d5/dow-finally-nears-correction.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T14:08:05+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dow may finally exit correction territory.  The blue-chip index was up 465 points, or 0.9%, to 49,777.85.  It needs to finish above 49,683.30 to officially exit correction, according to Dow Jones "
+    },
+    {
+      "title": "This Nuclear AI Stock Is Dropping. Here’s Why.",
+      "description": "Solstice Advanced Materials reported earnings per share of 63 cents, a penny better than Wall Street estimates.",
+      "url": "https://finance.yahoo.com/m/6b0e7573-830a-3b34-8b08-23b9a1b879f4/this-nuclear-ai-stock-is.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-06T14:03:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Solstice Advanced Materials reported earnings per share of 63 cents, a penny better than Wall Street estimates."
     },
     {
       "title": "OpenTrade raises $17M as CEO sees stablecoin yield tailwinds",
@@ -51,356 +401,6 @@
       "published_at": "2026-05-06T14:00:00+00:00",
       "category": "Crypto",
       "simple_explanation": "OpenTrade raised $17 million to expand its stablecoin yield platform, bringing total funding above $30 million as it scales stablecoin yield infrastructure for global clients."
-    },
-    {
-      "title": "Wall Street climbs on hopes of potential US-Iran peace deal, AI enthusiasm",
-      "description": "The Dow Jones Industrial Average rose 0.29%, the S&amp;P 500 rose 0.48%, the Nasdaq Composite rose 0.67%",
-      "url": "https://www.livemint.com/market/stock-market-news/wall-street-climbs-on-hopes-of-potential-us-iran-peace-deal-ai-enthusiasm-11778075379810.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/06/1600x900/USA-STOCKS--0_1778075462685_1778075489563.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-05-06T13:59:28+00:00",
-      "category": "India",
-      "simple_explanation": "The Dow Jones Industrial Average rose 0.29%, the S&amp;P 500 rose 0.48%, the Nasdaq Composite rose 0.67%"
-    },
-    {
-      "title": "Oil prices tumble, stocks rally on Mideast peace hopes",
-      "description": "World oil prices dived Wednesday and stock markets rallied on fresh hopes for an end to the Iran war.Elsewhere on Wednesday, Seoul's Kospi stocks index piled on more than five percent to pass 7,000 points for the first time.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oil-sinks-stocks-rally-peace-024741308.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T13:54:43+00:00",
-      "category": "Commodities",
-      "simple_explanation": "World oil prices dived Wednesday and stock markets rallied on fresh hopes for an end to the Iran war.Elsewhere on Wednesday, Seoul's Kospi stocks index piled on more than five percent to pass 7,000 po"
-    },
-    {
-      "title": "6 midcap stocks post 50%+ EBITDA growth in March '26 quarter",
-      "description": "NSE midcap stocks showed strong operational performance with several companies reporting over 50% EBITDA growth in Q4 FY26. Led by firms like Lloyds Metals and Godrej Properties, the gains reflect improved efficiency, demand strength and robust underlying business momentum across sectors",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/6-midcap-stocks-post-50-ebitda-growth-in-march-26-quarter/slideshow/130859452.cms",
-      "image": "https://img.etimg.com/photo/msid-130859034,imgsize-9684.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-06T13:52:54+00:00",
-      "category": "India",
-      "simple_explanation": "NSE midcap stocks showed strong operational performance with several companies reporting over 50% EBITDA growth in Q4 FY26. Led by firms like Lloyds Metals and Godrej Properties, the gains reflect imp"
-    },
-    {
-      "title": "Private payrolls rose by 109,000 in April, topping expectations, ADP says",
-      "description": "The report provided more evidence of a stable labor market and less incentive for the Fed to lower interest rates.",
-      "url": "https://www.cnbc.com/2026/05/06/private-payrolls-rose-by-109000-in-april-topping-expectations-adp-says.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-06T13:49:25+00:00",
-      "category": "USA",
-      "simple_explanation": "The report provided more evidence of a stable labor market and less incentive for the Fed to lower interest rates."
-    },
-    {
-      "title": "Why stablecoins and SWIFT may have to coexist",
-      "description": "Remittance firms are using crypto to bypass parts of traditional settlement infrastructure, but this does not mean SWIFT is disappearing.",
-      "url": "https://cointelegraph.com/features/why-stablecoins-swift-may-have-coexist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL2Nyb3NzLWJvcmRlciUyMHRyYW5zYWN0aW9uJTIwc3RhYmxlY29pbi5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-06T13:47:13+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Remittance firms are using crypto to bypass parts of traditional settlement infrastructure, but this does not mean SWIFT is disappearing."
-    },
-    {
-      "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
-      "description": "Uber and Disney pointed to a resilient spending backdrop, with consumers continuing to shell out for rides, food delivery, vacations and theme park trips.",
-      "url": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-06T13:43:08+00:00",
-      "category": "USA",
-      "simple_explanation": "Uber and Disney pointed to a resilient spending backdrop, with consumers continuing to shell out for rides, food delivery, vacations and theme park trips."
-    },
-    {
-      "title": "Disney Stock Surges On Earnings Beat, Streaming Profits Boom",
-      "description": "Disney cleared Q2 estimates early Wednesday, driven by solid revenue growth and a spike in profits for Disney+, Hulu. Disney stock pops.",
-      "url": "https://finance.yahoo.com/m/31e66a58-8ce6-32e6-bc14-33ceee48704b/disney-stock-surges-on.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T13:42:59+00:00",
-      "category": "USA",
-      "simple_explanation": "Disney cleared Q2 estimates early Wednesday, driven by solid revenue growth and a spike in profits for Disney+, Hulu. Disney stock pops."
-    },
-    {
-      "title": "Nasdaq Hits Fresh Highs After AMD Earnings. The Dot-Com Bubble Parallels Keep Popping Up.",
-      "description": "Fresh off a record close on Tuesday, the Nasdaq was soaring to fresh highs on Wednesday after Advanced Micro Devices’ earnings report kept the chip rally rolling.  The Dow was up 461 points, or 0.9%.  The S&P and Nasdaq only need to close above yesterday’s level to establish new record closing highs",
-      "url": "https://finance.yahoo.com/m/4a664149-688d-311d-9dea-d71d563dfe98/nasdaq-hits-fresh-highs-after.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T13:41:45+00:00",
-      "category": "USA",
-      "simple_explanation": "Fresh off a record close on Tuesday, the Nasdaq was soaring to fresh highs on Wednesday after Advanced Micro Devices’ earnings report kept the chip rally rolling.  The Dow was up 461 points, or 0.9%. "
-    },
-    {
-      "title": "Ken Griffin: Citadel expanding in Miami in response to NYC Mayor Mamdani's 'poor taste' tax video",
-      "description": "Mamdani's office said in response to Griffin, \"our tax system is fundamentally broken. It rewards extreme wealth while working people are pushed to the brink.\"",
-      "url": "https://www.cnbc.com/2026/05/06/mamdani-ken-griffin-nyc-miami-tax.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-06T13:41:37+00:00",
-      "category": "USA",
-      "simple_explanation": "Mamdani's office said in response to Griffin, \"our tax system is fundamentally broken. It rewards extreme wealth while working people are pushed to the brink.\""
-    },
-    {
-      "title": "Individual investors sold Rs 13,000 crore worth stocks, but Zerodha clients kept buying: Nithin Kamath",
-      "description": "Retail investors sold equities, but Zerodha clients bought heavily, highlighting divergence. Overall, direct retail ownership declined while mutual fund holdings hit record highs, reflecting a structural shift toward professionally managed investments and rising domestic institutional dominance in I",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/individual-investors-sold-rs-13000-crore-worth-stocks-but-zerodha-clients-kept-buying-nithin-kamath/articleshow/130858760.cms",
-      "image": "https://img.etimg.com/photo/msid-130858760,imgsize-27640.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-06T13:41:08+00:00",
-      "category": "India",
-      "simple_explanation": "Retail investors sold equities, but Zerodha clients bought heavily, highlighting divergence. Overall, direct retail ownership declined while mutual fund holdings hit record highs, reflecting a structu"
-    },
-    {
-      "title": "Why Gulf NRIs are turning to Indian equities as real estate sees an exit",
-      "description": "GCC-based NRIs are increasingly favouring Indian equities over real estate, with 73% boosting exposure and many deploying fresh capital. The shift reflects a structural change in wealth strategies, driven by confidence, disciplined investing and India’s growing appeal as a long-term investment desti",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-gulf-nris-are-turning-to-indian-equities-as-real-estate-sees-an-exit/articleshow/130858663.cms",
-      "image": "https://img.etimg.com/photo/msid-130858663,imgsize-30616.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-06T13:38:03+00:00",
-      "category": "India",
-      "simple_explanation": "GCC-based NRIs are increasingly favouring Indian equities over real estate, with 73% boosting exposure and many deploying fresh capital. The shift reflects a structural change in wealth strategies, dr"
-    },
-    {
-      "title": "Gold Moves Higher as USD and Yields Retreat Following Reports the Iran War May Be Near an End",
-      "description": "Gold prices rose early Wednesday as the U.S. dollar and yields were sharply lower on reports Iran an",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-moves-higher-usd-yields-133727218.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T13:37:27+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold prices rose early Wednesday as the U.S. dollar and yields were sharply lower on reports Iran an"
-    },
-    {
-      "title": "Oil and Gas Plunge as Iran Weighs New US Proposal to End War",
-      "description": "(Bloomberg) -- Oil briefly dropped below $100 a barrel and gas slumped, as Iran evaluated a new proposal from the US to end their near 10-week war.Most Read from BloombergUS Has Opened a Passage Through Hormuz, Central Command SaysUS Says Offensive Phase of Iran War Over as Ship Hit in StraitAnthrop",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/oil-slumps-report-us-iran-092459491.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T13:34:50+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Bloomberg) -- Oil briefly dropped below $100 a barrel and gas slumped, as Iran evaluated a new proposal from the US to end their near 10-week war.Most Read from BloombergUS Has Opened a Passage Throu"
-    },
-    {
-      "title": "US stocks today: US market opens higher as Middle East peace hopes, AI optimism boost sentiment",
-      "description": "Wall Street indexes opened higher on Wednesday, continuing a strong trend fueled by hopes of a U.S.-Iran peace agreement and ongoing enthusiasm for artificial intelligence. The Dow Jones Industrial Average, S&P 500, and Nasdaq Composite all saw gains at the opening bell.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-market-opens-higher-as-middle-east-peace-hopes-ai-optimism-boost-sentiment/articleshow/130858565.cms",
-      "image": "https://img.etimg.com/photo/msid-130858565,imgsize-80406.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-06T13:34:43+00:00",
-      "category": "India",
-      "simple_explanation": "Wall Street indexes opened higher on Wednesday, continuing a strong trend fueled by hopes of a U.S.-Iran peace agreement and ongoing enthusiasm for artificial intelligence. The Dow Jones Industrial Av"
-    },
-    {
-      "title": "BloFin Research: Gold’s Three-Phase Demand Expansion",
-      "description": "Gold's current rally is rooted in a sequential expansion of structurally distinct buyer classes, sovereign, institutional, and crypto-native, each adding demand without displacing prior layers, in contrast to prior gold cycles where price strength depended on a single dominant category of buyer.",
-      "url": "https://beincrypto.com/blofin-analysis-gold-demand-expansion-phases/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T13:34:05+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold's current rally is rooted in a sequential expansion of structurally distinct buyer classes, sovereign, institutional, and crypto-native, each adding demand without displacing prior layers, in con"
-    },
-    {
-      "title": "'Sell in May' has been a bad strategy this century: Chart of the Day",
-      "description": "'Sell in May' used to have a case. Lately, it's mostly had a cost.",
-      "url": "https://finance.yahoo.com/markets/article/sell-in-may-has-been-a-bad-strategy-this-century-chart-of-the-day-132651021.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T13:26:51+00:00",
-      "category": "USA",
-      "simple_explanation": "'Sell in May' used to have a case. Lately, it's mostly had a cost."
-    },
-    {
-      "title": "Prediction: Trump’s Iran Deal Will Spark a Stock Market Rally Into Midterms",
-      "description": "Gas prices were rising fast enough to turn a geopolitical standoff into an economic problem for everyday Americans. Over the past two weeks, investors watched oil prices climb, inflation fears reawaken, and concerns grow that a broader Middle East conflict could push the economy off course just mont",
-      "url": "https://247wallst.com/investing/2026/05/06/prediction-trumps-iran-deal-will-spark-a-stock-market-rally-into-midterms/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T13:25:56+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gas prices were rising fast enough to turn a geopolitical standoff into an economic problem for everyday Americans. Over the past two weeks, investors watched oil prices climb, inflation fears reawake"
-    },
-    {
-      "title": "Arm Is Shifting Its Business Model. Earnings Will Be a Test for the Stock.",
-      "description": "Arm reports earnings Wednesday as investors focus on its move into data center CPUs, a business shift that could put the chip-design company in competition with some of its own customers.",
-      "url": "https://finance.yahoo.com/m/4d0daf93-656f-39c2-91ac-6dce32608328/arm-is-shifting-its-business.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T13:24:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Arm reports earnings Wednesday as investors focus on its move into data center CPUs, a business shift that could put the chip-design company in competition with some of its own customers."
-    },
-    {
-      "title": "Gold and Silver Surge on Iran War Optimism, Weaker Dollar",
-      "description": "(Bloomberg) -- Gold and silver surged the most in about a month, amid optimism that the US and Iran are nearing an agreement to end the war in the Middle East, sending oil and the dollar lower. Most Read from BloombergUS Has Opened a Passage Through Hormuz, Central Command SaysUS Says Offensive Phas",
-      "url": "https://finance.yahoo.com/news/gold-rises-as-trump-touts-progress-with-iran-and-dollar-falls-014918942.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T13:23:08+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Bloomberg) -- Gold and silver surged the most in about a month, amid optimism that the US and Iran are nearing an agreement to end the war in the Middle East, sending oil and the dollar lower. Most R"
-    },
-    {
-      "title": "Bajaj Auto announces  ₹5,633 crore share buyback at  ₹12,000 apiece. Details here",
-      "description": "Bajaj Auto buyback: Bajaj Auto has fixed the buyback price at  ₹12,000 apiece, suggesting a premium of 16.3% over the last closing price of  ₹10,314.60.",
-      "url": "https://www.livemint.com/market/stock-market-news/bajaj-auto-buyback-auto-major-announces-rs-5633-crore-buyback-price-set-at-rs-12000-11778073504175.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/06/1600x900/BAJAJ-AUTO-STOCKS--0_1742293719576_1778073738365.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-05-06T13:22:26+00:00",
-      "category": "India",
-      "simple_explanation": "Bajaj Auto buyback: Bajaj Auto has fixed the buyback price at  ₹12,000 apiece, suggesting a premium of 16.3% over the last closing price of  ₹10,314.60."
-    },
-    {
-      "title": "Trump says Iran will be bombed 'at much higher level' if they don't agree to peace deal",
-      "description": "Washington reportedly expects responses from Tehran on several key points within the next 48 hours.",
-      "url": "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-06T13:21:10+00:00",
-      "category": "USA",
-      "simple_explanation": "Washington reportedly expects responses from Tehran on several key points within the next 48 hours."
-    },
-    {
-      "title": "Samsung SDS wins deal to build South Korea’s blockchain securities system: Report",
-      "description": "The Korea Securities Depository platform is expected to go live by February 2027, aligning with South Korea’s incoming security token framework.",
-      "url": "https://cointelegraph.com/news/samsung-sds-to-build-token-securities-platform-for-korea-securities-depository?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwNyUyMGxlc3NvbnMlMjBsZWFybmVkJTIwZnJvbSUyMGJ1aWxkaW5nJTIwYW5kJTIwc2NhbGluZyUyMEJpdGNvaW4lMjBtaW5pbmclMjBvcGVyYXRpb25zLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-06T13:20:50+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The Korea Securities Depository platform is expected to go live by February 2027, aligning with South Korea’s incoming security token framework."
-    },
-    {
-      "title": "Zcash price may hit $800 as $2.7B hedge fund reveals ‘significant position’ in ZEC",
-      "description": "Robinhood’s ZEC listing, easing US–Iran tensions and a shrinking liquid supply of tokens are further strengthening the bullish outlook for Zcash in the coming weeks.",
-      "url": "https://cointelegraph.com/markets/zcash-price-eyes-40-rally-as-27b-hedge-fund-reveals-significant-position-in-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwSG93JTIwWmNhc2glMjBXZW50JTIwRnJvbSUyMExvdy1Qcm9maWxlJTIwVG9rZW4lMjB0byUyMHRoZSUyME1vc3QtU2VhcmNoZWQlMjBBc3NldCUyMEluJTIwTm92ZW1iZXItMS5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-06T13:17:53+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Robinhood’s ZEC listing, easing US–Iran tensions and a shrinking liquid supply of tokens are further strengthening the bullish outlook for Zcash in the coming weeks."
-    },
-    {
-      "title": "Assessing Agnico Eagle Mines (AEM) After A 51% Year Return And Recent Pullback",
-      "description": "Wondering whether Agnico Eagle Mines is offering fair value at the current price, or if the recent run has already baked in most of the upside, starts with understanding how the stock is being priced today. The stock last closed at US$178.14, with returns of 4.5% year to date and 51.1% over 1 year, ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-agnico-eagle-mines-aem-131656947.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T13:16:56+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Wondering whether Agnico Eagle Mines is offering fair value at the current price, or if the recent run has already baked in most of the upside, starts with understanding how the stock is being priced "
-    },
-    {
-      "title": "Bajaj Auto Q4 Results: Net profit rises 34% YoY to  ₹2,746 crore;  ₹150 final dividend announced",
-      "description": "Bajaj Auto reported a 32% year-on-year revenue increase to  ₹16,006 crore for Q4 and the fiscal year ending March 31, driven by robust sales across all segments. EBITDA rose 36% to  ₹3,323 crore, while profit after tax reached a record  ₹2,746 crore, up 34%.",
-      "url": "https://www.livemint.com/market/stock-market-news/bajaj-auto-q4-results-net-profit-rises-34-yoy-to-rs-2-746-crore-rs-150-final-dividend-announced-11778071472524.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/06/1600x900/logo/INDIA-AUTOS--0_1768407225679_1768407252402_1778072781548.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-05-06T13:15:05+00:00",
-      "category": "India",
-      "simple_explanation": "Bajaj Auto reported a 32% year-on-year revenue increase to  ₹16,006 crore for Q4 and the fiscal year ending March 31, driven by robust sales across all segments. EBITDA rose 36% to  ₹3,323 crore, whil"
-    },
-    {
-      "title": "This Little-Known AI Stock Is Up 150% in 2026, and Wall Street Says It's Just Getting Started",
-      "description": "Silicon Motion Technology has the potential to become a large cap by the end of the year.",
-      "url": "https://www.fool.com/investing/2026/05/06/this-little-known-ai-stock-is-up-150-in-2026-and-w/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T13:10:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Silicon Motion Technology has the potential to become a large cap by the end of the year."
-    },
-    {
-      "title": "It’s Time to Bet Against This Roaring Stock Market With Options",
-      "description": "After earnings season ends, there won‘t be much to entertain investors. Many of them perceive markets as a perpetual movie and themselves as cosplay characters.",
-      "url": "https://finance.yahoo.com/m/73a57891-52dc-374f-a1b9-2f101525a29a/it%E2%80%99s-time-to-bet-against-this.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T13:09:00+00:00",
-      "category": "USA",
-      "simple_explanation": "After earnings season ends, there won‘t be much to entertain investors. Many of them perceive markets as a perpetual movie and themselves as cosplay characters."
-    },
-    {
-      "title": "Bajaj Auto Q4 Results: Standalone profit jumps 34% YoY to Rs 2,746 crore, revenue surges 32%; Rs 150 per share dividend announced",
-      "description": "Bajaj Auto Q4 Results: Bajaj Auto reported a standalone net profit at Rs 2,746 crore in the March-ended quarter versus Rs 2,049 crore in the year ago period, implying a 34% YoY increase.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-auto-q4-results-standalone-profit-jumps-34-yoy-to-rs-2746-crore-revenue-surges-32-rs-150-per-share-dividend-announced/articleshow/130857667.cms",
-      "image": "https://img.etimg.com/photo/msid-130857667,imgsize-2303427.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-06T13:07:06+00:00",
-      "category": "India",
-      "simple_explanation": "Bajaj Auto Q4 Results: Bajaj Auto reported a standalone net profit at Rs 2,746 crore in the March-ended quarter versus Rs 2,049 crore in the year ago period, implying a 34% YoY increase."
-    },
-    {
-      "title": "Fortitude Gold Declares May 2026 Monthly Dividend",
-      "description": "COLORADO SPRINGS, CO / ACCESS Newswire / May 6, 2026 / Fortitude Gold Corp. (OTCQB:FTCO) (the \"Company\") declares its monthly dividend of $0.01 per common share payable on May 29, 2026, to shareholders of record as of May 20, 2026. Fortitude Gold ...",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/fortitude-gold-declares-may-2026-130000983.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T13:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "COLORADO SPRINGS, CO / ACCESS Newswire / May 6, 2026 / Fortitude Gold Corp. (OTCQB:FTCO) (the \"Company\") declares its monthly dividend of $0.01 per common share payable on May 29, 2026, to shareholder"
-    },
-    {
-      "title": "Sterling Today: Pound jumps as dollar sells off on Iran-Hormuz deal hopes",
-      "description": "Investing.com -- Sterling and the euro surged on Wednesday as the dollar sold off sharply after Iran signalled the Strait of Hormuz could reopen and reports emerged that Washington and Tehran were closing in on a deal to end the Gulf war, triggering a broad risk rally and a steep slide in oil prices",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/sterling-today-pound-jumps-dollar-125557013.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T12:55:57+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Investing.com -- Sterling and the euro surged on Wednesday as the dollar sold off sharply after Iran signalled the Strait of Hormuz could reopen and reports emerged that Washington and Tehran were clo"
-    },
-    {
-      "title": "Potential Middle East Peace Agreement, Oil Price Declines Drive US Equity Futures Higher Pre-Bell",
-      "description": "US equity futures were higher pre-bell Wednesday as oil prices slipped and a peace agreement between",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/potential-middle-east-peace-agreement-125439237.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T12:54:39+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity futures were higher pre-bell Wednesday as oil prices slipped and a peace agreement between"
-    },
-    {
-      "title": "Bubblemaps flags MYSTERY token over 90-wallet launch sniping cluster",
-      "description": "Bubblemaps said it identified a large wallet cluster that accumulated 90% of the Mystery token’s supply at launch, raising concerns around the token’s distribution.",
-      "url": "https://cointelegraph.com/news/bubblemaps-flags-mystery-over-90-wallet-launch-sniping-cluster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwV2hhdCUyMGlzJTIwYSUyMHNvY2lhbCUyMGVuZ2luZWVyaW5nJTIwYXR0YWNrLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-06T12:51:53+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bubblemaps said it identified a large wallet cluster that accumulated 90% of the Mystery token’s supply at launch, raising concerns around the token’s distribution."
-    },
-    {
-      "title": "Sun Pharma, 5 stocks hit 52-week highs, rally up to 25% in a month",
-      "description": "Sensex surged 940 points as six BSE 100 stocks hit 52-week highs, signalling strong bullish momentum. Stocks like Adani Ports, Nestle India and Sun Pharma led gains, supported by solid monthly performance and positive investor sentiment in a rising market",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-5-stocks-hit-52-week-highs-rally-up-to-25-in-a-month/slideshow/130857184.cms",
-      "image": "https://img.etimg.com/photo/msid-130856995,imgsize-12534.cms",
-      "source": "ET Markets",
-      "published_at": "2026-05-06T12:47:43+00:00",
-      "category": "India",
-      "simple_explanation": "Sensex surged 940 points as six BSE 100 stocks hit 52-week highs, signalling strong bullish momentum. Stocks like Adani Ports, Nestle India and Sun Pharma led gains, supported by solid monthly perform"
-    },
-    {
-      "title": "PB Fintech Q4 Results: Profit jumps 54% to Rs 261 crore",
-      "description": "PB Fintech reported a 54% rise in Q4 profit driven by strong insurance premium growth, higher renewal income and steady lending momentum. Revenue surged, margins improved, and full-year performance remained robust with significant expansion across core and new business segments",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q4-results-profit-jumps-54-to-rs-261-crore/articleshow/130856944.cms",
-      "image": "https://img.etimg.com/photo/msid-130856944,imgsize-22106.cms",
-      "source": "ET Markets",
-      "published_at": "2026-05-06T12:45:15+00:00",
-      "category": "India",
-      "simple_explanation": "PB Fintech reported a 54% rise in Q4 profit driven by strong insurance premium growth, higher renewal income and steady lending momentum. Revenue surged, margins improved, and full-year performance re"
-    },
-    {
-      "title": "Stocks rise, oil sinks on hopes of U.S.-Iran deal",
-      "description": "Futures pointed to strong gains after a report that the two countries were close to an agreement, though Trump later cast doubt on the outcome",
-      "url": "https://qz.com/stocks-rise-oil-falls-us-iran-deal-050626?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-06T12:42:11+00:00",
-      "category": "USA",
-      "simple_explanation": "Futures pointed to strong gains after a report that the two countries were close to an agreement, though Trump later cast doubt on the outcome"
     }
   ]
 }
