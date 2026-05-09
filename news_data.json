@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-05-09T15:53:27.224474+00:00",
+  "last_updated": "2026-05-09T16:56:23.749664+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Goldman Sachs resets Nvidia stock forecast ahead of earnings",
+      "description": "Nvidia (NVDA) is a semiconductor giant and artificial intelligence king. It makes GPUs, CPUs, AI inference accelerators, and networking solutions (which are becoming increasingly more important). The company divides its revenue sources into five end markets: Data Center, Gaming, Professional ...",
+      "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-raises-nvidia-eps-forecast-ahead-of-earnings?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-09T16:47:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Nvidia (NVDA) is a semiconductor giant and artificial intelligence king. It makes GPUs, CPUs, AI inference accelerators, and networking solutions (which are becoming increasingly more important). The "
+    },
+    {
+      "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
+      "description": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them.",
+      "url": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-09T16:41:22+00:00",
+      "category": "USA",
+      "simple_explanation": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them."
+    },
+    {
+      "title": "B2Gold (TSX:BTO) Is Up 10.1% After Record Q1 Profit Jump And US$325 Million Asset Sale",
+      "description": "B2Gold Corp. reported past first-quarter 2026 results with net income of US$199.94 million, up from US$57.59 million a year earlier, and higher earnings per share from continuing operations. Alongside record gold production, B2Gold boosted financial flexibility by selling its 70% interest in FinGold",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/b2gold-tsx-bto-10-1-161603349.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-09T16:16:03+00:00",
+      "category": "Commodities",
+      "simple_explanation": "B2Gold Corp. reported past first-quarter 2026 results with net income of US$199.94 million, up from US$57.59 million a year earlier, and higher earnings per share from continuing operations. Alongside"
+    },
+    {
+      "title": "BrightView Q2 Earnings Call Highlights",
+      "description": "BrightView (NYSE:BV) executives said the company reached a turning point in its second quarter of fiscal 2026, with growth in its core landscape maintenance business helping drive higher revenue and record quarterly adjusted EBITDA. President and CEO Dale Asplund said BrightView’s transformation st",
+      "url": "https://www.marketbeat.com/instant-alerts/brightview-q2-earnings-call-highlights-2026-05-09/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-09T16:05:08+00:00",
+      "category": "Commodities",
+      "simple_explanation": "BrightView (NYSE:BV) executives said the company reached a turning point in its second quarter of fiscal 2026, with growth in its core landscape maintenance business helping drive higher revenue and r"
+    },
+    {
+      "title": "Baytex Energy Q1 Earnings Call Highlights",
+      "description": "Baytex Energy (NYSE:BTE) reported a stronger-than-expected first quarter and raised its 2026 production outlook, citing outperformance across its heavy oil portfolio and continued development in the Duvernay. President and Chief Executive Officer Chad Lundberg, speaking on his first earnings call i",
+      "url": "https://www.marketbeat.com/instant-alerts/baytex-energy-q1-earnings-call-highlights-2026-05-09/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-09T16:05:07+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Baytex Energy (NYSE:BTE) reported a stronger-than-expected first quarter and raised its 2026 production outlook, citing outperformance across its heavy oil portfolio and continued development in the D"
+    },
+    {
+      "title": "America’s oldest bank raises stake at MicroStrategy",
+      "description": "Bank of New York Mellon (NYSE: BK) just revamped their confidence on Michael Saylor's Bitcoin (BTC) giant. The oldest bank of the United States raised its stake in Strategy Inc (NASDAQ: MSTR) in the first quarter of 2026 to almost a milllion shares. The revelation came right after Strategy ...",
+      "url": "https://www.thestreet.com/crypto/markets/americas-oldest-bank-raises-stake-at-microstrategy?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-09T16:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Bank of New York Mellon (NYSE: BK) just revamped their confidence on Michael Saylor's Bitcoin (BTC) giant. The oldest bank of the United States raised its stake in Strategy Inc (NASDAQ: MSTR) in the f"
+    },
+    {
+      "title": "Why a 2017 Linux bug is now a major concern for the crypto industry",
+      "description": "The “Copy Fail” Linux bug could impact crypto infrastructure that relies on Linux servers, highlighting growing cybersecurity risks in the digital asset industry.\nFormat: Explained",
+      "url": "https://cointelegraph.com/features/copy-fail-linux-vulnerability-crypto-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9wY3ZpcnVzbWFsd2FyZTEuanBn.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-09T15:30:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The “Copy Fail” Linux bug could impact crypto infrastructure that relies on Linux servers, highlighting growing cybersecurity risks in the digital asset industry.\nFormat: Explained"
+    },
+    {
+      "title": "Materials sector positioned to gain from AI spending, defense growth and housing demand, says BofA",
+      "description": "Bank of America believes the materials sector could emerge as one of the next major beneficiaries of several powerful global trends, despite currently representing only around 2% of the S&P 500’s total market value, close to its smallest weighting in three decades. According to BofA chief strategist",
+      "url": "https://investorshub.advfn.com/market-news/article/28067/materials-sector-positioned-to-gain-from-ai-spending-defense-growth-and-housing-demand-says-bofa?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-09T15:12:58+00:00",
+      "category": "USA",
+      "simple_explanation": "Bank of America believes the materials sector could emerge as one of the next major beneficiaries of several powerful global trends, despite currently representing only around 2% of the S&P 500’s tota"
+    },
     {
       "title": "TeraWulf doubles AI revenue but posts $427M quarterly loss as mining income declines",
       "description": "TeraWulf’s HPC lease revenue jumped 117% quarter-on-quarter to $21 million, but a $427 million net loss highlights the costs of transitioning from Bitcoin mining to AI infrastructure.",
@@ -123,16 +203,6 @@
       "simple_explanation": "Nvidia and Boeing lead five Dow stocks to watch near buy points this week.  Nvidia stock and its peers have rallied in a soaring stock market, with earnings out of the way for some of these names but "
     },
     {
-      "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
-      "description": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them.",
-      "url": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-09T12:00:01+00:00",
-      "category": "USA",
-      "simple_explanation": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them."
-    },
-    {
       "title": "Why one of the nation's largest auto lenders isn't worried about high vehicle prices or 'forever loans'",
       "description": "While median car payments have jumped from $390 to $525 since 2019, data provided by Capital One suggests stability in vehicle cost compared to income.",
       "url": "https://www.cnbc.com/2026/05/09/capital-one-auto-forever-loans-used-cars.html",
@@ -213,16 +283,6 @@
       "simple_explanation": "Rare coins can offer diversification, but are they a smart move for retirees in 2026? Weigh the risks, returns, fees, and inflation protection."
     },
     {
-      "title": "‘The S&P 500 seems to be doing particularly well’: I’m 66. Is this a good time to invest $100,000 in the stock market?",
-      "description": "“I own my home and I have no debt.”",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-seems-to-be-doing-particularly-well-im-66-is-this-a-good-time-to-invest-100-000-in-the-stock-market-46fb8ff8?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-09T09:45:00+00:00",
-      "category": "USA",
-      "simple_explanation": "“I own my home and I have no debt.”"
-    },
-    {
       "title": "Global gold ETF demand rebounds USD 6.6 billion in April; India extends inflow streak to 11 months: World Gold Council",
       "description": "Global investors began rotating back into gold ETFs in April as India recorded positive flows of USD 297 million, marking its 11th consecutive month of inflows, according to a report by the World Gold Council (WGC). Following notable outflows in March, global physically backed gold ETFs recorded inf",
       "url": "https://economictimes.indiatimes.com/markets/commodities/news/global-gold-etf-demand-rebounds-usd-6-6-billion-in-april-india-extends-inflow-streak-to-11-months-world-gold-council/articleshow/130974858.cms",
@@ -263,36 +323,6 @@
       "simple_explanation": "Why DNO (OB:DNO) is back in focus after Kurdistan restart and North Sea update DNO (OB:DNO) has moved back onto investor radar after reporting strong first quarter results with record North Sea produc"
     },
     {
-      "title": "Assessing Barrick Gold (B) Valuation After Mixed Recent Returns And Conflicting Fair Value Signals",
-      "description": "How Barrick Mining’s Recent Returns Frame the Stock Today Barrick Mining (B) has drawn attention after a recent mix of short term gains and longer term pullbacks, with the stock up over the past week but weaker across the past 3 months and year to date. See our latest analysis for Barrick Mining. Th",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-barrick-gold-b-valuation-091357132.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-09T09:13:57+00:00",
-      "category": "Commodities",
-      "simple_explanation": "How Barrick Mining’s Recent Returns Frame the Stock Today Barrick Mining (B) has drawn attention after a recent mix of short term gains and longer term pullbacks, with the stock up over the past week "
-    },
-    {
-      "title": "TRX Gold (TSX:TRX) Is Up 11.4% After Boosting Buckreef Recoveries And Mill Capacity Plans – Has The Bull Case Changed?",
-      "description": "TRX Gold recently reported that its Buckreef Gold project achieved recovery rates of 89%-92% and outlined plans to expand and upgrade processing capacity with a new semi-autogenous grind/ball mill circuit capable of handling over 3,500 tonnes per day alongside the existing plant. These operational g",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trx-gold-tsx-trx-11-091259776.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-09T09:12:59+00:00",
-      "category": "Commodities",
-      "simple_explanation": "TRX Gold recently reported that its Buckreef Gold project achieved recovery rates of 89%-92% and outlined plans to expand and upgrade processing capacity with a new semi-autogenous grind/ball mill cir"
-    },
-    {
-      "title": "American drivers are in for gas prices deja vu this summer",
-      "description": "Gas prices are creeping closer to the dreaded $5 per gallon level, last reached in June 2022",
-      "url": "https://qz.com/deja-vu-gas-prices-summer?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-09T09:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gas prices are creeping closer to the dreaded $5 per gallon level, last reached in June 2022"
-    },
-    {
       "title": "Zerodha's Nithin Kamath warns investors against ULIPs, endowment traps; says people keep making the same money mistakes",
       "description": "Nithin Kamath critiques the continued popularity of ULIPs and endowment plans among Indian investors, despite expert advice against them. He stresses the importance of financial literacy and cautions that access to information alone is insufficient.",
       "url": "https://www.livemint.com/market/stock-market-news/zerodhas-nithin-kamath-warns-investors-against-ulips-endowment-traps-says-people-keep-making-the-same-money-mistakes-11778315036511.html",
@@ -321,6 +351,16 @@
       "published_at": "2026-05-09T08:26:00+00:00",
       "category": "USA",
       "simple_explanation": "Where there's smoke, there's fire."
+    },
+    {
+      "title": "Bitcoin holds above $80,000 as institutional adoption signals global finance shift",
+      "description": "Investing.com -- Bitcoin was largely steady on Saturday after surging past the $80,000 threshold in the previous session, amid a wave of institutional adoption, although geopolitical tensions in the Middle East kept investors cautious.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-past-80-000-082038767.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-09T08:20:38+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Investing.com -- Bitcoin was largely steady on Saturday after surging past the $80,000 threshold in the previous session, amid a wave of institutional adoption, although geopolitical tensions in the M"
     },
     {
       "title": "TeraWulf Q1 Earnings Call Highlights",
@@ -361,46 +401,6 @@
       "published_at": "2026-05-09T07:16:33+00:00",
       "category": "Crypto",
       "simple_explanation": "Strike CEO Jack Mallers argued that if Wall Street “kills” Bitcoin, then the asset was never going to succeed in the first place."
-    },
-    {
-      "title": "2,00,000% rally! 10 penny stocks that graduated into mid and smallcaps multibaggers",
-      "description": "Penny stocks are often seen as the riskiest corner of the market, associated with low liquidity, sharp volatility and speculative trading.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/200000-rally-10-penny-stocks-that-graduated-into-mid-and-smallcaps-multibaggers/slideshow/130972119.cms",
-      "image": "https://img.etimg.com/photo/msid-130971980,imgsize-53106.cms",
-      "source": "ET Markets",
-      "published_at": "2026-05-09T06:11:57+00:00",
-      "category": "India",
-      "simple_explanation": "Penny stocks are often seen as the riskiest corner of the market, associated with low liquidity, sharp volatility and speculative trading."
-    },
-    {
-      "title": "Explained! Sebi proposes sweeping changes to buyback framework. 7 things to know",
-      "description": "India's securities regulator, SEBI, is proposing major shifts in company share buybacks. Open market buybacks are set to return, and the mandatory involvement of merchant bankers may be reduced. Safeguards for promoter shareholding and minimum public shareholding are also being tightened. These chan",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-sebi-proposes-sweeping-changes-to-buyback-framework-7-things-to-know/articleshow/130971660.cms",
-      "image": "https://img.etimg.com/photo/msid-130971660,imgsize-44700.cms",
-      "source": "ET Markets",
-      "published_at": "2026-05-09T05:47:12+00:00",
-      "category": "India",
-      "simple_explanation": "India's securities regulator, SEBI, is proposing major shifts in company share buybacks. Open market buybacks are set to return, and the mandatory involvement of merchant bankers may be reduced. Safeg"
-    },
-    {
-      "title": "RBI's ECL framework: HDFC Bank to Axis Bank — experts bet high on these five banking stocks",
-      "description": "The RBI's Expected Credit Loss framework, effective April 2027, mandates earlier recognition of loan losses, potentially differentiating stronger banks from weaker ones. While it may pressure PSU banks initially, it aims to enhance transparency and investor confidence in the long run.",
-      "url": "https://www.livemint.com/market/stock-market-news/rbis-ecl-framework-hdfc-bank-to-axis-bank-experts-bet-high-on-these-five-banking-stocks-11778302501440.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/09/1600x900/logo/banking_stocks_to_buy_1778304012036_1778304012202.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-05-09T05:36:02+00:00",
-      "category": "India",
-      "simple_explanation": "The RBI's Expected Credit Loss framework, effective April 2027, mandates earlier recognition of loan losses, potentially differentiating stronger banks from weaker ones. While it may pressure PSU bank"
-    },
-    {
-      "title": "Stocks to buy under  ₹200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell",
-      "description": "BSE Sensex and NSE Nifty ended lower on May 8 but closed the week with gains. The Nifty rose 1%, while broader markets outperformed, with Midcap and Smallcap indices up 4%. Market volatility persisted amid global tensions and profit booking.",
-      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11778299181250.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/09/1600x900/logo/stock_to_buy_under_rs_200_1778299370359_1778299370585.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-09T04:31:11+00:00",
-      "category": "India",
-      "simple_explanation": "BSE Sensex and NSE Nifty ended lower on May 8 but closed the week with gains. The Nifty rose 1%, while broader markets outperformed, with Midcap and Smallcap indices up 4%. Market volatility persisted"
     }
   ]
 }
