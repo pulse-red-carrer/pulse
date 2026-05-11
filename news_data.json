@@ -1,26 +1,356 @@
 {
-  "last_updated": "2026-05-11T14:54:12.912973+00:00",
+  "last_updated": "2026-05-11T17:25:22.439267+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Hassett says AI isn't costing anybody their job right now — but tech layoffs keep coming",
-      "description": "Tech companies have continued to announce layoffs tied to AI, including recent cuts from Amazon, Meta and Oracle.",
-      "url": "https://www.cnbc.com/2026/05/11/trump-white-house-hassett-ai-jobs.html",
+      "title": "Trump invites Elon Musk, Tim Cook, Larry Fink and other CEOs to join China trip for Xi summit",
+      "description": "Trump invited Tesla's Elon Musk, Apple's Tim Cook and Blackrock's Larry Fink to join his China trip for talks with Xi Jinping on trade, AI and geopolitics.",
+      "url": "https://www.cnbc.com/2026/05/11/trump-ceos-elon-musk-tim-cook-larry-fink-xi-china-summit.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-05-11T14:50:11+00:00",
+      "published_at": "2026-05-11T17:24:05+00:00",
       "category": "USA",
-      "simple_explanation": "Tech companies have continued to announce layoffs tied to AI, including recent cuts from Amazon, Meta and Oracle."
+      "simple_explanation": "Trump invited Tesla's Elon Musk, Apple's Tim Cook and Blackrock's Larry Fink to join his China trip for talks with Xi Jinping on trade, AI and geopolitics."
     },
     {
-      "title": "Markets swing between AI optimism and oil fears",
-      "description": "Shell and Toyota warn geopolitical risks remain elevated",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/markets-swing-between-ai-optimism-144204412.html?.tsrc=rss",
+      "title": "What does PM Modi's work-from-home call mean for the Indian stock market?",
+      "description": "PM Modi's call for work-from-home amid rising fuel costs reflects concerns about India's economy. Analysts suggest it indicates a prolonged oil shock, with potential impacts on the rupee and fiscal deficit, and urge caution in investments.",
+      "url": "https://www.livemint.com/market/stock-market-news/what-does-pm-modis-work-from-home-call-mean-for-the-indian-stock-market-11778514724447.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/11/1600x900/logo/gd8da02c00e972a431625f1fd4d2a8268422620fd476683615_1742888004124_1778517016822.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-11T17:22:47+00:00",
+      "category": "India",
+      "simple_explanation": "PM Modi's call for work-from-home amid rising fuel costs reflects concerns about India's economy. Analysts suggest it indicates a prolonged oil shock, with potential impacts on the rupee and fiscal de"
+    },
+    {
+      "title": "Stock Market Today, May 11: Chipmakers Drive Midday Gains Despite Oil Concerns",
+      "description": "Today, May 11, 2026, AI chip leaders helped steady major U.S. indexes at midday as the Strait of Hormuz remains largely closed.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/05/11/stock-market-today-may-11-chipmakers-drive-midday-gains-despite-oil-concerns/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-05-11T14:42:04+00:00",
+      "published_at": "2026-05-11T17:15:02+00:00",
       "category": "USA",
-      "simple_explanation": "Shell and Toyota warn geopolitical risks remain elevated"
+      "simple_explanation": "Today, May 11, 2026, AI chip leaders helped steady major U.S. indexes at midday as the Strait of Hormuz remains largely closed."
+    },
+    {
+      "title": "Exchange-Traded Funds Higher, US Equities Mixed After Midday",
+      "description": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded I",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-171152086.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T17:11:52+00:00",
+      "category": "USA",
+      "simple_explanation": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded I"
+    },
+    {
+      "title": "Goldman lists 3 reasons why Strait closure caused only moderate economic damage",
+      "description": "Investing.com -- Goldman Sachs chief economist Jan Hatzius has outlined three reasons why the 10-week closure of the Strait of Hormuz has inflicted only moderate damage on the global economy so far, while cautioning that risks remain tilted toward more adverse outcomes.",
+      "url": "https://finance.yahoo.com/economy/articles/goldman-lists-3-reasons-why-171127924.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T17:11:27+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Investing.com -- Goldman Sachs chief economist Jan Hatzius has outlined three reasons why the 10-week closure of the Strait of Hormuz has inflicted only moderate damage on the global economy so far, w"
+    },
+    {
+      "title": "JPMorgan Chase-led bank group reins in credit line to troubled KKR private credit fund as losses mount",
+      "description": "The KKR fund, often referred to by its ticker, FSK, has become one of the most visible fault lines in the private credit story.",
+      "url": "https://www.cnbc.com/2026/05/11/kkr-private-credit-fund-fsk-jpmorgan-chase-credit.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-05-11T17:10:56+00:00",
+      "category": "Global",
+      "simple_explanation": "The KKR fund, often referred to by its ticker, FSK, has become one of the most visible fault lines in the private credit story."
+    },
+    {
+      "title": "Lountzis Asset Management Liquidates SkyWater Technology Stake, According to Recent SEC Filing",
+      "description": "SkyWater Technology’s foundry business is part of IonQ’s pending cash-and-stock acquisition, tying the stock’s value to both operational performance and the transaction’s completion. As a result, IonQ’s share price and the expected closing date are now central factors in investor assessments of the ",
+      "url": "https://www.fool.com/coverage/filings/2026/05/11/lountzis-asset-management-liquidates-skywater-technology-stake-according-to-recent-sec-filing/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T17:09:18+00:00",
+      "category": "USA",
+      "simple_explanation": "SkyWater Technology’s foundry business is part of IonQ’s pending cash-and-stock acquisition, tying the stock’s value to both operational performance and the transaction’s completion. As a result, IonQ"
+    },
+    {
+      "title": "US Equity Indexes Mixed, Crude Oil Rises With Treasury Yields as Iran Ceasefire on 'Massive Life Support'",
+      "description": "US equity indexes traded mixed midday Monday, while crude oil futures rose with Treasury yields, aft",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-crude-170729576.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T17:07:29+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity indexes traded mixed midday Monday, while crude oil futures rose with Treasury yields, aft"
+    },
+    {
+      "title": "GM cutting hundreds of salaried IT workers as it trims costs, evaluates needs",
+      "description": "General Motors is laying off hundreds of salaried employees in its information technology operations.",
+      "url": "https://www.cnbc.com/2026/05/11/gm-layoffs.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-11T17:06:30+00:00",
+      "category": "USA",
+      "simple_explanation": "General Motors is laying off hundreds of salaried employees in its information technology operations."
+    },
+    {
+      "title": "What Makes Zeta Global Holdings Corp. (ZETA) One of The Best High Return Technology Stocks",
+      "description": "Zeta Global Holdings Corp. (NYSE:ZETA) is among the best high-return technology stocks to buy now. On May 1, RBC Capital elevated the price target on Zeta Global Holdings Corp. (NYSE:ZETA) to $29 from $27 and reiterated an Outperform rating. While highlighting that the company’s guidance appears con",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/makes-zeta-global-holdings-corp-170320940.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T17:03:20+00:00",
+      "category": "USA",
+      "simple_explanation": "Zeta Global Holdings Corp. (NYSE:ZETA) is among the best high-return technology stocks to buy now. On May 1, RBC Capital elevated the price target on Zeta Global Holdings Corp. (NYSE:ZETA) to $29 from"
+    },
+    {
+      "title": "Trump says Iran ceasefire is 'on life support' after rejecting Tehran's counterproposal",
+      "description": "The testy U.S.-Iran ceasefire began in mid-April after Trump threatened to destroy Iran's \"whole civilization\" if no deal was struck.",
+      "url": "https://www.cnbc.com/2026/05/11/trump-iran-war-ceasefire-life-support.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-11T16:49:50+00:00",
+      "category": "USA",
+      "simple_explanation": "The testy U.S.-Iran ceasefire began in mid-April after Trump threatened to destroy Iran's \"whole civilization\" if no deal was struck."
+    },
+    {
+      "title": "Saudi Aramco CEO says oil market won't normalize until 2027 if Hormuz disruption persists",
+      "description": "Oil inventories are rapidly drawing down as the Strait of Hormuz remains close, Saudi Aramco CEO Amin Nasser said.",
+      "url": "https://www.cnbc.com/2026/05/11/saudi-aramco-oil-iran-war-strait-hormuz.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-11T16:49:43+00:00",
+      "category": "USA",
+      "simple_explanation": "Oil inventories are rapidly drawing down as the Strait of Hormuz remains close, Saudi Aramco CEO Amin Nasser said."
+    },
+    {
+      "title": "S&P 500 Companies' Quarterly Profit Growth Slows, But Remains Strong, Oppenheimer Says",
+      "description": "S&P 500 companies' quarterly earnings growth slowed compared with figures from a week ago, but remai",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-companies-apos-quarterly-164906058.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T16:49:06+00:00",
+      "category": "USA",
+      "simple_explanation": "S&P 500 companies' quarterly earnings growth slowed compared with figures from a week ago, but remai"
+    },
+    {
+      "title": "How to solve the housing market logjam: NAR chief economist",
+      "description": "National Association of Realtors (NAR) chief economist Lawrence Yun explains how the housing market looks now compared to a year ago, and what's needed to drive momentum.",
+      "url": "https://finance.yahoo.com/video/how-to-solve-the-housing-market-logjam-nar-chief-economist-164354845.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T16:43:54+00:00",
+      "category": "Commodities",
+      "simple_explanation": "National Association of Realtors (NAR) chief economist Lawrence Yun explains how the housing market looks now compared to a year ago, and what's needed to drive momentum."
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+      "description": "Indian benchmark indices experienced a significant sell-off on Monday, marking their third consecutive session of decline. The Nifty50 and BSE Sensex both tumbled, led by banking, automobile, and energy sectors amid investor risk aversion. Analysts suggest a weakening trend with immediate support fo",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131019167.cms",
+      "image": "https://img.etimg.com/photo/msid-131019167,imgsize-54790.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-11T16:41:47+00:00",
+      "category": "India",
+      "simple_explanation": "Indian benchmark indices experienced a significant sell-off on Monday, marking their third consecutive session of decline. The Nifty50 and BSE Sensex both tumbled, led by banking, automobile, and ener"
+    },
+    {
+      "title": "Mixed day for stocks as oil prices climb amid ongoing Iran-US deadlock",
+      "description": "The continued stalemate between the US and Iran dashed investors’ hopes of an imminent peace deal and heightened concerns over oil supply disruption.",
+      "url": "https://uk.finance.yahoo.com/news/mixed-day-stocks-oil-prices-163950945.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T16:39:50+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The continued stalemate between the US and Iran dashed investors’ hopes of an imminent peace deal and heightened concerns over oil supply disruption."
+    },
+    {
+      "title": "Lumentum Stock Soars as AI Optical Networking Rally Resumes",
+      "description": "Lumentum stock surged Monday after the company said it would join the Nasdaq 100 index, reigniting a rally in AI-linked optical networking shares.",
+      "url": "https://finance.yahoo.com/m/73d0d7e0-e126-3167-9e9d-cbd44db61bfa/lumentum-stock-soars-as-ai.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T16:27:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Lumentum stock surged Monday after the company said it would join the Nasdaq 100 index, reigniting a rally in AI-linked optical networking shares."
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella takes stand in Musk v. Altman trial",
+      "description": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
+      "url": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-11T16:26:21+00:00",
+      "category": "USA",
+      "simple_explanation": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI"
+    },
+    {
+      "title": "Stock Market Today: Dow Steady After Trump Rejects Iran; Moderna Eyes Entry (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones and oil prices rose as President Trump rejected an Iran proposal. Oil stocks and Micron were winners.",
+      "url": "https://finance.yahoo.com/m/ae7a884c-1162-3cc1-b59b-421b85c84c26/stock-market-today%3A-dow.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T16:09:56+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones and oil prices rose as President Trump rejected an Iran proposal. Oil stocks and Micron were winners."
+    },
+    {
+      "title": "Michael Burry is not a believer: 'For any stocks going parabolic reduce positions almost entirely'",
+      "description": "Michael Burry said investors should \"reject greed\" as enthusiasm around artificial intelligence and momentum-driven trades pushes valuations sharply higher.",
+      "url": "https://www.cnbc.com/2026/05/11/michael-burry-is-not-a-believer-for-any-stocks-going-parabolic-reduce-positions-almost-entirely.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-11T16:08:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Michael Burry said investors should \"reject greed\" as enthusiasm around artificial intelligence and momentum-driven trades pushes valuations sharply higher."
+    },
+    {
+      "title": "US Equity Indexes Mixed, Crude Oil Rises as Iran Peace Process Stalls",
+      "description": "US equity indexes traded mixed midday Monday, while crude oil futures rose, after President Donald T",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-crude-160413965.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T16:04:13+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity indexes traded mixed midday Monday, while crude oil futures rose, after President Donald T"
+    },
+    {
+      "title": "Early Lenskart investor Alpha Wave trims stake by 2.5% in open market",
+      "description": "Alpha Wave Ventures reduced its stake in Lenskart through a major open market transaction, selling 2.46% holding in the eyewear retailer. Despite the stake sale, analysts remain optimistic on Lenskart’s long-term growth, citing strong revenue potential, operational scale and improving profitability ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/early-lenskart-investor-alpha-wave-trims-stake-by-2-5-in-open-market/articleshow/131018489.cms",
+      "image": "https://img.etimg.com/photo/msid-131018489,imgsize-60946.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-11T16:04:02+00:00",
+      "category": "India",
+      "simple_explanation": "Alpha Wave Ventures reduced its stake in Lenskart through a major open market transaction, selling 2.46% holding in the eyewear retailer. Despite the stake sale, analysts remain optimistic on Lenskart"
+    },
+    {
+      "title": "Jewellery stocks slide after Modi urges Indians to buy less gold",
+      "description": "The call for action comes at a time when retailers are already struggling to ensure volume growth due to record high gold prices",
+      "url": "https://www.livemint.com/market/jewellery-stocks-slide-as-pm-modi-calls-for-lower-gold-imports-kalyan-titan-senco-11778503428435.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/11/1600x900/logo/gold_jewel_1677948250353_1778514750057.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-11T16:00:15+00:00",
+      "category": "India",
+      "simple_explanation": "The call for action comes at a time when retailers are already struggling to ensure volume growth due to record high gold prices"
+    },
+    {
+      "title": "Satin Creditcare profit jumps on lower bad loan provisions",
+      "description": "Satin Creditcare Network reported a sharp rise in fourth-quarter profit driven by business growth, lower bad loan provisions and improved asset quality. The microfinance lender also recorded strong annual earnings growth, while assets under management expanded steadily across its lending businesses.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/satin-creditcare-profit-jumps-on-lower-bad-loan-provisions/articleshow/131018362.cms",
+      "image": "https://img.etimg.com/photo/msid-131018362,imgsize-5164.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-11T15:57:09+00:00",
+      "category": "India",
+      "simple_explanation": "Satin Creditcare Network reported a sharp rise in fourth-quarter profit driven by business growth, lower bad loan provisions and improved asset quality. The microfinance lender also recorded strong an"
+    },
+    {
+      "title": "Upcoming IPO: Gaurik Fashion files DRHP with SEBI to raise funds through public issue",
+      "description": "Gaurik Fashion submitted its Draft Red Herring Prospectus on May 10, 2026, to raise funds via an IPO of up to 70,00,000 equity shares. Proceeds will fund new stores, debt repayment, and corporate purposes. The shares will be listed on Indian stock exchanges.",
+      "url": "https://www.livemint.com/market/ipo/upcoming-ipo-gaurik-fashion-files-drhp-with-sebi-to-raise-funds-through-public-issue-11778510709213.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/11/1600x900/logo/SME_IPO_1756099341077_1756099345044_1778510706583.png",
+      "source": "LiveMint",
+      "published_at": "2026-05-11T15:50:58+00:00",
+      "category": "India",
+      "simple_explanation": "Gaurik Fashion submitted its Draft Red Herring Prospectus on May 10, 2026, to raise funds via an IPO of up to 70,00,000 equity shares. Proceeds will fund new stores, debt repayment, and corporate purp"
+    },
+    {
+      "title": "Q1 fuel losses may eliminate entire fiscal-year earnings",
+      "description": "Despite a 50 per cent surge in input crude oil prices, petrol and diesel continue to be priced at a two-year-old rate of Rs 94.77 a litre and Rs 87.67 per litre respectively. Domestic cooking gas LPG prices were raised in March by Rs 60 per cylinder, but they are still way lower than the actual cost",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/q1-fuel-losses-may-eliminate-entire-fiscal-year-earnings/articleshow/131018282.cms",
+      "image": "https://img.etimg.com/photo/msid-131018282,imgsize-102724.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-11T15:50:00+00:00",
+      "category": "India",
+      "simple_explanation": "Despite a 50 per cent surge in input crude oil prices, petrol and diesel continue to be priced at a two-year-old rate of Rs 94.77 a litre and Rs 87.67 per litre respectively. Domestic cooking gas LPG "
+    },
+    {
+      "title": "Q1 fuel losses may eliminate entire fiscal-year earnings of Indian OMCs",
+      "description": "Since the war broke out in the Middle East 10 weeks ago, state-owned oil marketing companies (OMCs) have ensured uninterrupted supplies of petrol, diesel and cooking gas LPG at rates that are way below cost, unlike many global energy systems that imposed rationing or passed through steep price incre",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/q1-fuel-losses-may-eliminate-entire-fiscal-year-earnings/articleshow/131018267.cms",
+      "image": "https://img.etimg.com/photo/msid-131018267,imgsize-25830.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-11T15:46:36+00:00",
+      "category": "India",
+      "simple_explanation": "Since the war broke out in the Middle East 10 weeks ago, state-owned oil marketing companies (OMCs) have ensured uninterrupted supplies of petrol, diesel and cooking gas LPG at rates that are way belo"
+    },
+    {
+      "title": "Groww stake sale: Peak XV, Sequoia, others to sell equity worth Rs 4,750 crore; floor price at Rs 177/share",
+      "description": "Existing investors in Groww, including Sequoia Capital and Ribbit Capital, plan to sell shares worth Rs 4,750 crore through block deals at a discount. The proposed transaction triggered a sharp decline in the stock price amid concerns over large institutional stake sales.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/groww-stake-sale-sequoia-capita-ribbit-and-yc-holdings-to-sell-equity-worth-rs-4750-crore-floor-price-at-rs-177/share/articleshow/131018175.cms",
+      "image": "https://img.etimg.com/photo/msid-131018175,imgsize-28086.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-11T15:44:08+00:00",
+      "category": "India",
+      "simple_explanation": "Existing investors in Groww, including Sequoia Capital and Ribbit Capital, plan to sell shares worth Rs 4,750 crore through block deals at a discount. The proposed transaction triggered a sharp declin"
+    },
+    {
+      "title": "Market Trading Guide: Buy Tata Consumer and Welspun Corp on Tuesday for gains up to 14%",
+      "description": "Nifty extended losses for a third straight session amid heavy selling in banking, auto and energy stocks. Analysts warned of a bearish trend after technical breakdowns below key moving averages, while recommending Tata Consumer and Welspun Corp as bullish positional trading opportunities",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-tata-consumer-and-welspun-corp-on-tuesday-for-gains-up-to-14/articleshow/131018000.cms",
+      "image": "https://img.etimg.com/photo/msid-131018000,imgsize-46266.cms",
+      "source": "ET Markets",
+      "published_at": "2026-05-11T15:39:00+00:00",
+      "category": "India",
+      "simple_explanation": "Nifty extended losses for a third straight session amid heavy selling in banking, auto and energy stocks. Analysts warned of a bearish trend after technical breakdowns below key moving averages, while"
+    },
+    {
+      "title": "Bitcoin at $80K: Is the ‘Peace Dividend’ Real or Geopolitical Lip Service?",
+      "description": "MicroStrategy Bitcoin reserve now holds approximately 818,334 Bitcoin, worth roughly $66.2Bn at current prices, making it the largest corporate holder of Bitcoin on the planet by a distance that no other company is close to closing. Chairman Michael Saylor recently confirmed the company would buy 10",
+      "url": "https://99bitcoins.com/news/bitcoin-btc/bitcoin-80k-ukraine-peace-dividend-geopolitical-risk/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T15:22:12+00:00",
+      "category": "Crypto",
+      "simple_explanation": "MicroStrategy Bitcoin reserve now holds approximately 818,334 Bitcoin, worth roughly $66.2Bn at current prices, making it the largest corporate holder of Bitcoin on the planet by a distance that no ot"
+    },
+    {
+      "title": "JPMorgan Hikes IREN Price Target to $46 but Stays Underweight on Circular NVIDIA Deal Concerns",
+      "description": "JPMorgan Chase (NYSE:JPM) raised its price target on Iren (NASDAQ:IREN) stock to $46 from $39 while keeping an Underweight rating. The unusual combination, a price target raise paired with a bearish stance, reflects the firm’s skepticism about the structure of Iren’s blockbuster NVIDIA (NASDAQ:NVDA)",
+      "url": "https://247wallst.com/investing/2026/05/11/jpmorgan-hikes-iren-price-target-to-46-but-stays-underweight-on-circular-nvidia-deal-concerns/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T15:13:40+00:00",
+      "category": "Crypto",
+      "simple_explanation": "JPMorgan Chase (NYSE:JPM) raised its price target on Iren (NASDAQ:IREN) stock to $46 from $39 while keeping an Underweight rating. The unusual combination, a price target raise paired with a bearish s"
+    },
+    {
+      "title": "Unfazed by NSE’s commodity push, market share remains intact: MCX chief",
+      "description": "MCX chief executive Praveena Rai says the bourse continues to dominate the commodity derivatives ecosystem since she took over, despite the competition launching new contracts and revising expiry schedules to gain traction.",
+      "url": "https://www.livemint.com/market/commodities/mcx-ceo-nse-competition-commodity-derivatives-11778506671163.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/11/1600x900/logo/market_1733939870783_1778511599770.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-11T15:04:53+00:00",
+      "category": "India",
+      "simple_explanation": "MCX chief executive Praveena Rai says the bourse continues to dominate the commodity derivatives ecosystem since she took over, despite the competition launching new contracts and revising expiry sche"
+    },
+    {
+      "title": "Markets tumble after Modi urges curbs on fuel use, gold buying",
+      "description": "On Monday, the Nifty 50 and the Sensex marked their steepest single-day fall since 30 March, slumping 1.49% and 1.7%, respectively.",
+      "url": "https://www.livemint.com/market/india-markets-slump-modi-consumption-curbs-investor-fears-inflation-outlook-11778501469252.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/11/1600x900/logo/3-0-86449917-iStock-1167137273-0_1679793048835_1778511266610.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-11T15:03:06+00:00",
+      "category": "India",
+      "simple_explanation": "On Monday, the Nifty 50 and the Sensex marked their steepest single-day fall since 30 March, slumping 1.49% and 1.7%, respectively."
+    },
+    {
+      "title": "B2Gold Earnings Beat Estimates in Q1 on Strong Gold Production",
+      "description": "BTG Q1 earnings more than double and revenues jump 118% y/y on strong gold output, higher prices and robust sales volumes.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/b2gold-earnings-beat-estimates-q1-150200505.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T15:02:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "BTG Q1 earnings more than double and revenues jump 118% y/y on strong gold output, higher prices and robust sales volumes."
+    },
+    {
+      "title": "Wall Street Likes This Data Center Cooling Stock. Shares Could Rise 20%.",
+      "description": "Several analysts picked up coverage of Madison Air on Monday after the cooling technology company’s April IPO.",
+      "url": "https://finance.yahoo.com/m/c4b9c72a-22b1-34fe-b7fd-2bcd79f62620/wall-street-likes-this-data.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T14:51:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Several analysts picked up coverage of Madison Air on Monday after the cooling technology company’s April IPO."
     },
     {
       "title": "975% return in six months! Multibagger stock hits upper circuit despite stock market crash",
@@ -33,84 +363,14 @@
       "simple_explanation": "On May 11, Magnus Steel &amp; Infra shares reached  ₹193, driven by its new role as a steel supplier for Tata Motors. With ongoing orders worth  ₹32.50 crore, the company aims to strengthen revenue vi"
     },
     {
-      "title": "Which Is the Better Real Estate ETF, Vanguard's Domestic-Focused VNQ or State Street's International RWX?",
-      "description": "Expense ratios and portfolio focus set these two real estate ETFs apart, despite matching yields. Explore how their holdings and risk profiles compare.",
-      "url": "https://www.fool.com/coverage/etfs/2026/05/11/which-is-the-better-real-estate-etf-vanguard-s-vnq-or-state-street-s-rwx/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T14:35:02+00:00",
-      "category": "USA",
-      "simple_explanation": "Expense ratios and portfolio focus set these two real estate ETFs apart, despite matching yields. Explore how their holdings and risk profiles compare."
-    },
-    {
-      "title": "April home sales disappoint as higher mortgage rates weigh on buyers",
-      "description": "Home sales barely moved in April, as mortgage rates shot higher the month before and uncertainty over the war with Iran weighed on consumers.",
-      "url": "https://www.cnbc.com/2026/05/11/april-home-sales-disappoint-higher-mortgage-rates.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-11T14:32:31+00:00",
-      "category": "USA",
-      "simple_explanation": "Home sales barely moved in April, as mortgage rates shot higher the month before and uncertainty over the war with Iran weighed on consumers."
-    },
-    {
-      "title": "The Hidden Drag of SPY’s Outdated UIT Structure: Why VOO’s 6.45 Basis Point Fee Advantage Matters Over a Decade",
-      "description": "SPDR S&P 500 ETF Trust (NYSEARCA:SPY) and Vanguard 500 Index Fund ETF (NYSEARCA:VOO) track the same S&P 500 index. The real contest is structure, cost, and cash flow. With the VIX at 17.39, this is a clean moment to compare them. Same Index, Same Names at the Top Both funds own identical holdings. S",
-      "url": "https://247wallst.com/investing/2026/05/11/the-hidden-drag-of-spys-outdated-uit-structure-why-voos-6-45-basis-point-fee-advantage-matters-over-a-decade/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T14:30:13+00:00",
-      "category": "USA",
-      "simple_explanation": "SPDR S&P 500 ETF Trust (NYSEARCA:SPY) and Vanguard 500 Index Fund ETF (NYSEARCA:VOO) track the same S&P 500 index. The real contest is structure, cost, and cash flow. With the VIX at 17.39, this is a "
-    },
-    {
-      "title": "Zerodha's Nikhil Kamath suggests exploring gold-based stablecoins for India",
-      "description": "Zerodha co-founder Nikhil Kamath questioned the long-term suitability of dollar-backed stablecoins for India and proposed exploring a gold-linked stablecoin. He said such a model could monetise idle household gold holdings while reducing dependence on dollar-dominated digital financial systems and s",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/zerodhas-nikhil-kamath-suggests-exploring-gold-based-stablecoins-for-india/articleshow/131016714.cms",
-      "image": "https://img.etimg.com/photo/msid-131016714,imgsize-89744.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-11T14:26:35+00:00",
-      "category": "India",
-      "simple_explanation": "Zerodha co-founder Nikhil Kamath questioned the long-term suitability of dollar-backed stablecoins for India and proposed exploring a gold-linked stablecoin. He said such a model could monetise idle h"
-    },
-    {
-      "title": "Bernstein Hikes Delta Air Lines Price Target to $88 on Better Fuel Insulation",
-      "description": "Bernstein raised its price target on Delta Air Lines (NYSE:DAL) to $88 from $81, reiterating an Outperform rating on the carrier. The firm’s thesis centers on Delta’s superior “fuel insulation,” a structural edge that matters more as oil prices remain elevated. For prudent investors, the price targe",
-      "url": "https://247wallst.com/investing/2026/05/11/bernstein-hikes-delta-air-lines-price-target-to-88-on-better-fuel-insulation/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T14:23:17+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Bernstein raised its price target on Delta Air Lines (NYSE:DAL) to $88 from $81, reiterating an Outperform rating on the carrier. The firm’s thesis centers on Delta’s superior “fuel insulation,” a str"
-    },
-    {
-      "title": "Sebi proposes allowing depositories to use part of IPF investment income for trust expenses",
-      "description": "At present, stock exchanges are permitted to use a maximum of 5 per cent of the interest or income generated from IPF investments for meeting expenses related to dedicated employees of the IPF Trust, administration of Investor Service Centres, and other statutory and administrative expenses such as ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-allowing-depositories-to-use-part-of-ipf-investment-income-for-trust-expenses/articleshow/131016553.cms",
-      "image": "https://img.etimg.com/photo/msid-131016553,imgsize-1463047.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-11T14:20:02+00:00",
-      "category": "India",
-      "simple_explanation": "At present, stock exchanges are permitted to use a maximum of 5 per cent of the interest or income generated from IPF investments for meeting expenses related to dedicated employees of the IPF Trust, "
-    },
-    {
-      "title": "Stock Market Today: Dow Wavers, Oil Rises After Trump Rejects Peace Deal; Micron, Nvidia Jump (Live Coverage)",
-      "description": "Stock Market Today: The major indexes edged lower Monday while oil prices rose on Iran tensions. Intel, Lumentum, Moderna, Micron are winners.",
-      "url": "https://finance.yahoo.com/m/ae7a884c-1162-3cc1-b59b-421b85c84c26/stock-market-today%3A-dow.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T14:18:05+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The major indexes edged lower Monday while oil prices rose on Iran tensions. Intel, Lumentum, Moderna, Micron are winners."
-    },
-    {
-      "title": "Alphabet considers first yen bond sale to fund AI goals",
-      "description": "The person was not ​authorized to speak on the matter and declined to be identified. Alphabet did not immediately respond to ​a Reuters request on the offering size.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/alphabet-considers-first-yen-bond-sale-to-fund-ai-goals/articleshow/131016471.cms",
-      "image": "https://img.etimg.com/photo/msid-131016471,imgsize-47296.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-11T14:17:52+00:00",
-      "category": "India",
-      "simple_explanation": "The person was not ​authorized to speak on the matter and declined to be identified. Alphabet did not immediately respond to ​a Reuters request on the offering size."
+      "title": "Crypto and AI could be dirty words on 2026 midterm campaign trail",
+      "description": "Voter attitudes toward the AI and crypto industries aren’t favorable in the US, and a spotlight on how much they’re spending could further alienate them ahead of the 2026 midterms.",
+      "url": "https://cointelegraph.com/features/crypto-and-ai-could-be-dirty-words-on-2026-midterm-campaign-trail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaWNlbnN1cmUtb2YtcGF5bWVudHMtc3lzdGVtcy1pcy1pdC1zZXJpb3VzLWNyeXB0by1hcy1zb2x1dGlvbi5qcGc=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-11T14:19:52+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Voter attitudes toward the AI and crypto industries aren’t favorable in the US, and a spotlight on how much they’re spending could further alienate them ahead of the 2026 midterms."
     },
     {
       "title": "Barrick Gold reports strong Q1 earnings, driven by higher production and lower costs",
@@ -123,94 +383,14 @@
       "simple_explanation": "Barrick Gold Corp. (TSX:ABX, NYSE:GOLD) shares climbed nearly 7% following the release of its first quarter 2026 results, after the company reported earnings, production, and cash flow that significan"
     },
     {
-      "title": "BofA settles allegation of insider trading rule violation with Sebi",
-      "description": "In its settlement order, the SEBI stated that a show-cause notice ​sent to BofA Securities India alleged the firm's failure to maintain ​the structured digital database required by insider trading regulations. BofA declined to comment on the settlement order ​and the allegations.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bofa-settles-allegation-of-insider-trading-rule-violation-with-sebi/articleshow/131016406.cms",
-      "image": "https://img.etimg.com/photo/msid-131016406,imgsize-124062.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-11T14:15:04+00:00",
-      "category": "India",
-      "simple_explanation": "In its settlement order, the SEBI stated that a show-cause notice ​sent to BofA Securities India alleged the firm's failure to maintain ​the structured digital database required by insider trading reg"
-    },
-    {
-      "title": "Cole Allen pleads not guilty to trying to assassinate Trump",
-      "description": "Allen is accused of trying to kill Trump, transporting firearms interstate, discharging a firearm during an act of violence and assaulting law enforcement.",
-      "url": "https://www.cnbc.com/2026/05/11/trump-cole-allen-whcd-pleads-not-guilty-assassination-attempt.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-11T14:14:30+00:00",
-      "category": "USA",
-      "simple_explanation": "Allen is accused of trying to kill Trump, transporting firearms interstate, discharging a firearm during an act of violence and assaulting law enforcement."
-    },
-    {
-      "title": "Wall Street Sees Recession Risk Fading in 2026 — but 2027 Flashing Warning Signs",
-      "description": "The economy is sending investors mixed signals again. The stock market continues climbing to fresh highs, corporate profits remain healthy, and the labor market still looks resilient. Yet many Americans walking through the grocery aisle or filling up their gas tanks would tell you the economy feels ",
-      "url": "https://247wallst.com/investing/2026/05/11/wall-street-sees-recession-risk-fading-in-2026-but-2027-flashing-warning-signs/?.tsrc=rss",
+      "title": "Barrick Mining (B) Tops Q1 Expectations on Strong Gold Production and Cash Flow Growth",
+      "description": "Barrick Mining Corporation (NYSE:B) reported first-quarter results on Monday that came in ahead of analyst expectations, supported by stronger gold output, lower costs and sharply higher cash flow. The company posted adjusted earnings per share of $0.",
+      "url": "https://investorshub.advfn.com/market-news/article/28163/barrick-mining-b-tops-q1-expectations-on-strong-gold-production-and-cash-flow-growth?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-05-11T14:12:40+00:00",
+      "published_at": "2026-05-11T14:15:29+00:00",
       "category": "Commodities",
-      "simple_explanation": "The economy is sending investors mixed signals again. The stock market continues climbing to fresh highs, corporate profits remain healthy, and the labor market still looks resilient. Yet many America"
-    },
-    {
-      "title": "Gas prices in Philly today; How much is gas near me?",
-      "description": "Gas prices are still spiked in and around the Philadelphia area. Here's a breakdown of what it could cost you to fill your tank.",
-      "url": "https://www.usatoday.com/story/news/2026/05/11/how-much-is-gas-in-philly-today-gas-prices-near-me/90026238007/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T14:11:02+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gas prices are still spiked in and around the Philadelphia area. Here's a breakdown of what it could cost you to fill your tank."
-    },
-    {
-      "title": "Can this massive rally in AI chip stocks continue? Bernstein answers",
-      "description": "Investing.com -- The Philadelphia Semiconductor Index has surged 66% in just five months and 162% year-on-year, dwarfing returns in the S&P 500 and Nasdaq, but Bernstein analyst Stacy Rasgon believes the rally has further to run, because it has been driven almost entirely by earnings growth rather t",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/massive-rally-ai-chip-stocks-140915412.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T14:09:15+00:00",
-      "category": "USA",
-      "simple_explanation": "Investing.com -- The Philadelphia Semiconductor Index has surged 66% in just five months and 162% year-on-year, dwarfing returns in the S&P 500 and Nasdaq, but Bernstein analyst Stacy Rasgon believes "
-    },
-    {
-      "title": "Oil jumps 4% as Trump rejects Iran’s response to ceasefire proposal",
-      "description": "Oil prices jumped on Monday morning while European markets edged lower and Asian stocks rose to new all time highs after US President Donald Trump rejected Tehran’s response to the latest proposal on ending the war in Iran.View on euronews",
-      "url": "https://www.euronews.com/2026/05/11/oil-jumps-4-after-trump-rejects-irans-response-to-ceasefire-proposal?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T14:08:17+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil prices jumped on Monday morning while European markets edged lower and Asian stocks rose to new all time highs after US President Donald Trump rejected Tehran’s response to the latest proposal on "
-    },
-    {
-      "title": "JPMorgan issues stark warning on gas prices and inflation",
-      "description": "The U.S.-Iran conflict, now in its third month, has torn through global oil supply at a historic pace. Yet prices at the pump, while painful, haven't spiked as violently as past crises might suggest. JPMorgan says it's a warning sign that something far more unsettling is occurring beneath the ...",
-      "url": "https://www.thestreet.com/investing/jpmorgan-issues-stark-warning-on-gas-prices-and-inflation?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T14:07:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The U.S.-Iran conflict, now in its third month, has torn through global oil supply at a historic pace. Yet prices at the pump, while painful, haven't spiked as violently as past crises might suggest. "
-    },
-    {
-      "title": "SPSM and IJR Own Identical Portfolios. Here's Why the Choice Still Matters.",
-      "description": "Expense ratios and dividend yields set these two small-cap ETFs apart, despite nearly identical returns and risk profiles over five years.",
-      "url": "https://www.fool.com/coverage/etfs/2026/05/11/spsm-and-ijr-own-identical-portfolios-here-s-why-the-choice-still-matters/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T14:05:02+00:00",
-      "category": "USA",
-      "simple_explanation": "Expense ratios and dividend yields set these two small-cap ETFs apart, despite nearly identical returns and risk profiles over five years."
-    },
-    {
-      "title": "Indian Hotels Q4 Results: Net profit rises 15% YoY to  ₹600 crore; announces dividend of  ₹3.25 per share",
-      "description": "Indian Hotels Company reported a Q4FY26 net profit of  ₹600 crore, a 15% YoY increase. Revenue rose 14% to  ₹2,845 crore, driven by strong hotel segment performance. The company anticipates opening 60 new hotels in FY27, with optimistic demand forecasts.",
-      "url": "https://www.livemint.com/market/stock-market-news/indian-hotels-q4-results-net-profit-rises-15-yoy-to-rs-600-crore-announces-dividend-of-rs-3-25-per-share-11778506278980.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/11/1600x900/logo/Hidden_cameras_1751964997023_1751964997174_1778506274798.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-11T14:04:29+00:00",
-      "category": "India",
-      "simple_explanation": "Indian Hotels Company reported a Q4FY26 net profit of  ₹600 crore, a 15% YoY increase. Revenue rose 14% to  ₹2,845 crore, driven by strong hotel segment performance. The company anticipates opening 60"
+      "simple_explanation": "Barrick Mining Corporation (NYSE:B) reported first-quarter results on Monday that came in ahead of analyst expectations, supported by stronger gold output, lower costs and sharply higher cash flow. Th"
     },
     {
       "title": "Augustus gets conditional OCC approval for AI and stablecoin bank",
@@ -221,186 +401,6 @@
       "published_at": "2026-05-11T14:03:01+00:00",
       "category": "Crypto",
       "simple_explanation": "Peter Thiel-backed Augustus has won conditional OCC approval for a US bank charter focused on AI-driven payments and stablecoin settlement infrastructure."
-    },
-    {
-      "title": "Larvotto identifies tungsten opportunities at Curry’s Block prospect",
-      "description": "Larvotto is fast‑tracking its evaluation of tungsten potential across the Hillgrove Project.",
-      "url": "https://www.mining-technology.com/news/larvotto-tungsten-opportunities-currys-block/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T14:02:27+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Larvotto is fast‑tracking its evaluation of tungsten potential across the Hillgrove Project."
-    },
-    {
-      "title": "Wall Street upside? HSBC sees S&P 500 at 8,000, raises 2026 target as AI boom and tech earnings fuel optimism",
-      "description": "HSBC raised its 2026 S&P 500 target to 7,650, citing strong corporate earnings and resilient technology stocks. The brokerage said improving AI adoption, broader market participation and easing macro conditions could potentially push the index beyond the 8,000 mark despite lingering inflation and oi",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-upside-hsbc-sees-sp-500-at-8000-raises-2026-target-as-ai-boom-and-tech-earnings-fuel-optimism/articleshow/131016042.cms",
-      "image": "https://img.etimg.com/photo/msid-131016042,imgsize-23784.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-11T13:56:57+00:00",
-      "category": "India",
-      "simple_explanation": "HSBC raised its 2026 S&P 500 target to 7,650, citing strong corporate earnings and resilient technology stocks. The brokerage said improving AI adoption, broader market participation and easing macro "
-    },
-    {
-      "title": "Strategy resumes Bitcoin acquisitions with $43M BTC buy",
-      "description": "Strategy added $43 million in Bitcoin last week after Michael Saylor drew mixed investor reactions for signaling potential BTC sales to fund dividend payments.",
-      "url": "https://cointelegraph.com/news/strategy-resumes-bitcoin-acquisitions-43m-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1idXktYml0Y29pbi5qcGc=.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-11T13:53:40+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Strategy added $43 million in Bitcoin last week after Michael Saylor drew mixed investor reactions for signaling potential BTC sales to fund dividend payments."
-    },
-    {
-      "title": "Cerebras bumps up IPO range as it looks to raise up to $4.8 billion",
-      "description": "Elon Musk was open to having OpenAI merge with Cerebras. Now Cerebras is looking at going public as soon as this week.",
-      "url": "https://www.cnbc.com/2026/05/11/cerebras-raises-ipo-range.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-11T13:46:26+00:00",
-      "category": "USA",
-      "simple_explanation": "Elon Musk was open to having OpenAI merge with Cerebras. Now Cerebras is looking at going public as soon as this week."
-    },
-    {
-      "title": "BSE launches F&O trading on IT index; debut day turnover at Rs 148 crore",
-      "description": "BSE launched India’s first futures and options contracts linked to the Focused IT Index, offering investors new hedging and trading opportunities in the technology sector. The launch attracted strong participation, reflecting growing interest in sector-specific derivatives amid evolving market dynam",
-      "url": "https://economictimes.indiatimes.com/markets/options/bse-launches-fo-trading-on-it-index-debut-day-turnover-at-rs-148-crore/articleshow/131015771.cms",
-      "image": "https://img.etimg.com/photo/msid-131015771,imgsize-44296.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-11T13:41:27+00:00",
-      "category": "India",
-      "simple_explanation": "BSE launched India’s first futures and options contracts linked to the Focused IT Index, offering investors new hedging and trading opportunities in the technology sector. The launch attracted strong "
-    },
-    {
-      "title": "Hantavirus cases spark surge in pharma and biotech stocks — here’s why",
-      "description": "The outbreak of Hantavirus on a cruise ship has led to biotech and pharmaceutical stocks surging on reports of firms developing vaccines.",
-      "url": "https://www.cnbc.com/2026/05/11/hantavirus-cases-pharma-stocks-surge-moderna-novavax.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-11T13:41:19+00:00",
-      "category": "USA",
-      "simple_explanation": "The outbreak of Hantavirus on a cruise ship has led to biotech and pharmaceutical stocks surging on reports of firms developing vaccines."
-    },
-    {
-      "title": "SPDR Gold Shares vs iShares Gold Trust Fees Liquidity Compared",
-      "description": "Expense ratios and trading volumes set these two gold ETFs apart, shaping their appeal for different investor priorities and strategies.",
-      "url": "https://www.fool.com/coverage/etfs/2026/05/11/spdr-gold-shares-vs-ishares-gold-trust-fees-liquidity-compared/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T13:35:02+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Expense ratios and trading volumes set these two gold ETFs apart, shaping their appeal for different investor priorities and strategies."
-    },
-    {
-      "title": "DAPPOS launches xBubble: An AI agent that learns and uses AI for you",
-      "description": "xBubble allows users to complete specific tasks with simpler prompts by automatically building and dispatching task-specific AI agents.",
-      "url": "https://cointelegraph.com/press-releases/dappos-launches-xbubble-an-ai-agent-that-learns-and-uses-ai-for-you?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hMTJkODM1NWQzZGJlM2E4MmRlODlmODNmNDc4MmU2Yi5qcGc=.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-11T13:30:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "xBubble allows users to complete specific tasks with simpler prompts by automatically building and dispatching task-specific AI agents."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-11T13:19:34+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-    },
-    {
-      "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Monday as Trump Rejects Reported Iran Proposal",
-      "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.1% and the actively tr",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-130725999.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T13:07:25+00:00",
-      "category": "USA",
-      "simple_explanation": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.1% and the actively tr"
-    },
-    {
-      "title": "US Equity Futures Slightly Lower Pre-Bell as Trump Rejects Iran's Response to Peace Proposal, Oil Prices Rise",
-      "description": "US equity futures were marginally lower pre-bell Monday as President Donald Trump rejected Iran's re",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slightly-lower-130151715.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T13:01:51+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity futures were marginally lower pre-bell Monday as President Donald Trump rejected Iran's re"
-    },
-    {
-      "title": "USDC issuer Circle raises $222M in Arc token presale valued at $3B",
-      "description": "Circle raised $222 million in an ARC token presale led by a16z Crypto as Q1 revenue hit $694 million and USDC circulation climbed to $77 billion.",
-      "url": "https://cointelegraph.com/news/circle-raise-222-million-arc-token-presale-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1qYXBhbi10YXhlcy1vbi1pbnZlc3RtZW50cy1leHBsYWluZWQuanBn.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-11T13:00:50+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Circle raised $222 million in an ARC token presale led by a16z Crypto as Q1 revenue hit $694 million and USDC circulation climbed to $77 billion."
-    },
-    {
-      "title": "Apollo Reports High-Grade Silver, Gold and Barite Results at Calico",
-      "description": "Outcrop Sample Assays up to 1,280 g/t Silver at Mule and 76.12% Barite at LangtryVANCOUVER, British Columbia, May 11, 2026 (GLOBE NEWSWIRE) -- Apollo Silver Corp. (“Apollo Silver” or the “Company”) (TSX.V:APGO, OTCQB:APGOF, Frankfurt:6ZF) is pleased to report results from its ground geological mappi",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/apollo-reports-high-grade-silver-125500173.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T12:55:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Outcrop Sample Assays up to 1,280 g/t Silver at Mule and 76.12% Barite at LangtryVANCOUVER, British Columbia, May 11, 2026 (GLOBE NEWSWIRE) -- Apollo Silver Corp. (“Apollo Silver” or the “Company”) (T"
-    },
-    {
-      "title": "Update: Barrick Gold's Q1 Adjusted Net Earnings Climb 173% YoY, Lower Dividend As Part of New Dividend Policy",
-      "description": "(Adding share price move in first paragraph, additional background information on the dividend in pa",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/barrick-gold-apos-q1-adjusted-124719007.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T12:47:19+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Adding share price move in first paragraph, additional background information on the dividend in pa"
-    },
-    {
-      "title": "XRP metrics line up bull signals for ‘full-scale rally’ to $2",
-      "description": "XRP is giving hints that a price breakout may be underway, based on several technical and onchain indicators, with bulls eyeing $2 as the first stop.",
-      "url": "https://cointelegraph.com/markets/xrp-metrics-line-up-bull-signals-full-scale-rally-2-dollars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy94cnAtY292ZXItbWF5LTExLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-11T12:46:15+00:00",
-      "category": "Crypto",
-      "simple_explanation": "XRP is giving hints that a price breakout may be underway, based on several technical and onchain indicators, with bulls eyeing $2 as the first stop."
-    },
-    {
-      "title": "US stock market today: S&P 500, Nasdaq futures steady after Trump rejects Iran proposal; crude spikes",
-      "description": "US stock futures showed a cautious opening on 11 May, with S&amp;P 500 futures down 0.1% and Dow futures down 0.2%. Investors are monitoring Middle East tensions and awaiting US inflation data, while a rebound in crude oil prices raises concerns about market volatility.",
-      "url": "https://www.livemint.com/market/us-stock-market-today-s-p-500-nasdaq-futures-steady-after-trump-rejects-iran-proposal-crude-spikes-11778499448010.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/11/1600x900/logo/Financial-Markets-Wall-Street-2_1743630625527_1778499998570.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-11T12:39:20+00:00",
-      "category": "India",
-      "simple_explanation": "US stock futures showed a cautious opening on 11 May, with S&amp;P 500 futures down 0.1% and Dow futures down 0.2%. Investors are monitoring Middle East tensions and awaiting US inflation data, while "
-    },
-    {
-      "title": "Market likely to enter recovery phase; this could be right time to invest in Nifty 50 index funds, say experts",
-      "description": "As the Indian equity market shows signs of recovery, experts recommend investing in Nifty 50 index funds for long-term gains. These funds offer diversification, low costs, and exposure to top companies, making them a strategic choice for investors looking to benefit from market trends.",
-      "url": "https://www.livemint.com/market/stock-market-news/market-likely-to-enter-recovery-phase-this-could-be-right-time-to-invest-in-nifty-50-index-funds-say-experts-11778502518044.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/11/1600x900/logo/mutual_fund_5_1773132296397_1773132307307_1778502735774.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-11T12:34:13+00:00",
-      "category": "India",
-      "simple_explanation": "As the Indian equity market shows signs of recovery, experts recommend investing in Nifty 50 index funds for long-term gains. These funds offer diversification, low costs, and exposure to top companie"
-    },
-    {
-      "title": "Canadian Goldfields Appoints Ian Dasti as Vice President Exploration",
-      "description": "Vancouver, British Columbia--(Newsfile Corp. - May 11, 2026) - Canadian Goldfields Discovery Corp. (TSXV: CGM) (OTCQB: CGMXF) (the \"Company\") is pleased to announce the appointment of Mr. Ian Dasti, P. Geo, as Vice President Exploration. Mr. Dasti is a senior geoscientist with 17 years of experience",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/canadian-goldfields-appoints-ian-dasti-123000134.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T12:30:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - May 11, 2026) - Canadian Goldfields Discovery Corp. (TSXV: CGM) (OTCQB: CGMXF) (the \"Company\") is pleased to announce the appointment of Mr. Ian Dasti, P"
     }
   ]
 }
