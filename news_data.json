@@ -1,16 +1,246 @@
 {
-  "last_updated": "2026-05-11T19:48:44.654150+00:00",
+  "last_updated": "2026-05-11T21:17:59.908960+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Google says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'",
+      "description": "Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model.",
+      "url": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-11T21:13:21+00:00",
+      "category": "USA",
+      "simple_explanation": "Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model."
+    },
+    {
+      "title": "US Equity Indexes Advance, Treasury Yields Rise With Crude Oil as Trump Explores Options to Tame Iran",
+      "description": "US equity indexes rose on Monday, alongside crude oil futures and Treasury yields, as President Dona",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-treasury-210926452.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T21:09:26+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity indexes rose on Monday, alongside crude oil futures and Treasury yields, as President Dona"
+    },
+    {
+      "title": "CME cattle futures pare losses after falling on US beef import plan",
+      "description": "USA-LIVESTOCK/:LIVESTOCK-CME cattle futures pare losses after falling on US beef import plan",
+      "url": "https://www.livemint.com/market/cme-cattle-futures-pare-losses-after-falling-on-us-beef-import-plan-11778533497911.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+      "source": "LiveMint",
+      "published_at": "2026-05-11T21:04:57+00:00",
+      "category": "India",
+      "simple_explanation": "USA-LIVESTOCK/:LIVESTOCK-CME cattle futures pare losses after falling on US beef import plan"
+    },
+    {
+      "title": "Cardinal Energy Ltd. Announces Monthly Dividend for May",
+      "description": "Calgary, Alberta--(Newsfile Corp. - May 11, 2026) - Cardinal Energy Ltd. (TSX: CJ) (\"Cardinal\" or the \"Company\") confirms that our May dividend of $0.06 per common share will be paid on June 15, 2026 to shareholders of record on May 29, 2026. The Board of Directors of Cardinal has declared the divid",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/cardinal-energy-ltd-announces-monthly-210100419.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T21:01:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Calgary, Alberta--(Newsfile Corp. - May 11, 2026) - Cardinal Energy Ltd. (TSX: CJ) (\"Cardinal\" or the \"Company\") confirms that our May dividend of $0.06 per common share will be paid on June 15, 2026 "
+    },
+    {
+      "title": "K92 Mining Announces Strong Q1 2026 Financial Results – Record Quarterly Revenue, Net Income, Operating Cash Flow, EBITDA and Net Cash Position",
+      "description": "VANCOUVER, British Columbia, May 11, 2026 (GLOBE NEWSWIRE) -- K92 Mining Inc. (“K92” or the “Company”) (TSX: KNT; OTCQX: KNTNF) is pleased to announce financial results for the three months ended March 31, 2026. Production Strong quarterly production of 46,743 ounces gold equivalent (“AuEq”)(1) or 4",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/k92-mining-announces-strong-q1-210000814.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T21:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "VANCOUVER, British Columbia, May 11, 2026 (GLOBE NEWSWIRE) -- K92 Mining Inc. (“K92” or the “Company”) (TSX: KNT; OTCQX: KNTNF) is pleased to announce financial results for the three months ended Marc"
+    },
+    {
+      "title": "National Energy Services Reunited Corp. Q1 2026 Earnings Call Summary",
+      "description": "Moby summary of National Energy Services Reunited Corp.'s Q1 2026 earnings call",
+      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-national-energy-services-reunited-corp-q1-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T20:58:39+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Moby summary of National Energy Services Reunited Corp.'s Q1 2026 earnings call"
+    },
+    {
+      "title": "Dow Jones Futures: AI, Chip Stocks Thrive Despite Oil Prices, Trump Comments; CPI Inflation Due",
+      "description": "The major indexes rose slightly Monday as AI and chips shrugged off higher oil prices as Trump said Iran ceasefire \"on life support.\"",
+      "url": "https://finance.yahoo.com/m/0994977b-17f2-37cd-920f-ab04cf3be305/dow-jones-futures%3A-ai%2C-chip.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T20:52:53+00:00",
+      "category": "USA",
+      "simple_explanation": "The major indexes rose slightly Monday as AI and chips shrugged off higher oil prices as Trump said Iran ceasefire \"on life support.\""
+    },
+    {
+      "title": "S&P 500, Nasdaq Reach New Peaks as Traders Track US-Iran Conflict",
+      "description": "The S&P 500 and the Nasdaq Composite hit fresh highs on Monday as traders continued to track develop",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-reach-peaks-205223932.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T20:52:23+00:00",
+      "category": "USA",
+      "simple_explanation": "The S&P 500 and the Nasdaq Composite hit fresh highs on Monday as traders continued to track develop"
+    },
+    {
+      "title": "TSX gains as commodity stocks rise, closes near three-week high",
+      "description": "CANADA-STOCKS/ (UPDATE 1):CANADA STOCKS-TSX gains as commodity stocks rise, closes near three-week high",
+      "url": "https://www.livemint.com/market/tsx-gains-as-commodity-stocks-rise-closes-near-three-week-high-11778532203982.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+      "source": "LiveMint",
+      "published_at": "2026-05-11T20:43:23+00:00",
+      "category": "India",
+      "simple_explanation": "CANADA-STOCKS/ (UPDATE 1):CANADA STOCKS-TSX gains as commodity stocks rise, closes near three-week high"
+    },
+    {
+      "title": "A Look Back at U.S. Shale E&P Stocks’ Q1 Earnings: Permian Resources (NYSE:PR) Vs The Rest Of The Pack",
+      "description": "Quarterly earnings results are a good time to check in on a company’s progress, especially compared to its peers in the same sector. Today we are looking at Permian Resources (NYSE:PR) and the best and worst performers in the U.S. shale E&P industry.",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/look-back-u-shale-e-203655924.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T20:36:55+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Quarterly earnings results are a good time to check in on a company’s progress, especially compared to its peers in the same sector. Today we are looking at Permian Resources (NYSE:PR) and the best an"
+    },
+    {
+      "title": "Circle Breaks Out, Crypto Stocks Surge Ahead Of Clarity Act Hearing",
+      "description": "Circle Internet tops earnings views, USDC stablecoin circulation booms. Crypto stocks jump ahead of Senate hearing on the Clarity Act.",
+      "url": "https://finance.yahoo.com/m/713ae925-1329-385d-859d-808b07d65ab2/circle-breaks-out%2C-crypto.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T20:35:59+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Circle Internet tops earnings views, USDC stablecoin circulation booms. Crypto stocks jump ahead of Senate hearing on the Clarity Act."
+    },
+    {
+      "title": "1 Top Wall Street Analyst Thinks CRISPR Therapeutics Could More Than Double. Should You Buy the Stock Hand Over Fist?",
+      "description": "The biotech's innovative platform could pay off.",
+      "url": "https://www.fool.com/investing/2026/05/11/1-top-wall-street-analyst-thinks-crispr-therapeuti/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T20:35:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The biotech's innovative platform could pay off."
+    },
+    {
+      "title": "Wall St inches to higher close, AI fervor edges out Iran impasse",
+      "description": "USA-STOCKS/ (UPDATE 7):US STOCKS-Wall St inches to higher close, AI fervor edges out Iran impasse",
+      "url": "https://www.livemint.com/market/wall-st-inches-to-higher-close-ai-fervor-edges-out-iran-impasse-11778531402736.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-11T20:30:02+00:00",
+      "category": "India",
+      "simple_explanation": "USA-STOCKS/ (UPDATE 7):US STOCKS-Wall St inches to higher close, AI fervor edges out Iran impasse"
+    },
+    {
+      "title": "Minera Alamos Strengthens Board and Management Team and Proposes Name Change to Mining Americas Inc.",
+      "description": "Toronto, Ontario--(Newsfile Corp. - May 11, 2026) - Minera Alamos Inc. (TSXV: MAI) (OTCQX: MAIFF) (\"Minera Alamos\" or the \"Company\") is pleased to announce a series of Board and management changes designed to support the Company's strategy of becoming a leading, U.S.-focused intermediate gold produc",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/minera-alamos-strengthens-board-management-203000308.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T20:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Toronto, Ontario--(Newsfile Corp. - May 11, 2026) - Minera Alamos Inc. (TSXV: MAI) (OTCQX: MAIFF) (\"Minera Alamos\" or the \"Company\") is pleased to announce a series of Board and management changes des"
+    },
+    {
+      "title": "Fortitude Gold Reports First Quarter 2026 Financial Results",
+      "description": "COLORADO SPRINGS, CO / ACCESS Newswire / May 11, 2026 / Fortitude Gold Corporation (OTCQB:FTCO) (the \"Company\") today reported its first quarter 2026 results including $3.2 million net sales, $1.7 million in exploration expense, $0.8 million cash ...",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/fortitude-gold-reports-first-quarter-203000309.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T20:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "COLORADO SPRINGS, CO / ACCESS Newswire / May 11, 2026 / Fortitude Gold Corporation (OTCQB:FTCO) (the \"Company\") today reported its first quarter 2026 results including $3.2 million net sales, $1.7 mil"
+    },
     {
       "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
       "description": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
       "url": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-05-11T19:44:40+00:00",
+      "published_at": "2026-05-11T20:25:21+00:00",
       "category": "USA",
       "simple_explanation": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI"
+    },
+    {
+      "title": "How major US stock indexes fared Monday 5/11/2026",
+      "description": "Oil prices rose as the war with Iran threatens to drag on, but U.S. stocks nevertheless inched to more records.  The price for a barrel of Brent crude oil climbed 2.9% to top $104 Monday after President Donald Trump said the U.S.-Iran ceasefire was on life support after he rejected Iran’s latest pro",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201956764.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T20:19:56+00:00",
+      "category": "USA",
+      "simple_explanation": "Oil prices rose as the war with Iran threatens to drag on, but U.S. stocks nevertheless inched to more records.  The price for a barrel of Brent crude oil climbed 2.9% to top $104 Monday after Preside"
+    },
+    {
+      "title": "US Equity Markets End Higher Despite Renewed US-Iran Tensions",
+      "description": "US equity indexes ended higher on Monday even as President Donald Trump rejected Iran's response to",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-201545099.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T20:15:45+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity indexes ended higher on Monday even as President Donald Trump rejected Iran's response to"
+    },
+    {
+      "title": "NiSource declares common stock dividend",
+      "description": "MERRILLVILLE, Ind., May 11, 2026--The board of directors of NiSource Inc. (NYSE: NI) today declared a quarterly common stock dividend payment of $0.30 cents per share, payable August 20, 2026, to stockholders of record at the close of business on July 31, 2026.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nisource-declares-common-stock-dividend-201500189.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-11T20:15:00+00:00",
+      "category": "USA",
+      "simple_explanation": "MERRILLVILLE, Ind., May 11, 2026--The board of directors of NiSource Inc. (NYSE: NI) today declared a quarterly common stock dividend payment of $0.30 cents per share, payable August 20, 2026, to stoc"
+    },
+    {
+      "title": "Price predictions 5/11: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
+      "description": "Bitcoin looks set for another blockbuster week, but potential resistance at $84,000 could complicate the rally. Will altcoin consolidation continue?",
+      "url": "https://cointelegraph.com/markets/price-predictions-511-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hbmFseXRpY3Mtd2VsZGluZy5qcGc=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-11T20:12:42+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin looks set for another blockbuster week, but potential resistance at $84,000 could complicate the rally. Will altcoin consolidation continue?"
+    },
+    {
+      "title": "Ripple receives $200M credit line to expand institutional prime brokerage",
+      "description": "Financing from Neuberger Berman will increase Ripple Prime’s capacity to offer margin lending and other brokerage services to institutional clients trading across crypto and traditional markets.",
+      "url": "https://cointelegraph.com/news/ripple-secures-200m-credit-facility-expand-institutional-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctZG9lcy1jcnlwdG8tbGVuZGluZy13b3JrMS5qcGc=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-11T20:12:35+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Financing from Neuberger Berman will increase Ripple Prime’s capacity to offer margin lending and other brokerage services to institutional clients trading across crypto and traditional markets."
+    },
+    {
+      "title": "OpenAI revenue chief Dresser says enterprise AI adoption is 'at a tipping point'",
+      "description": "The OpenAI Development Company is a partnership with 19 investment and consultancy firms and is majority-owned and controlled by the startup.",
+      "url": "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-11T20:04:09+00:00",
+      "category": "USA",
+      "simple_explanation": "The OpenAI Development Company is a partnership with 19 investment and consultancy firms and is majority-owned and controlled by the startup."
+    },
+    {
+      "title": "US stocks today: S&P 500 inches to higher close, AI fervor edges out Iran impasse",
+      "description": "US stocks closed slightly higher as AI-driven momentum lifted semiconductor shares, even as rising crude prices and stalled US-Iran talks kept inflation worries alive. Strong earnings supported sentiment, with over 80% S&P 500 firms beating estimates. Focus now shifts to US inflation data and key ma",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-inches-to-higher-close-ai-fervor-edges-out-iran-impasse/articleshow/131023447.cms",
+      "image": "https://img.etimg.com/photo/msid-131023447,imgsize-243302.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-11T20:03:16+00:00",
+      "category": "India",
+      "simple_explanation": "US stocks closed slightly higher as AI-driven momentum lifted semiconductor shares, even as rising crude prices and stalled US-Iran talks kept inflation worries alive. Strong earnings supported sentim"
+    },
+    {
+      "title": "MoonPay makes prediction markets push with Dawn Labs buy, AI tool launch",
+      "description": "The payments company acquired Dawn Labs for an undisclosed amount, immediately announcing the creation of an AI tool that would provide “custom strategies” for trading on prediction markets.",
+      "url": "https://cointelegraph.com/news/moonpay-dawn-labs-ai-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1lcmljeC1sYXVuY2hlcy1zcG90LW1hcmtldC0zLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-11T19:46:59+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The payments company acquired Dawn Labs for an undisclosed amount, immediately announcing the creation of an AI tool that would provide “custom strategies” for trading on prediction markets."
     },
     {
       "title": "JPMorgan Chase-led bank group reins in credit line to troubled KKR private credit fund as losses mount",
@@ -21,46 +251,6 @@
       "published_at": "2026-05-11T19:32:25+00:00",
       "category": "Global",
       "simple_explanation": "The KKR fund, often referred to by its ticker, FSK, has become one of the most visible fault lines in the private credit story."
-    },
-    {
-      "title": "Energy Market Assessment: Consensus-beating growth + peace",
-      "description": "(Oil & Gas 360) – Consensus-Beating Growth + Peace (Achieved Peacefully Or By Force) Has Us Predict Oil Prices Lower For Consumers […]",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/energy-market-assessment-consensus-beating-193024747.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T19:30:24+00:00",
-      "category": "USA",
-      "simple_explanation": "(Oil & Gas 360) – Consensus-Beating Growth + Peace (Achieved Peacefully Or By Force) Has Us Predict Oil Prices Lower For Consumers […]"
-    },
-    {
-      "title": "OpenAI revenue chief Dresser says enterprise AI adoption is 'at a tipping point'",
-      "description": "The OpenAI Development Company is a partnership with 19 investment and consultancy firms and is majority-owned and controlled by the startup.",
-      "url": "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-11T19:24:38+00:00",
-      "category": "USA",
-      "simple_explanation": "The OpenAI Development Company is a partnership with 19 investment and consultancy firms and is majority-owned and controlled by the startup."
-    },
-    {
-      "title": "The 17 most memorable moments from Jerome Powell's 8 eventful years leading the Federal Reserve",
-      "description": "Jerome Powell's tenure as chair of the Federal Reserve ends this week. Here are key moments from his two terms leading the central bank.",
-      "url": "https://finance.yahoo.com/economy/policy/article/the-17-most-memorable-moments-from-jerome-powells-8-eventful-years-leading-the-federal-reserve-192006641.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T19:20:06+00:00",
-      "category": "USA",
-      "simple_explanation": "Jerome Powell's tenure as chair of the Federal Reserve ends this week. Here are key moments from his two terms leading the central bank."
-    },
-    {
-      "title": "Circle Internet Stock Is Up 68% in 2026: Is It Outperforming Other Crypto Stocks Like Strategy and Bitmine?",
-      "description": "Shares of Circle Internet Group (NYSE:CRCL) are surging on Monday, with CRCL stock up 16% to $132 after the stablecoin issuer released its Q1 2026 results before the open. The move pushes the stock’s year-to-date 2026 gain to roughly 68%. That puts Circle well ahead of its two highest-profile crypto",
-      "url": "https://247wallst.com/investing/2026/05/11/circle-internet-stock-is-up-68-in-2026-is-it-outperforming-other-crypto-stocks-like-strategy-and-bitmine/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T19:15:51+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Shares of Circle Internet Group (NYSE:CRCL) are surging on Monday, with CRCL stock up 16% to $132 after the stablecoin issuer released its Q1 2026 results before the open. The move pushes the stock’s "
     },
     {
       "title": "Gold.com Q1 Earnings Call Highlights",
@@ -83,16 +273,6 @@
       "simple_explanation": "WhiteHawk, a leading natural gas royalty firm, is taking the stock market plunge with its initial public offering. This comes on the heels of an astonishing 615% revenue spike in 2025, mirroring the c"
     },
     {
-      "title": "S&P 500 pullback coming? The exact levels to buy the dip",
-      "description": "Transcript: Caroline WoodsThe S&P 500 keeps pushing to record highs. But are technical warning signs starting to emerge under the surface? Adam Turnquist is chief technical strategist for LPL financial and joins us now. Adam, great to have you. Adam TurnquistHey, great to be here. Thanks for ...",
-      "url": "https://www.thestreet.com/video/sp-500-pullback-coming-the-exact-levels-to-buy-the-dip?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T18:57:29+00:00",
-      "category": "USA",
-      "simple_explanation": "Transcript: Caroline WoodsThe S&P 500 keeps pushing to record highs. But are technical warning signs starting to emerge under the surface? Adam Turnquist is chief technical strategist for LPL financia"
-    },
-    {
       "title": "Parabolic AI rally has bulls eyeing a comeback for this one-time meme metal trade",
       "description": "Silver prices surged 7% Monday to the highest since March.",
       "url": "https://www.cnbc.com/2026/05/11/parabolic-ai-rally-has-bulls-eyeing-a-comeback-for-this-one-time-meme-metal-trade.html",
@@ -101,36 +281,6 @@
       "published_at": "2026-05-11T18:49:52+00:00",
       "category": "USA",
       "simple_explanation": "Silver prices surged 7% Monday to the highest since March."
-    },
-    {
-      "title": "Update: WTI Oil Rises as the United States Rejects Iran's Response to Its Peace Proposal",
-      "description": "West Texas Intermediate (WTI) oil rose on Monday after the United States rejected Iran's response to",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/wti-oil-rises-united-states-183549901.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T18:35:49+00:00",
-      "category": "Commodities",
-      "simple_explanation": "West Texas Intermediate (WTI) oil rose on Monday after the United States rejected Iran's response to"
-    },
-    {
-      "title": "The Costly Mistake Investors Are Making With Palantir Technologies Stock",
-      "description": "Palantir's stock has been falling sharply this year, even as the business has been performing well.",
-      "url": "https://www.fool.com/investing/2026/05/11/the-costly-mistake-investors-are-making-with-palan/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T18:35:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Palantir's stock has been falling sharply this year, even as the business has been performing well."
-    },
-    {
-      "title": "TotalEnergies' CEO Says 500 Million Barrels Are Already Gone. Is It Too Late to Buy Oil Stocks?",
-      "description": "The world is experiencing a massive oil supply disruption following the closure of the Strait of Hormuz.",
-      "url": "https://www.fool.com/investing/2026/05/11/totalenergies-ceo-says-500-million-barrels-are-alr/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T18:35:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The world is experiencing a massive oil supply disruption following the closure of the Strait of Hormuz."
     },
     {
       "title": "Bitcoin Whales Have Stacked 270K BTC in 30 Days: Could It Be a Bottom Signal?",
@@ -153,56 +303,6 @@
       "simple_explanation": "The testy U.S.-Iran ceasefire began in mid-April after Trump threatened to destroy Iran's \"whole civilization\" if no deal was struck."
     },
     {
-      "title": "Google says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'",
-      "description": "Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model.",
-      "url": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-11T18:11:04+00:00",
-      "category": "USA",
-      "simple_explanation": "Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model."
-    },
-    {
-      "title": "Sector Update: Energy Stocks Rise Monday Afternoon",
-      "description": "Energy stocks were higher Monday afternoon, with the NYSE Energy Sector Index rising 2.3% and the St",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-stocks-rise-monday-180816157.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T18:08:16+00:00",
-      "category": "USA",
-      "simple_explanation": "Energy stocks were higher Monday afternoon, with the NYSE Energy Sector Index rising 2.3% and the St"
-    },
-    {
-      "title": "Wall Street says stock market euphoria has echoes of 1999, but a firmer foundation",
-      "description": "Stocks hover at record highs as some strategists signal a melt-up.",
-      "url": "https://finance.yahoo.com/markets/article/wall-street-says-stock-market-euphoria-has-echoes-of-1999-but-a-firmer-foundation-180757836.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T18:07:57+00:00",
-      "category": "USA",
-      "simple_explanation": "Stocks hover at record highs as some strategists signal a melt-up."
-    },
-    {
-      "title": "Equities Rise Intraday, Oil Jumps as Markets Montior Middle East Developments",
-      "description": "US benchmark equity indexes were higher intraday as traders appeared to shake off worries about the",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-oil-jumps-180424796.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T18:04:24+00:00",
-      "category": "USA",
-      "simple_explanation": "US benchmark equity indexes were higher intraday as traders appeared to shake off worries about the"
-    },
-    {
-      "title": "Update: Gold Steady as the U.S. Dismisses Iran's Peace Demands",
-      "description": "(Updates prices.) Gold was steady midafternoon Monday after the United States rejected Iran's res",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-steady-u-dismisses-iran-180008592.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T18:00:08+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Updates prices.) Gold was steady midafternoon Monday after the United States rejected Iran's res"
-    },
-    {
       "title": "What should be the trading strategy for jewellery stocks after Modi’s remarks and sharp correction?",
       "description": "Jewellery stocks like Kalyan Jewellers, Titan Company, and Senco Gold fell up to 10% after PM Modi urged avoiding non-essential gold purchases to protect foreign reserves. Analysts suggest long-term investors stay invested despite short-term volatility.",
       "url": "https://www.livemint.com/market/stock-market-news/what-should-be-the-trading-strategy-for-jewellery-stocks-after-modi-s-remarks-and-sharp-correction-11778520170097.html",
@@ -211,26 +311,6 @@
       "published_at": "2026-05-11T17:52:28+00:00",
       "category": "India",
       "simple_explanation": "Jewellery stocks like Kalyan Jewellers, Titan Company, and Senco Gold fell up to 10% after PM Modi urged avoiding non-essential gold purchases to protect foreign reserves. Analysts suggest long-term i"
-    },
-    {
-      "title": "The Dow Dances Around Breakeven Line",
-      "description": "The Dow continues to dance around the breakeven line today, marking small gains or losses. The index, holding the stocks of 30 companies, is trading at 49,654.66. Its been trying to break past the level of 50,000 for the past few days.",
-      "url": "https://finance.yahoo.com/m/ad4427be-56bc-3348-9a4d-aa9da085ed40/the-dow-dances-around.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T17:42:23+00:00",
-      "category": "USA",
-      "simple_explanation": "The Dow continues to dance around the breakeven line today, marking small gains or losses. The index, holding the stocks of 30 companies, is trading at 49,654.66. Its been trying to break past the lev"
-    },
-    {
-      "title": "Sector Update: Energy",
-      "description": "Energy stocks were higher Monday afternoon, with the NYSE Energy Sector Index and the State Street E",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-173815029.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T17:38:15+00:00",
-      "category": "USA",
-      "simple_explanation": "Energy stocks were higher Monday afternoon, with the NYSE Energy Sector Index and the State Street E"
     },
     {
       "title": "Bitcoin ‘golden cross’ appears for the first time since 2023: Will BTC price rally?",
@@ -283,26 +363,6 @@
       "simple_explanation": "PM Modi's call for work-from-home amid rising fuel costs reflects concerns about India's economy. Analysts suggest it indicates a prolonged oil shock, with potential impacts on the rupee and fiscal de"
     },
     {
-      "title": "Stock Market Today, May 11: Chipmakers Drive Midday Gains Despite Oil Concerns",
-      "description": "Today, May 11, 2026, AI chip leaders helped steady major U.S. indexes at midday as the Strait of Hormuz remains largely closed.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/05/11/stock-market-today-may-11-chipmakers-drive-midday-gains-despite-oil-concerns/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T17:15:02+00:00",
-      "category": "USA",
-      "simple_explanation": "Today, May 11, 2026, AI chip leaders helped steady major U.S. indexes at midday as the Strait of Hormuz remains largely closed."
-    },
-    {
-      "title": "Exchange-Traded Funds Higher, US Equities Mixed After Midday",
-      "description": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded I",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-171152086.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T17:11:52+00:00",
-      "category": "USA",
-      "simple_explanation": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded I"
-    },
-    {
       "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
       "description": "Indian benchmark indices experienced a significant sell-off on Monday, marking their third consecutive session of decline. The Nifty50 and BSE Sensex both tumbled, led by banking, automobile, and energy sectors amid investor risk aversion. Analysts suggest a weakening trend with immediate support fo",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131019167.cms",
@@ -341,66 +401,6 @@
       "published_at": "2026-05-11T16:00:15+00:00",
       "category": "India",
       "simple_explanation": "The call for action comes at a time when retailers are already struggling to ensure volume growth due to record high gold prices"
-    },
-    {
-      "title": "Satin Creditcare profit jumps on lower bad loan provisions",
-      "description": "Satin Creditcare Network reported a sharp rise in fourth-quarter profit driven by business growth, lower bad loan provisions and improved asset quality. The microfinance lender also recorded strong annual earnings growth, while assets under management expanded steadily across its lending businesses.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/satin-creditcare-profit-jumps-on-lower-bad-loan-provisions/articleshow/131018362.cms",
-      "image": "https://img.etimg.com/photo/msid-131018362,imgsize-5164.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-11T15:57:09+00:00",
-      "category": "India",
-      "simple_explanation": "Satin Creditcare Network reported a sharp rise in fourth-quarter profit driven by business growth, lower bad loan provisions and improved asset quality. The microfinance lender also recorded strong an"
-    },
-    {
-      "title": "Upcoming IPO: Gaurik Fashion files DRHP with SEBI to raise funds through public issue",
-      "description": "Gaurik Fashion submitted its Draft Red Herring Prospectus on May 10, 2026, to raise funds via an IPO of up to 70,00,000 equity shares. Proceeds will fund new stores, debt repayment, and corporate purposes. The shares will be listed on Indian stock exchanges.",
-      "url": "https://www.livemint.com/market/ipo/upcoming-ipo-gaurik-fashion-files-drhp-with-sebi-to-raise-funds-through-public-issue-11778510709213.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/11/1600x900/logo/SME_IPO_1756099341077_1756099345044_1778510706583.png",
-      "source": "LiveMint",
-      "published_at": "2026-05-11T15:50:58+00:00",
-      "category": "India",
-      "simple_explanation": "Gaurik Fashion submitted its Draft Red Herring Prospectus on May 10, 2026, to raise funds via an IPO of up to 70,00,000 equity shares. Proceeds will fund new stores, debt repayment, and corporate purp"
-    },
-    {
-      "title": "Q1 fuel losses may eliminate entire fiscal-year earnings",
-      "description": "Despite a 50 per cent surge in input crude oil prices, petrol and diesel continue to be priced at a two-year-old rate of Rs 94.77 a litre and Rs 87.67 per litre respectively. Domestic cooking gas LPG prices were raised in March by Rs 60 per cylinder, but they are still way lower than the actual cost",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/q1-fuel-losses-may-eliminate-entire-fiscal-year-earnings/articleshow/131018282.cms",
-      "image": "https://img.etimg.com/photo/msid-131018282,imgsize-102724.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-11T15:50:00+00:00",
-      "category": "India",
-      "simple_explanation": "Despite a 50 per cent surge in input crude oil prices, petrol and diesel continue to be priced at a two-year-old rate of Rs 94.77 a litre and Rs 87.67 per litre respectively. Domestic cooking gas LPG "
-    },
-    {
-      "title": "Q1 fuel losses may eliminate entire fiscal-year earnings of Indian OMCs",
-      "description": "Since the war broke out in the Middle East 10 weeks ago, state-owned oil marketing companies (OMCs) have ensured uninterrupted supplies of petrol, diesel and cooking gas LPG at rates that are way below cost, unlike many global energy systems that imposed rationing or passed through steep price incre",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/q1-fuel-losses-may-eliminate-entire-fiscal-year-earnings/articleshow/131018267.cms",
-      "image": "https://img.etimg.com/photo/msid-131018267,imgsize-25830.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-11T15:46:36+00:00",
-      "category": "India",
-      "simple_explanation": "Since the war broke out in the Middle East 10 weeks ago, state-owned oil marketing companies (OMCs) have ensured uninterrupted supplies of petrol, diesel and cooking gas LPG at rates that are way belo"
-    },
-    {
-      "title": "Market Trading Guide: Buy Tata Consumer and Welspun Corp on Tuesday for gains up to 14%",
-      "description": "Nifty extended losses for a third straight session amid heavy selling in banking, auto and energy stocks. Analysts warned of a bearish trend after technical breakdowns below key moving averages, while recommending Tata Consumer and Welspun Corp as bullish positional trading opportunities",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-tata-consumer-and-welspun-corp-on-tuesday-for-gains-up-to-14/articleshow/131018000.cms",
-      "image": "https://img.etimg.com/photo/msid-131018000,imgsize-46266.cms",
-      "source": "ET Markets",
-      "published_at": "2026-05-11T15:39:00+00:00",
-      "category": "India",
-      "simple_explanation": "Nifty extended losses for a third straight session amid heavy selling in banking, auto and energy stocks. Analysts warned of a bearish trend after technical breakdowns below key moving averages, while"
-    },
-    {
-      "title": "Bitcoin at $80K: Is the ‘Peace Dividend’ Real or Geopolitical Lip Service?",
-      "description": "MicroStrategy Bitcoin reserve now holds approximately 818,334 Bitcoin, worth roughly $66.2Bn at current prices, making it the largest corporate holder of Bitcoin on the planet by a distance that no other company is close to closing. Chairman Michael Saylor recently confirmed the company would buy 10",
-      "url": "https://99bitcoins.com/news/bitcoin-btc/bitcoin-80k-ukraine-peace-dividend-geopolitical-risk/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-11T15:22:12+00:00",
-      "category": "Crypto",
-      "simple_explanation": "MicroStrategy Bitcoin reserve now holds approximately 818,334 Bitcoin, worth roughly $66.2Bn at current prices, making it the largest corporate holder of Bitcoin on the planet by a distance that no ot"
     }
   ]
 }
