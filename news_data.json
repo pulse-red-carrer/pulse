@@ -1,26 +1,306 @@
 {
-  "last_updated": "2026-05-14T00:00:02.849486+00:00",
+  "last_updated": "2026-05-14T04:07:42.617210+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Dow Jones Futures Rise, Cisco Soars On AI Orders After Google, Nvidia, Tesla Lead S&P 500, Nasdaq To Highs",
-      "description": "The S&P 500 and Nasdaq ran higher, led by Google, Nvidia, Tesla and other titans. Cisco earnings beat while AI chipmaker Cerebras will price its IPO.",
-      "url": "https://finance.yahoo.com/m/2bbeed6b-f614-3af5-aeb5-c5470d5bd3b6/dow-jones-futures-rise%2C-cisco.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T23:49:29+00:00",
-      "category": "USA",
-      "simple_explanation": "The S&P 500 and Nasdaq ran higher, led by Google, Nvidia, Tesla and other titans. Cisco earnings beat while AI chipmaker Cerebras will price its IPO."
-    },
-    {
-      "title": "Japan's global defense business may be on the cusp of a big breakout",
-      "description": "Can Japan be a major player in the international defense sector, like its neighbor South Korea?",
-      "url": "https://www.cnbc.com/2026/05/14/japan-defense-arms-exports-weapons-south-korea.html",
+      "title": "Xi asks Trump if U.S. and China can avoid 'Thucydides Trap' at high-stakes summit",
+      "description": "U.S. President Donald Trump met Chinese President Xi Jinping in Beijing on Thursday morning for the start of a high-stakes summit that runs through Friday.",
+      "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-05-13T23:39:11+00:00",
+      "published_at": "2026-05-14T04:04:11+00:00",
       "category": "USA",
-      "simple_explanation": "Can Japan be a major player in the international defense sector, like its neighbor South Korea?"
+      "simple_explanation": "U.S. President Donald Trump met Chinese President Xi Jinping in Beijing on Thursday morning for the start of a high-stakes summit that runs through Friday."
+    },
+    {
+      "title": "Trump-Xi Summit Puts Nvidia, Boeing And 500-Jet Deal In Focus",
+      "description": "Investors are watching chips, aerospace, agriculture and rare earths as Trump and Xi head into high-stakes talks.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-xi-summit-puts-nvidia-040122496.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T04:01:22+00:00",
+      "category": "USA",
+      "simple_explanation": "Investors are watching chips, aerospace, agriculture and rare earths as Trump and Xi head into high-stakes talks."
+    },
+    {
+      "title": "In photos: Trump kicks off high-stakes summit with Xi",
+      "description": "The high-stakes summit is expected to cover a wide range of contentious topics, including trade, technology, export controls, Taiwan, and the Iran war.",
+      "url": "https://www.cnbc.com/2026/05/14/in-photos-trump-lands-in-beijing-ahead-of-high-stakes-summit-with-xi.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-14T03:58:52+00:00",
+      "category": "USA",
+      "simple_explanation": "The high-stakes summit is expected to cover a wide range of contentious topics, including trade, technology, export controls, Taiwan, and the Iran war."
+    },
+    {
+      "title": "Dhampur Sugar, Balrampur Chini among other sugar stocks fall up to 5% after India bans sugar exports",
+      "description": "Dhampur Sugar, Balrampur Chini among other sugar stocks fall up to 5% after India bans sugar exports",
+      "url": "https://www.livemint.com/market/stock-market-news/dhampur-sugar-balrampur-chini-among-other-sugar-stocks-fall-up-to-5-after-india-bans-sugar-exports-11778730753651.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/14/1600x900/Market_-_stocks_1545996587096_1778731124199.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-14T03:58:25+00:00",
+      "category": "India",
+      "simple_explanation": "Dhampur Sugar, Balrampur Chini among other sugar stocks fall up to 5% after India bans sugar exports"
+    },
+    {
+      "title": "Sensex rises over 400 points to cross 75,000; Nifty above 23,500 despite weak rupee",
+      "description": "Indian stock markets are on the rise for a second day. Sensex and Nifty opened higher on Thursday. This is happening even as oil prices remain high and the rupee nears a record low. Bharti Airtel shares are leading the gains. Other sectors like Pharma and Metal are also performing well.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-400-points-to-cross-75000-nifty-above-23500-despite-weak-rupee/articleshow/131081839.cms",
+      "image": "https://img.etimg.com/photo/msid-131081839,imgsize-17012.cms",
+      "source": "ET Markets",
+      "published_at": "2026-05-14T03:56:00+00:00",
+      "category": "India",
+      "simple_explanation": "Indian stock markets are on the rise for a second day. Sensex and Nifty opened higher on Thursday. This is happening even as oil prices remain high and the rupee nears a record low. Bharti Airtel shar"
+    },
+    {
+      "title": "Global Market: TSMC sees chip market crossing $1.5 trillion by 2030 on AI boom",
+      "description": "TSMC has raised its long-term semiconductor industry forecast, projecting the global market to exceed $1.5 trillion by 2030, driven by artificial intelligence and high-performance computing demand. The company expects rapid growth in advanced chip production and is aggressively expanding manufacturi",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-tsmc-sees-chip-market-crossing-1-5-trillion-by-2030-on-ai-boom/articleshow/131081806.cms",
+      "image": "https://img.etimg.com/photo/msid-131081806,imgsize-238280.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-14T03:51:51+00:00",
+      "category": "India",
+      "simple_explanation": "TSMC has raised its long-term semiconductor industry forecast, projecting the global market to exceed $1.5 trillion by 2030, driven by artificial intelligence and high-performance computing demand. Th"
+    },
+    {
+      "title": "Tata Motors share price jumps 3% on stellar Q4 results 2026: Should you buy, sell, or hold the Tata Group stock?",
+      "description": "Tata Motors shares rose over 3% after reporting a 69.56% increase in standalone net profit for Q4FY26, reaching  ₹2,406 crore. Revenue also climbed 22% to  ₹24,452 crore. The company announced a final dividend of  ₹4 per equity share, pending shareholder approval.",
+      "url": "https://www.livemint.com/market/tata-motors-share-price-jumps-3-on-stellar-q4-results-2026-should-you-buy-sell-or-hold-the-tata-group-stock-11778730300708.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/14/1600x900/Tata_Motors_share_price_1778730686355_1778730686769.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-14T03:51:43+00:00",
+      "category": "India",
+      "simple_explanation": "Tata Motors shares rose over 3% after reporting a 69.56% increase in standalone net profit for Q4FY26, reaching  ₹2,406 crore. Revenue also climbed 22% to  ₹24,452 crore. The company announced a final"
+    },
+    {
+      "title": "TVS Motor shares in focus after Q4 results. Here’s why Morgan Stanley, Goldman Sachs remain bullish",
+      "description": "TVS Motor Company reported a 19% YoY jump in consolidated net profit to Rs 772 crore for Q4 FY26, with revenue rising 30% YoY to Rs 15,053 crore. Despite sequential profit decline, analysts from Morgan Stanley and Goldman Sachs maintain positive ratings, citing strong growth prospects. Citi, however",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-shares-in-focus-after-q4-results-heres-why-morgan-stanley-goldman-sachs-remain-bullish/articleshow/131081766.cms",
+      "image": "https://img.etimg.com/photo/msid-131081766,imgsize-36320.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-14T03:48:42+00:00",
+      "category": "India",
+      "simple_explanation": "TVS Motor Company reported a 19% YoY jump in consolidated net profit to Rs 772 crore for Q4 FY26, with revenue rising 30% YoY to Rs 15,053 crore. Despite sequential profit decline, analysts from Morga"
+    },
+    {
+      "title": "Japan's Nikkei touches record high on tech optimism; SoftBank, Topix slump",
+      "description": "Japan's Nikkei share average reached a record high for the third consecutive day, propelled by strong performance in the technology sector. Despite a broader market slump, tech shares mirrored Wall Street's gains, with companies like SoftBank Group reporting significant profit increases, though indi",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-touches-record-high-on-tech-optimism-softbank-topix-slump/articleshow/131081732.cms",
+      "image": "https://img.etimg.com/photo/msid-131081732,imgsize-226522.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-14T03:45:41+00:00",
+      "category": "India",
+      "simple_explanation": "Japan's Nikkei share average reached a record high for the third consecutive day, propelled by strong performance in the technology sector. Despite a broader market slump, tech shares mirrored Wall St"
+    },
+    {
+      "title": "Silver rate today in India falls over 1% to  ₹2.96 lakh/kg on profit booking; Donald Trump-Xi Jinping talks in focus",
+      "description": "Silver prices in India fell 1.2% to  ₹2,96,213 per kg on May 14 due to profit booking after a previous surge. This decline follows the Indian government's decision to increase import tariffs on gold and silver to 15%, aimed at protecting the rupee.",
+      "url": "https://www.livemint.com/market/commodities/silver-rate-today-in-india-falls-over-1-to-rs-2-96-lakh-kg-on-profit-booking-donald-trump-xi-jinping-talks-in-focus-11778728507793.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/14/1600x900/Silve_rate_today_in_india_1778728726582_1778728726700.webp",
+      "source": "LiveMint",
+      "published_at": "2026-05-14T03:41:01+00:00",
+      "category": "India",
+      "simple_explanation": "Silver prices in India fell 1.2% to  ₹2,96,213 per kg on May 14 due to profit booking after a previous surge. This decline follows the Indian government's decision to increase import tariffs on gold a"
+    },
+    {
+      "title": "Gold rate drops on MCX due to profit booking; Trump-Xi talk, US-Iran news flows in focus",
+      "description": "Gold rates on the MCX fell on Thursday morning amid profit booking. Markets' focus is on the ongoing talks between U.S. President Donald Trump and Chinese President Xi Jinping.",
+      "url": "https://www.livemint.com/market/commodities/gold-price-today-rate-drops-on-mcx-due-to-profit-booking-trump-xi-talk-us-iran-peace-talks-in-focus-11778729248963.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/14/1600x900/pexels-photo-342945_1778642343335_1778642352591_1778729450392.jpeg",
+      "source": "LiveMint",
+      "published_at": "2026-05-14T03:36:31+00:00",
+      "category": "India",
+      "simple_explanation": "Gold rates on the MCX fell on Thursday morning amid profit booking. Markets' focus is on the ongoing talks between U.S. President Donald Trump and Chinese President Xi Jinping."
+    },
+    {
+      "title": "Rupee opens 2 paise lower at 95.73 against the US dollar",
+      "description": "Rupee opens 2 paise lower at 95.73 against the US dollar",
+      "url": "https://www.livemint.com/market/stock-market-news/rupee-opens-2-paise-lower-at-95-73-against-the-us-dollar-11778729627780.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/14/1600x900/logo/8th_pay_commission_faq_money_da_salary_hikes_17523_1778729705188_1778729705347.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-14T03:35:20+00:00",
+      "category": "India",
+      "simple_explanation": "Rupee opens 2 paise lower at 95.73 against the US dollar"
+    },
+    {
+      "title": "Copper Nears Record High on Tight Global Supply; Aluminum Surges",
+      "description": "Copper extended gains above $14,000 a ton, inching toward a record set in late January, as supply risks mount from mine disruptions around the world. Aluminum surged to the highest in more than four years.",
+      "url": "https://www.livemint.com/market/copper-nears-record-high-on-tight-global-supply-aluminum-surges-11778729664640.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-14T03:34:24+00:00",
+      "category": "India",
+      "simple_explanation": "Copper extended gains above $14,000 a ton, inching toward a record set in late January, as supply risks mount from mine disruptions around the world. Aluminum surged to the highest in more than four y"
+    },
+    {
+      "title": "Explained: Why Balrampur Chini, Dhampur Sugar, other stocks will be in focus on Thursday",
+      "description": "The government has banned all sugar exports, shifting policy from restricted to prohibited until September 30, citing tight domestic supply. The move is expected to impact sugar companies such as Balrampur Chini Mills and Dhampur Sugar Mills. India’s production is forecast to stay below consumption ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-balrampur-chini-dhampur-sugar-other-stocks-will-be-in-focus-on-thursday/articleshow/131081422.cms",
+      "image": "https://img.etimg.com/photo/msid-131081422,imgsize-94024.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-14T03:14:42+00:00",
+      "category": "India",
+      "simple_explanation": "The government has banned all sugar exports, shifting policy from restricted to prohibited until September 30, citing tight domestic supply. The move is expected to impact sugar companies such as Balr"
+    },
+    {
+      "title": "Dow Jones Futures Rise As Cisco Soars On AI Orders; Trump-Xi Summit Begins",
+      "description": "Futures rose as Cisco soared on earnings. AI chip IPO Cerebras priced high. The Trump-Xi summit has begun.",
+      "url": "https://finance.yahoo.com/m/2bbeed6b-f614-3af5-aeb5-c5470d5bd3b6/dow-jones-futures-rise-as.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T03:12:03+00:00",
+      "category": "USA",
+      "simple_explanation": "Futures rose as Cisco soared on earnings. AI chip IPO Cerebras priced high. The Trump-Xi summit has begun."
+    },
+    {
+      "title": "Asian Paints Share Price Live Updates: Asian Paints  Previous Day Close",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-stock-price-today-live-14-may-2026/liveblog/131081026.cms",
+      "image": "https://img.etimg.com/photo/msid-131081026,imgsize-28552.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-14T02:50:15+00:00",
+      "category": "India",
+      "simple_explanation": ""
+    },
+    {
+      "title": "ITC Share Price Live Updates: ITC  Daily Closing Figures",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-live-updates-14-may-2026/liveblog/131081012.cms",
+      "image": "https://img.etimg.com/photo/msid-131081012,imgsize-9740.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-14T02:49:31+00:00",
+      "category": "India",
+      "simple_explanation": ""
+    },
+    {
+      "title": "US Senate approves Kevin Warsh as Federal Reserve chair",
+      "description": "STORY: \"The ayes are 54. The nays are 45. The nomination is confirmed.\"The Senate on Wednesday approved Kevin Warsh as chair of the U.S. Federal Reserve, putting the 56-year-old lawyer and financier at the helm as the U.S. central bank grapples with climbing inflation that may make it hard to push t",
+      "url": "https://finance.yahoo.com/video/us-senate-approves-kevin-warsh-022855166.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T02:28:55+00:00",
+      "category": "Commodities",
+      "simple_explanation": "STORY: \"The ayes are 54. The nays are 45. The nomination is confirmed.\"The Senate on Wednesday approved Kevin Warsh as chair of the U.S. Federal Reserve, putting the 56-year-old lawyer and financier a"
+    },
+    {
+      "title": "Baytex Energy (BTE) Increases 2026 Production Guidance Following Strong Q1 Results",
+      "description": "Baytex Energy Corp. (NYSE:BTE) is one of the best Canadian stocks under $10 to buy now. On May 7, Baytex Energy announced financial and operational results for Q1 2026, headlined by a production average of 69,478 boe/d that exceeded the high end of its quarterly guidance. This performance, particula",
+      "url": "https://finance.yahoo.com/news/baytex-energy-bte-increases-2026-052129576.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T02:11:29+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Baytex Energy Corp. (NYSE:BTE) is one of the best Canadian stocks under $10 to buy now. On May 7, Baytex Energy announced financial and operational results for Q1 2026, headlined by a production avera"
+    },
+    {
+      "title": "Galiano Gold (GAU) Intersects High-Grade Mineralization Beyond Resource Limits at Abore",
+      "description": "Galiano Gold Inc. (NYSEAMERICAN:GAU) is one of the best Canadian stocks under $10 to buy now. On May 11, Galiano Gold reported assay results from its 2026 drilling program at the Abore deposit, part of the Asanko Gold Mine in Ghana. The ongoing 30,000-meter campaign has successfully intersected high",
+      "url": "https://finance.yahoo.com/news/galiano-gold-gau-intersects-high-052112528.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T02:11:12+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Galiano Gold Inc. (NYSEAMERICAN:GAU) is one of the best Canadian stocks under $10 to buy now. On May 11, Galiano Gold reported assay results from its 2026 drilling program at the Abore deposit, part o"
+    },
+    {
+      "title": "Vizsla Silver (VZLA) Awards Key Contracts for Panuco Project Milestones",
+      "description": "Vizsla Silver Corp. (NYSEAMERICAN:VZLA) is one of the best Canadian stocks under $10 to buy now. On April 24, Vizsla Silver reached a significant milestone for its Panuco silver-gold project in Sinaloa, Mexico, by awarding two major contracts. M3 Engineering & Technology has been selected for the en",
+      "url": "https://finance.yahoo.com/news/vizsla-silver-vzla-awards-key-052235952.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T02:10:35+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Vizsla Silver Corp. (NYSEAMERICAN:VZLA) is one of the best Canadian stocks under $10 to buy now. On April 24, Vizsla Silver reached a significant milestone for its Panuco silver-gold project in Sinalo"
+    },
+    {
+      "title": "Oil struggles for direction as IEA flags greater volatility ahead, OPEC cuts demand forecast",
+      "description": "OPEC cut its demand growth estimates for 2026 to about 1.2 million barrels per day.",
+      "url": "https://www.cnbc.com/2026/05/14/oil-prices-today-wti-brent-hormuz-trump-xi-meeting.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-14T01:51:02+00:00",
+      "category": "USA",
+      "simple_explanation": "OPEC cut its demand growth estimates for 2026 to about 1.2 million barrels per day."
+    },
+    {
+      "title": "Cisco, Nokia, Ford, Quantum Cyber And Nebius Group: Why These 5 Stocks Are On Investors' Radars Today",
+      "description": "Major U.S. indices ended Wednesday mixed, with the Dow Jones Industrial Average slipping 0.14% to 49,693.20, while the S&P 500 advanced 0.58% to 7,444.25 and the Nasdaq climbed 1.20% to 26,402.34. These are the top stocks that gained the attention of retail traders and investors through the day: Cis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-nokia-ford-quantum-cyber-013532687.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T01:35:32+00:00",
+      "category": "USA",
+      "simple_explanation": "Major U.S. indices ended Wednesday mixed, with the Dow Jones Industrial Average slipping 0.14% to 49,693.20, while the S&P 500 advanced 0.58% to 7,444.25 and the Nasdaq climbed 1.20% to 26,402.34. The"
+    },
+    {
+      "title": "Trump Set To Meet Xi Jinping After President Arrives In Beijing: Dow Futures Gain 120 Points, Asian Markets Spike",
+      "description": "President Donald Trump is set to meet Chinese President Xi Jinping in Beijing on Thursday after spending the night in the Chinese capital, as global markets edged higher on cautious optimism ahead of high-stakes U.S.-China talks. Markets Rise Ahead Of US–China Talks Late Wednesday, Dow futures rose ",
+      "url": "https://finance.yahoo.com/economy/policy/articles/trump-set-meet-xi-jinping-012328725.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T01:23:28+00:00",
+      "category": "USA",
+      "simple_explanation": "President Donald Trump is set to meet Chinese President Xi Jinping in Beijing on Thursday after spending the night in the Chinese capital, as global markets edged higher on cautious optimism ahead of "
+    },
+    {
+      "title": "Billionaire Marc Rowan Just Warned Stock Market Investors. History Says Buy This Stock Now.",
+      "description": "One billionaire fund manager is sounding the alarm on a potential market correction -- and history points to one stock that thrives when others struggle.",
+      "url": "https://www.fool.com/investing/2026/05/13/billionaire-warns-market-correction-buy-berkshire/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T01:20:00+00:00",
+      "category": "USA",
+      "simple_explanation": "One billionaire fund manager is sounding the alarm on a potential market correction -- and history points to one stock that thrives when others struggle."
+    },
+    {
+      "title": "Jaguar Delivers Strong Adjusted Earnings and Strategic Production Restart of MTL (Turmalina Mine) in Q1 2026",
+      "description": "TORONTO, ON / ACCESS Newswire / May 13, 2026 /Jaguar Mining Inc. (\"Jaguar\" or the \"Company\") (TSX:JAG)(OTCQX:JAGGF) is pleased to report its financial and operational results for the first quarter ended March 31, 2026. The Company achieved a significant ...",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/jaguar-delivers-strong-adjusted-earnings-011500589.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T01:15:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "TORONTO, ON / ACCESS Newswire / May 13, 2026 /Jaguar Mining Inc. (\"Jaguar\" or the \"Company\") (TSX:JAG)(OTCQX:JAGGF) is pleased to report its financial and operational results for the first quarter end"
+    },
+    {
+      "title": "After the bubble: Why UBS is still a gold-and-silver fan",
+      "description": "Someday — who knows when that will be — the Middle East conflict will wind down. And that will be bullish for precious metals prices, a UBS strategist says. Gold and silver prices have struggled since prices for both peaked on Jan. 29: $5,620.80 per troy ounce for gold and $121.785 an ounce for ...",
+      "url": "https://www.thestreet.com/markets/after-the-bubble-why-ubs-is-still-a-gold-and-silver-fan?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T01:03:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Someday — who knows when that will be — the Middle East conflict will wind down. And that will be bullish for precious metals prices, a UBS strategist says. Gold and silver prices have struggled since"
+    },
+    {
+      "title": "Inside India newsletter: Trump-Xi meeting could test India’s positioning as China counterweight",
+      "description": "For more than two decades, consecutive U.S. administrations have seen India as a counterbalance to China's growing influence in the Indo-Pacific.",
+      "url": "https://www.cnbc.com/2026/05/14/inside-india-trump-xi-meeting-us-china-indo-pacific.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-14T00:25:10+00:00",
+      "category": "USA",
+      "simple_explanation": "For more than two decades, consecutive U.S. administrations have seen India as a counterbalance to China's growing influence in the Indo-Pacific."
+    },
+    {
+      "title": "5 Must-Read Analyst Questions From Diamondback Energy’s Q1 Earnings Call",
+      "description": "Diamondback Energy’s first quarter results surpassed Wall Street’s revenue and profit expectations, yet the share price declined following the announcement. Management attributed the quarter’s performance to robust oil production growth, driven by operational improvements in well completions and fie",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/5-must-read-analyst-questions-235655241.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-13T23:56:55+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Diamondback Energy’s first quarter results surpassed Wall Street’s revenue and profit expectations, yet the share price declined following the announcement. Management attributed the quarter’s perform"
+    },
+    {
+      "title": "Review & Preview: 4-Year High",
+      "description": "Oil prices moved slightly lower on Wednesday, but markets were buoyed to new heights by the strength of the tech sector.  Plus, the new Federal Reserve chair cleared his final confirmation hurdle this afternoon, which likely alleviated some lingering uncertainty at the central bank, and among invest",
+      "url": "https://finance.yahoo.com/m/db8caec7-6c96-3fc0-a43f-a668849e611a/review-%26-preview%3A-4-year-high.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-13T23:55:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Oil prices moved slightly lower on Wednesday, but markets were buoyed to new heights by the strength of the tech sector.  Plus, the new Federal Reserve chair cleared his final confirmation hurdle this"
     },
     {
       "title": "Australian Traders Watch ASX, Brent and Forex Move in Lockstep as Mitrade Releases Trumponomics Ebook",
@@ -33,16 +313,6 @@
       "simple_explanation": "CFD broker Mitrade today released its new ebook, \"Decoding Trumponomics: Trading Volatility in 2026\", for Australian retail traders active across equities, energy and forex. The launch comes as AUD/US"
     },
     {
-      "title": "Analysis: Trump finally gets his man at the Fed. Will Kevin Warsh disappoint him?",
-      "description": "Kevin Warsh received the fewest votes of any Fed chair in history. Will it cripple him?",
-      "url": "https://www.cnbc.com/2026/05/13/warsh-trump-congress-senate-analysis.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-13T23:22:51+00:00",
-      "category": "USA",
-      "simple_explanation": "Kevin Warsh received the fewest votes of any Fed chair in history. Will it cripple him?"
-    },
-    {
       "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
       "description": "In the most divisive vote ever for a Fed chair, Warsh, 56, won confirmation to take over for Jerome Powell.",
       "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
@@ -51,26 +321,6 @@
       "published_at": "2026-05-13T23:21:35+00:00",
       "category": "USA",
       "simple_explanation": "In the most divisive vote ever for a Fed chair, Warsh, 56, won confirmation to take over for Jerome Powell."
-    },
-    {
-      "title": "Cerebras prices IPO above expected range, as Wall Street braces for AI tsunami",
-      "description": "Cerebras raised $5.55 billion in its IPO, and with the chipmaker's offering, investors are gearing up for some even bigger AI deals later this year.",
-      "url": "https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-13T23:18:10+00:00",
-      "category": "USA",
-      "simple_explanation": "Cerebras raised $5.55 billion in its IPO, and with the chipmaker's offering, investors are gearing up for some even bigger AI deals later this year."
-    },
-    {
-      "title": "Kinder Morgan (KMI) Valuation Check As LNG Demand Rises On Oil Rebound And Geopolitical Tensions",
-      "description": "Why Kinder Morgan’s recent rally stands out Kinder Morgan (KMI) has climbed recently as higher oil prices and geopolitical tensions lifted demand for U.S. liquefied natural gas, a key part of its business, even as a serious Texas pipeline lawsuit unfolds. See our latest analysis for Kinder Morgan. T",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-kmi-valuation-check-231748657.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T23:17:48+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Why Kinder Morgan’s recent rally stands out Kinder Morgan (KMI) has climbed recently as higher oil prices and geopolitical tensions lifted demand for U.S. liquefied natural gas, a key part of its busi"
     },
     {
       "title": "Andean Precious Metals Corp (ANPMF) Q1 2026 Earnings Call Highlights: Record Revenue and ...",
@@ -83,16 +333,6 @@
       "simple_explanation": "Andean Precious Metals Corp (ANPMF) reports a robust quarter with record revenues, increased production, and strategic plans for NYSE listing."
     },
     {
-      "title": "Anaergia Inc (ANRGF) Q1 2026 Earnings Call Highlights: Record Revenue Growth and Strategic ...",
-      "description": "Anaergia Inc (ANRGF) reports impressive revenue and profit growth, despite challenges, as it enters new markets and enhances operational efficiency.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anaergia-inc-anrgf-q1-2026-230339811.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T23:03:39+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Anaergia Inc (ANRGF) reports impressive revenue and profit growth, despite challenges, as it enters new markets and enhances operational efficiency."
-    },
-    {
       "title": "Cisco's stock pops 17% on surging AI orders, as company says it's cutting almost 4,000 jobs",
       "description": "Cisco's AI story has finally started resonating with Wall Street, with the stock hitting a record late last year and continuing to rally in 2026.",
       "url": "https://www.cnbc.com/2026/05/13/cisco-csco-q3-earnings-report-2026.html",
@@ -103,36 +343,6 @@
       "simple_explanation": "Cisco's AI story has finally started resonating with Wall Street, with the stock hitting a record late last year and continuing to rally in 2026."
     },
     {
-      "title": "Freehold Royalties Ltd (FRHLF) Q1 2026 Earnings Call Highlights: Strategic Investments and ...",
-      "description": "Despite weather disruptions and lower drilling activity, Freehold Royalties Ltd (FRHLF) reports strong financial performance and strategic expansion in the Permian Basin.",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/freehold-royalties-ltd-frhlf-q1-230037612.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T23:00:37+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Despite weather disruptions and lower drilling activity, Freehold Royalties Ltd (FRHLF) reports strong financial performance and strategic expansion in the Permian Basin."
-    },
-    {
-      "title": "StanChart Warns Physical Oil Premium Collapse May Be Temporary",
-      "description": "Analysts at Standard Chartered expect physical crude prices to rebound once reserve releases end and refinery demand rises again, unless a geopolitical deal eases supply disruptions.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/stanchart-warns-physical-oil-premium-230000988.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T23:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Analysts at Standard Chartered expect physical crude prices to rebound once reserve releases end and refinery demand rises again, unless a geopolitical deal eases supply disruptions."
-    },
-    {
-      "title": "S&P 500, Nasdaq boosted by chips to record closing highs",
-      "description": "STORY: The S&P 500 and the Nasdaq gained ground on Wednesday with a boost from artificial intelligence-related tech shares.The Dow actually fell slightly while the S&P gained about six-tenths of one percent and the Nasdaq added double that with the two indexes notching record closing highs.The marke",
-      "url": "https://finance.yahoo.com/video/p-500-nasdaq-boosted-chips-224707477.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T22:47:07+00:00",
-      "category": "USA",
-      "simple_explanation": "STORY: The S&P 500 and the Nasdaq gained ground on Wednesday with a boost from artificial intelligence-related tech shares.The Dow actually fell slightly while the S&P gained about six-tenths of one p"
-    },
-    {
       "title": "Here’s what happened in crypto today",
       "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -141,16 +351,6 @@
       "published_at": "2026-05-13T22:40:00+00:00",
       "category": "Crypto",
       "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of Trump-Xi summit",
-      "description": "US stock futures edged higher as Wall Street awaited President Trump's meeting with Chinese President Xi Jinping.",
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-ahead-of-trump-xi-summit-223230477.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T22:32:30+00:00",
-      "category": "USA",
-      "simple_explanation": "US stock futures edged higher as Wall Street awaited President Trump's meeting with Chinese President Xi Jinping."
     },
     {
       "title": "Kevin Warsh Confirmed as Fed Chair: The 5 Things That Could Decide How Bitcoin Reacts",
@@ -201,206 +401,6 @@
       "published_at": "2026-05-13T22:15:01+00:00",
       "category": "USA",
       "simple_explanation": "In the closing of the recent trading day, Copart, Inc. (CPRT) stood at $32.94, denoting a -1.5% move from the preceding trading day."
-    },
-    {
-      "title": "SCHD vs JEPI: Dividend Growth or Monthly Income?",
-      "description": "SCHD and JEPI are two of the most popular dividend ETFs, but they take fundamentally different approaches to generating income. Here's how to decide which belongs in your portfolio.",
-      "url": "http://www.etf.com/sections/etf-basics/schd-vs-jepi-dividend-growth-or-monthly-income?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T22:14:56+00:00",
-      "category": "USA",
-      "simple_explanation": "SCHD and JEPI are two of the most popular dividend ETFs, but they take fundamentally different approaches to generating income. Here's how to decide which belongs in your portfolio."
-    },
-    {
-      "title": "Q1 Earnings Season Reconfirms the Positive Earnings Outlook",
-      "description": "The overall earnings picture continues to be of all-around strength and a steadily improving outlook, with Q1 results showing nice momentum while expectations for Q2 also trend higher.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/q1-earnings-season-reconfirms-positive-221000375.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T22:10:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The overall earnings picture continues to be of all-around strength and a steadily improving outlook, with Q1 results showing nice momentum while expectations for Q2 also trend higher."
-    },
-    {
-      "title": "G Mining Ventures Reports First Quarter 2026 Results",
-      "description": "BROSSARD, Quebec, , May 13, 2026 (GLOBE NEWSWIRE) -- G Mining Ventures Corp. (“GMIN” or the “Corporation”) (TSX: GMIN, OTCQX: GMINF) today reported its financial and operating results for the first quarter of 2026. Unless otherwise indicated, all dollar amounts are in U.S. dollars. Louis-Pierre Gign",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/g-mining-ventures-reports-first-220300803.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T22:03:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "BROSSARD, Quebec, , May 13, 2026 (GLOBE NEWSWIRE) -- G Mining Ventures Corp. (“GMIN” or the “Corporation”) (TSX: GMIN, OTCQX: GMINF) today reported its financial and operating results for the first qu"
-    },
-    {
-      "title": "Seabridge Gold Files First Quarter Report to Shareholders, Financial Statements and MD&A",
-      "description": "Toronto, Ontario--(Newsfile Corp. - May 13, 2026) - Seabridge Gold (TSX: SEA) (NYSE: SA) announced today that it has filed its Interim Financial Statements and Management's Discussion and Analysis for the three-month period ended March 31, 2026 on SEDAR+ (www.sedarplus.ca). These statements are also",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/seabridge-gold-files-first-quarter-220100230.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T22:01:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Toronto, Ontario--(Newsfile Corp. - May 13, 2026) - Seabridge Gold (TSX: SEA) (NYSE: SA) announced today that it has filed its Interim Financial Statements and Management's Discussion and Analysis for"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup",
-      "description": "Armstrong said the bill is \"closer than ever\" to advancing in the US Congress after months of negotiations between the crypto industry and banks.",
-      "url": "https://cointelegraph.com/news/coinbase-ceo-brian-armstrong-clarity-act-thursday-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aG8taXMtYnJpYW4tYXJtc3Ryb25nLXByb2ZpbGUtYW5kLWJpb2dyYXBoeS5qcGc=.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-13T21:56:58+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Armstrong said the bill is \"closer than ever\" to advancing in the US Congress after months of negotiations between the crypto industry and banks."
-    },
-    {
-      "title": "JPMorgan pulls no punches on Strait of Hormuz, oil prices",
-      "description": "Something doesn't add up in the global oil market right now. Supply disruptions have hit historic levels. Inventories are draining at a pace not seen in decades. Yet prices, while elevated, haven't spiked as violently as past crises might suggest. JPMorgan says that gap is a warning sign, not ...",
-      "url": "https://www.thestreet.com/investing/stocks/jpmorgan-pulls-no-punches-on-strait-of-hormuz-oil-prices?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T21:47:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Something doesn't add up in the global oil market right now. Supply disruptions have hit historic levels. Inventories are draining at a pace not seen in decades. Yet prices, while elevated, haven't sp"
-    },
-    {
-      "title": "Orezone Gold Reports Q1 2026 Results: Full Earnings Call Transcript",
-      "description": "Orezone Gold (TSX:ORE) reported first-quarter financial results on Wednesday. The transcript from the company's first-quarter earnings call has been provided below. This transcript is brought to you by Benzinga APIs. For real-time access to our entire catalog, please visit https://www.benzinga.com/a",
-      "url": "https://finance.yahoo.com/news/orezone-gold-reports-q1-2026-214134576.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T21:41:34+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Orezone Gold (TSX:ORE) reported first-quarter financial results on Wednesday. The transcript from the company's first-quarter earnings call has been provided below. This transcript is brought to you b"
-    },
-    {
-      "title": "News of the day: Bank of Canada's worries, Agnico Eagle's mining investment, falling rents, Goeasy results, workplace harassment allegations and more",
-      "description": "Catch up on the stories we’re following today",
-      "url": "https://financialpost.com/uncategorized/news-of-the-day-bank-of-canadas-worries-agnico-eagles-mining-investment-falling-rents-goeasy-results-workplace-harassment-allegations-and-more?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T21:34:40+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Catch up on the stories we’re following today"
-    },
-    {
-      "title": "Senate confirms Kevin Warsh to lead Federal Reserve",
-      "description": "The US Senate voted largely along party lines to confirm Kevin Warsh to lead the Fed’s Board of Governors, despite many Democrats’ concerns about the central bank’s independence.",
-      "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9iaXRjb2luLXByaWNlLW1hcmtldC1hbmFseXNpcy11czEuanBn.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-13T21:33:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The US Senate voted largely along party lines to confirm Kevin Warsh to lead the Fed’s Board of Governors, despite many Democrats’ concerns about the central bank’s independence."
-    },
-    {
-      "title": "TSX pulls back from three-week high as financials, Shopify fall",
-      "description": "CANADA-STOCKS/ (UPDATE 2):CANADA STOCKS-TSX pulls back from three-week high as financials, Shopify fall",
-      "url": "https://www.livemint.com/market/tsx-pulls-back-from-three-week-high-as-financials-shopify-fall-11778706130760.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-      "source": "LiveMint",
-      "published_at": "2026-05-13T21:02:10+00:00",
-      "category": "India",
-      "simple_explanation": "CANADA-STOCKS/ (UPDATE 2):CANADA STOCKS-TSX pulls back from three-week high as financials, Shopify fall"
-    },
-    {
-      "title": "Bitcoin (BTC) ETFs See 7 Weeks of Inflows: Is the Institutional Bid Back?",
-      "description": "Spot Bitcoin ETFs are once again attracting serious institutional capital, posting seven straight weeks of inflows as investor appetite for regulated Bitcoin (CRYPTO: BTC) exposure strengthens. The sustained momentum comes after a volatile start to the year and is now raising fresh speculation that ",
-      "url": "https://247wallst.com/investing/2026/05/13/bitcoin-btc-etfs-see-7-weeks-of-inflows-is-the-institutional-bid-back/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T20:27:11+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Spot Bitcoin ETFs are once again attracting serious institutional capital, posting seven straight weeks of inflows as investor appetite for regulated Bitcoin (CRYPTO: BTC) exposure strengthens. The su"
-    },
-    {
-      "title": "US stocks today: Chip stocks lift Nasdaq, S&P to record closing highs; hot inflation kills rate-cut hopes",
-      "description": "US stocks advanced with the S&P 500 and Nasdaq hitting record closing highs as AI-linked tech and chip stocks powered gains despite hotter inflation data. Producer prices surged, reinforcing expectations of prolonged Fed tightening. Markets also tracked Trump-Xi talks and rising geopolitical risks, ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-boosted-by-chips-to-record-closing-highs-hot-inflation-report-kills-rate-cut-hopes/articleshow/131076710.cms",
-      "image": "https://img.etimg.com/photo/msid-131076710,imgsize-143932.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-13T20:04:20+00:00",
-      "category": "India",
-      "simple_explanation": "US stocks advanced with the S&P 500 and Nasdaq hitting record closing highs as AI-linked tech and chip stocks powered gains despite hotter inflation data. Producer prices surged, reinforcing expectati"
-    },
-    {
-      "title": "Whale shorts $70M in crypto and tech: Should Bitcoin traders worry?",
-      "description": "Despite short-term bearish bets from a successful Hyperliquid whale, a growing US Fed balance sheet and rising inflation support Bitcoin in the long term.",
-      "url": "https://cointelegraph.com/markets/whale-shorts-70m-in-crypto-tech-should-bitcoin-traders-worry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jb3Zlci1pbWFnZXJldmlldy1vZi1tYXJnZXguanBn.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-13T19:44:43+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Despite short-term bearish bets from a successful Hyperliquid whale, a growing US Fed balance sheet and rising inflation support Bitcoin in the long term."
-    },
-    {
-      "title": "Oil settles lower on US rate hike fears; investors watch Trump-Xi meeting",
-      "description": "GLOBAL-OIL:Oil settles lower on US rate hike fears; investors watch Trump-Xi meeting",
-      "url": "https://www.livemint.com/market/oil-settles-lower-on-us-rate-hike-fears-investors-watch-trump-xi-meeting-11778701267944.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-      "source": "LiveMint",
-      "published_at": "2026-05-13T19:41:07+00:00",
-      "category": "India",
-      "simple_explanation": "GLOBAL-OIL:Oil settles lower on US rate hike fears; investors watch Trump-Xi meeting"
-    },
-    {
-      "title": "Crypto-Friendly Kevin Warsh Confirmed as Fed Chair to Replace Jerome Powell",
-      "description": "Kevin Warsh, President Donald Trump's pick to lead the Federal Reserve, was confirmed as its new chair Wednesday to replace Jerome Powell.",
-      "url": "https://decrypt.co/367784/crypto-friendly-kevin-warsh-confirmed-fed-chair-replace-jerome-powell?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-13T19:40:07+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Kevin Warsh, President Donald Trump's pick to lead the Federal Reserve, was confirmed as its new chair Wednesday to replace Jerome Powell."
-    },
-    {
-      "title": "Polymarket's monthly volume declines for first time since August",
-      "description": "Prediction markets trading volume had been tracking monthly gains as the sector gains popularity among short-term traders, but competition is also increasing.",
-      "url": "https://cointelegraph.com/news/polymarket-volume-declines-first-time-august-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aHktY3J5cHRvLW1hcmtldC1pcy1mYWxsaW5nLTIuanBn.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-13T19:31:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Prediction markets trading volume had been tracking monthly gains as the sector gains popularity among short-term traders, but competition is also increasing."
-    },
-    {
-      "title": "Warsh clinches Senate approval to be Fed's next chair as inflation intensifies",
-      "description": "In a pivotal moment for the economy, the US Senate has officially confirmed Kevin Warsh as the chair of the Federal Reserve, just as inflation escalates. With President Donald Trump advocating for reduced interest rates, Warsh's leadership will be crucial at the next central bank meeting, where poli",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-clinches-senate-approval-to-be-feds-next-chair-as-inflation-intensifies/articleshow/131076253.cms",
-      "image": "https://img.etimg.com/photo/msid-131076253,imgsize-206950.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-13T19:22:31+00:00",
-      "category": "India",
-      "simple_explanation": "In a pivotal moment for the economy, the US Senate has officially confirmed Kevin Warsh as the chair of the Federal Reserve, just as inflation escalates. With President Donald Trump advocating for red"
-    },
-    {
-      "title": "Fed is 'dead serious' about getting inflation down, Kashkari says",
-      "description": "In a recent address, Neel Kashkari, the Minneapolis Federal Reserve President, shared a cautiously positive outlook on the labor market in the U.S. He highlighted how the current Iran conflict is a significant driver of inflationary pressures. As such, the possibility of further interest rate increa",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-is-dead-serious-about-getting-inflation-down-kashkari-says/articleshow/131075805.cms",
-      "image": "https://img.etimg.com/photo/msid-131075805,imgsize-96412.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-13T18:52:01+00:00",
-      "category": "India",
-      "simple_explanation": "In a recent address, Neel Kashkari, the Minneapolis Federal Reserve President, shared a cautiously positive outlook on the labor market in the U.S. He highlighted how the current Iran conflict is a si"
-    },
-    {
-      "title": "LIC Housing Finance Q4 profit rises 9% to Rs 1,497 crore",
-      "description": "LIC Housing Finance reported a 9.4% rise in Q4 net profit to Rs 1,497 crore, aided by lower provisions. The company also recommended a 500% dividend of Rs 10 per share for FY26. Meanwhile, Signature Global significantly reduced its net debt by 77% to Rs 200 crore in FY26, with PAT soaring to Rs 1,09",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lic-housing-finance-q4-profit-rises-9-to-rs-1497-crore/articleshow/131075711.cms",
-      "image": "https://img.etimg.com/photo/msid-131075711,imgsize-759002.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-13T18:49:26+00:00",
-      "category": "India",
-      "simple_explanation": "LIC Housing Finance reported a 9.4% rise in Q4 net profit to Rs 1,497 crore, aided by lower provisions. The company also recommended a 500% dividend of Rs 10 per share for FY26. Meanwhile, Signature G"
-    },
-    {
-      "title": "KKR-backed ambulance giant GMR valued at $3 billion as shares fall in NYSE debut",
-      "description": "Global Medical Response (GMR), a key provider in emergency medical services, faced a rocky introduction to the New York Stock Exchange as its shares plummeted by 10%. This decline put its market cap at $3.01 billion, following a strategic reduction in IPO pricing.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/kkr-backed-ambulance-giant-gmr-valued-at-3-billion-as-shares-fall-in-nyse-debut/articleshow/131075633.cms",
-      "image": "https://img.etimg.com/photo/msid-131075633,imgsize-442326.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-13T18:47:23+00:00",
-      "category": "India",
-      "simple_explanation": "Global Medical Response (GMR), a key provider in emergency medical services, faced a rocky introduction to the New York Stock Exchange as its shares plummeted by 10%. This decline put its market cap a"
     }
   ]
 }
