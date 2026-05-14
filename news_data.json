@@ -1,22 +1,372 @@
 {
-  "last_updated": "2026-05-14T15:19:47.312741+00:00",
+  "last_updated": "2026-05-14T17:50:46.414218+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Xi tells Musk, Tim Cook and other CEOs on Trump's trip: China will 'open wider'",
-      "description": "Tesla and Space X boss Elon Musk, Nvidia's CEO Jensen Huang and Apple CEO Tim Cook were part of Trump's delegation.",
-      "url": "https://www.cnbc.com/2026/05/14/xi-china-open-us-business-ai-chips.html",
+      "title": "Nvidia hits new peak, market cap crosses $5.6 trillion after report on US nod for H200 chip sales to China",
+      "description": "Nvidia shares rose 5% to a record $236.47 after the US approved 10 Chinese firms to buy the H200 AI chip. Despite this, sales have not occurred due to Chinese government restrictions and licensing requirements. Nvidia's market cap exceeds $5.6 trillion ahead of upcoming earnings reports.",
+      "url": "https://www.livemint.com/market/stock-market-news/nvidia-hits-new-peak-market-cap-crosses-5-6-trillion-after-report-on-us-nod-for-h200-chip-sales-to-china-11778776143715.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/14/1600x900/logo/ISRAEL-TECH-FUNDRAISING-0_1766837773858_1766837781379_1778776140966_b06971c2-bf14-4345-98c1-5236d7dc2546.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-05-14T17:48:24+00:00",
+      "category": "India",
+      "simple_explanation": "Nvidia shares rose 5% to a record $236.47 after the US approved 10 Chinese firms to buy the H200 AI chip. Despite this, sales have not occurred due to Chinese government restrictions and licensing req"
+    },
+    {
+      "title": "Cerebras almost doubles in Nasdaq debut, topping $100 billion market cap after blockbuster IPO",
+      "description": "Cerebras is taking advantage of a bull market for silicon, as the chipmaker becomes one of the most notable pureplay AI IPOs to date.",
+      "url": "https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-05-14T15:12:46+00:00",
+      "published_at": "2026-05-14T17:45:28+00:00",
       "category": "USA",
-      "simple_explanation": "Tesla and Space X boss Elon Musk, Nvidia's CEO Jensen Huang and Apple CEO Tim Cook were part of Trump's delegation."
+      "simple_explanation": "Cerebras is taking advantage of a bull market for silicon, as the chipmaker becomes one of the most notable pureplay AI IPOs to date."
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Charges Higher; Hot Nvidia Rival Surges On Debut (Live Coverage)",
+      "description": "The Dow Jones rose with Cisco soaring on earnings, while fellow Dow stocks Nvidia and Boeing could be Trump-Xi summit winners.",
+      "url": "https://finance.yahoo.com/m/40f20718-1adc-3bce-bb08-29c8ed6334bf/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T17:40:33+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dow Jones rose with Cisco soaring on earnings, while fellow Dow stocks Nvidia and Boeing could be Trump-Xi summit winners."
+    },
+    {
+      "title": "Dow Jones Hits 50,000 For the First Time As Nvidia And Broadcom Power Market Indexes Higher",
+      "description": "The Dow just hit 50,000 for the first time, and all three major indexes are up about 1% at midday. Here's what's driving the moves and what it means for your portfolio.",
+      "url": "https://www.fool.com/investing/2026/05/14/dow-jones-hits-50000-for-the-first-time-as-nvidia/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T17:32:33+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dow just hit 50,000 for the first time, and all three major indexes are up about 1% at midday. Here's what's driving the moves and what it means for your portfolio."
+    },
+    {
+      "title": "G Mining Ventures supported by strong second half setup, says Jefferies analysts",
+      "description": "G Mining Ventures Corp (TSX:GMIN, OTCQX:GMINF, FRA:W97) is expected to see a stronger second half in 2026, with Jefferies pointing to a back-end weighted production profile and advancing development work at its key projects as the company maintains guidance despite a softer start to the...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1092324/g-mining-ventures-supported-by-strong-second-half-setup-says-jefferies-analysts-1092324.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T17:29:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "G Mining Ventures Corp (TSX:GMIN, OTCQX:GMINF, FRA:W97) is expected to see a stronger second half in 2026, with Jefferies pointing to a back-end weighted production profile and advancing development w"
+    },
+    {
+      "title": "China will work behind the scenes to help reopen the Strait of Hormuz, Bessent says",
+      "description": "President Trump held talks with President Xi during a two-day summit in Beijing on Thursday.",
+      "url": "https://www.cnbc.com/2026/05/14/china-xi-trump-iran-war-oil-strait-hormuz-bessent.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-14T17:25:01+00:00",
+      "category": "USA",
+      "simple_explanation": "President Trump held talks with President Xi during a two-day summit in Beijing on Thursday."
+    },
+    {
+      "title": "U.S. Border Patrol Chief Mike Banks resigns",
+      "description": "Controversy over enforcement actions by Border Patrol and ICE led to a partial shutdown of DHS from February to late April.",
+      "url": "https://www.cnbc.com/2026/05/14/border-patrol-mike-banks-resigns-cbp-immigration.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-14T17:24:56+00:00",
+      "category": "USA",
+      "simple_explanation": "Controversy over enforcement actions by Border Patrol and ICE led to a partial shutdown of DHS from February to late April."
+    },
+    {
+      "title": "Crypto industry scores win as Clarity Act regulation bill clears Senate hurdle",
+      "description": "The Senate Banking Committee advanced a rules-of-the-road crypto bill known as the Clarity Act by a vote of 15-9.",
+      "url": "https://www.cnbc.com/2026/05/14/clarity-act-congress-crypto-senate.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-14T17:24:16+00:00",
+      "category": "USA",
+      "simple_explanation": "The Senate Banking Committee advanced a rules-of-the-road crypto bill known as the Clarity Act by a vote of 15-9."
+    },
+    {
+      "title": "LODE GOLD'S NEW MINERAL RESOURCE ESTIMATE: 1.11 MOZ OF GOLD - 18.8 MT AT 1.84 G/T AU (MEASURED & INDICATED) AND 1.99 MOZ OF GOLD (INFERRED) - 33.1 MT AT 1.86 G/T AU AT FREMONT GOLD MINE",
+      "description": "Lode Gold Resources Inc (TSXV: LOD) (OTCQB: LODFF) (the \"Company\" or \"Lode Gold\") is pleased to announce the results of a new Mineral Resource Estimate (\"MRE\") for its 100% owned Fremont Gold Mine (\"Fremont\") in Mariposa County, California.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/lode-golds-mineral-estimate-1-172400034.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T17:24:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Lode Gold Resources Inc (TSXV: LOD) (OTCQB: LODFF) (the \"Company\" or \"Lode Gold\") is pleased to announce the results of a new Mineral Resource Estimate (\"MRE\") for its 100% owned Fremont Gold Mine (\"F"
+    },
+    {
+      "title": "Emeth Value Capital Opens Hefty $6 Million Shift4 Payments Position",
+      "description": "Shift4 Payments delivers integrated payment and software solutions for merchants across hospitality, retail, and large venue sectors.",
+      "url": "https://www.fool.com/coverage/filings/2026/05/14/emeth-value-capital-opens-hefty-usd6-million-shift4-payments-position/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T17:22:27+00:00",
+      "category": "USA",
+      "simple_explanation": "Shift4 Payments delivers integrated payment and software solutions for merchants across hospitality, retail, and large venue sectors."
+    },
+    {
+      "title": "Kolibri Global Energy Q1 Earnings Call Highlights",
+      "description": "Kolibri Global Energy (NASDAQ:KGEI) reported what management described as the strongest quarter in the company’s history for several operating and financial metrics, with President and CEO Wolf E. Regener saying first-quarter 2026 results included record quarterly production, net revenue and adjuste",
+      "url": "https://www.marketbeat.com/instant-alerts/kolibri-global-energy-q1-earnings-call-highlights-2026-05-14/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T17:09:59+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Kolibri Global Energy (NASDAQ:KGEI) reported what management described as the strongest quarter in the company’s history for several operating and financial metrics, with President and CEO Wolf E. Reg"
+    },
+    {
+      "title": "Exchange-Traded Funds Move Higher as US Equities Advance After Midday",
+      "description": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded I",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-move-higher-170744566.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T17:07:44+00:00",
+      "category": "USA",
+      "simple_explanation": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded I"
+    },
+    {
+      "title": "The New Geopolitics of Power: Whoever Controls Electrons Wins the Decade",
+      "description": "For most of the last century, the world’s economic pecking order was decided by who controlled barrels of oil. That’s still true today, as the ongoing Iran war is showing in painful ways at the gas pump. But a second, quieter contest is unfolding alongside it, and this one is being fought over elect",
+      "url": "https://247wallst.com/investing/2026/05/14/the-new-geopolitics-of-power-whoever-controls-electrons-wins-the-decade/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T17:03:10+00:00",
+      "category": "Commodities",
+      "simple_explanation": "For most of the last century, the world’s economic pecking order was decided by who controlled barrels of oil. That’s still true today, as the ongoing Iran war is showing in painful ways at the gas pu"
+    },
+    {
+      "title": "A top Colombian trade official says the country wants to build a ‘complementary economy’ to Venezuela",
+      "description": "Sofia Cañón discusses Colombia’s manufacturing ambitions, China strategy, and the competitive advantage of two oceans.",
+      "url": "https://finance.yahoo.com/m/be403ba6-09d0-3750-92e5-f4b9465fcde6/a-top-colombian-trade.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T17:00:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Sofia Cañón discusses Colombia’s manufacturing ambitions, China strategy, and the competitive advantage of two oceans."
+    },
+    {
+      "title": "Gold, silver rates today: Comex gold drops $35/oz; silver tumbles $5/oz amid stronger dollar, rate fears",
+      "description": "Precious metals fell on 14 May as traders hesitated amid geopolitical tensions and a strengthening US dollar. Gold dropped $35 to $4,671, while silver fell $5 to $84.36, though it remained above $80. Retail sales rose, indicating consumer resilience despite rising inflation.",
+      "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-drops-35-oz-silver-tumbles-5-oz-amid-stronger-dollar-rate-fears-11778772509499.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/14/1600x900/logo/2-0-747384373-jewellery-0_1680327852236_1778772669735_d21355af-3c4a-4ee7-836f-46104a4d57eb.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-05-14T16:54:37+00:00",
+      "category": "India",
+      "simple_explanation": "Precious metals fell on 14 May as traders hesitated amid geopolitical tensions and a strengthening US dollar. Gold dropped $35 to $4,671, while silver fell $5 to $84.36, though it remained above $80. "
+    },
+    {
+      "title": "Surging Yields Cast Shadow Over Stocks as 30-Year Hits 5%",
+      "description": "Rising Treasury yields are starting to challenge the stock market’s AI-fueled rally, as investors grapple with persistent inflation, surging government borrowing, and elevated oil prices.",
+      "url": "https://finance.yahoo.com/m/9a75122f-1b58-365f-8382-1212e390cb01/surging-yields-cast-shadow.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T16:54:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Rising Treasury yields are starting to challenge the stock market’s AI-fueled rally, as investors grapple with persistent inflation, surging government borrowing, and elevated oil prices."
+    },
+    {
+      "title": "Barclays Lifts PT on Innovex International (INVX), Cites Best Sector Setup in 20 Years",
+      "description": "Innovex International, Inc. (NYSE:INVX) is one of the best small cap stocks to buy for 10x potential. Innovex International, Inc. (NYSE:INVX) received a rating update from Barclays on May 7. The firm lifted the price target on the stock to $26 from $24 and maintained an Equal Weight rating on the sh",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-lifts-pt-innovex-international-165338788.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T16:53:38+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Innovex International, Inc. (NYSE:INVX) is one of the best small cap stocks to buy for 10x potential. Innovex International, Inc. (NYSE:INVX) received a rating update from Barclays on May 7. The firm "
+    },
+    {
+      "title": "NYSE Content Update: Blackstone Digital Infrastructure Debuts for Trade after $1.8 Billion IPO",
+      "description": "The New York Stock Exchange (NYSE) provides a mid-day update directly from the NYSE Trading Floor. Access today's NYSE mid-day update for market insights.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nyse-content-blackstone-digital-infrastructure-164900033.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T16:49:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The New York Stock Exchange (NYSE) provides a mid-day update directly from the NYSE Trading Floor. Access today's NYSE mid-day update for market insights."
+    },
+    {
+      "title": "Dow Surges Back Above 50,000",
+      "description": "Stocks were rising after a pair of healthy economic reports, with the Dow getting a boost to 50,000 from Cisco’s strong earnings.  The Dow was up 377 points, or 0.8%.  The S&P 500 was 0.8% higher, while the Nasdaq rose 0.9%.",
+      "url": "https://finance.yahoo.com/m/1ded1c68-ed93-3dbc-b6b6-28ffa8fd5088/dow-surges-back-above-50%2C000.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T16:48:58+00:00",
+      "category": "USA",
+      "simple_explanation": "Stocks were rising after a pair of healthy economic reports, with the Dow getting a boost to 50,000 from Cisco’s strong earnings.  The Dow was up 377 points, or 0.8%.  The S&P 500 was 0.8% higher, whi"
+    },
+    {
+      "title": "Sebi proposes major overhaul of derivatives rules to simplify compliance for exchanges",
+      "description": "India's market regulator Sebi is proposing significant changes to derivatives trading rules. The aim is to make compliance easier for stock exchanges and clearing corporations. Several outdated rules will be removed, and operational requirements will be streamlined. These proposals are part of an in",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-major-overhaul-of-derivatives-rules-to-simplify-compliance-for-exchanges/articleshow/131098861.cms",
+      "image": "https://img.etimg.com/photo/msid-131098861,imgsize-33312.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-14T16:47:24+00:00",
+      "category": "India",
+      "simple_explanation": "India's market regulator Sebi is proposing significant changes to derivatives trading rules. The aim is to make compliance easier for stock exchanges and clearing corporations. Several outdated rules "
+    },
+    {
+      "title": "The Dow Hasn't Closed Above 50,000 Since February",
+      "description": "The Dow, among the oldest stock market indicators, was up as much as 500 points today, or nearly a percent.  The index could use some more semiconductor stocks.  It would help the Dow keep up with S&P 500 and Nasdaq, which have clocked in one all-time high after another.",
+      "url": "https://finance.yahoo.com/m/55a0a184-f7d4-3515-aeed-c082ca4542da/the-dow-hasn%27t-closed-above.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T16:46:54+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dow, among the oldest stock market indicators, was up as much as 500 points today, or nearly a percent.  The index could use some more semiconductor stocks.  It would help the Dow keep up with S&P"
+    },
+    {
+      "title": "China will order 200 Boeing jets, Trump tells Fox News",
+      "description": "President Donald Trump told Fox News that China has agreed to buy 200 Boeing jets, according to a clip that aired Thursday.",
+      "url": "https://www.cnbc.com/2026/05/14/china-boeing-order-airplanes-737-max-trump-says.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-14T16:42:45+00:00",
+      "category": "USA",
+      "simple_explanation": "President Donald Trump told Fox News that China has agreed to buy 200 Boeing jets, according to a clip that aired Thursday."
+    },
+    {
+      "title": "XRP whale wallets hit all-time highs: Will it push price above $1.50?",
+      "description": "XRP whales are accumulating at record levels, increasing the chances of XRP price rise toward $2, fueled by growing XRPL activity and a bullish technical setup.",
+      "url": "https://cointelegraph.com/markets/xrp-whale-wallets-all-time-highs-will-it-push-price-above-1-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy93aGFsZS1yaXBwbGUuanBn.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-14T16:41:36+00:00",
+      "category": "Crypto",
+      "simple_explanation": "XRP whales are accumulating at record levels, increasing the chances of XRP price rise toward $2, fueled by growing XRPL activity and a bullish technical setup."
+    },
+    {
+      "title": "TSX up Near 250 Points at Midday, Led by Tech and Healthcare Sectors",
+      "description": "The Toronto Stock Exchange is up 247 points with most sectors higher midday Thursday. The best pe",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsx-near-250-points-midday-162006136.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T16:20:06+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The Toronto Stock Exchange is up 247 points with most sectors higher midday Thursday. The best pe"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
+      "description": "BSE Sensex and Nifty 50 extended gains for a second session, led by banking, metal and pharma stocks despite IT weakness. Analysts flagged 23,800 as a key resistance for Nifty, while broader market breadth remained mildly negative amid selective buying and selling pressure.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/131098165.cms",
+      "image": "https://img.etimg.com/photo/msid-131098165,imgsize-88630.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-14T16:16:25+00:00",
+      "category": "India",
+      "simple_explanation": "BSE Sensex and Nifty 50 extended gains for a second session, led by banking, metal and pharma stocks despite IT weakness. Analysts flagged 23,800 as a key resistance for Nifty, while broader market br"
+    },
+    {
+      "title": "Wesdome Gold Mines Balances Record Quarter With Heavy 2026 Drilling Plans",
+      "description": "Wesdome Gold Mines (TSX:WDO) reported record quarterly revenue, net income, and free cash flow for Q1 2026. The company highlighted strong operational performance at its producing mines alongside these financial results. Wesdome outlined plans to drill over 270,000 meters in 2026 to support potentia",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wesdome-gold-mines-balances-record-161256477.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T16:12:56+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Wesdome Gold Mines (TSX:WDO) reported record quarterly revenue, net income, and free cash flow for Q1 2026. The company highlighted strong operational performance at its producing mines alongside thes"
+    },
+    {
+      "title": "Cisco shares hit record on strong forecast, AI push with job cuts",
+      "description": "The jump, if sustained, would mark the best day for the stock since a robust earnings ‌reports in ⁠May ⁠2002 sparked a furious rally in the aftermath of the dotcom crash.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/cisco-shares-hit-record-on-strong-forecast-ai-push-with-job-cuts/articleshow/131098098.cms",
+      "image": "https://img.etimg.com/photo/msid-131098098,imgsize-238216.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-14T16:11:13+00:00",
+      "category": "India",
+      "simple_explanation": "The jump, if sustained, would mark the best day for the stock since a robust earnings ‌reports in ⁠May ⁠2002 sparked a furious rally in the aftermath of the dotcom crash."
+    },
+    {
+      "title": "Blackstone data center vehicle opens flat in New York debut after $1.75 billion IPO",
+      "description": "BLACKSTONE DIGITAL INFRASTRUCTURE TRUST-IPO/ (UPDATE 1)UPDATE 1-Blackstone data center vehicle opens flat in New York debut after $1.75 billion IPO",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/blackstone-data-center-vehicle-opens-flat-in-new-york-debut-after-1-75-billion-ipo/articleshow/131098053.cms",
+      "image": "https://img.etimg.com/photo/msid-131098053,imgsize-159340.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-14T16:08:46+00:00",
+      "category": "India",
+      "simple_explanation": "BLACKSTONE DIGITAL INFRASTRUCTURE TRUST-IPO/ (UPDATE 1)UPDATE 1-Blackstone data center vehicle opens flat in New York debut after $1.75 billion IPO"
+    },
+    {
+      "title": "The Iran War Sent Oil Above $100. These 3 Royalty Trusts Are Quietly Paying Double Digit Yields Because of It",
+      "description": "Oil is back in the headlines, and royalty trusts are quietly soaking up the rebound. With WTI crude flirting with and rising above $100 per barrel of late, the income side of the energy trade looks more interesting than it has in years. Royalty structures pass through commodity exposure without the ",
+      "url": "https://247wallst.com/investing/2026/05/14/the-iran-war-sent-oil-above-100-these-3-royalty-trusts-are-quietly-paying-double-digit-yields-because-of-it/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T16:05:54+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil is back in the headlines, and royalty trusts are quietly soaking up the rebound. With WTI crude flirting with and rising above $100 per barrel of late, the income side of the energy trade looks mo"
+    },
+    {
+      "title": "3 Non-Ferrous Metal Mining Stocks to Watch in a Challenging Industry",
+      "description": "Despite the Zacks Mining - Non Ferrous industry's weak near-term outlook, stocks like SCCO, FCX and LUNMF are worth keeping an eye on given their growth potential.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/3-non-ferrous-metal-mining-160100321.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T16:01:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Despite the Zacks Mining - Non Ferrous industry's weak near-term outlook, stocks like SCCO, FCX and LUNMF are worth keeping an eye on given their growth potential."
+    },
+    {
+      "title": "Bitcoin holds key support for $85K breakout as S&P 500 hits new all-time high",
+      "description": "Bitcoin entered recovery mode after inflation-induced losses, while US stocks shook off macro data with broader risk appetite \"skyrocketing.\"",
+      "url": "https://cointelegraph.com/markets/bitcoin-holds-support-for-85k-breakout-sp-500-new-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9neW0tdXAtYml0Y29pbi1ldGgtMS5qcGc=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-14T15:52:40+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin entered recovery mode after inflation-induced losses, while US stocks shook off macro data with broader risk appetite \"skyrocketing.\""
+    },
+    {
+      "title": "Mine restarts support West Africa’s gold recovery in 2026",
+      "description": "Ivory Coast is expected to become the third-largest gold producer in West Africa by 2026, surpassing Mali.",
+      "url": "https://www.mining-technology.com/analyst-comment/mine-restarts-support-west-africa-2026-gold-recovery/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T15:47:59+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Ivory Coast is expected to become the third-largest gold producer in West Africa by 2026, surpassing Mali."
+    },
+    {
+      "title": "Bitcoin ETF Outflows Just Hit a 3-Month High of $635 Million: What’s Driving the Exit?",
+      "description": "A few weeks ago, Bitcoin (CRYPTO: BTC) ETFs were the bull case. The funds pulled in $3.29 billion combined in March and April, marking the first sustained inflow streak of 2026. However, the streak snapped yesterday. U.S. spot Bitcoin ETFs bled $635 million, recording their largest outflow since lat",
+      "url": "https://247wallst.com/investing/2026/05/14/bitcoin-etf-outflows-just-hit-a-3-month-high-of-635-million-whats-driving-the-exit/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-14T15:43:40+00:00",
+      "category": "Crypto",
+      "simple_explanation": "A few weeks ago, Bitcoin (CRYPTO: BTC) ETFs were the bull case. The funds pulled in $3.29 billion combined in March and April, marking the first sustained inflow streak of 2026. However, the streak sn"
+    },
+    {
+      "title": "Honda suspends plans for new electric vehicle plant in Canada",
+      "description": "Japanese auto giant Honda said Thursday its plans to build a multi-billion-dollar electric vehicle plant in Canada have been \"indefinitely suspended,\" marking another blow to the country's tariff-hit auto sector.  Canada's auto industry has also been hit uniquely hard by Trump's tariffs, given the d",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/honda-suspends-plans-for-new-electric-vehicle-plant-in-canada/articleshow/131097601.cms",
+      "image": "https://img.etimg.com/photo/msid-131097601,imgsize-23536.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-14T15:38:32+00:00",
+      "category": "India",
+      "simple_explanation": "Japanese auto giant Honda said Thursday its plans to build a multi-billion-dollar electric vehicle plant in Canada have been \"indefinitely suspended,\" marking another blow to the country's tariff-hit "
+    },
+    {
+      "title": "Cisco shares pop over 17% to record peak on earnings beat, higher annual guidance",
+      "description": "Cisco Systems shares jumped 17.2% to $119.36 after strong Q3 results and raised revenue forecasts, driven by hyperscaler orders. Despite announcing 4,000 job cuts, the company expects Q4 revenue between $16.7 billion and $16.9 billion, benefiting from a surge in AI infrastructure demand.",
+      "url": "https://www.livemint.com/market/stock-market-news/cisco-shares-pop-over-17-to-record-peak-on-earnings-beat-higher-annual-guidance-11778768738321.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/14/1600x900/logo/CISCO-SYSTEMS-LAYOFFS--0_1723218337933_1778768734064_f0005421-77dd-4ad9-9c0a-c687a8cb1f65.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-05-14T15:33:40+00:00",
+      "category": "India",
+      "simple_explanation": "Cisco Systems shares jumped 17.2% to $119.36 after strong Q3 results and raised revenue forecasts, driven by hyperscaler orders. Despite announcing 4,000 job cuts, the company expects Q4 revenue betwe"
+    },
+    {
+      "title": "Market Trading Guide: Buy Zydus Lifesciences, Solar Industries on Friday for gains up to 15%",
+      "description": "Nifty 50 closed higher for a second straight session, driven by banking, metal and pharma stocks despite IT weakness. Analysts see 23,800 as a crucial resistance level, while recommending Zydus Lifesciences and Solar Industries India for near-term gains on strong technical indicators and bullish mom",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-zydus-lifesciences-solar-industries-on-friday-for-gains-up-to-15/articleshow/131097483.cms",
+      "image": "https://img.etimg.com/photo/msid-131097483,imgsize-10160.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-14T15:29:47+00:00",
+      "category": "India",
+      "simple_explanation": "Nifty 50 closed higher for a second straight session, driven by banking, metal and pharma stocks despite IT weakness. Analysts see 23,800 as a crucial resistance level, while recommending Zydus Lifesc"
     },
     {
       "title": "Jio Financial block deal: Goldman Sachs sells over 26.75 lakh shares worth Rs 62 crore",
       "description": "Jio Financial Services saw a ₹62 crore block deal as Goldman Sachs sold 26.75 lakh shares to Morgan Stanley. The stock gained 1.12% despite weak one-year performance and a 14% YoY profit decline in Q4FY26, even as revenue and AUM posted strong growth during the quarter.",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-financial-block-deal-goldman-sachs-sells-over-26-75-lakh-shares-worth-rs-62-crore/articleshow/131097029.cms",
-      "image": "https://img.etimg.com/photo/msid-131097029,imgsize-2251263.cms",
+      "image": "https://img.etimg.com/photo/msid-131097029,imgsize-7646.cms",
       "source": "ET Markets",
       "published_at": "2026-05-14T15:10:18+00:00",
       "category": "India",
@@ -31,16 +381,6 @@
       "published_at": "2026-05-14T15:09:47+00:00",
       "category": "USA",
       "simple_explanation": "President Donald Trump met Chinese President Xi Jinping in Beijing on Thursday morning for the start of a high-stakes summit that runs through Friday."
-    },
-    {
-      "title": "Stock Market Today: Dow Eyes 50,000 Level; Nvidia Jumps As Trump, Xi Meet (Live Coverage)",
-      "description": "The Dow Jones rose with Cisco soaring on earnings, while fellow Dow stocks Nvidia and Boeing could be Trump-Xi summit winners.",
-      "url": "https://finance.yahoo.com/m/40f20718-1adc-3bce-bb08-29c8ed6334bf/stock-market-today%3A-dow-eyes.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T15:04:59+00:00",
-      "category": "USA",
-      "simple_explanation": "The Dow Jones rose with Cisco soaring on earnings, while fellow Dow stocks Nvidia and Boeing could be Trump-Xi summit winners."
     },
     {
       "title": "Tether-backed Oobit expands crypto payments platform into Colombia",
@@ -61,346 +401,6 @@
       "published_at": "2026-05-14T14:55:18+00:00",
       "category": "Crypto",
       "simple_explanation": "For years, investors have been told the Federal Reserve was draining liquidity from the financial system. Higher interest rates, quantitative tightening, and tough inflation talk all pointed toward ti"
-    },
-    {
-      "title": "S&P upgrades Vedanta Resources rating on stronger finances, demerger",
-      "description": "The rating upgrade reflects the company's strengthening financial operations, improving cost structures, proactive refinancing and continued deleveraging, following the group's demerger, S&P Global Ratings said in a statement.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sp-upgrades-vedanta-resources-rating-on-stronger-finances-demerger/articleshow/131096731.cms",
-      "image": "https://img.etimg.com/photo/msid-131096731,imgsize-94130.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-14T14:53:02+00:00",
-      "category": "India",
-      "simple_explanation": "The rating upgrade reflects the company's strengthening financial operations, improving cost structures, proactive refinancing and continued deleveraging, following the group's demerger, S&P Global Ra"
-    },
-    {
-      "title": "How Low Can Lowe’s Stock Go?",
-      "description": "Every seasoned investor knows that market shocks are inevitable, but few are prepared for the specific depth of the hit. Historically, across 15 major crises, Lowe's (NYSE: LOW) absorbs an average drawdown of 18% compared to the S&P 500’s average decline of 16%. While the stock often tracks the broa",
-      "url": "https://www.trefis.com/articles/599392/how-low-can-lowes-stock-go/2026-05-14?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T14:50:51+00:00",
-      "category": "USA",
-      "simple_explanation": "Every seasoned investor knows that market shocks are inevitable, but few are prepared for the specific depth of the hit. Historically, across 15 major crises, Lowe's (NYSE: LOW) absorbs an average dra"
-    },
-    {
-      "title": "Cisco CEO says tech is entering a 'networking supercycle' as stock pops 14% on strong AI demand",
-      "description": "Shares headed for their best day in more than two decades after Cisco blew past its AI infrastructure and hyperscaler orders guidance for the fiscal year",
-      "url": "https://www.cnbc.com/2026/05/14/cisco-csco-pops-on-ai-demand.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-14T14:48:25+00:00",
-      "category": "USA",
-      "simple_explanation": "Shares headed for their best day in more than two decades after Cisco blew past its AI infrastructure and hyperscaler orders guidance for the fiscal year"
-    },
-    {
-      "title": "Strategy’s Bitcoin engine faces $28B STRC ceiling: Delphi Digital",
-      "description": "Strategy is approaching the $28 billion issuance limit on its STRC stock, but Delphi researchers pointed to other capital-raising mechanisms that may fuel its BTC accumulation.",
-      "url": "https://cointelegraph.com/news/strategys-bitcoin-engine-28b-strc-ceiling-delphi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGF0LWlzLXRoZS1kZWJ0LWNlaWxpbmctYW5kLXdoeS1pdC1pcy1pbXBvcnRhbnQuanBn.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-14T14:42:57+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Strategy is approaching the $28 billion issuance limit on its STRC stock, but Delphi researchers pointed to other capital-raising mechanisms that may fuel its BTC accumulation."
-    },
-    {
-      "title": "Baron Asset Fund Sold Bio-Techne Corporation (TECH) Due to Concerns Over Potential Impact of AI",
-      "description": "Baron Capital, an investment management company, released its Q1 2026 investor letter for the “Baron Asset Fund”. A copy of the letter is available to download here. U.S. equity markets started the year on a positive note. In February, market dynamics changed due to concerns about AI disruption, acc",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/baron-asset-fund-sold-bio-144253226.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T14:42:53+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Baron Capital, an investment management company, released its Q1 2026 investor letter for the “Baron Asset Fund”. A copy of the letter is available to download here. U.S. equity markets started the ye"
-    },
-    {
-      "title": "Baron Asset Fund Bets on Vulcan Materials Company’s (VMC) Attractive Long-Term Growth Potential",
-      "description": "Baron Capital, an investment management company, released its Q1 2026 investor letter for the “Baron Asset Fund”. A copy of the letter is available to download here. U.S. equity markets started the year on a positive note. In February, market dynamics changed due to concerns about AI disruption, acc",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/baron-asset-fund-bets-vulcan-144112630.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T14:41:12+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Baron Capital, an investment management company, released its Q1 2026 investor letter for the “Baron Asset Fund”. A copy of the letter is available to download here. U.S. equity markets started the ye"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-14T14:41:10+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation."
-    },
-    {
-      "title": "Retail sales growth slowed in April from March as higher gas cost leaves less room for nonessentials",
-      "description": "Japanese auto giant Honda said Thursday its plans to build a multi-billion-dollar electric vehicle plant in Canada have been \"indefinitely suspended,\" marking another blow to the country's tariff-hit auto sector.  Canada's auto industry has also been hit uniquely hard by Trump's tariffs, given the d",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/retail-sales-growth-slowed-in-april-from-march-as-higher-gas-cost-leaves-less-room-for-nonessentials/articleshow/131096521.cms",
-      "image": "https://img.etimg.com/photo/msid-131096521,imgsize-335278.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-14T14:40:56+00:00",
-      "category": "India",
-      "simple_explanation": "Japanese auto giant Honda said Thursday its plans to build a multi-billion-dollar electric vehicle plant in Canada have been \"indefinitely suspended,\" marking another blow to the country's tariff-hit "
-    },
-    {
-      "title": "Do You Believe in the Long-Term Growth Potential of IDEXX Laboratories (IDXX)?",
-      "description": "Baron Capital, an investment management company, released its Q1 2026 investor letter for the “Baron Asset Fund”. A copy of the letter is available to download here. U.S. equity markets started the year on a positive note. In February, market dynamics changed due to concerns about AI disruption, acc",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/believe-long-term-growth-potential-143933432.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T14:39:33+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Baron Capital, an investment management company, released its Q1 2026 investor letter for the “Baron Asset Fund”. A copy of the letter is available to download here. U.S. equity markets started the ye"
-    },
-    {
-      "title": "Quanta Services (PWR) Benefits from Energy-Related Infrastructure Growth",
-      "description": "Baron Capital, an investment management company, released its Q1 2026 investor letter for the “Baron Asset Fund”. A copy of the letter is available to download here. U.S. equity markets started the year on a positive note. In February, market dynamics changed due to concerns about AI disruption, acc",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/quanta-services-pwr-benefits-energy-143735468.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T14:37:35+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Baron Capital, an investment management company, released its Q1 2026 investor letter for the “Baron Asset Fund”. A copy of the letter is available to download here. U.S. equity markets started the ye"
-    },
-    {
-      "title": "U.S. can hold AI talks with China because ‘we are in the lead,’ Bessent tells CNBC as nations plan safety protocol",
-      "description": "The U.S. Treasury secretary also said President Donald Trump would likely comment on the Taiwan issue in coming days.",
-      "url": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-14T14:37:08+00:00",
-      "category": "USA",
-      "simple_explanation": "The U.S. Treasury secretary also said President Donald Trump would likely comment on the Taiwan issue in coming days."
-    },
-    {
-      "title": "Darling Ingredients (DAR) Surged on Continued Momentum Ahead of RVO",
-      "description": "Aristotle Capital Management, LLC, an investment management company, released its “Core Equity Fund” first-quarter 2026 investor letter. A copy of the letter can be downloaded here. During the first quarter, the U.S. equity market declined, with the S&P 500 Index falling by 4.33%. The fixed-income s",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/darling-ingredients-dar-surged-continued-143054053.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T14:30:54+00:00",
-      "category": "USA",
-      "simple_explanation": "Aristotle Capital Management, LLC, an investment management company, released its “Core Equity Fund” first-quarter 2026 investor letter. A copy of the letter can be downloaded here. During the first q"
-    },
-    {
-      "title": "What Makes Coherent (COHR) a Lucrative Investment?",
-      "description": "Aristotle Capital Management, LLC, an investment management company, released its “Core Equity Fund” first-quarter 2026 investor letter. A copy of the letter can be downloaded here. During the first quarter, the U.S. equity market declined, with the S&P 500 Index falling by 4.33%. The fixed-income s",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-coherent-cohr-lucrative-investment-142829891.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T14:28:29+00:00",
-      "category": "USA",
-      "simple_explanation": "Aristotle Capital Management, LLC, an investment management company, released its “Core Equity Fund” first-quarter 2026 investor letter. A copy of the letter can be downloaded here. During the first q"
-    },
-    {
-      "title": "Boston Scientific (BSX) Fell Amid Concerns Over Growth Durability",
-      "description": "Aristotle Capital Management, LLC, an investment management company, released its “Core Equity Fund” first-quarter 2026 investor letter. A copy of the letter can be downloaded here. During the first quarter, the U.S. equity market declined, with the S&P 500 Index falling by 4.33%. The fixed-income s",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/boston-scientific-bsx-fell-amid-142642940.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T14:26:42+00:00",
-      "category": "USA",
-      "simple_explanation": "Aristotle Capital Management, LLC, an investment management company, released its “Core Equity Fund” first-quarter 2026 investor letter. A copy of the letter can be downloaded here. During the first q"
-    },
-    {
-      "title": "Who supports CLARITY on the US Senate Banking Committee?",
-      "description": "The US Senate banking committee will hold a markup session on May 14 for the CLARITY Act, and support appears at least nominally bipartisan.",
-      "url": "https://cointelegraph.com/features/who-supports-clarity-act-senate-banking-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1iZXR0ZXIta25vdy1hLWNyeXB0by1jYW5kaWRhdGUuanBn.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-14T14:22:34+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The US Senate banking committee will hold a markup session on May 14 for the CLARITY Act, and support appears at least nominally bipartisan."
-    },
-    {
-      "title": "Bessent sees 'substantial disinflation' ahead as Warsh takes over the Fed",
-      "description": "Bessent said the energy-fed inflation surge recently is likely to reverse as the U.S. is \"going to keep pumping.\"",
-      "url": "https://www.cnbc.com/2026/05/14/bessent-sees-substantial-disinflation-ahead-as-warsh-takes-over-the-fed.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-14T14:20:36+00:00",
-      "category": "USA",
-      "simple_explanation": "Bessent said the energy-fed inflation surge recently is likely to reverse as the U.S. is \"going to keep pumping.\""
-    },
-    {
-      "title": "Gold Fluctuates as Market Weighs Federal Reserve Rate Path",
-      "description": "(Bloomberg) -- Gold swung between gains and losses as investors weighed the Federal Reserve’s interest-rate path after US data this week showed a war-driven surge in inflation.Most Read from BloombergIran’s Kharg Island Oil Jetties Empty Again Yesterday, Satellite ShowsWhat Is The Thucydides Trap an",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-steady-climbing-us-060718980.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T14:19:54+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Bloomberg) -- Gold swung between gains and losses as investors weighed the Federal Reserve’s interest-rate path after US data this week showed a war-driven surge in inflation.Most Read from Bloomberg"
-    },
-    {
-      "title": "US Natural Gas Rally Lifted Antero Resources Corporation (AR) in Q1",
-      "description": "Aristotle Capital Management, LLC, an investment management company, released its “Core Equity Fund” first-quarter 2026 investor letter. A copy of the letter can be downloaded here. During the first quarter, the U.S. equity market declined, with the S&P 500 Index falling by 4.33%. The fixed-income s",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/us-natural-gas-rally-lifted-141816774.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T14:18:16+00:00",
-      "category": "USA",
-      "simple_explanation": "Aristotle Capital Management, LLC, an investment management company, released its “Core Equity Fund” first-quarter 2026 investor letter. A copy of the letter can be downloaded here. During the first q"
-    },
-    {
-      "title": "What's preventing Bitcoin price from breaking above $80K?",
-      "description": "Bitcoin struggles to regain its footing above $80,000 as some buyers remain hesitant and heavy resistance builds overhead.",
-      "url": "https://cointelegraph.com/markets/whats-preventing-bitcoin-price-from-breaking-above-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1iaXRjb2lucy1oaWRkZW4tbWVzc2FnZXMtYml0Y29pbi1wcmljZS5qcGc=.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-14T14:18:05+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin struggles to regain its footing above $80,000 as some buyers remain hesitant and heavy resistance builds overhead."
-    },
-    {
-      "title": "Are retail investors leaning away from software amid tech rally?",
-      "description": "While record-breaking rallies in tech push the US market (^DJI, ^IXIC, ^GSPC) to new heights in 2026, are retail investors still as engaged with these market dynamics that come with these massive valuations? Yahoo Finance Senior Reporters Ines Ferré and Brooke DiPalma comment on the latest trends in",
-      "url": "https://finance.yahoo.com/video/retail-investors-leaning-away-software-141600541.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T14:16:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "While record-breaking rallies in tech push the US market (^DJI, ^IXIC, ^GSPC) to new heights in 2026, are retail investors still as engaged with these market dynamics that come with these massive valu"
-    },
-    {
-      "title": "Barrick Mining Stock Still Looks Undervalued At $44",
-      "description": "Barrick Mining Corp (NYSE: B) sits on 89 million ounces of proven and probable gold reserves. At gold prices near $4,700 an ounce, that's more than $400 billion worth of gold in the ground against a market cap of roughly $75 billion.",
-      "url": "https://www.trefis.com/articles/599393/barrick-mining-stock-still-looks-undervalued-at-44/2026-05-14?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T14:11:50+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Barrick Mining Corp (NYSE: B) sits on 89 million ounces of proven and probable gold reserves. At gold prices near $4,700 an ounce, that's more than $400 billion worth of gold in the ground against a m"
-    },
-    {
-      "title": "Wall Street rises on strong AI outlook, US-China talks in focus, Nvidia surges 3%, Cisco jumps 16%",
-      "description": "At 09:54 a.m. ET, the Dow Jones Industrial Average rose 0.54%, the S&amp;P 500 gained 0.38%, the Nasdaq Composite gained 0.35%",
-      "url": "https://www.livemint.com/market/stock-market-news/wall-street-rises-as-nvidia-cisco-gain-us-china-talks-in-focus-11778766998361.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/14/1600x900/Financial-Markets-Wall-Street-2_1778767157258_1778767184205_e6eb3011-0a04-4c11-aac5-7d944a594be4.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-14T14:11:18+00:00",
-      "category": "India",
-      "simple_explanation": "At 09:54 a.m. ET, the Dow Jones Industrial Average rose 0.54%, the S&amp;P 500 gained 0.38%, the Nasdaq Composite gained 0.35%"
-    },
-    {
-      "title": "Shadowfax Q4 Results: Co reports Rs 56 crore profit, revenue up 74%",
-      "description": "Revenue for the quarter under review grew nearly 73.73 per cent year-on-year (YoY) to Rs 1,237 crore from Rs 712 crore a year ago, Shadowfax said in a regulatory filing.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/shadowfax-q4-results-co-reports-rs-56-crore-profit-revenue-up-74/articleshow/131095752.cms",
-      "image": "https://img.etimg.com/photo/msid-131095752,imgsize-73364.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-14T14:10:09+00:00",
-      "category": "India",
-      "simple_explanation": "Revenue for the quarter under review grew nearly 73.73 per cent year-on-year (YoY) to Rs 1,237 crore from Rs 712 crore a year ago, Shadowfax said in a regulatory filing."
-    },
-    {
-      "title": "Red Metal signs five-year mining lease for Chile’s Carrizal property",
-      "description": "The Carrizal property in the Carrizal Alto mining district includes 21 mining concessions covering a total of 3,278ha.",
-      "url": "https://www.mining-technology.com/news/red-metal-mining-lease-carrizal-property/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T14:10:03+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The Carrizal property in the Carrizal Alto mining district includes 21 mining concessions covering a total of 3,278ha."
-    },
-    {
-      "title": "Clawville unleashes the first AI-native open world MMORPG into the Milady Ecosystem",
-      "description": "The next major evolution of gaming may come from a rapidly growing digital universe where AI agents and humans coexist, compete, collaborate, learn, earn, and evolve together in real time.",
-      "url": "https://cointelegraph.com/press-releases/clawville-unleashes-the-first-ai-native-open-world-mmorpg-into-the-milady-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9wci05LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-14T14:07:26+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The next major evolution of gaming may come from a rapidly growing digital universe where AI agents and humans coexist, compete, collaborate, learn, earn, and evolve together in real time."
-    },
-    {
-      "title": "Rs 1,435 crore Adani Enterprises block deal sees GQG sell stake to India's largest mutual fund",
-      "description": "Marquee investor GQG Partners offloaded nearly 58.9 lakh shares of Adani Enterprises for approximately Rs 1,435 crore in a significant block deal. SBI Mutual Fund acquired the entire stake at Rs 2,435.6 per share. This transaction occurred as Adani Enterprises' stock experienced a sharp rally, climb",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gqg-partners-sells-nearly-59-lakh-shares-of-adani-enterprises-for-rs-143crore/articleshow/131095627.cms",
-      "image": "https://img.etimg.com/photo/msid-131095627,imgsize-84658.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-14T14:07:16+00:00",
-      "category": "India",
-      "simple_explanation": "Marquee investor GQG Partners offloaded nearly 58.9 lakh shares of Adani Enterprises for approximately Rs 1,435 crore in a significant block deal. SBI Mutual Fund acquired the entire stake at Rs 2,435"
-    },
-    {
-      "title": "United Spirits Q4 Results: Profit jumps 27% on demand for premium liquor",
-      "description": "Karnataka, one of India's highest-tax ​alcohol markets, said ​in March it ⁠will scrap government price controls and shift to strength-based excise taxation from April 2026, allowing companies to set prices while ​cutting tax slabs.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/united-spirits-q4-results-profit-jumps-27-on-demand-for-premium-liquor/articleshow/131095584.cms",
-      "image": "https://img.etimg.com/photo/msid-131095584,imgsize-14844.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-14T14:02:08+00:00",
-      "category": "India",
-      "simple_explanation": "Karnataka, one of India's highest-tax ​alcohol markets, said ​in March it ⁠will scrap government price controls and shift to strength-based excise taxation from April 2026, allowing companies to set p"
-    },
-    {
-      "title": "Northstar Gold targets Allied Gold Zone expansion at Miller property",
-      "description": "Northstar Gold Corp. (CSE:NSG) announced that it is advancing exploration and development work at its 100%-owned Miller copper-gold property, located approximately 18 kilometres southeast of Kirkland Lake, Ontario, while outlining plans for renewed drilling at the Allied Gold Zone and continued...",
-      "url": "https://www.proactiveinvestors.com/companies/news/1092307/northstar-gold-targets-allied-gold-zone-expansion-at-miller-property-1092307.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T13:59:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Northstar Gold Corp. (CSE:NSG) announced that it is advancing exploration and development work at its 100%-owned Miller copper-gold property, located approximately 18 kilometres southeast of Kirkland "
-    },
-    {
-      "title": "Cisco surges on Q3 AI demand, while cutting 4,000 jobs in AI overhaul",
-      "description": "Cisco Systems (CSCO) stock has surged by double-digits since reporting fiscal third quarter results in Wednesday's extended hours, topping Wall Street expectations with revenue of $15.84 billion and adjusted earnings of $1.06 per share. This comes after the cloud operator laid off 4,000 workers as p",
-      "url": "https://finance.yahoo.com/video/cisco-surges-on-q3-ai-demand-while-cutting-4000-jobs-in-ai-overhaul-135252913.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T13:52:52+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Cisco Systems (CSCO) stock has surged by double-digits since reporting fiscal third quarter results in Wednesday's extended hours, topping Wall Street expectations with revenue of $15.84 billion and a"
-    },
-    {
-      "title": "Grasberg Disruptions Weigh on FCX's Q1 Volumes: What Lies Ahead?",
-      "description": "FCX cuts 2026 copper sales outlook after Grasberg disruptions hit volumes, despite stronger copper and gold prices boosting Q1 results.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/grasberg-disruptions-weigh-fcxs-q1-135200227.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T13:52:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "FCX cuts 2026 copper sales outlook after Grasberg disruptions hit volumes, despite stronger copper and gold prices boosting Q1 results."
-    },
-    {
-      "title": "Dow Flirts With 50000 as Investors Focus on AI Trade",
-      "description": "U.S. stocks continued their upswing as artificial intelligence remained investors’ primary focus.",
-      "url": "https://www.wsj.com/finance/u-s-futures-european-markets-rise-on-nvidia-led-rally-trump-xi-summit-eyed-992bf06e?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-14T13:49:00+00:00",
-      "category": "USA",
-      "simple_explanation": "U.S. stocks continued their upswing as artificial intelligence remained investors’ primary focus."
-    },
-    {
-      "title": "P N Gadgil Jewellers Q4 Results: Net profit jumps 45% to  ₹90 crore, revenue rises 123%; margins contract sharply",
-      "description": "P N Gadgil Jewellers saw strong growth in revenue and profit for the March quarter, with consolidated revenue up 123.2% YoY to  ₹354.4 crore. However, margins contracted sharply. The company expanded its retail presence to 78 stores, aiming for pan-India leadership.",
-      "url": "https://www.livemint.com/market/stock-market-news/p-n-gadgil-jewellers-q4-results-net-profit-jumps-45-to-rs-90-crore-revenue-rises-123-margins-contract-sharply-11778762382696.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/14/1600x900/logo/gold_jewel_1677948250353_1778762379148_6690729f-c8fa-4434-8a4e-1bf851b40ba9.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-14T13:44:58+00:00",
-      "category": "India",
-      "simple_explanation": "P N Gadgil Jewellers saw strong growth in revenue and profit for the March quarter, with consolidated revenue up 123.2% YoY to  ₹354.4 crore. However, margins contracted sharply. The company expanded "
-    },
-    {
-      "title": "US stocks today: US stocks open higher as Nvidia gains; US-China talks, data in focus",
-      "description": "Wall ​Street ​stock indexes opened higher ​on Thursday as Nvidia's shares ‌jumped, ⁠while investors assessed ⁠economic ​data and watched developments ​around the high-stakes U.S.-China summit.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-opens-higher-as-nvidia-gains-us-china-talks-data-in-focus/articleshow/131095044.cms",
-      "image": "https://img.etimg.com/photo/msid-131095044,imgsize-243472.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-14T13:37:54+00:00",
-      "category": "India",
-      "simple_explanation": "Wall ​Street ​stock indexes opened higher ​on Thursday as Nvidia's shares ‌jumped, ⁠while investors assessed ⁠economic ​data and watched developments ​around the high-stakes U.S.-China summit."
-    },
-    {
-      "title": "Versant stock jumps 10% after company's Q1 report shows bright spots in licensing, platforms",
-      "description": "Versant, the portfolio of TV networks spun out from Comcast, reported earnings for its first quarter as an independent company.",
-      "url": "https://www.cnbc.com/2026/05/14/versant-vsnt-earnings-q1-2026.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-14T13:36:46+00:00",
-      "category": "USA",
-      "simple_explanation": "Versant, the portfolio of TV networks spun out from Comcast, reported earnings for its first quarter as an independent company."
     }
   ]
 }
