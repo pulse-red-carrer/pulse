@@ -1,16 +1,326 @@
 {
-  "last_updated": "2026-05-27T00:05:01.580364+00:00",
+  "last_updated": "2026-05-27T05:15:55.048021+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Dow Jones Futures: S&P 500, Nasdaq Hit Highs, Micron Tops $1 Trillion; 5 AI Stocks In Buy Areas",
-      "description": "The S&P 500, Nasdaq and Russell 2000 hit new highs as Micron surged to top a $1 trillion market cap. Caterpillar, Viavi flashed buy signals.",
-      "url": "https://finance.yahoo.com/m/b3d9e0f6-e3c6-3f5a-bc62-e600e88c723b/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss",
+      "title": "Oil prices retreat amid fresh scope of US-Iran peace talks; Brent crude at $98/bbl. Where are they headed?",
+      "description": "Crude oil prices have retreated, with MCX crude falling over 2% to  ₹8,840 per barrel. Ongoing geopolitical tensions are impacting oil markets, as traders await clarity on US-Iran negotiations.",
+      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-retreat-amid-fresh-scope-of-us-iran-peace-talks-brent-crude-at-98-bbl-where-are-they-headed-11779855103466.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/27/1600x900/logo/crude_1779857159500_1779857159654_dcf3b6ea-3155-4ccd-95e2-a7333fd44c34.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-27T05:07:45+00:00",
+      "category": "India",
+      "simple_explanation": "Crude oil prices have retreated, with MCX crude falling over 2% to  ₹8,840 per barrel. Ongoing geopolitical tensions are impacting oil markets, as traders await clarity on US-Iran negotiations."
+    },
+    {
+      "title": "Stock Market Holiday 2026: Are NSE, BSE closed tomorrow on May 28 for Bakri Id? Check market holidays here",
+      "description": "Indian stock markets will observe a shortened trading week due to the Bakri Id holiday on Thursday, May 28. This marks the ninth market holiday of 2026, with seven more scheduled before year-end.  The Multi Commodity Exchange will have a partial closure, while the National Commodity & Derivatives Ex",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-are-nse-bse-closed-tomorrow-on-may-28-for-bakri-id-check-market-holidays-here/articleshow/131341946.cms",
+      "image": "https://img.etimg.com/photo/msid-131341946,imgsize-48412.cms",
+      "source": "ET Markets",
+      "published_at": "2026-05-27T05:04:12+00:00",
+      "category": "India",
+      "simple_explanation": "Indian stock markets will observe a shortened trading week due to the Bakri Id holiday on Thursday, May 28. This marks the ninth market holiday of 2026, with seven more scheduled before year-end.  The"
+    },
+    {
+      "title": "Behind the petrol pump: Why fuel retailers losing Rs 7-8 per litre need $85 crude oil to stop bleeding cash",
+      "description": "Oil companies face continued losses of Rs 7-8 per litre on petrol and diesel, with a breakeven point only at crude prices of $85-87 a barrel. Despite recent price hikes, government reluctance to reverse duty cuts and fiscal pressures mean OMCs are absorbing the pain, potentially impacting non-defenc",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/behind-the-petrol-pump-why-fuel-retailers-losing-rs-7-8-per-litre-need-85-crude-oil-to-stop-bleeding-cash/articleshow/131341898.cms",
+      "image": "https://img.etimg.com/photo/msid-131341898,imgsize-2449631.cms",
+      "source": "ET Markets",
+      "published_at": "2026-05-27T04:58:40+00:00",
+      "category": "India",
+      "simple_explanation": "Oil companies face continued losses of Rs 7-8 per litre on petrol and diesel, with a breakeven point only at crude prices of $85-87 a barrel. Despite recent price hikes, government reluctance to rever"
+    },
+    {
+      "title": "SK Hynix hits $1 trillion valuation as AI boom lifts South Korean chip stocks",
+      "description": "Shares of SK Hynix soared over 11% on Wednesday, pushing the South Korean memory-chip maker above the $1 trillion market capitalization mark.",
+      "url": "https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-27T04:52:07+00:00",
+      "category": "USA",
+      "simple_explanation": "Shares of SK Hynix soared over 11% on Wednesday, pushing the South Korean memory-chip maker above the $1 trillion market capitalization mark."
+    },
+    {
+      "title": "HDFC Bank share price falls over 2% after report flags internal probe into  ₹45 crore interest payments to MSRDC",
+      "description": "A report said that an internal vigilance probe at HDFC Bank examined “differential interest” payments amounting to  ₹45 crore made to the Maharashtra State Road Development Corporation (MSRDC).",
+      "url": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-falls-over-2-after-report-flags-internal-probe-into-rs-45-crore-interest-payments-to-msrdc-11779856916140.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/27/1600x900/logo/HDB-FINANCIALSERVICES-IPO--0_1733848469052_1779857320805_fdbdc422-ac21-44ad-b116-5a8253604cda.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-05-27T04:49:17+00:00",
+      "category": "India",
+      "simple_explanation": "A report said that an internal vigilance probe at HDFC Bank examined “differential interest” payments amounting to  ₹45 crore made to the Maharashtra State Road Development Corporation (MSRDC)."
+    },
+    {
+      "title": "European companies double down on China manufacturing despite EU de-risking push",
+      "description": "Low manufacturing costs in China are keeping many European businesses' supply chains in the country despite pressure in the EU to reduce overseas reliance.",
+      "url": "https://www.cnbc.com/2026/05/27/european-companies-expand-china-supply-chains-automation-costs.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-27T04:49:15+00:00",
+      "category": "USA",
+      "simple_explanation": "Low manufacturing costs in China are keeping many European businesses' supply chains in the country despite pressure in the EU to reduce overseas reliance."
+    },
+    {
+      "title": "Base launches new tool to connect crypto wallets to AI agents",
+      "description": "AI models will be able to transfer funds, swap tokens, check balances and review transaction history with a new tool from Base.",
+      "url": "https://cointelegraph.com/news/base-launches-mcp-ttol-to-connect-crypto-wallets-to-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGF0LWlzLWJhc2UtY29pbmJhc2UtbDItbmV0d29yay5qcGc=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-27T04:49:13+00:00",
+      "category": "Crypto",
+      "simple_explanation": "AI models will be able to transfer funds, swap tokens, check balances and review transaction history with a new tool from Base."
+    },
+    {
+      "title": "Aequs Shares slide 6% after Q4 swings to loss despite strong revenue growth",
+      "description": "Aequs Limited shares fell 6.25% after reporting a sharp decline in Q4FY26 profitability and widened full-year losses, despite robust revenue growth. Investors are concerned over rising operational costs and losses in the consumer electronics business, even as the aerospace segment shows strong momen",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/aequs-shares-slide-6-after-q4-swings-to-loss-despite-strong-revenue-growth/articleshow/131341732.cms",
+      "image": "https://img.etimg.com/photo/msid-131341732,imgsize-12350.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-27T04:48:30+00:00",
+      "category": "India",
+      "simple_explanation": "Aequs Limited shares fell 6.25% after reporting a sharp decline in Q4FY26 profitability and widened full-year losses, despite robust revenue growth. Investors are concerned over rising operational cos"
+    },
+    {
+      "title": "Coal India shares slide 6% after PSU prices Rs 5,000 crore OFS at 10% discount",
+      "description": "Coal India shares dropped after the government announced plans to sell up to a 2% stake in the company through an Offer for Sale (OFS). The floor price was set at Rs 412 per share, about 10% lower than the previous NSE closing price of Rs 458.15.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/coal-india-shares-slide-6-after-psu-prices-rs-5000-crore-ofs-at-10-discount/articleshow/131341625.cms",
+      "image": "https://img.etimg.com/photo/msid-131341625,imgsize-6372.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-27T04:39:43+00:00",
+      "category": "India",
+      "simple_explanation": "Coal India shares dropped after the government announced plans to sell up to a 2% stake in the company through an Offer for Sale (OFS). The floor price was set at Rs 412 per share, about 10% lower tha"
+    },
+    {
+      "title": "US Stock Market: Space stocks surge as SpaceX IPO buzz fuels investor rally",
+      "description": "Aerospace and satellite stocks surged Tuesday, fueled by optimism around SpaceX's potential IPO and growing confidence in commercial space exploration. Companies like Redwire Corp. and AST SpaceMobile Inc. saw significant gains, with analysts highlighting potential beneficiaries of increased market ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-space-stocks-surge-as-spacex-ipo-buzz-fuels-investor-rally/articleshow/131341551.cms",
+      "image": "https://img.etimg.com/photo/msid-131341551,imgsize-44700.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-27T04:34:27+00:00",
+      "category": "India",
+      "simple_explanation": "Aerospace and satellite stocks surged Tuesday, fueled by optimism around SpaceX's potential IPO and growing confidence in commercial space exploration. Companies like Redwire Corp. and AST SpaceMobile"
+    },
+    {
+      "title": "Vegorama Punjabi Angithi shares list at 53% premium over IPO price, extend rise to hit 5% upper band",
+      "description": "Vegorama Punjabi Angithi share price debuted at  ₹118.10 as against its IPO price of  ₹77, resulting in a listing pop of  ₹41.10 or 53.38%. Soon after listing, the stock hit the 55 upper price band of  ₹124.",
+      "url": "https://www.livemint.com/market/ipo/vegorama-punjabi-angithi-ipo-listing-vegorama-punjabi-angithi-shares-list-at-53-premium-over-ipo-price-on-bse-sme-11779856254543.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/27/1600x900/g2c1d9ee49aa8592b8e3eab116f6b2897c0adf1b3b5b5c8d8e_1737699840758_1779856345495_3e09bfcf-1616-494b-b183-e92301f5c0ea.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-27T04:32:37+00:00",
+      "category": "India",
+      "simple_explanation": "Vegorama Punjabi Angithi share price debuted at  ₹118.10 as against its IPO price of  ₹77, resulting in a listing pop of  ₹41.10 or 53.38%. Soon after listing, the stock hit the 55 upper price band of"
+    },
+    {
+      "title": "US Market: Fed, FDIC push leaner, risk-focused bank supervision",
+      "description": "US financial regulators are enacting significant changes to bank oversight, moving away from detailed paperwork towards focusing on \"material financial risks.\" This overhaul, the most substantial since the 2008 crisis, aims to streamline supervision by reducing reliance on subjective metrics like re",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-fed-fdic-push-leaner-risk-focused-bank-supervision/articleshow/131341507.cms",
+      "image": "https://img.etimg.com/photo/msid-131341507,imgsize-9168.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-27T04:29:54+00:00",
+      "category": "India",
+      "simple_explanation": "US financial regulators are enacting significant changes to bank oversight, moving away from detailed paperwork towards focusing on \"material financial risks.\" This overhaul, the most substantial sinc"
+    },
+    {
+      "title": "FirstCry shares fall 3% despite Q4 net loss narrowing to Rs 30 crore. What is Morgan Stanley saying?",
+      "description": "FirstCry-parent Brainbees Solutions saw its shares dip over 3% despite a 61% narrowing of its Q4 net loss to Rs 30.30 crore. While revenue grew 12% year-on-year to Rs 2,163 crore, it declined sequentially. The company anticipates improved growth in FY27, with plans to expand its offline store presen",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/firstcry-shares-fall-3-despite-q4-net-loss-narrowing-to-rs-30-crore-what-is-morgan-stanley-saying/articleshow/131341503.cms",
+      "image": "https://img.etimg.com/photo/msid-131341503,imgsize-8372.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-27T04:28:48+00:00",
+      "category": "India",
+      "simple_explanation": "FirstCry-parent Brainbees Solutions saw its shares dip over 3% despite a 61% narrowing of its Q4 net loss to Rs 30.30 crore. While revenue grew 12% year-on-year to Rs 2,163 crore, it declined sequenti"
+    },
+    {
+      "title": "Global Market: BOJ’s Ueda warns oil shocks can trigger lasting inflation if wages and expectations rise",
+      "description": "Central banks must consider broader economic factors beyond isolated oil price movements, as temporary energy shocks can fuel persistent inflation if they influence wages and pricing behavior. Governor Ueda highlighted that the impact of oil price surges depends on prevailing inflation expectations ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bojs-ueda-warns-oil-shocks-can-trigger-lasting-inflation-if-wages-and-expectations-rise/articleshow/131341466.cms",
+      "image": "https://img.etimg.com/photo/msid-131341466,imgsize-5228.cms",
+      "source": "Economic Times",
+      "published_at": "2026-05-27T04:24:08+00:00",
+      "category": "India",
+      "simple_explanation": "Central banks must consider broader economic factors beyond isolated oil price movements, as temporary energy shocks can fuel persistent inflation if they influence wages and pricing behavior. Governo"
+    },
+    {
+      "title": "Costco Stock Has Been Pulling Back Again. Time to Buy?",
+      "description": "The membership-based retailer's sales are accelerating, not slowing -- but the stock's valuation still leaves little room for error.",
+      "url": "https://www.fool.com/investing/2026/05/26/costco-stock-has-been-pulling-back-again-time-to-b/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-05-26T23:44:26+00:00",
+      "published_at": "2026-05-27T04:11:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The membership-based retailer's sales are accelerating, not slowing -- but the stock's valuation still leaves little room for error."
+    },
+    {
+      "title": "ONGC shares fall 4% despite 46% YoY jump in Q4 profit; revenue rises 4%",
+      "description": "ONGC shares fell as much as 4% on Wednesday despite the state-run explorer reporting a 46% YoY rise in consolidated Q4 net profit to Rs 10,820 crore. Revenue from operations grew 4% to Rs 1,73,805 crore, while standalone FY26 profit stood at Rs 32,894 crore. The company also highlighted strong perfo",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ongc-shares-fall-4-despite-46-yoy-jump-in-q4-profit-revenue-rises-4/articleshow/131341207.cms",
+      "image": "https://img.etimg.com/photo/msid-131341207,imgsize-77074.cms",
+      "source": "ET Markets",
+      "published_at": "2026-05-27T04:04:27+00:00",
+      "category": "India",
+      "simple_explanation": "ONGC shares fell as much as 4% on Wednesday despite the state-run explorer reporting a 46% YoY rise in consolidated Q4 net profit to Rs 10,820 crore. Revenue from operations grew 4% to Rs 1,73,805 cro"
+    },
+    {
+      "title": "Cobalt Capital Exits Alaska Air Group Stake, According to Recent SEC Filing",
+      "description": "The Hawaiian deal gives Alaska Air a path to more premium and international revenue. Investors still have to weigh how much of that growth remains after fuel costs.",
+      "url": "https://www.fool.com/coverage/filings/2026/05/26/cobalt-capital-exits-alaska-air-group-stake-according-to-recent-sec-filing/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T04:01:34+00:00",
+      "category": "USA",
+      "simple_explanation": "The Hawaiian deal gives Alaska Air a path to more premium and international revenue. Investors still have to weigh how much of that growth remains after fuel costs."
+    },
+    {
+      "title": "Okeanis Eco Tankers Corp. – Ex Dividend Date",
+      "description": "ATHENS, Greece, May 27, 2026 (GLOBE NEWSWIRE) -- Reference is made to the key information relating to Q1 2026 dividend announced by Okeanis Eco Tankers Corp. (\"OET\" or the \"Company\") (NYSE: ECO / OSE: OET) on May 13, 2026. The Company's common shares will be traded ex dividend USD 2.00 per common sh",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/okeanis-eco-tankers-corp-ex-040000773.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T04:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "ATHENS, Greece, May 27, 2026 (GLOBE NEWSWIRE) -- Reference is made to the key information relating to Q1 2026 dividend announced by Okeanis Eco Tankers Corp. (\"OET\" or the \"Company\") (NYSE: ECO / OSE:"
+    },
+    {
+      "title": "ONGC share price slumps over 3% after Q4 results. Buy or sell?",
+      "description": "ONGC share price dropped 3.5% on 27 May after reporting lower production and higher exploration write-offs. While net profit rose 3% year-on-year to  ₹6,649.97 crore, it fell from the previous quarter. Full-year profit declined 7.6% amid operational challenges and increased write-offs.",
+      "url": "https://www.livemint.com/market/stock-market-news/ongc-share-price-slumps-over-3-after-q4-results-buy-or-sell-11779853630098.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/27/1600x900/logo/2-0-1452669805-RTSS6XF-0_1679739924274_1779854271301_4fe24413-cafe-4717-a25e-02de950d323f.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-27T03:59:13+00:00",
+      "category": "India",
+      "simple_explanation": "ONGC share price dropped 3.5% on 27 May after reporting lower production and higher exploration write-offs. While net profit rose 3% year-on-year to  ₹6,649.97 crore, it fell from the previous quarter"
+    },
+    {
+      "title": "Vodafone Idea share price hits fresh 52-week high as subscriber growth continues; extends rally for seventh day",
+      "description": "Vodafone Idea share price rallied 46% in one month and has gained 33% in three months. The telecom stock has surged 40% in six months and has delivered multibagger returns of 103% over the past one year.",
+      "url": "https://www.livemint.com/market/stock-market-news/vodafone-idea-share-price-hits-fresh-52-week-high-as-subscriber-growth-continues-extends-rally-for-seventh-day-11779854091571.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/27/1600x900/logo/3-0-137076683-DSC-2408-0_1679830215691_1779854544526_29c30aac-11a4-4efa-b25a-9517c1ce41ad.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-27T03:56:34+00:00",
+      "category": "India",
+      "simple_explanation": "Vodafone Idea share price rallied 46% in one month and has gained 33% in three months. The telecom stock has surged 40% in six months and has delivered multibagger returns of 103% over the past one ye"
+    },
+    {
+      "title": "Coal India share price falls 5% as two-day OFS by government opens. Should you buy or sell the PSU stock?",
+      "description": "Coal India shares fell 5.30% to  ₹433.95 amid a government stake sale announcement via OFS. Despite this, the stock is up 8.45% YTD, with a three-year return of 80%.",
+      "url": "https://www.livemint.com/market/stock-market-news/coal-india-share-price-falls-5-as-two-day-ofs-by-government-opens-should-you-buy-or-sell-the-psu-stock-11779851612724.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/27/1600x900/logo/Coal_India_1779853260460_1779853260617_9a1f9de0-e7de-49dc-9f82-066162055238.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-05-27T03:52:08+00:00",
+      "category": "India",
+      "simple_explanation": "Coal India shares fell 5.30% to  ₹433.95 amid a government stake sale announcement via OFS. Despite this, the stock is up 8.45% YTD, with a three-year return of 80%."
+    },
+    {
+      "title": "Asian shares are mostly higher, tracking Wall Street's fresh records, and oil prices fall",
+      "description": "Asian shares were mostly higher on Wednesday and oil prices fell after the U.S. stock market rose to more records.  It topped 66,000 for the first time in intraday trading.  Computer chip equipment maker Tokyo Electron's shares jumped 5.9% and testing equipment maker Advantest gained 5.7%.",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-higher-tracking-033124113.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T03:31:24+00:00",
+      "category": "USA",
+      "simple_explanation": "Asian shares were mostly higher on Wednesday and oil prices fell after the U.S. stock market rose to more records.  It topped 66,000 for the first time in intraday trading.  Computer chip equipment ma"
+    },
+    {
+      "title": "China industrial profits jump 24.7% in April, fastest gain in over two years despite headwinds",
+      "description": "China’s industrial profits grew at their fastest pace in over two years in April, buoyed by stronger exports, higher producer prices and gains in upstream industries.",
+      "url": "https://www.cnbc.com/2026/05/27/china-april-industrial-profits-growth.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-27T03:20:15+00:00",
+      "category": "USA",
+      "simple_explanation": "China’s industrial profits grew at their fastest pace in over two years in April, buoyed by stronger exports, higher producer prices and gains in upstream industries."
+    },
+    {
+      "title": "Tom Lee predicts supercycle amid Bitmine’s largest Ethereum buy in 2026",
+      "description": "Bitmine purchased 111,942 Ether last week, its biggest buy so far in 2026, after the token dropped below $2,200.",
+      "url": "https://cointelegraph.com/news/bitmine-buys-111k-ethereum-as-tom-lee-predicts-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctdG8tYnV5LWV0aGVyZXVtLXdpdGgtYml0bWluZS5qcGc=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-27T03:11:59+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitmine purchased 111,942 Ether last week, its biggest buy so far in 2026, after the token dropped below $2,200."
+    },
+    {
+      "title": "Asia stocks mixed over hopes of US-Iran deal, tech gains",
+      "description": "Asian equities were mixed on Wednesday with gains driven by tech stocks and guarded optimism the United States and Iran will reach a peace deal.Asian stocks were mixed on Wednesday, with Seoul leading the climbers, jumping around five percent, mostly driven by chipmaker stocks.",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-mixed-over-hopes-030202743.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T03:02:02+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Asian equities were mixed on Wednesday with gains driven by tech stocks and guarded optimism the United States and Iran will reach a peace deal.Asian stocks were mixed on Wednesday, with Seoul leading"
+    },
+    {
+      "title": "Dow Jones Futures Rise After S&P 500, Nasdaq Hit Highs; 5 AI Stocks In Buy Areas",
+      "description": "The S&P 500, Nasdaq and Russell 2000 hit new highs as Micron surged to top a $1 trillion market cap. Caterpillar, Viavi flashed buy signals.",
+      "url": "https://finance.yahoo.com/m/b3d9e0f6-e3c6-3f5a-bc62-e600e88c723b/dow-jones-futures-rise-after.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T02:48:10+00:00",
       "category": "USA",
       "simple_explanation": "The S&P 500, Nasdaq and Russell 2000 hit new highs as Micron surged to top a $1 trillion market cap. Caterpillar, Viavi flashed buy signals."
+    },
+    {
+      "title": "Trump backs CFTC authority over prediction markets",
+      "description": "US President Donald Trump says it is “critically important” that the CFTC has sole authority over prediction markets, and took aim at several state officials.",
+      "url": "https://cointelegraph.com/news/trump-demands-cftc-maintains-authority-over-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10cnVtcC1jZnRjLTEuanBn.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-27T02:47:05+00:00",
+      "category": "Crypto",
+      "simple_explanation": "US President Donald Trump says it is “critically important” that the CFTC has sole authority over prediction markets, and took aim at several state officials."
+    },
+    {
+      "title": "S&P 500, Nasdaq Futures Barely Blink After Trump's Iran 'Surrender' Ultimatum Because 'AI Is All That Matters Right Now' — MU, RDW, MNTS, ZS In Focus",
+      "description": "Markets have been closely tracking developments in the Middle East, with the U.S.-Iran war now in its 13th week.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/sp500-nasdaq-futures-barely-blink-after-trump-iran-surrender-ultimatum-because-ai-is-all-that-matters-right-now/cZgXuoFReAT?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T02:19:20+00:00",
+      "category": "USA",
+      "simple_explanation": "Markets have been closely tracking developments in the Middle East, with the U.S.-Iran war now in its 13th week."
+    },
+    {
+      "title": "Paxton bests Cornyn in Texas Republican Senate primary after Trump endorsement",
+      "description": "President Donald Trump last week endorsed Texas Attorney General Ken Paxton over incumbent Sen. John Cornyn.",
+      "url": "https://www.cnbc.com/2026/05/26/texas-primary-election-senate-paxton-cornyn.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-27T01:35:43+00:00",
+      "category": "USA",
+      "simple_explanation": "President Donald Trump last week endorsed Texas Attorney General Ken Paxton over incumbent Sen. John Cornyn."
+    },
+    {
+      "title": "Assessing American Airlines Group’s Valuation After UBS Upgrade And Fuel Cost Tailwinds",
+      "description": "American Airlines Group (AAL) stock moved sharply higher after UBS raised its outlook on the carrier, citing easing geopolitical tensions, expectations for strong summer travel demand, and support from lower crude oil prices across airline stocks. See our latest analysis for American Airlines Group.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-american-airlines-group-valuation-001608771.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T00:16:08+00:00",
+      "category": "Commodities",
+      "simple_explanation": "American Airlines Group (AAL) stock moved sharply higher after UBS raised its outlook on the carrier, citing easing geopolitical tensions, expectations for strong summer travel demand, and support fro"
+    },
+    {
+      "title": "Bitcoin drops after $78K pop, but ‘value investor’ keeps ‘hoovering up cheap’ BTC",
+      "description": "Bitcoin’s rangebound trading carries on as bears defend $77,000 and bulls hold out near $74,000.",
+      "url": "https://cointelegraph.com/markets/bitcoin-drops-after-78k-pop-but-value-investor-keeps-hoovering-up-cheap-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9idW5nZWVqdW1waW5nYml0Y29pbi5qcGc=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-26T23:57:49+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin’s rangebound trading carries on as bears defend $77,000 and bulls hold out near $74,000."
+    },
+    {
+      "title": "Novo regains full control of Egina Gold Project after Northern Star withdrawal",
+      "description": "Novo Resources Corp (TSX:NVO, OTCQX:NSRPF, ASX:NVO, FRA:1NOR) has regained full control of exploration at the Egina Gold Project in Western Australia’s Pilbara region after Northern Star Resources Ltd (ASX:NST) withdrew from its earn-in agreement. Northern Star, which inherited the agreement...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1092914/novo-regains-full-control-of-egina-gold-project-after-northern-star-withdrawal-1092914.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-26T23:34:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Novo Resources Corp (TSX:NVO, OTCQX:NSRPF, ASX:NVO, FRA:1NOR) has regained full control of exploration at the Egina Gold Project in Western Australia’s Pilbara region after Northern Star Resources Ltd"
     },
     {
       "title": "The S&P 500 Just Did This for the First Time in Nearly 30 Years. Here's What Happens Next, According to History.",
@@ -21,36 +331,6 @@
       "published_at": "2026-05-26T23:30:00+00:00",
       "category": "USA",
       "simple_explanation": "Historical patterns may offer us clues about the future."
-    },
-    {
-      "title": "Emerging Currencies Slide as Iran War ‘Confusion’ Jolts Markets",
-      "description": "Most emerging-market currencies weakened on Tuesday as overnight clashes near the Strait of Hormuz offset signs of progress toward a US-Iran peace deal, even as developing-nation stocks rose on optimism around artificial intelligence.",
-      "url": "https://www.livemint.com/market/emerging-currencies-slide-as-iran-war-confusion-jolts-markets-11779838100636.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-26T23:28:20+00:00",
-      "category": "India",
-      "simple_explanation": "Most emerging-market currencies weakened on Tuesday as overnight clashes near the Strait of Hormuz offset signs of progress toward a US-Iran peace deal, even as developing-nation stocks rose on optimi"
-    },
-    {
-      "title": "Goldman Sachs gives harsh warning on market concentration",
-      "description": "Goldman Sachs is sounding the alarm on what it sees as a dangerous concentration in the artificial intelligence-driven stock market rally. In a May 15 report, Goldman Sachs strategist Ben Snider said the S&P 500 has climbed 10% this year, but the gains have become heavily concentrated in ...",
-      "url": "https://www.thestreet.com/crypto/markets/goldman-sachs-gives-harsh-warning-on-market-concentration?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-26T23:07:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Goldman Sachs is sounding the alarm on what it sees as a dangerous concentration in the artificial intelligence-driven stock market rally. In a May 15 report, Goldman Sachs strategist Ben Snider said "
-    },
-    {
-      "title": "RXO, Saia, and Werner Stocks Trade Up, What You Need To Know",
-      "description": "A number of stocks jumped in the afternoon session after WTI crude oil fell 4.7% to $92.94, providing direct margin relief to trucking, rail, and logistics companies that spend a sizable percentage of operating costs on fuel.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rxo-saia-werner-stocks-trade-230328014.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-26T23:03:28+00:00",
-      "category": "Commodities",
-      "simple_explanation": "A number of stocks jumped in the afternoon session after WTI crude oil fell 4.7% to $92.94, providing direct margin relief to trucking, rail, and logistics companies that spend a sizable percentage of"
     },
     {
       "title": "HYPE chases new highs as ETF inflows, institutional adoption accelerate",
@@ -73,36 +353,6 @@
       "simple_explanation": "VANCOUVER, British Columbia, May 26, 2026 (GLOBE NEWSWIRE) -- West Red Lake Gold Mines Ltd. (“West Red Lake Gold” or “WRLG” or the “Company”) (TSXV: WRLG) (OTCQB: WRLGF) announces its financial and op"
     },
     {
-      "title": "Here’s where the next market upside comes from",
-      "description": "Transcript: Caroline WoodsJoining me now, Ross Gerber, CEO of Gerber Kawasaki. Ross, great to have you back. Thanks so much for being here. Yeah. Ross GerberGreat to be back. Thanks for having me. Caroline WoodsSo we're kicking off this holiday shortened week with the S&P and Nasdaq both ...",
-      "url": "https://www.thestreet.com/video/heres-where-the-next-market-upside-comes-from?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-26T22:56:13+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Transcript: Caroline WoodsJoining me now, Ross Gerber, CEO of Gerber Kawasaki. Ross, great to have you back. Thanks so much for being here. Yeah. Ross GerberGreat to be back. Thanks for having me. Car"
-    },
-    {
-      "title": "Why Old Dominion Freight Line (ODFL) Stock Is Trading Up Today",
-      "description": "Shares of freight carrier Old Dominion (NASDAQ:ODFL) jumped 2.8% in the afternoon session after WTI crude oil fell 4.7% to $92.94, providing direct margin relief to trucking, rail, and logistics companies that spend a sizable percentage of operating costs on fuel.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-old-dominion-freight-line-225528774.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-26T22:55:28+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Shares of freight carrier Old Dominion (NASDAQ:ODFL) jumped 2.8% in the afternoon session after WTI crude oil fell 4.7% to $92.94, providing direct margin relief to trucking, rail, and logistics compa"
-    },
-    {
-      "title": "Why an Iraqi supertanker could ease pain at the pump",
-      "description": "Markets are very good at panicking quickly and very bad at calming down slowly. A crisis hits, prices jump in a day, and the unwinding takes months of small, boring evidence that the worst case is not actually playing out. For roughly three months now, the Strait of Hormuz has been the most ...",
-      "url": "https://www.thestreet.com/economy/why-an-iraqi-supertanker-could-ease-pain-at-the-pump?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-26T22:53:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Markets are very good at panicking quickly and very bad at calming down slowly. A crisis hits, prices jump in a day, and the unwinding takes months of small, boring evidence that the worst case is not"
-    },
-    {
       "title": "S&P 500, Nasdaq, hit record closing highs on AI optimism",
       "description": "STORY: It was a mostly upbeat Tuesday on Wall Street, despite a slight move downward for the Dow. The S&P 500 climbed about six-tenths of a percent and the tech-heavy Nasdaq added roughly 1.2%, with both indexes closing at record highs.AI-fueled optimism offset concerns over Middle East peace talks,",
       "url": "https://finance.yahoo.com/video/p-500-nasdaq-hit-record-225144244.html?.tsrc=rss",
@@ -111,16 +361,6 @@
       "published_at": "2026-05-26T22:51:44+00:00",
       "category": "USA",
       "simple_explanation": "STORY: It was a mostly upbeat Tuesday on Wall Street, despite a slight move downward for the Dow. The S&P 500 climbed about six-tenths of a percent and the tech-heavy Nasdaq added roughly 1.2%, with b"
-    },
-    {
-      "title": "Universal Logistics, ArcBest, and XPO Shares Skyrocket, What You Need To Know",
-      "description": "A number of stocks jumped in the afternoon session after WTI crude oil fell 4.7% to $92.94, providing direct margin relief to trucking, rail, and logistics companies that spend a sizable percentage of operating costs on fuel.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/universal-logistics-arcbest-xpo-shares-224728535.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-26T22:47:28+00:00",
-      "category": "Commodities",
-      "simple_explanation": "A number of stocks jumped in the afternoon session after WTI crude oil fell 4.7% to $92.94, providing direct margin relief to trucking, rail, and logistics companies that spend a sizable percentage of"
     },
     {
       "title": "SpaceX-Tesla merger chatter reignites as Musk pushes rocket company towards Nasdaq",
@@ -161,246 +401,6 @@
       "published_at": "2026-05-26T22:15:02+00:00",
       "category": "USA",
       "simple_explanation": "In the most recent trading session, RH (RH) closed at $138.46, indicating a +1.5% shift from the previous trading day."
-    },
-    {
-      "title": "FedEx (FDX) Laps the Stock Market: Here's Why",
-      "description": "In the closing of the recent trading day, FedEx (FDX) stood at $400, denoting a +1.47% move from the preceding trading day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-fdx-laps-stock-market-221502043.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-26T22:15:02+00:00",
-      "category": "USA",
-      "simple_explanation": "In the closing of the recent trading day, FedEx (FDX) stood at $400, denoting a +1.47% move from the preceding trading day."
-    },
-    {
-      "title": "Bitcoin mining stocks jump as AI infrastructure boom boosts sector outlook",
-      "description": "Wall Street’s semiconductor-driven surge is fueling fresh momentum for crypto miners betting their power-heavy infrastructure can support the AI boom.",
-      "url": "https://cointelegraph.com/news/bitcoin-mining-stocks-jump-as-ai-infrastructure-boom-boosts-sector-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaXdoYXRpc2FtYXN0ZXJub2RlYW5kaG93ZG9lc2l0d29yay5qcGc=.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-26T22:07:21+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Wall Street’s semiconductor-driven surge is fueling fresh momentum for crypto miners betting their power-heavy infrastructure can support the AI boom."
-    },
-    {
-      "title": "Kroger (KR) Stock Drops Despite Market Gains: Important Facts to Note",
-      "description": "In the closing of the recent trading day, Kroger (KR) stood at $64.55, denoting a -4.01% move from the preceding trading day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-drops-despite-220002027.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-26T22:00:02+00:00",
-      "category": "USA",
-      "simple_explanation": "In the closing of the recent trading day, Kroger (KR) stood at $64.55, denoting a -4.01% move from the preceding trading day."
-    },
-    {
-      "title": "Torex Gold Releases 2025 Responsible Gold Mining Report",
-      "description": "Report highlights significant progress on water conservation, GHG emissions reduction and other strategic responsible mining initiatives(All amounts expressed in U.S. dollars unless otherwise stated)Toronto, Ontario--(Newsfile Corp. - May 26, 2026) - Torex Gold Resources Inc. (the \"Company\" or \"Tore",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/torex-gold-releases-2025-responsible-220000606.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-26T22:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Report highlights significant progress on water conservation, GHG emissions reduction and other strategic responsible mining initiatives(All amounts expressed in U.S. dollars unless otherwise stated)T"
-    },
-    {
-      "title": "Trump officials split over Pope Leo’s AI warning as Vatican feud enters new front",
-      "description": "Pope Leo XIV’s AI warning shows split among Trump officials as the White House resists new guardrails, upping stakes with Catholic voters and Silicon Valley allies.",
-      "url": "https://www.cnbc.com/2026/05/26/pope-leo-xiv-ai-warning-trump-jd-vance-doug-burgum-anthropic-iran.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-26T21:18:58+00:00",
-      "category": "USA",
-      "simple_explanation": "Pope Leo XIV’s AI warning shows split among Trump officials as the White House resists new guardrails, upping stakes with Catholic voters and Silicon Valley allies."
-    },
-    {
-      "title": "Trump cancels Camp David Cabinet trip, citing weather",
-      "description": "Trump has rarely visited Camp David during either of his presidential terms, though he frequently spends time outside the White House at his own properties.",
-      "url": "https://www.cnbc.com/2026/05/26/trump-camp-david-iran-cabinet.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-26T21:05:24+00:00",
-      "category": "USA",
-      "simple_explanation": "Trump has rarely visited Camp David during either of his presidential terms, though he frequently spends time outside the White House at his own properties."
-    },
-    {
-      "title": "Why investors should consider commodities right now",
-      "description": "Mackenzie Investments Chief Investment Officer, Equities Lesley Marks, joins Market Domination Overtime to explain why investors should be paying closer attention to commodities amid market volatility and uncertainty. Marks discusses why energy and materials are emerging as attractive opportunities ",
-      "url": "https://finance.yahoo.com/video/why-investors-should-consider-commodities-right-now-210043863.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-26T21:00:43+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Mackenzie Investments Chief Investment Officer, Equities Lesley Marks, joins Market Domination Overtime to explain why investors should be paying closer attention to commodities amid market volatility"
-    },
-    {
-      "title": "Novo Resources Takes Back Egina Exploration Following Northern Star Withdrawal",
-      "description": "Novo Resources (NVO.TO) after trade Tuesday said exploration activities on the Egina Gold project wi",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/novo-resources-takes-back-egina-203509082.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-26T20:35:09+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Novo Resources (NVO.TO) after trade Tuesday said exploration activities on the Egina Gold project wi"
-    },
-    {
-      "title": "TSX pulls back from record high as tech shares fall",
-      "description": "CANADA-STOCKS/ (UPDATE 2):CANADA STOCKS-TSX pulls back from record high as tech shares fall",
-      "url": "https://www.livemint.com/market/tsx-pulls-back-from-record-high-as-tech-shares-fall-11779827408843.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-26T20:30:08+00:00",
-      "category": "India",
-      "simple_explanation": "CANADA-STOCKS/ (UPDATE 2):CANADA STOCKS-TSX pulls back from record high as tech shares fall"
-    },
-    {
-      "title": "Atico Reports Consolidated Financial Results for the First Quarter of 2026",
-      "description": "(All amounts expressed in US dollars, unless otherwise stated)VANCOUVER, British Columbia, May 26, 2026 (GLOBE NEWSWIRE) -- Atico Mining Corporation (the “Company” or “Atico”) (TSX.V: ATY | OTC: ATCMF) today announced its financial results for the three months ended March 31, 2026, posting income fr",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/atico-reports-consolidated-financial-results-203000259.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-26T20:30:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(All amounts expressed in US dollars, unless otherwise stated)VANCOUVER, British Columbia, May 26, 2026 (GLOBE NEWSWIRE) -- Atico Mining Corporation (the “Company” or “Atico”) (TSX.V: ATY | OTC: ATCMF"
-    },
-    {
-      "title": "US yields fall on hopes potential Strait of Hormuz deal can cool inflation",
-      "description": "USA-BONDS/ (UPDATE 2):TREASURIES-US yields fall on hopes potential Strait of Hormuz deal can cool inflation",
-      "url": "https://www.livemint.com/market/us-yields-fall-on-hopes-potential-strait-of-hormuz-deal-can-cool-inflation-11779826794421.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-26T20:19:54+00:00",
-      "category": "India",
-      "simple_explanation": "USA-BONDS/ (UPDATE 2):TREASURIES-US yields fall on hopes potential Strait of Hormuz deal can cool inflation"
-    },
-    {
-      "title": "TSX Closer: The Index Falls From a Record Close Ahead of Canada's Banks Earnings Season",
-      "description": "The resources-heavy Toronto Stock Exchange closed lower on Tuesday, falling off the record high set",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsx-closer-index-falls-record-201600372.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-26T20:16:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The resources-heavy Toronto Stock Exchange closed lower on Tuesday, falling off the record high set"
-    },
-    {
-      "title": "A battle is brewing in the gold pits. Here are the winners and losers",
-      "description": "Options volumes leaned bullish in both the SPDR Gold ETF (GLD) and VanEck Gold Miners ETF (GDX) on Tuesday.",
-      "url": "https://www.cnbc.com/2026/05/26/a-battle-is-brewing-in-the-gold-pits-here-are-the-winners-and-losers.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-26T20:15:51+00:00",
-      "category": "USA",
-      "simple_explanation": "Options volumes leaned bullish in both the SPDR Gold ETF (GLD) and VanEck Gold Miners ETF (GDX) on Tuesday."
-    },
-    {
-      "title": "US stocks today: S&P 500 hits record closing high on AI optimism, Micron joins $1 trillion club",
-      "description": "US stocks closed mixed with Nasdaq and S&P 500 hitting record levels as AI-driven optimism lifted tech and chip stocks. Micron surged into the $1 trillion club after a strong price target hike. Geopolitical tension from US-Iran strikes pushed oil higher, while investors stayed focused on AI earnings",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-hits-record-closing-high-on-ai-optimism-micron-joins-1-trillion-club/articleshow/131337183.cms",
-      "image": "https://img.etimg.com/photo/msid-131337183,imgsize-143932.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-26T20:08:10+00:00",
-      "category": "India",
-      "simple_explanation": "US stocks closed mixed with Nasdaq and S&P 500 hitting record levels as AI-driven optimism lifted tech and chip stocks. Micron surged into the $1 trillion club after a strong price target hike. Geopol"
-    },
-    {
-      "title": "Dollar climbs as US strikes on Iran dent ceasefire optimism",
-      "description": "GLOBAL-FOREX:Dollar climbs as US strikes on Iran dent ceasefire optimism",
-      "url": "https://www.livemint.com/market/dollar-climbs-as-us-strikes-on-iran-dent-ceasefire-optimism-11779825510940.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-26T19:58:30+00:00",
-      "category": "India",
-      "simple_explanation": "GLOBAL-FOREX:Dollar climbs as US strikes on Iran dent ceasefire optimism"
-    },
-    {
-      "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
-      "description": "Prolonged closure of Strait of Hormuz could send crude oil prices to new highs this summer.",
-      "url": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-26T19:43:54+00:00",
-      "category": "USA",
-      "simple_explanation": "Prolonged closure of Strait of Hormuz could send crude oil prices to new highs this summer."
-    },
-    {
-      "title": "Pope Leo is concerned about AI replacing human work. Traders share his concern long term",
-      "description": "The leader of the Catholic Church warned about artificial intelligence upending the labor market. Traders on Kalshi see unemployment jumping before 2030.",
-      "url": "https://www.cnbc.com/2026/05/26/traders-share-pope-leos-worries-on-ais-job-market-impact.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-05-26T19:31:51+00:00",
-      "category": "Global",
-      "simple_explanation": "The leader of the Catholic Church warned about artificial intelligence upending the labor market. Traders on Kalshi see unemployment jumping before 2030."
-    },
-    {
-      "title": "UK authorities sanction HTX crypto exchange over support for Russia",
-      "description": "Formerly Huobi Global, the exchange is the latest entity to be named as part of a crackdown on companies “exploited by Russia to circumvent UK sanctions.”",
-      "url": "https://cointelegraph.com/news/uk-sanctions-htx-huobi-russia-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9jb3VydHZzc2FtLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-26T18:41:07+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Formerly Huobi Global, the exchange is the latest entity to be named as part of a crackdown on companies “exploited by Russia to circumvent UK sanctions.”"
-    },
-    {
-      "title": "TeraWulf acquires Kentucky AI data center site with planned 1 GW capacity",
-      "description": "WULF shares surged on Tuesday after the Bitcoin miner announced its latest move to expand into AI and HPC through a multi-phase buildout through 2030.",
-      "url": "https://cointelegraph.com/news/terawulf-kentucky-ai-data-center-1gw-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10aGUtcmlzZS1vZi1tYWpvci1taW5pbmctaW5zdGl0dXRpb25zLWlzLWluZXZpdGFibGUtYWktMS5qcGc=.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-26T18:01:53+00:00",
-      "category": "Crypto",
-      "simple_explanation": "WULF shares surged on Tuesday after the Bitcoin miner announced its latest move to expand into AI and HPC through a multi-phase buildout through 2030."
-    },
-    {
-      "title": "Is Bitcoin a Good Long-Term Investment for Beginners?",
-      "description": "At around $77,000 in May 2026, Bitcoin (CRYPTO: BTC) is off its October 2025 peak of $126,000, and anyone weighing it as a long-term investment is looking at an asset with an extraordinary track record—and a history of stomach-churning crashes along the way. Like any other asset, Bitcoin goes throug",
-      "url": "https://247wallst.com/investing/2026/05/26/is-bitcoin-a-good-long-term-investment-for-beginners/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-26T17:49:12+00:00",
-      "category": "Crypto",
-      "simple_explanation": "At around $77,000 in May 2026, Bitcoin (CRYPTO: BTC) is off its October 2025 peak of $126,000, and anyone weighing it as a long-term investment is looking at an asset with an extraordinary track recor"
-    },
-    {
-      "title": "ONGC Q4 Results: Net profit rises 3% YoY to  ₹6,650 crore, declares final dividend",
-      "description": "ONGC reported a 3% YoY increase in net profit for Q4FY26, totaling  ₹6,650 crore despite production declines. Revenue rose slightly to  ₹35,928.18 crore.",
-      "url": "https://www.livemint.com/market/stock-market-news/ongc-q4-results-net-profit-rises-3-yoy-to-rs-6-650-crore-declares-final-dividend-11779813032812.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/26/1600x900/logo/2-0-1452669805-RTSS6XF-0_1679739924274_1779813029940_5bf64337-fbf9-429b-9042-affbcb8a60a7.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-26T17:02:53+00:00",
-      "category": "India",
-      "simple_explanation": "ONGC reported a 3% YoY increase in net profit for Q4FY26, totaling  ₹6,650 crore despite production declines. Revenue rose slightly to  ₹35,928.18 crore."
-    },
-    {
-      "title": "Spanish authorities block Polymarket and Kalshi over gambling laws",
-      "description": "Spain joined a growing list of national authorities restricting or banning prediction market platforms amid concerns over unlicensed gambling activities.",
-      "url": "https://cointelegraph.com/news/spain-blocks-polymarket-kalshi-gambling-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaXJldmVyc2liaWxpdHljb3VsZGJlY3J5cHRvc25leHRiaWdhbnRpLWNyaW1ldG9vbC5qcGc=.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-26T17:02:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Spain joined a growing list of national authorities restricting or banning prediction market platforms amid concerns over unlicensed gambling activities."
-    },
-    {
-      "title": "Wall Street giant Nvidia's m-cap is bigger than six of world’s top 10 stock markets amid AI frenzy",
-      "description": "Nvidia's shares have surged, making it the world's most valuable company with a market cap of over $5 trillion, surpassing several major stock markets. The AI boom has driven demand for its chips, with significant revenue growth and strong earnings reported for the current fiscal quarter.",
-      "url": "https://www.livemint.com/market/stock-market-news/wall-street-major-nvidias-m-cap-is-bigger-than-six-of-world-s-top-10-stock-markets-amid-ai-frenzy-11779797726758.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/26/1600x900/logo/ISRAEL-TECH-FUNDRAISING-0_1766837773858_1766837781379_1779797723314_a97e0ea6-a20e-42f2-a78e-012ef68073b6.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-05-26T16:50:10+00:00",
-      "category": "India",
-      "simple_explanation": "Nvidia's shares have surged, making it the world's most valuable company with a market cap of over $5 trillion, surpassing several major stock markets. The AI boom has driven demand for its chips, wit"
-    },
-    {
-      "title": "ONGC Q4 Results: Cons PAT jumps 46% YoY to Rs 10,820 crore, revenue up 4%",
-      "description": "Oil & Natural Gas Corporation (ONGC) reported a significant 46% surge in consolidated net profit to Rs 10,820 crore for the March-ended quarter. This growth was driven by a 4% increase in revenue from operations, reaching Rs 1,73,805 crore. The company also recommended a final dividend and approved ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ongc-q4-results-cons-pat-jumps-46-yoy-to-rs-10820-crore-revenue-up-4/articleshow/131333234.cms",
-      "image": "https://img.etimg.com/photo/msid-131333234,imgsize-859867.cms",
-      "source": "Economic Times",
-      "published_at": "2026-05-26T16:42:43+00:00",
-      "category": "India",
-      "simple_explanation": "Oil & Natural Gas Corporation (ONGC) reported a significant 46% surge in consolidated net profit to Rs 10,820 crore for the March-ended quarter. This growth was driven by a 4% increase in revenue from"
     }
   ]
 }
