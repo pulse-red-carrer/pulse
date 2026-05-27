@@ -1,66 +1,236 @@
 {
-  "last_updated": "2026-05-27T21:55:20.929778+00:00",
+  "last_updated": "2026-05-27T23:17:57.765807+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Amazon's top health exec is stepping down, will be replaced by Amwell co-founder",
-      "description": "The company is tapping Dr. Roy Schoenberg, a cofounder of telemedicine provider Amwell, to replace Lindsay.",
-      "url": "https://www.cnbc.com/2026/05/27/amazons-top-health-exec-is-stepping-down-will-be-replaced-by-amwell-co-founder.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up as AI lifts tech earnings",
+      "description": "US stock futures edged up as a wave of tech earnings boosted confidence in the AI trade.",
+      "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-as-ai-lifts-tech-earnings-231358420.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T23:13:58+00:00",
+      "category": "USA",
+      "simple_explanation": "US stock futures edged up as a wave of tech earnings boosted confidence in the AI trade."
+    },
+    {
+      "title": "Former CIA chief Petraeus says drone swarms are the next danger — and growth opportunity",
+      "description": "Unmanned systems will be one of the biggest security threats and structural growth opportunities in defense over the next decade: David Petraeus",
+      "url": "https://www.cnbc.com/2026/05/28/petraeus-unmanned-systems-autonomous-drones-defense-investment.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-05-27T21:53:45+00:00",
+      "published_at": "2026-05-27T23:09:33+00:00",
       "category": "USA",
-      "simple_explanation": "The company is tapping Dr. Roy Schoenberg, a cofounder of telemedicine provider Amwell, to replace Lindsay."
+      "simple_explanation": "Unmanned systems will be one of the biggest security threats and structural growth opportunities in defense over the next decade: David Petraeus"
     },
     {
-      "title": "SOXX vs. XLK: How Semiconductor Stocks Compare to Broader Tech Industry Diversification",
-      "description": "Compare expense ratios, diversification, and risk profiles as these two tech giants take distinct approaches to capturing growth across the sector.",
-      "url": "https://www.fool.com/coverage/etfs/2026/05/27/soxx-vs-xlk-how-semiconductor-stocks-compare-to-broader-tech-industry-diversification/?.tsrc=rss",
+      "title": "Carvana and Revolve Stocks Trade Up, What You Need To Know",
+      "description": "A number of stocks jumped in the afternoon session after Iran-US peace deal progress drove crude oil sharply lower as the broader market reached all-time highs.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/carvana-revolve-stocks-trade-know-230524858.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-05-27T21:48:55+00:00",
-      "category": "USA",
-      "simple_explanation": "Compare expense ratios, diversification, and risk profiles as these two tech giants take distinct approaches to capturing growth across the sector."
-    },
-    {
-      "title": "Morgan Stanley Raised Price Target on TotalEnergies (TTE), Here’s What You Need to Know",
-      "description": "TotalEnergies SE (NYSE:TTE) is one of the Most Undervalued Foreign Stocks to Buy Now. On May 12, Morgan Stanley raised the price target on TotalEnergies SE (NYSE:TTE) from EUR 88.3 to EUR 89.1, while maintaining an Overweight rating on the shares. More recently, on May 18, TD Cowen upgraded the stoc",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/morgan-stanley-raised-price-target-214014473.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-27T21:40:14+00:00",
+      "published_at": "2026-05-27T23:05:24+00:00",
       "category": "Commodities",
-      "simple_explanation": "TotalEnergies SE (NYSE:TTE) is one of the Most Undervalued Foreign Stocks to Buy Now. On May 12, Morgan Stanley raised the price target on TotalEnergies SE (NYSE:TTE) from EUR 88.3 to EUR 89.1, while "
+      "simple_explanation": "A number of stocks jumped in the afternoon session after Iran-US peace deal progress drove crude oil sharply lower as the broader market reached all-time highs."
     },
     {
-      "title": "Dow Jones Futures Rise As Snowflake Surges Late On Earnings, Marvell Pops; Fed Inflation Data Due",
-      "description": "The major indexes edged higher as oil prices dived, with Amazon flashing a buy signal. Marvell and Snowflake jumped late.",
+      "title": "Baker Hughes CEO: Data Centers, LNG Fuel Shift Beyond Oilfield Services",
+      "description": "Baker Hughes (NASDAQ:BKR) Chairman and Chief Executive Officer Lorenzo Simonelli said the company has become “very different” from the traditional oilfield services business it was a decade ago, emphasizing a broader strategy focused on industrial energy solutions, natural gas, power generation and",
+      "url": "https://www.marketbeat.com/instant-alerts/baker-hughes-ceo-data-centers-lng-fuel-shift-beyond-oilfield-services-2026-05-27/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T23:04:58+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Baker Hughes (NASDAQ:BKR) Chairman and Chief Executive Officer Lorenzo Simonelli said the company has become “very different” from the traditional oilfield services business it was a decade ago, empha"
+    },
+    {
+      "title": "Mark Zuckerberg says a Meta cloud computing business 'definitely on the table'",
+      "description": "Meta CEO Mark Zuckerberg said his company could enter the cloud computing market if it overspends on data centers and has excess capacity.",
+      "url": "https://www.cnbc.com/2026/05/27/mark-zuckerberg-says-meta-starting-cloud-business-on-the-table.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-27T23:04:19+00:00",
+      "category": "USA",
+      "simple_explanation": "Meta CEO Mark Zuckerberg said his company could enter the cloud computing market if it overspends on data centers and has excess capacity."
+    },
+    {
+      "title": "Trump's IRS case should be reopened so court can probe possible 'fraud,' ex-judges argue",
+      "description": "Reopening the Trump-IRS case \"will allow the Court to commence an inquiry into whether the Court was deceived,\" the ex-judges wrote.",
+      "url": "https://www.cnbc.com/2026/05/27/trump-irs-case-judge-fraud-doj-fund.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-05-27T23:04:11+00:00",
+      "category": "USA",
+      "simple_explanation": "Reopening the Trump-IRS case \"will allow the Court to commence an inquiry into whether the Court was deceived,\" the ex-judges wrote."
+    },
+    {
+      "title": "Dow Jones Futures Rise As Snowflake Surges Late On Earnings; Fed Inflation Data Due",
+      "description": "The major indexes edged higher as oil prices dived, with Amazon flashing a buy signal. Snowflake jumped late.",
       "url": "https://finance.yahoo.com/m/d8eb4dab-2933-3960-8489-129018f226f2/dow-jones-futures-rise-as.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-05-27T21:36:19+00:00",
+      "published_at": "2026-05-27T23:02:23+00:00",
       "category": "USA",
-      "simple_explanation": "The major indexes edged higher as oil prices dived, with Amazon flashing a buy signal. Marvell and Snowflake jumped late."
+      "simple_explanation": "The major indexes edged higher as oil prices dived, with Amazon flashing a buy signal. Snowflake jumped late."
     },
     {
-      "title": "The Stock Market Is Flashing a Rare Warning Signal. Here's What History Says Happens Next.",
-      "description": "Buffett's favorite valuation indicator just hit unprecedented territory.",
-      "url": "https://www.fool.com/investing/2026/05/27/the-stock-market-is-flashing-a-rare-warning-signal/?.tsrc=rss",
+      "title": "Why Baker Hughes (BKR) Stock Is Nosediving",
+      "description": "Shares of energy technology company Baker Hughes (NASDAQ:BKR) fell 5.5% in the morning session after WTI crude oil plunged on Iran-US peace deal progress and renewed hopes for reopening the Strait of Hormuz.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-baker-hughes-bkr-stock-225724903.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-05-27T21:35:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Buffett's favorite valuation indicator just hit unprecedented territory."
+      "published_at": "2026-05-27T22:57:24+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Shares of energy technology company Baker Hughes (NASDAQ:BKR) fell 5.5% in the morning session after WTI crude oil plunged on Iran-US peace deal progress and renewed hopes for reopening the Strait of "
     },
     {
-      "title": "White House eyes CFTC proposal for regulating prediction markets",
-      "description": "The CFTC has argued it has exclusive authority to regulate the growing prediction market sector rather than state-by-state regulation.",
-      "url": "https://www.cnbc.com/2026/05/27/prediction-markets-white-house-cftc-kalshi-polmarket-gensler.html",
+      "title": "Wall St posts record closing highs despite pause in AI rally",
+      "description": "STORY: All three of Wall Street's main indexes notched record closing highs on Wednesday despite muted gains.The Dow climbed the most, adding more than a third of a percent, while the S&P 500 and Nasdaq ticked up marginally.Rising healthcare and consumer stocks boosted the Dow, while investors took ",
+      "url": "https://finance.yahoo.com/video/wall-st-posts-record-closing-225347299.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T22:53:47+00:00",
+      "category": "USA",
+      "simple_explanation": "STORY: All three of Wall Street's main indexes notched record closing highs on Wednesday despite muted gains.The Dow climbed the most, adding more than a third of a percent, while the S&P 500 and Nasd"
+    },
+    {
+      "title": "Why HighPeak Energy (HPK) Shares Are Trading Lower Today",
+      "description": "Shares of oil and gas producer HighPeak Energy (NASDAQ:HPK) fell 3% in the morning session after WTI crude collapsed 4.7% to $92.94 on Iran-US peace deal progress.",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/why-highpeak-energy-hpk-shares-224924533.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T22:49:24+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Shares of oil and gas producer HighPeak Energy (NASDAQ:HPK) fell 3% in the morning session after WTI crude collapsed 4.7% to $92.94 on Iran-US peace deal progress."
+    },
+    {
+      "title": "Why SLB (SLB) Stock Is Trading Lower Today",
+      "description": "Shares of oilfield services provider SLB (NYSE:SLB) fell 3.4% in the morning session after WTI crude oil plunged on Iran-US peace deal progress and renewed hopes for reopening the Strait of Hormuz.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-slb-slb-stock-trading-224124833.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T22:41:24+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Shares of oilfield services provider SLB (NYSE:SLB) fell 3.4% in the morning session after WTI crude oil plunged on Iran-US peace deal progress and renewed hopes for reopening the Strait of Hormuz."
+    },
+    {
+      "title": "Crypto card monthly transaction volume surges 230% from 2025",
+      "description": "Payment volume on crypto-linked credit and debit cards has been steadily increasing since 2024, reaching about $7.8 billion in cumulative transactions this month.",
+      "url": "https://cointelegraph.com/news/crypto-card-monthly-volume-surge-230-one-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGF0LWlzLWV0aGVyZXVtLWNyZWRpdC5qcGc=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-27T22:30:59+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Payment volume on crypto-linked credit and debit cards has been steadily increasing since 2024, reaching about $7.8 billion in cumulative transactions this month."
+    },
+    {
+      "title": "FedEx Freight Holding Company Set to Join S&P 500; EPAM Systems and Dave to Join S&P SmallCap 600",
+      "description": "S&P Dow Jones Indices will make the following changes to the S&P 500, S&P SmallCap 600:",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-freight-holding-company-set-223000650.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T22:30:00+00:00",
+      "category": "USA",
+      "simple_explanation": "S&P Dow Jones Indices will make the following changes to the S&P 500, S&P SmallCap 600:"
+    },
+    {
+      "title": "Traders are skeptical of Iran timeline for Strait of Hormuz reopening",
+      "description": "Despite reports Iran could return the passageway to normal traffic flows within a month of a peace deal, Kalshi traders thought that was unlikely.",
+      "url": "https://www.cnbc.com/2026/05/27/traders-are-skeptical-of-iran-timeline-for-strait-of-hormuz-reopening.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-05-27T22:18:07+00:00",
+      "category": "Global",
+      "simple_explanation": "Despite reports Iran could return the passageway to normal traffic flows within a month of a peace deal, Kalshi traders thought that was unlikely."
+    },
+    {
+      "title": "Space Stock Short Squeeze: The Final Act of the SpaceX IPO Hype?",
+      "description": "The technical Wall Street term for investors short selling space stocks right now is “getting your face ripped off.”  Shares of commercial space companies were on fire coming into Wednesday trading.  Over the past month, shares of  Rocket Lab  and  AST SpaceMobile  —to name two—are up 74% and 55%, r",
+      "url": "https://finance.yahoo.com/m/97e273b0-9367-34b8-ae70-dc1637d901c4/space-stock-short-squeeze%3A.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T22:15:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The technical Wall Street term for investors short selling space stocks right now is “getting your face ripped off.”  Shares of commercial space companies were on fire coming into Wednesday trading.  "
+    },
+    {
+      "title": "Stock Market Today, May 27: Micron Extends Rally on AI Chip Momentum, U.S. Markets Inch Higher",
+      "description": "On May 27, 2026, Micron’s latest surge kept AI chips in focus even as broader U.S. benchmarks barely budged.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/05/27/stock-market-today-may-27-micron-extends-rally-on-ai-chip-momentum-u-s-markets-inch-higher/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T22:09:47+00:00",
+      "category": "USA",
+      "simple_explanation": "On May 27, 2026, Micron’s latest surge kept AI chips in focus even as broader U.S. benchmarks barely budged."
+    },
+    {
+      "title": "Snowflake rockets 36% on earnings beat and plan to spend $6 billion on Amazon cloud",
+      "description": "Snowflake is going deeper with Amazon's Web Services, and plans to use its Arm-based Graviton chips.",
+      "url": "https://www.cnbc.com/2026/05/27/snowflake-amazon-graviton-cloud-chips.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-05-27T21:19:11+00:00",
+      "published_at": "2026-05-27T22:07:15+00:00",
       "category": "USA",
-      "simple_explanation": "The CFTC has argued it has exclusive authority to regulate the growing prediction market sector rather than state-by-state regulation."
+      "simple_explanation": "Snowflake is going deeper with Amazon's Web Services, and plans to use its Arm-based Graviton chips."
+    },
+    {
+      "title": "Cerrado Gold Announces First Quarter 2026 Financial Results",
+      "description": "Gold equivalent production of 12,842 Gold Equivalent Ounces (“GEO”) at AISC of $1,348/oz Au during Q1 2026Record Adjusted EBITDA of $28.7 million for Q1 2026, benefiting from unhedged gold positionStrong Cash Position of $31.4 million at quarter endFull year production guidance of 50,000-60,000 GEO ",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/cerrado-gold-announces-first-quarter-220600939.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T22:06:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold equivalent production of 12,842 Gold Equivalent Ounces (“GEO”) at AISC of $1,348/oz Au during Q1 2026Record Adjusted EBITDA of $28.7 million for Q1 2026, benefiting from unhedged gold positionStr"
+    },
+    {
+      "title": "Bitcoin miner inflows to Binance soar as BTC struggles to hold uptrend: Is $70K next?",
+      "description": "Weakening spot demand, miner inflows to exchanges and freshly opened shorts put downside pressure on Bitcoin price.",
+      "url": "https://cointelegraph.com/markets/bitcoin-miner-inflows-rise-to-20k-on-binance-can-btc-hold-its-daily-uptrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1pcy1zdGFraW5nLXRoZS1hbnN3ZXItdG8tY3J5cHRvY3VycmVuY3lzLW1pbmluZy1wcm9ibGVtcy0xLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-27T22:04:13+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Weakening spot demand, miner inflows to exchanges and freshly opened shorts put downside pressure on Bitcoin price."
+    },
+    {
+      "title": "Meta’s Plan to Fund Its AI Ambitions? You.",
+      "description": "Meta Platforms  stock was rising on Wednesday after the tech giant announced that it is introducing subscription plans for its social media apps and its Meta AI chatbot.  The move could help offset some of the costs of its massive spending on artificial intelligence.  Naomi Gleit, head of product at",
+      "url": "https://finance.yahoo.com/m/8f95ba99-a6e8-3355-b05a-0605fe8bdf7b/meta%E2%80%99s-plan-to-fund-its-ai.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T22:04:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Meta Platforms  stock was rising on Wednesday after the tech giant announced that it is introducing subscription plans for its social media apps and its Meta AI chatbot.  The move could help offset so"
+    },
+    {
+      "title": "Canopy Growth Corporation (CGC) Exceeds Market Returns: Some Facts to Consider",
+      "description": "In the latest trading session, Canopy Growth Corporation (CGC) closed at $1.07, marking a +1.9% move from the previous day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/canopy-growth-corporation-cgc-exceeds-215002991.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T21:50:02+00:00",
+      "category": "USA",
+      "simple_explanation": "In the latest trading session, Canopy Growth Corporation (CGC) closed at $1.07, marking a +1.9% move from the previous day."
+    },
+    {
+      "title": "Abbott (ABT) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "description": "Abbott (ABT) concluded the recent trading session at $85.68, signifying a -1.14% move from its prior day's close.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/abbott-abt-stock-falls-amid-215002396.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T21:50:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Abbott (ABT) concluded the recent trading session at $85.68, signifying a -1.14% move from its prior day's close."
+    },
+    {
+      "title": "Polymarket weighs KYC requirements amid global crackdown on prediction markets",
+      "description": "The predictions market operator reportedly explored mandatory user verification requirements, breaking from its policies of allowing traders to access its services using pseudonyms.",
+      "url": "https://cointelegraph.com/news/polymarket-kyc-sanctions-insider-trading-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10aW1lLXRvLXN3aXRjaC1saWNlbnNlLXVhZS5qcGc=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-05-27T21:36:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The predictions market operator reportedly explored mandatory user verification requirements, breaking from its policies of allowing traders to access its services using pseudonyms."
     },
     {
       "title": "Meta to start testing AI subscription services, with cheapest plan at $7.99 a month",
@@ -73,36 +243,6 @@
       "simple_explanation": "Meta confirmed Wednesday that it will begin testing two subscription plans for its AI offerings."
     },
     {
-      "title": "US Equity Indexes Edge Higher as Crude Oil Slumps, Tech Giants Take Breather",
-      "description": "US equity indexes ground higher amid a slump in crude oil prices as investors parsed ongoing talks t",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-edge-higher-210005336.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-27T21:00:05+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity indexes ground higher amid a slump in crude oil prices as investors parsed ongoing talks t"
-    },
-    {
-      "title": "Snowflake rockets 35% on earnings beat and plan to spend $6 billion on Amazon cloud",
-      "description": "Snowflake is going deeper with Amazon's Web Services, and plans to use its Arm-based Graviton chips.",
-      "url": "https://www.cnbc.com/2026/05/27/snowflake-amazon-graviton-cloud-chips.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-27T20:56:56+00:00",
-      "category": "USA",
-      "simple_explanation": "Snowflake is going deeper with Amazon's Web Services, and plans to use its Arm-based Graviton chips."
-    },
-    {
-      "title": "Snowflake Stock Jumps 34%. How Amazon and an Earnings Beat Are Fueling the Gains.",
-      "description": "Snowflake is counting on its revenue model and data warehousing to flourish with the rise of AI agents. The company reported earnings after the close Wednesday.",
-      "url": "https://finance.yahoo.com/m/09032fd4-c156-338f-ae57-d662c999c974/snowflake-stock-jumps-34%25..html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-27T20:55:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Snowflake is counting on its revenue model and data warehousing to flourish with the rise of AI agents. The company reported earnings after the close Wednesday."
-    },
-    {
       "title": "Orca, Streamex roll out secondary trading infrastructure for tokenized securities",
       "description": "Accredited investors can buy and sell the gold-backed GLDY token through permissioned liquidity pools operating on the Solana blockchain.",
       "url": "https://cointelegraph.com/news/orca-and-streamex-launch-secondary-trading-infrastructure-for-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -111,46 +251,6 @@
       "published_at": "2026-05-27T20:51:40+00:00",
       "category": "Crypto",
       "simple_explanation": "Accredited investors can buy and sell the gold-backed GLDY token through permissioned liquidity pools operating on the Solana blockchain."
-    },
-    {
-      "title": "Boston Scientific Is the Worst Performing S&P 500 Stock. Here’s Why.",
-      "description": "The medical device maker flags a drop in stand-alone procedures for its Watchman heart implant, hitting its near-term growth forecast.",
-      "url": "https://finance.yahoo.com/m/7e2495bc-64b8-38c4-8214-04784321881e/boston-scientific-is-the.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-27T20:48:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The medical device maker flags a drop in stand-alone procedures for its Watchman heart implant, hitting its near-term growth forecast."
-    },
-    {
-      "title": "Wall Street Hits New Peaks, US Crude Slips Below $90 Amid Iran Deal Hopes",
-      "description": "Wall Street's benchmark equity indexes reached fresh highs on Wednesday as US crude oil fell below $",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-hits-peaks-us-204605028.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-27T20:46:05+00:00",
-      "category": "USA",
-      "simple_explanation": "Wall Street's benchmark equity indexes reached fresh highs on Wednesday as US crude oil fell below $"
-    },
-    {
-      "title": "2 Reasons to Buy FedEx Stock Now, According to J.P. Morgan",
-      "description": "On Wednesday, J.P. Morgan analyst Brian Ossenbeck boosted his rating of FedEx stock to Buy from Hold.  FedEx stock jumped 2.9%, closing at $411.78 on Wednesday, while UPS stock rose 2.5% to $104.47.  Ossenbeck has a positive view of the company heading into the spinoff of its freight business, expec",
-      "url": "https://finance.yahoo.com/m/574208e1-fef2-3bbb-a150-f150235bab60/2-reasons-to-buy-fedex-stock.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-27T20:44:00+00:00",
-      "category": "USA",
-      "simple_explanation": "On Wednesday, J.P. Morgan analyst Brian Ossenbeck boosted his rating of FedEx stock to Buy from Hold.  FedEx stock jumped 2.9%, closing at $411.78 on Wednesday, while UPS stock rose 2.5% to $104.47.  "
-    },
-    {
-      "title": "Dycom Stock Soars 26%. The Building Boom Continues.",
-      "description": "Dycom reports adjusted earnings per share of $4.42 from sales of $2 billion. Wall Street was looking for EPS of $2.72 from sales of $1.7 billion.",
-      "url": "https://finance.yahoo.com/m/a45d199c-7def-3a1e-802f-976612c930c3/dycom-stock-soars-26%25.-the.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-27T20:38:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Dycom reports adjusted earnings per share of $4.42 from sales of $2 billion. Wall Street was looking for EPS of $2.72 from sales of $1.7 billion."
     },
     {
       "title": "Base Metals Decline on Mixed Signals of US-Iran Peace Deal",
@@ -163,16 +263,6 @@
       "simple_explanation": "Industrial metals declined as investors remained concerned about global economic growth due to mixed signals about prospects for a US-Iran deal to end the war."
     },
     {
-      "title": "Marvell, United, Zscaler, and These Stocks Explain the Market Today",
-      "description": "Oil prices, meanwhile, continued to decline after Iran’s Revolutionary Guard Corps said the possibility of a return to war with the U.S. was “low.”  Optimism around the U.S. and Iran reaching a peace agreement, despite ongoing hostilities, appeared to be growing.  The chip and tech stocks that have ",
-      "url": "https://finance.yahoo.com/m/c316e1f8-0b4b-3350-bd3a-f9d60ff05135/marvell%2C-united%2C-zscaler%2C-and.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-27T20:37:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil prices, meanwhile, continued to decline after Iran’s Revolutionary Guard Corps said the possibility of a return to war with the U.S. was “low.”  Optimism around the U.S. and Iran reaching a peace "
-    },
-    {
       "title": "Zscaler tanks 31% for worst day ever on 'prudent' guidance, sales shakeup",
       "description": "Zscaler has shed half its value over the last year.",
       "url": "https://www.cnbc.com/2026/05/27/zscaler-zs-earnings-q3-2026.html",
@@ -183,14 +273,14 @@
       "simple_explanation": "Zscaler has shed half its value over the last year."
     },
     {
-      "title": "Tesla Stock Rises. Europe EV Sales Are Helping.",
-      "description": "Helping were sales data from Europe that showed Tesla sold 10,654 cars in April, up 46.5% year over year.  It’s been a strong year for European EV sales, amid higher oil prices.  In 2025, Tesla sold 238,656 vehicles in Europe, down 26.9% year over year.",
-      "url": "https://finance.yahoo.com/m/4574eb5c-2086-3e9f-aa75-6a3a0d45e299/tesla-stock-rises.-europe-ev.html?.tsrc=rss",
+      "title": "FBTC Holds $12 Billion in Bitcoin But Spot ETF Holders Pay Ordinary Income Tax on Forced Distributions Most Have Never Considered",
+      "description": "Most holders of the Fidelity Wise Origin Bitcoin Fund (CBOE:FBTC) bought it for one reason: they wanted Bitcoin exposure inside a normal brokerage account without dealing with wallets, keys, or exchanges. FBTC has delivered on that thesis, with roughly $12 billion in Bitcoin under management and a 0",
+      "url": "https://247wallst.com/investing/2026/05/27/fbtc-holds-12-billion-in-bitcoin-but-spot-etf-holders-pay-ordinary-income-tax-on-forced-distributions-most-have-never-considered/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-05-27T20:34:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Helping were sales data from Europe that showed Tesla sold 10,654 cars in April, up 46.5% year over year.  It’s been a strong year for European EV sales, amid higher oil prices.  In 2025, Tesla sold 2"
+      "published_at": "2026-05-27T20:34:27+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Most holders of the Fidelity Wise Origin Bitcoin Fund (CBOE:FBTC) bought it for one reason: they wanted Bitcoin exposure inside a normal brokerage account without dealing with wallets, keys, or exchan"
     },
     {
       "title": "Stocks eke out record closing highs, oil slides as markets eye US-Iran peace progress",
@@ -214,13 +304,13 @@
     },
     {
       "title": "PACs laud Texas primary wins, look to back more pro-crypto candidates",
-      "description": "While crypto industry-backed candidates won runoffs in Texas on Tuesday, industry PACs have less of a stake in California races next week.",
+      "description": "While crypto-backed candidates won runoffs in Texas on Tuesday, industry PACs have less of a stake in California races next week.",
       "url": "https://cointelegraph.com/news/crypto-pac-fairshake-texas-primary-backed-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1iZXR0ZXIta25vdy1hLWNyeXB0by1jYW5kaWRhdGUtMS5qcGc=.jpg",
       "source": "CoinTelegraph",
-      "published_at": "2026-05-27T20:21:00+00:00",
+      "published_at": "2026-05-27T20:25:00+00:00",
       "category": "Crypto",
-      "simple_explanation": "While crypto industry-backed candidates won runoffs in Texas on Tuesday, industry PACs have less of a stake in California races next week."
+      "simple_explanation": "While crypto-backed candidates won runoffs in Texas on Tuesday, industry PACs have less of a stake in California races next week."
     },
     {
       "title": "TSX Closer: The Index Falls for a Second Day After Monday's Record Close Amid Rise In Canadian Credit Stress",
@@ -231,6 +321,16 @@
       "published_at": "2026-05-27T20:17:54+00:00",
       "category": "Commodities",
       "simple_explanation": "The Toronto Stock Exchange closed lower on Wednesday, falling for a second session following Monday'"
+    },
+    {
+      "title": "XRP ETF Inflows Just Hit a 2026 High: Is a Price Surge Coming?",
+      "description": "XRP (CRYPTO: XRP) is trading around $1.33, still struggling to break above the $1.45 resistance level that has capped rallies since February. Still, XRP ETFs recorded a 2026 high of $60.5 million in net inflows during the week ending May 15, even as major market players, like Bitcoin (CRYPTO: BTC) a",
+      "url": "https://247wallst.com/investing/2026/05/27/xrp-etf-inflows-just-hit-a-2026-high-is-a-price-surge-coming/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-27T20:09:35+00:00",
+      "category": "Crypto",
+      "simple_explanation": "XRP (CRYPTO: XRP) is trading around $1.33, still struggling to break above the $1.45 resistance level that has capped rallies since February. Still, XRP ETFs recorded a 2026 high of $60.5 million in n"
     },
     {
       "title": "US stocks today: Dow posts closing record high, S&P 500, Nasdaq muted as AI rally pauses",
@@ -283,16 +383,6 @@
       "simple_explanation": "Copper traders are once again scouring the world for metal to send to the US, as renewed speculation about import tariffs revives a trade that’s upended the $300 billion-a-year market."
     },
     {
-      "title": "Ether bears at risk of $2B squeeze as short positions build around $2K",
-      "description": "Ether futures positioning tightened near $2,000 as rising open interest and dense short liquidity increased focus on a possible squeeze above $2,150.",
-      "url": "https://cointelegraph.com/markets/ether-bears-risk-115-billion-squeeze-as-shorts-pile-up-at-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9iZWFyLW1hcmtldC5qcGc=.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-27T19:17:05+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Ether futures positioning tightened near $2,000 as rising open interest and dense short liquidity increased focus on a possible squeeze above $2,150."
-    },
-    {
       "title": "Newmont vs. SSR Mining: Which Gold Stock Is a Better Buy in 2026?",
       "description": "This is a battle between a gold giant generating record cash flows and a smaller miner about to sell its most problematic mine and get $1.5 billion.",
       "url": "https://www.fool.com/coverage/better-buy/2026/05/27/newmont-vs-ssr-mining-which-gold-stock-is-a-better-buy-in-2026/?.tsrc=rss",
@@ -311,96 +401,6 @@
       "published_at": "2026-05-27T18:50:30+00:00",
       "category": "Commodities",
       "simple_explanation": "Front-month gold futures settle lower for the third consecutive trading day, shedding 2% in that time. Gold prices seem to be reacting to a growing likelihood of the Federal Reserve at least consideri"
-    },
-    {
-      "title": "Treasuries Hold Gains as Oil Signals Optimism on Iran Accord",
-      "description": "Treasuries rose as the latest signs of an accord to end the US-Iran war sent benchmark oil prices to their lowest levels in more than a month, offering potential relief from sustained high inflation.",
-      "url": "https://www.livemint.com/market/treasuries-hold-gains-as-oil-signals-optimism-on-iran-accord-11779907028598.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-      "source": "LiveMint",
-      "published_at": "2026-05-27T18:37:08+00:00",
-      "category": "India",
-      "simple_explanation": "Treasuries rose as the latest signs of an accord to end the US-Iran war sent benchmark oil prices to their lowest levels in more than a month, offering potential relief from sustained high inflation."
-    },
-    {
-      "title": "Price predictions 5/27: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ZEC, ADA, XMR",
-      "description": "Bitcoin briefly lost the $75,000 level after net flows into spot BTC ETFs turned negative. Do technical charts point to a BTC and altcoin recovery?",
-      "url": "https://cointelegraph.com/markets/price-predictions-527-btc-eth-bnb-xrp-sol-doge-hype-zec-ada-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctdG8tdHJhZGUtY3J5cHRvY3VycmVuY2llcy0yLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-27T18:28:39+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin briefly lost the $75,000 level after net flows into spot BTC ETFs turned negative. Do technical charts point to a BTC and altcoin recovery?"
-    },
-    {
-      "title": "Mastercard secures New York BitLicense for crypto operations",
-      "description": "The payments giant can now legally conduct digital asset business activity in New York as it deepens its focus on blockchain-based settlement systems.",
-      "url": "https://cointelegraph.com/news/mastercard-secures-new-york-bitlicense-for-crypto-operations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1iaXRsaWNlbnNlLWFwcHJvdmFsLXNoaW5lcy1mcmVzaC1saWdodC1vbi1uZXcteW9yay1jcnlwdG8tcmVsYXRpb25zaGlwLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-05-27T18:05:55+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The payments giant can now legally conduct digital asset business activity in New York as it deepens its focus on blockchain-based settlement systems."
-    },
-    {
-      "title": "Update: Gold Trading at a Two-Month Low Even as Falling Oil Prices Ease Inflation Concerns",
-      "description": "(Updates prices.) Gold fell to a two-month low early on Wednesday, even as the dollar dipped as o",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-trading-two-month-low-180006632.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-27T18:00:06+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Updates prices.) Gold fell to a two-month low early on Wednesday, even as the dollar dipped as o"
-    },
-    {
-      "title": "Lower Tariffs Could Be Ahead. Here’s Why.",
-      "description": "U.S. Trade Representative Jamieson Greer says the U.S. will impose tariffs on imports, even from neighbors Mexico and Canada, as long as trade isn’t balanced. But they may not be as high as they were last year.",
-      "url": "https://www.livemint.com/market/lower-tariffs-could-be-ahead-here-s-why-11779902615460.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/27/1600x900/logo/im-93962641_1779902621677_1779903339191_3208a72d-dbd0-4e4c-b9d0-d67f2cd2beba.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-27T17:36:00+00:00",
-      "category": "India",
-      "simple_explanation": "U.S. Trade Representative Jamieson Greer says the U.S. will impose tariffs on imports, even from neighbors Mexico and Canada, as long as trade isn’t balanced. But they may not be as high as they were "
-    },
-    {
-      "title": "Global equities scale record highs on AI optimism. Why is Dalal Street still under pressure?",
-      "description": "Geopolitical tensions and high crude oil prices pressure Indian equities, while global markets hit record highs driven by AI stocks. South Korea's KOSPI and Japan's Nikkei perform strongly, but Indian markets lag due to low AI investment and weak earnings growth.",
-      "url": "https://www.livemint.com/market/stock-market-news/global-equities-scale-record-highs-on-ai-optimism-why-is-dalal-street-still-under-pressure-11779895766551.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/27/1600x900/logo/2-0-1309458163-bse--1--0_1679981984752_1779900009856_2dae6312-fb20-4d93-aab5-c74ab73ed855.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-05-27T17:25:51+00:00",
-      "category": "India",
-      "simple_explanation": "Geopolitical tensions and high crude oil prices pressure Indian equities, while global markets hit record highs driven by AI stocks. South Korea's KOSPI and Japan's Nikkei perform strongly, but Indian"
-    },
-    {
-      "title": "Traders are skeptical of Iran timeline for Strait of Hormuz reopening",
-      "description": "Despite reports Iran could return the passageway to normal traffic flows within a month of a peace deal, Kalshi traders thought that was unlikely.",
-      "url": "https://www.cnbc.com/2026/05/27/traders-are-skeptical-of-iran-timeline-for-strait-of-hormuz-reopening.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-05-27T17:19:04+00:00",
-      "category": "USA",
-      "simple_explanation": "Despite reports Iran could return the passageway to normal traffic flows within a month of a peace deal, Kalshi traders thought that was unlikely."
-    },
-    {
-      "title": "Sociedad Quimica y Minera Q1 Earnings Call Highlights",
-      "description": "Sociedad Quimica y Minera (NYSE:SQM) reported a strong first quarter of 2026, with management citing higher lithium volumes, favorable pricing trends across several businesses and the first full quarter of operations for its Novandino Lithium partnership with Codelco. Chief Executive Officer Ricard",
-      "url": "https://www.marketbeat.com/instant-alerts/sociedad-quimica-y-minera-q1-earnings-call-highlights-2026-05-27/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-27T17:08:02+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Sociedad Quimica y Minera (NYSE:SQM) reported a strong first quarter of 2026, with management citing higher lithium volumes, favorable pricing trends across several businesses and the first full quart"
-    },
-    {
-      "title": "While AI Stocks And Gold Soar, Porter Stansberry Calls Bitcoin's 30% Yearly Slump The 'Best Opportunity In A Decade'",
-      "description": "Stansberry stated that Bitcoin tracks banking-system liquidity, while gold tracks global credit, explaining why the two assets diverge.",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/ai-stocks-gold-soar-bitcoin-long-game/cZgg0e3Rerl?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-05-27T17:00:07+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Stansberry stated that Bitcoin tracks banking-system liquidity, while gold tracks global credit, explaining why the two assets diverge."
     }
   ]
 }
