@@ -1,56 +1,206 @@
 {
-  "last_updated": "2026-06-02T21:48:01.955288+00:00",
+  "last_updated": "2026-06-02T23:45:39.293714+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Dow Jones Futures Fall, Palo Alto Reverses Lower On Earnings; Google Tests Support",
+      "description": "The stock market hit new highs, extending a win streak. AI and metals led while Google tested support. Palo Alto earnings beat late.",
+      "url": "https://finance.yahoo.com/m/aa08c35b-4d49-3b36-9df8-fbe12373c136/dow-jones-futures-fall%2C-palo.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-02T23:37:39+00:00",
+      "category": "USA",
+      "simple_explanation": "The stock market hit new highs, extending a win streak. AI and metals led while Google tested support. Palo Alto earnings beat late."
+    },
+    {
+      "title": "Wall St ends modestly higher as AI zeal offset by Middle East jitters",
+      "description": "STORY: Wall Street's main indexes ended modestly higher on Tuesday, with the Dow making the biggest move, gaining  just under half a percent, the S&P 500 ticking up more than a tenth of a percent and the Nasdaq nudging up slightly.The AI fervor that's powered the market to multiple new highs this sp",
+      "url": "https://finance.yahoo.com/video/wall-st-ends-modestly-higher-231109053.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-02T23:22:04+00:00",
+      "category": "USA",
+      "simple_explanation": "STORY: Wall Street's main indexes ended modestly higher on Tuesday, with the Dow making the biggest move, gaining  just under half a percent, the S&P 500 ticking up more than a tenth of a percent and "
+    },
+    {
+      "title": "Oil Extends Advance on Discordant US-Iran Peace Talk Reports",
+      "description": "(Bloomberg) -- Oil rose a third day, as contradictory headlines on the prospects of a US-Iran peace deal boosted price swings.Most Read from BloombergRussia Finance Officials Tell Putin War Spending Is UnaffordableCanada Dips Into Technical Recession for First Time Since 2020Trump to Get Audit Immun",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/oil-holds-two-day-gain-220146326.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-02T23:20:46+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Bloomberg) -- Oil rose a third day, as contradictory headlines on the prospects of a US-Iran peace deal boosted price swings.Most Read from BloombergRussia Finance Officials Tell Putin War Spending I"
+    },
+    {
+      "title": "Iran has mined 'large segments' of Hormuz Strait, Secretary of State Rubio says",
+      "description": "Rubio called Iran's actions illegal in testimony to the Senate Foreign Relations Committee.",
+      "url": "https://www.cnbc.com/2026/06/02/iran-war-strait-hormuz-marco-rubio-mine.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-02T23:13:39+00:00",
+      "category": "USA",
+      "simple_explanation": "Rubio called Iran's actions illegal in testimony to the Senate Foreign Relations Committee."
+    },
+    {
+      "title": "Trump still protected from tax enforcement, but anti-weaponization fund is dead, Blanche says",
+      "description": "The DOJ's $1.8 billion fund faced strong criticism because it could have compensated people convicted of crimes related to the Jan. 6, 2021, U.S. Capitol Riot.",
+      "url": "https://www.cnbc.com/2026/06/02/doj-fund-trump-todd-blanche.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-02T23:01:16+00:00",
+      "category": "USA",
+      "simple_explanation": "The DOJ's $1.8 billion fund faced strong criticism because it could have compensated people convicted of crimes related to the Jan. 6, 2021, U.S. Capitol Riot."
+    },
+    {
+      "title": "Hormel Foods Corporation to Participate in Oppenheimer 26th Annual Consumer Growth & E-Commerce Conference",
+      "description": "Hormel Foods Corporation (NYSE: HRL), a Fortune 500 global branded food company, announced today that John Ghingo, president, and Paul Kuehneman, interim chief financial officer and controller, will participate in a fireside chat at the virtual Oppenheimer 26th Annual Consumer Growth & E-Commerce Co",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hormel-foods-corporation-participate-oppenheimer-230000931.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-02T23:00:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Hormel Foods Corporation (NYSE: HRL), a Fortune 500 global branded food company, announced today that John Ghingo, president, and Paul Kuehneman, interim chief financial officer and controller, will p"
+    },
+    {
+      "title": "Stock Market Today, June 2: Marvell Technology Surges After Nvidia CEO Highlights AI Infrastructure Role",
+      "description": "The Teralynx launch gives Marvell a product-level AI networking catalyst, with custom silicon revenue now central to whether data center growth can support the stock’s higher expectations.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/02/stock-market-today-june-2-marvell-technology-surges-after-nvidia-ceo-highlights-ai-infrastructure-role/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-02T22:54:39+00:00",
+      "category": "USA",
+      "simple_explanation": "The Teralynx launch gives Marvell a product-level AI networking catalyst, with custom silicon revenue now central to whether data center growth can support the stock’s higher expectations."
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures trade flat as AI fervor meets US-Iran uncertainty",
+      "description": "US stock futures traded flat as Wall Street weighed the promise of the AI trade against fragile US-Iran negotiations.",
+      "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-trade-flat-as-ai-fervor-meets-us-iran-uncertainty-224803935.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-02T22:48:03+00:00",
+      "category": "USA",
+      "simple_explanation": "US stock futures traded flat as Wall Street weighed the promise of the AI trade against fragile US-Iran negotiations."
+    },
+    {
+      "title": "Best ETFs for H1 2026: Winners, Losers, and What to Watch",
+      "description": "The first half of 2026 produced dramatic divergence across ETF categories. Energy ETFs surged as much as 96% on Middle East conflict, semiconductor funds gained up to 100%, and South Korean memory chip ETFs became surprise standouts — while crypto sank, long bonds went nowhere, and gold rested after",
+      "url": "http://www.etf.com/sections/news/best-etfs-h1-2026-winners-losers-and-what-watch?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-02T22:46:51+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The first half of 2026 produced dramatic divergence across ETF categories. Energy ETFs surged as much as 96% on Middle East conflict, semiconductor funds gained up to 100%, and South Korean memory chi"
+    },
+    {
+      "title": "US lawmakers push back on Labor Department plans to include crypto in 401(k)s",
+      "description": "The three members of Congress said the volatility of digital assets and “lack of regulation and safeguards” could put Americans’ retirement savings at risk.",
+      "url": "https://cointelegraph.com/news/democrats-labor-department-digital-assets-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jcnlwdG8taGVhcmluZy1vbi0yM3JkLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-02T22:44:19+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The three members of Congress said the volatility of digital assets and “lack of regulation and safeguards” could put Americans’ retirement savings at risk."
+    },
+    {
+      "title": "Should You Buy Suncor Energy (SU)?",
+      "description": "We just covered the Top 10 Stock Picks of Billionaire Paul Singer. Suncor Energy (NYSE:SU) ranks #3 (see Top 5 Stock Picks of Billionaire Paul Singer). Elliott’s Stake: $3,482,066,588 The turmoil in oil markets amid the Middle East conflict, years of underinvestment, and the removal of roughly 600–7",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/buy-suncor-energy-su-224223338.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-02T22:42:23+00:00",
+      "category": "Commodities",
+      "simple_explanation": "We just covered the Top 10 Stock Picks of Billionaire Paul Singer. Suncor Energy (NYSE:SU) ranks #3 (see Top 5 Stock Picks of Billionaire Paul Singer). Elliott’s Stake: $3,482,066,588 The turmoil in o"
+    },
+    {
+      "title": "Asian Growth Companies With High Insider Ownership In June 2026",
+      "description": "As of June 2026, the Asian markets have been navigating a complex landscape shaped by geopolitical developments and fluctuating oil prices, with investor sentiment buoyed by optimism surrounding U.S.-Iran negotiations and advancements in artificial intelligence. Amid these conditions, growth compani",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-growth-companies-high-insider-223815364.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-02T22:38:15+00:00",
+      "category": "Commodities",
+      "simple_explanation": "As of June 2026, the Asian markets have been navigating a complex landscape shaped by geopolitical developments and fluctuating oil prices, with investor sentiment buoyed by optimism surrounding U.S.-"
+    },
+    {
+      "title": "Asian Value Stocks Priced Below Estimated Worth For June 2026",
+      "description": "As global markets respond to geopolitical developments and economic indicators, Asia's equity landscape presents unique opportunities amid ongoing shifts in investor sentiment. With the recent focus on U.S.-Iran relations and fluctuating oil prices, identifying undervalued stocks in Asia could offer",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-value-stocks-priced-below-223430831.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-02T22:34:30+00:00",
+      "category": "Commodities",
+      "simple_explanation": "As global markets respond to geopolitical developments and economic indicators, Asia's equity landscape presents unique opportunities amid ongoing shifts in investor sentiment. With the recent focus o"
+    },
+    {
+      "title": "SEC makes digital assets strategic priority through 2030",
+      "description": "The regulator’s five-year roadmap calls for clearer crypto rules, support for tokenization and a framework for staking and onchain markets.",
+      "url": "https://cointelegraph.com/news/sec-makes-digital-assets-strategic-priority-through-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9ib29rLWljby1yZWd1bGF0aW9uLWxhd25ldy0xLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-02T22:17:11+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The regulator’s five-year roadmap calls for clearer crypto rules, support for tokenization and a framework for staking and onchain markets."
+    },
+    {
+      "title": "Bank of America resets Nvidia stock forecast after key event",
+      "description": "Nvidia (NVDA) stock closed the June 1 trading session up 6.26% at $224.36. The stock is now up about 20.3% year to date, at the time of writing, Tuesday morning, June 2. Meanwhile, the SPDR S&P 500 Index (SPY) is up about 11.24% in the same period. While Nvidia was expected to outpace the ...",
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-reiterates-buy-rating-nvidia-stock-forecast?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-02T22:17:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Nvidia (NVDA) stock closed the June 1 trading session up 6.26% at $224.36. The stock is now up about 20.3% year to date, at the time of writing, Tuesday morning, June 2. Meanwhile, the SPDR S&P 500 In"
+    },
+    {
+      "title": "Nucor (NUE) Surpasses Market Returns: Some Facts Worth Knowing",
+      "description": "In the latest trading session, Nucor (NUE) closed at $258.46, marking a +2.77% move from the previous day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nucor-nue-surpasses-market-returns-221502866.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-02T22:15:02+00:00",
+      "category": "USA",
+      "simple_explanation": "In the latest trading session, Nucor (NUE) closed at $258.46, marking a +2.77% move from the previous day."
+    },
+    {
+      "title": "Whirlpool (WHR) Stock Dips While Market Gains: Key Facts",
+      "description": "Whirlpool (WHR) closed the most recent trading day at $41.01, moving 3.37% from the previous trading session.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/whirlpool-whr-stock-dips-while-221502923.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-02T22:15:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Whirlpool (WHR) closed the most recent trading day at $41.01, moving 3.37% from the previous trading session."
+    },
+    {
+      "title": "Rithm (RITM) Outpaces Stock Market Gains: What You Should Know",
+      "description": "Rithm (RITM) concluded the recent trading session at $9.25, signifying a +1.65% move from its prior day's close.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rithm-ritm-outpaces-stock-market-221502314.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-02T22:15:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Rithm (RITM) concluded the recent trading session at $9.25, signifying a +1.65% move from its prior day's close."
+    },
+    {
+      "title": "China Draws Down Billion-Barrel Stockpile as Iran War Cuts Imports in Half",
+      "description": "China's crude oil imports fell to 6.36 million barrels per day in May as the Middle East war cut supply — but a billion-barrel stockpile is keeping the market in check for now.",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/china-draws-down-billion-barrel-220000944.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-02T22:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "China's crude oil imports fell to 6.36 million barrels per day in May as the Middle East war cut supply — but a billion-barrel stockpile is keeping the market in check for now."
+    },
     {
       "title": "Palo Alto Networks tops earnings as AI fuels cybersecurity urgency",
       "description": "The beat comes on lowered expectations, after the company gave disappointing guidance in February that fell short of analyst estimates.",
       "url": "https://www.cnbc.com/2026/06/02/palo-alto-networks-panw-q3-earnings-2026.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-06-02T21:47:03+00:00",
+      "published_at": "2026-06-02T21:53:59+00:00",
       "category": "USA",
       "simple_explanation": "The beat comes on lowered expectations, after the company gave disappointing guidance in February that fell short of analyst estimates."
-    },
-    {
-      "title": "Trump still protected from tax enforcement, but anti-weaponization fund is dead, Blanche says",
-      "description": "The DOJ's $1.8 billion faced strong criticism because it could have compensated people convicted of crimes related to the Jan. 6, 2021, U.S. Capitol Riot.",
-      "url": "https://www.cnbc.com/2026/06/02/doj-fund-trump-todd-blanche.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-02T21:44:43+00:00",
-      "category": "USA",
-      "simple_explanation": "The DOJ's $1.8 billion faced strong criticism because it could have compensated people convicted of crimes related to the Jan. 6, 2021, U.S. Capitol Riot."
-    },
-    {
-      "title": "Atlassian and Flywire Shares Plummet, What You Need To Know",
-      "description": "A number of stocks fell in the afternoon session after investors took profits following a significant rally the previous day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-flywire-shares-plummet-know-213323283.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-02T21:33:23+00:00",
-      "category": "USA",
-      "simple_explanation": "A number of stocks fell in the afternoon session after investors took profits following a significant rally the previous day."
-    },
-    {
-      "title": "Ulta shares pop as beauty retailer beats Wall Street expectations and hikes earnings outlook",
-      "description": "Ulta Beauty beat on the top and bottom lines for its fiscal first quarter on Tuesday as CEO Kecia Steelman praised the company's strategy.",
-      "url": "https://www.cnbc.com/2026/06/02/ulta-beauty-ulta-q1-earnings-2026.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-02T21:31:18+00:00",
-      "category": "USA",
-      "simple_explanation": "Ulta Beauty beat on the top and bottom lines for its fiscal first quarter on Tuesday as CEO Kecia Steelman praised the company's strategy."
-    },
-    {
-      "title": "Supply risks are building beneath the surface",
-      "description": "(By Oil & Gas 360) – The oil market has spent the past several weeks trading optimism. Prices have retreated from […]",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/supply-risks-building-beneath-surface-213025744.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-02T21:30:25+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(By Oil & Gas 360) – The oil market has spent the past several weeks trading optimism. Prices have retreated from […]"
     },
     {
       "title": "The CFTC has sparked a potential revolution on Wall Street. Exchange stocks are dropping",
@@ -63,54 +213,44 @@
       "simple_explanation": "Investors are worried about increased competition for the traditional exchanges that have long dominated on Wall Street."
     },
     {
-      "title": "monday.com, RingCentral, and BlackLine Shares Plummet, What You Need To Know",
-      "description": "A number of stocks fell in the afternoon session after investors took profits following a significant rally the previous day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/monday-com-ringcentral-blackline-shares-212523099.html?.tsrc=rss",
+      "title": "Back On Being Bitcoin Creator: 'Hard to Prove Negative'",
+      "description": "Adam Back, co-founder and CEO of Blockstream, joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" Back is often considered to be the creator of Bitcoin, which he has repeatedly denied.",
+      "url": "https://finance.yahoo.com/video/back-being-bitcoin-creator-hard-212420824.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-02T21:25:23+00:00",
-      "category": "USA",
-      "simple_explanation": "A number of stocks fell in the afternoon session after investors took profits following a significant rally the previous day."
+      "published_at": "2026-06-02T21:24:20+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Adam Back, co-founder and CEO of Blockstream, joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" Back is often considered to be the creator of Bitcoin, which he has repeatedly denied."
     },
     {
-      "title": "Stock Market Today, June 2: Chipmakers Drive S&P 500 to Another Record Close",
-      "description": "Today, June 2, 2026, a powerful AI-chip surge sent U.S. stocks to fresh records even as Alphabet slipped on a huge stock sale plan.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/02/stock-market-today-june-2-chipmakers-drive-s-and-p-500-to-another-record-close/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-02T21:22:10+00:00",
-      "category": "USA",
-      "simple_explanation": "Today, June 2, 2026, a powerful AI-chip surge sent U.S. stocks to fresh records even as Alphabet slipped on a huge stock sale plan."
+      "title": "Crypto correction vaporized $176B in investor funds: Are bears back in control?",
+      "description": "Bitcoin and altcoin prices crumbled as BTC lost the $70,000 level. Will investors’ pivot to AI stocks continue to weigh on crypto markets?",
+      "url": "https://cointelegraph.com/markets/crypto-correction-vaporized-176b-in-investor-funds-are-bears-back-in-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1tYXJrZXQtY29ycmVjdGlvbi12cy1iZWFyLW1hcmtldC1rZXktZGlmZmVyZW5jZXMtZXhwbGFpbmVkLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-02T21:16:33+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin and altcoin prices crumbled as BTC lost the $70,000 level. Will investors’ pivot to AI stocks continue to weigh on crypto markets?"
     },
     {
-      "title": "Wall Street Hits New Highs as Tech Gains",
-      "description": "Wall Street's equity benchmarks hit fresh all-time highs on Tuesday amid gains in the technology sec",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-hits-highs-tech-212110833.html?.tsrc=rss",
+      "title": "Bitcoin’s Inflation-Hedging Promise in Tatters After Plunge",
+      "description": "(Bloomberg) -- Bitcoin has fallen 36% over the past year and slipped below $70,000 this week, extending a retreat that is undermining several of the arguments that helped carry the cryptocurrency into the financial mainstream.Most Read from BloombergRussia Finance Officials Tell Putin War Spending I",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-inflation-hedging-promise-tatters-160925266.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-02T21:21:10+00:00",
-      "category": "USA",
-      "simple_explanation": "Wall Street's equity benchmarks hit fresh all-time highs on Tuesday amid gains in the technology sec"
+      "published_at": "2026-06-02T21:12:52+00:00",
+      "category": "Crypto",
+      "simple_explanation": "(Bloomberg) -- Bitcoin has fallen 36% over the past year and slipped below $70,000 this week, extending a retreat that is undermining several of the arguments that helped carry the cryptocurrency into"
     },
     {
-      "title": "US Equity Indexes Edge Up, Crude Oil Jumps Amid Reports Talks Continuing to Reach Israeli-Hezbollah Truce in Lebanon",
-      "description": "US equity indexes ground higher while crude oil futures jumped as media reports claiming that parts",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-edge-crude-210859345.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-02T21:08:59+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity indexes ground higher while crude oil futures jumped as media reports claiming that parts"
-    },
-    {
-      "title": "Dow Jones Futures: These Sectors Lead Market, Google Tests Support; Palo Alto Jumps Late On Earnings",
-      "description": "The stock market hit new highs amid a win streak. AI and metals led while Google tested support. Palo Alto jumped late on earnings.",
-      "url": "https://finance.yahoo.com/m/aa08c35b-4d49-3b36-9df8-fbe12373c136/dow-jones-futures%3A-these.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-02T21:08:27+00:00",
-      "category": "USA",
-      "simple_explanation": "The stock market hit new highs amid a win streak. AI and metals led while Google tested support. Palo Alto jumped late on earnings."
+      "title": "Crypto PACs pour $3M into Maryland races as California voters head to polls",
+      "description": "An affiliate of a political action committee backed by crypto companies ramped up spending on ads in California ahead of Tuesday’s primaries, but still has millions of dollars at stake in Maryland later this month.",
+      "url": "https://cointelegraph.com/news/crypto-pacs-maryland-races-media-buys-california-primaries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ibG9ja2NoYWluLWFuZC1lbGVjdGlvbnMtY3J5cHRvMy0xLmpwZw==.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-02T21:06:39+00:00",
+      "category": "Crypto",
+      "simple_explanation": "An affiliate of a political action committee backed by crypto companies ramped up spending on ads in California ahead of Tuesday’s primaries, but still has millions of dollars at stake in Maryland lat"
     },
     {
       "title": "Bitdeer breaks ground on $155 million Alberta bitcoin mining site with 101 MW gas plant",
@@ -143,6 +283,16 @@
       "simple_explanation": "Most emerging market currencies advanced as hopes of a deal in the Middle East boosted risk sentiment and US data showed a strong labor market."
     },
     {
+      "title": "Microsoft unveils new AI models to lessen reliance on OpenAI and lower costs for developers",
+      "description": "At its Build developer conference, Microsoft announced a series of generative AI models to try and crack a market controlled by OpenAI, Anthropic and Google.",
+      "url": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-02T20:42:45+00:00",
+      "category": "USA",
+      "simple_explanation": "At its Build developer conference, Microsoft announced a series of generative AI models to try and crack a market controlled by OpenAI, Anthropic and Google."
+    },
+    {
       "title": "Gold Pares Gains as US Jobs Data Reinforces Higher-Rate Bets",
       "description": "Gold pared gains after robust US jobs data reinforced bets that the Federal Reserve will keep interest rates higher for longer, a headwind for the precious metal.",
       "url": "https://www.livemint.com/market/gold-pares-gains-as-us-jobs-data-reinforces-higher-rate-bets-11780432705272.html",
@@ -151,46 +301,6 @@
       "published_at": "2026-06-02T20:38:24+00:00",
       "category": "India",
       "simple_explanation": "Gold pared gains after robust US jobs data reinforced bets that the Federal Reserve will keep interest rates higher for longer, a headwind for the precious metal."
-    },
-    {
-      "title": "Stalled Mideast peace process sends oil soaring, tech buoys stocks",
-      "description": "Stalled progress in peace negotiations between Washington and Tehran sent oil prices higher on Tuesday, with stocks also making advances based on optimism around AI-related tech equities.Oil prices also spiked higher on Monday on a lack of progress in talks to end the US-Israel war on Iran, with fig",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-swing-mixed-signals-030229016.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-02T20:34:29+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Stalled progress in peace negotiations between Washington and Tehran sent oil prices higher on Tuesday, with stocks also making advances based on optimism around AI-related tech equities.Oil prices al"
-    },
-    {
-      "title": "US Equity Markets Extend Rally to Records on AI Momentum, Jobs Data",
-      "description": "US equity indexes closed higher Tuesday as the three major gauges extended a rally to records, fuele",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-extend-rally-202920714.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-02T20:29:20+00:00",
-      "category": "Commodities",
-      "simple_explanation": "US equity indexes closed higher Tuesday as the three major gauges extended a rally to records, fuele"
-    },
-    {
-      "title": "Pulte appointment as spy chief would give Trump attack dog access to the 'crown jewels'",
-      "description": "In his role atop the housing finance agency, Bill Pulte has used his access to mortgage records to refer some top Trump enemies for prosecution.",
-      "url": "https://www.cnbc.com/2026/06/02/bill-pulte-dni-tulsi-gabbard.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-02T20:27:49+00:00",
-      "category": "USA",
-      "simple_explanation": "In his role atop the housing finance agency, Bill Pulte has used his access to mortgage records to refer some top Trump enemies for prosecution."
-    },
-    {
-      "title": "How major US stock indexes fared Tuesday 6/2/2026",
-      "description": "The Dow Jones Industrial Average added 0.4%, and the Nasdaq composite rose less than 0.1%.  Marvell Technology leaped to its biggest gain on record after Nvidia’s CEO suggested it could be the next company to be worth $1 trillion.  The Nasdaq composite rose 7.09 points, or less than 0.1%, to 27,093.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-201528836.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-02T20:15:28+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The Dow Jones Industrial Average added 0.4%, and the Nasdaq composite rose less than 0.1%.  Marvell Technology leaped to its biggest gain on record after Nvidia’s CEO suggested it could be the next co"
     },
     {
       "title": "Coinbase invests in ProShares ETF tailored for stablecoin reserve assets",
@@ -291,116 +401,6 @@
       "published_at": "2026-06-02T19:23:52+00:00",
       "category": "India",
       "simple_explanation": "GLOBAL-FOREX:Dollar in tight range as traders eye Middle East peace talks"
-    },
-    {
-      "title": "Elliott's A$1 Billion Stake Sends Northern Star Up 13.6%",
-      "description": "Elliott is pushing Northern Star toward a strategic review as the gold miner searches for a new CEO.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elliotts-1-billion-stake-sends-192224361.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-02T19:22:24+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Elliott is pushing Northern Star toward a strategic review as the gold miner searches for a new CEO."
-    },
-    {
-      "title": "Public notice - Lynn Lake Gold Project",
-      "description": "Public notice - Lynn Lake Gold Project",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/public-notice-lynn-lake-gold-191600132.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-02T19:16:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Public notice - Lynn Lake Gold Project"
-    },
-    {
-      "title": "Hyperliquid among the tokens moving on its own, not on bitcoin news",
-      "description": "Scott Melker discusses the handful of crypto tokens trading higher on their own merit and not on bitcoin's (BTC-USD) own price moves, including Hyperliquid (HYPE32196-USD).\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to al",
-      "url": "https://finance.yahoo.com/video/hyperliquid-among-tokens-moving-own-191500107.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-02T19:15:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Scott Melker discusses the handful of crypto tokens trading higher on their own merit and not on bitcoin's (BTC-USD) own price moves, including Hyperliquid (HYPE32196-USD).\"The Daily Wolf with Scott M"
-    },
-    {
-      "title": "Goldman Sachs CEO David Solomon says markets are in 'greed' mode as AI companies seek billions",
-      "description": "Goldman Sachs CEO David Solomon's comments come as investors prepare for what will be one of the busiest periods for equity issuance in years.",
-      "url": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-02T19:06:48+00:00",
-      "category": "USA",
-      "simple_explanation": "Goldman Sachs CEO David Solomon's comments come as investors prepare for what will be one of the busiest periods for equity issuance in years."
-    },
-    {
-      "title": "US yields dip as job openings jump, oil prices remain volatile",
-      "description": "USA-BONDS/ (UPDATE 1, GRAPHIC):TREASURIES-US yields dip as job openings jump, oil prices remain volatile",
-      "url": "https://www.livemint.com/market/us-yields-dip-as-job-openings-jump-oil-prices-remain-volatile-11780426886499.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-02T19:01:26+00:00",
-      "category": "India",
-      "simple_explanation": "USA-BONDS/ (UPDATE 1, GRAPHIC):TREASURIES-US yields dip as job openings jump, oil prices remain volatile"
-    },
-    {
-      "title": "CBOE, CME, ICE, NDAQ Stocks Take A Hit After Kalshi's Bitcoin Perps Approval – TD Cowen Sees Real Risk, But RBC Says It's ‘Manageable’",
-      "description": "While the two firms are divided on how serious the threat actually is, they agree that Cboe Global Markets is most at risk.",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/cboe-cme-ice-nasdaq-stocks-hit-kalshi-bitcoin-perps-td-cowen-rbc/cZ00IqrReDg?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-02T18:38:45+00:00",
-      "category": "Crypto",
-      "simple_explanation": "While the two firms are divided on how serious the threat actually is, they agree that Cboe Global Markets is most at risk."
-    },
-    {
-      "title": "Wall St muted as AI zeal is held in check by Middle East tensions",
-      "description": "USA-STOCKS/ (UPDATE 5, GRAPHIC):US STOCKS-Wall St muted as AI zeal is held in check by Middle East tensions",
-      "url": "https://www.livemint.com/market/wall-st-muted-as-ai-zeal-is-held-in-check-by-middle-east-tensions-11780425416025.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-      "source": "LiveMint",
-      "published_at": "2026-06-02T18:36:55+00:00",
-      "category": "India",
-      "simple_explanation": "USA-STOCKS/ (UPDATE 5, GRAPHIC):US STOCKS-Wall St muted as AI zeal is held in check by Middle East tensions"
-    },
-    {
-      "title": "Assessing Equinox Gold (TSX:EQX) Valuation After Recent Share Price Pullback And Mixed Performance",
-      "description": "Recent share performance and what it might mean for investors Equinox Gold (TSX:EQX) has given shareholders a mixed ride, with the stock up about 84% over the past year but down 9% over the past month and 27% over the past 3 months. See our latest analysis for Equinox Gold. The recent pullback, incl",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-equinox-gold-tsx-eqx-181003010.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-02T18:10:03+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Recent share performance and what it might mean for investors Equinox Gold (TSX:EQX) has given shareholders a mixed ride, with the stock up about 84% over the past year but down 9% over the past month"
-    },
-    {
-      "title": "New report reveals gold has overtaken U.S. Treasuries",
-      "description": "Gold has long been the asset governments turn to in times of uncertainty. That demand has intensified, as geopolitical tensions, sanctions, and worries about the global financial order push central banks to rethink how they hold reserves. That shift just hit a milestone. Gold has overtaken U.S. ...",
-      "url": "https://www.thestreet.com/crypto/markets/new-report-reveals-gold-has-overtaken-us-treasuries?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-02T18:09:25+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold has long been the asset governments turn to in times of uncertainty. That demand has intensified, as geopolitical tensions, sanctions, and worries about the global financial order push central ba"
-    },
-    {
-      "title": "Bitcoin gets new $50K target after BTC price crashes 6% in a day",
-      "description": "Bitcoin price bets saw $50,000 returning after 6% daily BTC price losses liquidated $1.25 billion of crypto positions.",
-      "url": "https://cointelegraph.com/markets/bitcoin-gets-new-50k-target-after-btc-price-crashes-6-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9kb2N0b3ItbWVkaWNpbmUtdG9tb2dyYXBoeS1iaXRjb2luLTEuanBn.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-02T17:54:18+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin price bets saw $50,000 returning after 6% daily BTC price losses liquidated $1.25 billion of crypto positions."
-    },
-    {
-      "title": "CFTC chair claims Gemini case was politically motivated, seeks to reverse $5M settlement",
-      "description": "The CFTC chair seeks to roll back an enforcement action on the company founded by Cameron and Tyler Winklevoss, donors to Donald Trump’s 2024 campaign and attendees at White House events.",
-      "url": "https://cointelegraph.com/news/cftc-michael-selig-gemini-politically-motivated-reverse-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9qdWRnZS1oYW1tZXItcmVndWxhdGlvbi0xLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-02T17:39:30+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The CFTC chair seeks to roll back an enforcement action on the company founded by Cameron and Tyler Winklevoss, donors to Donald Trump’s 2024 campaign and attendees at White House events."
     }
   ]
 }
