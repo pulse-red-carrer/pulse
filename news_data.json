@@ -1,46 +1,346 @@
 {
-  "last_updated": "2026-06-03T23:44:07.389643+00:00",
+  "last_updated": "2026-06-04T04:05:59.194820+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "US Stock Market: AI-fuelled tech rally raises concerns over growing market concentration",
+      "description": "U.S. technology stocks have surged to unprecedented market influence, driven by AI enthusiasm and now comprising over 39% of the S&P 500's market cap. This concentration raises concerns about market breadth, as a few tech giants disproportionately drive index gains, prompting calls for portfolio div",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-ai-fuelled-tech-rally-raises-concerns-over-growing-market-concentration/articleshow/131496003.cms",
+      "image": "https://img.etimg.com/photo/msid-131496003,imgsize-92464.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-04T03:53:51+00:00",
+      "category": "India",
+      "simple_explanation": "U.S. technology stocks have surged to unprecedented market influence, driven by AI enthusiasm and now comprising over 39% of the S&P 500's market cap. This concentration raises concerns about market b"
+    },
+    {
+      "title": "Cogent, Lumen, and Rumble Stocks Trade Down, What You Need To Know",
+      "description": "A number of stocks fell in the afternoon session after the combination of rising oil prices, higher Treasury yields, and shifting rate expectations tightened the macro backdrop for corporate clients. S",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cogent-lumen-rumble-stocks-trade-035133476.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-04T03:51:33+00:00",
+      "category": "Commodities",
+      "simple_explanation": "A number of stocks fell in the afternoon session after the combination of rising oil prices, higher Treasury yields, and shifting rate expectations tightened the macro backdrop for corporate clients. "
+    },
+    {
+      "title": "Rajesh Exports shares hit 5% lower circuit after Sebi says 97-99% revenue inflation. Check key details",
+      "description": "Sebi has issued an interim order against Rajesh Exports and promoter Rajesh Mehta, alleging extensive financial irregularities and possible revenue overstatement. The regulator found prima facie evidence that 97-99% of the company's reported revenue may have been inflated, barring Mehta from dealing",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rajesh-exports-shares-in-focus-after-sebi-says-97-99-revenue-inflation-check-key-details/articleshow/131495951.cms",
+      "image": "https://img.etimg.com/photo/msid-131495951,imgsize-9742.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-04T03:46:20+00:00",
+      "category": "India",
+      "simple_explanation": "Sebi has issued an interim order against Rajesh Exports and promoter Rajesh Mehta, alleging extensive financial irregularities and possible revenue overstatement. The regulator found prima facie evide"
+    },
+    {
+      "title": "Gold rate today: MCX gold price rises above  ₹1.59 lakh per 10 grams, silver gains amid US-Iran peace deal hopes",
+      "description": "Gold rate today: Gold prices rose in the international market, supported by lower crude oil prices and a weaker dollar. Spot gold price gained 0.7% to $4,461.09 per ounce.",
+      "url": "https://www.livemint.com/market/commodities/gold-rate-today-mcx-gold-price-rises-above-rs-1-59-lakh-per-10-grams-silver-gains-amid-us-iran-peace-deal-hopes-11780543951882.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/04/1600x900/logo/2-0-504080435-Gold-0_1681041140631_1780544291009_357f7022-c0a7-488f-8c6a-81d0e55c646a.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-06-04T03:38:46+00:00",
+      "category": "India",
+      "simple_explanation": "Gold rate today: Gold prices rose in the international market, supported by lower crude oil prices and a weaker dollar. Spot gold price gained 0.7% to $4,461.09 per ounce."
+    },
+    {
+      "title": "Rupee opens 1 paise higher at 95.70 against US dollar",
+      "description": "Rupee opens 1 paise higher at 95.70 against US dollar",
+      "url": "https://www.livemint.com/market/stock-market-news/rupee-opens-1-paise-higher-at-95-70-against-us-dollar-11780544028210.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/04/1600x900/logo/8th_pay_commission_faq_money_da_salary_hikes_17523_1780544110473_1780544110581_51b3359d-fe27-4efd-8dfa-5eda7494d842.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-04T03:36:14+00:00",
+      "category": "India",
+      "simple_explanation": "Rupee opens 1 paise higher at 95.70 against US dollar"
+    },
+    {
+      "title": "Silver rate today rises as dollar weakens, oil prices retreat amid US-Iran peace hopes",
+      "description": "MCX silver rate was flat but in the green, It rose 0.3% to  ₹2,63,711 per kg. Meanwhile, MCX gold price was flat at  ₹1,54,332 per 10 grams",
+      "url": "https://www.livemint.com/market/commodities/silver-rate-today-rises-as-dollar-weakens-oil-prices-retreat-amid-us-iran-peace-hopes-gold-price-in-india-flat-11780543294066.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/04/1600x900/logo/Silver_rate_today_1780543557654_1780543557768_d9000725-7ab2-4c68-868d-8d24dd533081.webp",
+      "source": "LiveMint",
+      "published_at": "2026-06-04T03:35:57+00:00",
+      "category": "India",
+      "simple_explanation": "MCX silver rate was flat but in the green, It rose 0.3% to  ₹2,63,711 per kg. Meanwhile, MCX gold price was flat at  ₹1,54,332 per 10 grams"
+    },
+    {
+      "title": "Wipro among 6 F&O stocks with a sharp rise in futures open interest",
+      "description": "Six NSE F&O stocks, led by Nippon Life India Asset Management and GE Vernova T&D India, witnessed sharp increases in futures open interest, signaling heightened trader participation and fresh positioning.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-among-6-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/131495908.cms",
+      "image": "https://img.etimg.com/photo/msid-131495838,imgsize-287911.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-04T03:33:29+00:00",
+      "category": "India",
+      "simple_explanation": "Six NSE F&O stocks, led by Nippon Life India Asset Management and GE Vernova T&D India, witnessed sharp increases in futures open interest, signaling heightened trader participation and fresh position"
+    },
+    {
+      "title": "Exclusive | Is the India story over for FIIs? BofA says investors don't want to miss what's next",
+      "description": "India's global equity market capitalization ranking has dropped to seventh as foreign investors shift focus to AI opportunities in Taiwan and South Korea. Despite this, genuine excitement for India's long-term economic potential remains, with investors preparing for its eventual resurgence.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/exclusive-is-the-india-story-over-for-fiis-bofa-says-investors-dont-want-to-miss-whats-next/articleshow/131495063.cms",
+      "image": "https://img.etimg.com/photo/msid-131495063,imgsize-36444.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-04T03:30:00+00:00",
+      "category": "India",
+      "simple_explanation": "India's global equity market capitalization ranking has dropped to seventh as foreign investors shift focus to AI opportunities in Taiwan and South Korea. Despite this, genuine excitement for India's "
+    },
+    {
+      "title": "Consumer sector beats expectations but faces commodity crunch from Q2, warns BofA Securities",
+      "description": "India's consumer and retail sector saw a strong first half of FY26. GST cuts and a favorable base effect boosted consumption. However, rising input costs from West Asia and monsoon uncertainty now pose risks. The second quarter of FY26 is a critical point as low-cost inventory depletes. Rural demand",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/consumer-sector-beats-expectations-but-faces-commodity-crunch-from-q2-warns-bofa-securities/articleshow/131482885.cms",
+      "image": "https://img.etimg.com/photo/msid-131482885,imgsize-91112.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-04T03:30:00+00:00",
+      "category": "India",
+      "simple_explanation": "India's consumer and retail sector saw a strong first half of FY26. GST cuts and a favorable base effect boosted consumption. However, rising input costs from West Asia and monsoon uncertainty now pos"
+    },
+    {
+      "title": "Asian shares retreat as US stocks halt their record-breaking rally, while oil prices fall back",
+      "description": "Oil prices fell back after surging Wednesday as renewed fighting threatened the U.S.-Iran ceasefire.  Early Thursday in Asia, Brent crude was $1.17 lower at $96.64 per barrel, while benchmark U.S. crude oil shed $1.08 to $94.94 per barrel.  Oil prices had climbed a day earlier after both the United ",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-retreat-us-stocks-032322864.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-04T03:23:22+00:00",
+      "category": "USA",
+      "simple_explanation": "Oil prices fell back after surging Wednesday as renewed fighting threatened the U.S.-Iran ceasefire.  Early Thursday in Asia, Brent crude was $1.17 lower at $96.64 per barrel, while benchmark U.S. cru"
+    },
+    {
+      "title": "HFCL among 6 stocks flashing bullish signals, hinting at a possible uptrend",
+      "description": "Six Nifty500 stocks, including RHI Magnesita India, RR Kabel and HFCL, formed a White Marubozu pattern on June 3, signaling strong buying interest and potential bullish momentum, according to StockEdge.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-among-6-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/131495827.cms",
+      "image": "https://img.etimg.com/photo/msid-131495739,imgsize-264608.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-04T03:21:07+00:00",
+      "category": "India",
+      "simple_explanation": "Six Nifty500 stocks, including RHI Magnesita India, RR Kabel and HFCL, formed a White Marubozu pattern on June 3, signaling strong buying interest and potential bullish momentum, according to StockEdg"
+    },
+    {
+      "title": "​Ipca Laboratories among 5 stocks showing bullish RSI upswing",
+      "description": "Five Nifty500 stocks, including Leela Palaces, Eris Lifesciences, Indian Bank, Mankind Pharma, and Ipca Laboratories, showed bullish momentum as their RSI crossed above 50, signaling potential upward price movement.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ipca-laboratories-among-5-stocks-showing-bullish-rsi-upswing/slideshow/131495775.cms",
+      "image": "https://img.etimg.com/photo/msid-131495738,imgsize-301688.cms",
+      "source": "ET Markets",
+      "published_at": "2026-06-04T03:21:05+00:00",
+      "category": "India",
+      "simple_explanation": "Five Nifty500 stocks, including Leela Palaces, Eris Lifesciences, Indian Bank, Mankind Pharma, and Ipca Laboratories, showed bullish momentum as their RSI crossed above 50, signaling potential upward "
+    },
+    {
+      "title": "The S&P 500 Index Has Only Traded at This High a Valuation 1 Other Time in Its 69-Year Existence. History Couldn't Be Any Clearer on What Happens Next.",
+      "description": "The stock market continues to hit all-time highs this year.",
+      "url": "https://www.fool.com/investing/2026/06/03/the-sp-500-index-has-only-traded-at-this-high-a-va/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-04T03:20:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The stock market continues to hit all-time highs this year."
+    },
+    {
+      "title": "Lenskart shares fall 2% on Softbank's Rs 2,873-crore stake sale; draws Goldman, Fidelity, others",
+      "description": "Lenskart Solutions share price dipped 2% on Thursday as SoftBank affiliate SVF II Lightbulb (Cayman) sold a significant stake. Global and domestic institutional investors, including funds managed by Goldman Sachs and Fidelity, acquired these shares. This transaction, valued at approximately Rs 2,873",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-shares-in-focus-as-softbanks-rs-2873-crore-stake-sale-draws-goldman-fidelity-others/articleshow/131495720.cms",
+      "image": "https://img.etimg.com/photo/msid-131495720,imgsize-17248.cms",
+      "source": "ET Markets",
+      "published_at": "2026-06-04T03:17:37+00:00",
+      "category": "India",
+      "simple_explanation": "Lenskart Solutions share price dipped 2% on Thursday as SoftBank affiliate SVF II Lightbulb (Cayman) sold a significant stake. Global and domestic institutional investors, including funds managed by G"
+    },
+    {
+      "title": "Chevron CEO sends blunt message on oil, the economy",
+      "description": "Oil is up more than 50% since the Iran war began. The Strait of Hormuz is running at less than 10% of normal vessel traffic. And the world's largest energy companies are being asked to make billion-dollar decisions in an environment that has rarely been harder to read. On May 29, the CEO of one of .",
+      "url": "https://www.thestreet.com/economy/chevron-ceo-on-disciplined-oil-investment-prices-economy?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-04T03:17:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil is up more than 50% since the Iran war began. The Strait of Hormuz is running at less than 10% of normal vessel traffic. And the world's largest energy companies are being asked to make billion-do"
+    },
     {
       "title": "Dow Jones Futures: Broadcom, CrowdStrike Dive On Earnings; SpaceX IPO Price Target Set",
       "description": "Broadcom and CrowdStrike fell late on earnings. The SpaceX IPO price target and size have been set with the offering next week.",
       "url": "https://finance.yahoo.com/m/d7f82700-a9ea-3a18-8086-fcf4be569ea7/dow-jones-futures%3A-broadcom%2C.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-03T23:39:15+00:00",
+      "published_at": "2026-06-04T03:09:51+00:00",
       "category": "USA",
       "simple_explanation": "Broadcom and CrowdStrike fell late on earnings. The SpaceX IPO price target and size have been set with the offering next week."
     },
     {
-      "title": "Copa Dividend Hike Tests Cash Strength As Oil And Geopolitics Bite",
-      "description": "Copa Holdings (NYSE:CPA) approved an increase to its dividend, signaling a higher cash payout to shareholders. The decision comes as airlines face higher fuel costs tied to rising oil prices and geopolitical tensions. The updated dividend framework reflects management's view of the company's financi",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/copa-dividend-hike-tests-cash-231144780.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T23:11:44+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Copa Holdings (NYSE:CPA) approved an increase to its dividend, signaling a higher cash payout to shareholders. The decision comes as airlines face higher fuel costs tied to rising oil prices and geopo"
+      "title": "Rajesh Exports share price falls 5% after SEBI flags  ₹15 lakh crore misstatement in accounts",
+      "description": "The SEBI has accused Rajesh Exports of misrepresenting nearly all of its revenue over a five-year period, raising doubts on the reliability of the jewellery manufacturer's financial disclosures.",
+      "url": "https://www.livemint.com/market/stock-market-news/rajesh-exports-share-price-in-focus-after-sebi-flags-15-lakh-crore-misstatement-in-accounts-11780541132670.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/04/1600x900/logo/Sebi_1780542209984_1780542210138_a4f6ada2-aab4-40c6-89a3-e18c281de5d8.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-04T03:09:14+00:00",
+      "category": "India",
+      "simple_explanation": "The SEBI has accused Rajesh Exports of misrepresenting nearly all of its revenue over a five-year period, raising doubts on the reliability of the jewellery manufacturer's financial disclosures."
     },
     {
-      "title": "U.S. Shale E&P Stocks Q1 Teardown: Cactus (NYSE:WHD) Vs The Rest",
-      "description": "As the craze of earnings season draws to a close, here’s a look back at some of the most exciting (and some less so) results from Q1. Today, we are looking at U.S. shale E&P stocks, starting with Cactus (NYSE:WHD).",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/u-shale-e-p-stocks-231133014.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T23:11:33+00:00",
-      "category": "Commodities",
-      "simple_explanation": "As the craze of earnings season draws to a close, here’s a look back at some of the most exciting (and some less so) results from Q1. Today, we are looking at U.S. shale E&P stocks, starting with Cact"
+      "title": "Indiabulls share price at 52-week high after firm raises  ₹1000 crore through issuance of convertible warrants",
+      "description": "Indiabulls plans to issue up to 51.55 crore warrants at an issue price of  ₹19.40 per warrant, including a premium of  ₹17.40 per share. Each warrant will be convertible into one fully paid-up equity share of the company.",
+      "url": "https://www.livemint.com/market/stock-market-news/indiabulls-share-price-in-focus-real-estate-firm-raises-rs-1000-crore-through-issuance-of-convertible-warrants-11780541008967.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/04/1600x900/logo/indiabulls_share_price_in_focus_1780541486446_1780541486599_3d4f35ad-a717-4e47-b20b-328f59759c73.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-04T03:07:35+00:00",
+      "category": "India",
+      "simple_explanation": "Indiabulls plans to issue up to 51.55 crore warrants at an issue price of  ₹19.40 per warrant, including a premium of  ₹17.40 per share. Each warrant will be convertible into one fully paid-up equity "
     },
     {
-      "title": "The Stock Market Is Still Trading Near Record Highs. Here's the Biggest Risk Investors Are Overlooking.",
-      "description": "The major index funds are near record highs, but one risk hiding in plain sight could change the math for new money.",
-      "url": "https://www.fool.com/investing/2026/06/03/the-stock-market-is-still-trading-near-record-high/?.tsrc=rss",
+      "title": "Stocks drop on AI, rate hike worries as Lebanon deal hits oil",
+      "description": "Stocks sank Thursday after a disappointing forecast by chip giant Broadcom stoked concerns about the AI trade, while stronger-than-expected US data compounded speculation the Federal Reserve could hike interest rates.Speculation is rising that a strong reading -- which would compound the war-fuelled",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-drop-ai-rate-hike-030621040.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-03T23:11:00+00:00",
+      "published_at": "2026-06-04T03:06:21+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Stocks sank Thursday after a disappointing forecast by chip giant Broadcom stoked concerns about the AI trade, while stronger-than-expected US data compounded speculation the Federal Reserve could hik"
+    },
+    {
+      "title": "Block Deals: Lenskart Solutions, GMR Airports shares to be in focus",
+      "description": "Block Deals: SVF II Lightbulb (Cayman), an investment vehicle owned by SoftBank Group, sold 5.65 crore Lenskart shares, representing a 3.25% stake in the company at  ₹508.55 apiece, taking the total deal value to  ₹2,873.30 crore.",
+      "url": "https://www.livemint.com/market/stock-market-news/block-deals-lenskart-solutions-gmr-airports-shares-to-be-in-focus-11780541755741.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/04/1600x900/logo/LENSKART-IPO--4_1761806095666_1761806104825_1780542076348_ee02cd63-ef22-4f67-ae3d-a0a91c623803.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-06-04T03:03:24+00:00",
+      "category": "India",
+      "simple_explanation": "Block Deals: SVF II Lightbulb (Cayman), an investment vehicle owned by SoftBank Group, sold 5.65 crore Lenskart shares, representing a 3.25% stake in the company at  ₹508.55 apiece, taking the total d"
+    },
+    {
+      "title": "The SpaceX IPO Could Blow Up This Mega-Popular Investing Strategy",
+      "description": "Stock market indexes are bending over backwards to cater to Elon Musk.",
+      "url": "https://www.fool.com/investing/2026/06/03/the-spacex-ipo-could-blow-up-this-mega-popular-inv/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-04T02:50:00+00:00",
       "category": "USA",
-      "simple_explanation": "The major index funds are near record highs, but one risk hiding in plain sight could change the math for new money."
+      "simple_explanation": "Stock market indexes are bending over backwards to cater to Elon Musk."
+    },
+    {
+      "title": "MSTR Stock Falls Hard As Bitcoin Rolls Lower: Retail Is At Its Most Bearish All Year",
+      "description": "Bitcoin fell below $62,000, its lowest level since 2024, amid a broader selloff.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/mstr-stock-falls-hard-as-bitcoin-rolls-lower/cZ0mU8BReUu?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-04T02:48:42+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin fell below $62,000, its lowest level since 2024, amid a broader selloff."
+    },
+    {
+      "title": "Everforth, TaskUs, and Super Micro Stocks Trade Down, What You Need To Know",
+      "description": "A number of stocks fell in the afternoon session after the combination of rising oil prices, higher Treasury yields, and shifting rate expectations tightened the macro backdrop for corporate clients.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/everforth-taskus-super-micro-stocks-024733377.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-04T02:47:33+00:00",
+      "category": "Commodities",
+      "simple_explanation": "A number of stocks fell in the afternoon session after the combination of rising oil prices, higher Treasury yields, and shifting rate expectations tightened the macro backdrop for corporate clients."
+    },
+    {
+      "title": "SoftBank’s OpenAI bet and rising debt are raising liquidity crunch concerns",
+      "description": "Analysts warned that the market's renewed optimism on SoftBank is masking mounting balance-sheet risks.",
+      "url": "https://www.cnbc.com/2026/06/04/softbank-openai-liquidity-crunch-arm-son.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-04T02:47:13+00:00",
+      "category": "USA",
+      "simple_explanation": "Analysts warned that the market's renewed optimism on SoftBank is masking mounting balance-sheet risks."
+    },
+    {
+      "title": "Britannia Share Price Live Updates: Britannia Hits New 52-Week Low",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-livestock-price-today-live-updates-04-jun-2026/liveblog/131495213.cms",
+      "image": "https://img.etimg.com/photo/msid-131495213,imgsize-13076.cms",
+      "source": "ET Markets",
+      "published_at": "2026-06-04T02:43:48+00:00",
+      "category": "India",
+      "simple_explanation": ""
+    },
+    {
+      "title": "Amazon engineers in Seattle slam employer for building AI data centers while laying off 30,000 staffers",
+      "description": "Amazon engineers called out their employer for conducting mass layoffs while it commits to spending $200 billion this year on AI infrastructure.",
+      "url": "https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-04T01:54:04+00:00",
+      "category": "USA",
+      "simple_explanation": "Amazon engineers called out their employer for conducting mass layoffs while it commits to spending $200 billion this year on AI infrastructure."
+    },
+    {
+      "title": "S&P 500, Nasdaq Futures Slip Amid Renewed US-Iran Tensions, Chipmaker Losses: AVGO, KEEL, CRWD, MSTR Stocks In Focus",
+      "description": "U.S. President Donald Trump has said that he would consider ending the ceasefire with Iran if any American troops are killed in the renewed tensions with Iran, according to the Wall Street Journal.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/sp500-nasdaq-futures-slip-amid-renewed-us-iran-tensions-chipmaker-losses/cZ0mD4iReUM?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-04T01:53:05+00:00",
+      "category": "USA",
+      "simple_explanation": "U.S. President Donald Trump has said that he would consider ending the ceasefire with Iran if any American troops are killed in the renewed tensions with Iran, according to the Wall Street Journal."
+    },
+    {
+      "title": "Zoom, monday.com, and SentinelOne Shares Are Falling, What You Need To Know",
+      "description": "A number of stocks fell in the afternoon session after software stocks declined for a second consecutive session, extending the profit-taking that began earlier in the week.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zoom-monday-com-sentinelone-shares-011133738.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-04T01:11:33+00:00",
+      "category": "USA",
+      "simple_explanation": "A number of stocks fell in the afternoon session after software stocks declined for a second consecutive session, extending the profit-taking that began earlier in the week."
+    },
+    {
+      "title": "Inside India newsletter: Why Taiwan and South Korea's stock markets have surged past India within a week",
+      "description": "The Indian equity market is losing favour with global investors, as its domestic consumption story weakens and the country lags in AI.",
+      "url": "https://www.cnbc.com/2026/06/04/why-taiwan-and-south-koreas-stock-markets-have-surged-past-india.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-04T00:24:11+00:00",
+      "category": "USA",
+      "simple_explanation": "The Indian equity market is losing favour with global investors, as its domestic consumption story weakens and the country lags in AI."
+    },
+    {
+      "title": "Crypto Liquidations Top $1.1 Billion as Bitcoin targets $60,000: More Pain Ahead?",
+      "description": "Bitcoin tumbled nearly $63,000, as total crypto liquidations across the market surged past $1.1 billion: Will $60,000 be the next target?",
+      "url": "https://beincrypto.com/bitcoin-falls-64000-crypto-liquidations-1b/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-04T00:12:15+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin tumbled nearly $63,000, as total crypto liquidations across the market surged past $1.1 billion: Will $60,000 be the next target?"
+    },
+    {
+      "title": "Review & Preview: Down Day",
+      "description": "REVIEW PREVIEW NEWSLETTER What goes up… All three major indexes fell on Wednesday, with S&P500 and Nasdaq Composite Index snapping a two-week streak of positive returns.  The S&P fell 0.7%, while the Nasdaq dropped 0.",
+      "url": "https://finance.yahoo.com/m/bea2f3f0-e437-33d2-96dd-8c21e37f8048/review-%26-preview%3A-down-day.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-03T23:55:00+00:00",
+      "category": "USA",
+      "simple_explanation": "REVIEW PREVIEW NEWSLETTER What goes up… All three major indexes fell on Wednesday, with S&P500 and Nasdaq Composite Index snapping a two-week streak of positive returns.  The S&P fell 0.7%, while the "
+    },
+    {
+      "title": "Dow Logs Worst Day Since March, S&P 500 And Nasdaq Snap Win Streak After US-Iran Exchange Fire — SNDK, TSLA, GOOGL, META, IREN In Focus",
+      "description": "Iran's paramilitary Revolutionary Guard said it had targeted the headquarters of the U.S. Navy's 5th Fleet in Bahrain, derailing U.S.-Iran ceasefire talks.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dow-logs-worst-day-since-march-s-and-p-500-and-nasdaq-snap-win-streak-after-us-iran-exchange-fire-sndk-tsla-googl-meta-iren-in-focus/cZ0jVb2ReUp?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-03T23:43:31+00:00",
+      "category": "USA",
+      "simple_explanation": "Iran's paramilitary Revolutionary Guard said it had targeted the headquarters of the U.S. Navy's 5th Fleet in Bahrain, derailing U.S.-Iran ceasefire talks."
+    },
+    {
+      "title": "AuMEGA prepares for drilling as 2026 field season gets underway in Newfoundland",
+      "description": "AuMEGA Metals Ltd (ASX:AAM, TSX:AUM, OTCQB:AUMMF, FRA:FRA: MA30) has mobilised field crews to southwestern Newfoundland and Labrador, kicking off a major 2026 exploration campaign that will lead into diamond drilling at priority gold and critical minerals targets along the Cape Ray Shear...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1093414/aumega-prepares-for-drilling-as-2026-field-season-gets-underway-in-newfoundland-1093414.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-03T23:35:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "AuMEGA Metals Ltd (ASX:AAM, TSX:AUM, OTCQB:AUMMF, FRA:FRA: MA30) has mobilised field crews to southwestern Newfoundland and Labrador, kicking off a major 2026 exploration campaign that will lead into "
+    },
+    {
+      "title": "Analyst who called 2025 Bitcoin rally sends stark message",
+      "description": "While the crypto community has several experts, there is one analyst who correctly predicted the Bitcoin (BTC) rally last year. A popular yet pseudonymous analyst, who goes by the handle KillaXBT on X, posted a Bitcoin price prediction chart on May 13, 2025. The chart showed rotational market ...",
+      "url": "https://www.thestreet.com/crypto/markets/analyst-who-called-2025-bitcoin-rally-sends-stark-message?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-03T23:10:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "While the crypto community has several experts, there is one analyst who correctly predicted the Bitcoin (BTC) rally last year. A popular yet pseudonymous analyst, who goes by the handle KillaXBT on X"
     },
     {
       "title": "Wall Street ends lower as Middle East tensions escalate",
@@ -83,16 +383,6 @@
       "simple_explanation": "After expecting billions of dollars worth of crypto holdings to be reported during a voluntary disclosure period, the country's tax office only saw 58 filers took advantage of the procedure."
     },
     {
-      "title": "Top Asian Dividend Stocks To Consider In June 2026",
-      "description": "As global markets respond to developments like the U.S.-Iran peace talks and fluctuating oil prices, Asian indices have shown mixed performance, with notable movements in Japan's equity markets and China's industrial sectors. In this dynamic environment, dividend stocks can offer a stable income str",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-asian-dividend-stocks-consider-223916979.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T22:39:16+00:00",
-      "category": "Commodities",
-      "simple_explanation": "As global markets respond to developments like the U.S.-Iran peace talks and fluctuating oil prices, Asian indices have shown mixed performance, with notable movements in Japan's equity markets and Ch"
-    },
-    {
       "title": "Blue Jay Gold Details Fully Funded Exploration Program at Steller Gold Project in Yukon and Confirms Listing Date",
       "description": "VANCOUVER, British Columbia, June 03, 2026 (GLOBE NEWSWIRE) -- Blue Jay Gold Corp. (TSXV: JAY) (“Blue Jay” or the “Company”), today outlines its fully funded 2026 exploration program at the Steller Gold Project (\"Steller\" or the \"Project\") in the Yukon Territory, ahead of the Company's expected list",
       "url": "https://finance.yahoo.com/markets/commodities/articles/blue-jay-gold-details-fully-223200670.html?.tsrc=rss",
@@ -111,296 +401,6 @@
       "published_at": "2026-06-03T22:30:00+00:00",
       "category": "Crypto",
       "simple_explanation": "Scott Melker discusses how the CLARITY Act is nearing a vote on the Senate floor, cutting it close to Congress' next recess starting July 3. “The Daily Wolf with Scott Melker” airs on Yahoo Finance ev"
-    },
-    {
-      "title": "Most Income Investors Have Never Heard of These 3 ETFs Paying Over 10 Percent Monthly",
-      "description": "Three options-overlay ETFs are quietly paying double-digit annual distribution rates on a monthly (or weekly) schedule, and most income investors have never touched them. YieldMax Ultra Option Income Strategy ETF (NYSEARCA:ULTY) is throwing off roughly 50% annualized through weekly checks. NEOS Nasd",
-      "url": "https://247wallst.com/investing/2026/06/03/most-income-investors-have-never-heard-of-these-3-etfs-paying-over-10-percent-monthly/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T22:27:26+00:00",
-      "category": "USA",
-      "simple_explanation": "Three options-overlay ETFs are quietly paying double-digit annual distribution rates on a monthly (or weekly) schedule, and most income investors have never touched them. YieldMax Ultra Option Income "
-    },
-    {
-      "title": "Waste Management (WM) Ascends While Market Falls: Some Facts to Note",
-      "description": "In the latest trading session, Waste Management (WM) closed at $218, marking a +2.86% move from the previous day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/waste-management-wm-ascends-while-221503866.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T22:15:03+00:00",
-      "category": "USA",
-      "simple_explanation": "In the latest trading session, Waste Management (WM) closed at $218, marking a +2.86% move from the previous day."
-    },
-    {
-      "title": "RH (RH) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-      "description": "RH (RH) concluded the recent trading session at $152.45, signifying a -2.36% move from its prior day's close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rh-rh-sees-more-significant-221503590.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T22:15:03+00:00",
-      "category": "USA",
-      "simple_explanation": "RH (RH) concluded the recent trading session at $152.45, signifying a -2.36% move from its prior day's close."
-    },
-    {
-      "title": "Why Lennar (LEN) Dipped More Than Broader Market Today",
-      "description": "In the latest trading session, Lennar (LEN) closed at $89.46, marking a -1.58% move from the previous day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-lennar-len-dipped-more-221503633.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T22:15:03+00:00",
-      "category": "USA",
-      "simple_explanation": "In the latest trading session, Lennar (LEN) closed at $89.46, marking a -1.58% move from the previous day."
-    },
-    {
-      "title": "M/I Homes (MHO) Dips More Than Broader Market: What You Should Know",
-      "description": "In the most recent trading session, M/I Homes (MHO) closed at $135.93, indicating a -1.81% shift from the previous trading day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/m-homes-mho-dips-more-221503766.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T22:15:03+00:00",
-      "category": "USA",
-      "simple_explanation": "In the most recent trading session, M/I Homes (MHO) closed at $135.93, indicating a -1.81% shift from the previous trading day."
-    },
-    {
-      "title": "Treasury Yield Rises Most in Two Weeks After Jobs Gauge",
-      "description": "Treasuries fell Wednesday after a gauge of private-sector employment growth left intact expectations that the Federal Reserve will raise interest rates this year.",
-      "url": "https://www.livemint.com/market/treasury-yield-rises-most-in-two-weeks-after-jobs-gauge-11780524861753.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-03T22:14:21+00:00",
-      "category": "India",
-      "simple_explanation": "Treasuries fell Wednesday after a gauge of private-sector employment growth left intact expectations that the Federal Reserve will raise interest rates this year."
-    },
-    {
-      "title": "Wyoming executive order to guide AI data center development",
-      "description": "Wyoming Governor Mark Gordon signed an executive order supporting AI data center development as the state seeks to attract advanced computing and technology investment.",
-      "url": "https://cointelegraph.com/news/wyoming-issues-executive-order-guide-ai-data-center-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0yMzg1MDctY2lwaGVyLXBqbS1wb3dlci1tYXJrZXQtb2hpby1kYXRhLWNlbnRlci1zaXRlLWFjcXVpc2l0aW9uLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-03T22:04:10+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Wyoming Governor Mark Gordon signed an executive order supporting AI data center development as the state seeks to attract advanced computing and technology investment."
-    },
-    {
-      "title": "Banyan Gold Announces Property Acquisition from Generic Gold",
-      "description": "VANCOUVER, BC / ACCESS Newswire / June 3, 2026 /Banyan Gold Corp. (the \"Company\" or \"Banyan\") (TSX-V:BYN) (OTCQB:BYAGF) is pleased to announce that it has entered into a definitive agreement with Generic Gold Corp. (\"Generic Gold\") to acquire a 100% ...",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/banyan-gold-announces-property-acquisition-220000692.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T22:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "VANCOUVER, BC / ACCESS Newswire / June 3, 2026 /Banyan Gold Corp. (the \"Company\" or \"Banyan\") (TSX-V:BYN) (OTCQB:BYAGF) is pleased to announce that it has entered into a definitive agreement with Gene"
-    },
-    {
-      "title": "US Treasury Secretary signals progress on Bitcoin reserve, CLARITY Act",
-      "description": "Scott Bessent said that the Treasury Department was “proceeding with all deliberate speed” on Donald Trump’s 2025 executive order to establish a strategic Bitcoin reserve and digital asset stockpile.",
-      "url": "https://cointelegraph.com/news/us-treasury-secretary-clarity-act-bitcoin-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aG8taXMtc2NvdHQtYmVzc2VudC1tZWV0LXRoZS1uZXctZmFjZS1vZi11cy1lY29ub21pYy1wb2xpY3kuanBn.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-03T21:53:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Scott Bessent said that the Treasury Department was “proceeding with all deliberate speed” on Donald Trump’s 2025 executive order to establish a strategic Bitcoin reserve and digital asset stockpile."
-    },
-    {
-      "title": "The next oil crisis may be the recovery",
-      "description": "(By Oil & Gas 360) – The global oil market remains focused on the immediate disruption caused by the Iran conflict, […]",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/next-oil-crisis-may-recovery-213051376.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T21:30:51+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(By Oil & Gas 360) – The global oil market remains focused on the immediate disruption caused by the Iran conflict, […]"
-    },
-    {
-      "title": "Revolut US bank plans stablecoins alongside FDIC-insured accounts: Report",
-      "description": "Reuters reported that Revolut plans to integrate stablecoins into its future US bank as more fintech and crypto companies chase federal banking approvals.",
-      "url": "https://cointelegraph.com/news/revoluts-planned-us-bank-to-offer-stablecoins-alongside-fdic-insured-accounts-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1hZ29yYWJhbmstc3BvbnNvcmVkLXN0b3J5LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-03T21:25:48+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Reuters reported that Revolut plans to integrate stablecoins into its future US bank as more fintech and crypto companies chase federal banking approvals."
-    },
-    {
-      "title": "Is It Too Late To Reassess Newmont (NEM) After Its 1 Year 96% Surge?",
-      "description": "Investors may be wondering whether Newmont at around US$107 a share still offers value after a strong run, or if most of the potential upside is already reflected in the price. The stock has moved only slightly over the past week at 0.2%, and over the last month it is down 0.8%. It shows returns of ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/too-reassess-newmont-nem-1-211928459.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T21:19:28+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Investors may be wondering whether Newmont at around US$107 a share still offers value after a strong run, or if most of the potential upside is already reflected in the price. The stock has moved onl"
-    },
-    {
-      "title": "SpaceX targets $135 IPO price at valuation of $1.77 trillion",
-      "description": "The valuation would make Elon Musk's company the seventh-biggest in the U.S., above Tesla, which has a market cap of about $1.6 trillion.",
-      "url": "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-03T21:13:41+00:00",
-      "category": "USA",
-      "simple_explanation": "The valuation would make Elon Musk's company the seventh-biggest in the U.S., above Tesla, which has a market cap of about $1.6 trillion."
-    },
-    {
-      "title": "Bitcoin falls 4% to over three-month low",
-      "description": "Bitcoin, ‌the world's ​largest cryptocurrency by ‌market ⁠value, on ⁠Wednesday ​fell ​4% ​to $64,721.39, ‌the lowest since ‌February ​28. (Reporting ​by ​Natalia ‌Bueno Rebolledo ​in ​Mexico ​City; ‌Editing by ​Chris ​Reese)",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-4-over-three-211242025.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T21:12:42+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin, ‌the world's ​largest cryptocurrency by ‌market ⁠value, on ⁠Wednesday ​fell ​4% ​to $64,721.39, ‌the lowest since ‌February ​28. (Reporting ​by ​Natalia ‌Bueno Rebolledo ​in ​Mexico ​City; ‌E"
-    },
-    {
-      "title": "Price predictions 6/3: BTC, ETH, BNB, XRP, SOL, HYPE, DOGE, ZEC, ADA, XLM",
-      "description": "Bitcoin is at risk of a drop below $65,000, but buyers are expected to mount a strong defense as the price nears the crucial $60,000 level.",
-      "url": "https://cointelegraph.com/markets/price-predictions-63-btc-eth-bnb-xrp-sol-hype-doge-zec-ada-xlm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hbmFseXNpcy1hbmFseXRpY3Mtd29yay1vZmZpY2Utb3BlbnNwYWNlLWdyYXBoLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-03T21:05:56+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin is at risk of a drop below $65,000, but buyers are expected to mount a strong defense as the price nears the crucial $60,000 level."
-    },
-    {
-      "title": "Lion One Appoints Tayfun Eldem to Board of Directors, Todd Romaine as Chairman of the Board",
-      "description": "North Vancouver, British Columbia--(Newsfile Corp. - June 3, 2026) - Lion One Metals Limited (TSXV: LIO) (OTCQX: LOMLF) (\"Lion One\" or the \"Company\") announces today that Tayfun Eldem has been appointed as an Independent Director of the Company and that Todd Romaine has been appointed as Chairman of",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lion-one-appoints-tayfun-eldem-203700566.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T20:37:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "North Vancouver, British Columbia--(Newsfile Corp. - June 3, 2026) - Lion One Metals Limited (TSXV: LIO) (OTCQX: LOMLF) (\"Lion One\" or the \"Company\") announces today that Tayfun Eldem has been appoint"
-    },
-    {
-      "title": "Bonterra Congratulates Gold Fields and Cree Partners on Landmark Impact Benefit Agreement for The Windfall Project",
-      "description": "Val-d'Or, Quebec--(Newsfile Corp. - June 3, 2026) - Bonterra Resources Inc. (TSXV: BTR) (OTCQX: BONXF) (FSE: 9BR2) (\"Bonterra\" or the \"Company\") congratulates Windfall Mining Group Inc. (\"Windfall Mining\"), a wholly owned subsidiary of Gold Fields Limited (\"Gold Fields\"), together with the Cree Firs",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/bonterra-congratulates-gold-fields-cree-203000803.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T20:30:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Val-d'Or, Quebec--(Newsfile Corp. - June 3, 2026) - Bonterra Resources Inc. (TSXV: BTR) (OTCQX: BONXF) (FSE: 9BR2) (\"Bonterra\" or the \"Company\") congratulates Windfall Mining Group Inc. (\"Windfall Min"
-    },
-    {
-      "title": "IREN Announces Australia Data Center Plans, Analyst Shifts Bitcoin Miner Targets",
-      "description": "IREN expands its data center and AI operations to Australia with a new deal. Bernstein shifts targets on three bitcoin miners. Bitcoin price slides.",
-      "url": "https://finance.yahoo.com/m/c4a52c25-4abf-3a21-b443-ea06adf61ed1/iren-announces-australia-data.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T20:29:57+00:00",
-      "category": "Crypto",
-      "simple_explanation": "IREN expands its data center and AI operations to Australia with a new deal. Bernstein shifts targets on three bitcoin miners. Bitcoin price slides."
-    },
-    {
-      "title": "TSX Closer: Index Falls From a Record Close; Rosenberg Research Lifts Exposure to Gold and Gold Miners",
-      "description": "The Toronto Stock Exchange fell from a record close Wednesday on profit taking, but also as Canadian",
-      "url": "https://finance.yahoo.com/economy/policy/articles/tsx-closer-index-falls-record-201515742.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T20:15:15+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The Toronto Stock Exchange fell from a record close Wednesday on profit taking, but also as Canadian"
-    },
-    {
-      "title": "US Fed says Iran war driving 'moderate-to-strong' inflation",
-      "description": "US inflation rose at a moderate to strong pace, driven largely by surging energy costs linked to the Iran war, the Federal Reserve said. Higher oil prices disrupted supply chains and lifted input costs, while consumer spending showed widening inequality, with lower-income households facing rising fi",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-says-iran-war-driving-moderate-to-strong-inflation/articleshow/131492008.cms",
-      "image": "https://img.etimg.com/photo/msid-131492008,imgsize-14284.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-03T20:14:55+00:00",
-      "category": "India",
-      "simple_explanation": "US inflation rose at a moderate to strong pace, driven largely by surging energy costs linked to the Iran war, the Federal Reserve said. Higher oil prices disrupted supply chains and lifted input cost"
-    },
-    {
-      "title": "Bitcoin set to slump to new lows for 2026 after recent sell-off, traders forecast",
-      "description": "The cryptocurrency is likely to break below its lows hit in early February, traders on prediction market Kalshi believe.",
-      "url": "https://www.cnbc.com/2026/06/03/bitcoin-to-slump-to-new-lows-after-recent-sell-off-traders-predict.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-06-03T20:06:54+00:00",
-      "category": "Global",
-      "simple_explanation": "The cryptocurrency is likely to break below its lows hit in early February, traders on prediction market Kalshi believe."
-    },
-    {
-      "title": "US stocks today: Dow Jones drops over 500 points as Middle East tensions escalate",
-      "description": "Wall Street closed lower as Middle East tensions and rising oil prices triggered inflation concerns and profit booking. Financials and tech stocks led declines, though chipmakers stayed resilient on AI optimism. Strong services data and steady labor conditions contrasted with geopolitical risks, whi",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-as-middle-east-tensions-escalate/articleshow/131491980.cms",
-      "image": "https://img.etimg.com/photo/msid-131491980,imgsize-191584.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-03T20:06:25+00:00",
-      "category": "India",
-      "simple_explanation": "Wall Street closed lower as Middle East tensions and rising oil prices triggered inflation concerns and profit booking. Financials and tech stocks led declines, though chipmakers stayed resilient on A"
-    },
-    {
-      "title": "Why altcoins, like hyperliquid, are still moving as bitcoin falls",
-      "description": "Scott Melker explains why altcoins like hyperliquid (HYPE32196-USD) are staying afloat despite bitcoin's (BTC-USD) big price drop.\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hu",
-      "url": "https://finance.yahoo.com/video/why-altcoins-hyperliquid-still-moving-200000707.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-03T20:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Scott Melker explains why altcoins like hyperliquid (HYPE32196-USD) are staying afloat despite bitcoin's (BTC-USD) big price drop.\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune i"
-    },
-    {
-      "title": "Bitcoin's high-conviction holders are turning into sellers as the crypto's price hits new lows",
-      "description": "In the past two days, bitcoin's highest-conviction holders have sold about $2.4 billion in bitcoin.",
-      "url": "https://www.cnbc.com/2026/06/03/bitcoins-high-conviction-holders-are-selling-as-price-hits-new-lows.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-03T19:48:52+00:00",
-      "category": "USA",
-      "simple_explanation": "In the past two days, bitcoin's highest-conviction holders have sold about $2.4 billion in bitcoin."
-    },
-    {
-      "title": "Crypto PAC-supported candidates sweep US state primaries after media buys",
-      "description": "Nearly a dozen candidates across three US states won their primaries or will advance to the November election after they were supported by $3.5 million in ads funded by crypto industry-aligned PACs.",
-      "url": "https://cointelegraph.com/news/crypto-pac-candidates-california-nj-primaries-ads?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aGF0LWlzLWFuLWlwby1hLWJlZ2lubmVycy1ndWlkZS1vbi1ob3ctY3J5cHRvLWZpcm1zLWNhbi1nby1wdWJsaWMuanBn.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-03T19:21:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Nearly a dozen candidates across three US states won their primaries or will advance to the November election after they were supported by $3.5 million in ads funded by crypto industry-aligned PACs."
-    },
-    {
-      "title": "US yields climb on latest flare in Gulf tensions",
-      "description": "USA-BONDS/ (UPDATE 1, GRAPHICS):TREASURIES-US yields climb on latest flare in Gulf tensions",
-      "url": "https://www.livemint.com/market/us-yields-climb-on-latest-flare-in-gulf-tensions-11780513403041.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-03T19:03:22+00:00",
-      "category": "India",
-      "simple_explanation": "USA-BONDS/ (UPDATE 1, GRAPHICS):TREASURIES-US yields climb on latest flare in Gulf tensions"
-    },
-    {
-      "title": "AI Bubble Is Coming to Credit Markets, DoubleLine’s Cohen Says",
-      "description": "Artificial intelligence debt will almost certainly reach bubble levels eventually, given the history of periods of heavy investments in areas like railroads and the internet, said DoubleLine portfolio manager Robert Cohen.",
-      "url": "https://www.livemint.com/market/ai-bubble-is-coming-to-credit-markets-doubleline-s-cohen-says-11780512268259.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-      "source": "LiveMint",
-      "published_at": "2026-06-03T18:44:27+00:00",
-      "category": "India",
-      "simple_explanation": "Artificial intelligence debt will almost certainly reach bubble levels eventually, given the history of periods of heavy investments in areas like railroads and the internet, said DoubleLine portfolio"
-    },
-    {
-      "title": "Historic stock rally faces key test",
-      "description": "Two key tech companies reporting earnings after the bell could determine the next move higher or lower.",
-      "url": "https://www.cnbc.com/2026/06/03/historic-stock-rally-faces-key-test.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-03T18:32:24+00:00",
-      "category": "USA",
-      "simple_explanation": "Two key tech companies reporting earnings after the bell could determine the next move higher or lower."
-    },
-    {
-      "title": "GOP Sen. Tillis slams Trump intelligence pick Pulte: 'Don't think he has a prayer'",
-      "description": "Pulte is widely viewed as a Trump loyalist who has targeted the president's political foes during his tenure leading the housing regulatory agency.",
-      "url": "https://www.cnbc.com/2026/06/03/tillis-trump-pulte-intelligence-dni-senate.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-03T18:25:37+00:00",
-      "category": "USA",
-      "simple_explanation": "Pulte is widely viewed as a Trump loyalist who has targeted the president's political foes during his tenure leading the housing regulatory agency."
     }
   ]
 }
