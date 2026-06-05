@@ -1,16 +1,366 @@
 {
-  "last_updated": "2026-06-05T17:55:47.966983+00:00",
+  "last_updated": "2026-06-05T19:57:16.030272+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
+      "description": "Ahead of a planned IPO, SpaceX inked a deal to rent compute capacity to Google for $920 million per month for 32 months.",
+      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-05T19:56:26+00:00",
+      "category": "USA",
+      "simple_explanation": "Ahead of a planned IPO, SpaceX inked a deal to rent compute capacity to Google for $920 million per month for 32 months."
+    },
+    {
+      "title": "Higher Yield or Long-Term Dividend Growth? VYM vs. VIG",
+      "description": "The Vanguard High Dividend Yield ETF (VYM) and the Vanguard Dividend Appreciation ETF (VIG) both provide low-cost exposure to U.S. dividend equities, but their income profiles are built around different objectives. For investors evaluating dividend exposure, the key distinction goes beyond current y",
+      "url": "https://www.fool.com/coverage/etfs/2026/06/05/higher-yield-or-long-term-dividend-growth-vym-vs-vig/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T19:51:23+00:00",
+      "category": "USA",
+      "simple_explanation": "The Vanguard High Dividend Yield ETF (VYM) and the Vanguard Dividend Appreciation ETF (VIG) both provide low-cost exposure to U.S. dividend equities, but their income profiles are built around differe"
+    },
+    {
+      "title": "Stocks fall sharply as strong jobs data fuels rate hike bets; oil set for weekly gain",
+      "description": "GLOBAL-MARKETS:Stocks fall sharply as strong jobs data fuels rate hike bets; oil set for weekly gain",
+      "url": "https://www.livemint.com/market/stocks-fall-sharply-as-strong-jobs-data-fuels-rate-hike-bets-oil-set-for-weekly-gain-11780688435553.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-05T19:40:35+00:00",
+      "category": "India",
+      "simple_explanation": "GLOBAL-MARKETS:Stocks fall sharply as strong jobs data fuels rate hike bets; oil set for weekly gain"
+    },
+    {
+      "title": "Stop chasing AI - here’s where to invest right now",
+      "description": "Transcript:Caroline WoodsJoining me now is Sonali Basak, chief investment strategist at ICapital Sonali. Great to have you back. So good to have you. Sonali BasakYeah, it's good to be here. Thanks for having me today. Caroline WoodsWell happy Friday. The S&P 500 only about you know, it's down ...",
+      "url": "https://www.thestreet.com/video/stop-chasing-ai-heres-where-to-invest-right-now?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T19:29:57+00:00",
+      "category": "USA",
+      "simple_explanation": "Transcript:Caroline WoodsJoining me now is Sonali Basak, chief investment strategist at ICapital Sonali. Great to have you back. So good to have you. Sonali BasakYeah, it's good to be here. Thanks for"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Sinks 4% On Rate-Hike Worries; Nvidia Falls Amid Chip Sell-Off (Live Coverage)",
+      "description": "Stock Market Today: The Nasdaq composite leads a sell-off Friday on rate-hike worries. Marvell sinks with other chip names.",
+      "url": "https://finance.yahoo.com/m/97143289-0961-30c2-81ff-4ddc8d2fe02e/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T19:28:42+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Nasdaq composite leads a sell-off Friday on rate-hike worries. Marvell sinks with other chip names."
+    },
+    {
+      "title": "US Equity Indexes Sink as Blockbuster Jobs Report Dims Hopes for Monetary Policy Easing",
+      "description": "US equity indexes plunged as a strong jobs report slashed the odds for interest rate cuts this year,",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-sink-blockbuster-192725344.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T19:27:25+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity indexes plunged as a strong jobs report slashed the odds for interest rate cuts this year,"
+    },
+    {
+      "title": "Oil prices fall on mounting hopes for de-escalation in US-Iran War",
+      "description": "GLOBAL-OIL:Oil prices fall on mounting hopes for de-escalation in US-Iran War",
+      "url": "https://www.livemint.com/market/oil-prices-fall-on-mounting-hopes-for-de-escalation-in-us-iran-war-11780687079949.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-05T19:17:59+00:00",
+      "category": "India",
+      "simple_explanation": "GLOBAL-OIL:Oil prices fall on mounting hopes for de-escalation in US-Iran War"
+    },
+    {
+      "title": "Popular German bank resets gold price target for the rest of 2026",
+      "description": "Gold hit $5,595 an ounce in January 2026, its highest level on record, then spent the next several months doing something that confused investors expecting it to keep climbing. It started falling every time the Iran conflict escalated and rising every time tensions eased. For a metal whose entire ..",
+      "url": "https://www.thestreet.com/investing/popular-german-bank-resets-gold-price-target-for-the-rest-of-2026?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T19:13:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold hit $5,595 an ounce in January 2026, its highest level on record, then spent the next several months doing something that confused investors expecting it to keep climbing. It started falling ever"
+    },
+    {
+      "title": "Is It Too Late To Consider Canadian Natural Resources (TSX:CNQ) After Its 64% One Year Surge?",
+      "description": "If you are wondering whether Canadian Natural Resources at about C$66.22 is still good value or if you might be late to the story, the key is to understand what the current price actually builds in. The stock has logged returns of 4.8% over the past week, 1.5% over the past month, 40.5% year to date",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/too-consider-canadian-natural-resources-191201001.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T19:12:01+00:00",
+      "category": "Commodities",
+      "simple_explanation": "If you are wondering whether Canadian Natural Resources at about C$66.22 is still good value or if you might be late to the story, the key is to understand what the current price actually builds in. T"
+    },
     {
       "title": "Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests",
       "description": "Another big jobs report in May has swept aside the possibility of interest rate cuts anytime soon.",
       "url": "https://www.cnbc.com/2026/06/05/hot-jobs-report-puts-fed-cuts-further-out-of-reach-as-chair-warsh-faces-policy-tests.html",
       "image": "",
       "source": "CNBC World",
-      "published_at": "2026-06-05T17:44:14+00:00",
+      "published_at": "2026-06-05T19:09:09+00:00",
       "category": "Global",
       "simple_explanation": "Another big jobs report in May has swept aside the possibility of interest rate cuts anytime soon."
+    },
+    {
+      "title": "1 High-Yield Dividend Stock Under $30 to Buy Hand Over Fist and Hold Forever",
+      "description": "With the S&P 500 grinding near record highs, sub-$30 stocks have become hunting grounds for income investors who want yield without paying a premium. A low sticker price is only meaningful when the underlying business supports it, and a household-name industrial throwing off a mid-single-digit divid",
+      "url": "https://247wallst.com/investing/2026/06/05/1-high-yield-dividend-stock-under-30-to-buy-hand-over-fist-and-hold-forever/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T19:08:54+00:00",
+      "category": "USA",
+      "simple_explanation": "With the S&P 500 grinding near record highs, sub-$30 stocks have become hunting grounds for income investors who want yield without paying a premium. A low sticker price is only meaningful when the un"
+    },
+    {
+      "title": "Meta's stock sinks on report company could raise tens of billions of dollars to fund AI push",
+      "description": "Meta shares dropped after the Financial Times reported that company could potentially raise tens of billions of dollars in a stock offering to help its AI push.",
+      "url": "https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-05T19:05:58+00:00",
+      "category": "USA",
+      "simple_explanation": "Meta shares dropped after the Financial Times reported that company could potentially raise tens of billions of dollars in a stock offering to help its AI push."
+    },
+    {
+      "title": "Emerging-Market Currencies Sink on Gangbuster US Jobs Report",
+      "description": "Currencies in the developing world sank after a blowout US jobs report provided the clearest sign yet that the labor market is breaking out of a prolonged period of lackluster hiring, undercutting the case for rate cuts from the Federal Reserve.",
+      "url": "https://www.livemint.com/market/emergingmarket-currencies-sink-on-gangbuster-us-jobs-report-11780685913066.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "source": "LiveMint",
+      "published_at": "2026-06-05T18:58:32+00:00",
+      "category": "India",
+      "simple_explanation": "Currencies in the developing world sank after a blowout US jobs report provided the clearest sign yet that the labor market is breaking out of a prolonged period of lackluster hiring, undercutting the"
+    },
+    {
+      "title": "2 Growth ETFs to Buy and Hold for 20 Years",
+      "description": "Growth stocks are great, but patience is key.",
+      "url": "https://www.fool.com/investing/2026/06/05/2-growth-etfs-to-buy-and-hold-for-20-years/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T18:58:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Growth stocks are great, but patience is key."
+    },
+    {
+      "title": "Trump administration, OpenAI discussing possible government stake in the AI startup",
+      "description": "OpenAI CEO Sam Altman first shared the idea with the Trump administration in 2025, according to a source.",
+      "url": "https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-05T18:56:10+00:00",
+      "category": "USA",
+      "simple_explanation": "OpenAI CEO Sam Altman first shared the idea with the Trump administration in 2025, according to a source."
+    },
+    {
+      "title": "Gold Falls Most in Two Months as Jobs Fuel Fed Rate-Hike Bets",
+      "description": "Gold fell the most in more than two months as robust US jobs data fueled bets that the Federal Reserve will likely raise interest rates this year, a headwind for the precious metal.",
+      "url": "https://www.livemint.com/market/gold-falls-most-in-two-months-as-jobs-fuel-fed-rate-hike-bets-11780685669328.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "source": "LiveMint",
+      "published_at": "2026-06-05T18:54:28+00:00",
+      "category": "India",
+      "simple_explanation": "Gold fell the most in more than two months as robust US jobs data fueled bets that the Federal Reserve will likely raise interest rates this year, a headwind for the precious metal."
+    },
+    {
+      "title": "Wall Street slumps as chips slide, robust jobs data stokes fears of hawkish Fed",
+      "description": "USA-STOCKS/ (UPDATE 6, GRAPHIC):US STOCKS-Wall Street slumps as chips slide, robust jobs data stokes fears of hawkish Fed",
+      "url": "https://www.livemint.com/market/wall-street-slumps-as-chips-slide-robust-jobs-data-stokes-fears-of-hawkish-fed-11780685605057.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+      "source": "LiveMint",
+      "published_at": "2026-06-05T18:53:24+00:00",
+      "category": "India",
+      "simple_explanation": "USA-STOCKS/ (UPDATE 6, GRAPHIC):US STOCKS-Wall Street slumps as chips slide, robust jobs data stokes fears of hawkish Fed"
+    },
+    {
+      "title": "Bitcoin Falls Below $60,000 for First Time Since 2024 Trump Win",
+      "description": "(Bloomberg) -- Bitcoin fell below $60,000 for the first time since October 2024, extending its reversal from market darling after the reelection of US President Donald Trump to a casualty of a rapidly changing speculative landscape.Most Read from BloombergBecerra Advances for California Governor as ",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-60-000-171157994.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T18:50:33+00:00",
+      "category": "Crypto",
+      "simple_explanation": "(Bloomberg) -- Bitcoin fell below $60,000 for the first time since October 2024, extending its reversal from market darling after the reelection of US President Donald Trump to a casualty of a rapidly"
+    },
+    {
+      "title": "S&P 500 set for worst day this year on AI weakness, rising odds for Fed rate hikes",
+      "description": "Investors sold off stocks, bonds, bitcoin and gold Friday after a strong jobs report boosted odds the Federal Reserve might raise interest rates later this year to combat inflation and Wall Street wrestled with weakness in AI stocks.",
+      "url": "https://www.cnn.com/2026/06/05/markets/stock-market-sell-off-fed?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T18:43:34+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Investors sold off stocks, bonds, bitcoin and gold Friday after a strong jobs report boosted odds the Federal Reserve might raise interest rates later this year to combat inflation and Wall Street wre"
+    },
+    {
+      "title": "Market Indexes Tumble at Midday as Treasury Yields Spike on Hot Employment Report",
+      "description": "The Nasdaq dropped nearly 3% after a stronger-than-expected hiring report. Strong employment data has traders bracing for a Fed rate hike.",
+      "url": "https://www.fool.com/investing/2026/06/05/market-indexes-tumble-at-midday-as-treasury-yields/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T18:40:02+00:00",
+      "category": "USA",
+      "simple_explanation": "The Nasdaq dropped nearly 3% after a stronger-than-expected hiring report. Strong employment data has traders bracing for a Fed rate hike."
+    },
+    {
+      "title": "Stocks tank, bonds sell off after strong jobs report",
+      "description": "A stronger-than-expected jobs report sent Wall Street tumbling as investors increasingly bet on rate increases from the Federal Reserve.",
+      "url": "https://www.usatoday.com/story/money/markets/2026/06/05/stocks-bonds-sell-off-wall-street-jobs-report/90424071007/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T18:39:56+00:00",
+      "category": "USA",
+      "simple_explanation": "A stronger-than-expected jobs report sent Wall Street tumbling as investors increasingly bet on rate increases from the Federal Reserve."
+    },
+    {
+      "title": "Bitcoin cracks $60,000, sinking to lowest level since October 2024",
+      "description": "The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets.",
+      "url": "https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-05T18:38:33+00:00",
+      "category": "USA",
+      "simple_explanation": "The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets."
+    },
+    {
+      "title": "Update: WTI Oil Falls Even as Israel Continues Striking Lebanon Despite Ceasefire Deal",
+      "description": "West Texas Intermediate (WTI) crude oil closed down 2.7% on Friday with little change in the outlook",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/wti-oil-falls-even-israel-183644958.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T18:36:44+00:00",
+      "category": "Commodities",
+      "simple_explanation": "West Texas Intermediate (WTI) crude oil closed down 2.7% on Friday with little change in the outlook"
+    },
+    {
+      "title": "As the Looming Crisis Takes Hold, Jet Fuel Inventories Hit a 63-Year Low and Europe Faces Imminent Supply Failure, Genoil Inc. Offers the Only Viable Solution That Can Close the Gap",
+      "description": "Proprietary Deep Conversion Upstream Specialized Refinery delivers up to 400%+ more transportation fuel per barrel - no new pipelines, no additional infrastructure required. NEW YORK CITY, NY / ACCESS Newswire / June 5, 2026 /Genoil Inc. (OTC PINK:GNOLF) ...",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/looming-crisis-takes-hold-jet-183000737.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T18:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Proprietary Deep Conversion Upstream Specialized Refinery delivers up to 400%+ more transportation fuel per barrel - no new pipelines, no additional infrastructure required. NEW YORK CITY, NY / ACCESS"
+    },
+    {
+      "title": "India eliminates capital gains tax on FII bond investments",
+      "description": "The tax exemption will apply retrospectively from 1 April 2026, the ministry of finance said in a statement.",
+      "url": "https://www.privatebankerinternational.com/news/india-eliminates-capital-gains-tax/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T18:29:35+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The tax exemption will apply retrospectively from 1 April 2026, the ministry of finance said in a statement."
+    },
+    {
+      "title": "Microsoft Stock Charts Look Vulnerable. Software Stocks Could Follow.",
+      "description": "Microsoft remains one of the most influential stocks in software. Recent technical weakness in Microsoft shares could have broader implications for the sector’s rally.",
+      "url": "https://finance.yahoo.com/m/3469bf0a-89f6-3d49-8ef1-139e2b50d563/microsoft-stock-charts-look.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T18:27:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Microsoft remains one of the most influential stocks in software. Recent technical weakness in Microsoft shares could have broader implications for the sector’s rally."
+    },
+    {
+      "title": "Equities Fall, Yields Jump Intraday After Jobs Report; Tech Leads Sell-Off",
+      "description": "US benchmark equity indexes were lower intraday amid a technology sector-led sell-off, while Treasur",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-yields-jump-intraday-182133710.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T18:21:33+00:00",
+      "category": "USA",
+      "simple_explanation": "US benchmark equity indexes were lower intraday amid a technology sector-led sell-off, while Treasur"
+    },
+    {
+      "title": "Kraken offers SpaceX IPO access through xStocks",
+      "description": "Eligible users in more than 110 markets can register for tokenized SpaceX equity ahead of the company's highly anticipated public listing.",
+      "url": "https://cointelegraph.com/news/kraken-offers-spacex-ipo-access-through-xstocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1rcmFrZW4tc2hha2Vkb3duLWRvZXNudC1tYWtpbmctc3Rha2luZy1hLXNlY3VyaXR5Mi5qcGc=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-05T18:17:50+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Eligible users in more than 110 markets can register for tokenized SpaceX equity ahead of the company's highly anticipated public listing."
+    },
+    {
+      "title": "Yes, Stocks Were Volatile This Week. Stay Invested.",
+      "description": "Despite the week’s declines, the market is more likely to see it as a short correction than a major selloff. Investors aren’t selling everything, but shifting into better opportunities.",
+      "url": "https://finance.yahoo.com/m/63d6dbbd-1649-3d68-ad98-bbee759f7254/yes%2C-stocks-were-volatile.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T18:17:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Despite the week’s declines, the market is more likely to see it as a short correction than a major selloff. Investors aren’t selling everything, but shifting into better opportunities."
+    },
+    {
+      "title": "Crypto mutiny on Strategy: Shorts target 'MSTR' in bitcoin bloodbath",
+      "description": "Flows around Strategy (MSTR) and the company's variable-rate preferred stock STRC are turning bearish this week.",
+      "url": "https://www.cnbc.com/2026/06/05/crypto-mutiny-on-strategy-shorts-target-mstr-in-bitcoin-bloodbath.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-05T18:14:15+00:00",
+      "category": "USA",
+      "simple_explanation": "Flows around Strategy (MSTR) and the company's variable-rate preferred stock STRC are turning bearish this week."
+    },
+    {
+      "title": "Crypto tax in Illinois FY2027 budget is one step away from becoming law",
+      "description": "The law, part of a budget plan passed by Illinois lawmakers, would put the burden of collecting a 0.2% tax on crypto transactions on a registered broker.",
+      "url": "https://cointelegraph.com/news/cryptocurrency-tax-illinois-fy2027-budget-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jcnlwdG8tcmVwb3J0aW5nLWZhaWx1cmVzLWNhbi1iZS1leHBlbnNpdmUtZXZlbi1jcmltaW5hbDIuanBn.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-05T18:10:59+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The law, part of a budget plan passed by Illinois lawmakers, would put the burden of collecting a 0.2% tax on crypto transactions on a registered broker."
+    },
+    {
+      "title": "Bad News for XRP and Bitcoin Investors. Retail Investors are Fleeing Crypto.",
+      "description": "On Bloomberg Tech, live from San Francisco today, a venture capital investor laid out a striking thesis about what’s actually happening inside the cryptocurrency markets. Retail investors now make up 70% of crypto markets, down from 90%, while institutional participation has climbed from 10% of the ",
+      "url": "https://247wallst.com/investing/2026/06/05/bad-news-for-xrp-and-bitcoin-investors-retail-investors-are-fleeing-crypto/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T18:01:29+00:00",
+      "category": "Crypto",
+      "simple_explanation": "On Bloomberg Tech, live from San Francisco today, a venture capital investor laid out a striking thesis about what’s actually happening inside the cryptocurrency markets. Retail investors now make up "
+    },
+    {
+      "title": "Trump wants Bill Pulte to fire big chunk of national intelligence office staff: WSJ",
+      "description": "President Trump's comments are sure to roil members of Congress who criticized the appointment of Bill Pulte as acting national intelligence director.",
+      "url": "https://www.cnbc.com/2026/06/05/trump-bill-pulte-fire-intelligence-dni.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-05T18:00:53+00:00",
+      "category": "USA",
+      "simple_explanation": "President Trump's comments are sure to roil members of Congress who criticized the appointment of Bill Pulte as acting national intelligence director."
+    },
+    {
+      "title": "Update: Gold Falls as the Dollar and Yields Rise After an Unexpected Surge in May U.S. Employment",
+      "description": "(Updates prices.) Gold traded sharply lower midafternoon Friday, falling to the lowest this year",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-dollar-yields-rise-180030203.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T18:00:30+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Updates prices.) Gold traded sharply lower midafternoon Friday, falling to the lowest this year"
+    },
+    {
+      "title": "Ximen Mining Advances Kenville Mine Development with Robotic LiDAR Surveying",
+      "description": "Ximen Mining (XIM.V) on Friday provided an update on its Kenville mine project, in British Columbia,",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/ximen-mining-advances-kenville-mine-174749709.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T17:47:49+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Ximen Mining (XIM.V) on Friday provided an update on its Kenville mine project, in British Columbia,"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Decline Friday Afternoon",
+      "description": "Energy stocks declined Friday afternoon with the NYSE Energy Sector Index falling 1.4% and the State",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-stocks-decline-friday-174428168.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T17:44:28+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Energy stocks declined Friday afternoon with the NYSE Energy Sector Index falling 1.4% and the State"
     },
     {
       "title": "Jobs Shock Knocks Gold Below $4,400 as Fed Cut Hopes Fade",
@@ -23,136 +373,6 @@
       "simple_explanation": "Happy Friday, traders. Welcome to our weekly market wrap, where we take a look back at these last five trading days with a focus on the market news, economic data, and headlines that had the most impa"
     },
     {
-      "title": "Operator of S&P 500 decides against fast-tracking 'MegaCap' IPOs into its stock indexes",
-      "description": "The operator of the S&P 500 says it has decided not to change its guidelines for when very large “MegaCap” companies are eligible for inclusion into its bevy of stock indexes.  In its announcement Thursday, S&P Dow Jones Indices said its index committee weighed responses received from a “wide range ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/operator-p-500-decides-against-173511402.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T17:35:11+00:00",
-      "category": "USA",
-      "simple_explanation": "The operator of the S&P 500 says it has decided not to change its guidelines for when very large “MegaCap” companies are eligible for inclusion into its bevy of stock indexes.  In its announcement Thu"
-    },
-    {
-      "title": "Bitcoin cracks $60,000, sinking to lowest level since October 2024",
-      "description": "The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets.",
-      "url": "https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-05T17:28:54+00:00",
-      "category": "USA",
-      "simple_explanation": "The weeklong sell-off was exacerbated after a stronger-than-expected May jobs report Friday sent yields higher and pressured risk assets."
-    },
-    {
-      "title": "Mizuho Maintains Neutral Rating on Comstock Resources (CRK)",
-      "description": "Comstock Resources, Inc. (NYSE:CRK) is one of the 8 Most Undervalued Growth Stocks to Buy Right Now. On May 27, 2026, Mizuho lowered the firm’s price target on Comstock Resources, Inc. (NYSE:CRK) to $21 from $25 and maintained a Neutral rating on the shares. Mizuho said it expects the Iran crisis to",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-maintains-neutral-rating-comstock-172822316.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T17:28:22+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Comstock Resources, Inc. (NYSE:CRK) is one of the 8 Most Undervalued Growth Stocks to Buy Right Now. On May 27, 2026, Mizuho lowered the firm’s price target on Comstock Resources, Inc. (NYSE:CRK) to $"
-    },
-    {
-      "title": "Prediction market firms face growing scrutiny as Congress weighs regulation",
-      "description": "Rep. Bryan Steil, R-Wisc., is working on a bill to ban Congress members and their staff from certain bets on prediction markets such as Kalshi and Polymarket.",
-      "url": "https://www.cnbc.com/2026/06/05/prediction-market-legislation-congress-bryan-steil-kalshi-polymarket.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-05T17:27:50+00:00",
-      "category": "USA",
-      "simple_explanation": "Rep. Bryan Steil, R-Wisc., is working on a bill to ban Congress members and their staff from certain bets on prediction markets such as Kalshi and Polymarket."
-    },
-    {
-      "title": "Trump wants Bill Pulte to fire big chunk of national intelligence office staff: WSJ",
-      "description": "President Trump's comments are sure to roil members of Congress who criticized the appointment of Bill Pulte as acting national intelligence director.",
-      "url": "https://www.cnbc.com/2026/06/05/trump-bill-pulte-fire-intelligence-dni.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-05T17:25:37+00:00",
-      "category": "USA",
-      "simple_explanation": "President Trump's comments are sure to roil members of Congress who criticized the appointment of Bill Pulte as acting national intelligence director."
-    },
-    {
-      "title": "Stock Market Today, June 5: Strong Jobs Data Drives Broad Sell-Off at Midday",
-      "description": "AI chip leaders face renewed scrutiny as hot jobs data and rate hike fears jolt U.S. growth stocks, today, June 5, 2026.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/05/stock-market-today-june-5-strong-jobs-data-drives-broad-sell-off-at-midday/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T17:25:20+00:00",
-      "category": "USA",
-      "simple_explanation": "AI chip leaders face renewed scrutiny as hot jobs data and rate hike fears jolt U.S. growth stocks, today, June 5, 2026."
-    },
-    {
-      "title": "Nvidia Shares Sink After Strong U.S. Jobs Data Sparks Tech Selloff",
-      "description": "Nvidia Selloff Deepens As Broadcom Outlook And Jobs Data Shake Investors",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-sink-strong-u-172315309.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T17:23:15+00:00",
-      "category": "USA",
-      "simple_explanation": "Nvidia Selloff Deepens As Broadcom Outlook And Jobs Data Shake Investors"
-    },
-    {
-      "title": "Bond Markets Are Volatile. Here's How to Choose Between Government and Corporate Debt.",
-      "description": "Compare diversification and risk profiles as these two bond ETFs take different approaches to balancing income and safety for your portfolio.",
-      "url": "https://www.fool.com/coverage/etfs/2026/06/05/bond-markets-are-volatile-here-s-how-to-choose-between-government-and-corporate-debt/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T17:22:43+00:00",
-      "category": "USA",
-      "simple_explanation": "Compare diversification and risk profiles as these two bond ETFs take different approaches to balancing income and safety for your portfolio."
-    },
-    {
-      "title": "Why Nasdaq Is Sinking Today",
-      "description": "Nasdaq Tumbles as Rising Yields Trigger Brutal Tech Selloff",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/why-nasdaq-sinking-today-172123062.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T17:21:23+00:00",
-      "category": "USA",
-      "simple_explanation": "Nasdaq Tumbles as Rising Yields Trigger Brutal Tech Selloff"
-    },
-    {
-      "title": "The Chip ETF That Turned a $10k Bet Into Nearly $20k This Year",
-      "description": "If you put $10,000 into Invesco PHLX Semiconductor ETF (NASDAQ:SOXQ) on the last trading day of 2025, you are sitting on about $19,400 this morning. The same $10,000 in the S&P 500 (via SPY) is worth roughly $11,140. SOXQ is up 94% year to date through June 2, 2026, against 11% for SPY. The headline",
-      "url": "https://247wallst.com/investing/2026/06/05/the-chip-etf-that-turned-a-10k-bet-into-nearly-20k-this-year/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T17:20:55+00:00",
-      "category": "USA",
-      "simple_explanation": "If you put $10,000 into Invesco PHLX Semiconductor ETF (NASDAQ:SOXQ) on the last trading day of 2025, you are sitting on about $19,400 this morning. The same $10,000 in the S&P 500 (via SPY) is worth "
-    },
-    {
-      "title": "US Equity Indexes Dive as Blockbuster Jobs Report Set to Eliminate Easing Bias in Fed Policy Statement",
-      "description": "US equity indexes sank amid a slide in mega-cap chip names and government bonds, as strong jobs slas",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-dive-blockbuster-171825026.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T17:18:25+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity indexes sank amid a slide in mega-cap chip names and government bonds, as strong jobs slas"
-    },
-    {
-      "title": "Exchange-Traded Funds Fall as US Equities Slump After Midday",
-      "description": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV declined. Actively trad",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-fall-us-171618786.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T17:16:18+00:00",
-      "category": "USA",
-      "simple_explanation": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV declined. Actively trad"
-    },
-    {
-      "title": "Model routing is a fix for AI overspending. That's a problem for OpenAI and Anthropic",
-      "description": "Companies are shifting from running everything on the most powerful AI model to matching each task to the right one, a practice called model routing.",
-      "url": "https://www.cnbc.com/2026/06/05/model-routing-on-ai-is-a-problem-for-openai-and-anthropic.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-05T17:06:49+00:00",
-      "category": "USA",
-      "simple_explanation": "Companies are shifting from running everything on the most powerful AI model to matching each task to the right one, a practice called model routing."
-    },
-    {
       "title": "Crypto Biz: Nobody told Saylor ‘never sell’",
       "description": "Strategy’s Bitcoin sale challenged the “never sell” narrative, while JPMorgan attacked CLARITY and Capital B pursued a huge fundraising plan for BTC.",
       "url": "https://cointelegraph.com/news/strategy-bitcoin-sale-clarity-act-jpmorgan-capital-b-fundraising?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -163,14 +383,14 @@
       "simple_explanation": "Strategy’s Bitcoin sale challenged the “never sell” narrative, while JPMorgan attacked CLARITY and Capital B pursued a huge fundraising plan for BTC."
     },
     {
-      "title": "Apple's WWDC: Tim Cook's AI legacy at stake in his final developer conference as CEO",
-      "description": "Apple heads into WWDC with Tim Cook’s AI legacy, Siri’s future as an agentic platform, and the stock’s rich valuation all on the line.",
-      "url": "https://www.cnbc.com/2026/06/05/apple-wwdc-tim-cook-ai-siri-ternus.html",
+      "title": "Why Scott Melker is skeptical of the SpaceX IPO",
+      "description": "Scott Melker discusses his skepticism surrounding SpaceX's (SPAX.PVT) upcoming June 12 IPO and weighs in on the new pathways being created to give retail investors access to the offering.\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
+      "url": "https://finance.yahoo.com/video/why-scott-melker-skeptical-spacex-170000320.html?.tsrc=rss",
       "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-05T16:59:20+00:00",
-      "category": "USA",
-      "simple_explanation": "Apple heads into WWDC with Tim Cook’s AI legacy, Siri’s future as an agentic platform, and the stock’s rich valuation all on the line."
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-05T17:00:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Scott Melker discusses his skepticism surrounding SpaceX's (SPAX.PVT) upcoming June 12 IPO and weighs in on the new pathways being created to give retail investors access to the offering.\"The Daily Wo"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -181,226 +401,6 @@
       "published_at": "2026-06-05T16:55:50+00:00",
       "category": "Crypto",
       "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "Bitcoin drops below $60,000, its lowest level since October 2024: Here's why",
-      "description": "Bitcoin fell below $60,000, its lowest level since October 2024, amid ETF outflows, geopolitical uncertainty, and concerns over corporate crypto treasury demand. Other cryptocurrencies also declined sharply, with Ether falling 12 per cent",
-      "url": "https://www.livemint.com/market/cryptocurrency/bitcoin-drops-below-60-000-its-lowest-level-since-october-2024-heres-why-11780677820474.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/05/1600x900/logo/CRYPTO-LEGISLATION-1_1779097604466_1779097625678_1780678726264_1780678726398_24c59136-da2f-443c-bebb-da82f70800a2.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-06-05T16:55:34+00:00",
-      "category": "India",
-      "simple_explanation": "Bitcoin fell below $60,000, its lowest level since October 2024, amid ETF outflows, geopolitical uncertainty, and concerns over corporate crypto treasury demand. Other cryptocurrencies also declined s"
-    },
-    {
-      "title": "Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts",
-      "description": "Pump.fun launched a new bounty platform where users started funding bizarre memecoin marketing stunts, including forehead tattoos, skydiving as a mascot and setting a vehicle on fire.",
-      "url": "https://cointelegraph.com/news/pumpfun-bounty-platforms-funds-memecoin-tattoos-world-cup-skydives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1ob3ctdG8tYnV5LXB1bXBmdW4tcHVtcC10b2tlbi5qcGc=.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-05T16:44:44+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Pump.fun launched a new bounty platform where users started funding bizarre memecoin marketing stunts, including forehead tattoos, skydiving as a mascot and setting a vehicle on fire."
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Craters 2% On Rate-Hike Risks; Docusign Extends Losses (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index dropped Friday on a surprise May jobs report. Lululemon stock plunged on earnings.",
-      "url": "https://finance.yahoo.com/m/97143289-0961-30c2-81ff-4ddc8d2fe02e/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T16:42:18+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Stock Market Today: The Dow Jones index dropped Friday on a surprise May jobs report. Lululemon stock plunged on earnings."
-    },
-    {
-      "title": "Bitcoin hits a major rough patch in its worst week since 2024",
-      "description": "Scott Melker discusses bitcoin's worst week since 2024, SpaceX IPO happening June 12, stablecoins, and other big crypto headlines.\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hu",
-      "url": "https://finance.yahoo.com/video/bitcoin-hits-major-rough-patch-163638413.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T16:36:38+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Scott Melker discusses bitcoin's worst week since 2024, SpaceX IPO happening June 12, stablecoins, and other big crypto headlines.\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune i"
-    },
-    {
-      "title": "Gold, silver rates today: Comex gold tumbles $136/oz; silver sinks $5 as strong US jobs report boosts rate hike bets",
-      "description": "Precious metals faced selling pressure on 5 June due to a strong US jobs report, potentially prolonging higher interest rates. Gold and silver prices fell sharply, driven by expectations of a rate hike in 2026. International markets mirrored the decline, with gold futures on MCX also plummeting.",
-      "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-tumbles-136-oz-silver-sinks-5-as-strong-us-jobs-report-boosts-rate-hike-bets-11780672076644.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/05/1600x900/logo/AUSTRALIA-GOLD-15_1760463252914_1760463257583_1780672074790_f6262a2e-9c1e-4c01-b5fa-856f9a9129d5.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-05T16:29:41+00:00",
-      "category": "India",
-      "simple_explanation": "Precious metals faced selling pressure on 5 June due to a strong US jobs report, potentially prolonging higher interest rates. Gold and silver prices fell sharply, driven by expectations of a rate hik"
-    },
-    {
-      "title": "Dow Jones Hits High, Broadcom, Ciena Slam AI, Chip Stocks, SpaceX IPO Ahead: Weekly Review",
-      "description": "The Dow Jones hit a new high while the Nasdaq tumbled as Broadcom and Ciena triggered AI and chip losses. SpaceX set an IPO price target.",
-      "url": "https://finance.yahoo.com/m/87ea182a-0ec0-30eb-a42f-84d195ab43e2/dow-jones-hits-high%2C.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T16:27:42+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The Dow Jones hit a new high while the Nasdaq tumbled as Broadcom and Ciena triggered AI and chip losses. SpaceX set an IPO price target."
-    },
-    {
-      "title": "Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs",
-      "description": "After more than a decade, Bitcoin finds itself in a downturn unlike any spring we've seen before. Its value has plummeted as AI stocks surge, and with fresh market listings on the horizon, investors are reallocating their resources. Many are choosing to withdraw from Bitcoin ETFs, shifting their foc",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bitcoins-star-fades-as-investors-flock-to-lustre-of-ai-and-megacap-ipos/articleshow/131536454.cms",
-      "image": "https://img.etimg.com/photo/msid-131536454,imgsize-113276.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-05T16:27:01+00:00",
-      "category": "India",
-      "simple_explanation": "After more than a decade, Bitcoin finds itself in a downturn unlike any spring we've seen before. Its value has plummeted as AI stocks surge, and with fresh market listings on the horizon, investors a"
-    },
-    {
-      "title": "US Equity Indexes Dive as Blockbuster Jobs Report Boosts Fed Rate Increase Bets",
-      "description": "US equity indexes slumped amid a sell-off in mega-cap chip names and government bonds, as a strong j",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-dive-blockbuster-162518674.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T16:25:18+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity indexes slumped amid a sell-off in mega-cap chip names and government bonds, as a strong j"
-    },
-    {
-      "title": "Lululemon shares drop as forecast cut spotlights challenges for incoming CEO",
-      "description": "Lululemon faced a notable dip in its stock price as the athleisure retailer adjusted its profit expectations for the year. This news has escalated concerns among investors regarding the company's ability to bounce back. The incoming CEO will face a myriad of challenges, as reports suggest a decline ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/lululemon-shares-drop-as-forecast-cut-spotlights-challenges-for-incoming-ceo/articleshow/131536386.cms",
-      "image": "https://img.etimg.com/photo/msid-131536386,imgsize-19586.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-05T16:22:21+00:00",
-      "category": "India",
-      "simple_explanation": "Lululemon faced a notable dip in its stock price as the athleisure retailer adjusted its profit expectations for the year. This news has escalated concerns among investors regarding the company's abil"
-    },
-    {
-      "title": "FTSE 100 makes modest gains despite struggle for mining companies",
-      "description": "In New York, the Dow Jones Industrial Average was down 0.3%, the S&P 500 was 1.2% lower, and the Nasdaq Composite dropped 2.2%.",
-      "url": "https://uk.finance.yahoo.com/news/ftse-100-makes-modest-gains-162020068.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T16:20:20+00:00",
-      "category": "USA",
-      "simple_explanation": "In New York, the Dow Jones Industrial Average was down 0.3%, the S&P 500 was 1.2% lower, and the Nasdaq Composite dropped 2.2%."
-    },
-    {
-      "title": "Franklin Resources' Wamco to pay $100 million SEC fine over former star manager's trades",
-      "description": "Western Asset Management, a unit of Franklin Resources, will pay $100 million to settle SEC charges tied to a $600 million cherry-picking scheme by former CIO Kenneth Leech. The firm did not admit wrongdoing. Leech faces criminal trial, while regulators cited failures in oversight and fair trade all",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/franklin-resources-wamco-to-pay-100-million-sec-fine-over-former-star-managers-trades/articleshow/131536352.cms",
-      "image": "https://img.etimg.com/photo/msid-131536352,imgsize-23162.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-05T16:18:52+00:00",
-      "category": "India",
-      "simple_explanation": "Western Asset Management, a unit of Franklin Resources, will pay $100 million to settle SEC charges tied to a $600 million cherry-picking scheme by former CIO Kenneth Leech. The firm did not admit wro"
-    },
-    {
-      "title": "Bitcoin Falls Below $60,000 on Binance and Coinbase for First Time Since 2024",
-      "description": "Bitcoin falls below $60,000 on Binance and Coinbase for the first time since October 2024 as risk-off sentiment pressures crypto markets.",
-      "url": "https://beincrypto.com/bitcoin-below-60000-coinbase-2024/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T16:10:48+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin falls below $60,000 on Binance and Coinbase for the first time since October 2024 as risk-off sentiment pressures crypto markets."
-    },
-    {
-      "title": "Saylor says Bitcoin needs ‘disciplined expansion’ as analysts weigh demand reset",
-      "description": "Michael Saylor’s essay calls for Bitcoin to expand through banks, credit, securities and higher layers while preserving its base layer.",
-      "url": "https://cointelegraph.com/news/saylor-bitcoin-disciplined-expansion-demand-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1taWNoYWVsLXNheWxvcjIuanBn.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-05T16:09:40+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Michael Saylor’s essay calls for Bitcoin to expand through banks, credit, securities and higher layers while preserving its base layer."
-    },
-    {
-      "title": "\"Sell in May\" Flops in 2026: 4 Winning ETF Areas",
-      "description": "\"Sell in May\" failed badly in 2026 as tech, space and digital economy ETFs surged on AI optimism, strong earnings and easing geopolitical fears.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sell-may-flops-2026-4-160000338.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T16:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "\"Sell in May\" failed badly in 2026 as tech, space and digital economy ETFs surged on AI optimism, strong earnings and easing geopolitical fears."
-    },
-    {
-      "title": "Blockbuster US job gains ruffle Wall Street",
-      "description": "Forecast-beating US jobs data rattled Wall Street on Friday as investors saw increased chances of an interest rate hike.Data showed the US economy added 172,000 jobs in May, far more than the 80,000 expected by economists polled by Dow Jones Newswires and The Wall Street Journal.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-another-hit-ai-024455312.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T15:55:50+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Forecast-beating US jobs data rattled Wall Street on Friday as investors saw increased chances of an interest rate hike.Data showed the US economy added 172,000 jobs in May, far more than the 80,000 e"
-    },
-    {
-      "title": "Spacex IPO is said to draw more orders than shares available",
-      "description": "SpaceX’s $75 billion IPO is already oversubscribed, signaling strong institutional demand and positioning it to become the largest listing ever. The Elon Musk-led firm may surpass Saudi Aramco’s record. Shares are priced at $135, valuing the company near $1.8 trillion, with trading expected to begin",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-ipo-is-said-to-draw-more-orders-than-shares-available/articleshow/131535854.cms",
-      "image": "https://img.etimg.com/photo/msid-131535854,imgsize-135068.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-05T15:47:14+00:00",
-      "category": "India",
-      "simple_explanation": "SpaceX’s $75 billion IPO is already oversubscribed, signaling strong institutional demand and positioning it to become the largest listing ever. The Elon Musk-led firm may surpass Saudi Aramco’s recor"
-    },
-    {
-      "title": "Bitcoin teases 'seller exhaustion' as BTC price downside reaches $60.3K",
-      "description": "Bitcoin sellers were losing steam, market analysis said as ongoing BTC price downside brought the market closer to $60,000.",
-      "url": "https://cointelegraph.com/markets/bitcoin-approaches-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xODA1NDEtYml0Y29pbi1wcmljZS10b2RheS0wMy0xMy0yMDI1LWJ0Yy1idWxscy1hcmUtdGlyZWQtYW5kLWNhbnQtYnJlYWstb3V0LW9mLTgzay5qcGc=.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-05T15:43:14+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin sellers were losing steam, market analysis said as ongoing BTC price downside brought the market closer to $60,000."
-    },
-    {
-      "title": "CVX Stock Outpaces Industry in a Month: Should Investors Stay Bullish?",
-      "description": "Chevron outperforms its industry and sector over the past month as dividend growth, resilient assets and 2030 cash flow targets bolster its appeal.",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/cvx-stock-outpaces-industry-month-154100223.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T15:41:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Chevron outperforms its industry and sector over the past month as dividend growth, resilient assets and 2030 cash flow targets bolster its appeal."
-    },
-    {
-      "title": "B2Gold (BTG) Down 7.5% Since Last Earnings Report: Can It Rebound?",
-      "description": "B2Gold (BTG) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/b2gold-btg-down-7-5-153010523.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T15:30:10+00:00",
-      "category": "Commodities",
-      "simple_explanation": "B2Gold (BTG) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues."
-    },
-    {
-      "title": "Silver X secures full ownership of Ccasahuasi gold project in Peru",
-      "description": "It purchased the concession from Barrick Mining for $30,000 (C$41,723) in staged payments, plus an NSR royalty with partial buyback rights.",
-      "url": "https://www.mining-technology.com/news/silver-x-full-ownership-ccasahuasi-project-peru/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-05T15:28:03+00:00",
-      "category": "Commodities",
-      "simple_explanation": "It purchased the concession from Barrick Mining for $30,000 (C$41,723) in staged payments, plus an NSR royalty with partial buyback rights."
-    },
-    {
-      "title": "Hexagon Nutrition IPO: Issue received healthy response on Day 01, booked 1.65 times; GMP signals solid listing",
-      "description": "Hexagon Nutrition IPO saw strong demand on Day 1, with bids for 3.56 crore shares against 2.16 crore shares offered. NII segment subscribed 2.03 times, retail portion 2.43 times. Company raised  ₹41.66 crore from anchor investors. IPO price band set at  ₹42-45 per share.",
-      "url": "https://www.livemint.com/market/stock-market-news/hexagon-nutrition-ipo-issue-received-healthy-response-on-day-01-booked-1-65-times-gmp-signals-solid-listing-11780669139903.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/05/1600x900/logo/SME_IPO_1756099341077_1756099345044_1780669164280_09f0fd7b-c479-4428-ba58-29d994858cc6.png",
-      "source": "LiveMint",
-      "published_at": "2026-06-05T15:08:23+00:00",
-      "category": "India",
-      "simple_explanation": "Hexagon Nutrition IPO saw strong demand on Day 1, with bids for 3.56 crore shares against 2.16 crore shares offered. NII segment subscribed 2.03 times, retail portion 2.43 times. Company raised  ₹41.6"
-    },
-    {
-      "title": "Rs 5,750 crore Adani block deal: SBI Mutual Fund picks stake from GQG",
-      "description": "GQG Partners sold stakes in Adani Enterprises and Adani Energy Solutions worth about Rs 5,750 crore through block deals, with SBI Mutual Fund acquiring the shares. The transactions are seen as portfolio rebalancing after a strong recovery in Adani Group stocks over the past year.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gqg-trims-adani-exposure-in-rs-5750-crore-block-deal-sell-shares-in-two-group-stocks/articleshow/131535087.cms",
-      "image": "https://img.etimg.com/photo/msid-131535087,imgsize-84658.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-05T15:08:09+00:00",
-      "category": "India",
-      "simple_explanation": "GQG Partners sold stakes in Adani Enterprises and Adani Energy Solutions worth about Rs 5,750 crore through block deals, with SBI Mutual Fund acquiring the shares. The transactions are seen as portfol"
     }
   ]
 }
