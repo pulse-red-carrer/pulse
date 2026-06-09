@@ -1,56 +1,356 @@
 {
-  "last_updated": "2026-06-09T15:55:32.646930+00:00",
+  "last_updated": "2026-06-09T18:07:06.237657+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "VBR vs. SLYV: Which Small-Cap Value ETF Is the Better Buy for Investors Right Now?",
+      "description": "Explore how portfolio concentration and sector exposure set these small-cap value funds apart for investors seeking different risk profiles.",
+      "url": "https://www.fool.com/coverage/etfs/2026/06/09/vbr-vs-slyv-which-small-cap-value-etf-is-the-better-buy-for-investors-right-now/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:50:04+00:00",
+      "category": "USA",
+      "simple_explanation": "Explore how portfolio concentration and sector exposure set these small-cap value funds apart for investors seeking different risk profiles."
+    },
+    {
+      "title": "Prediction: SpaceX, Anthropic, and OpenAI Will Push the S&P 500 Dividend Yield to an All-Time Low. Here's What Income Investors Can Do About It.",
+      "description": "S&P 500 index funds are a poor fit for passive income investors.",
+      "url": "https://www.fool.com/investing/2026/06/09/spacex-anthropic-openai-sp-500-dividend-yield/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:50:00+00:00",
+      "category": "USA",
+      "simple_explanation": "S&P 500 index funds are a poor fit for passive income investors."
+    },
+    {
+      "title": "Bitcoin may act as a ‘canary in the coal mine’ as risk-off pressure spreads: Bitwise",
+      "description": "Bitwise research suggests that Bitcoin is leading a broader risk-off move across markets as global liquidity and stablecoin reserves remain elevated.",
+      "url": "https://cointelegraph.com/markets/bitcoin-may-act-as-a-canary-in-the-coal-mine-as-risk-off-pressure-spreads-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0yMzI0MDUtaG93LXUtcy1iaXRjb2luLW1pbmVzLWFyZS1jaG9raW5nLXRoZS1ncmlkLWJpdG1haW4tYXQtdGhlLWNlbnRlci1vZi10aGUtc3Rvcm0uanBn.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-09T17:48:44+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitwise research suggests that Bitcoin is leading a broader risk-off move across markets as global liquidity and stablecoin reserves remain elevated."
+    },
+    {
+      "title": "Tech stocks tumble again",
+      "description": "Another sharp selloff hit tech stocks Tuesday, with some AI-related shares posting double-digit losses shortly after noon ET.",
+      "url": "https://www.axios.com/2026/06/09/tech-ai-stocks-semiconductors#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:46:16+00:00",
+      "category": "USA",
+      "simple_explanation": "Another sharp selloff hit tech stocks Tuesday, with some AI-related shares posting double-digit losses shortly after noon ET."
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Craters Amid Trump War News; SharkNinja Jumps (Live Coverage)",
+      "description": "Stock market losses mounted Tuesday as President Donald Trump said the U.S. must \"respond\" to what he said was Iran's shooting of an Apache helicopter over the Strait of Hormuz. Equities also fell ahead of inflation data that could further stoke bets that the Federal Reserve will start raising inter",
+      "url": "https://finance.yahoo.com/m/71c85e22-1ecc-3887-994b-fafd66da9153/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:45:39+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock market losses mounted Tuesday as President Donald Trump said the U.S. must \"respond\" to what he said was Iran's shooting of an Apache helicopter over the Strait of Hormuz. Equities also fell ahe"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Decline Tuesday Afternoon",
+      "description": "Energy stocks were lower Tuesday afternoon, with the NYSE Energy Sector Index falling 1.4% and the S",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-stocks-decline-tuesday-174309397.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:43:09+00:00",
+      "category": "USA",
+      "simple_explanation": "Energy stocks were lower Tuesday afternoon, with the NYSE Energy Sector Index falling 1.4% and the S"
+    },
+    {
+      "title": "Trump says U.S. must 'respond' after Iran shoots down helicopter over Hormuz Strait",
+      "description": "The latest clash with Iran over the Strait of Hormuz came as President Donald Trump repeated that a deal with Tehran could be reached within days.",
+      "url": "https://www.cnbc.com/2026/06/09/trump-iran-helicopter-hormuz-strait.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-09T17:39:19+00:00",
+      "category": "USA",
+      "simple_explanation": "The latest clash with Iran over the Strait of Hormuz came as President Donald Trump repeated that a deal with Tehran could be reached within days."
+    },
+    {
+      "title": "China demand woes, Middle East peace hopes drag crude oil prices to multi-month lows; Brent hits 7-week low",
+      "description": "Crude oil prices fell sharply due to reduced demand in China, with Brent crude at $89.57 and WTI at $86 per barrel. China's imports hit an eight-year low, while easing Middle East tensions and US-Iran peace talks added pressure on prices, despite previous predictions failing to materialise.",
+      "url": "https://www.livemint.com/market/stock-market-news/china-demand-worries-drag-crude-oil-prices-to-multi-month-lows-brent-hits-7-week-low-11781025408136.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/09/1600x900/logo/Oil-Cuts-Explainer-0_1680529456417_1680529456417_1781025404289_5edda0e5-c7ca-4a6d-8daa-4546d08deb9f.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-09T17:35:17+00:00",
+      "category": "India",
+      "simple_explanation": "Crude oil prices fell sharply due to reduced demand in China, with Brent crude at $89.57 and WTI at $86 per barrel. China's imports hit an eight-year low, while easing Middle East tensions and US-Iran"
+    },
+    {
+      "title": "SpaceX IPO explained: The price is set, but retail allocation still up in the air",
+      "description": "Charles Schwab, Fidelity, Robinhood, SoFi and Morgan Stanley's E-Trade are among the brokerage platforms making SpaceX shares available.",
+      "url": "https://www.cnbc.com/2026/06/09/spacex-ipo-explained-stock-price-date.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-09T17:28:35+00:00",
+      "category": "USA",
+      "simple_explanation": "Charles Schwab, Fidelity, Robinhood, SoFi and Morgan Stanley's E-Trade are among the brokerage platforms making SpaceX shares available."
+    },
+    {
+      "title": "Silver Is On Track To Close Below This Crucial Level For First Time In More Than A Year – All Eyes On May Inflation Data",
+      "description": "Silver prices fell to their lowest levels since March, pushing the gold-to-silver ratio to its highest level in two months.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/gold-silver-falls-below-200dma-may-inflation-data-in-view/cZ0UjDBR7Rh?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:28:26+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Silver prices fell to their lowest levels since March, pushing the gold-to-silver ratio to its highest level in two months."
+    },
+    {
+      "title": "BBB refers prediction market Kalshi to state regulators over ad inquiry",
+      "description": "A BBB advertising watchdog escalated its review of Kalshi after the prediction market platform declined to participate in an inquiry into influencer disclosure practices.",
+      "url": "https://cointelegraph.com/news/bbb-nad-refers-kalshi-state-regulators-advertising-influencer-inquiry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0yNjc0MTEtY2Z0Yy1iYWNrcy1rYWxzaGktYXBwZWFscy1jb3VydC1vaGlvLXByZWRpY3Rpb24tbWFya2V0cy1maWdodC5qcGc=.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-09T17:26:49+00:00",
+      "category": "Crypto",
+      "simple_explanation": "A BBB advertising watchdog escalated its review of Kalshi after the prediction market platform declined to participate in an inquiry into influencer disclosure practices."
+    },
+    {
+      "title": "Gold is Down 23% from the Peak to $4,330 an Ounce. Time to Buy This Top Gold ETF?",
+      "description": "The SPDR Gold Trust could warm up as gold shimmers again.",
+      "url": "https://www.fool.com/investing/2026/06/09/gold-is-down-x-from-the-peak-to-x-an-ounce-time-to/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:20:59+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The SPDR Gold Trust could warm up as gold shimmers again."
+    },
+    {
+      "title": "Why Apple Stock Is Sinking Today",
+      "description": "What does SpaceX's upcoming IPO have to do with Apple stock?",
+      "url": "https://www.fool.com/investing/2026/06/09/why-apple-stock-is-sinking-today/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:18:43+00:00",
+      "category": "USA",
+      "simple_explanation": "What does SpaceX's upcoming IPO have to do with Apple stock?"
+    },
+    {
+      "title": "Nasdaq falls 3% as chip stocks sell off, Iran deal hopes fade",
+      "description": "Major indexes opened higher on hopes for a U.S.-Iran deal, then reversed as tech stocks wiped out Monday's gains",
+      "url": "https://qz.com/nasdaq-chip-stocks-selloff-iran-deal-060926?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:15:58+00:00",
+      "category": "USA",
+      "simple_explanation": "Major indexes opened higher on hopes for a U.S.-Iran deal, then reversed as tech stocks wiped out Monday's gains"
+    },
+    {
+      "title": "Stock Market Today, June 9: Chipmakers Drag Nasdaq Down at Midday",
+      "description": "Wall Street reassessed tech leadership as Apple’s AI reveal underwhelmed and yesterday's AI recovery unwound, today, June 9, 2026.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/09/stock-market-today-june-9-chipmakers-drag-nasdaq-down-at-midday/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:15:21+00:00",
+      "category": "USA",
+      "simple_explanation": "Wall Street reassessed tech leadership as Apple’s AI reveal underwhelmed and yesterday's AI recovery unwound, today, June 9, 2026."
+    },
+    {
+      "title": "Sector Update: Energy",
+      "description": "Energy stocks were lower Tuesday afternoon, with the NYSE Energy Sector Index falling 1.5% and the S",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-171324666.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:13:24+00:00",
+      "category": "USA",
+      "simple_explanation": "Energy stocks were lower Tuesday afternoon, with the NYSE Energy Sector Index falling 1.5% and the S"
+    },
+    {
+      "title": "Top Bitcoin Analyst Predicts $200K Within Two Years: ‘We’re Either At Or Within Spitting Distance Of A Bottom’",
+      "description": "Lawrence Lepard, a longtime bitcoin investor and author, spoke with host Adam Taggart on the Thoughtful Money podcast episode “The Next Big Money Printing Cycle Is Almost Here,” and planted a contrarian flag. With Bitcoin sliding to around $63,000 from its all-time high of $124,000-$126,000, Lepard ",
+      "url": "https://247wallst.com/investing/2026/06/09/top-bitcoin-analyst-predicts-200k-within-two-years-were-either-at-or-within-spitting-distance-of-a-bottom/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:11:23+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Lawrence Lepard, a longtime bitcoin investor and author, spoke with host Adam Taggart on the Thoughtful Money podcast episode “The Next Big Money Printing Cycle Is Almost Here,” and planted a contrari"
+    },
+    {
+      "title": "Exchange-Traded Funds Fall as US Equities Slump After Midday",
+      "description": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV were lower. Actively tr",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-fall-us-170809411.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:08:09+00:00",
+      "category": "USA",
+      "simple_explanation": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV were lower. Actively tr"
+    },
+    {
+      "title": "Stocks slump as US tech rebound falters, oil dips below $90",
+      "description": "Stock markets fell Tuesday, giving back earlier gains as US technology stocks turned lower after weeks of solid gains on renewed doubts about prospects for AI names.Frankfurt and Paris stock markets had gained earlier after official data showed that industrial production in Europe's biggest economy ",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-track-wall-st-022905458.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:07:20+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Stock markets fell Tuesday, giving back earlier gains as US technology stocks turned lower after weeks of solid gains on renewed doubts about prospects for AI names.Frankfurt and Paris stock markets h"
+    },
+    {
+      "title": "CZ Says Bitcoin Won't Be ‘Dead For Long’ As Charles Schwab Exec Sees Lower Volatility This Cycle",
+      "description": "Charles Schwab's Ferraioli said roughly 20% of spot Bitcoin ETF assets come from Schwab clients and argued that Bitcoin remains attractive from a valuation perspective.",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/cz-bitcoin-wont-be-dead-charles-schwab-volatility/cZ0UjJiR7RW?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:03:57+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Charles Schwab's Ferraioli said roughly 20% of spot Bitcoin ETF assets come from Schwab clients and argued that Bitcoin remains attractive from a valuation perspective."
+    },
+    {
+      "title": "Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street",
+      "description": "Anthropic said the broad release is possible because of new safeguards that block responses in specific high-risk areas.",
+      "url": "https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-09T17:03:52+00:00",
+      "category": "USA",
+      "simple_explanation": "Anthropic said the broad release is possible because of new safeguards that block responses in specific high-risk areas."
+    },
+    {
+      "title": "S&P 500 and Nasdaq Dips as Chip Stocks Drag Markets Lower",
+      "description": "AI Trade Weakens, Sending Nasdaq Lower",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dips-chip-170157742.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T17:01:57+00:00",
+      "category": "Commodities",
+      "simple_explanation": "AI Trade Weakens, Sending Nasdaq Lower"
+    },
+    {
+      "title": "Bullion Gold Resources Mobilizing a Field Team to Terragold Project; Upsizes Private Placement to $2 Million",
+      "description": "Bullion Gold Resources (BGD.V) on Tuesday said a field team was mobilized to its flagship Terragold",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/bullion-gold-resources-mobilizing-field-165708756.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T16:57:08+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Bullion Gold Resources (BGD.V) on Tuesday said a field team was mobilized to its flagship Terragold"
+    },
     {
       "title": "Social Security retirement trust fund may be depleted in 2032, new trustees report finds",
       "description": "The Social Security Administration has released a report with new projections as to when the trust funds that help pay benefits may be depleted.",
       "url": "https://www.cnbc.com/2026/06/09/social-security-trustees-report-depletion-dates.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-06-09T15:51:33+00:00",
+      "published_at": "2026-06-09T16:53:23+00:00",
       "category": "USA",
       "simple_explanation": "The Social Security Administration has released a report with new projections as to when the trust funds that help pay benefits may be depleted."
     },
     {
-      "title": "Home sales surged in May to the highest level since December",
-      "description": "Home sales rebounded in May as mortgage rates dropped back a bit in April, but prices are still rising.",
-      "url": "https://www.cnbc.com/2026/06/09/home-sales-surged-in-may-to-the-highest-level-since-december.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-09T15:46:21+00:00",
-      "category": "USA",
-      "simple_explanation": "Home sales rebounded in May as mortgage rates dropped back a bit in April, but prices are still rising."
-    },
-    {
-      "title": "Oil prices fall nearly 4% after U.S. Energy Secretary says Hormuz ship traffic is increasing",
-      "description": "President Donald Trump has repeatedly said a deal with Tehran to reopen Hormuz is close, but such an agreement still has not materialized.",
-      "url": "https://www.cnbc.com/2026/06/09/oil-prices-iran-war-strait-hormuz-trump-israel-lebanon.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-09T15:45:59+00:00",
-      "category": "USA",
-      "simple_explanation": "President Donald Trump has repeatedly said a deal with Tehran to reopen Hormuz is close, but such an agreement still has not materialized."
-    },
-    {
-      "title": "3 Reasons to Avoid LNN and 1 Stock to Buy Instead",
-      "description": "Lindsay has been treading water for the past six months, recording a small loss of 4.8% while holding steady at $113.13. The stock also fell short of the S&P 500’s 8% gain during that period.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-lnn-1-154214159.html?.tsrc=rss",
+      "title": "Oil Falls as Trump Says Iran Deal is Days Away",
+      "description": "Oil prices declined on Tuesday after US President Donald Trump said the Iran war could end within da",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/oil-falls-trump-says-iran-165056981.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-09T15:42:14+00:00",
-      "category": "USA",
-      "simple_explanation": "Lindsay has been treading water for the past six months, recording a small loss of 4.8% while holding steady at $113.13. The stock also fell short of the S&P 500’s 8% gain during that period."
+      "published_at": "2026-06-09T16:50:56+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil prices declined on Tuesday after US President Donald Trump said the Iran war could end within da"
     },
     {
-      "title": "Top Midday Stories: GSK to Acquire Nuvalent for $10.6 Billion in Cash; Apple Introduces Siri AI, But EU Launch to be Delayed",
-      "description": "The Dow Jones Industrial Average was up, while the S&P 500 and Nasdaq Composite were down in late-mo",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/top-midday-stories-gsk-acquire-153730795.html?.tsrc=rss",
+      "title": "House Republicans push $70 billion immigration funding package toward passage",
+      "description": "The U.S. House on Tuesday is scheduled to vote on a $70 billion immigration enforcement funding package after months of debate.",
+      "url": "https://www.cnbc.com/2026/06/09/trump-ice-congress-fisa-immigration-funding.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-09T16:45:19+00:00",
+      "category": "USA",
+      "simple_explanation": "The U.S. House on Tuesday is scheduled to vote on a $70 billion immigration enforcement funding package after months of debate."
+    },
+    {
+      "title": "Shapoorji Pallonji Group stock to be in focus on Wednesday on bagging  ₹5300 crore order. Details here",
+      "description": "Afcons Infrastructure has secured a significant  ₹5,301 crore order for a 10.14-km breakwater at Vadhvan Port, enhancing its order book. Despite a net loss of  ₹88.4 crore in March 2026, the company's order backlog remains strong at  ₹32,496 crore.",
+      "url": "https://www.livemint.com/market/stock-market-news/shapoorji-pallonji-group-stock-to-be-in-focus-on-wednesday-on-bagging-rs-5300-crore-order-details-here-11781018304714.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/09/1600x900/logo/Afcons_Infra_1729348960203_1781018302100_d6c022a0-b303-4940-b4fa-0cac2dd27552.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-09T16:43:51+00:00",
+      "category": "India",
+      "simple_explanation": "Afcons Infrastructure has secured a significant  ₹5,301 crore order for a 10.14-km breakwater at Vadhvan Port, enhancing its order book. Despite a net loss of  ₹88.4 crore in March 2026, the company's"
+    },
+    {
+      "title": "Brent crude oil price falls below $90 a barrel on hopes of Iran deal",
+      "description": "Oil prices fell around 5 percent to below $90 a barrel on Tuesday after US President Donald Trump again said an Iran peace deal could be close. The international benchmark Brent crude fell below $90 for the first time since April 14, while its US counterpart, West Texas Intermediate crude fell to ar",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-oil-price-falls-below-90-a-barrel-on-hopes-of-iran-deal/articleshow/131615518.cms",
+      "image": "https://img.etimg.com/photo/msid-131615518,imgsize-76304.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-09T16:34:33+00:00",
+      "category": "India",
+      "simple_explanation": "Oil prices fell around 5 percent to below $90 a barrel on Tuesday after US President Donald Trump again said an Iran peace deal could be close. The international benchmark Brent crude fell below $90 f"
+    },
+    {
+      "title": "Market One: Sun Summit Minerals Advances Flagship JD Project Toward Inaugural Mineral Resource Estimate",
+      "description": "Vancouver, British Columbia--(Newsfile Corp. - June 9, 2026) - Market One (\"Market One\"), a marketing agency for public companies, shares editorial and video features on emerging growth stories across the resource, energy, and technology sectors.Market One delivers content creation and distribution ",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/market-one-sun-summit-minerals-162500913.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-09T15:37:30+00:00",
-      "category": "USA",
-      "simple_explanation": "The Dow Jones Industrial Average was up, while the S&P 500 and Nasdaq Composite were down in late-mo"
+      "published_at": "2026-06-09T16:25:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - June 9, 2026) - Market One (\"Market One\"), a marketing agency for public companies, shares editorial and video features on emerging growth stories across"
+    },
+    {
+      "title": "Markets Ignore the As Expected Merchandise Trade Surplus in Canada, Says CIBC",
+      "description": "A further gain in Canadian exports brought a wider trade surplus in April, even after a pullback in",
+      "url": "https://finance.yahoo.com/economy/policy/articles/markets-ignore-expected-merchandise-trade-162056832.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T16:20:56+00:00",
+      "category": "Commodities",
+      "simple_explanation": "A further gain in Canadian exports brought a wider trade surplus in April, even after a pullback in"
+    },
+    {
+      "title": "Rupert Resources (TSX:RUP) Valuation Check After Recent Share Price Pullback And Premium P/B Ratio",
+      "description": "Recent share performance and context Rupert Resources (TSX:RUP) has drawn attention after a pullback of about 14% over the past month and 7% over the past week, following a strong past 3 months and 1 year. The gold exploration company, focused on its Lapland project in Finland, now has a market valu",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rupert-resources-tsx-rup-valuation-160901864.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-09T16:09:01+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Recent share performance and context Rupert Resources (TSX:RUP) has drawn attention after a pullback of about 14% over the past month and 7% over the past week, following a strong past 3 months and 1 "
+    },
+    {
+      "title": "NLC India OFS oversubscribed 5.22 times on day one; govt exercises full greenshoe option",
+      "description": "Strong institutional demand prompted the Centre to scale up stake sale to 3%, raising about  ₹1,260 crore via the disinvestment route.",
+      "url": "https://www.livemint.com/market/stock-market-news/nlc-india-ofs-oversubscribed-5-22-times-on-day-one-govt-exercises-full-greenshoe-option-11781018887682.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/09/1600x900/logo/2-0-84176948-Mumbai-Stock-3Cnew--0_1681746786500_1781020549036_92b302e3-6afc-4c8a-90a3-232b9961034f.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-09T15:59:59+00:00",
+      "category": "India",
+      "simple_explanation": "Strong institutional demand prompted the Centre to scale up stake sale to 3%, raising about  ₹1,260 crore via the disinvestment route."
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+      "description": "Indian equities ended higher on Tuesday, supported by easing geopolitical tensions and softer crude prices. A sharp drop in India VIX boosted sentiment, while broader markets outperformed. Analysts see potential for further recovery, though caution persists amid FII outflows, global uncertainties an",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131615037.cms",
+      "image": "https://img.etimg.com/photo/msid-131615037,imgsize-54790.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-09T15:59:13+00:00",
+      "category": "India",
+      "simple_explanation": "Indian equities ended higher on Tuesday, supported by easing geopolitical tensions and softer crude prices. A sharp drop in India VIX boosted sentiment, while broader markets outperformed. Analysts se"
+    },
+    {
+      "title": "Nuvalent shares surge 39% to record high as GSK agrees to $10.6 billion acquisition deal",
+      "description": "Nuvalent's shares surged 39% to $123 after GlaxoSmithKline agreed to acquire the cancer drug developer for $10.6 billion, enhancing its oncology portfolio.",
+      "url": "https://www.livemint.com/market/stock-market-news/nuvalent-shares-surge-39-to-record-high-as-gsk-agrees-to-10-6-billion-acquisition-deal-11781016763061.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/09/1600x900/logo/2-0-108765094-GSK-4C--0_1681490445522_1781017004574_5c60322c-56ab-4d1d-bbf2-34fc4ac5e8c2.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-09T15:53:24+00:00",
+      "category": "India",
+      "simple_explanation": "Nuvalent's shares surged 39% to $123 after GlaxoSmithKline agreed to acquire the cancer drug developer for $10.6 billion, enhancing its oncology portfolio."
+    },
+    {
+      "title": "Expert view: A correction possible in the US stock market, says Marcellus Investment Managers' Head of Global Equities",
+      "description": "Arindam Mandal from Marcellus Investment Managers says there may be a potential correction in the US stock market. He emphasises the importance of focusing on high-quality, non-tech companies with predictable cash flows, as consumers remain cautious amidst inflation pressures.",
+      "url": "https://www.livemint.com/market/stock-market-news/expert-view-a-correction-possible-in-the-us-stock-market-says-marcellus-investment-managers-head-of-global-equities-11781019511860.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/09/1600x900/logo/Arindam_Mandal_1734341823332_1781019685240_f55c5500-6bdd-4223-b4d8-b9678502af82.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-09T15:51:48+00:00",
+      "category": "India",
+      "simple_explanation": "Arindam Mandal from Marcellus Investment Managers says there may be a potential correction in the US stock market. He emphasises the importance of focusing on high-quality, non-tech companies with pre"
     },
     {
       "title": "Large, midcap coming back in focus as contrarian investing gains ground",
@@ -61,66 +361,6 @@
       "published_at": "2026-06-09T15:34:50+00:00",
       "category": "India",
       "simple_explanation": "As the Indian stock market faces pressure from geopolitical tensions, experts suggest that now is the perfect opportunity for contrarian investors. With large and mid-cap stocks trading at attractive "
-    },
-    {
-      "title": "Will Yemen's Iran-aligned Houthis choke the energy market?",
-      "description": "STORY: Yemen's Iran-aligned Houthis said Monday they would ban ships linked to Israel from the Red Sea.It comes after Israeli forces renewed attacks on Iran. What further risk might that pose to global shipping and energy supplies?:: What kind of risk do the Houthis pose?Iran closed the Strait of Ho",
-      "url": "https://finance.yahoo.com/video/yemens-iran-aligned-houthis-choke-153438193.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-09T15:34:38+00:00",
-      "category": "Commodities",
-      "simple_explanation": "STORY: Yemen's Iran-aligned Houthis said Monday they would ban ships linked to Israel from the Red Sea.It comes after Israeli forces renewed attacks on Iran. What further risk might that pose to globa"
-    },
-    {
-      "title": "If Inflation Stays Sticky, Here's Why These 2 ETFs Win",
-      "description": "Elevated inflation appears to be here to stay for at least the next several months. Here are two ways to protect your portfolio today.",
-      "url": "https://www.fool.com/investing/2026/06/09/if-inflation-stays-sticky-heres-why-2-etfs-win/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-09T15:30:54+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Elevated inflation appears to be here to stay for at least the next several months. Here are two ways to protect your portfolio today."
-    },
-    {
-      "title": "Apple shares slide after big Siri AI reveal",
-      "description": "Apple unveiled new artificial intelligence software at WWDC, highlighted by its long-awaited update to Siri.",
-      "url": "https://www.cnbc.com/2026/06/09/apple-stock-siri-ai-reaction.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-09T15:26:56+00:00",
-      "category": "USA",
-      "simple_explanation": "Apple unveiled new artificial intelligence software at WWDC, highlighted by its long-awaited update to Siri."
-    },
-    {
-      "title": "2 Reasons to Like ALL (and 1 Not So Much)",
-      "description": "Allstate has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 6.7% to $214.50 per share while the index has gained 8%.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-1-not-much-152614762.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-09T15:26:14+00:00",
-      "category": "USA",
-      "simple_explanation": "Allstate has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 6.7% to $214.50 per share while the index has gained 8%."
-    },
-    {
-      "title": "Gold Is Well Off the Record High It Hit in January. Is It Time to Buy the Dip?",
-      "description": "The price of gold has retreated from its January high.",
-      "url": "https://www.fool.com/investing/2026/06/09/gold-is-well-off-the-record-high-it-hit-in-january/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-09T15:20:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The price of gold has retreated from its January high."
-    },
-    {
-      "title": "Stock Market Today: Nasdaq, Dow Swing Lower; J.M. Smucker Jumps (Live Coverage)",
-      "description": "After a strong opening, the major stock indexes swung lower Tuesday, highlighting volatility in a market where investors are juggling shifting hopes of a Middle East peace deal and the possibility that rising inflation will lead the Federal Reserve to raise interest rates this year.",
-      "url": "https://finance.yahoo.com/m/71c85e22-1ecc-3887-994b-fafd66da9153/stock-market-today%3A-nasdaq%2C.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-09T15:19:25+00:00",
-      "category": "USA",
-      "simple_explanation": "After a strong opening, the major stock indexes swung lower Tuesday, highlighting volatility in a market where investors are juggling shifting hopes of a Middle East peace deal and the possibility tha"
     },
     {
       "title": "PE investor BC Investments sells Rs 612 crore stake in Emcure Pharma; Kotak MF picks up stake",
@@ -153,254 +393,14 @@
       "simple_explanation": "Pride Hotels Limited is thrilled to announce the addition of a new 141-key hotel in the vibrant city of Indore, Madhya Pradesh. This exciting launch marks the fifth Plaza Hotel under the group's umbre"
     },
     {
-      "title": "Columbia Financial (CLBK): Buy, Sell, or Hold Post Q1 Earnings?",
-      "description": "Columbia Financial’s 23.1% return over the past six months has outpaced the S&P 500 by 15.1%, and its stock price has climbed to $20.76 per share. This run-up might have investors contemplating their next move.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/columbia-financial-clbk-buy-sell-151014680.html?.tsrc=rss",
+      "title": "Bitcoin’s Worst Week Since FTX Crash Signals More Pain Ahead",
+      "description": "(Bloomberg) -- Bitcoin’s slide below $60,000 last Friday capped its worst week since the collapse of Sam Bankman-Fried’s FTX exchange in 2022.Most Read from BloombergHouse Republican Says Hegseth’s D-Day Remarks ‘Inappropriate’Stocks Hit by Chipmaker Rout Amid US-Iran Jitters: Markets WrapOpenAI Joi",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-worst-week-since-ftx-102331607.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-09T15:10:14+00:00",
-      "category": "USA",
-      "simple_explanation": "Columbia Financial’s 23.1% return over the past six months has outpaced the S&P 500 by 15.1%, and its stock price has climbed to $20.76 per share. This run-up might have investors contemplating their "
-    },
-    {
-      "title": "Trade Contributions to Canada's GDP Likely to Remain \"Choppy\" This Year, Says TD",
-      "description": "Canada's trade balance moved into a $2.7 billion surplus in April, widening from $1.8 billion the pr",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trade-contributions-canada-apos-gdp-150428603.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-09T15:04:28+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Canada's trade balance moved into a $2.7 billion surplus in April, widening from $1.8 billion the pr"
-    },
-    {
-      "title": "Gold Resumes Pullback After Israel and Iran Agree to End Strikes",
-      "description": "(Bloomberg) -- Gold resumed declines after Israel and Iran agreed to end attacks that had jeopardized talks to end the war in the Middle East and the US dollar pared losses.Most Read from BloombergHouse Republican Says Hegseth’s D-Day Remarks ‘Inappropriate’LA Mayor Race Flips as Socialist Beats Rea",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-israel-iran-agree-082043867.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-09T14:59:36+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Bloomberg) -- Gold resumed declines after Israel and Iran agreed to end attacks that had jeopardized talks to end the war in the Middle East and the US dollar pared losses.Most Read from BloombergHou"
-    },
-    {
-      "title": "Is EOG Resources, Inc. (EOG) A Good Stock To Buy Now?",
-      "description": "Is EOG a good stock to buy? We came across a bullish thesis on EOG Resources, Inc. on X.com by @MoneyShow. In this article, we will summarize the bulls’ thesis on EOG. EOG Resources, Inc.’s share was trading at $140.15 as of June 8th. EOG’s trailing and forward P/E were 13.55 and 7.89 respectively a",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/eog-resources-inc-eog-good-145711198.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-09T14:57:11+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Is EOG a good stock to buy? We came across a bullish thesis on EOG Resources, Inc. on X.com by @MoneyShow. In this article, we will summarize the bulls’ thesis on EOG. EOG Resources, Inc.’s share was "
-    },
-    {
-      "title": "Is Agnico Eagle Mines Limited (AEM) A Good Stock To Buy Now?",
-      "description": "Is AEM a good stock to buy? We came across a bullish thesis on Agnico Eagle Mines Limited on X.com by @MoneyShow. In this article, we will summarize the bulls’ thesis on AEM. Agnico Eagle Mines Limited’s share was trading at $162.11 as of June 8th. AEM’s trailing and forward P/E were 15.41 and 12.24",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-limited-aem-145640373.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-09T14:56:40+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Is AEM a good stock to buy? We came across a bullish thesis on Agnico Eagle Mines Limited on X.com by @MoneyShow. In this article, we will summarize the bulls’ thesis on AEM. Agnico Eagle Mines Limite"
-    },
-    {
-      "title": "The Model 3 Era at Rivian Begins. Its Lower-Price EV Is Here.",
-      "description": "Rivian Automotive  has started its Model 3 era.  Investors are hoping the company’s  Tesla  -like strategy leads to Tesla-like returns in the coming years.  Rivian said in a social media post Tuesday that its next electric-vehicle model the R2 SUV, “is here.”",
-      "url": "https://finance.yahoo.com/m/f4e6f811-762f-3cc6-b499-2ea0f8d3d896/the-model-3-era-at-rivian.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-09T14:56:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Rivian Automotive  has started its Model 3 era.  Investors are hoping the company’s  Tesla  -like strategy leads to Tesla-like returns in the coming years.  Rivian said in a social media post Tuesday "
-    },
-    {
-      "title": "Trump family got about $500M from crypto venture — but investors saw steep losses",
-      "description": "Eric Trump and Donald Trump Jr. celebrated a deal with Alt5 Sigma that generated roughly $500 million for the Trump family. The company's shares are down 93%.",
-      "url": "https://www.cnbc.com/2026/06/09/trump-world-liberty-financial-crypto-alt5-sigma.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-09T14:51:59+00:00",
-      "category": "USA",
-      "simple_explanation": "Eric Trump and Donald Trump Jr. celebrated a deal with Alt5 Sigma that generated roughly $500 million for the Trump family. The company's shares are down 93%."
-    },
-    {
-      "title": "Gold, silver rates today: Comex gold and silver edge higher as dollar retreats, oil eases",
-      "description": "Precious metals fluctuated on 9 June, with gold rising $25 to $4,388 and silver up $0.6 to $69.18. Easing Middle East tensions and a weakening US dollar supported prices. Investors await key US economic data amid expectations of a Federal Reserve rate hike in December.",
-      "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-and-silver-edge-higher-as-dollar-retreats-oil-eases-11781011625042.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/09/1600x900/logo/im-02090361_1769421972201_1781011776566_8d3b9adf-3eda-420a-8e1e-a5448a02a57c.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-09T14:44:05+00:00",
-      "category": "India",
-      "simple_explanation": "Precious metals fluctuated on 9 June, with gold rising $25 to $4,388 and silver up $0.6 to $69.18. Easing Middle East tensions and a weakening US dollar supported prices. Investors await key US econom"
-    },
-    {
-      "title": "Helmet maker Studds shares surges 18% as stricter traffic rules enforced in West Bengal",
-      "description": "Studds Accessories shares soared 18.3% to a 13-week high after reports of a sharp rise in helmet demand in West Bengal following stricter traffic-rule enforcement. The company reported strong sales growth, expects organised players to gain market share, and is expanding capacity to meet rising deman",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/helmet-maker-studds-shares-surges-18-as-stricter-traffic-rules-enforced-in-west-bengal/articleshow/131613742.cms",
-      "image": "https://img.etimg.com/photo/msid-131613742,imgsize-16042.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-09T14:39:22+00:00",
-      "category": "India",
-      "simple_explanation": "Studds Accessories shares soared 18.3% to a 13-week high after reports of a sharp rise in helmet demand in West Bengal following stricter traffic-rule enforcement. The company reported strong sales gr"
-    },
-    {
-      "title": "Larvotto signs seven-year Hillgrove gold offtake deal with Glencore",
-      "description": "The deal is structured on a mine-gate basis, with Glencore responsible for logistics from the site to the end customer.",
-      "url": "https://www.mining-technology.com/news/larvotto-seven-year-hillgrove-gold-offtake-glencore/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-09T14:34:42+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The deal is structured on a mine-gate basis, with Glencore responsible for logistics from the site to the end customer."
-    },
-    {
-      "title": "Bitcoin bottom? These four charts hint at BTC price dropping to $50K",
-      "description": "A $50,000 Bitcoin price target remains in play despite BTC maintaining above $60,000 support for now, as multiple indicators warn the bottom may not be in.",
-      "url": "https://cointelegraph.com/markets/bitcoin-bottom-these-four-charts-hint-at-btc-price-dropping-to-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aHktYml0Y29pbi10cmVhc3VyeS1zdG9ja3MtZmFsbC1mYXN0ZXItdGhhbi10aGUtYXNzZXRzLXRoZXktaG9sZC0xLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-09T14:33:53+00:00",
+      "published_at": "2026-06-09T15:09:04+00:00",
       "category": "Crypto",
-      "simple_explanation": "A $50,000 Bitcoin price target remains in play despite BTC maintaining above $60,000 support for now, as multiple indicators warn the bottom may not be in."
-    },
-    {
-      "title": "Blockchain researchers warn HTX sanctions may blur crypto risk signals",
-      "description": "Researchers say broad HTX tainting could freeze legitimate users and make compliance tools less useful for tracing illicit funds.",
-      "url": "https://cointelegraph.com/news/blockchain-researchers-htx-sanctions-crypto-risk-signals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1mb3ItdGhlLWNyeXB0by1pbmR1c3RyeS1zdXBwb3J0aW5nLXNhbmN0aW9ucy1pcy1hbi1vcHBvcnR1bml0eS10by1yZWJyYW5kLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-09T14:22:11+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Researchers say broad HTX tainting could freeze legitimate users and make compliance tools less useful for tracing illicit funds."
-    },
-    {
-      "title": "Dow Jones ETFs: Better Than S&P 500 & Nasdaq Now?",
-      "description": "Rising rate fears are hurting tech-heavy indexes, but the Dow's value tilt and lower tech exposure may offer relative resilience.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-jones-etfs-better-p-141900441.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-09T14:19:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Rising rate fears are hurting tech-heavy indexes, but the Dow's value tilt and lower tech exposure may offer relative resilience."
-    },
-    {
-      "title": "Plenty of Data Ahead of CPI, SPCX",
-      "description": "Investors look toward tomorrow's Inflation Rate and the SpaceX IPO Friday, but we have lots of economic data out this morning: Small Business Index, Trade Balance and Existing Home Sales.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/plenty-data-ahead-cpi-spcx-141900695.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-09T14:19:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Investors look toward tomorrow's Inflation Rate and the SpaceX IPO Friday, but we have lots of economic data out this morning: Small Business Index, Trade Balance and Existing Home Sales."
-    },
-    {
-      "title": "US stocks: CrowdStrike shares fall as 'Mythos moment' fails to cheer investors",
-      "description": "CrowdStrike experienced a stark decline in its share prices on Thursday, largely attributed to its quarterly guidance that failed to impress investors. Nevertheless, the cybersecurity software landscape remains vibrant, fueled by significant strides in AI technology. Observers note that some investo",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/crowdstrike-shares-fall-as-mythos-moment-fails-to-cheer-investors/articleshow/131613291.cms",
-      "image": "https://img.etimg.com/photo/msid-131613291,imgsize-22650.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-09T14:13:14+00:00",
-      "category": "India",
-      "simple_explanation": "CrowdStrike experienced a stark decline in its share prices on Thursday, largely attributed to its quarterly guidance that failed to impress investors. Nevertheless, the cybersecurity software landsca"
-    },
-    {
-      "title": "NLC India OFS over-subscribed 5 times, institutional buyers put in Rs 4,158 cr bids",
-      "description": "The government's offer for sale in NLC India saw strong demand on the first day. Non-retail investors bid for shares worth Rs 4,158 crore. This indicates significant interest in the disinvestment. The offer is open for retail investors today. The government aims to raise funds through this stake sal",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nlc-india-ofs-over-subscribed-5-times-institutional-buyers-put-in-rs-4158-cr-bids/articleshow/131613198.cms",
-      "image": "https://img.etimg.com/photo/msid-131613198,imgsize-294277.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-09T14:06:03+00:00",
-      "category": "India",
-      "simple_explanation": "The government's offer for sale in NLC India saw strong demand on the first day. Non-retail investors bid for shares worth Rs 4,158 crore. This indicates significant interest in the disinvestment. The"
-    },
-    {
-      "title": "Promoter sells Rs 1,024 crore worth of Ajanta Pharma shares in block deal to Kotak MF and ABSL MF",
-      "description": "A promoter entity of Ajanta Pharma sold shares worth over Rs 1,024 crore through a block deal, with Kotak Mahindra Mutual Fund and Aditya Birla Sun Life Mutual Fund acquiring the stake. The transaction comes amid strong earnings growth, healthy margins and sustained momentum in the company’s pharmac",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/promoter-sells-rs-1024-crore-worth-of-ajanta-pharma-shares-in-block-deal-to-kotak-mf-and-absl-mf/articleshow/131613188.cms",
-      "image": "https://img.etimg.com/photo/msid-131613188,imgsize-116142.cms",
-      "source": "ET Markets",
-      "published_at": "2026-06-09T14:04:19+00:00",
-      "category": "India",
-      "simple_explanation": "A promoter entity of Ajanta Pharma sold shares worth over Rs 1,024 crore through a block deal, with Kotak Mahindra Mutual Fund and Aditya Birla Sun Life Mutual Fund acquiring the stake. The transactio"
-    },
-    {
-      "title": "Jeff Bezos Is Chasing Elon Musk Into Africa to Build a Starlink Competitor",
-      "description": "FEATURE  SpaceX’s Starlink is, well, miles above its competition. That doesn’t mean competitors have given up. Jeff Bezos appears set on taking a slice of Elon Musk’s space pie.  Amazon.com has selected Kenya to host its inaugural satellite ground station in Africa, according to reports.",
-      "url": "https://finance.yahoo.com/m/2115c310-0ba0-3769-8eec-b73bdf28e8c0/jeff-bezos-is-chasing-elon.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-09T14:02:00+00:00",
-      "category": "USA",
-      "simple_explanation": "FEATURE  SpaceX’s Starlink is, well, miles above its competition. That doesn’t mean competitors have given up. Jeff Bezos appears set on taking a slice of Elon Musk’s space pie.  Amazon.com has select"
-    },
-    {
-      "title": "NSE to route 10% of CSR spending through Social Stock Exchange after regulatory green light",
-      "description": "NSE will channel 10% of its annual CSR corpus through the Social Stock Exchange, becoming an early institutional adopter of the platform. The move follows regulatory changes permitting CSR spending via SSE-listed instruments and aims to boost transparency, accountability and funding for social impac",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-to-route-10-of-csr-spending-through-social-stock-exchange-after-regulatory-green-light/articleshow/131613163.cms",
-      "image": "https://img.etimg.com/photo/msid-131613163,imgsize-79502.cms",
-      "source": "ET Markets",
-      "published_at": "2026-06-09T14:01:53+00:00",
-      "category": "India",
-      "simple_explanation": "NSE will channel 10% of its annual CSR corpus through the Social Stock Exchange, becoming an early institutional adopter of the platform. The move follows regulatory changes permitting CSR spending vi"
-    },
-    {
-      "title": "Privacy push as StarkWare and Sui move toward compliance-ready confidential transfers",
-      "description": "StarkWare and Sui roll out confidential transfer systems as Zama boosts compliance efforts and Zcash’s Orchard bug highlights risks in shielded privacy models.",
-      "url": "https://cointelegraph.com/news/privacy-starkware-sui-move-compliance-confidential-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS10aGUtc2lnbmlmaWNhbmNlLW9mLXByaXZhY3ktaW4td2ViMy5qcGc=.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-09T14:01:11+00:00",
-      "category": "Crypto",
-      "simple_explanation": "StarkWare and Sui roll out confidential transfer systems as Zama boosts compliance efforts and Zcash’s Orchard bug highlights risks in shielded privacy models."
-    },
-    {
-      "title": "JPMorgan Chase plans to deploy more powerful AI agents this year",
-      "description": "JPMorgan Chase's move suggests long-running AI agents are close to clearing the security and governance hurdles that have slowed adoption inside big companies.",
-      "url": "https://www.cnbc.com/2026/06/09/jpmorgan-chase-ai-agents.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-09T14:00:01+00:00",
-      "category": "USA",
-      "simple_explanation": "JPMorgan Chase's move suggests long-running AI agents are close to clearing the security and governance hurdles that have slowed adoption inside big companies."
-    },
-    {
-      "title": "Hexagon Nutrition IPO: Issue booked 53 times on Day 3; NII portion sees strong demand, GMP signals healthy listing",
-      "description": "Hexagon Nutrition's IPO, which opened from June 5 to June 9, was oversubscribed by over 50 times, with significant participation across all investor categories. The grey market premium suggests a potential listing price of  ₹52, reflecting a 15.6% premium over the issue price of  ₹45.",
-      "url": "https://www.livemint.com/market/stock-market-news/hexagon-nutrition-ipo-issue-booked-53-times-on-day-3-nii-portion-sees-strong-demand-gmp-signals-healthy-listing-11781010866689.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/09/1600x900/logo/AdobeStock_1205122139_1759118299308_1759118308920_1781010862405_d131a7db-99a7-4639-ad62-dc57c4d954df.jpeg",
-      "source": "LiveMint",
-      "published_at": "2026-06-09T13:25:50+00:00",
-      "category": "India",
-      "simple_explanation": "Hexagon Nutrition's IPO, which opened from June 5 to June 9, was oversubscribed by over 50 times, with significant participation across all investor categories. The grey market premium suggests a pote"
-    },
-    {
-      "title": "Arthur Hayes Bets The AI Bubble Will Pop And Drag Bitcoin Down — Here's Why He Dumped HYPE, NEAR, ZEC And WLD",
-      "description": "Arthur Hayes is holding ETH despite calling it \"dead,\" betting a financial crisis would force central banks to print money, sending Bitcoin lower first, then sharply higher.",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/arthur-hayes-ai-bubble-will-pop-btc-eth-hype-zec-near/cZ0UXT2R7b6?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-09T13:11:51+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Arthur Hayes is holding ETH despite calling it \"dead,\" betting a financial crisis would force central banks to print money, sending Bitcoin lower first, then sharply higher."
-    },
-    {
-      "title": "Multibagger stock Himadri Speciality Chemical jumps over 50% in 3 months; experts see further upside potential",
-      "description": "Despite the sharp rally and phenomenal returns, analysts believe the stock still has further upside potential and expect it to cross  ₹900 in the near term, implying an upside of around 32% from its latest closing price.",
-      "url": "https://www.livemint.com/market/stock-market-news/multibagger-stock-himadri-speciality-chemical-jumps-over-50-in-3-months-experts-see-further-upside-potential-11781008888883.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/09/1600x900/logo/g62e6fb90d6fce001a61d1bc95583b54ec186db1e120592733_1721123044085_1781009188650_b13f78aa-8cf0-429b-b59b-d9fdfbc221f5.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-09T12:52:43+00:00",
-      "category": "India",
-      "simple_explanation": "Despite the sharp rally and phenomenal returns, analysts believe the stock still has further upside potential and expect it to cross  ₹900 in the near term, implying an upside of around 32% from its l"
-    },
-    {
-      "title": "MiCA architect says EU should prioritize tokenization over DeFi rules",
-      "description": "One of MiCA's architects said he sees no need to regulate DeFi as the European Commission gathers feedback on the framework's future.",
-      "url": "https://cointelegraph.com/news/eu-broader-crypto-market-framework-mica-2-defi-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aHktdGVjaG5vbG9neS1hc3N1cmFuY2VzLWFyZS1hLW11c3QtZm9yLWNyYWZ0aW5nLWV1LWNyeXB0by1yZWd1bGF0aW9uLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-09T12:30:52+00:00",
-      "category": "Crypto",
-      "simple_explanation": "One of MiCA's architects said he sees no need to regulate DeFi as the European Commission gathers feedback on the framework's future."
+      "simple_explanation": "(Bloomberg) -- Bitcoin’s slide below $60,000 last Friday capped its worst week since the collapse of Sam Bankman-Fried’s FTX exchange in 2022.Most Read from BloombergHouse Republican Says Hegseth’s D-"
     }
   ]
 }
