@@ -1,26 +1,236 @@
 {
-  "last_updated": "2026-06-10T20:38:13.087230+00:00",
+  "last_updated": "2026-06-10T22:51:19.350688+00:00",
   "total": 40,
   "articles": [
     {
+      "title": "Dow Jones Futures Fall As Trump Attacks Iran, Oracle Tumbles Late; SpaceX IPO On Launch Pad",
+      "description": "Futures fell as Trump launched new U.S. attacks vs. Iran while Oracle tumbled on earnings. The SpaceX IPO is on tap.",
+      "url": "https://finance.yahoo.com/m/f2b12cac-6dbd-3fc7-9e38-bed11bdf0d4a/dow-jones-futures-fall-as.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-10T22:47:01+00:00",
+      "category": "USA",
+      "simple_explanation": "Futures fell as Trump launched new U.S. attacks vs. Iran while Oracle tumbled on earnings. The SpaceX IPO is on tap."
+    },
+    {
+      "title": "S&P 500, Nasdaq, Dow Drop As US-Iran War Jitters, Inflation Risk Spur Tech Selloffs  — SMCI, AMZN, OPEN, SEGG, TSLA In Focus",
+      "description": "President Donald Trump threatened to strike Iran again after negotiations were taking “too long.”",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-drop-as-us-iran-war-jitters-inflation-risk-spur-tech-selloffs-smci-amzn-open-segg-tsla-in-focus/cZ06yd5R7cQ?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-10T22:31:59+00:00",
+      "category": "USA",
+      "simple_explanation": "President Donald Trump threatened to strike Iran again after negotiations were taking “too long.”"
+    },
+    {
+      "title": "ProFrac, RPC, and Nabors Industries Stocks Trade Up, What You Need To Know",
+      "description": "A number of stocks jumped in the afternoon session after the U.S. launched \"self-defense strikes\" on Iran as Trump warned the country \"will have to pay the price\" for stalling negotiations.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/profrac-rpc-nabors-industries-stocks-222528946.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-10T22:25:28+00:00",
+      "category": "Commodities",
+      "simple_explanation": "A number of stocks jumped in the afternoon session after the U.S. launched \"self-defense strikes\" on Iran as Trump warned the country \"will have to pay the price\" for stalling negotiations."
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as US launches new strikes against Iran",
+      "description": "US stock futures tumbled amid reports that the US struck Iran hours after President Trump had pledged to do so, saying negotiations were taking \"too long.\"",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-us-launches-new-strikes-against-iran-222511547.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-10T22:25:11+00:00",
+      "category": "USA",
+      "simple_explanation": "US stock futures tumbled amid reports that the US struck Iran hours after President Trump had pledged to do so, saying negotiations were taking \"too long.\""
+    },
+    {
+      "title": "Stock Futures Are Falling, Oil Rising After the U.S. Begins Strikes on Iran Again",
+      "description": "The move comes after President Donald Trump said the U.S. would hit Iran hard again as peace talks remain stalled.",
+      "url": "https://finance.yahoo.com/m/4f2a0d00-f64b-3899-adcd-2a441847473c/stock-futures-are-falling%2C.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-10T22:22:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The move comes after President Donald Trump said the U.S. would hit Iran hard again as peace talks remain stalled."
+    },
+    {
+      "title": "U.S. military begins strikes on 'multiple targets' in Iran at Trump's direction",
+      "description": "President Donald Trump promised more attacks on Iran after strikes resumed this week. Earlier this week, he said a deal to end the war was near.",
+      "url": "https://www.cnbc.com/2026/06/10/trump-iran-war-attacks-deal.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-10T22:19:34+00:00",
+      "category": "USA",
+      "simple_explanation": "President Donald Trump promised more attacks on Iran after strikes resumed this week. Earlier this week, he said a deal to end the war was near."
+    },
+    {
+      "title": "Acceleware Awarded $2 Million in Non-Dilutive Funding",
+      "description": "Calgary, Alberta--(Newsfile Corp. - June 10, 2026) - Acceleware Ltd. (TSXV: AXE) (\"Acceleware\" or the \"Company\") is pleased to announce it has been awarded up to $2 million in non-dilutive grant funding from the Clean Resource Innovation Network (\"CRIN\") under its Accelerating Cleantech Innovation C",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/acceleware-awarded-2-million-non-221500602.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-10T22:15:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Calgary, Alberta--(Newsfile Corp. - June 10, 2026) - Acceleware Ltd. (TSXV: AXE) (\"Acceleware\" or the \"Company\") is pleased to announce it has been awarded up to $2 million in non-dilutive grant fundi"
+    },
+    {
+      "title": "Stock Market Today, June 10: Broadcom Falls as Strong AI Quarter Tests Stock’s Premium Valuation",
+      "description": "Broadcom’s AI demand remains strong, but the pullback shows investors are looking for clearer proof that custom-chip growth can keep supporting the stock’s premium.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/10/stock-market-today-june-10-broadcom-falls-as-strong-ai-quarter-tests-stock-s-premium-valuation/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-10T22:11:12+00:00",
+      "category": "USA",
+      "simple_explanation": "Broadcom’s AI demand remains strong, but the pullback shows investors are looking for clearer proof that custom-chip growth can keep supporting the stock’s premium."
+    },
+    {
+      "title": "TETRA Technologies and Patterson-UTI Stocks Trade Up, What You Need To Know",
+      "description": "A number of stocks jumped in the afternoon session after the U.S. launched \"self-defense strikes\" on Iran as Trump warned the country \"will have to pay the price\" for stalling negotiations.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tetra-technologies-patterson-uti-stocks-220928472.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-10T22:09:28+00:00",
+      "category": "Commodities",
+      "simple_explanation": "A number of stocks jumped in the afternoon session after the U.S. launched \"self-defense strikes\" on Iran as Trump warned the country \"will have to pay the price\" for stalling negotiations."
+    },
+    {
+      "title": "Trump Credits Stealth Operations for Holding Oil Prices Down",
+      "description": "The U.S. military has escorted ships carrying over 100 million barrels of oil through the Strait of Hormuz since last month, President Donald Trump told reporters in the Oval Office on Wednesday.  Trump says the dead-of-night effort has allowed the world to stay supplied with oil even as Iran has at",
+      "url": "https://finance.yahoo.com/m/881fc24f-3d7a-36da-b9f5-aeecdacb667d/trump-credits-stealth.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-10T22:09:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The U.S. military has escorted ships carrying over 100 million barrels of oil through the Strait of Hormuz since last month, President Donald Trump told reporters in the Oval Office on Wednesday.  Tru"
+    },
+    {
       "title": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion",
-      "description": "Oracle reported better-than-expected earnings and revenue for its fiscal fourth quarter.",
+      "description": "Oracle topped quarterly expectations, but free cash flow is negative, and the company plans to raise more capital for data center projects.",
       "url": "https://www.cnbc.com/2026/06/10/oracle-orcl-q4-earnings-report-2026.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-06-10T20:36:06+00:00",
+      "published_at": "2026-06-10T22:05:47+00:00",
       "category": "USA",
-      "simple_explanation": "Oracle reported better-than-expected earnings and revenue for its fiscal fourth quarter."
+      "simple_explanation": "Oracle topped quarterly expectations, but free cash flow is negative, and the company plans to raise more capital for data center projects."
     },
     {
-      "title": "US Equity Markets End Lower Amid Semiconductor Sell-Off, Trump Threat to Hit Iran \"Hard\"",
-      "description": "US equity indexes were lower on Wednesday amid a semiconductor stock sell-off and after President Tr",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-202305536.html?.tsrc=rss",
+      "title": "Stock Market Today, June 10: Robinhood Markets Rises on IPO Underwriting Announcement",
+      "description": "Robinhood shows it is at the forefront of innovation once again with approval to underwrite IPOs, today, June 10, 2026.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/10/stock-market-today-june-10-robinhood-markets-rises-on-ipo-underwriting-announcement/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-10T20:23:05+00:00",
+      "published_at": "2026-06-10T22:01:46+00:00",
       "category": "USA",
-      "simple_explanation": "US equity indexes were lower on Wednesday amid a semiconductor stock sell-off and after President Tr"
+      "simple_explanation": "Robinhood shows it is at the forefront of innovation once again with approval to underwrite IPOs, today, June 10, 2026."
+    },
+    {
+      "title": "USDA's Rollins called screwworm a 'little pest' amid U.S. spread. Last year, she called it 'terrifying'",
+      "description": "The U.S. agriculture secretary is downplaying the threat posed by the spreading screwworm now compared with her more dire remarks last year.",
+      "url": "https://www.cnbc.com/2026/06/10/usda-screwworm-rollins.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-10T21:57:15+00:00",
+      "category": "USA",
+      "simple_explanation": "The U.S. agriculture secretary is downplaying the threat posed by the spreading screwworm now compared with her more dire remarks last year."
+    },
+    {
+      "title": "Analysis: Trump said he loves inflation. Why that should be music to Kevin Warsh's ears",
+      "description": "The president said Wednesday he is happy with inflation at 4.2%. That will be welcome news for new Fed Chair Kevin Warsh.",
+      "url": "https://www.cnbc.com/2026/06/10/trump-inflation-fed-chair-kevin-warsh-analysis.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-10T21:52:56+00:00",
+      "category": "USA",
+      "simple_explanation": "The president said Wednesday he is happy with inflation at 4.2%. That will be welcome news for new Fed Chair Kevin Warsh."
+    },
+    {
+      "title": "Citigroup shares outperform down market after Trump endorsement",
+      "description": "Jane Fraser-led Citi fell 1%, less than the rest of the market and some other major banks, after Trump lauded its turnaround in a social media post.",
+      "url": "https://www.cnbc.com/2026/06/10/citigroup-shares-outperform-down-market-after-trump-endorsement.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-06-10T21:51:42+00:00",
+      "category": "Global",
+      "simple_explanation": "Jane Fraser-led Citi fell 1%, less than the rest of the market and some other major banks, after Trump lauded its turnaround in a social media post."
+    },
+    {
+      "title": "The Model 3 Era at Rivian Begins. Its Lower-Price EV Is Here.",
+      "description": "Rivian Automotive  has started its Model 3 era.  Rivian said in a social media post Tuesday that its next electric-vehicle model, the R2 SUV, “is here.”  The R2 is Rivian’s second-generation, lower-price group of electric vehicles, following the R1S and R1T, which launched in 2021.",
+      "url": "https://finance.yahoo.com/m/f4e6f811-762f-3cc6-b499-2ea0f8d3d896/the-model-3-era-at-rivian.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-10T21:43:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Rivian Automotive  has started its Model 3 era.  Rivian said in a social media post Tuesday that its next electric-vehicle model, the R2 SUV, “is here.”  The R2 is Rivian’s second-generation, lower-pr"
+    },
+    {
+      "title": "Kingsview Minerals Acquires Vernon Property",
+      "description": "Toronto, Ontario--(Newsfile Corp. - June 10, 2026) - Kingsview Minerals Ltd. (CSE: KVM) (FSE: 0L41) (the \"Company\" or \"Kingsview\") is pleased to announce the acquisition of the Goose Creek Property, a district-scale copper-gold project comprising 150 claim units covering approximately 39 km² in sout",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/kingsview-minerals-acquires-vernon-property-213000982.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-10T21:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Toronto, Ontario--(Newsfile Corp. - June 10, 2026) - Kingsview Minerals Ltd. (CSE: KVM) (FSE: 0L41) (the \"Company\" or \"Kingsview\") is pleased to announce the acquisition of the Goose Creek Property, a"
+    },
+    {
+      "title": "Why Newmont Stock Slumped on Wednesday",
+      "description": "Given how things are shaping up, 2026 could be a tough year for the gold stock.",
+      "url": "https://www.fool.com/investing/2026/06/10/why-newmont-stock-slumped-on-wednesday/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-10T21:28:32+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Given how things are shaping up, 2026 could be a tough year for the gold stock."
+    },
+    {
+      "title": "The Smartest Dividend ETF to Buy With $2,000 Right Now",
+      "description": "Adding exposure to dividend stocks can be a great way to boost portfolio diversification.",
+      "url": "https://www.fool.com/investing/2026/06/10/smartest-dividend-etf-to-buy-with-2000-right-now/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-10T21:25:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Adding exposure to dividend stocks can be a great way to boost portfolio diversification."
+    },
+    {
+      "title": "Stock Market Today, June 10: Super Micro Computer, Nvidia, Micron Fall as Risk-Off Mood Intensifies",
+      "description": "AI hardware shares slide as investors digest Super Micro’s massive stock sale, hot inflation, and rising tensions in the Gulf, today, June 10, 2026.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/10/stock-market-today-june-10-super-micro-computer-nvidia-micron-fall-as-risk-off-mood-intensifies/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-10T21:20:03+00:00",
+      "category": "USA",
+      "simple_explanation": "AI hardware shares slide as investors digest Super Micro’s massive stock sale, hot inflation, and rising tensions in the Gulf, today, June 10, 2026."
+    },
+    {
+      "title": "Trump keeps saying an Iran deal is close. Markets keep believing it",
+      "description": "Analysts still assume that, despite the continued conflict, a deal will eventually be reached that ends the war and reopens the Strait of Hormuz.",
+      "url": "https://www.cnbc.com/2026/06/10/trump-iran-deal-oil-markets-stocks.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-10T21:15:50+00:00",
+      "category": "USA",
+      "simple_explanation": "Analysts still assume that, despite the continued conflict, a deal will eventually be reached that ends the war and reopens the Strait of Hormuz."
+    },
+    {
+      "title": "Bitcoin miner margins fall to record low: Will BTC’s $60K floor hold?",
+      "description": "Bitcoin miner profits recently fell to record lows, while Bitcoin struggles to hold the $60,000 floor. Should traders be worried?",
+      "url": "https://cointelegraph.com/markets/bitcoin-miner-margins-fall-to-record-low-will-btcs-60k-floor-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xOTk4MjgtYS1uZXctZXJhLWZvci1iaXRjb2luLWJ0Yy1taW5pbmctbWluZXJzLWV4cGFuZC10cmFkaXRpb25hbC1naWFudHMtZW50ZXItaGFzaHJhdGUuanBn.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-10T20:42:55+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin miner profits recently fell to record lows, while Bitcoin struggles to hold the $60,000 floor. Should traders be worried?"
+    },
+    {
+      "title": "Miata Metals Corp. (MMET) Closes the Market",
+      "description": "Toronto, Ontario--(Newsfile Corp. - June 10, 2026) - Jacob (Jaap) Verbaas, Chief Executive Officer and Director, Miata Metals Corp. (\"Miata Metals\" or the \"Company\") (TSXV: MMET), and their executive team, joined Dean McPherson, Head, Business Development, Global Mining, Toronto Stock Exchange (\"TSX",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/miata-metals-corp-mmet-closes-202800577.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-10T20:28:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Toronto, Ontario--(Newsfile Corp. - June 10, 2026) - Jacob (Jaap) Verbaas, Chief Executive Officer and Director, Miata Metals Corp. (\"Miata Metals\" or the \"Company\") (TSXV: MMET), and their executive "
     },
     {
       "title": "TSX hits three-week low on rising Mideast tensions; Apotex makes market debut",
@@ -33,34 +243,14 @@
       "simple_explanation": "CANADA-STOCKS/ (UPDATE 2):CANADA STOCKS-TSX hits three-week low on rising Mideast tensions; Apotex makes market debut"
     },
     {
-      "title": "How major US stock indexes fared Wednesday 6/10/2026",
-      "description": "Another sell-off for artificial-intelligence stocks dragged the U.S. market sharply lower. The S&P 500 dropped 1.6% Wednesday after giving up a brief modest gain in the morning. The index had its first back-to-back drop in three weeks.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-201754534.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-10T20:17:54+00:00",
-      "category": "USA",
-      "simple_explanation": "Another sell-off for artificial-intelligence stocks dragged the U.S. market sharply lower. The S&P 500 dropped 1.6% Wednesday after giving up a brief modest gain in the morning. The index had its firs"
-    },
-    {
-      "title": "Stocks slide on US inflation surge, tech weakness",
-      "description": "Global stock markets mostly fell on Wednesday as fresh strikes in the Middle East, a jump in US inflation and a tech sell-off weighed on sentiment.While the headline figure jumped, the core reading that excludes energy prices that have surged due to war in the Middle East, held steady at 2.9 percent",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asia-losses-oil-025303147.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-10T20:17:19+00:00",
-      "category": "USA",
-      "simple_explanation": "Global stock markets mostly fell on Wednesday as fresh strikes in the Middle East, a jump in US inflation and a tech sell-off weighed on sentiment.While the headline figure jumped, the core reading th"
-    },
-    {
-      "title": "USDA's Rollins called screwworm a 'little pest' amid U.S. spread. Last year, she called it 'terrifying'",
-      "description": "The U.S. agriculture secretary is downplaying the threat posed by the spreading screwworm now compared with her more dire remarks last year.",
-      "url": "https://www.cnbc.com/2026/06/10/usda-screwworm-rollins.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-10T20:16:18+00:00",
-      "category": "USA",
-      "simple_explanation": "The U.S. agriculture secretary is downplaying the threat posed by the spreading screwworm now compared with her more dire remarks last year."
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-10T20:13:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "Assessing Eldorado Gold (TSX:ELD) Valuation After Recent Pullback And Skouries Growth Outlook",
@@ -73,16 +263,6 @@
       "simple_explanation": "Recent performance snapshot Eldorado Gold (TSX:ELD) has been on many investors’ radar after the stock fell 2.1% in the latest session, extending declines over the past week, month, and past 3 months. "
     },
     {
-      "title": "Caterpillar Inc. Increases Dividend",
-      "description": "The Board of Directors of Caterpillar Inc. (NYSE: CAT) voted today to raise the quarterly dividend by 12 cents, an eight percent increase, to one dollar and sixty-three cents ($1.63) per share of common stock payable Aug. 19, 2026, to shareholders of record at the close of business July 20, 2026. Ca",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-inc-increases-dividend-200500063.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-10T20:05:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The Board of Directors of Caterpillar Inc. (NYSE: CAT) voted today to raise the quarterly dividend by 12 cents, an eight percent increase, to one dollar and sixty-three cents ($1.63) per share of comm"
-    },
-    {
       "title": "US stocks: US market indexes fall over 1%, dragged by tech and Iran war worries",
       "description": "Major US stock markets experienced a significant drop on Wednesday. Chipmaker stocks continued their decline, while new tensions between the US and Iran added to investor worries. The S&P 500, Nasdaq Composite, and Dow Jones Industrial Average all saw substantial losses. Investors are also consideri",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-markets-indexes-fall-1-dragged-by-tech-and-iran-war-worries/articleshow/131644160.cms",
@@ -91,126 +271,6 @@
       "published_at": "2026-06-10T20:01:52+00:00",
       "category": "India",
       "simple_explanation": "Major US stock markets experienced a significant drop on Wednesday. Chipmaker stocks continued their decline, while new tensions between the US and Iran added to investor worries. The S&P 500, Nasdaq "
-    },
-    {
-      "title": "Amazon vs. transport stocks, DraftKings sees prediction markets boost",
-      "description": "Yahoo Finance Senior Autos Reporter Pras Subramanian and Market Domination host Josh Lipton take a closer look at some of Wednesday's trending tickers and stories. Transportation stocks are plunging as Amazon (AMZN) expands its truckload offerings. Super Micro Computer (SMCI) stock is under pressure",
-      "url": "https://finance.yahoo.com/video/amazon-vs-transport-stocks-draftkings-sees-prediction-markets-boost-200152313.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-10T20:01:52+00:00",
-      "category": "USA",
-      "simple_explanation": "Yahoo Finance Senior Autos Reporter Pras Subramanian and Market Domination host Josh Lipton take a closer look at some of Wednesday's trending tickers and stories. Transportation stocks are plunging a"
-    },
-    {
-      "title": "Ceasefire 'teeters on a knife-edge', threatening global shipping",
-      "description": "Yahoo Finance Breaking News Reporter Jake Conley joins Josh Lipton on Market Domination to discuss the latest developments in the Middle East and what a potential collapse of peace talks means for global shipping and marine fuel.",
-      "url": "https://finance.yahoo.com/video/ceasefire-teeters-on-a-knife-edge-threatening-global-shipping-200044375.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-10T20:00:44+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Yahoo Finance Breaking News Reporter Jake Conley joins Josh Lipton on Market Domination to discuss the latest developments in the Middle East and what a potential collapse of peace talks means for glo"
-    },
-    {
-      "title": "Disciplined Retail Traders Could Beat the S&P 500, NYSE Veteran Tuchman Says",
-      "description": "NYSE veteran Peter Tuchman says disciplined retail traders could beat the S&P 500 as a new generation turns smart money.",
-      "url": "https://beincrypto.com/retail-traders-beat-sp500-tuchman/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-10T20:00:00+00:00",
-      "category": "USA",
-      "simple_explanation": "NYSE veteran Peter Tuchman says disciplined retail traders could beat the S&P 500 as a new generation turns smart money."
-    },
-    {
-      "title": "Slumping Semiconductors, Trump's Threat to Iran Push US Equity Indexes Lower",
-      "description": "US equity indexes slumped amid a sell-off in high-growth, mega-cap semiconductor names and after Pre",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/slumping-semiconductors-trump-apos-threat-195530424.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-10T19:55:30+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity indexes slumped amid a sell-off in high-growth, mega-cap semiconductor names and after Pre"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-10T19:53:26+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "Sector Update: Energy Stocks Rise Late Afternoon",
-      "description": "Energy stocks were higher late Wednesday afternoon, with the NYSE Energy Sector Index rising 1.9% an",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-stocks-rise-afternoon-195248257.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-10T19:52:48+00:00",
-      "category": "USA",
-      "simple_explanation": "Energy stocks were higher late Wednesday afternoon, with the NYSE Energy Sector Index rising 1.9% an"
-    },
-    {
-      "title": "Why Yuanbao Stock Is Skyrocketing Today",
-      "description": "Yuanbao stock is posting huge gains today despite the broader market being in the red.",
-      "url": "https://www.fool.com/investing/2026/06/10/why-yuanbao-stock-is-skyrocketing-today/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-10T19:41:02+00:00",
-      "category": "USA",
-      "simple_explanation": "Yuanbao stock is posting huge gains today despite the broader market being in the red."
-    },
-    {
-      "title": "Retirees view market dips as a harbinger. Here's how to reassure them",
-      "description": "Longevity and constant financial tickers these days often trigger retirees' fears that they will outlive their assets. Here's how financial advisors can coach them through.",
-      "url": "https://www.financial-planning.com/news/retirees-view-market-dips-as-a-harbinger-heres-how-to-reassure-them?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-10T19:40:48+00:00",
-      "category": "USA",
-      "simple_explanation": "Longevity and constant financial tickers these days often trigger retirees' fears that they will outlive their assets. Here's how financial advisors can coach them through."
-    },
-    {
-      "title": "Nasdaq, S&P Drop 1%, Dow Sinks 600 Points as Trump Iran Threat Sparks Market Panic",
-      "description": "Wall Street Slides as Oil Spikes on Renewed Iran Conflict Risks",
-      "url": "https://finance.yahoo.com/markets/articles/nasdaq-p-drop-1-dow-193300784.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-10T19:33:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Wall Street Slides as Oil Spikes on Renewed Iran Conflict Risks"
-    },
-    {
-      "title": "Trump keeps saying an Iran deal is close. Markets keep believing it",
-      "description": "Analysts still assume that, despite the continued conflict, a deal will eventually be reached that ends the war and reopens the Strait of Hormuz.",
-      "url": "https://www.cnbc.com/2026/06/10/trump-iran-deal-oil-markets-stocks.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-10T19:24:48+00:00",
-      "category": "USA",
-      "simple_explanation": "Analysts still assume that, despite the continued conflict, a deal will eventually be reached that ends the war and reopens the Strait of Hormuz."
-    },
-    {
-      "title": "Trump pledges more Iran strikes, saying U.S. will be 'attacking them very hard'",
-      "description": "President Donald Trump promised more attacks on Iran after strikes resumed this week. Earlier this week, he said a deal to end the war was near.",
-      "url": "https://www.cnbc.com/2026/06/10/trump-iran-war-attacks-deal.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-10T19:21:51+00:00",
-      "category": "USA",
-      "simple_explanation": "President Donald Trump promised more attacks on Iran after strikes resumed this week. Earlier this week, he said a deal to end the war was near."
-    },
-    {
-      "title": "Oil prices rise after Trump says U.S. will attack Iran 'very hard'",
-      "description": "Oil prices rose after the U.S. launched military strikes against Iran, raising concerns that renewed clashes may threaten shipping through the Strait of Hormuz.",
-      "url": "https://www.cnbc.com/2026/06/10/oil-price-us-completes-iran-strikes-after-apache-helicopter-attack.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-10T19:11:25+00:00",
-      "category": "USA",
-      "simple_explanation": "Oil prices rose after the U.S. launched military strikes against Iran, raising concerns that renewed clashes may threaten shipping through the Strait of Hormuz."
     },
     {
       "title": "GLD vs. IAU: Which Gold ETF Costs You Less Over Time?",
@@ -283,26 +343,6 @@
       "simple_explanation": "Some investors may be wondering whether Franco-Nevada's current share price still offers value after a strong run, or if it is starting to look stretched. The stock closed at C$295.61, with the share "
     },
     {
-      "title": "Update: Gold Falls to the Lowest in More than Six Months as U.S. Inflation Rose Again in May",
-      "description": "(Updates prices.) Gold traded at the lowest in more than six months early on Tuesday as the metal",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-lowest-more-six-180011379.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-10T18:00:11+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Updates prices.) Gold traded at the lowest in more than six months early on Tuesday as the metal"
-    },
-    {
-      "title": "The Price of Silver Just Collapsed. Here’s Why the SpaceX IPO Could be the Start of a Silver Boom.",
-      "description": "Silver investors absorbed a sharp drawdown over the past month. The iShares Silver Trust (NYSEARCA:SLV), the largest physical silver-backed ETF, closed at $59.01 on June 9, 2026, after a brutal stretch that wiped out weeks of gains. However, a critical-minerals expert who appeared on the All-In Podc",
-      "url": "https://247wallst.com/investing/2026/06/10/the-price-of-silver-just-collapsed-heres-why-the-spacex-ipo-could-be-the-start-of-a-silver-boom/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-10T17:49:08+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Silver investors absorbed a sharp drawdown over the past month. The iShares Silver Trust (NYSEARCA:SLV), the largest physical silver-backed ETF, closed at $59.01 on June 9, 2026, after a brutal stretc"
-    },
-    {
       "title": "North Carolina treasurer passes on SpaceX citing valuation concerns; favors OpenAI, Anthropic",
       "description": "North Carolina has invested heavily in AI startups OpenAI and Anthropic while avoiding a direct stake in SpaceX.",
       "url": "https://www.cnbc.com/2026/06/10/north-carolina-treasurer-passes-on-spacex-citing-valuation-concerns-favors-openai-anthropic.html",
@@ -361,46 +401,6 @@
       "published_at": "2026-06-10T16:43:41+00:00",
       "category": "India",
       "simple_explanation": "Platinum Jasmine A 2018 Trust, an investment vehicle of the Abu Dhabi Investment Authority, is offering up to 40 million shares, representing approximately 2.3% of Lenskart's outstanding equity."
-    },
-    {
-      "title": "Kalshi trading in 'perps' crosses $1 billion in volume within a week of launch",
-      "description": "A spokesperson for the company said that the product is the fastest growing in the prediction market platform's history.",
-      "url": "https://www.cnbc.com/2026/06/09/kalshi-perpetual-futures-trading-perps-crosses-1-billion-in-volume-within-a-week-of-launch.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-06-10T16:43:41+00:00",
-      "category": "Global",
-      "simple_explanation": "A spokesperson for the company said that the product is the fastest growing in the prediction market platform's history."
-    },
-    {
-      "title": "Gold Extends Pullback as Trump Threatens More Strikes on Iran",
-      "description": "(Bloomberg) -- Gold extended declines after US President Donald Trump vowed to strike Iran again, rekindling concerns that oil disruptions will lead to higher interest rates. Most Read from BloombergHouse Republican Says Hegseth’s D-Day Remarks ‘Inappropriate’Tech Stocks Sink as Oil Jumps on US-Iran",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-extends-drop-renewed-us-001602602.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-10T16:41:25+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Bloomberg) -- Gold extended declines after US President Donald Trump vowed to strike Iran again, rekindling concerns that oil disruptions will lead to higher interest rates. Most Read from BloombergH"
-    },
-    {
-      "title": "Norm-breaking SpaceX IPO a source of elation, angst on Wall Street",
-      "description": "SpaceX is poised for a historic IPO, aiming to raise $75 billion with a $1.8 trillion valuation. Despite immense investor excitement and Musk's visionary appeal, skeptics question the rocket maker's profitability, citing significant AI investments and substantial losses despite revenue growth. The I",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/norm-breaking-spacex-ipo-a-source-of-elation-angst-on-wall-street/articleshow/131640038.cms",
-      "image": "https://img.etimg.com/photo/msid-131640038,imgsize-37456.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-10T16:38:23+00:00",
-      "category": "India",
-      "simple_explanation": "SpaceX is poised for a historic IPO, aiming to raise $75 billion with a $1.8 trillion valuation. Despite immense investor excitement and Musk's visionary appeal, skeptics question the rocket maker's p"
-    },
-    {
-      "title": "OpenAI expects to go public 'within the next year,' the Information reports",
-      "description": "OpenAI CEO Sam Altman indicated an IPO within the next year, with the company having recently filed confidentially. While a timeline remains undetermined, Altman noted that rapid advancements in AI's self-improvement capabilities could influence the timing of a public offering. OpenAI is also prepar",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/openai-expects-to-go-public-within-the-next-year-the-information-reports/articleshow/131639919.cms",
-      "image": "https://img.etimg.com/photo/msid-131639919,imgsize-95548.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-10T16:26:13+00:00",
-      "category": "India",
-      "simple_explanation": "OpenAI CEO Sam Altman indicated an IPO within the next year, with the company having recently filed confidentially. While a timeline remains undetermined, Altman noted that rapid advancements in AI's "
     }
   ]
 }
