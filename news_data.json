@@ -1,386 +1,246 @@
 {
-  "last_updated": "2026-06-12T12:23:07.796438+00:00",
+  "last_updated": "2026-06-12T16:18:47.588148+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Inside Wealth: New SpaceX millionaires are reinventing the business of managing large wealth",
+      "description": "Wealth advisors say SpaceXers have unique ways of addressing their financial challenges, including whiteboarding, troubleshooting and AI.",
+      "url": "https://www.cnbc.com/2026/06/12/spacex-millionaires-wealth-management.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-12T16:18:14+00:00",
+      "category": "USA",
+      "simple_explanation": "Wealth advisors say SpaceXers have unique ways of addressing their financial challenges, including whiteboarding, troubleshooting and AI."
+    },
+    {
+      "title": "SpaceX shares gain 17% as trading begins, valuing Elon Musk's rocket company at more than $2 trillion",
+      "description": "SpaceX shares soared on Friday as trading commenced on the Nasdaq.",
+      "url": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-12T16:16:13+00:00",
+      "category": "USA",
+      "simple_explanation": "SpaceX shares soared on Friday as trading commenced on the Nasdaq."
+    },
+    {
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
+      "description": "",
+      "url": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-12T16:14:08+00:00",
+      "category": "USA",
+      "simple_explanation": ""
+    },
+    {
+      "title": "Judge blocks DOJ 'anti-weaponization' fund for longer, wants guarantee it’s dead",
+      "description": "A judge gave Acting Attorney General Todd Blanche and Treasury Secretary Scott Bessent a week to submit a sworn declaration the DOJ fund was not going forward.",
+      "url": "https://www.cnbc.com/2026/06/12/trump-doj-fund-preliminary-injunction-blanche-bessent.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-12T16:08:50+00:00",
+      "category": "USA",
+      "simple_explanation": "A judge gave Acting Attorney General Todd Blanche and Treasury Secretary Scott Bessent a week to submit a sworn declaration the DOJ fund was not going forward."
+    },
+    {
+      "title": "2 Reasons to Like TDW and 1 to Stay Skeptical",
+      "description": "Tidewater currently trades at $73.99 and has been a dream stock for shareholders. It’s returned 431% since June 2021, blowing past the S&P 500’s 70.6% gain. The company has also beaten the index over the past six months as its stock price is up 32.8%.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-tdw-1-stay-160520854.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-12T16:05:20+00:00",
+      "category": "USA",
+      "simple_explanation": "Tidewater currently trades at $73.99 and has been a dream stock for shareholders. It’s returned 431% since June 2021, blowing past the S&P 500’s 70.6% gain. The company has also beaten the index over "
+    },
+    {
+      "title": "Wall Street climbs as SpaceX shares launch, oil slides on Mideast deal hopes",
+      "description": "Wall Street pushed higher on Friday as SpaceX shares began trading following world's largest initial public offering, while oil prices slid on hopes of an agreement to end the Middle East war.US President Donald Trump said on Thursday an agreement to end the Middle East war could be signed in days a",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-oil-down-mideast-032615232.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-12T16:04:49+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Wall Street pushed higher on Friday as SpaceX shares began trading following world's largest initial public offering, while oil prices slid on hopes of an agreement to end the Middle East war.US Presi"
+    },
+    {
+      "title": "Goldman Sachs doubles down on stock market outlook for 2026",
+      "description": "The S&P 500 has climbed to near-record highs despite growing concerns about valuations, AI spending, and signs of speculative behavior across parts of the market. The S&P 500 has rallied 8% year to date, after delivering double-digit gains in 2023, 2024, and 2025. Investors have recently ...",
+      "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-doubles-down-on-stock-market-outlook-for-2026?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-12T16:03:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The S&P 500 has climbed to near-record highs despite growing concerns about valuations, AI spending, and signs of speculative behavior across parts of the market. The S&P 500 has rallied 8% year to da"
+    },
     {
       "title": "The S&P 500 already made a big call on SpaceX stock and index fund investors need to know it",
       "description": "The S&P 500 index, where trillions in retirement savings are invested, said no to the SpaceX IPO, the biggest in history. Here's what that means for portfolios.",
       "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-sp-500-index-funds-investors.html",
       "image": "",
       "source": "CNBC World",
-      "published_at": "2026-06-12T12:20:07+00:00",
+      "published_at": "2026-06-12T15:59:09+00:00",
       "category": "Global",
       "simple_explanation": "The S&P 500 index, where trillions in retirement savings are invested, said no to the SpaceX IPO, the biggest in history. Here's what that means for portfolios."
     },
     {
-      "title": "US stock market today: S&P 500, Nasdaq futures rise as US-Iran peace hopes grow; oil sinks to 2-month low",
-      "description": "US stock futures rose on 12 June, buoyed by hopes for a US-Iran peace deal. S&amp;P 500 futures gained 0.6%, while Nasdaq and Dow rose 0.7%. Market sentiment improved after Trump called off military strikes on Iran, with a potential memorandum under discussion.",
-      "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-rise-as-us-iran-peace-hopes-grow-oil-sinks-to-2-month-low-11781263045798.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/logo/NYSE-TRUMP-50_1741919261406_1781263257796_ac77448f-2dcb-4947-94c1-a6a9a3a598a9.jpg",
+      "title": "SpaceX shares rise 11% on Nasdaq debut for market cap just shy of $2 trillion",
+      "description": "The SpaceX stock opened for trading at $150 compared with the IPO price of $135 per share.",
+      "url": "https://www.livemint.com/market/stock-market-news/spacex-shares-rise-11-on-nasdaq-debut-for-market-cap-just-shy-of-2-trillion-11781279692859.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/logo/SpaceX_1781279908293_1781279908797_996afc8c-ec5a-4a26-a95e-d617a9bb008d.jpg",
       "source": "LiveMint",
-      "published_at": "2026-06-12T12:18:02+00:00",
+      "published_at": "2026-06-12T15:59:00+00:00",
       "category": "India",
-      "simple_explanation": "US stock futures rose on 12 June, buoyed by hopes for a US-Iran peace deal. S&amp;P 500 futures gained 0.6%, while Nasdaq and Dow rose 0.7%. Market sentiment improved after Trump called off military s"
+      "simple_explanation": "The SpaceX stock opened for trading at $150 compared with the IPO price of $135 per share."
     },
     {
-      "title": "Stock Market Today: Dow Rises On Iran Peace Deal Hopes; SpaceX IPO To Start Trading (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index rose Friday on U.S.-Iran peace deal hopes. The SpaceX stock IPO will start trading shortly.",
-      "url": "https://finance.yahoo.com/m/3ab863ee-d132-3549-8208-e6dd679a6a25/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+      "title": "3 Reasons to Sell BAC and 1 Stock to Buy Instead",
+      "description": "Bank of America has been treading water for the past six months, holding steady at $55.16. The stock also fell short of the S&P 500’s 6.4% gain during that period.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-bac-1-155720683.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-12T12:11:36+00:00",
+      "published_at": "2026-06-12T15:57:20+00:00",
       "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index rose Friday on U.S.-Iran peace deal hopes. The SpaceX stock IPO will start trading shortly."
+      "simple_explanation": "Bank of America has been treading water for the past six months, holding steady at $55.16. The stock also fell short of the S&P 500’s 6.4% gain during that period."
     },
     {
-      "title": "Dow Jones Futures Rise, Oil Skids On Iran Deal Hopes; SpaceX IPO Indicated Higher",
-      "description": "Futures rose and oil prices dived on Iran deal hopes, extending Thursday's big moves. The SpaceX IPO is set to begin trading.",
-      "url": "https://finance.yahoo.com/m/a36f8689-b00f-3005-9ea1-acc708b5267d/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T12:11:14+00:00",
-      "category": "USA",
-      "simple_explanation": "Futures rose and oil prices dived on Iran deal hopes, extending Thursday's big moves. The SpaceX IPO is set to begin trading."
-    },
-    {
-      "title": "Small investors scrambled to get in on the SpaceX IPO, even as some believe the valuation is 'stupid'",
-      "description": "While SpaceX's IPO has caused alarm that it may be overvalued, some retail investors still want in.",
-      "url": "https://www.cnbc.com/2026/06/12/small-investors-scrambled-to-get-in-on-the-spacex-ipo-even-as-some-believe-the-valuation-is-stupid.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-12T12:10:26+00:00",
-      "category": "USA",
-      "simple_explanation": "While SpaceX's IPO has caused alarm that it may be overvalued, some retail investors still want in."
-    },
-    {
-      "title": "SpaceX IPO LIVE updates: All eyes on Elon Musk's SpaceX IPO listing after blockbuster demand",
-      "description": "SpaceX IPO LIVE updates: The IPO pegs Elon Musk's lofty space, communications and AI company at a $1.77 trillion valuation.",
-      "url": "https://www.livemint.com/market/ipo/spacex-ipo-live-updates-spcx-share-price-elon-musk-net-worth-trillionaire-price-valuation-11781264831077.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/logo/im-76546552_1780936746235_1781265100801_5df5b62a-91ae-416d-aae6-b38f63dc8e4e.jpg",
+      "title": "SpaceX makes Nasdaq debut at $150, lists at 11% premium to IPO price; Musk becomes world's first trillionaire",
+      "description": "SpaceX made a historic Nasdaq debut on June 12, listing at $150, an 11% premium to its issue price. It became the sixth-largest public company in the US and is set to lead in AI technology, shifting focus from rocket launches to infrastructure deals.",
+      "url": "https://www.livemint.com/market/stock-market-news/spacex-makes-nasdaq-debut-at-150-lists-at-11-premium-to-ipo-price-11781266245349.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/US-SPACEX-LISTED-ON-NASDAQ-EXCHANGE-33_1781280302249_1781280323783_4fe65cfa-a3eb-4eea-884e-a269e15216f9.jpg",
       "source": "LiveMint",
-      "published_at": "2026-06-12T12:01:33+00:00",
+      "published_at": "2026-06-12T15:54:12+00:00",
       "category": "India",
-      "simple_explanation": "SpaceX IPO LIVE updates: The IPO pegs Elon Musk's lofty space, communications and AI company at a $1.77 trillion valuation."
+      "simple_explanation": "SpaceX made a historic Nasdaq debut on June 12, listing at $150, an 11% premium to its issue price. It became the sixth-largest public company in the US and is set to lead in AI technology, shifting f"
     },
     {
-      "title": "Triple Flag Announces US$440 Million Gold Stream on the Ravenswood Gold Mine and Increases 2030 Outlook",
-      "description": "TORONTO, June 12, 2026--Triple Flag Precious Metals Corp. (with its subsidiaries, \"Triple Flag\" or the \"Company\") (TSX: TFPM, NYSE: TFPM) announces that its wholly owned subsidiary, Triple Flag International Ltd., has entered into an agreement to acquire a gold stream (the \"Stream\") on the producing",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/triple-flag-announces-us-440-120100060.html?.tsrc=rss",
+      "title": "Trump Calls Off Iran Strikes with Deal in Reach: “We Should Be Getting It Done In The Next Few Days.”",
+      "description": "Bloomberg’s Balance of Power covered the story on Thursday, June 11, that President Trump announced he was calling off the planned U.S. military strikes against Iran, with a memorandum of understanding potentially being signed within days. Markets responded immediately: the S&P 500 closed up 1.8%, a",
+      "url": "https://247wallst.com/investing/2026/06/12/trump-calls-off-iran-strikes-with-deal-in-reach-we-should-be-getting-it-done-in-the-next-few-days/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-12T12:01:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "TORONTO, June 12, 2026--Triple Flag Precious Metals Corp. (with its subsidiaries, \"Triple Flag\" or the \"Company\") (TSX: TFPM, NYSE: TFPM) announces that its wholly owned subsidiary, Triple Flag Intern"
-    },
-    {
-      "title": "Dow Jones expected to lead gains on peace-deal hopes as SpaceX prepares for take-off",
-      "description": "8am: US stock futures rise Wall Street is heading for a firmer open on Friday, with futures ticking higher as investors weigh President Donald Trump’s sudden shift on Iran and turn attention to a blockbuster market debut. Dow futures are up 0.6%, while those for the S&P 500 and the...",
-      "url": "https://www.proactiveinvestors.com/companies/news/1093828/dow-jones-expected-to-lead-gains-on-peace-deal-hopes-as-spacex-prepares-for-take-off-1093828.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T12:00:00+00:00",
+      "published_at": "2026-06-12T15:50:09+00:00",
       "category": "USA",
-      "simple_explanation": "8am: US stock futures rise Wall Street is heading for a firmer open on Friday, with futures ticking higher as investors weigh President Donald Trump’s sudden shift on Iran and turn attention to a bloc"
+      "simple_explanation": "Bloomberg’s Balance of Power covered the story on Thursday, June 11, that President Trump announced he was calling off the planned U.S. military strikes against Iran, with a memorandum of understandin"
     },
     {
-      "title": "Bitcoin and ethereum prices today, Friday, June 12, 2026: Prices rebound this morning after Trump claims war has ended",
-      "description": "Bitcoin opened at $63,553.08 on Friday, June 12, 2026, up 3.4% from Thursday's opening price. Ethereum opened at $1,671.71 on Friday, up 3.2% from Thursday's opening price.",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-12-2026-prices-rebound-this-morning-after-trump-claims-war-has-ended-115949042.html?.tsrc=rss",
+      "title": "Oil Prices Dive As U.S.-Iran Deal Nears. Is It Another Friday Fakeout?",
+      "description": "Oil prices tumbled anew late Friday morning, after rebounding as President Donald Trump said that a description of the ceasefire deal published by Iranian state media \"bears no relation to the truth.\" Previously, Trump had said a 60-day U.",
+      "url": "https://finance.yahoo.com/m/7156cbeb-7126-3ff6-a3de-a1cd2a83d001/oil-prices-dive-as-u.s.-iran.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-12T11:59:49+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin opened at $63,553.08 on Friday, June 12, 2026, up 3.4% from Thursday's opening price. Ethereum opened at $1,671.71 on Friday, up 3.2% from Thursday's opening price."
-    },
-    {
-      "title": "US Equity Futures Rise Pre-Bell on Higher Optimism for Middle East Peace Deal",
-      "description": "US equity futures were higher pre-bell Friday as traders anticipated a peace deal between the US and",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-115110740.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T11:51:10+00:00",
+      "published_at": "2026-06-12T15:46:37+00:00",
       "category": "USA",
-      "simple_explanation": "US equity futures were higher pre-bell Friday as traders anticipated a peace deal between the US and"
+      "simple_explanation": "Oil prices tumbled anew late Friday morning, after rebounding as President Donald Trump said that a description of the ceasefire deal published by Iranian state media \"bears no relation to the truth.\""
     },
     {
-      "title": "Stocks Rise Pre-Bell Amid Media Reports of US-Iran Peace Deal Progress",
-      "description": "The benchmark US stock measures were pointing higher before the open Friday amid media reports that",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-amid-114357507.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T11:43:57+00:00",
-      "category": "USA",
-      "simple_explanation": "The benchmark US stock measures were pointing higher before the open Friday amid media reports that"
-    },
-    {
-      "title": "Sinking Oil Prices, Rising Peace Hopes Lift European Bourses Midday",
-      "description": "European bourses tracked solidly higher midday Friday as traders digested media reports of a possibl",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/sinking-oil-prices-rising-peace-114254715.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T11:42:54+00:00",
-      "category": "Commodities",
-      "simple_explanation": "European bourses tracked solidly higher midday Friday as traders digested media reports of a possibl"
-    },
-    {
-      "title": "Space stocks jump with huge demand as investors clamor for any way 'to get long SpaceX'",
-      "description": "Options volumes are booming in stocks with ties to SpaceX ahead of Friday's historic debut.",
-      "url": "https://www.cnbc.com/2026/06/12/space-stocks-jump-with-huge-demand-as-investors-clamor-for-any-way-to-get-long-spacex.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-12T11:41:56+00:00",
-      "category": "USA",
-      "simple_explanation": "Options volumes are booming in stocks with ties to SpaceX ahead of Friday's historic debut."
-    },
-    {
-      "title": "SpaceX IPO debuts as Iran peace deal lifts markets",
-      "description": "The rocket maker's $75 billion offering — the largest IPO in history — hits the Nasdaq as oil prices fall on reports of a U.S.-Iran agreement",
-      "url": "https://qz.com/spacex-ipo-iran-peace-deal-markets-061226?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T11:40:49+00:00",
-      "category": "USA",
-      "simple_explanation": "The rocket maker's $75 billion offering — the largest IPO in history — hits the Nasdaq as oil prices fall on reports of a U.S.-Iran agreement"
-    },
-    {
-      "title": "Down 37%, Is Nu Holdings Stock Finally a Bargain?",
-      "description": "Management is telling investors yes.",
-      "url": "https://www.fool.com/investing/2026/06/12/down-37-is-nu-holdings-stock-finally-a-bargain/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T11:35:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Management is telling investors yes."
-    },
-    {
-      "title": "Bishop Gold Group Reports Growing Demand for Exclusive Precious Metals Coins Among Investors and Collectors",
-      "description": "LOS ANGELES, CA / ACCESS Newswire / June 12, 2026 / Bishop Gold Groupis highlighting increased demand for exclusive gold and silver coin offerings that combine precious metal ownership with collectible appeal. The company reports growing interest ...",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/bishop-gold-group-reports-growing-113500633.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T11:35:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "LOS ANGELES, CA / ACCESS Newswire / June 12, 2026 / Bishop Gold Groupis highlighting increased demand for exclusive gold and silver coin offerings that combine precious metal ownership with collectibl"
-    },
-    {
-      "title": "SpaceX IPO Stock Price Live Updates: After record IPO, SpaceX shares to list on Nasdaq; Elon Musk sets sights on becoming world's first trillionaire",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-ipo-listing-stock-price-live-updates-spcx-elon-musk-valuation-trillionaire-starlink-ai-retail-dow-jones-nasdaq-sp-500-today/liveblog/131683416.cms",
-      "image": "https://img.etimg.com/photo/msid-131683416,imgsize-69532.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-12T11:34:49+00:00",
-      "category": "India",
-      "simple_explanation": ""
-    },
-    {
-      "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
-      "description": "SpaceX is selling 555.6 shares at $135 a piece, raising $75 billion in the largest IPO on record.",
-      "url": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-06-12T11:34:46+00:00",
-      "category": "Global",
-      "simple_explanation": "SpaceX is selling 555.6 shares at $135 a piece, raising $75 billion in the largest IPO on record."
-    },
-    {
-      "title": "SpaceX tokenized IPO campaign draws $557M on Binance ahead of debut",
-      "description": "Crypto markets are becoming a new venue for pre-IPO price discovery ahead of SpaceX's highly anticipated debut on June 12.",
-      "url": "https://cointelegraph.com/news/spacex-ipo-550m-binance-crypto-rails-front-run-wall-street-pre-ipo-price-discovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9qYXBhbm11c2suanBn.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-12T11:32:44+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Crypto markets are becoming a new venue for pre-IPO price discovery ahead of SpaceX's highly anticipated debut on June 12."
-    },
-    {
-      "title": "Batteries Beat the S&P 500: BATT Is Up 25% While SPY Hugs 11%",
-      "description": "The headline number you may have seen is generous. Through the close on June 10, 2026, the Amplify Lithium & Battery Technology ETF (NYSEARCA:BATT) is up about 10% year to date, while the SPDR S&P 500 ETF Trust (NYSEARCA:SPY) has returned about 6%. That is a real gap, though smaller than the 25 vers",
-      "url": "https://247wallst.com/investing/2026/06/12/batteries-beat-the-sp-500-batt-is-up-25-while-spy-hugs-11/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T11:30:02+00:00",
-      "category": "USA",
-      "simple_explanation": "The headline number you may have seen is generous. Through the close on June 10, 2026, the Amplify Lithium & Battery Technology ETF (NYSEARCA:BATT) is up about 10% year to date, while the SPDR S&P 500"
-    },
-    {
-      "title": "3 Industrials Stocks on Our Watchlist",
-      "description": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. Their momentum is also rising as lower interest rates have incentivized higher capital spending. As a result, the industry has posted a 16.4% gain over the past six months, beatin",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-watchlist-112520932.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T11:25:20+00:00",
-      "category": "USA",
-      "simple_explanation": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. Their momentum is also rising as lower interest rates have incentivized higher "
-    },
-    {
-      "title": "Silver prices today, Friday, June 12, 2026: Strong opening after Trump claims war is over",
-      "description": "Silver (SI=F) July futures opened at $67.49 per ounce on Friday, June 12, 2026, up 5.5% from Thursday's closing price. The silver price has remained steady this morning, reaching $67.11 as of 7:08 a.m. ET.",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-june-12-2026-strong-opening-after-trump-claims-war-is-over-112325306.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T11:23:25+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Silver (SI=F) July futures opened at $67.49 per ounce on Friday, June 12, 2026, up 5.5% from Thursday's closing price. The silver price has remained steady this morning, reaching $67.11 as of 7:08 a.m"
-    },
-    {
-      "title": "Bernie Sanders says Kevin O'Leary is 'completely separated from the reality that ordinary Americans are experiencing'",
-      "description": "The Vermony senator adds that the “Shark Tank” investor’s comments reveal just how disconnected the wealthy are from the rest of the world.",
-      "url": "https://finance.yahoo.com/economy/articles/bernie-sanders-says-kevin-oleary-112000591.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T11:20:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The Vermony senator adds that the “Shark Tank” investor’s comments reveal just how disconnected the wealthy are from the rest of the world."
-    },
-    {
-      "title": "Stocks rally, oil slides on Mideast deal hopes",
-      "description": "Stock markets rallied and oil tumbled Friday on hopes that a deal to end the Middle East war could be imminent.\"Investors were in a buoyant mood as hopes of a peace deal between the US and Iran were revived, having seemingly dropped off the table earlier in the week,\" said Dan Coatsworth, head of ma",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-oil-down-mideast-032615232.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T11:15:29+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Stock markets rallied and oil tumbled Friday on hopes that a deal to end the Middle East war could be imminent.\"Investors were in a buoyant mood as hopes of a peace deal between the US and Iran were r"
-    },
-    {
-      "title": "Gold prices today, Friday, June 12: Gold opens much higher after Trump claims Iran war has ended",
-      "description": "Gold August futures opened at $4,234.90 per troy ounce on Friday, June 12, 2026, up 3.4% from Thursday’s opening price. The gold price moved slightly lower this morning to $4,233.90 at 7:03 a.m. ET.",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-june-12-gold-opens-much-higher-after-trump-claims-iran-war-has-ended-110621905.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T11:06:21+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold August futures opened at $4,234.90 per troy ounce on Friday, June 12, 2026, up 3.4% from Thursday’s opening price. The gold price moved slightly lower this morning to $4,233.90 at 7:03 a.m. ET."
-    },
-    {
-      "title": "UBS cuts gold price forecasts on delayed Fed easing outlook",
-      "description": "Investing.com -- UBS has lowered its gold price forecasts by $300-900/oz, citing a \"double whammy\" of stronger US economic data and a delayed Fed easing timeline now pushed to 2027.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/ubs-cuts-gold-price-forecasts-110408709.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T11:04:08+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Investing.com -- UBS has lowered its gold price forecasts by $300-900/oz, citing a \"double whammy\" of stronger US economic data and a delayed Fed easing timeline now pushed to 2027."
-    },
-    {
-      "title": "Persian Gulf, Oil, SpaceX Lift Wall Street Pre-Bell; Asia Europe Up",
-      "description": "Wall Street futures pointed moderately higher pre-bell Friday, as traders weighed easing oil prices,",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/persian-gulf-oil-spacex-lift-110340856.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-12T11:03:40+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Wall Street futures pointed moderately higher pre-bell Friday, as traders weighed easing oil prices,"
-    },
-    {
-      "title": "SpaceX’s Gwynne Shotwell had IPO doubts for years, now she has a message for investors",
-      "description": "Gwynne Shotwell, long Elon Musk's second-in-command at SpaceX, spoke exclusively with CNBC ahead of her company's highly anticipated IPO.",
-      "url": "https://www.cnbc.com/2026/06/12/spacex-coo-gwynne-shotwell-spcx-ipo.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-12T10:59:16+00:00",
-      "category": "USA",
-      "simple_explanation": "Gwynne Shotwell, long Elon Musk's second-in-command at SpaceX, spoke exclusively with CNBC ahead of her company's highly anticipated IPO."
-    },
-    {
-      "title": "Option sellers see Nifty trading between 23,000 and 25,000 in June",
-      "description": "The odds of upside are higher as the market trades near the lower end of the range, according to analysts.",
-      "url": "https://www.livemint.com/market/stock-market-news/option-sellers-nifty-trading-june-west-asia-war-crude-oil-prices-stock-markets-11781254278517.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/logo/INDIA-SECTORS-BOFA-0_1781260839762_1781260851278_92d710ea-0a77-4887-aeeb-a5610e2955c5.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-06-12T10:57:53+00:00",
-      "category": "India",
-      "simple_explanation": "The odds of upside are higher as the market trades near the lower end of the range, according to analysts."
-    },
-    {
-      "title": "Rupee rallies as oil slump sparks unwinding of dollar longs",
-      "description": "The Indian rupee experienced a robust uptick against the dollar on Friday, sparked by newfound optimism regarding peace talks between the U.S. and Iran. This positive development resulted in a sharp decrease in oil prices, alleviating some of the pressure on India’s import expenses.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rallies-as-oil-slump-sparks-unwinding-of-dollar-longs/articleshow/131682274.cms",
-      "image": "https://img.etimg.com/photo/msid-131682274,imgsize-46830.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-12T10:56:08+00:00",
-      "category": "India",
-      "simple_explanation": "The Indian rupee experienced a robust uptick against the dollar on Friday, sparked by newfound optimism regarding peace talks between the U.S. and Iran. This positive development resulted in a sharp d"
-    },
-    {
-      "title": "Bitcoin miner 'capitulation' comes as trader sees later 2026 bear-market bottom",
-      "description": "Bitcoin miner metic sparked talk of \"capitulation\" as profit margins stayed under 5%, but the BTC price bear-market bottom remained absent.",
-      "url": "https://cointelegraph.com/markets/bitcoin-miner-capitulation-comes-as-trader-sees-later-2026-bear-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1pcy1iaXRjb2luLW1pbmluZy1zdGlsbC1wcm9maXRhYmxlLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-12T10:46:54+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin miner metic sparked talk of \"capitulation\" as profit margins stayed under 5%, but the BTC price bear-market bottom remained absent."
-    },
-    {
-      "title": "Top Gainers & Losers on June 12: MTAR Tech, Ashok Leyland, Tata Motors, Anant Raj, UCO Bank, HPCL among top gainers",
-      "description": "The Indian stock market surged on June 12, with the Nifty 50 and Sensex gaining 2% and 2.1%, respectively, amid easing tensions in the Middle East. Strong buying across sectors, particularly in auto and real estate stocks, marked the day despite some laggards.",
-      "url": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-june-12-mtar-tech-ashok-leyland-tata-motors-anant-raj-uco-bank-hpcl-among-top-gainers-11781257623677.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/2-0-1425735653-iStock-1015828796-0_1679747716041_1781257671920_01119c74-6dac-4dc2-8832-a5ecd57c47bc.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-12T10:23:35+00:00",
-      "category": "India",
-      "simple_explanation": "The Indian stock market surged on June 12, with the Nifty 50 and Sensex gaining 2% and 2.1%, respectively, amid easing tensions in the Middle East. Strong buying across sectors, particularly in auto a"
-    },
-    {
-      "title": "SpaceX IPO update: Whale opens $22.3M SPCX long as synthetic price hits 30% premium",
-      "description": "SpaceX’s IPO hype may fuel a strong debut, but history shows richly valued listings often struggle after the first-day pop fades.",
-      "url": "https://cointelegraph.com/markets/spacex-ipo-update-whale-opens-223m-spcx-long-as-synthetic-price-hits-30-premium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1waWxvdC1sYXVuY2gtd2hhdC1pdC1tZWFucy1mb3ItcGlvbmVlcnMtc3BhY2V4LmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-12T10:18:58+00:00",
-      "category": "Crypto",
-      "simple_explanation": "SpaceX’s IPO hype may fuel a strong debut, but history shows richly valued listings often struggle after the first-day pop fades."
-    },
-    {
-      "title": "Proposed Iran-U.S. deal would reopen Hormuz strait and lift oil sanctions, Iran state media says",
-      "description": "U.S. President Donald Trump said Thursday that the Strait of Hormuz would be reopened as soon as a deal is signed.",
+      "title": "Trump denies Iran's account of deal terms, decries new drone attack: 'Dishonorable people'",
+      "description": "\"They better get their act together, and FAST!\" President Donald Trump said of Iran one day after announcing that a deal would be finalized within days.",
       "url": "https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-06-12T10:18:29+00:00",
+      "published_at": "2026-06-12T15:46:06+00:00",
       "category": "USA",
-      "simple_explanation": "U.S. President Donald Trump said Thursday that the Strait of Hormuz would be reopened as soon as a deal is signed."
+      "simple_explanation": "\"They better get their act together, and FAST!\" President Donald Trump said of Iran one day after announcing that a deal would be finalized within days."
     },
     {
-      "title": "Penny stock under  ₹10 hits upper circuit for the second straight session",
-      "description": "A-1 share price rose to  ₹8.50 after securing  ₹35 crore in orders from Solar Industries and Mahadhan Agritech. Despite recent declines, the stock has shown long-term gains of 247% and remains validated by significant contracts from reputable industry players.",
-      "url": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-hits-upper-circuit-for-the-second-straight-session-11781255852156.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/logo/penny_stock_under_rs_10_1781256562159_1781256562323_79ed0346-63d6-4850-af61-1c25addcd220.png",
-      "source": "LiveMint",
-      "published_at": "2026-06-12T10:05:35+00:00",
-      "category": "India",
-      "simple_explanation": "A-1 share price rose to  ₹8.50 after securing  ₹35 crore in orders from Solar Industries and Mahadhan Agritech. Despite recent declines, the stock has shown long-term gains of 247% and remains validat"
-    },
-    {
-      "title": "Sensex zooms 1,695 points;  ₹9.71 lakh crore added to investor wealth: 10 key highlights from stock market today",
-      "description": "BSE barometer Sensex added 1695.40 points or 2.30% to end at 75,527.95. Its NSE counterpart Nifty 50 settled the day at 23,622.90, higher by 461.30 points or 1.99%.",
-      "url": "https://www.livemint.com/market/stock-market-news/sensex-zooms-1-695-points-adds-rs-9-71-lakh-crore-to-investor-wealth-10-key-highlights-from-stock-market-today-11781258325752.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/logo/The-30-share-BSE-Sensex-jumped-494-28-points---REU_1717525440809_1781258692407_f8e78129-2ade-4da0-95e8-60be1a38861b.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-12T10:05:23+00:00",
-      "category": "India",
-      "simple_explanation": "BSE barometer Sensex added 1695.40 points or 2.30% to end at 75,527.95. Its NSE counterpart Nifty 50 settled the day at 23,622.90, higher by 461.30 points or 1.99%."
-    },
-    {
-      "title": "For Warsh as Fed chair, silence may be the point",
-      "description": "Kevin Warsh will hold his first Fed meeting, giving markets the first public look at how he'll communicate as chair of the Federal Reserve.",
-      "url": "https://www.cnbc.com/2026/06/12/warsh-fed-chair-interest-rates.html",
+      "title": "Kinder Morgan Poised to Benefit From Growing Gas, Power Demand, RBC Says",
+      "description": "Kinder Morgan (KMI) is \"well-positioned\" to benefit from rising natural gas and power demand, suppor",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/kinder-morgan-poised-benefit-growing-154208004.html?.tsrc=rss",
       "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-12T10:00:01+00:00",
-      "category": "USA",
-      "simple_explanation": "Kevin Warsh will hold his first Fed meeting, giving markets the first public look at how he'll communicate as chair of the Federal Reserve."
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-12T15:42:08+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Kinder Morgan (KMI) is \"well-positioned\" to benefit from rising natural gas and power demand, suppor"
     },
     {
-      "title": "Crypto scammers exploit World Cup ticket demand, TRM warns",
-      "description": "FIFA and the FBI warned of ticket scams as TRM Labs identified World Cup-themed crypto fraud operations tied to multiple wallet addresses.",
-      "url": "https://cointelegraph.com/news/trm-world-cup-crypto-scams-fake-tickets-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1jcnlwdG8tYXQtdGhlLWZpZmEtd29ybGQtY3VwLmpwZw==.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-12T09:52:36+00:00",
-      "category": "Crypto",
-      "simple_explanation": "FIFA and the FBI warned of ticket scams as TRM Labs identified World Cup-themed crypto fraud operations tied to multiple wallet addresses."
+      "title": "The S&P 500 ETF Nobody Talks About That Could Beat VOO",
+      "description": "With earnings growth driving stock prices higher, it'd be wise to upgrade your exposure to this theme.",
+      "url": "https://www.fool.com/investing/2026/06/12/sp-500-etf-nobody-talks-about-could-beat-voo-sphq/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-12T15:35:00+00:00",
+      "category": "USA",
+      "simple_explanation": "With earnings growth driving stock prices higher, it'd be wise to upgrade your exposure to this theme."
+    },
+    {
+      "title": "SpaceX shares could make robust Nasdaq debut at 25% premium after $75 billion IPO",
+      "description": "SpaceX began trading on Nasdaq following a record-breaking IPO that valued the company at $1.75 trillion. Investors are closely watching its market debut, growth prospects in space, satellite communications and AI, and potential inclusion in the Nasdaq-100 index.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-could-make-robust-nasdaq-debut-at-25-premium-after-75-billion-ipo/articleshow/131688323.cms",
+      "image": "https://img.etimg.com/photo/msid-131688323,imgsize-135068.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-12T15:32:00+00:00",
+      "category": "India",
+      "simple_explanation": "SpaceX began trading on Nasdaq following a record-breaking IPO that valued the company at $1.75 trillion. Investors are closely watching its market debut, growth prospects in space, satellite communic"
+    },
+    {
+      "title": "Energy Refuses to Quit: XLE Up 29% YTD as Oil Stocks Wake Up",
+      "description": "If you put $10,000 into the Energy Select Sector SPDR Fund (NYSEARCA:XLE) on the last trading day of 2025 and forgot about it, you would be sitting on roughly $13,131 as of the June 8 close. The same $10,000 in the S&P 500 would be worth about $10,840. Energy, the sector everyone wrote off as ... En",
+      "url": "https://247wallst.com/investing/2026/06/12/energy-refuses-to-quit-xle-up-29-ytd-as-oil-stocks-wake-up/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-12T15:30:08+00:00",
+      "category": "Commodities",
+      "simple_explanation": "If you put $10,000 into the Energy Select Sector SPDR Fund (NYSEARCA:XLE) on the last trading day of 2025 and forgot about it, you would be sitting on roughly $13,131 as of the June 8 close. The same "
+    },
+    {
+      "title": "Stock Market Today: Dow Rises On Iran Peace Deal Hopes; SpaceX Shares To Launch (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index rose Friday on U.S.-Iran peace deal hopes. The SpaceX stock launch is due.",
+      "url": "https://finance.yahoo.com/m/3ab863ee-d132-3549-8208-e6dd679a6a25/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-12T15:20:14+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index rose Friday on U.S.-Iran peace deal hopes. The SpaceX stock launch is due."
+    },
+    {
+      "title": "Petrol prices to fall as oil drops to three-month low",
+      "description": "British petrol and diesel prices are poised to fall after a drop in oil prices.",
+      "url": "https://uk.finance.yahoo.com/news/petrol-prices-fall-oil-drops-151647915.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-12T15:16:47+00:00",
+      "category": "Commodities",
+      "simple_explanation": "British petrol and diesel prices are poised to fall after a drop in oil prices."
+    },
+    {
+      "title": "Pulse of the Street: Friday surge helps markets close volatile week in green",
+      "description": "Market participants agreed that easing geopolitical risk is positive, but remain divided on whether India can outperform in the near term.",
+      "url": "https://www.livemint.com/market/pulse-of-the-street-friday-surge-helps-markets-close-volatile-week-in-green-11781266446274.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/logo/c7b_1710486380594_1781271442906_5a8455a1-2484-41cb-bef5-685873891a43.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-12T15:11:53+00:00",
+      "category": "India",
+      "simple_explanation": "Market participants agreed that easing geopolitical risk is positive, but remain divided on whether India can outperform in the near term."
+    },
+    {
+      "title": "3 Oil Pipeline Stocks Paying You to Wait in June",
+      "description": "Energy markets have been anything but calm this spring. WTI crude swung from a 12-month low of $55.44 in December 2025 to a peak of $114.58 on April 7, 2026, before settling around $95 per barrel in early June. Henry Hub natural gas briefly spiked to $30.72/MMBtu on January 23, 2026 during a winter ",
+      "url": "https://247wallst.com/investing/2026/06/12/3-oil-pipeline-stocks-paying-you-to-wait-in-june/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-12T15:08:49+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Energy markets have been anything but calm this spring. WTI crude swung from a 12-month low of $55.44 in December 2025 to a peak of $114.58 on April 7, 2026, before settling around $95 per barrel in e"
+    },
+    {
+      "title": "All Eyes on SpaceX IPO Today",
+      "description": "All Eyes on SpaceX IPO Today.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/eyes-spacex-ipo-today-150500262.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-12T15:05:00+00:00",
+      "category": "USA",
+      "simple_explanation": "All Eyes on SpaceX IPO Today."
+    },
+    {
+      "title": "SpaceX cuts retail IPO allocation to low 20% range, source says",
+      "description": "The Elon Musk-led company plans to direct a percentage in the low 20s of the offering to retail buyers, according to a person familiar with the matter.",
+      "url": "https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-06-12T14:50:28+00:00",
+      "category": "Global",
+      "simple_explanation": "The Elon Musk-led company plans to direct a percentage in the low 20s of the offering to retail buyers, according to a person familiar with the matter."
     },
     {
       "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
@@ -388,19 +248,159 @@
       "url": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
       "image": "",
       "source": "CNBC World",
-      "published_at": "2026-06-12T09:49:53+00:00",
+      "published_at": "2026-06-12T14:46:10+00:00",
       "category": "Global",
       "simple_explanation": "With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history."
     },
     {
-      "title": "13 stocks held by 100+ MFs in May surged up to 85% in just over 5 months",
-      "description": "Stocks with strong mutual fund backing delivered sharp gains in CY26, with 13 names rising 40% to 85% in just over five months. Data show 268 stocks held by over 100 schemes, signalling broad institutional conviction and reinforcing momentum in select high-performing counters across sectors.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/13-stocks-held-by-100-mfs-in-may-surged-up-to-85-in-just-over-5-months/slideshow/131680461.cms",
-      "image": "https://img.etimg.com/photo/msid-131680292,imgsize-52680.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-12T09:32:43+00:00",
+      "title": "How to get SpaceX stock — without buying the IPO",
+      "description": "Investors will can hold SpaceX stock by virtue of owning shares in certain mutual funds and exchange-traded funds.",
+      "url": "https://www.cnbc.com/2026/06/12/how-to-buy-spacex-stock-without-buying-the-ipo.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-12T14:38:08+00:00",
+      "category": "USA",
+      "simple_explanation": "Investors will can hold SpaceX stock by virtue of owning shares in certain mutual funds and exchange-traded funds."
+    },
+    {
+      "title": "SpaceX IPO Crowds Pre-Market Sentiment",
+      "description": "Currently valued between 1.75-2.00 trillion in market capitalization, today's IPO is underwritten by Goldman Sachs (GS) and is expected to raise $75 billion.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-crowds-pre-market-143500908.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-12T14:35:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Currently valued between 1.75-2.00 trillion in market capitalization, today's IPO is underwritten by Goldman Sachs (GS) and is expected to raise $75 billion."
+    },
+    {
+      "title": "Everlert Enters Discussions for Potential Rimrock Copper-Gold Project Acquisition in Nevada (EVLI)",
+      "description": "Everlert, now operating as American Gold & Copper, is evaluating a potential acquisition of the Rimrock copper-gold project in Nevada, though negotiations remain preliminary and no agreement has been signed. Key Investor TakeawaysEverlert (USOTC:EVLI) has entered discussions regarding a potential ac",
+      "url": "https://investorshub.advfn.com/market-news/article/30353/everlert-enters-discussions-for-potential-rimrock-copper-gold-project-acquisition-in-nevada-evli?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-12T14:24:03+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Everlert, now operating as American Gold & Copper, is evaluating a potential acquisition of the Rimrock copper-gold project in Nevada, though negotiations remain preliminary and no agreement has been "
+    },
+    {
+      "title": "Wall Street stocks drift as Middle East uncertainty looms, SpaceX debut in focus",
+      "description": "As of 10:05 a.m. Eastern Time, the S&amp;P 500 rose 0.1%. The Dow Jones Industrial Average was up 0.3%, and the Nasdaq Composite was 0.3% lower.",
+      "url": "https://www.livemint.com/market/stock-market-news/wall-street-stocks-mostly-fall-as-middle-east-uncertainty-looms-spacex-debut-in-focus-11781273049144.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/US-NEW-YORK-STOCK-EXCHANGE-OPENS-THURSDAY-MORNING-_1781273208090_1781273208251_dcef5952-ca21-4567-9755-1cff94459eaa.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-12T14:21:26+00:00",
       "category": "India",
-      "simple_explanation": "Stocks with strong mutual fund backing delivered sharp gains in CY26, with 13 names rising 40% to 85% in just over five months. Data show 268 stocks held by over 100 schemes, signalling broad institut"
+      "simple_explanation": "As of 10:05 a.m. Eastern Time, the S&amp;P 500 rose 0.1%. The Dow Jones Industrial Average was up 0.3%, and the Nasdaq Composite was 0.3% lower."
+    },
+    {
+      "title": "Stocks Are Wavering. SpaceX IPO Will Be a Test for Markets.",
+      "description": "Stocks traded sideways at the open on Friday with SpaceX set to make its public debut following yesterday’s market relief rally.  The Dow rose 138 points, or 0.2%.  In the largest IPO ever with $75 billion raised, SpaceX will begin trading at some point today.",
+      "url": "https://finance.yahoo.com/m/57c71f63-6463-3133-8b3b-8e55d3c8ee1e/stocks-are-wavering.-spacex.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-12T14:18:54+00:00",
+      "category": "USA",
+      "simple_explanation": "Stocks traded sideways at the open on Friday with SpaceX set to make its public debut following yesterday’s market relief rally.  The Dow rose 138 points, or 0.2%.  In the largest IPO ever with $75 bi"
+    },
+    {
+      "title": "Small-cap stock sets board meeting date to consider fundraise through preferential shares to acquire Singapore firm",
+      "description": "Sindhu Trade Links updated its EGM notice for a preferential securities issue to acquire a Singapore firm and expand its mining operations. The EGM is set for June 18, 2026, with revised disclosures made following NSE and BSE requests. The company's shares have increased by 35.44% recently.",
+      "url": "https://www.livemint.com/market/stock-market-news/smallcap-stock-sets-board-meeting-date-to-consider-fundraise-through-preferential-shares-to-acquire-singapore-firm-11781272185274.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/logo/gc8f765372bdabe51e85046f3cc0bc0e0f951ef33ff0742196_1746438081194_1781272182924_41c33c1d-05e0-4079-8811-6466580f7263.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-12T14:17:01+00:00",
+      "category": "India",
+      "simple_explanation": "Sindhu Trade Links updated its EGM notice for a preferential securities issue to acquire a Singapore firm and expand its mining operations. The EGM is set for June 18, 2026, with revised disclosures m"
+    },
+    {
+      "title": "Sebi to review delisting framework to ease exits",
+      "description": "India's market regulator, SEBI, plans to review its delisting rules. This move aims to simplify capital market processes for businesses. SEBI has introduced several reforms recently to boost investor attraction. These include faster trade settlements and easier registration for foreign investors. Th",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-delisting-framework-to-ease-exits/articleshow/131687129.cms",
+      "image": "https://img.etimg.com/photo/msid-131687129,imgsize-56808.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-12T14:16:12+00:00",
+      "category": "India",
+      "simple_explanation": "India's market regulator, SEBI, plans to review its delisting rules. This move aims to simplify capital market processes for businesses. SEBI has introduced several reforms recently to boost investor "
+    },
+    {
+      "title": "Gold Up More Than 2.5% on U.S.-Iran Deal Hopes",
+      "description": "Gold prices extend gains in afternoon trading on hopes for a peace deal in the Middle East after President Trump called off planned strikes on Iran.  \"The drop in U.S. Treasury yields is weighing on the U.S. dollar somewhat, as rate hike expectations for the Fed have been pushed back on the hope tha",
+      "url": "https://finance.yahoo.com/m/29bf51f6-3030-3c42-ae43-19499eedda6e/gold-up-more-than-2.5%25-on.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-12T14:15:50+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold prices extend gains in afternoon trading on hopes for a peace deal in the Middle East after President Trump called off planned strikes on Iran.  \"The drop in U.S. Treasury yields is weighing on t"
+    },
+    {
+      "title": "Adobe Stock Sinks on No-Paywall Strategy, CFO Departure",
+      "description": "Adobe earnings beat Wall Street estimates, boosted by strong demand for AI products. It wasn’t enough for the stock.",
+      "url": "https://finance.yahoo.com/m/1da14cb1-e5b5-38f3-8c86-3050cdca5774/adobe-stock-sinks-on.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-12T14:14:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Adobe earnings beat Wall Street estimates, boosted by strong demand for AI products. It wasn’t enough for the stock."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9hcnRpY2xlLWNvdmVycy0xMTA1ODktd2hhdC1oYXBwZW5lZC1pbi1jcnlwdG8tdG9kYXkuanBn.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-12T14:05:58+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "US Stocks: SpaceX leveraged fund providers hit by day-one launch setback, sources say",
+      "description": "In light of recent developments, asset managers are now facing a delay on the introduction of leveraged SpaceX exchange-traded funds. The Securities and Exchange Commission has intervened to safeguard the much-anticipated IPO from any potential distractions. Major ETF firms like Direxion and ProShar",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-leveraged-fund-providers-hit-by-day-one-launch-setback-sources-say/articleshow/131686931.cms",
+      "image": "https://img.etimg.com/photo/msid-131686931,imgsize-31092.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-12T14:03:16+00:00",
+      "category": "India",
+      "simple_explanation": "In light of recent developments, asset managers are now facing a delay on the introduction of leveraged SpaceX exchange-traded funds. The Securities and Exchange Commission has intervened to safeguard"
+    },
+    {
+      "title": "Global stocks: Shell pauses $3 billion share buyback",
+      "description": "Shell has decided to put its $3 billion share repurchase program on hold from June 12 to July 14, as it navigates the implications of its acquisition of ARC Resources. During this period, shares that are not bought back will be earmarked for upcoming repurchase efforts.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-shell-pauses-3-billion-share-buyback/articleshow/131686751.cms",
+      "image": "https://img.etimg.com/photo/msid-131686751,imgsize-87352.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-12T13:59:40+00:00",
+      "category": "India",
+      "simple_explanation": "Shell has decided to put its $3 billion share repurchase program on hold from June 12 to July 14, as it navigates the implications of its acquisition of ARC Resources. During this period, shares that "
+    },
+    {
+      "title": "Sebi weighs introducing long-term futures and options contracts: Tuhin Kanta Pandey",
+      "description": "Sebi is evaluating longer-term futures and options contracts, broader commodity derivatives and bond index derivatives to deepen markets. The regulator highlighted resilient capital markets, strong domestic investor participation and a robust IPO pipeline despite global uncertainties and volatility.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-weighs-introducing-long-term-futures-and-options-contracts-tuhin-kanta-pandey/articleshow/131686672.cms",
+      "image": "https://img.etimg.com/photo/msid-131686672,imgsize-120662.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-12T13:55:03+00:00",
+      "category": "India",
+      "simple_explanation": "Sebi is evaluating longer-term futures and options contracts, broader commodity derivatives and bond index derivatives to deepen markets. The regulator highlighted resilient capital markets, strong do"
+    },
+    {
+      "title": "US stocks: S&P, Dow edge higher on Mideast deal hopes; SpaceX debut in focus",
+      "description": "Major US stock indices opened higher on Friday, driven by optimism for a Middle East peace deal. Investors also anticipated the historic market debut of Elon Musk's SpaceX, expected to be Wall Street's largest public listing ever. The Dow and S&P 500 saw gains, while the Nasdaq experienced a slight ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-dow-open-higher-on-mideast-deal-hopes-spacex-debut-in-focus/articleshow/131686201.cms",
+      "image": "https://img.etimg.com/photo/msid-131686201,imgsize-243302.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-12T13:34:00+00:00",
+      "category": "India",
+      "simple_explanation": "Major US stock indices opened higher on Friday, driven by optimism for a Middle East peace deal. Investors also anticipated the historic market debut of Elon Musk's SpaceX, expected to be Wall Street'"
+    },
+    {
+      "title": "SpaceX IPO LIVE | Elon Musk becomes world's first trillionaire as company makes historic debut",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/spacex-ipo-live-elon-musk-becomes-worlds-first-trillionaire-as-company-makes-historic-debut/videoshow/131686061.cms",
+      "image": "",
+      "source": "ET Markets",
+      "published_at": "2026-06-12T13:26:06+00:00",
+      "category": "India",
+      "simple_explanation": ""
     }
   ]
 }
