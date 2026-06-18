@@ -1,66 +1,296 @@
 {
-  "last_updated": "2026-06-18T19:28:54.292306+00:00",
+  "last_updated": "2026-06-18T22:08:58.190909+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Malta proposes DeFi rulebook covering DAOs under MiCA-era framework",
+      "description": "The Maltese regulator is seeking industry feedback on a legal framework for software-governed organizations, arguing that many DeFi projects are not fully decentralized.",
+      "url": "https://cointelegraph.com/news/malta-defi-framework-daos-software-based-organizations-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-time-to-switch-license-malta.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-18T22:04:19+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Maltese regulator is seeking industry feedback on a legal framework for software-governed organizations, arguing that many DeFi projects are not fully decentralized."
+    },
+    {
+      "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
+      "description": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.",
+      "url": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-06-18T22:03:50+00:00",
+      "category": "Global",
+      "simple_explanation": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April."
+    },
+    {
+      "title": "Bitcoin decouples from tech stocks: Is $60K BTC’s next stop?",
+      "description": "Bitcoin’s slump accelerated as capital rotated further into the AI sector, raising the odds of a BTC price drop below $60,000.",
+      "url": "https://cointelegraph.com/markets/bitcoin-decouples-from-tech-stocks-is-60k-btcs-next-stop?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-172759-crypto-mining-stocks-decline-market-recovery-deepseek-ai.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-18T21:58:25+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin’s slump accelerated as capital rotated further into the AI sector, raising the odds of a BTC price drop below $60,000."
+    },
+    {
+      "title": "VOO vs. SCHD: Which Is the Smarter Buy When Inflation Is Running Hot?",
+      "description": "The Vanguard S&P 500 ETF's heavy tech concentration could become a liability in an extended high-inflation environment.",
+      "url": "https://www.fool.com/investing/2026/06/18/voo-vs-schd-which-is-smarter-buy-inflation-hot/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T21:51:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The Vanguard S&P 500 ETF's heavy tech concentration could become a liability in an extended high-inflation environment."
+    },
+    {
+      "title": "Apple’s Unsustainable Memory Costs and the Rethinking of Micron’s Valuation",
+      "description": "Shares of the memory-chip maker notched another record high after Apple CEO Tim Cook says price hikes will be ‘unavoidable’ for the iPhone maker.",
+      "url": "https://finance.yahoo.com/m/bfd3ae6b-568f-388f-815e-4fff5bae1c46/apple%E2%80%99s-unsustainable-memory.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T21:49:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Shares of the memory-chip maker notched another record high after Apple CEO Tim Cook says price hikes will be ‘unavoidable’ for the iPhone maker."
+    },
+    {
+      "title": "Ireland mulls crypto safeguards in response to financial risks",
+      "description": "For the first time in seven years, the Irish government released an assessment related to digital assets, noting risks from money laundering, terrorism financing, sanctions violations and bribery.",
+      "url": "https://cointelegraph.com/news/ireland-government-standards-crypto-risk-assessment?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-time-to-switch-license-ireland.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-18T21:48:41+00:00",
+      "category": "Crypto",
+      "simple_explanation": "For the first time in seven years, the Irish government released an assessment related to digital assets, noting risks from money laundering, terrorism financing, sanctions violations and bribery."
+    },
+    {
+      "title": "Stocks With 50 Years of Dividend Hikes",
+      "description": "The Dividend Kings include more than 50 stocks with steadily rising payouts. They’re hard to beat for dividend safety.",
+      "url": "https://finance.yahoo.com/m/9582c799-f7f8-31a0-84de-9f6643a54cb4/stocks-with-50-years-of.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T21:45:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dividend Kings include more than 50 stocks with steadily rising payouts. They’re hard to beat for dividend safety."
+    },
+    {
+      "title": "International Recap, June 18: Hawkish Central Bank Signals Pressure FTSE 100, While Risk-On Mood Lifts Nikkei 225",
+      "description": "Oil's retreat and Middle East de-escalation set the tone for global equities, today, June 18, 2026.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/18/international-recap-june-18-hawkish-central-bank-signals-pressure-ftse-100-while-risk-on-mood-lifts-nikkei-225/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T21:43:12+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil's retreat and Middle East de-escalation set the tone for global equities, today, June 18, 2026."
+    },
+    {
+      "title": "US regulators push user ID requirements for stablecoin issuers akin to regulated banks",
+      "description": "The proposed rules by US government agencies suggested that stablecoin issuers be subject to customer identification program requirements under the Bank Secrecy Act, the same as regulated financial firms.",
+      "url": "https://cointelegraph.com/news/us-agencies-user-identification-stablecoin-issuers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/regulation-stablecoin-lot-of-papers.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-18T21:42:13+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The proposed rules by US government agencies suggested that stablecoin issuers be subject to customer identification program requirements under the Bank Secrecy Act, the same as regulated financial fi"
+    },
     {
       "title": "Trump administration temporarily cuts student loan interest rates for borrowers on autopay",
       "description": "The Trump administration announced it will offer federal student loan borrowers who sign up for autopay a larger interest rate discount.",
       "url": "https://www.cnbc.com/2026/06/18/trump-student-loan-autopay-interest-rate-discount.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-06-18T19:24:28+00:00",
+      "published_at": "2026-06-18T21:42:07+00:00",
       "category": "USA",
       "simple_explanation": "The Trump administration announced it will offer federal student loan borrowers who sign up for autopay a larger interest rate discount."
     },
     {
-      "title": "Select Water Solutions and RPC Shares Are Falling, What You Need To Know",
-      "description": "A number of stocks fell in the afternoon session after the U.S. and Iran signed an interim agreement that would waive sanctions on Tehran's oil and reopen the Strait of Hormuz.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/select-water-solutions-rpc-shares-191728857.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-18T19:17:28+00:00",
-      "category": "Commodities",
-      "simple_explanation": "A number of stocks fell in the afternoon session after the U.S. and Iran signed an interim agreement that would waive sanctions on Tehran's oil and reopen the Strait of Hormuz."
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-18T21:42:05+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Buyers Push Micron Stock To Nose-Bleed Levels As Earnings Approach; Darden, FedEx Results Also On Tap",
-      "description": "Micron stock, a huge winner in 2025, continues to probe all-time highs amid a \"supercycle\" for memory and storage stocks thanks to AI demand.",
-      "url": "https://finance.yahoo.com/m/4902f77b-a791-329f-8aae-a93117553e7b/buyers-push-micron-stock-to.html?.tsrc=rss",
+      "title": "Dow Jones Futures: Nvidia Leads 5 Chips Near Buy Points; SpaceX Stock Needs This",
+      "description": "The stock market rose in a wild week, led by AI. Nvidia leads five chips near buy points. SpaceX stock needs this.",
+      "url": "https://finance.yahoo.com/m/aa0411a1-2ba1-3057-bff9-1381bd5225f7/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-18T19:12:03+00:00",
+      "published_at": "2026-06-18T21:42:03+00:00",
       "category": "USA",
-      "simple_explanation": "Micron stock, a huge winner in 2025, continues to probe all-time highs amid a \"supercycle\" for memory and storage stocks thanks to AI demand."
+      "simple_explanation": "The stock market rose in a wild week, led by AI. Nvidia leads five chips near buy points. SpaceX stock needs this."
     },
     {
-      "title": "Western Digital, FormFactor, and Vishay Intertechnology Shares Skyrocket, What You Need To Know",
-      "description": "A number of stocks jumped in the afternoon session after President Trump announced Apple had agreed to design and manufacture chips with Intel in the United States, a foundry validation the market had been waiting on for over a year.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-formfactor-vishay-intertechnology-190928550.html?.tsrc=rss",
+      "title": "SpaceX Just Suffered Its First-Ever Losing Streak",
+      "description": "FEATURE   SpaceX stock fell for a second straight day in a volatile Thursday session. Wednesday was the first time—ever—in the company’s short history of being publicly traded, and now it’s suffered its first-ever losing streak.",
+      "url": "https://finance.yahoo.com/m/f90426ea-5909-3c8d-b3eb-6821fb331653/spacex-just-suffered-its.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-18T19:09:28+00:00",
-      "category": "Commodities",
-      "simple_explanation": "A number of stocks jumped in the afternoon session after President Trump announced Apple had agreed to design and manufacture chips with Intel in the United States, a foundry validation the market had"
+      "published_at": "2026-06-18T21:38:00+00:00",
+      "category": "USA",
+      "simple_explanation": "FEATURE   SpaceX stock fell for a second straight day in a volatile Thursday session. Wednesday was the first time—ever—in the company’s short history of being publicly traded, and now it’s suffered i"
     },
     {
-      "title": "U.S. Stocks Poised to Close Week on Strong Note",
-      "description": "U.S. stocks rebounded and gasoline prices continued to fall after the U.S. and Iran signed their interim pact to wind down the war.",
-      "url": "https://www.wsj.com/finance/stocks/treasurys-stock-futures-rebound-on-u-s-iran-agreement-fed-reaction-512ef8ce?.tsrc=rss",
+      "title": "Annual General Meeting Statement",
+      "description": "Annual General Meeting Statement Serabi Gold plc (“Serabi” or the “Company”) (AIM:SRB, TSX:SBI, OTCQX:SRBIF), the Brazilian focused gold mining and development company, advises that a 3:00PM today (UK time), it held its Annual General Meeting. The following is the text of the statement made by Mr. M",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/annual-general-meeting-statement-213500358.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-18T19:06:00+00:00",
+      "published_at": "2026-06-18T21:35:00+00:00",
       "category": "Commodities",
-      "simple_explanation": "U.S. stocks rebounded and gasoline prices continued to fall after the U.S. and Iran signed their interim pact to wind down the war."
+      "simple_explanation": "Annual General Meeting Statement Serabi Gold plc (“Serabi” or the “Company”) (AIM:SRB, TSX:SBI, OTCQX:SRBIF), the Brazilian focused gold mining and development company, advises that a 3:00PM today (UK"
     },
     {
-      "title": "The average SpaceX buyer post-IPO is almost under water after two-day slide",
-      "description": "Shares of SpaceX fell as much as 7% Thursday to $178, leaving the stock trading roughly in line with its volume-weighted average price of just under $180.",
-      "url": "https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html",
+      "title": "Exxon Stock Plunges On U.S.-Iran Deal. Why It's Still Worth A Look.",
+      "description": "Institutional investors are likely Exxon buyers, says Invest With Rules' Scott Bennett. Here's why.",
+      "url": "https://finance.yahoo.com/m/ba7b611c-daf3-34ca-a396-687d87ec1e65/exxon-stock-plunges-on.html?.tsrc=rss",
       "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-06-18T19:00:23+00:00",
-      "category": "Global",
-      "simple_explanation": "Shares of SpaceX fell as much as 7% Thursday to $178, leaving the stock trading roughly in line with its volume-weighted average price of just under $180."
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T21:32:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Institutional investors are likely Exxon buyers, says Invest With Rules' Scott Bennett. Here's why."
+    },
+    {
+      "title": "Alamos Gold Down 2.9% After Hours as It Lowers Q2 Guidance for Its Young-Davidson Mine",
+      "description": "Alamos Gold (AGI.TO, AGI) was down 2.9% in after-hours New York trading after the company on Thursda",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/alamos-gold-down-2-9-213134571.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T21:31:34+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Alamos Gold (AGI.TO, AGI) was down 2.9% in after-hours New York trading after the company on Thursda"
+    },
+    {
+      "title": "Alaska holds billions of barrels, but few bidders",
+      "description": "(By Oil & Gas 360) – Alaska may hold some of the largest undeveloped oil and natural gas resources in […]",
+      "url": "https://finance.yahoo.com/energy/articles/alaska-holds-billions-barrels-few-213035892.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T21:30:35+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(By Oil & Gas 360) – Alaska may hold some of the largest undeveloped oil and natural gas resources in […]"
+    },
+    {
+      "title": "JPMorgan's Latest Forecasts Are Bullish for Gold: Buy the Dip",
+      "description": "The underlying outlook for gold remains excellent, even as near-term pressures could persist.",
+      "url": "https://www.fool.com/investing/2026/06/18/jpmorgan-forecast-bullish-for-gold-buy-dip/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T21:26:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The underlying outlook for gold remains excellent, even as near-term pressures could persist."
+    },
+    {
+      "title": "Stock Market Today, June 18: AMC Rallies After Record May Attendance Drives Trading Momentum",
+      "description": "Today, June 18, 2026, moviegoers packed theaters in numbers not seen since 2019, fueling renewed optimism for AMC's summer outlook.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/18/stock-market-today-june-18-amc-rallies-after-record-may-attendance-drives-trading-momentum/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T21:24:14+00:00",
+      "category": "USA",
+      "simple_explanation": "Today, June 18, 2026, moviegoers packed theaters in numbers not seen since 2019, fueling renewed optimism for AMC's summer outlook."
+    },
+    {
+      "title": "Stock Market Today: Nasdaq, Russell 2000 Pace Rebound; SpaceX Slumps 24% Off Its Peak",
+      "description": "Stock Market Today; The Dow Jones index rises Thursday as the U.S. and Iran sign a peace deal. Moderna breaks out past a buy point.",
+      "url": "https://finance.yahoo.com/m/7d9d2b46-4a95-3f5e-8492-d6e8307ce329/stock-market-today%3A-nasdaq%2C.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T21:19:52+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today; The Dow Jones index rises Thursday as the U.S. and Iran sign a peace deal. Moderna breaks out past a buy point."
+    },
+    {
+      "title": "SpaceX Shares Are Hot. This Looming Event Could Derail Them.",
+      "description": "The aftermath of SpaceX’s public offering saw the shows soar, in part because of demand outstripping supply. But that could soon end as a staggered release of lockups makes more shares available.",
+      "url": "https://finance.yahoo.com/m/d11aae23-96b2-3dd3-8482-abfc24f738fd/spacex-shares-are-hot.-this.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T21:07:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The aftermath of SpaceX’s public offering saw the shows soar, in part because of demand outstripping supply. But that could soon end as a staggered release of lockups makes more shares available."
+    },
+    {
+      "title": "Stock Market Forecast For Next Six Months: Why More Gains May Lie Ahead",
+      "description": "Thanks to AI fervor, equities have climbed despite headwinds from the Mideast conflict. Analysts detail the climate for stocks in the rest of 2026, including IPOs, small caps and more.",
+      "url": "https://finance.yahoo.com/m/5a2d3ac7-c29d-3e25-bb02-65fa234a18af/stock-market-forecast-for.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T21:02:51+00:00",
+      "category": "USA",
+      "simple_explanation": "Thanks to AI fervor, equities have climbed despite headwinds from the Mideast conflict. Analysts detail the climate for stocks in the rest of 2026, including IPOs, small caps and more."
+    },
+    {
+      "title": "Custodia, Vantage propose token that toggles between bank deposits and stablecoins",
+      "description": "The proposed system aims to connect traditional banking infrastructure with blockchain-based payment networks with banks retaining customer deposits.",
+      "url": "https://cointelegraph.com/news/custodia-vantage-unveil-token-that-shifts-between-bank-deposits-and-stablecoins?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-people-start-trust-crypto-in-period-of-crisis-stablecoin-wells-fargo.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-18T21:02:29+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The proposed system aims to connect traditional banking infrastructure with blockchain-based payment networks with banks retaining customer deposits."
+    },
+    {
+      "title": "Update: Equities Rise, Oil Little Changed as Focus Shifts to Further US-Iran Talks",
+      "description": "(Updates with market moves at the end of the day.) US benchmark equity indexes closed higher Thur",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-oil-little-changed-205550234.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T20:55:50+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with market moves at the end of the day.) US benchmark equity indexes closed higher Thur"
+    },
+    {
+      "title": "US stocks resume upward climb as dollar advances again after Fed outlook",
+      "description": "Wall Street stocks bounced Thursday, pivoting back to buying mode after the pullback in the prior session prompted by a Federal Reserve policy outlook that signaled possible rate hikes ahead.Major US indices had fallen about one percent or more on Wednesday after newly installed Fed Chair Kevin Wars",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-sink-further-trump-072715804.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T20:38:15+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Wall Street stocks bounced Thursday, pivoting back to buying mode after the pullback in the prior session prompted by a Federal Reserve policy outlook that signaled possible rate hikes ahead.Major US "
+    },
+    {
+      "title": "Hyperscale Data Announces \"At-the-Market\" Offering of Common Stock",
+      "description": "Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (\"AI\") data center company anchored by Bitcoin (\"Hyperscale Data\" or the \"Company\"), announced today that it has established an \"at-the-market\" equity offering program (the \"Offering\") under which it may sell, from time to time,",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hyperscale-data-announces-market-offering-203000999.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T20:30:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (\"AI\") data center company anchored by Bitcoin (\"Hyperscale Data\" or the \"Company\"), announced today that it has established an "
+    },
+    {
+      "title": "Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears",
+      "description": "(Bloomberg) -- Bitcoin extended its slide back toward the $60,000 level. The decline is driven by mounting concerns over the unraveling of Strategy Inc.’s funding mechanism, alongside rate-hike fears that are dampening demand for riskier assets. Most Read from BloombergRead the 14-Point Draft Memora",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-back-toward-60-174630587.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T20:26:05+00:00",
+      "category": "Crypto",
+      "simple_explanation": "(Bloomberg) -- Bitcoin extended its slide back toward the $60,000 level. The decline is driven by mounting concerns over the unraveling of Strategy Inc.’s funding mechanism, alongside rate-hike fears "
+    },
+    {
+      "title": "U.S. Global Investors Declares Continued Monthly Dividend as Oil Drops Below the 50-Day Moving Average, a Positive Signal for Tactical Investors and Traders",
+      "description": "JETS has gained altitude as oil prices fall U.S. Global Investors San Antonio, TX, June 18, 2026 (GLOBE NEWSWIRE) -- U.S. Global Investors, Inc. (NASDAQ: GROW) (“the Company”), a registered investment advisory firm[1] with expertise in gold mining stocks and the airline industry, is pleased to annou",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-global-investors-declares-continued-202500610.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T20:25:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "JETS has gained altitude as oil prices fall U.S. Global Investors San Antonio, TX, June 18, 2026 (GLOBE NEWSWIRE) -- U.S. Global Investors, Inc. (NASDAQ: GROW) (“the Company”), a registered investment"
+    },
+    {
+      "title": "TSX Closer: Index Edges Lower as Energy, Metals Stocks, Decline; TD Sees BoC on Hold Through Year-End",
+      "description": "The Toronto Stock Exchange edged lower on Thursday as weakness in commodity-linked sectors, includin",
+      "url": "https://finance.yahoo.com/economy/policy/articles/tsx-closer-index-edges-lower-202206152.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-18T20:22:06+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The Toronto Stock Exchange edged lower on Thursday as weakness in commodity-linked sectors, includin"
     },
     {
       "title": "Vance says U.S. isn’t giving Iran ‘a cent’ as he defends Trump peace deal",
@@ -68,69 +298,59 @@
       "url": "https://www.cnbc.com/2026/06/18/vance-iran-war-memo-oil-gas.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-06-18T18:58:38+00:00",
+      "published_at": "2026-06-18T20:14:38+00:00",
       "category": "USA",
       "simple_explanation": "\"The only way the Iranians get any of these resources ... is if they comply fully\" with the terms of the deal, Vice President JD Vance said."
     },
     {
-      "title": "Which Is the Better International ETF, Vanguard's VEA Targeting Developed Markets or Schwab's Emerging Markets-Focused SCHE?",
-      "description": "Sector allocations and market focus set these two international ETFs apart for investors seeking global exposure. Compare their strategies and risk profiles.",
-      "url": "https://www.fool.com/coverage/etfs/2026/06/18/which-is-the-better-international-etf-vanguard-s-vea-targeting-developed-markets-or-schwab-s-emerging-markets-focused-sche/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-18T18:58:01+00:00",
-      "category": "USA",
-      "simple_explanation": "Sector allocations and market focus set these two international ETFs apart for investors seeking global exposure. Compare their strategies and risk profiles."
-    },
-    {
-      "title": "Allegro MicroSystems, Lam Research, and Applied Materials Shares Are Soaring, What You Need To Know",
-      "description": "A number of stocks jumped in the afternoon session after President Trump announced Apple had agreed to design and manufacture chips with Intel in the United States, a foundry validation the market had been waiting on for over a year.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-lam-research-applied-185328725.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-18T18:53:28+00:00",
-      "category": "Commodities",
-      "simple_explanation": "A number of stocks jumped in the afternoon session after President Trump announced Apple had agreed to design and manufacture chips with Intel in the United States, a foundry validation the market had"
-    },
-    {
-      "title": "Trump DNI pick Pulte poised to get access to U.S. intelligence despite congressional bid to thwart",
-      "description": "With President Donald Trump halting his nomination of  U.S. Attorney Jay Clayton as director of national intelligence, Bill Pulte is set to take on the role.",
-      "url": "https://www.cnbc.com/2026/06/18/pulte-trump-dni-us-intelligence-congress.html",
+      "title": "The average SpaceX buyer post-IPO is almost under water after two-day slide",
+      "description": "Shares of SpaceX fell as much as 7% Thursday to $178, leaving the stock trading roughly in line with its volume-weighted average price of just under $180.",
+      "url": "https://www.cnbc.com/2026/06/18/the-average-spacex-buyer-post-ipo-is-almost-under-water-after-two-day-slide.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-06-18T18:49:36+00:00",
+      "published_at": "2026-06-18T20:10:47+00:00",
       "category": "USA",
-      "simple_explanation": "With President Donald Trump halting his nomination of  U.S. Attorney Jay Clayton as director of national intelligence, Bill Pulte is set to take on the role."
+      "simple_explanation": "Shares of SpaceX fell as much as 7% Thursday to $178, leaving the stock trading roughly in line with its volume-weighted average price of just under $180."
     },
     {
-      "title": "Tax-Exempt Muni Income or Corporate Bond Yield? SMB vs. VCSH",
-      "description": "The VanEck Short Muni ETF (SMB) and the Vanguard Short-Term Corporate Bond ETF (VCSH) both appeal to short-term bond investors, but the higher yield is not the only number that matters as taxes and account type can also affect the comparison.",
-      "url": "https://www.fool.com/coverage/etfs/2026/06/18/vanguard-short-term-corporate-bond-etf-vs-vaneck-short-muni-etf-yield/?.tsrc=rss",
+      "title": "Gold Declines as Hawkish Fed Outweighs Relief from US-Iran Deal",
+      "description": "(Bloomberg) -- Gold slipped as the Federal Reserve’s hawkish stance outweighed an interim peace deal between the US and Iran that eased inflation risks. Most Read from BloombergRead the 14-Point Draft Memorandum Between the US and IranModi Warns of ‘Shortage of Trust’ Ahead of Trump MeetingTrump Blo",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-jumps-peace-deal-optimism-012451156.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-18T18:48:58+00:00",
-      "category": "USA",
-      "simple_explanation": "The VanEck Short Muni ETF (SMB) and the Vanguard Short-Term Corporate Bond ETF (VCSH) both appeal to short-term bond investors, but the higher yield is not the only number that matters as taxes and ac"
-    },
-    {
-      "title": "Entegris, Monolithic Power Systems, and Photronics Shares Are Soaring, What You Need To Know",
-      "description": "A number of stocks jumped in the afternoon session after President Trump announced Apple had agreed to design and manufacture chips with Intel in the United States, a foundry validation the market had been waiting on for over a year.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/entegris-monolithic-power-systems-photronics-184528441.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-18T18:45:28+00:00",
+      "published_at": "2026-06-18T20:08:00+00:00",
       "category": "Commodities",
-      "simple_explanation": "A number of stocks jumped in the afternoon session after President Trump announced Apple had agreed to design and manufacture chips with Intel in the United States, a foundry validation the market had"
+      "simple_explanation": "(Bloomberg) -- Gold slipped as the Federal Reserve’s hawkish stance outweighed an interim peace deal between the US and Iran that eased inflation risks. Most Read from BloombergRead the 14-Point Draft"
     },
     {
-      "title": "Stock Market Today: Nasdaq Rebounds On U.S.-Iran Deal; SpaceX Stretches Loss (Live Coverage)",
-      "description": "Stock Market Today; The Dow Jones index rises Thursday following reports of a signed U.S.-Iran peace deal. Moderna breaks out past a buy point.",
-      "url": "https://finance.yahoo.com/m/7d9d2b46-4a95-3f5e-8492-d6e8307ce329/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "title": "US stocks: US market's indexes advance with boost from chips, Iran optimism",
+      "description": "U.S. stock indexes rose Thursday, led by semiconductor shares and easing inflation fears, despite anticipated Federal Reserve interest rate hikes. Intel surged to a record high after President Trump announced a deal for U.S.-based chip design and manufacturing. Oil prices slid as the U.S. and Iran e",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-markets-indexes-advance-with-boost-from-chips-iran-optimism/articleshow/131841695.cms",
+      "image": "https://img.etimg.com/photo/msid-131841695,imgsize-41938.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-18T20:02:02+00:00",
+      "category": "India",
+      "simple_explanation": "U.S. stock indexes rose Thursday, led by semiconductor shares and easing inflation fears, despite anticipated Federal Reserve interest rate hikes. Intel surged to a record high after President Trump a"
+    },
+    {
+      "title": "Gold will pivot back to an inflation hedge, investor says",
+      "description": "STORY: Morris said that while many commodity prices will likely rise this year due to strong demand, the price of gold - which hit multiple record highs last year - has slipped. \"But I do think the longer we go into this year without headline inflation coming down meaningfully, the more holding some",
+      "url": "https://finance.yahoo.com/video/gold-pivot-back-inflation-hedge-195802161.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-18T18:44:37+00:00",
+      "published_at": "2026-06-18T19:58:02+00:00",
+      "category": "Commodities",
+      "simple_explanation": "STORY: Morris said that while many commodity prices will likely rise this year due to strong demand, the price of gold - which hit multiple record highs last year - has slipped. \"But I do think the lo"
+    },
+    {
+      "title": "Amazon investigating engineers who criticized AI data center expansion",
+      "description": "Five Amazon employees testified at Seattle City Council meetings where officials sought feedback on a year-long data center new construction pause.",
+      "url": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-18T19:47:59+00:00",
       "category": "USA",
-      "simple_explanation": "Stock Market Today; The Dow Jones index rises Thursday following reports of a signed U.S.-Iran peace deal. Moderna breaks out past a buy point."
+      "simple_explanation": "Five Amazon employees testified at Seattle City Council meetings where officials sought feedback on a year-long data center new construction pause."
     },
     {
       "title": "U.S. Navy ends blockade of Iran's ports and coastal areas",
@@ -138,59 +358,9 @@
       "url": "https://www.cnbc.com/2026/06/18/us-navy-blockade-iran-trump-oil.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-06-18T18:41:17+00:00",
+      "published_at": "2026-06-18T19:29:26+00:00",
       "category": "USA",
       "simple_explanation": "The Navy on Thursday lifted its blockade of Iran's ports and coastal areas at the direction of President Donald Trump."
-    },
-    {
-      "title": "Kulicke and Soffa, Microchip Technology, and Teradyne Shares Are Soaring, What You Need To Know",
-      "description": "A number of stocks jumped in the afternoon session after President Trump announced Apple had agreed to design and manufacture chips with Intel in the United States, a foundry validation the market had been waiting on for over a year.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kulicke-soffa-microchip-technology-teradyne-183728248.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-18T18:37:28+00:00",
-      "category": "Commodities",
-      "simple_explanation": "A number of stocks jumped in the afternoon session after President Trump announced Apple had agreed to design and manufacture chips with Intel in the United States, a foundry validation the market had"
-    },
-    {
-      "title": "Update: Gold Falls, Dollar Rises as Half of Fed Members Expect a Rate Increase in 2026",
-      "description": "(Updates price move in second paragraph.) Gold was lower in late-day trading Thursday as the doll",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-dollar-rises-half-183040779.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-18T18:30:40+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Updates price move in second paragraph.) Gold was lower in late-day trading Thursday as the doll"
-    },
-    {
-      "title": "Update: US Equity Indexes March Higher Ahead of Iran Reopening Hormuz Chokepoint",
-      "description": "(Updates with index/price moves and political news from the first paragraph.) US equity indexes r",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-march-higher-182523108.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-18T18:25:23+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with index/price moves and political news from the first paragraph.) US equity indexes r"
-    },
-    {
-      "title": "Highway 50 Begins 5,000-Metre Drill Campaign at Gold Knob, Nevada",
-      "description": "Vancouver, British Columbia--(Newsfile Corp. - June 18, 2026) - Highway 50 Gold Corp. (TSXV: HWY) (\"Highway 50\" or the \"Company\") is pleased to announce the commencement of a 10 to 15-hole drill program at its 100% owned Gold Knob Au project, located in north-central Nevada. The 5,000-metre Phase I ",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/highway-50-begins-5-000-182000237.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-18T18:20:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - June 18, 2026) - Highway 50 Gold Corp. (TSXV: HWY) (\"Highway 50\" or the \"Company\") is pleased to announce the commencement of a 10 to 15-hole drill progr"
-    },
-    {
-      "title": "Why Marvell Technology (MRVL) Stock Is Up Today",
-      "description": "Shares of networking chips designer Marvell Technology (NASDAQ: MRVL) jumped 12.7% in the afternoon session after the company highlighted several positive developments, including plans to use TSMC's next-generation 1.4-nanometer chip technology, a major shipment milestone, and its upcoming inclusion",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-mrvl-stock-181328181.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-18T18:13:28+00:00",
-      "category": "USA",
-      "simple_explanation": "Shares of networking chips designer Marvell Technology (NASDAQ: MRVL) jumped 12.7% in the afternoon session after the company highlighted several positive developments, including plans to use TSMC's n"
     },
     {
       "title": "Markets are set for a much more hawkish Warsh Fed than expected",
@@ -201,76 +371,6 @@
       "published_at": "2026-06-18T18:04:41+00:00",
       "category": "USA",
       "simple_explanation": "Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets."
-    },
-    {
-      "title": "Stock Market Rises Ahead Of Juneteenth Holiday Break",
-      "description": "Wall Street closes on Friday to commemorate the Juneteenth Holiday. The stock market climbed this week ahead of the break.",
-      "url": "https://finance.yahoo.com/m/9097a67b-1400-3d05-aeb3-00560c4abe3d/stock-market-rises-ahead-of.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-18T18:02:30+00:00",
-      "category": "USA",
-      "simple_explanation": "Wall Street closes on Friday to commemorate the Juneteenth Holiday. The stock market climbed this week ahead of the break."
-    },
-    {
-      "title": "Update: Equities Rise Intraday, Oil Falls as US, Iran Sign Peace Deal",
-      "description": "(Updates with latest market prices and developments.) US benchmark equity indexes were higher int",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-oil-falls-180150067.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-18T18:01:50+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with latest market prices and developments.) US benchmark equity indexes were higher int"
-    },
-    {
-      "title": "HIVE secures $220M AI infrastructure contract with Bell and Cohere",
-      "description": "The deal is expected to add approximately $70 million in annual recurring revenue as the company scales its AI-focused operations.",
-      "url": "https://cointelegraph.com/news/hive-secures-220m-ai-infrastructure-contract-with-bell-and-cohere?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-18T17:54:57+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The deal is expected to add approximately $70 million in annual recurring revenue as the company scales its AI-focused operations."
-    },
-    {
-      "title": "Sector Update: Energy Stocks Fall Thursday Afternoon",
-      "description": "Energy stocks were lower Thursday afternoon, with the NYSE Energy Sector Index falling 1.9% and the",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-thursday-174504048.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-18T17:45:04+00:00",
-      "category": "USA",
-      "simple_explanation": "Energy stocks were lower Thursday afternoon, with the NYSE Energy Sector Index falling 1.9% and the"
-    },
-    {
-      "title": "CME Group sues CFTC over crypto perpetual futures",
-      "description": "The lawsuit targets the federal regulator and Chair Michael Selig, alleging that the Commodity Futures Trading Commissioin is treating cryptocurrency “futures” as “swaps,” posing risks to derivatives markets.",
-      "url": "https://cointelegraph.com/news/cme-group-cftc-lawsuit-perpetual-futures-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cftc-may-be-facing-its-toughest-challenge-to-date-in-court.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-18T17:42:09+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The lawsuit targets the federal regulator and Chair Michael Selig, alleging that the Commodity Futures Trading Commissioin is treating cryptocurrency “futures” as “swaps,” posing risks to derivatives "
-    },
-    {
-      "title": "S&P 500 Bounces Back; Dow Largely Sits This One Out",
-      "description": "Tech stocks are rallying hard on Thursday. Two major catalysts explain their divergence from the Dow.",
-      "url": "https://www.fool.com/investing/2026/06/18/sp-500-bounces-back-dow-largely-sits-this-one-out/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-18T17:38:26+00:00",
-      "category": "USA",
-      "simple_explanation": "Tech stocks are rallying hard on Thursday. Two major catalysts explain their divergence from the Dow."
-    },
-    {
-      "title": "Stock Market Today, June 18: Intel Surges As Market Gains on U.S.-Iran Agreement",
-      "description": "On June 18, 2026, investors welcomed U.S.-Iran progress, helping indexes overcome yesterday's rate hike fears.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/18/stock-market-today-june-18-intel-surges-as-market-gains-on-u-s-iran-agreement/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-18T17:38:20+00:00",
-      "category": "Commodities",
-      "simple_explanation": "On June 18, 2026, investors welcomed U.S.-Iran progress, helping indexes overcome yesterday's rate hike fears."
     },
     {
       "title": "SpaceX bankers prepare for bond sale of at least $20 billion",
@@ -301,106 +401,6 @@
       "published_at": "2026-06-18T17:27:12+00:00",
       "category": "India",
       "simple_explanation": "SpaceX shares declined for a second consecutive session on Thursday, falling as much as 10% during intraday trading after losing nearly 5% a day earlier"
-    },
-    {
-      "title": "Trump bid to fire Fed's Lisa Cook cost her more than $1M in legal, security costs: Filing",
-      "description": "A financial disclosure from Federal Reserve Governor Lisa Cook details large legal and security expenses",
-      "url": "https://www.cnbc.com/2026/06/18/trump-federal-reserve-lisa-cook-security-filing.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-18T17:24:11+00:00",
-      "category": "USA",
-      "simple_explanation": "A financial disclosure from Federal Reserve Governor Lisa Cook details large legal and security expenses"
-    },
-    {
-      "title": "Gold, silver rates today: Comex gold and silver retreat as US Fed officials signal possible rate hike",
-      "description": "Gold and silver prices dropped as the US Fed signalled a potential interest-rate hike, overshadowing falling oil prices. Gold futures fell $140, while silver tumbled nearly $5.",
-      "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-and-silver-retreat-as-us-fed-officials-signal-possible-rate-hike-11781796649508.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/18/1600x900/logo/2-0-1446757421-RTX3SM5B-0_1679738599550_1781796693262_9124593a-b646-428f-ad2a-155960f78ce2.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-18T17:01:55+00:00",
-      "category": "India",
-      "simple_explanation": "Gold and silver prices dropped as the US Fed signalled a potential interest-rate hike, overshadowing falling oil prices. Gold futures fell $140, while silver tumbled nearly $5."
-    },
-    {
-      "title": "Bitcoin miners need billions to fund AI ambitions, led by IREN’s $21B gap",
-      "description": "IREN leads public Bitcoin miners with a projected $21.1 billion AI infrastructure funding gap, underscoring the capital-intensive nature of converting mining sites into data centers.",
-      "url": "https://cointelegraph.com/news/bitcoin-miners-50b-ai-pivot-iren-21b-funding-gap?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-237133-is-bitcoin-mining-still-profitable-btc-miners-winter-and-the-ai-lifeline.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-18T16:56:58+00:00",
-      "category": "Crypto",
-      "simple_explanation": "IREN leads public Bitcoin miners with a projected $21.1 billion AI infrastructure funding gap, underscoring the capital-intensive nature of converting mining sites into data centers."
-    },
-    {
-      "title": "Brent crude oil price touches pre-Iran war lows after ceasefire deal",
-      "description": "Oil prices have fallen significantly. This is due to a preliminary agreement between the United States and Iran. The deal aims to reopen the Strait of Hormuz and lift sanctions. This is expected to boost global oil supply. Analysts anticipate a gradual recovery in oil flows. Some experts believe pri",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-oil-price-touches-pre-iran-war-lows-after-ceasefire-deal/articleshow/131836933.cms",
-      "image": "https://img.etimg.com/photo/msid-131836933,imgsize-815066.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-18T16:56:11+00:00",
-      "category": "India",
-      "simple_explanation": "Oil prices have fallen significantly. This is due to a preliminary agreement between the United States and Iran. The deal aims to reopen the Strait of Hormuz and lift sanctions. This is expected to bo"
-    },
-    {
-      "title": "Bernie Sanders pushes 50%t public stake in AI giants, $1,000 dividend payout to every American",
-      "description": "Senator Bernie Sanders has introduced legislation proposing a 50% public ownership stake in major US AI companies through a one-time stock tax. This plan aims to redistribute the industry's wealth, with an estimated $7 trillion fund potentially distributing over $1,000 annually to every American.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bernie-sanders-pushes-50-percent-public-stake-in-ai-giants/articleshow/131836774.cms",
-      "image": "https://img.etimg.com/photo/msid-131836774,imgsize-128062.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-18T16:43:44+00:00",
-      "category": "India",
-      "simple_explanation": "Senator Bernie Sanders has introduced legislation proposing a 50% public ownership stake in major US AI companies through a one-time stock tax. This plan aims to redistribute the industry's wealth, wi"
-    },
-    {
-      "title": "Goldgroup Mining Starts a 24,000-Meter Drilling Program at the San Francisco Gold Project in Mexico",
-      "description": "Goldgroup Mining (GGA.V) on Thursday said it launched a 24,000-meter drilling program at its San Fra",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/goldgroup-mining-starts-24-000-161122739.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-18T16:11:22+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Goldgroup Mining (GGA.V) on Thursday said it launched a 24,000-meter drilling program at its San Fra"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
-      "description": "Indian equities ended higher for a fifth straight session, recovering early losses despite hawkish Federal Reserve comments. Banking stocks led gains, while broader markets stayed positive. Analysts remain optimistic on Nifty's trend but caution that near-term consolidation may follow the recent ral",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/131835621.cms",
-      "image": "https://img.etimg.com/photo/msid-131835621,imgsize-54790.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-18T15:55:03+00:00",
-      "category": "India",
-      "simple_explanation": "Indian equities ended higher for a fifth straight session, recovering early losses despite hawkish Federal Reserve comments. Banking stocks led gains, while broader markets stayed positive. Analysts r"
-    },
-    {
-      "title": "Sebi eyes margin trading overhaul, tighter broker capital rules",
-      "description": "The proposals include lifting the minimum net-worth floor to  ₹5 crore, rejecting lower cash collateral margins, and introducing a 30-day window to manage restricted stocks.",
-      "url": "https://www.livemint.com/market/sebi-mtf-rules-margin-trading-facility-11781793877186.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/18/1600x900/logo/INDIA-SEBI-0_1760105208232_1760105217336_1781796213409_93b0d318-e878-4e44-8736-20ba475a185f.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-18T15:30:28+00:00",
-      "category": "India",
-      "simple_explanation": "The proposals include lifting the minimum net-worth floor to  ₹5 crore, rejecting lower cash collateral margins, and introducing a 30-day window to manage restricted stocks."
-    },
-    {
-      "title": "RBI to conduct Rs 1 lakh cr 3-day VRR auction on Jun 19",
-      "description": "The Reserve Bank of India will conduct a Rs 1 lakh crore variable rate repo auction on June 19. This move aims to manage liquidity in the banking system. The auction will help keep overnight money market rates stable. This follows recent liquidity infusions by the central bank. The RBI is actively m",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-conduct-rs-1-lakh-cr-3-day-vrr-auction-on-jun-19/articleshow/131835243.cms",
-      "image": "https://img.etimg.com/photo/msid-131835243,imgsize-105576.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-18T15:25:24+00:00",
-      "category": "India",
-      "simple_explanation": "The Reserve Bank of India will conduct a Rs 1 lakh crore variable rate repo auction on June 19. This move aims to manage liquidity in the banking system. The auction will help keep overnight money mar"
-    },
-    {
-      "title": "Accenture shares plunge 19% on weak revenue forecast; 2026 stock rout deepens to 50%",
-      "description": "Accenture's shares have dropped 64% since February 2026, impacted by concerns over AI's effects on IT services. A recent 19% plunge followed disappointing revenue forecasts. The company now expects lower revenue growth, despite reporting better-than-expected earnings per share.",
-      "url": "https://www.livemint.com/market/stock-market-news/accenture-shares-plunge-19-on-weak-revenue-forecast-2026-stock-rout-deepens-to-50-11781792425972.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/18/1600x900/logo/Accenture_50000_promotions_salary_hikes_employees_1747896978527_1781793847375_0b5423ff-e046-484f-a128-263a6d9f92da.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-06-18T15:15:27+00:00",
-      "category": "India",
-      "simple_explanation": "Accenture's shares have dropped 64% since February 2026, impacted by concerns over AI's effects on IT services. A recent 19% plunge followed disappointing revenue forecasts. The company now expects lo"
     }
   ]
 }
