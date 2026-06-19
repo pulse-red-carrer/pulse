@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-06-19T19:59:26.364684+00:00",
+  "last_updated": "2026-06-19T21:16:27.347995+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Dow Jones Futures Fall; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
+      "description": "Dow Jones futures fell slightly Friday, along with S&P 500 futures and Nasdaq futures. The stock market rebounded this past week, though the gains were concentrated in chips and AI-related plays, along with biotechs.",
+      "url": "https://finance.yahoo.com/m/aa0411a1-2ba1-3057-bff9-1381bd5225f7/dow-jones-futures-fall%3B.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-19T21:00:05+00:00",
+      "category": "USA",
+      "simple_explanation": "Dow Jones futures fell slightly Friday, along with S&P 500 futures and Nasdaq futures. The stock market rebounded this past week, though the gains were concentrated in chips and AI-related plays, alon"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-19T21:00:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "$13B Bitcoin options expiry looms: Will bulls endure more pain in June?",
+      "description": "Bitcoin bears hold the upper hand in the upcoming Bitcoin options expiry, a potentially early warning that more BTC downside could unfold.",
+      "url": "https://cointelegraph.com/markets/13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-207673-death-cross-emerges-in-bitcoin-options-market-as-whales-bet-on-btc-dropping-belo.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-19T20:57:49+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin bears hold the upper hand in the upcoming Bitcoin options expiry, a potentially early warning that more BTC downside could unfold."
+    },
+    {
+      "title": "TSX Closer: Index Falls as Gold Prices Slide, Investors Assess Retail Sales Data",
+      "description": "The Toronto Stock Exchange dropped on Friday as investors weighed fresh economic data pointing to re",
+      "url": "https://finance.yahoo.com/economy/policy/articles/tsx-closer-index-falls-gold-202427051.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-19T20:24:27+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The Toronto Stock Exchange dropped on Friday as investors weighed fresh economic data pointing to re"
+    },
+    {
+      "title": "Stocks Stall as Iran Nuclear Talks Hit Early Snag: Markets Wrap",
+      "description": "(Bloomberg) -- Global stocks are ending a strong week on a cautious note as relief over an interim peace deal between the US and Iran gave way to a focus on the challenges of securing a lasting agreement.Most Read from BloombergRead the 14-Point Draft Memorandum Between the US and IranUS-Iran Nuclea",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-slide-focus-shifts-iran-080450531.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-19T20:09:15+00:00",
+      "category": "USA",
+      "simple_explanation": "(Bloomberg) -- Global stocks are ending a strong week on a cautious note as relief over an interim peace deal between the US and Iran gave way to a focus on the challenges of securing a lasting agreem"
+    },
+    {
+      "title": "WhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline",
+      "description": "The Austrian authorization gives WhiteBIT access to the EU's unified crypto framework, which will require exchanges to hold MiCA licenses or stop serving clients after July 1.",
+      "url": "https://cointelegraph.com/news/whitebit-secures-mica-license-austria-gains-access-eu-crypto-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-should-expect-from-regulators-in-france.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-19T20:07:27+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Austrian authorization gives WhiteBIT access to the EU's unified crypto framework, which will require exchanges to hold MiCA licenses or stop serving clients after July 1."
+    },
+    {
+      "title": "Charles Schwab Planning to Roll Out S&P 500 Prediction Markets With Cboe: WSJ",
+      "description": "Global financial institution Charles Schwab is the latest firm hoping to steal a piece of the growing prediction market pie.",
+      "url": "https://decrypt.co/371708/charles-schwab-planning-sp-500-prediction-markets-cboe?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-19T20:02:32+00:00",
+      "category": "USA",
+      "simple_explanation": "Global financial institution Charles Schwab is the latest firm hoping to steal a piece of the growing prediction market pie."
+    },
     {
       "title": "DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund",
       "description": "The DOJ in May announced it was creating the fund as part of a settlement of President Donald Trump's $10 billion lawsuit against the Internal Revenue Service.",
@@ -41,16 +111,6 @@
       "published_at": "2026-06-19T19:08:42+00:00",
       "category": "Commodities",
       "simple_explanation": "(Bloomberg) -- Gold dropped, heading for a third weekly loss as traders weighed delays in negotiations over a permanent Middle East peace deal and the outlook for US interest rates. Most Read from Blo"
-    },
-    {
-      "title": "Stocks Stall as Iran Nuclear Talks Hit Early Snag: Markets Wrap",
-      "description": "(Bloomberg) -- Global stocks are ending a strong week on a cautious note as relief over an interim peace deal between the US and Iran gave way to a focus on the challenges of securing a lasting agreement.Most Read from BloombergRead the 14-Point Draft Memorandum Between the US and IranUS-Iran Nuclea",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-slide-focus-shifts-iran-080450531.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-19T18:49:20+00:00",
-      "category": "USA",
-      "simple_explanation": "(Bloomberg) -- Global stocks are ending a strong week on a cautious note as relief over an interim peace deal between the US and Iran gave way to a focus on the challenges of securing a lasting agreem"
     },
     {
       "title": "Republican lawmaker proposes prediction markets insider trading ban, not including White House officials",
@@ -113,16 +173,6 @@
       "simple_explanation": "BSE Index Services launched India’s first Saatvik Index, the BSE Saatvik 100, focusing on ethical investing. Derived from the BSE 500 Index, it offers investors a chance to align investments with valu"
     },
     {
-      "title": "Dow Jones Futures Fall With U.S. Markets Shut; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
-      "description": "Dow Jones futures fell slightly Friday, along with S&P 500 futures and Nasdaq futures. U.S. stock markets were closed for the Juneteenth holiday. The stock market rebounded this past week, though the gains were concentrated in chips and AI-related plays, along with biotechs.",
-      "url": "https://finance.yahoo.com/m/aa0411a1-2ba1-3057-bff9-1381bd5225f7/dow-jones-futures-fall-with.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-19T17:12:18+00:00",
-      "category": "USA",
-      "simple_explanation": "Dow Jones futures fell slightly Friday, along with S&P 500 futures and Nasdaq futures. U.S. stock markets were closed for the Juneteenth holiday. The stock market rebounded this past week, though the "
-    },
-    {
       "title": "Crypto Biz: Is AI the exit strategy for miners?",
       "description": "Bitcoin miners double down on AI, tokenized RWAs top $43 billion, Ripple strengthens its African payments network and Sam Bankman-Fried loses his appeal.",
       "url": "https://cointelegraph.com/news/crypto-biz-ai-exit-strategy-bitcoin-miners?utm_source=rss&utm_medium=rss&utm_campaign=rss",
@@ -141,16 +191,6 @@
       "published_at": "2026-06-19T17:02:34+00:00",
       "category": "USA",
       "simple_explanation": "Robinhood AI Trading Boom Drives Millions in Daily Activity"
-    },
-    {
-      "title": "1 S&P 500 Stock to Keep an Eye On and 2 That Underwhelm",
-      "description": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some are struggling with slowing growth, declining margins, or increased competition.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-keep-170058671.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-19T17:00:58+00:00",
-      "category": "USA",
-      "simple_explanation": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some a"
     },
     {
       "title": "Jio Platforms IPO: From AI ambitions to broadband expansion, 10 things to know from DRHP",
@@ -263,16 +303,6 @@
       "simple_explanation": "Oil was broadly steady following multiple reports that Israel had agreed to a ceasefire with the Iranian-backed Hezbollah militia in Lebanon, potentially unlocking U.S.-Iran peace talks."
     },
     {
-      "title": "Andrew Tate loses nearly $86,000 longing and shorting Bitcoin",
-      "description": "Andrew Tate’s Hyperliquid wallet shows over $803,800 in all-time perps losses after repeated crypto WLFI liquidations.",
-      "url": "https://cointelegraph.com/markets/andrew-tate-loses-nearly-86000-longing-and-shorting-bitcoin?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/dollardambawaterfallmoneyfiat-bitcoin.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-19T15:05:10+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Andrew Tate’s Hyperliquid wallet shows over $803,800 in all-time perps losses after repeated crypto WLFI liquidations."
-    },
-    {
       "title": "Gold, silver rates today: Comex gold and silver fall for second day as US Fed rate hike bets boost dollar",
       "description": "Precious metals declined for a second session as US interest rate hike expectations boosted the dollar. Gold fell $107 per ounce, and silver dropped nearly $3, marking continued weekly losses. Geopolitical tensions and delayed US-Iran negotiations further impacted market sentiment.",
       "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-and-silver-fall-for-second-day-as-us-fed-rate-hike-bets-boost-dollar-11781873058321.html",
@@ -281,36 +311,6 @@
       "published_at": "2026-06-19T15:01:42+00:00",
       "category": "India",
       "simple_explanation": "Precious metals declined for a second session as US interest rate hike expectations boosted the dollar. Gold fell $107 per ounce, and silver dropped nearly $3, marking continued weekly losses. Geopoli"
-    },
-    {
-      "title": "Is EZCORP, Inc. (EZPW) A Good Stock To Buy Now?",
-      "description": "Is EZPW a good stock to buy? We came across a bullish thesis on EZCORP, Inc. on InfoArb Sheets’s Substack. In this article, we will summarize the bulls’ thesis on EZPW. EZCORP, Inc.’s share was trading at $31.72 as of June 18th. EZPW’s trailing and forward P/E were 17.15 and 14.49 respectively accor",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ezcorp-inc-ezpw-good-stock-150059680.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-19T15:00:59+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Is EZPW a good stock to buy? We came across a bullish thesis on EZCORP, Inc. on InfoArb Sheets’s Substack. In this article, we will summarize the bulls’ thesis on EZPW. EZCORP, Inc.’s share was tradin"
-    },
-    {
-      "title": "Aave survived $8.45B in withdrawals, but risk questions remain",
-      "description": "Aave handled $8.45 billion in withdrawals without freezing funds, but the episode raised fresh questions about hidden risks in DeFi lending.",
-      "url": "https://cointelegraph.com/learn/aave-defi-bank-run-lending-risk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/aave-survived-845b-in-withdrawals-but-the-risk-debate-is-not-over.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-19T15:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Aave handled $8.45 billion in withdrawals without freezing funds, but the episode raised fresh questions about hidden risks in DeFi lending."
-    },
-    {
-      "title": "Bitcoin taps $63K on Juneteenth as July Fed rate-hike odds near 40%",
-      "description": "Bitcoin price action avoided volatility but failed to bounce from local lows after a hawkish Fed meeting and posturing over Strait of Hormuz control from Iran.",
-      "url": "https://cointelegraph.com/markets/bitcoin-taps-63k-on-juneteenth-as-july-fed-rate-hike-odds-near-40?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-crypto-desk-graph-chart-fed.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-19T14:31:40+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin price action avoided volatility but failed to bounce from local lows after a hawkish Fed meeting and posturing over Strait of Hormuz control from Iran."
     },
     {
       "title": "Buy, Hold, or Sell: Strategy Inc. Resumed Its Bitcoin Buying Spree, but Will Warsh’s First Fed Meeting and Severe Tech Compression Crush MSTR Stock to $65?",
@@ -331,6 +331,16 @@
       "published_at": "2026-06-19T14:17:10+00:00",
       "category": "India",
       "simple_explanation": "India’s stock market has witnessed a significant transformation as DIIs usurp the dominance of FIIs. With record inflows from disciplined SIPs, this shift heralds a new era in investment dynamics, pow"
+    },
+    {
+      "title": "Is Conagra Brands Stock Underperforming the Dow?",
+      "description": "As Conagra Brands has lagged behind the Dow over the past year, analysts remain cautious about the stock’s prospects.",
+      "url": "https://www.barchart.com/story/news/2556438/is-conagra-brands-stock-underperforming-the-dow?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-19T14:05:36+00:00",
+      "category": "USA",
+      "simple_explanation": "As Conagra Brands has lagged behind the Dow over the past year, analysts remain cautious about the stock’s prospects."
     },
     {
       "title": "Pulse of the Street: Nifty ends higher despite Friday sell-off; IT, monsoon risks weigh",
@@ -391,16 +401,6 @@
       "published_at": "2026-06-19T12:40:00+00:00",
       "category": "India",
       "simple_explanation": "Charlie Munger’s quote on swimming against market “tides” highlights his belief that investors should not try to predict markets but instead focus on improving judgement and discipline. His philosophy"
-    },
-    {
-      "title": "Jio IPO filed: 10 crucial things investors must know about Ambani's $3 billion plan",
-      "description": "Jio Platforms has filed its DRHP with Sebi for a massive IPO comprising a fresh issue of up to 27 crore shares. The offering aims to reduce debt, fund growth and unlock value for shareholders, while marking a milestone for India's largest telecom and digital services platform.",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-filed-10-crucial-things-investors-must-know-about-ambanis-3-billion-plan/articleshow/131859325.cms",
-      "image": "https://img.etimg.com/photo/msid-131859325,imgsize-50446.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-19T12:34:01+00:00",
-      "category": "India",
-      "simple_explanation": "Jio Platforms has filed its DRHP with Sebi for a massive IPO comprising a fresh issue of up to 27 crore shares. The offering aims to reduce debt, fund growth and unlock value for shareholders, while m"
     }
   ]
 }
