@@ -1,26 +1,306 @@
 {
-  "last_updated": "2026-06-23T17:56:02.332171+00:00",
+  "last_updated": "2026-06-23T20:08:38.432241+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "XXIX Expands Opemiska Footprint with Pluto Property Option",
+      "description": "Highlights:Pluto adds early-stage copper-gold-silver exploration exposure near Opemiska without changing XXIX's core focus on Opemiska and Thierry.XXIX views the broader Opemiska district as highly prospective for copper-gold mineralization, with Pluto adding new exploration targets that could benef",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/xxix-expands-opemiska-footprint-pluto-200000917.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T20:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Highlights:Pluto adds early-stage copper-gold-silver exploration exposure near Opemiska without changing XXIX's core focus on Opemiska and Thierry.XXIX views the broader Opemiska district as highly pr"
+    },
+    {
+      "title": "Senate backs Iran war powers resolution as GOP pressure grows on Trump's deal to end war",
+      "description": "Senate Republicans want more details on Trump’s Iran deal as questions swirl around sanctions relief, nuclear restrictions and congressional approval.",
+      "url": "https://www.cnbc.com/2026/06/23/thune-congress-vote-trump-iran-deal.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-23T19:58:28+00:00",
+      "category": "USA",
+      "simple_explanation": "Senate Republicans want more details on Trump’s Iran deal as questions swirl around sanctions relief, nuclear restrictions and congressional approval."
+    },
+    {
+      "title": "Sector Update: Energy Stocks Rise Late Afternoon",
+      "description": "Energy stocks rose late Tuesday afternoon with the NYSE Energy Sector Index increasing 0.3% and the",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-195304673.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T19:53:04+00:00",
+      "category": "USA",
+      "simple_explanation": "Energy stocks rose late Tuesday afternoon with the NYSE Energy Sector Index increasing 0.3% and the"
+    },
+    {
+      "title": "Crypto isn't the problem with the US economy, says senator",
+      "description": "Louisiana Senator John Kennedy largely dismissed what he called the “promotion” of cryptocurrency by the Digital Chamber CEO Cody Carbone in a Senate hearing on affordability.",
+      "url": "https://cointelegraph.com/news/digital-chamber-overlooked-senate-affordability-hearing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hinew-us-government-crypto2-2.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-23T19:49:59+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Louisiana Senator John Kennedy largely dismissed what he called the “promotion” of cryptocurrency by the Digital Chamber CEO Cody Carbone in a Senate hearing on affordability."
+    },
+    {
+      "title": "Morgan Stanley flags a game-changing AI shift for SanDisk investors",
+      "description": "I have been watching the memory chip cycle long enough to know that when Morgan Stanley's Joseph Moore, a 5-star analyst ranked 139 out of 12,314 Wall Street analysts, says something is a \"fundamental repricing,\" it is worth stopping to understand exactly what he means. The note Moore shared ...",
+      "url": "https://www.thestreet.com/investing/stocks/sndk-sandisk-morgan-stanley-maintains-overweight-ai-demand-drives-nand-fundamental-repricing?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T19:47:00+00:00",
+      "category": "USA",
+      "simple_explanation": "I have been watching the memory chip cycle long enough to know that when Morgan Stanley's Joseph Moore, a 5-star analyst ranked 139 out of 12,314 Wall Street analysts, says something is a \"fundamental"
+    },
+    {
+      "title": "Meta is building a prediction markets app. These stocks are falling in response",
+      "description": "The report said that CEO Mark Zuckerberg directed staff to develop a prediction markets platform, internally known as \"Arena.\"",
+      "url": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-06-23T19:43:48+00:00",
+      "category": "Global",
+      "simple_explanation": "The report said that CEO Mark Zuckerberg directed staff to develop a prediction markets platform, internally known as \"Arena.\""
+    },
+    {
+      "title": "Update: US Equity Indexes Mixed Amid Hard Sell-Off in Chipmakers",
+      "description": "(Updates with index/price moves, macroeconomic data, and analysts' comments from the first paragraph",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-amid-193753694.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T19:37:53+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with index/price moves, macroeconomic data, and analysts' comments from the first paragraph"
+    },
+    {
+      "title": "SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk",
+      "description": "About 40 million SpaceX shares are sold short, roughly 5% to 7% of the shares that are publicly available to trade, according to an estimate by S3 Partners.",
+      "url": "https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-06-23T19:33:07+00:00",
+      "category": "Global",
+      "simple_explanation": "About 40 million SpaceX shares are sold short, roughly 5% to 7% of the shares that are publicly available to trade, according to an estimate by S3 Partners."
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Gets Hit Hard; Defensive Names Lead After Rotation (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index is flat Tuesday. Micron and Nvidia drop and FedEx falls ahead of earnings.",
+      "url": "https://finance.yahoo.com/m/3510202e-147f-3825-9cd7-6eef1801d532/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T19:31:13+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index is flat Tuesday. Micron and Nvidia drop and FedEx falls ahead of earnings."
+    },
+    {
+      "title": "3 Stocks to Buy for Decades of Passive Income While They're Down",
+      "description": "Looking for dividend stocks to hold forever? These consumer giants are trading at rare discounts.",
+      "url": "https://www.fool.com/investing/2026/06/23/3-stocks-to-buy-for-decades-of-passive-income-whil/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T19:31:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Looking for dividend stocks to hold forever? These consumer giants are trading at rare discounts."
+    },
+    {
+      "title": "Wall Street is getting trampled by an AI sell-off. South Korean market plunges 10%",
+      "description": "Volatility has returned to the stock market, and AI is once again the culprit.",
+      "url": "https://www.cnn.com/2026/06/23/business/stock-market-kospi-dow-nasdaq-ai?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T19:29:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Volatility has returned to the stock market, and AI is once again the culprit."
+    },
+    {
+      "title": "US stocks plunge in global tech rout",
+      "description": "Stock markets have slumped on Wall Street as a global tech rout gathers pace.",
+      "url": "https://uk.finance.yahoo.com/news/us-stocks-plunge-global-tech-192559651.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T19:25:59+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock markets have slumped on Wall Street as a global tech rout gathers pace."
+    },
+    {
+      "title": "Update: WTI Oil Falls to a Near Four-Month Low as Tankers Begin to Move Through the Strait of Hormuz",
+      "description": "(Updates oil prices in the second paragraph and details the evacuation plan for the Strait of Hormuz",
+      "url": "https://finance.yahoo.com/energy/articles/wti-oil-falls-near-four-191757259.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T19:17:57+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Updates oil prices in the second paragraph and details the evacuation plan for the Strait of Hormuz"
+    },
+    {
+      "title": "SpaceX raises $25 billion in debt sale less than two weeks after IPO",
+      "description": "SpaceX raised $25 billion in a debt sale, after seeing nearly $90 billion worth of orders, sources say.",
+      "url": "https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-23T19:12:59+00:00",
+      "category": "USA",
+      "simple_explanation": "SpaceX raised $25 billion in a debt sale, after seeing nearly $90 billion worth of orders, sources say."
+    },
+    {
+      "title": "Multi-year Bitcoin holder selling falls to 19-month low as halving model flags new market bottom date",
+      "description": "OG Bitcoin holders' spending dropped to a 19-month low, as market cycle indicators point to September as a potential market bottom.",
+      "url": "https://cointelegraph.com/markets/og-bitcoin-selling-hits-19-month-low-as-halving-model-flags-new-bottom-date-analyst?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-206755-bitcoin-dip-making-perfect-bottom-says-analyst-will-btc-rally-to-148k.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-23T19:09:26+00:00",
+      "category": "Crypto",
+      "simple_explanation": "OG Bitcoin holders' spending dropped to a 19-month low, as market cycle indicators point to September as a potential market bottom."
+    },
     {
       "title": "Strait of Hormuz evacuation plan to begin for ships stranded in Persian Gulf, maritime organization says",
       "description": "More than 11,000 seafarers stuck in the Persian Gulf will begin to exit through the Hormuz Strait in a large-scale evacuation plan backed by Iran and the U.S.",
       "url": "https://www.cnbc.com/2026/06/23/strait-hormuz-persian-gulf-ship-tanker-evacuation.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-06-23T17:47:47+00:00",
+      "published_at": "2026-06-23T19:04:12+00:00",
       "category": "USA",
       "simple_explanation": "More than 11,000 seafarers stuck in the Persian Gulf will begin to exit through the Hormuz Strait in a large-scale evacuation plan backed by Iran and the U.S."
     },
     {
-      "title": "Meta is building a prediction markets app, the New York Times says. These stocks are falling in response",
-      "description": "The report said that CEO Mark Zuckerberg directed staff to develop a prediction market platform, internally known as \"Arena.\"",
-      "url": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
+      "title": "Petrobras, Pemex Join Forces To Target Mexico's Untapped Oil Reserves",
+      "description": "Petrobras and Pemex signed a non-binding agreement covering Gulf exploration, refining, natural gas, petrochemicals and other energy areas.",
+      "url": "https://finance.yahoo.com/energy/articles/petrobras-pemex-join-forces-target-190327007.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T19:03:27+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Petrobras and Pemex signed a non-binding agreement covering Gulf exploration, refining, natural gas, petrochemicals and other energy areas."
+    },
+    {
+      "title": "Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect",
+      "description": "Voters are heading to the polls in New York, with four competitive races in Democratic congressional primaries in focus.",
+      "url": "https://www.cnbc.com/2026/06/23/prediction-market-traders-expectations-for-the-ny-primaries.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-06-23T18:56:13+00:00",
+      "category": "Global",
+      "simple_explanation": "Voters are heading to the polls in New York, with four competitive races in Democratic congressional primaries in focus."
+    },
+    {
+      "title": "Tesla Stock’s Good News on Sales Overwhelmed by the Bad",
+      "description": "Tesla stock slipped as the National Highway Traffic Safety Administration said it would examine a fatal crash.",
+      "url": "https://finance.yahoo.com/m/59cce4c6-bded-3d26-8da0-11c8bb0be4ae/tesla-stock%E2%80%99s-good-news-on.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T18:46:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Tesla stock slipped as the National Highway Traffic Safety Administration said it would examine a fatal crash."
+    },
+    {
+      "title": "Nasdaq Riding Most Volatile Stretch Since 2024",
+      "description": "The Nasdaq Composite hasn't had a stretch this volatile in nearly two years.  If the Nasdaq moves more than 1% today, it would mark its longest such stretch of two-way volatility since Aug. 8, 2024, according to Dow Jones Market Data.  \"Any time we see elevated two-way volatility like this, it sugge",
+      "url": "https://finance.yahoo.com/m/b6f9ede7-15d1-3201-93e4-37715d8b4027/nasdaq-riding-most-volatile.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T18:43:36+00:00",
+      "category": "USA",
+      "simple_explanation": "The Nasdaq Composite hasn't had a stretch this volatile in nearly two years.  If the Nasdaq moves more than 1% today, it would mark its longest such stretch of two-way volatility since Aug. 8, 2024, a"
+    },
+    {
+      "title": "Wall Street Tuesday: Dow Green, Nasdaq Bleeding, SpaceX Wild",
+      "description": "The Nasdaq fell hard on Tuesday. One stock's wild reversal kept it from falling harder. Yep, you probably guessed the name already.",
+      "url": "https://www.fool.com/investing/2026/06/23/on-tuesday-dow-green-nasdaq-bleeds-spacex-wild/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T18:33:57+00:00",
+      "category": "USA",
+      "simple_explanation": "The Nasdaq fell hard on Tuesday. One stock's wild reversal kept it from falling harder. Yep, you probably guessed the name already."
+    },
+    {
+      "title": "PGA Tour CEO Brian Rolapp unveils sweeping changes to professional golf",
+      "description": "Changes to the PGA Tour are designed to elevate competition and raise payouts for winners.",
+      "url": "https://www.cnbc.com/2026/06/23/pga-tour-changes.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-06-23T17:45:56+00:00",
+      "published_at": "2026-06-23T18:31:27+00:00",
       "category": "USA",
-      "simple_explanation": "The report said that CEO Mark Zuckerberg directed staff to develop a prediction market platform, internally known as \"Arena.\""
+      "simple_explanation": "Changes to the PGA Tour are designed to elevate competition and raise payouts for winners."
+    },
+    {
+      "title": "Why Wall Street's Summer Slump Will Be Short-Lived",
+      "description": "Markets are currently digesting massive first half gains. That said, several market indicators suggest that the volatility and selling will be temporary.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-wall-streets-summer-slump-183100135.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T18:31:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Markets are currently digesting massive first half gains. That said, several market indicators suggest that the volatility and selling will be temporary."
+    },
+    {
+      "title": "Inside Kevin Warsh's selection process for the next Atlanta Fed president",
+      "description": "Choosing a new head for the Federal Reserve Bank of Atlanta is an opportunity for new Fed Chairman Kevin Warsh to reshape the central bank.",
+      "url": "https://www.cnbc.com/2026/06/23/fed-warsh-atlanta-michael-faulkender.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-23T18:25:44+00:00",
+      "category": "USA",
+      "simple_explanation": "Choosing a new head for the Federal Reserve Bank of Atlanta is an opportunity for new Fed Chairman Kevin Warsh to reshape the central bank."
+    },
+    {
+      "title": "Gold, Silver, Bitcoin, or Dividend Stocks: What's the Best Safe-Haven Option Right Now?",
+      "description": "If you're worried about the S&P 500's high-tech exposure and its record levels, now may be a good time to consider safer investments.",
+      "url": "https://www.fool.com/investing/2026/06/23/gold-silver-bitcoin-or-dividend-stocks-whats-the-b/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T18:20:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "If you're worried about the S&P 500's high-tech exposure and its record levels, now may be a good time to consider safer investments."
+    },
+    {
+      "title": "Zcash miner Fortitude gets Nasdaq listing via HeartSciences merger",
+      "description": "The all-stock deal gives Fortitude a Nasdaq listing while HeartSciences retains its healthcare business and existing shareholders keep a minority stake.",
+      "url": "https://cointelegraph.com/news/zcash-miner-fortitude-go-public-heartsciences-merger?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/zcash-fortitude.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-23T18:05:01+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The all-stock deal gives Fortitude a Nasdaq listing while HeartSciences retains its healthcare business and existing shareholders keep a minority stake."
+    },
+    {
+      "title": "Update: Gold Falls as the Dollar Climbs to the Highest in More Than a Year",
+      "description": "(Updates prices in the second paragraph.) Gold fell for a third session midafternoon on Tuesday a",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-dollar-climbs-highest-175625943.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T17:56:25+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Updates prices in the second paragraph.) Gold fell for a third session midafternoon on Tuesday a"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Higher Tuesday Afternoon",
+      "description": "Energy stocks rose Tuesday afternoon, with the NYSE Energy Sector Index increasing 0.4% and the Stat",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-tuesday-175621296.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T17:56:21+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Energy stocks rose Tuesday afternoon, with the NYSE Energy Sector Index increasing 0.4% and the Stat"
+    },
+    {
+      "title": "Prediction: You Won't Recognize Enbridge in 15 Years. Here's Why.",
+      "description": "It's still in the energy logistics business, but the pipeline player knows it needs to begin preparing for the inevitable future.",
+      "url": "https://www.fool.com/investing/2026/06/23/prediction-you-wont-recognize-enbridge-in-15-years/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T17:51:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "It's still in the energy logistics business, but the pipeline player knows it needs to begin preparing for the inevitable future."
+    },
+    {
+      "title": "Congress Is Taking the CLARITY Act to New York: What It Changes for Bitcoin, Ethereum, and XRP",
+      "description": "This July, lawmakers are taking the CLARITY Act to New York for a hearing, and it’s being billed like the day U.S. crypto rules finally arrive. The CLARITY Act is the big market-structure bill, the one meant to settle which regulator is in charge of crypto and whether a token counts as a commodity o",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/06/23/congress-is-taking-the-clarity-act-to-new-york-what-it-changes-for-bitcoin-ethereum-and-xrp/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T17:43:38+00:00",
+      "category": "Crypto",
+      "simple_explanation": "This July, lawmakers are taking the CLARITY Act to New York for a hearing, and it’s being billed like the day U.S. crypto rules finally arrive. The CLARITY Act is the big market-structure bill, the on"
     },
     {
       "title": "IBD Stock Of The Day: Pawnshop Operator Makes Kingly Move",
@@ -31,26 +311,6 @@
       "published_at": "2026-06-23T17:43:11+00:00",
       "category": "Commodities",
       "simple_explanation": "The pawnshop stock is up 70% this year. Affordability concerns and high gold prices are boosting the business."
-    },
-    {
-      "title": "Inside Kevin Warsh's selection process for the next Atlanta Fed president",
-      "description": "Choosing a new head for the Federal Reserve Bank of Atlanta is an opportunity for new Fed Chairman Kevin Warsh to reshape the central bank.",
-      "url": "https://www.cnbc.com/2026/06/23/fed-warsh-atlanta-michael-faulkender.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-23T17:30:32+00:00",
-      "category": "USA",
-      "simple_explanation": "Choosing a new head for the Federal Reserve Bank of Atlanta is an opportunity for new Fed Chairman Kevin Warsh to reshape the central bank."
-    },
-    {
-      "title": "Dow Jones AI Giant Nvidia Tumbles Below Key Level; Cummins, GE Vernova Near Buy Zones",
-      "description": "Dow Jones AI giant Nvidia stock dived below a key level Tuesday, while Cummins and GE Vernova are near their latest buy points.",
-      "url": "https://finance.yahoo.com/m/c56b6078-589d-31dc-920c-e84ee955c4e8/dow-jones-ai-giant-nvidia.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T17:29:11+00:00",
-      "category": "USA",
-      "simple_explanation": "Dow Jones AI giant Nvidia stock dived below a key level Tuesday, while Cummins and GE Vernova are near their latest buy points."
     },
     {
       "title": "Robinhood is borrowing $2 billion at 0% interest: What to know",
@@ -73,54 +333,14 @@
       "simple_explanation": "Yes Bank's board will meet on June 29, 2026, to consider capital raising through equity and debt instruments. The proposals aim to provide flexibility for future fundraising aligned with regulatory re"
     },
     {
-      "title": "Interest Rates Are Likely to Rise This Year. Here's What That Could Mean for the S&P 500",
-      "description": "The last time interest rates rose quickly, the market went into a tailspin.",
-      "url": "https://www.fool.com/investing/2026/06/23/interest-rates-are-likely-to-rise-this-year-heres/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T17:19:38+00:00",
-      "category": "USA",
-      "simple_explanation": "The last time interest rates rose quickly, the market went into a tailspin."
-    },
-    {
-      "title": "Exchange-Traded Funds Decline, US Equities Mixed After Midday",
-      "description": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV edged lower. Actively t",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-decline-us-171854912.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T17:18:54+00:00",
-      "category": "USA",
-      "simple_explanation": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV edged lower. Actively t"
-    },
-    {
-      "title": "One Micron number could reshape entire AI trade narrative",
-      "description": "I have covered Micron several times in the past. And each time, the headline has been some variation of the same theme. The numbers keep getting bigger and bigger, the analyst targets keep moving higher, and of course, the artificial intelligence (AI) memory supercycle keeps defying the skeptics ...",
-      "url": "https://www.thestreet.com/investing/stocks/mu-micron-stock-q3-2026-earnings-high-bandwidth-memory?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T17:17:00+00:00",
-      "category": "USA",
-      "simple_explanation": "I have covered Micron several times in the past. And each time, the headline has been some variation of the same theme. The numbers keep getting bigger and bigger, the analyst targets keep moving high"
-    },
-    {
       "title": "Stock Market Today, June 23: Sandisk Leads Tech Stock Slide as South Korea Jitters Trigger Global Pullback at Midday",
       "description": "Today, June 23, 2026, investors faced sharp volatility as rate-hike expectations and a South Korean tech sell-off rattled Wall Street.",
       "url": "https://www.fool.com/coverage/stock-market-today/2026/06/23/stock-market-today-june-23-sandisk-leads-tech-stock-slide-as-south-korea-jitters-trigger-global-pullback-at-midday/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-06-23T17:07:48+00:00",
-      "category": "USA",
+      "category": "Commodities",
       "simple_explanation": "Today, June 23, 2026, investors faced sharp volatility as rate-hike expectations and a South Korean tech sell-off rattled Wall Street."
-    },
-    {
-      "title": "SpaceX stock climbs 6%, rebounding from three-day losing streak",
-      "description": "Gains have been pared back at the space and AI company following an initial surge off of its record-breaking IPO.",
-      "url": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-23T17:07:05+00:00",
-      "category": "USA",
-      "simple_explanation": "Gains have been pared back at the space and AI company following an initial surge off of its record-breaking IPO."
     },
     {
       "title": "This company owns 5% of all ethereum—and it hits your 401(k) soon",
@@ -143,26 +363,6 @@
       "simple_explanation": "Deutsche Bank now sees gold at $4,300 in the third quarter and $4,800 in the fourth quarter."
     },
     {
-      "title": "Nasdaq Tumbles as Micron, Chip Giants Lead Brutal Tech Rout",
-      "description": "Wall Street Shaken as AI Spending Fears Trigger Broad Market Selloff",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-tumbles-micron-chip-giants-170022578.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T17:00:22+00:00",
-      "category": "USA",
-      "simple_explanation": "Wall Street Shaken as AI Spending Fears Trigger Broad Market Selloff"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Sinks As Micron Tanks; Cybersecurity Names Rise (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index moves up Tuesday, while tech stocks fall. Oracle joins Micron and Credo in negative territory.",
-      "url": "https://finance.yahoo.com/m/3510202e-147f-3825-9cd7-6eef1801d532/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T16:59:13+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index moves up Tuesday, while tech stocks fall. Oracle joins Micron and Credo in negative territory."
-    },
-    {
       "title": "CFTC chair says perp trading not suitable for all assets it regulates",
       "description": "Michael Selig told US cotton producers that the agency’s regulatory approach to crypto perpetual futures may not be a “natural fit for traditional commodity markets, like agriculture.”",
       "url": "https://cointelegraph.com/news/cftc-regulating-agricultural-markets-crypto-prediction-markets-push?utm_source=rss&utm_medium=rss&utm_campaign=rss",
@@ -171,16 +371,6 @@
       "published_at": "2026-06-23T16:54:38+00:00",
       "category": "Crypto",
       "simple_explanation": "Michael Selig told US cotton producers that the agency’s regulatory approach to crypto perpetual futures may not be a “natural fit for traditional commodity markets, like agriculture.”"
-    },
-    {
-      "title": "Update: US Equity Indexes Mixed as Mega-Cap Sell-Off Sends Nasdaq, S&P 500 Sliding",
-      "description": "(Updates with index/price moves, macroeconomic data, and analysts' comments from the first paragraph",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-mega-165416436.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T16:54:16+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with index/price moves, macroeconomic data, and analysts' comments from the first paragraph"
     },
     {
       "title": "US stocks: SpaceX draws $89 billion demand for debut high-grade bond sale",
@@ -211,196 +401,6 @@
       "published_at": "2026-06-23T16:37:42+00:00",
       "category": "India",
       "simple_explanation": "Kalshi Inc. has restricted users in India from trading event contracts after the country's tech ministry deemed prediction markets illegal. The updated member agreement prohibits users from India, fol"
-    },
-    {
-      "title": "Gold, silver rates today: Comex gold and silver extend losses for third straight day as Fed rate-hike bets rise",
-      "description": "Comex gold and silver prices continued to decrease as market expectations of a Fed rate hike strengthened the US dollar. Gold futures fell to $4,108, and silver dropped to $61.53, with silver experiencing an 18% loss in June alone and declining nearly 50% from its January peak.",
-      "url": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-and-silver-extend-losses-for-third-straight-day-as-fed-rate-hike-bets-rise-11782229589160.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/2-0-1446757421-RTX3SM5B-0_1679738599550_1782229632354_1f06bc8b-0661-424e-81f9-8d6a19240ef9.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-23T16:36:06+00:00",
-      "category": "India",
-      "simple_explanation": "Comex gold and silver prices continued to decrease as market expectations of a Fed rate hike strengthened the US dollar. Gold futures fell to $4,108, and silver dropped to $61.53, with silver experien"
-    },
-    {
-      "title": "The company that owns 5% of ethereum could be coming to the Russell 1000",
-      "description": "Scott Melker discusses how BitMine Immersion Technologies (BMNR) — which controls 5% of all ethereum (ETH-USD) and is owned by Tom Lee — has become eligible to possibly be included on the Russell 1000 (^RUI). \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose",
-      "url": "https://finance.yahoo.com/video/company-owns-5-ethereum-could-162650899.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T16:26:50+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Scott Melker discusses how BitMine Immersion Technologies (BMNR) — which controls 5% of all ethereum (ETH-USD) and is owned by Tom Lee — has become eligible to possibly be included on the Russell 1000"
-    },
-    {
-      "title": "CBOE weighs converting BTC, ETH continuous futures into perpetual futures: Report",
-      "description": "As US regulatory changes accelerate the adoption of crypto perpetual futures and rivals Coinbase and Kalshi expand their offerings, Cboe mulls a product overhaul.",
-      "url": "https://cointelegraph.com/news/cboe-bitcoin-ether-perpetual-futures-cftc-kalshi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-insider-trading-cboe.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-23T16:23:56+00:00",
-      "category": "Crypto",
-      "simple_explanation": "As US regulatory changes accelerate the adoption of crypto perpetual futures and rivals Coinbase and Kalshi expand their offerings, Cboe mulls a product overhaul."
-    },
-    {
-      "title": "Sebi proposes ad rules for MF, stock brokers: Celebrities may endorse brands, not products | What's allowed, what's not",
-      "description": "Sebi proposed new advertising rules allowing financial entities to use celebrities for brand promotion, not specific products. The Common Advertisement Code aims for consistent regulations, eliminating prior approval and enabling post-issuance monitoring.",
-      "url": "https://www.livemint.com/market/stock-market-news/sebi-proposes-ad-rules-for-mf-stock-brokers-celebrities-may-endorse-brands-not-products-whats-allowed-whats-not-11782229190042.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/Sebi_2-reuters_1765779552828_1765779562101_1782231376083_bfd1be30-eb99-48cb-9cfa-bb338c558714.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-23T16:18:07+00:00",
-      "category": "India",
-      "simple_explanation": "Sebi proposed new advertising rules allowing financial entities to use celebrities for brand promotion, not specific products. The Common Advertisement Code aims for consistent regulations, eliminatin"
-    },
-    {
-      "title": "Gold, Silver or Copper: Which Commodity Looks Best Heading into the End of 2026?",
-      "description": "Gold, silver and copper forecast for 2026: a 13-month-high dollar caps all three, while ratios and bank targets show which holds up best.",
-      "url": "https://beincrypto.com/gold-silver-copper-forecast-end-of-2026/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T16:12:19+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold, silver and copper forecast for 2026: a 13-month-high dollar caps all three, while ratios and bank targets show which holds up best."
-    },
-    {
-      "title": "Traders Question How Much Iranian Oil Can Really Return to Market",
-      "description": "US-Iran talks and a 60-day sanctions waiver have eased supply fears, but traders remain cautious on the outlook for Iranian oil exports.",
-      "url": "https://finance.yahoo.com/energy/articles/traders-much-iranian-oil-really-160000504.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T16:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "US-Iran talks and a 60-day sanctions waiver have eased supply fears, but traders remain cautious on the outlook for Iranian oil exports."
-    },
-    {
-      "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables",
-      "description": "Meta executives have said they see the lightweight smart glasses as a step towards a more advanced device that includes screens in the lenses.",
-      "url": "https://www.cnbc.com/2026/06/23/meta-glasses-are-new-smart-glasses-starting-at-299.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-23T15:56:53+00:00",
-      "category": "USA",
-      "simple_explanation": "Meta executives have said they see the lightweight smart glasses as a step towards a more advanced device that includes screens in the lenses."
-    },
-    {
-      "title": "Oil Prices Fall Even as Iran and Oman Signal Possible Fees in the Strait of Hormuz",
-      "description": "The two countries said that they were working on an agreement on the future administration of navigation through the Strait of Hormuz and its associated costs.",
-      "url": "https://finance.yahoo.com/m/a922c157-cdd9-357a-8494-8963cb970e04/oil-prices-fall-even-as-iran.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T15:49:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The two countries said that they were working on an agreement on the future administration of navigation through the Strait of Hormuz and its associated costs."
-    },
-    {
-      "title": "Can Valero Sustain Profitability Amid Energy Market Volatility?",
-      "description": "VLO's highly complex refining system and Gulf Coast network help sustain profits as global oil markets face volatility.",
-      "url": "https://finance.yahoo.com/energy/articles/valero-sustain-profitability-amid-energy-154700117.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T15:47:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "VLO's highly complex refining system and Gulf Coast network help sustain profits as global oil markets face volatility."
-    },
-    {
-      "title": "Waterways Leisure Tourism IPO: Issue receives tepid response on Day 01, subscribed 0.20x; GMP signals flat listing",
-      "description": "Waterways Leisure Tourism's IPO opened on June 23 but saw low interest, being subscribed only 0.20 times. A total of 8.14 lakh shares were bid for against 39.82 lakh available. The company aims to raise  ₹585 crore, with a market valuation of  ₹5,849.48 crore post-issue.",
-      "url": "https://www.livemint.com/market/stock-market-news/waterways-leisure-tourism-ipo-issue-receives-tepid-response-on-day-01-subscribed-0-20x-gmp-signals-flat-listing-11782228482925.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/AdobeStock_1205122139_1759118299308_1759118308920_1782228479138_588325d6-2e76-45a7-921e-c57555f123ef.jpeg",
-      "source": "LiveMint",
-      "published_at": "2026-06-23T15:45:48+00:00",
-      "category": "India",
-      "simple_explanation": "Waterways Leisure Tourism's IPO opened on June 23 but saw low interest, being subscribed only 0.20 times. A total of 8.14 lakh shares were bid for against 39.82 lakh available. The company aims to rai"
-    },
-    {
-      "title": "Bitcoin: Is the crypto winter finally over as more 'tourist' traders exit?",
-      "description": "Bitcoin (BTC-USD) has fallen back to $62,000 per token on Tuesday, hitting a two-week low, leading traders to speculate whether the crypto winter is still in play or if a sunnier crypto spring is on the horizon for digital assets. Blockstream CEO Adam Back outlines the buying and selling patterns be",
-      "url": "https://finance.yahoo.com/video/bitcoin-crypto-winter-finally-over-154500304.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T15:45:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin (BTC-USD) has fallen back to $62,000 per token on Tuesday, hitting a two-week low, leading traders to speculate whether the crypto winter is still in play or if a sunnier crypto spring is on t"
-    },
-    {
-      "title": "Chainlink joins European and Korean bank consortia to develop FX settlement network",
-      "description": "Banks across Europe and South Korea will study whether regulated euro and won stablecoins can enable real-time cross-border foreign exchange settlement.",
-      "url": "https://cointelegraph.com/news/chainlink-europe-korea-banks-stablecoin-fx-settlement-project-pangea?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-here-is-why-link-surged-by-over-100-how-will-this-affect-the-rest.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-23T15:45:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Banks across Europe and South Korea will study whether regulated euro and won stablecoins can enable real-time cross-border foreign exchange settlement."
-    },
-    {
-      "title": "Hedge funds raise oil short bets to five-month high",
-      "description": "Investing.com -- Hedge funds increased their bearish positions on crude oil last week, with short positions in West Texas Intermediate reaching their highest point in nearly five months as market participants anticipated higher global oil supplies from easing U.S.-Iran tensions.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/hedge-funds-raise-oil-short-152739619.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T15:27:39+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Investing.com -- Hedge funds increased their bearish positions on crude oil last week, with short positions in West Texas Intermediate reaching their highest point in nearly five months as market part"
-    },
-    {
-      "title": "Axis Bank raises $800 million through dual bond sale",
-      "description": "Axis Bank successfully raised $800 million through a dual tranche dollar bond, tapping into the Reserve Bank of India's concessional swap facility. The bank secured $500 million via an Additional Tier 1 perpetual issue and $300 million from a five-year senior bond. Both issuances attracted significa",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/axis-bank-raises-800-million-through-dual-bond-sale/articleshow/131942561.cms",
-      "image": "https://img.etimg.com/photo/msid-131942561,imgsize-72396.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-23T15:22:15+00:00",
-      "category": "India",
-      "simple_explanation": "Axis Bank successfully raised $800 million through a dual tranche dollar bond, tapping into the Reserve Bank of India's concessional swap facility. The bank secured $500 million via an Additional Tier"
-    },
-    {
-      "title": "Promoter Twin Star sells Vedanta shares worth Rs 1,896 crore in block deal",
-      "description": "Twin Star Holdings, a promoter entity of Vedanta, sold 6.51 crore shares worth nearly Rs 1,896 crore through a block deal on Tuesday. The transaction comes amid Vedanta's ongoing restructuring efforts following the listing of its demerged businesses and continued focus on debt reduction and value un",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/promoter-twin-star-sells-vedanta-shares-worth-rs-1896-crore-in-block-deal/articleshow/131942520.cms",
-      "image": "https://img.etimg.com/photo/msid-131942520,imgsize-34120.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-23T15:19:36+00:00",
-      "category": "India",
-      "simple_explanation": "Twin Star Holdings, a promoter entity of Vedanta, sold 6.51 crore shares worth nearly Rs 1,896 crore through a block deal on Tuesday. The transaction comes amid Vedanta's ongoing restructuring efforts"
-    },
-    {
-      "title": "SpaceX falls below IPO price before rebounding 2%: Is it a second-chance buying opportunity?",
-      "description": "SpaceX shares rebounded 2% after falling below $150, impacting its market valuation under $2 trillion. After a $75 billion IPO, investor sentiment weakened, with SpaceX losing over $600 billion in value post-IPO. Despite the volatility, shares remain 10% above the $135 IPO price.",
-      "url": "https://www.livemint.com/market/stock-market-news/spacex-falls-below-ipo-price-before-rebounding-2-is-it-a-second-chance-buying-opportunity-11782226074163.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/spacex_1782227520960_1782227521188_923350c5-9e3c-4a08-ac3f-b19b05b5d8d8.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-23T15:16:33+00:00",
-      "category": "India",
-      "simple_explanation": "SpaceX shares rebounded 2% after falling below $150, impacting its market valuation under $2 trillion. After a $75 billion IPO, investor sentiment weakened, with SpaceX losing over $600 billion in val"
-    },
-    {
-      "title": "Bitcoin teases $62K breakdown as analysis sees Micron earnings volatility next",
-      "description": "Bitcoin stayed volatile while bulls tried to preserve support at local lows while stocks prepared for Micron forward earnings and digested Asia losses.",
-      "url": "https://cointelegraph.com/markets/bitcoin-teases-62k-breakdown-as-analysis-sees-micron-earnings-volatility-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sp-bitcoin-funding-stays-negative-1.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-23T15:15:41+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin stayed volatile while bulls tried to preserve support at local lows while stocks prepared for Micron forward earnings and digested Asia losses."
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
-      "description": "Sensex and Nifty plunged over 1% on Tuesday amid global market weakness, IT sector losses, a weaker rupee and fresh foreign fund outflows. Investors will track technical levels, global cues, FII activity and key stock movements on Wednesday as markets look for direction after the sharp decline.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131941638.cms",
-      "image": "https://img.etimg.com/photo/msid-131941638,imgsize-54790.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-23T15:02:11+00:00",
-      "category": "India",
-      "simple_explanation": "Sensex and Nifty plunged over 1% on Tuesday amid global market weakness, IT sector losses, a weaker rupee and fresh foreign fund outflows. Investors will track technical levels, global cues, FII activ"
-    },
-    {
-      "title": "US Stocks Today | Chip stocks plunge, but bargain-hunters stem losses in other tech names",
-      "description": "US chip stocks experienced a significant tumble, impacting the broader market and wiping out billions in value. While tech giants like Nvidia and Tesla saw declines, bargain hunters emerged, offering some support. This selloff, attributed to concentrated trading and shifting sentiment rather than AI",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-chip-stocks-plunge-but-bargain-hunters-stem-losses-in-other-tech-names/articleshow/131941564.cms",
-      "image": "https://img.etimg.com/photo/msid-131941564,imgsize-88478.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-23T14:59:09+00:00",
-      "category": "India",
-      "simple_explanation": "US chip stocks experienced a significant tumble, impacting the broader market and wiping out billions in value. While tech giants like Nvidia and Tesla saw declines, bargain hunters emerged, offering "
     }
   ]
 }
