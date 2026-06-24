@@ -1,7 +1,277 @@
 {
-  "last_updated": "2026-06-24T19:46:25.446736+00:00",
+  "last_updated": "2026-06-24T21:22:49.173220+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
+      "description": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.",
+      "url": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-24T21:20:13+00:00",
+      "category": "USA",
+      "simple_explanation": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession."
+    },
+    {
+      "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
+      "description": "The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements.",
+      "url": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-24T21:19:27+00:00",
+      "category": "USA",
+      "simple_explanation": "The Fed's annual exercise comes at a pivotal moment for bank regulation because, unlike previous years, the results will not affect capital requirements."
+    },
+    {
+      "title": "Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities",
+      "description": "The letter, which was obtained by CNBC, claims Alibaba carried out \"the largest known distillation attack on Anthropic to date.\"",
+      "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-24T21:18:44+00:00",
+      "category": "USA",
+      "simple_explanation": "The letter, which was obtained by CNBC, claims Alibaba carried out \"the largest known distillation attack on Anthropic to date.\""
+    },
+    {
+      "title": "Micron stock jumps 12% as soaring prices from memory crunch lead to quadrupling of revenue",
+      "description": "Micron's quarterly earnings report follows a 700% surge in the memory maker's stock price over the past year.",
+      "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-24T21:15:23+00:00",
+      "category": "USA",
+      "simple_explanation": "Micron's quarterly earnings report follows a 700% surge in the memory maker's stock price over the past year."
+    },
+    {
+      "title": "Stock Market Today, June 24: Wendy's Soars As it Becomes the Latest Meme Stock, Names Steve Cirulis New CFO",
+      "description": "Today, June 24, 2026, investors piled in as leadership changes fueled meme stock hype and speculation about a potential turnaround at the burger chain.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/24/stock-market-today-june-24-wendy-s-soars-as-it-becomes-the-latest-meme-stock-names-steve-cirulis-new-cfo/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T21:14:57+00:00",
+      "category": "USA",
+      "simple_explanation": "Today, June 24, 2026, investors piled in as leadership changes fueled meme stock hype and speculation about a potential turnaround at the burger chain."
+    },
+    {
+      "title": "White House requests $87.6 billion supplemental spending for Iran war, farm aid",
+      "description": "White House Office of Management and Budget Director Russell Vought asked House Speaker Mike Johnson for billions in extra spending for the Iran war.",
+      "url": "https://www.cnbc.com/2026/06/24/iran-war-supplemental-trump-congress.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-24T21:13:45+00:00",
+      "category": "USA",
+      "simple_explanation": "White House Office of Management and Budget Director Russell Vought asked House Speaker Mike Johnson for billions in extra spending for the Iran war."
+    },
+    {
+      "title": "Stock Market Today: Dow Pops Nearly 200 Points; AI Firm Cerebras Craters; Data Storage Names Fall",
+      "description": "Stock Market Today: The Dow Jones index rises Wednesday after Tuesday's tech sell-off. FedEx dives on earnings.",
+      "url": "https://finance.yahoo.com/m/0d11f791-1b22-3ad3-9a4d-f3fd42d663e5/stock-market-today%3A-dow-pops.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T21:10:03+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index rises Wednesday after Tuesday's tech sell-off. FedEx dives on earnings."
+    },
+    {
+      "title": "FTX exec’s wife scheduled for November trial on campaign finance charges",
+      "description": "A Manhattan judge ordered that Michelle Bond’s criminal trial start in November after he denied a motion to dismiss the indictment based on claims that prosecutors misled her husband over her charges.",
+      "url": "https://cointelegraph.com/news/ftx-exec-wife-november-trial-campaign-finance-charges?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ftx-court-case-overview-of-latest-events.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-24T21:07:03+00:00",
+      "category": "Crypto",
+      "simple_explanation": "A Manhattan judge ordered that Michelle Bond’s criminal trial start in November after he denied a motion to dismiss the indictment based on claims that prosecutors misled her husband over her charges."
+    },
+    {
+      "title": "Dow Jones Futures Rise As Micron Jumps On Earnings, Lifting Sandisk, AI Stocks; Fed Inflation Data Due",
+      "description": "Micron surged overnight on strong earnings and guidance, lifting other memory and chip plays. The Fed's favorite inflation gauge is on tap.",
+      "url": "https://finance.yahoo.com/m/62ac79cc-8e88-3711-aacd-1efa7c03c79f/dow-jones-futures-rise-as.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T21:03:24+00:00",
+      "category": "USA",
+      "simple_explanation": "Micron surged overnight on strong earnings and guidance, lifting other memory and chip plays. The Fed's favorite inflation gauge is on tap."
+    },
+    {
+      "title": "SSR Mining Completes the Sale of the Çöpler Mine",
+      "description": "DENVER, June 24, 2026--SSR Mining Inc. (Nasdaq/TSX: SSRM) (\"SSR Mining\" or the \"Company\") is pleased to announce that it has closed the sale of its 80% ownership stake in the Çöpler mine and related properties in Türkiye (collectively, \"Çöpler\") to Cengiz Holding A.S. and affiliates. At closing SSR ",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/ssr-mining-completes-sale-pler-210000762.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T21:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "DENVER, June 24, 2026--SSR Mining Inc. (Nasdaq/TSX: SSRM) (\"SSR Mining\" or the \"Company\") is pleased to announce that it has closed the sale of its 80% ownership stake in the Çöpler mine and related p"
+    },
+    {
+      "title": "Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?",
+      "description": "Bitcoin drops toward new 2026 lows as spot BTC ETF outflows and slowing accumulation from Strategy weigh on market sentiment.",
+      "url": "https://cointelegraph.com/markets/bitcoin-nearly-loses-59k-as-dxy-surges-are-traders-bracing-for-more-pain?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-218536-bitkoina-opustilsa-nize-110-000-na-fone-padenia-indeksa-dollara.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-24T20:58:28+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin drops toward new 2026 lows as spot BTC ETF outflows and slowing accumulation from Strategy weigh on market sentiment."
+    },
+    {
+      "title": "Sempra Named to The Wall Street Journal's \"Best Companies for the Future\" List",
+      "description": "Sempra (NYSE: SRE) has been named to The Wall Street Journal's inaugural list of \"Best Companies for the Future.\" The new ranking was published June 7, 2026 following an evaluation of S&P 500 companies based on their anticipated ability to be successful in a rapidly evolving business environment by ",
+      "url": "https://finance.yahoo.com/energy/articles/sempra-named-wall-street-journals-205800954.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T20:58:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Sempra (NYSE: SRE) has been named to The Wall Street Journal's inaugural list of \"Best Companies for the Future.\" The new ranking was published June 7, 2026 following an evaluation of S&P 500 companie"
+    },
+    {
+      "title": "Should You Buy ConocoPhillips With Oil Below $75 a Barrel?",
+      "description": "Wall Street analysts are wrong, and Conoco's earnings will grow faster than you think.",
+      "url": "https://www.fool.com/investing/2026/06/24/should-you-buy-conocophillips-with-wti-below-75/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T20:58:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Wall Street analysts are wrong, and Conoco's earnings will grow faster than you think."
+    },
+    {
+      "title": "Nvidia Tests Key Price Level. Why the Stock Is Still Not Going Up.",
+      "description": "Nvidia stock has repeatedly bounced off lows of $200, indicating a new trading range for the chip maker.",
+      "url": "https://finance.yahoo.com/m/57ddad8a-2f7a-3ce6-bccc-f8f33a40e020/nvidia-tests-key-price-level..html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T20:53:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Nvidia stock has repeatedly bounced off lows of $200, indicating a new trading range for the chip maker."
+    },
+    {
+      "title": "Brent falls below $75 as Nasdaq drops for 3rd straight day",
+      "description": "Oil prices retreated Wednesday to their lowest levels since the start of US-Iran war while tech shares continued to show weakness on a mixed day for global stocks.\"Investors are continuing to question AI valuations,\" said Jack Ablin of Cresset Capital, who described this week's weakness as indicativ",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/seoul-bounces-asian-markets-look-030404307.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T20:51:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil prices retreated Wednesday to their lowest levels since the start of US-Iran war while tech shares continued to show weakness on a mixed day for global stocks.\"Investors are continuing to question"
+    },
+    {
+      "title": "Vanguard S&P 500 Growth ETF vs iShares Russell 2000 Growth ETF: Which Growth Stock Fund Is the Better Buy?",
+      "description": "Sector concentration and risk profiles set these two growth ETFs apart, offering distinct approaches for investors seeking capital appreciation.",
+      "url": "https://www.fool.com/coverage/etfs/2026/06/24/vanguard-s-and-p-500-growth-etf-vs-ishares-russell-2000-growth-etf-which-growth-stock-fund-is-the-better-buy/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T20:49:32+00:00",
+      "category": "USA",
+      "simple_explanation": "Sector concentration and risk profiles set these two growth ETFs apart, offering distinct approaches for investors seeking capital appreciation."
+    },
+    {
+      "title": "Update: Nasdaq, S&P 500 Extend Slide on AI-Chip Caution; Oil Sinks",
+      "description": "(Updates with market moves at the end of the day.) The Nasdaq Composite and S&P 500 fell Wednesda",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-extend-slide-204928569.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T20:49:28+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with market moves at the end of the day.) The Nasdaq Composite and S&P 500 fell Wednesda"
+    },
+    {
+      "title": "NOV and Transocean Stocks Trade Down, What You Need To Know",
+      "description": "A number of stocks fell in the afternoon session after crude oil dropped to its lowest level since the start of the Iran war, as tankers resumed transit through the Strait of Hormuz and the U.S. and Iran signaled progress toward ending the conflict.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nov-transocean-stocks-trade-down-204825265.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T20:48:25+00:00",
+      "category": "Commodities",
+      "simple_explanation": "A number of stocks fell in the afternoon session after crude oil dropped to its lowest level since the start of the Iran war, as tankers resumed transit through the Strait of Hormuz and the U.S. and I"
+    },
+    {
+      "title": "Gold Slipped Below $4,000. Don’t Rush to Buy It Just Yet.",
+      "description": "Worries about inflation and Fed rate hikes are hurting gold. It’s no longer a haven. There could be more downside ahead.",
+      "url": "https://finance.yahoo.com/m/0db9b9b8-76cb-32d5-86a3-1eb2eb87452d/gold-slipped-below-%244%2C000..html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T20:40:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Worries about inflation and Fed rate hikes are hurting gold. It’s no longer a haven. There could be more downside ahead."
+    },
+    {
+      "title": "Trump cancels signing of bipartisan housing bill ahead of tense meeting with GOP senators",
+      "description": "President Donald Trump abruptly canceled the signing of a bill aimed at increasing housing affordability an hour before he was due at the Capitol for the ceremony.",
+      "url": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-24T20:35:48+00:00",
+      "category": "USA",
+      "simple_explanation": "President Donald Trump abruptly canceled the signing of a bill aimed at increasing housing affordability an hour before he was due at the Capitol for the ceremony."
+    },
+    {
+      "title": "The CBOE moves into prediction market space",
+      "description": "Scott Melker breaks down the Chicago Board Options Exchange (CBOE) move into prediction markets and what it means for the rapidly growing space. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance",
+      "url": "https://finance.yahoo.com/video/cboe-moves-prediction-market-space-203000070.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T20:30:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Scott Melker breaks down the Chicago Board Options Exchange (CBOE) move into prediction markets and what it means for the rapidly growing space. \"The Daily Wolf with Scott Melker\" airs every day at 12"
+    },
+    {
+      "title": "New meme stock Wendy's soars more than 25% with trading halted at one point",
+      "description": "While management changes can influence investor sentiment, the magnitude of the move suggests other forces may be at play.",
+      "url": "https://www.cnbc.com/2026/06/24/wendys-stock-soars-as-meme-traders-target-another-turnaround-play.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-06-24T20:29:22+00:00",
+      "category": "Global",
+      "simple_explanation": "While management changes can influence investor sentiment, the magnitude of the move suggests other forces may be at play."
+    },
+    {
+      "title": "Dow Jones Component's Spinoff Joins S&P 500. Shares Jump.",
+      "description": "Honeywell's aerospace spinoff will be added to the S&P 500 index next week, while IES Holdings, a data center electric power provider, is going into the Midcap S&P 400. Both stocks rallied. Honeywell Aerospace will be officially in the S&P 500 at the start of trading on Monday, S&P Dow Jones Indices",
+      "url": "https://finance.yahoo.com/m/7637a9e9-b6c7-3a77-a37e-f21d7aa124a2/dow-jones-component%27s-spinoff.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T20:23:59+00:00",
+      "category": "USA",
+      "simple_explanation": "Honeywell's aerospace spinoff will be added to the S&P 500 index next week, while IES Holdings, a data center electric power provider, is going into the Midcap S&P 400. Both stocks rallied. Honeywell "
+    },
+    {
+      "title": "TSX Closer: Index Drops Amid Commodity Weakness",
+      "description": "The Toronto Stock Exchange closed lower on Wednesday, falling for a second day as a sharp decline in",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-drops-amid-202323767.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T20:23:23+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The Toronto Stock Exchange closed lower on Wednesday, falling for a second day as a sharp decline in"
+    },
+    {
+      "title": "These Billionaire Investors Keep Betting on AI Infrastructure Despite Recession Fears",
+      "description": "The stock market is hitting record highs amid an oil shock, rising inflation, and tanking consumer sentiment. But everyone, even billionaires, is going all-in on AI.",
+      "url": "https://www.fool.com/investing/2026/06/24/billionaire-investors-bet-on-ai-infrastructure/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T20:11:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The stock market is hitting record highs amid an oil shock, rising inflation, and tanking consumer sentiment. But everyone, even billionaires, is going all-in on AI."
+    },
+    {
+      "title": "US Equity Markets Mixed as Crude Oil Prices, Government Bond Yields Fall",
+      "description": "US equity indexes were mixed on Wednesday amid a decline in crude oil prices and government bond yie",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-mixed-crude-201046596.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T20:10:46+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity indexes were mixed on Wednesday amid a decline in crude oil prices and government bond yie"
+    },
+    {
+      "title": "US stocks: Nasdaq, S&P end lower in volatile session as tech stocks retreat",
+      "description": "Tech stocks pulled down the Nasdaq and S&P 500 due to valuation worries and concerns over AI spending, falling crude prices bolstered airlines and travel sectors. The Dow Jones Industrial Average, however, finished higher. Homebuilders also experienced a significant surge. Investors are now keenly a",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-sp-end-lower-in-volatile-session-as-tech-stocks-retreat/articleshow/131977238.cms",
+      "image": "https://img.etimg.com/photo/msid-131977238,imgsize-123210.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-24T20:02:48+00:00",
+      "category": "India",
+      "simple_explanation": "Tech stocks pulled down the Nasdaq and S&P 500 due to valuation worries and concerns over AI spending, falling crude prices bolstered airlines and travel sectors. The Dow Jones Industrial Average, how"
+    },
     {
       "title": "Kalshi sues Illinois officials over prediction markets restrictions",
       "description": "The prediction markets company claimed that it would be “irreparably harmed” when an Illinois law signed as part of a budget package goes in effect on July 1.",
@@ -13,124 +283,14 @@
       "simple_explanation": "The prediction markets company claimed that it would be “irreparably harmed” when an Illinois law signed as part of a budget package goes in effect on July 1."
     },
     {
-      "title": "AI Chip Stocks Stage Rebound: Nvidia, AMD Lead Recovery Ahead of Micron Earnings Shock",
-      "description": "AMD Steady, Nvidia Higher: Semis Try to Shake Off Selloff Ahead of Micron",
-      "url": "https://finance.yahoo.com/technology/articles/ai-chip-stocks-stage-rebound-193427431.html?.tsrc=rss",
+      "title": "Bitcoin slips below $60,000 as token struggles to recover",
+      "description": "Bitcoin dropped below $60,000 on Wednesday, further deepening the rout in crypto.",
+      "url": "https://finance.yahoo.com/markets/article/bitcoin-slips-below-60000-as-token-struggles-to-recover-193154413.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-24T19:34:27+00:00",
-      "category": "USA",
-      "simple_explanation": "AMD Steady, Nvidia Higher: Semis Try to Shake Off Selloff Ahead of Micron"
-    },
-    {
-      "title": "Amazon Rises on Day Two of Prime Day",
-      "description": "Industry forecasts point to $26.3 billion in sales",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-rises-day-two-prime-193325189.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T19:33:25+00:00",
-      "category": "USA",
-      "simple_explanation": "Industry forecasts point to $26.3 billion in sales"
-    },
-    {
-      "title": "Chips Are Sliding Again. There Goes the Nasdaq.",
-      "description": "There go chips, and there goes the market. The Nasdaq dropped 0.8% suddenly on Wednesday after posting solid gains earlier in the session. Even the S&P 500, which featured good breadth, was down 0.3%.",
-      "url": "https://finance.yahoo.com/m/169b04db-7f87-3527-865f-e3c375819ba7/chips-are-sliding-again..html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T19:31:31+00:00",
-      "category": "USA",
-      "simple_explanation": "There go chips, and there goes the market. The Nasdaq dropped 0.8% suddenly on Wednesday after posting solid gains earlier in the session. Even the S&P 500, which featured good breadth, was down 0.3%."
-    },
-    {
-      "title": "Simon Property Group (SPG) Price Target Raised at Scotiabank. Here is Why",
-      "description": "With an annual dividend yield of 4.06%, Simon Property Group, Inc. (NYSE:SPG) is included among the 12 Best S&P 500 Stocks to Buy for Dividends. Simon Property Group, Inc. (NYSE:SPG) is a global leader in the ownership of premier shopping, dining, entertainment, and mixed-use destinations and an S&P",
-      "url": "https://finance.yahoo.com/real-estate/articles/simon-property-group-spg-price-192711450.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T19:27:11+00:00",
-      "category": "USA",
-      "simple_explanation": "With an annual dividend yield of 4.06%, Simon Property Group, Inc. (NYSE:SPG) is included among the 12 Best S&P 500 Stocks to Buy for Dividends. Simon Property Group, Inc. (NYSE:SPG) is a global leade"
-    },
-    {
-      "title": "U.S. Bancorp (USB) Declares Quarterly Dividend of $0.52 per Share",
-      "description": "With an annual dividend yield of 3.46%, U.S. Bancorp (NYSE:USB) is included among the 12 Best S&P 500 Stocks to Buy for Dividends. As the fifth-largest commercial bank in the United States, U.S. Bancorp (NYSE:USB) works across a diversified mix of businesses, including commercial and institutional b",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-usb-declares-quarterly-192628593.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T19:26:28+00:00",
-      "category": "USA",
-      "simple_explanation": "With an annual dividend yield of 3.46%, U.S. Bancorp (NYSE:USB) is included among the 12 Best S&P 500 Stocks to Buy for Dividends. As the fifth-largest commercial bank in the United States, U.S. Banco"
-    },
-    {
-      "title": "Barclays Lowers Price Target on The Southern Company (SO)",
-      "description": "With an annual dividend yield of 3.20%, The Southern Company (NYSE:SO) is included among the 12 Best S&P 500 Stocks to Buy for Dividends. The Southern Company (NYSE:SO) is one of the largest producers of electricity in the United States and the largest wholesale provider in the Southeast. On June 18",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-lowers-price-target-southern-192613415.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T19:26:13+00:00",
-      "category": "USA",
-      "simple_explanation": "With an annual dividend yield of 3.20%, The Southern Company (NYSE:SO) is included among the 12 Best S&P 500 Stocks to Buy for Dividends. The Southern Company (NYSE:SO) is one of the largest producers"
-    },
-    {
-      "title": "Verizon Is the Dow’s Loss. Investors Can Still Gain With Its 6% Dividend Yield",
-      "description": "Verizon Communications  is losing its spot in the Dow Jones Industrial Average.  Following the change, the storied index will no longer include any traditional telecom names since AT&T lost its post to Apple in 2015.  It was down 2.6% to $45.53 in trading Wednesday, faring worse than  AT&T  and the ",
-      "url": "https://finance.yahoo.com/m/24e970ee-7f73-3e91-886d-ee757a9fdcd1/verizon-is-the-dow%E2%80%99s-loss..html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T19:26:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Verizon Communications  is losing its spot in the Dow Jones Industrial Average.  Following the change, the storied index will no longer include any traditional telecom names since AT&T lost its post t"
-    },
-    {
-      "title": "Oil prices drop below $70: What this means for the Strait of Hormuz & the Fed",
-      "description": "Oil prices (CL=F, BZ=F) fall even further as tanker traffic slowly picks up in the Strait of Hormuz. WTI crude oil has receded back below $70 per barrel. Yahoo Finance Breaking News Reporter Jake Conley takes a closer look at the state of the global oil trade, while Markets and Data Editor Jared Bli",
-      "url": "https://finance.yahoo.com/video/oil-prices-drop-below-70-192558058.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T19:25:58+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil prices (CL=F, BZ=F) fall even further as tanker traffic slowly picks up in the Strait of Hormuz. WTI crude oil has receded back below $70 per barrel. Yahoo Finance Breaking News Reporter Jake Conl"
-    },
-    {
-      "title": "Roth Capital Upgrades ConocoPhillips (COP) to Buy. Here is Why",
-      "description": "With an annual dividend yield of 3.00%, ConocoPhillips (NYSE:COP) is included among the 12 Best S&P 500 Stocks to Buy for Dividends. ConocoPhillips (NYSE:COP) is one of the world’s largest independent E&P companies based on oil and natural gas production and proved reserves. On June 22, Roth Capital",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/roth-capital-upgrades-conocophillips-cop-192203567.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T19:22:03+00:00",
-      "category": "Commodities",
-      "simple_explanation": "With an annual dividend yield of 3.00%, ConocoPhillips (NYSE:COP) is included among the 12 Best S&P 500 Stocks to Buy for Dividends. ConocoPhillips (NYSE:COP) is one of the world’s largest independent"
-    },
-    {
-      "title": "Exxon Mobil Applies to Expand Footprint in Guyana",
-      "description": "With an annual dividend yield of 2.95%, Exxon Mobil Corporation (NYSE:XOM) is included among the 12 Best S&P 500 Stocks to Buy for Dividends. Exxon Mobil Corporation (NYSE:XOM) is one of the largest integrated fuels, lubricants, and chemical companies in the world. It was reported on June 16 that Ex",
-      "url": "https://finance.yahoo.com/energy/articles/exxon-mobil-applies-expand-footprint-192009586.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T19:20:09+00:00",
-      "category": "Commodities",
-      "simple_explanation": "With an annual dividend yield of 2.95%, Exxon Mobil Corporation (NYSE:XOM) is included among the 12 Best S&P 500 Stocks to Buy for Dividends. Exxon Mobil Corporation (NYSE:XOM) is one of the largest i"
-    },
-    {
-      "title": "Why Is The US Stock Market Up Today?",
-      "description": "US stocks edged up as oil retreated and Treasury yields fell, lifting consumer cyclicals while energy dragged on the market.",
-      "url": "https://beincrypto.com/why-us-stock-market-is-up-today/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T19:19:29+00:00",
-      "category": "Commodities",
-      "simple_explanation": "US stocks edged up as oil retreated and Treasury yields fell, lifting consumer cyclicals while energy dragged on the market."
-    },
-    {
-      "title": "New meme stock Wendy's soars 27% with trading halted at one point",
-      "description": "While management changes can influence investor sentiment, the magnitude of the move suggests other forces may be at play.",
-      "url": "https://www.cnbc.com/2026/06/24/wendys-stock-soars-as-meme-traders-target-another-turnaround-play.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-06-24T19:18:36+00:00",
-      "category": "Global",
-      "simple_explanation": "While management changes can influence investor sentiment, the magnitude of the move suggests other forces may be at play."
+      "published_at": "2026-06-24T19:31:54+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin dropped below $60,000 on Wednesday, further deepening the rout in crypto."
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -141,56 +301,6 @@
       "published_at": "2026-06-24T19:17:03+00:00",
       "category": "Crypto",
       "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "Bitcoin falls back under $60,000, hitting its lowest level since October 2024",
-      "description": "Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 low amid a pullback in tech stocks.",
-      "url": "https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-24T19:09:32+00:00",
-      "category": "USA",
-      "simple_explanation": "Bitcoin, now in the eighth month of its bear market, dropped to an October 2024 low amid a pullback in tech stocks."
-    },
-    {
-      "title": "Oil Futures Fall to Lowest Since the Outbreak of War",
-      "description": "Oil futures fall to their lowest level since the start of the U.S.-Iran conflict as more oil shipments make it out of the Persian Gulf.  Signs are that production and exports will return much faster than had been thought during the war, Mizuho's Robert Yawger says in a note.  \"Once storage draws dow",
-      "url": "https://finance.yahoo.com/m/06ef7b84-b45d-3c18-9a83-c23dc0464987/oil-futures-fall-to-lowest.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T19:08:06+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil futures fall to their lowest level since the start of the U.S.-Iran conflict as more oil shipments make it out of the Persian Gulf.  Signs are that production and exports will return much faster t"
-    },
-    {
-      "title": "Energy secretary says U.S. has ended Iran's ability to close Strait of Hormuz",
-      "description": "Some 72 ships loaded with 19 million barrels of oil have passed through Hormuz in the past 24 hours, Energy Secretary Chris Wright said.",
-      "url": "https://www.cnbc.com/2026/06/24/iran-strait-hormuz-oil-chris-wright-energy-secretary.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-24T19:07:26+00:00",
-      "category": "USA",
-      "simple_explanation": "Some 72 ships loaded with 19 million barrels of oil have passed through Hormuz in the past 24 hours, Energy Secretary Chris Wright said."
-    },
-    {
-      "title": "Qualcomm announces AI data center CPU, signs Meta as first major customer",
-      "description": "Qualcomm's primary business has been smartphones, which accounted for two-thirds of the company's product revenue in it's most recent quarter.",
-      "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-24T19:03:44+00:00",
-      "category": "USA",
-      "simple_explanation": "Qualcomm's primary business has been smartphones, which accounted for two-thirds of the company's product revenue in it's most recent quarter."
-    },
-    {
-      "title": "Update: WTI Oil Falls to Prewar Levels as Trapped Tankers Begin Leaving Persian Gulf",
-      "description": "(Updates prices in the second paragraph and adds the latest US inventory data in the final paragraph",
-      "url": "https://finance.yahoo.com/energy/articles/wti-oil-falls-prewar-levels-185551434.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T18:55:51+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Updates prices in the second paragraph and adds the latest US inventory data in the final paragraph"
     },
     {
       "title": "Why Expedia (EXPE) Stock Is Up Today",
@@ -211,56 +321,6 @@
       "published_at": "2026-06-24T18:37:00+00:00",
       "category": "Crypto",
       "simple_explanation": "Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (\"AI\") data center company anchored by Bitcoin (\"Hyperscale Data\" or the \"Company\"), today announced that its indirect, wholly o"
-    },
-    {
-      "title": "Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",
-      "description": "Google-parent Alphabet will be the fifth Magnificent Seven stock to join the Dow Jones Industrial Average. Google stock is replacing Verizon.",
-      "url": "https://finance.yahoo.com/m/a1077ce3-f550-3d55-a667-1472e8e22b80/google-parent-alphabet-to.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T18:32:38+00:00",
-      "category": "USA",
-      "simple_explanation": "Google-parent Alphabet will be the fifth Magnificent Seven stock to join the Dow Jones Industrial Average. Google stock is replacing Verizon."
-    },
-    {
-      "title": "Update: Equity Markets Mixed Intraday Ahead of Micron Results; Oil Sinks",
-      "description": "(Updates with latest market prices and developments.) US benchmark equity indexes were mixed intr",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equity-markets-mixed-intraday-ahead-182704003.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T18:27:04+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with latest market prices and developments.) US benchmark equity indexes were mixed intr"
-    },
-    {
-      "title": "Alphabet Stock Joins the Dow. What History Says Happens Next.",
-      "description": "Alphabet will replace Verizon in the Dow Jones Industrial Average, but history suggests membership in the price-weighted index rarely provides a meaningful lift for newly added stocks.",
-      "url": "https://finance.yahoo.com/m/adb51105-8492-3dd2-b8fa-d3a1f54c642a/alphabet-stock-joins-the-dow..html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T18:22:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Alphabet will replace Verizon in the Dow Jones Industrial Average, but history suggests membership in the price-weighted index rarely provides a meaningful lift for newly added stocks."
-    },
-    {
-      "title": "Stock Market Today: Nasdaq, S&P 500 Sink As Oil, Gold Drop; Sandisk Falls But These Telecoms Gain (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index rises Wednesday after Tuesday's tech sell-off. FedEx dives on earnings.",
-      "url": "https://finance.yahoo.com/m/0d11f791-1b22-3ad3-9a4d-f3fd42d663e5/stock-market-today%3A-nasdaq%2C.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T18:14:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index rises Wednesday after Tuesday's tech sell-off. FedEx dives on earnings."
-    },
-    {
-      "title": "Cerebras CEO says margin forecast was 'misunderstood' as stock plummets after earnings",
-      "description": "AI chipmaker Cerebras has a staggered lock-up expiration that includes some shares becoming available for trading this week.",
-      "url": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-24T18:01:39+00:00",
-      "category": "USA",
-      "simple_explanation": "AI chipmaker Cerebras has a staggered lock-up expiration that includes some shares becoming available for trading this week."
     },
     {
       "title": "Deutsche Bank Flags $3,800 Gold Risk as Fed Turns Hawkish",
@@ -293,26 +353,6 @@
       "simple_explanation": "The crypto-aligned Fairshake PAC and its affiliates spent a combined $8 million on media to support candidates in Maryland, New York and Utah amid pushback from many criticizing “crypto billionaires.”"
     },
     {
-      "title": "How Fed Chair Kevin Warsh killed the debasement trade",
-      "description": "Scott Melker explains how Federal Reserve Chair Kevin Warsh is contributing to the downfall of the debasement trade. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find th",
-      "url": "https://finance.yahoo.com/video/fed-chair-kevin-warsh-killed-173000802.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T17:30:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Scott Melker explains how Federal Reserve Chair Kevin Warsh is contributing to the downfall of the debasement trade. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your da"
-    },
-    {
-      "title": "Trump cancels signing of bipartisan housing bill, demanding voter ID provision",
-      "description": "President Donald Trump abruptly canceled the signing of a bill aimed at increasing housing affordability an hour before he was due at the Capitol for the ceremony.",
-      "url": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-24T17:26:51+00:00",
-      "category": "USA",
-      "simple_explanation": "President Donald Trump abruptly canceled the signing of a bill aimed at increasing housing affordability an hour before he was due at the Capitol for the ceremony."
-    },
-    {
       "title": "Micron Technology earnings in spotlight as investors look for signs of sustained AI demand",
       "description": "Micron Technology shares dipped 1% to $1,028 amid high expectations for fiscal Q3 results, driven by AI demand. The company, valued above $1 trillion, faces concerns over market sustainability and high valuations, with anticipated earnings of $20.83 per share on $35.75 billion revenue.",
       "url": "https://www.livemint.com/market/stock-market-news/micron-technology-earnings-in-spotlight-as-investors-look-for-signs-of-sustained-ai-demand-11782320631876.html",
@@ -321,16 +361,6 @@
       "published_at": "2026-06-24T17:23:24+00:00",
       "category": "India",
       "simple_explanation": "Micron Technology shares dipped 1% to $1,028 amid high expectations for fiscal Q3 results, driven by AI demand. The company, valued above $1 trillion, faces concerns over market sustainability and hig"
-    },
-    {
-      "title": "Sprott Sees strong long-term Silver outlook despite recent price volatility",
-      "description": "Sprott Asset Management Director, ETF Product Management Jacob White joined Steve Darling from Proactive to discuss the outlook for the silver market, highlighting recent price volatility, long-term demand drivers, and ongoing supply constraints that continue to shape the metal’s investment case. Wh",
-      "url": "https://finance.yahoo.com/video/sprott-sees-strong-long-term-171746403.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T17:17:46+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Sprott Asset Management Director, ETF Product Management Jacob White joined Steve Darling from Proactive to discuss the outlook for the silver market, highlighting recent price volatility, long-term d"
     },
     {
       "title": "Bitcoin falls under $60K, but traders anticipate 15% bounce",
@@ -353,6 +383,16 @@
       "simple_explanation": "Scott Melker hits on SpaceX's short activity, ethereum, Kalshi, CBOE, and other big crypto news headlines. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose o"
     },
     {
+      "title": "Bitcoin Is Stuck... What’s Next?",
+      "description": "Kris Bullock and Bijan Maleki break down the latest action in crypto as bitcoin struggles to hold the low-$60Ks, bears stay in control, and traders look for what could finally spark the next move. They’ll cover the key charts, the altcoins showing relative strength, and the headlines driving sentime",
+      "url": "https://finance.yahoo.com/video/bitcoin-stuck-next-164313764.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T16:43:13+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Kris Bullock and Bijan Maleki break down the latest action in crypto as bitcoin struggles to hold the low-$60Ks, bears stay in control, and traders look for what could finally spark the next move. The"
+    },
+    {
       "title": "Nithin Kamath recalls falling for a pyramid scheme, warns retail investors against 'easy money' promises",
       "description": "Zerodha co-founder Nithin Kamath shared his past entanglement with a pyramid scheme in his late teens, emphasizing that wealth building requires no shortcuts.  He warned against schemes promising unusually high returns, noting that many continue to operate in India despite growing financial awarenes",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-recalls-falling-for-a-pyramid-scheme-warns-retail-investors-against-easy-money-promises/articleshow/131973054.cms",
@@ -361,46 +401,6 @@
       "published_at": "2026-06-24T16:41:31+00:00",
       "category": "India",
       "simple_explanation": "Zerodha co-founder Nithin Kamath shared his past entanglement with a pyramid scheme in his late teens, emphasizing that wealth building requires no shortcuts.  He warned against schemes promising unus"
-    },
-    {
-      "title": "Toyota gains on General Motors in new U.S. sales forecast: 'GM may be looking over their shoulder'",
-      "description": "Toyota has notably leaned into hybrid vehicles while GM and others bet on all-electric vehicles, which saw lower-than-expected adoption from consumers.",
-      "url": "https://www.cnbc.com/2026/06/24/toyota-gm-us-sales.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-24T16:39:43+00:00",
-      "category": "USA",
-      "simple_explanation": "Toyota has notably leaned into hybrid vehicles while GM and others bet on all-electric vehicles, which saw lower-than-expected adoption from consumers."
-    },
-    {
-      "title": "Bitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?",
-      "description": "A $525 million Bitcoin buy wall intersects with a major liquidation zone, creating a key battleground between $60,500 and $65,000.",
-      "url": "https://cointelegraph.com/markets/bitcoin-daily-close-points-to-the-next-demand-zone-as-530m-in-buy-bids-emerge?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-243559-bitcoin-briefly-crashes-to-dollar0-starknet-dex-paradex-glitch-triggers-massive.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-24T16:21:52+00:00",
-      "category": "Crypto",
-      "simple_explanation": "A $525 million Bitcoin buy wall intersects with a major liquidation zone, creating a key battleground between $60,500 and $65,000."
-    },
-    {
-      "title": "Stop Paying a 10% Premium for Bitcoin: Why IBIT Beats MSTR",
-      "description": "MicroStrategy (NASDAQ:MSTR), now branded Strategy, is the most popular way retail traders own bitcoin without holding it directly. The pitch is simple: buying MSTR provides leveraged exposure to a balance sheet backed by 847,363 BTC as of June 2026. Holders pay no management fee, get equity-style li",
-      "url": "https://247wallst.com/investing/2026/06/24/forget-microstrategy-youre-paying-a-15-premium-for-bitcoin-this-fund-holds-at-cost/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T16:09:07+00:00",
-      "category": "Crypto",
-      "simple_explanation": "MicroStrategy (NASDAQ:MSTR), now branded Strategy, is the most popular way retail traders own bitcoin without holding it directly. The pitch is simple: buying MSTR provides leveraged exposure to a bal"
-    },
-    {
-      "title": "Credit unions managing $25B in assets join stablecoin infrastructure program",
-      "description": "A new pilot from Stablecore, Circuit and Curql gives participating US credit unions access to test stablecoin payments and other digital asset services.",
-      "url": "https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-does-crypto-lending-work-ethereum.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-24T15:49:54+00:00",
-      "category": "Crypto",
-      "simple_explanation": "A new pilot from Stablecore, Circuit and Curql gives participating US credit unions access to test stablecoin payments and other digital asset services."
     }
   ]
 }
