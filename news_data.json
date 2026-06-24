@@ -1,36 +1,326 @@
 {
-  "last_updated": "2026-06-23T23:57:50.623413+00:00",
+  "last_updated": "2026-06-24T04:15:55.035484+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Dow Jones Futures Fall After Nasdaq Breaks Support; FedEx, Cerebras Tumble Late With Micron Due",
-      "description": "The Nasdaq broke key support Tuesday as AI stocks sold off, even as SpaceX reversed higher. FedEx and AI chip IPO Cerebras reported late. Micron earnings loom.",
-      "url": "https://finance.yahoo.com/m/54061d26-c12f-3c2e-a59e-529b10de60f6/dow-jones-futures-fall-after.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T23:40:47+00:00",
-      "category": "USA",
-      "simple_explanation": "The Nasdaq broke key support Tuesday as AI stocks sold off, even as SpaceX reversed higher. FedEx and AI chip IPO Cerebras reported late. Micron earnings loom."
+      "title": "Global Markets: MSCI keeps South Korea in emerging-market index, cites market accessibility hurdles",
+      "description": "South Korea remains in the emerging-market category as MSCI cites persistent foreign exchange market accessibility issues. Despite ongoing reforms, including plans for round-the-clock trading, the index provider requires more time to assess their impact. While the country's benchmark KOSPI has seen ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-msci-keeps-south-korea-in-emerging-market-index-cites-market-accessibility-hurdles/articleshow/131954352.cms",
+      "image": "https://img.etimg.com/photo/msid-131954352,imgsize-373188.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-24T03:57:15+00:00",
+      "category": "India",
+      "simple_explanation": "South Korea remains in the emerging-market category as MSCI cites persistent foreign exchange market accessibility issues. Despite ongoing reforms, including plans for round-the-clock trading, the ind"
     },
     {
-      "title": "MSCI keeps South Korea as emerging market, delays Indonesia review amid downgrade risk",
-      "description": "The review comes amid hopes that Seoul could be included in MSCI's Developed Markets watchlist.",
-      "url": "https://www.cnbc.com/2026/06/24/msci-south-korea-emerging-market-indonesia-review-extended.html",
+      "title": "Three New York Democrats backed by Mamdani win House seat primaries; 2 incumbents lose",
+      "description": "Two candidates backed by the Democratic Socialist of America won their primaries, a year after the DSA-backed Zohran Mamdani won New York mayor's race.",
+      "url": "https://www.cnbc.com/2026/06/24/mamdani-democrats-house-primary-lander-valdez-chevalier.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-06-23T23:37:53+00:00",
+      "published_at": "2026-06-24T03:56:45+00:00",
       "category": "USA",
-      "simple_explanation": "The review comes amid hopes that Seoul could be included in MSCI's Developed Markets watchlist."
+      "simple_explanation": "Two candidates backed by the Democratic Socialist of America won their primaries, a year after the DSA-backed Zohran Mamdani won New York mayor's race."
+    },
+    {
+      "title": "Asia tech stocks mixed as Samsung rebounds, but chip shares remain under pressure after global selloff",
+      "description": "Asia's technology stocks pared an earlier rebound to trade mixed on Wednesday after global equities posted steep losses in the previous session.",
+      "url": "https://www.cnbc.com/2026/06/24/asia-tech-stocks-rebound-after-global-rout.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-24T03:52:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Asia's technology stocks pared an earlier rebound to trade mixed on Wednesday after global equities posted steep losses in the previous session."
+    },
+    {
+      "title": "Waterways Leisure Tourism IPO Day 2: GMP signals flat debut - Should you apply?",
+      "description": "Waterways Leisure Tourism IPO entered Day 2 with weak investor demand and a GMP of around 1%, signalling a flat listing outlook. Subscription stood at just 19% on Day 1, with limited institutional interest. Analysts advise caution, recommending investors focus on long-term prospects rather than list",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/waterways-leisure-tourism-ipo-day-2-gmp-signals-flat-debut-should-you-apply/articleshow/131954199.cms",
+      "image": "https://img.etimg.com/photo/msid-131954199,imgsize-59440.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-24T03:49:10+00:00",
+      "category": "India",
+      "simple_explanation": "Waterways Leisure Tourism IPO entered Day 2 with weak investor demand and a GMP of around 1%, signalling a flat listing outlook. Subscription stood at just 19% on Day 1, with limited institutional int"
+    },
+    {
+      "title": "Vedanta Aluminium shares in focus as CLSA initiates Outperform call, sees 18% upside potential. Here's why",
+      "description": "Vedanta Aluminium shares are drawing attention after CLSA initiated coverage with an 'Outperform' rating and a Rs 540 target, citing a strong aluminium cycle and operational strengths. The brokerage anticipates backward integration will boost the company's global cost position and expects robust fre",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-shares-in-focus-as-clsa-initiates-outperform-call-sees-18-upside-potential-heres-why/articleshow/131954140.cms",
+      "image": "https://img.etimg.com/photo/msid-131954140,imgsize-17422.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-24T03:39:44+00:00",
+      "category": "India",
+      "simple_explanation": "Vedanta Aluminium shares are drawing attention after CLSA initiated coverage with an 'Outperform' rating and a Rs 540 target, citing a strong aluminium cycle and operational strengths. The brokerage a"
+    },
+    {
+      "title": "Rupee falls 16 paise to open at 94.90 against US dollar",
+      "description": "The rupee fell 16 paise to 94.90 against the US dollar as expectations of a Federal Reserve rate hike rise. Despite easing crude oil prices, the currency struggles, influenced by importer demand and the Fed's hawkish stance, with potential upside anticipated if it surpasses 95.",
+      "url": "https://www.livemint.com/market/rupee-falls-16-paise-to-open-at-94-90-against-us-dollar-11782272003453.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/8th_pay_commission_faq_money_da_salary_hikes_17523_1782272049577_1782272049723_eb2eac46-8089-4b5a-8906-c10f871c054b.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-24T03:34:59+00:00",
+      "category": "India",
+      "simple_explanation": "The rupee fell 16 paise to 94.90 against the US dollar as expectations of a Federal Reserve rate hike rise. Despite easing crude oil prices, the currency struggles, influenced by importer demand and t"
+    },
+    {
+      "title": "Gold rate crashes over 1% on MCX as US dollar index hits over 1-year high; experts highlight key levels to watch",
+      "description": "Gold rate crashed by over 1% on MCX as the US dollar index jumped to a 1-year high. MCX gold August futures were 1.21% down at  ₹1,44,759 per 10 grams, while MCX silver July futures were 0.71% down at  ₹2,24,227 per kg around 9:10 am.",
+      "url": "https://www.livemint.com/market/commodities/gold-price-today-rate-crashes-over-1-on-mcx-as-us-dollar-index-hits-1-year-high-experts-highlight-key-levels-to-watch-11782270128968.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/pexels-photo-366551_1781584700648_1781584717486_24fbc898-a60f-4425-976f-6e3190d233ee_1782270719664_6556431b-9226-4b58-995a-f7ac63a14a68.jpeg",
+      "source": "LiveMint",
+      "published_at": "2026-06-24T03:34:58+00:00",
+      "category": "India",
+      "simple_explanation": "Gold rate crashed by over 1% on MCX as the US dollar index jumped to a 1-year high. MCX gold August futures were 1.21% down at  ₹1,44,759 per 10 grams, while MCX silver July futures were 0.71% down at"
+    },
+    {
+      "title": "Leapfrog Engineering shares to list today. Check GMP ahead of debut",
+      "description": "The Rs 88.51-crore IPO was subscribed 2.70 times during the three-day bidding period. The issue saw strong institutional interest, with the qualified institutional buyers (QIB) portion subscribed 20.32 times and the non-institutional investor (NII) category booked 5.10 times. However, the retail por",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/leapfrog-engineering-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/131954091.cms",
+      "image": "https://img.etimg.com/photo/msid-131954091,imgsize-56784.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-24T03:32:57+00:00",
+      "category": "India",
+      "simple_explanation": "The Rs 88.51-crore IPO was subscribed 2.70 times during the three-day bidding period. The issue saw strong institutional interest, with the qualified institutional buyers (QIB) portion subscribed 20.3"
+    },
+    {
+      "title": "BSE to Marico - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
+      "description": "The Indian stock market may open flat amid mixed global cues and a significant selloff in tech stocks. The Nifty 50 closed below 24,000, marking a sideways to negative trend unless it regains this level. BSE, Marico, and Mankind Pharma show potential for movement.",
+      "url": "https://www.livemint.com/market/stock-market-news/bse-to-marico-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11782271027931.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/DSC02469_1737528551670_1782271736498_006fed40-27e0-4121-af4b-a332de648fea.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-24T03:31:54+00:00",
+      "category": "India",
+      "simple_explanation": "The Indian stock market may open flat amid mixed global cues and a significant selloff in tech stocks. The Nifty 50 closed below 24,000, marking a sideways to negative trend unless it regains this lev"
+    },
+    {
+      "title": "Why the NSE IPO may not create wealth like BSE’s did",
+      "description": "The NSE IPO arrives after a decade-long boom in Indian markets that enriched existing shareholders. While the exchange remains dominant and highly profitable, matching the stellar returns delivered by BSE since 2017 may prove far tougher.",
+      "url": "https://www.livemint.com/market/nse-ipo-national-stock-exchange-bse-stock-exchange-ipo-derivatives-trading-equity-options-indian-stock-market-11782224092900.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/COFORGE-STOCKS--0_1782267645199_1782267658686_6eb1c1fe-b7b1-4b52-9c2a-4f0f3acef9cb.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-06-24T03:30:56+00:00",
+      "category": "India",
+      "simple_explanation": "The NSE IPO arrives after a decade-long boom in Indian markets that enriched existing shareholders. While the exchange remains dominant and highly profitable, matching the stellar returns delivered by"
+    },
+    {
+      "title": "IRFC shares tumble 5% as OFS opens for non-retail investors. Here’s what shareholders should know",
+      "description": "IRFC shares dipped 5% as the government launched an Offer for Sale, planning to sell a 1% stake at a floor price of Rs 91. This move aims to boost the stock's free float and liquidity. The sale, part of the Centre's divestment drive, follows similar offerings in other public sector undertakings. Des",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/irfc-shares-in-focus-as-ofs-opens-for-non-retail-investors-heres-what-shareholders-should-know/articleshow/131954018.cms",
+      "image": "https://img.etimg.com/photo/msid-131954018,imgsize-708847.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-24T03:22:46+00:00",
+      "category": "India",
+      "simple_explanation": "IRFC shares dipped 5% as the government launched an Offer for Sale, planning to sell a 1% stake at a floor price of Rs 91. This move aims to boost the stock's free float and liquidity. The sale, part "
+    },
+    {
+      "title": "Bajaj Auto shares fall 2% as firm, subsidiary fall prey to ransomware attack",
+      "description": "Bajaj Auto shares dipped 2% following a ransomware attack on its systems and subsidiary, Bajaj Auto Technology Ltd, on June 23, 2026. The company is taking immediate steps to contain the impact. This news surfaces just before the June 24 record date for its substantial Rs 5,632 crore share buyback, ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-shares-in-focus-as-firm-subsidiary-fall-prey-to-ransomware-attack/articleshow/131953983.cms",
+      "image": "https://img.etimg.com/photo/msid-131953983,imgsize-55704.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-24T03:19:54+00:00",
+      "category": "India",
+      "simple_explanation": "Bajaj Auto shares dipped 2% following a ransomware attack on its systems and subsidiary, Bajaj Auto Technology Ltd, on June 23, 2026. The company is taking immediate steps to contain the impact. This "
+    },
+    {
+      "title": "LIC dividend alert! Last day to buy insurance behemoth’s shares for Rs 10 dividend",
+      "description": "LIC has fixed June 25 as the record date for its Rs 10 final dividend, making today the last opportunity for investors to buy shares to qualify under the T+1 settlement cycle. The payout, subject to AGM approval, comes alongside broader dividend announcements across several listed companies.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lic-dividend-alert-last-day-to-buy-insurance-behemoths-shares-for-rs-10-dividend/articleshow/131953941.cms",
+      "image": "https://img.etimg.com/photo/msid-131953941,imgsize-70630.cms",
+      "source": "ET Markets",
+      "published_at": "2026-06-24T03:16:57+00:00",
+      "category": "India",
+      "simple_explanation": "LIC has fixed June 25 as the record date for its Rs 10 final dividend, making today the last opportunity for investors to buy shares to qualify under the T+1 settlement cycle. The payout, subject to A"
+    },
+    {
+      "title": "CSM Technologies IPO Day 1: Issue opens today. Check GMP, key dates, review. Apply or not?",
+      "description": "CSM Technologies IPO is set from June 24-29, 2026, with an anchor investor raise of  ₹20 crore. The price band is  ₹107-113 per share, aimed at qualified institutional and retail investors. Listing expected on 2 July, with mixed brokerage views on the offering.",
+      "url": "https://www.livemint.com/market/ipo/csm-technologies-ipo-gmp-csm-technologies-ipo-review-csm-technologies-ipo-size-csm-technologies-ipo-csm-technologies-11782268900366.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/6a1d510065b9e1780306176_1782270722824_1782270727911_29a7825a-b037-49e0-9c39-60ece31271b5.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-24T03:14:51+00:00",
+      "category": "India",
+      "simple_explanation": "CSM Technologies IPO is set from June 24-29, 2026, with an anchor investor raise of  ₹20 crore. The price band is  ₹107-113 per share, aimed at qualified institutional and retail investors. Listing ex"
+    },
+    {
+      "title": "StarkWare introduces 'Private KYC' to address personal data breaches",
+      "description": "“Identity checks today ask for your whole document when they only need one fact,” Starknet said.",
+      "url": "https://cointelegraph.com/news/starkware-introduces-private-kyc-to-address-personal-data-breaches?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/online-identity-verification-1.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-24T03:14:04+00:00",
+      "category": "Crypto",
+      "simple_explanation": "“Identity checks today ask for your whole document when they only need one fact,” Starknet said."
+    },
+    {
+      "title": "Dow Jones Futures: Nasdaq Breaks Key Support; FedEx, Cerebras Tumble Late With Micron Due",
+      "description": "Tech futures rose slightly after the Nasdaq broke key support on Tuesday FedEx and AI chip IPO Cerebras dived late.",
+      "url": "https://finance.yahoo.com/m/54061d26-c12f-3c2e-a59e-529b10de60f6/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T03:07:24+00:00",
+      "category": "USA",
+      "simple_explanation": "Tech futures rose slightly after the Nasdaq broke key support on Tuesday FedEx and AI chip IPO Cerebras dived late."
+    },
+    {
+      "title": "Info Edge among 4 stocks showing bullish RSI upswing",
+      "description": "Four stocks in the Nifty200 pack featured in the RSI Trending Up scan on June 23 after showing improving momentum. The RSI moved above the 50 mark from lower levels, signalling strengthening price action, improving sentiment and potential short-term buying opportunities for traders tracking bullish ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/info-edge-among-4-stocks-showing-bullish-rsi-upswing/slideshow/131953833.cms",
+      "image": "https://img.etimg.com/photo/msid-131953813,imgsize-294896.cms",
+      "source": "ET Markets",
+      "published_at": "2026-06-24T03:06:51+00:00",
+      "category": "India",
+      "simple_explanation": "Four stocks in the Nifty200 pack featured in the RSI Trending Up scan on June 23 after showing improving momentum. The RSI moved above the 50 mark from lower levels, signalling strengthening price act"
+    },
+    {
+      "title": "Seoul bounces as Asian markets look to recover from rout",
+      "description": "South Korean stocks bounced back Wednesday from the previous day's rout, while the rest of Asia battled to recover from a region-wide sell-off amid lingering concern about the AI spending boom.While no specific catalyst was blamed for the selling, analysts said it illustrated the growing concern on ",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/seoul-bounces-asian-markets-look-030404307.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T03:04:04+00:00",
+      "category": "Commodities",
+      "simple_explanation": "South Korean stocks bounced back Wednesday from the previous day's rout, while the rest of Asia battled to recover from a region-wide sell-off amid lingering concern about the AI spending boom.While n"
+    },
+    {
+      "title": "Buy or sell: Vaishali Parekh recommends three intraday stocks for today - 24 June 2026",
+      "description": "Buy or sell stocks, 24 June 2026: Vaishali Parekh recommends three stocks to buy today — Mahindra Logistics, Reliance Industries, and Genus Power Infrastructures.",
+      "url": "https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-intraday-stocks-for-today-24-june-2026-11782267797791.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/Buy_or_sell_stocks_to_buy_today_stock_market_today_1698023021624_1782269121723_f43a1701-f510-476f-b0ec-648b484cf6bf.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-24T02:52:43+00:00",
+      "category": "India",
+      "simple_explanation": "Buy or sell stocks, 24 June 2026: Vaishali Parekh recommends three stocks to buy today — Mahindra Logistics, Reliance Industries, and Genus Power Infrastructures."
+    },
+    {
+      "title": "Benz Defines Maiden Gold Exploration Target at Glenburgh",
+      "description": "HIGHLIGHTS:Maiden Glenburgh Exploration Target indicates Glenburgh has the potential to be an emerging major gold system, with the scale, geological architecture and growth potential to support a world-class gold project. The Exploration Target is informed and supported by substantial drilling, with",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/benz-defines-maiden-gold-exploration-024300581.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T02:43:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "HIGHLIGHTS:Maiden Glenburgh Exploration Target indicates Glenburgh has the potential to be an emerging major gold system, with the scale, geological architecture and growth potential to support a worl"
+    },
+    {
+      "title": "CFTC sues Kentucky after state’s prediction market lawsuits",
+      "description": "The Commodity Futures Trading Commission has sued Kentucky, now the ninth state the regulator is battling in its fight over prediction markets.",
+      "url": "https://cointelegraph.com/news/cftc-sues-kentucky-after-states-prediction-market-lawsuits?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-cftcs-action-against-is-bad-news-for-bitcoin-etfs.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-24T02:40:41+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Commodity Futures Trading Commission has sued Kentucky, now the ninth state the regulator is battling in its fight over prediction markets."
+    },
+    {
+      "title": "Wall Street is getting trampled by an AI sell-off. South Korean market plunges 10%",
+      "description": "Volatility has returned to the stock market, and AI is once again the culprit.",
+      "url": "https://www.cnn.com/2026/06/23/business/stock-market-kospi-dow-nasdaq-ai?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T02:23:58+00:00",
+      "category": "USA",
+      "simple_explanation": "Volatility has returned to the stock market, and AI is once again the culprit."
+    },
+    {
+      "title": "Alphabet to replace Verizon in Dow Jones reshuffle, shares rise",
+      "description": "Alphabet was poised to open higher on Wednesday after the tech giant was tapped to join the Dow Jones Industrial Average, replacing Verizon.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/alphabet-to-replace-verizon-in-dow-jones-reshuffle-shares-rise-021307109.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T02:13:07+00:00",
+      "category": "USA",
+      "simple_explanation": "Alphabet was poised to open higher on Wednesday after the tech giant was tapped to join the Dow Jones Industrial Average, replacing Verizon."
+    },
+    {
+      "title": "VIX owner Cboe jumps into prediction markets to build on zero-day options growth",
+      "description": "Global markets operator Cboe has launched its first prediction markets products to meet consumer demand in the fast growing sector.",
+      "url": "https://www.cnbc.com/2026/06/24/vix-owner-cboe-jumps-into-prediction-markets-to-build-on-0dte-growth.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-24T02:07:56+00:00",
+      "category": "USA",
+      "simple_explanation": "Global markets operator Cboe has launched its first prediction markets products to meet consumer demand in the fast growing sector."
+    },
+    {
+      "title": "Alphabet added to Dow Jones Industrial Average, replacing Verizon",
+      "description": "Alphabet will replace Verizon in the Dow Jones Industrial Average.",
+      "url": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-24T01:40:44+00:00",
+      "category": "USA",
+      "simple_explanation": "Alphabet will replace Verizon in the Dow Jones Industrial Average."
+    },
+    {
+      "title": "Tech Stock Declines: 3 Crucial Things Every Investor Should Do Now",
+      "description": "Formerly winning stocks have slipped in recent days.",
+      "url": "https://www.fool.com/investing/2026/06/23/tech-stock-declines-3-crucial-things-every-inv/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T01:25:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Formerly winning stocks have slipped in recent days."
+    },
+    {
+      "title": "Dow, S&P 500, Nasdaq Futures Rise After Chip Stock Selloff: Why CBRS, PLTR, BLZE, MU, FDX Are Trending",
+      "description": "Trump said 19 million barrels of oil flowed through the Strait of Hormuz on Monday, calling it an all-time record.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dow-sp500-nasdaq-futures-cbrs-pltr-blze-mu-fdx-trending/cZKUtabR7OI?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T01:22:01+00:00",
+      "category": "USA",
+      "simple_explanation": "Trump said 19 million barrels of oil flowed through the Strait of Hormuz on Monday, calling it an all-time record."
+    },
+    {
+      "title": "The Dow Jones Industrial Average Will Change Forever on June 29, With Verizon Getting the Boot and a Virtual Monopoly Joining the Index",
+      "description": "Verizon's 22-year run in the iconic Dow is ending, with a trillion-dollar company that's an artificial intelligence (AI) applications leader taking its place.",
+      "url": "https://www.fool.com/investing/2026/06/23/dow-change-forever-on-june-29-vz-boot-googl-join/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T00:19:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Verizon's 22-year run in the iconic Dow is ending, with a trillion-dollar company that's an artificial intelligence (AI) applications leader taking its place."
+    },
+    {
+      "title": "GOOGL Stock Gains After-Hours As Alphabet Is Set To Replace Verizon In Dow Jones — Retail Eyes ‘$400’ Level",
+      "description": "Dow Jones Industrial Average reshuffle adds Alphabet while Honeywell undergoes a spin-off of its aerospace business.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/googl-stock-gains-after-hours-alphabet-replace-verizon-dow-jones-retail-eyes-400-level/cZKUA3aR7OE?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-24T00:01:28+00:00",
+      "category": "USA",
+      "simple_explanation": "Dow Jones Industrial Average reshuffle adds Alphabet while Honeywell undergoes a spin-off of its aerospace business."
+    },
+    {
+      "title": "Review & Preview: AI Jitters",
+      "description": "REVIEW PREVIEW NEWSLETTER Chip off the Old Block. All eyes were on tech today as the sector declined 3.7% and investors sold off chip stocks. Even some of the bigger artificial intelligence companies took a hit.",
+      "url": "https://finance.yahoo.com/m/b6dedebc-86c9-3507-a6fb-d5726362de0a/review-%26-preview%3A-ai-jitters.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T23:55:00+00:00",
+      "category": "USA",
+      "simple_explanation": "REVIEW PREVIEW NEWSLETTER Chip off the Old Block. All eyes were on tech today as the sector declined 3.7% and investors sold off chip stocks. Even some of the bigger artificial intelligence companies "
+    },
+    {
+      "title": "Gold Drops Below $4,100 as Tech-Led Selloff Spurs Liquidation",
+      "description": "(Bloomberg) -- Gold extended a decline, as a tech-led selloff on Wall Street prompted investors to cut bullion holdings to cover losses elsewhere in their portfolios.Most Read from BloombergStocks Slide as Wall Street Gets AI Wake-Up Call: Markets WrapOracle Cut 21,000 Jobs in 12 Months, Says AI Rep",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-drops-below-4-100-234936582.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T23:49:36+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Bloomberg) -- Gold extended a decline, as a tech-led selloff on Wall Street prompted investors to cut bullion holdings to cover losses elsewhere in their portfolios.Most Read from BloombergStocks Sli"
     },
     {
       "title": "Ethereum’s much-hated staking 'tax' may already be obsolete",
-      "description": "Ethereum’s latest “funding crisis” has triggered a fierce debate: a contentious plan to tax staking rewards versus a new wave of labs and large ETH holders funding development offchain.",
+      "description": "Ethereum’s latest “funding crisis” has triggered a fierce debate over whether to tax staking rewards or to pursue funding from large ETH holders for new organizations like EthLabs.",
       "url": "https://cointelegraph.com/features/ethereums-funding-scare-why-a-hated-staking-tax-may-already-be-obsolete?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-and-break.jpg",
       "source": "CoinTelegraph",
       "published_at": "2026-06-23T23:18:08+00:00",
       "category": "Crypto",
-      "simple_explanation": "Ethereum’s latest “funding crisis” has triggered a fierce debate: a contentious plan to tax staking rewards versus a new wave of labs and large ETH holders funding development offchain."
+      "simple_explanation": "Ethereum’s latest “funding crisis” has triggered a fierce debate over whether to tax staking rewards or to pursue funding from large ETH holders for new organizations like EthLabs."
     },
     {
       "title": "READOUT - Minister LeBlanc meets with business leaders in Fort McMurray",
@@ -73,24 +363,14 @@
       "simple_explanation": "STORY: A down day on Wall Street Tuesday saw the Dow edge lower, while the S&P 500 tumbled nearly one-and-a-half percent and the tech-heavy Nasdaq plummeted about 2.2%.Jitters over debt-funded AI spen"
     },
     {
-      "title": "Extra Space Storage Releases 2025 Sustainability Report",
-      "description": "Extra Space Storage, Inc. (NYSE: EXR), a self-administered and self-managed Real Estate Investment Trust and member of the S&P 500 today announced the publication of its annual sustainability report. The report details the company's progress across key corporate responsibility initiatives, including",
-      "url": "https://finance.yahoo.com/real-estate/articles/extra-space-storage-releases-2025-224600023.html?.tsrc=rss",
+      "title": "BITO’s 0.95% Fee Is Only Half the Problem. Here’s Why Bitcoin Futures Cost You 2.9% Annually",
+      "description": "Bitcoin is up 84.59% over the past five years. ProShares Bitcoin Strategy ETF (NYSEARCA:BITO), the fund millions of investors bought to ride that exact wave, is down 24.26% over the same window. That gap is the hidden cost. What You’re Actually Paying Start with the sticker price. BITO charges a 0.9",
+      "url": "https://247wallst.com/investing/2026/06/23/bitos-0-95-fee-is-only-half-the-problem-heres-why-bitcoin-futures-cost-you-2-9-annually/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-06-23T22:46:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Extra Space Storage, Inc. (NYSE: EXR), a self-administered and self-managed Real Estate Investment Trust and member of the S&P 500 today announced the publication of its annual sustainability report. "
-    },
-    {
-      "title": "Alphabet added to Dow Jones Industrial Average, replacing Verizon",
-      "description": "Alphabet will replace Verizon in the Dow Jones Industrial Average.",
-      "url": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-23T22:44:45+00:00",
-      "category": "USA",
-      "simple_explanation": "Alphabet will replace Verizon in the Dow Jones Industrial Average."
+      "published_at": "2026-06-23T22:41:29+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin is up 84.59% over the past five years. ProShares Bitcoin Strategy ETF (NYSEARCA:BITO), the fund millions of investors bought to ride that exact wave, is down 24.26% over the same window. That "
     },
     {
       "title": "The 28% Tax Trap Inside GLD That Your Brokerage Statement Won’t Show",
@@ -101,26 +381,6 @@
       "published_at": "2026-06-23T22:27:28+00:00",
       "category": "Commodities",
       "simple_explanation": "Gold is supposed to be the panic asset. The thing you own when everything else breaks. So why does the most famous gold ETF on Wall Street skim more from your bullion stake than three of its near-iden"
-    },
-    {
-      "title": "Honeywell Aerospace set to join S&P 500 and S&P 100 on June 29",
-      "description": "Investing.com -- Honeywell International’s highly anticipated spinoff, Honeywell Aerospace Inc (NASDAQ:HONAV), is set to join both the S&P 100 and S&P 500 indices when the transaction finalizes on June 29. The high-profile double inclusion sent the spinoff’s when-issued shares (HONAV) soaring 9.4% i",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-set-join-p-222412904.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T22:24:12+00:00",
-      "category": "USA",
-      "simple_explanation": "Investing.com -- Honeywell International’s highly anticipated spinoff, Honeywell Aerospace Inc (NASDAQ:HONAV), is set to join both the S&P 100 and S&P 500 indices when the transaction finalizes on Jun"
-    },
-    {
-      "title": "JEPI’s 0.35% Fee Is a Trap: The Real Cost Is the 14.48% Return Gap vs. SPY",
-      "description": "The fact sheet says JPMorgan Equity Premium Income ETF (NYSEARCA:JEPI) charges just 0.35%, but that number is a magician’s misdirection. The real cost of owning JEPI is the upside the fund hands back to the options market every month, plus the tax bill the IRS hands you every April. What You’re Actu",
-      "url": "https://247wallst.com/investing/2026/06/23/jepis-0-35-fee-is-a-trap-the-real-cost-is-the-14-48-return-gap-vs-spy/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T22:21:50+00:00",
-      "category": "USA",
-      "simple_explanation": "The fact sheet says JPMorgan Equity Premium Income ETF (NYSEARCA:JEPI) charges just 0.35%, but that number is a magician’s misdirection. The real cost of owning JEPI is the upside the fund hands back "
     },
     {
       "title": "USO’s Hidden Math: Why Oil’s 73% Gain Became Your 22% Return",
@@ -141,266 +401,6 @@
       "published_at": "2026-06-23T22:15:20+00:00",
       "category": "Crypto",
       "simple_explanation": "ETH price hangs in the balance as a fresh wave of liquidations pressure the altcoin and spillover from Bitcoin’s struggles to hold $62,000 impact investor sentiment."
-    },
-    {
-      "title": "Southern Co. (SO) Gains As Market Dips: What You Should Know",
-      "description": "Southern Co. (SO) reached $94.93 at the closing of the latest trading day, reflecting a +1.61% change compared to its last close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/southern-co-gains-market-dips-221506844.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T22:15:06+00:00",
-      "category": "USA",
-      "simple_explanation": "Southern Co. (SO) reached $94.93 at the closing of the latest trading day, reflecting a +1.61% change compared to its last close."
-    },
-    {
-      "title": "Teradyne (TER) Suffers a Larger Drop Than the General Market: Key Insights",
-      "description": "In the closing of the recent trading day, Teradyne (TER) stood at $420.12, denoting a -8.07% move from the preceding trading day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-suffers-larger-drop-221506857.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T22:15:06+00:00",
-      "category": "USA",
-      "simple_explanation": "In the closing of the recent trading day, Teradyne (TER) stood at $420.12, denoting a -8.07% move from the preceding trading day."
-    },
-    {
-      "title": "Star Bulk Carriers (SBLK) Ascends While Market Falls: Some Facts to Note",
-      "description": "In the most recent trading session, Star Bulk Carriers (SBLK) closed at $26.98, indicating a +1.73% shift from the previous trading day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/star-bulk-carriers-sblk-ascends-221505643.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T22:15:05+00:00",
-      "category": "USA",
-      "simple_explanation": "In the most recent trading session, Star Bulk Carriers (SBLK) closed at $26.98, indicating a +1.73% shift from the previous trading day."
-    },
-    {
-      "title": "MPLX LP (MPLX) Rises As Market Takes a Dip: Key Facts",
-      "description": "MPLX LP (MPLX) concluded the recent trading session at $57.68, signifying a +1.37% move from its prior day's close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mplx-lp-mplx-rises-market-221505104.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T22:15:05+00:00",
-      "category": "USA",
-      "simple_explanation": "MPLX LP (MPLX) concluded the recent trading session at $57.68, signifying a +1.37% move from its prior day's close."
-    },
-    {
-      "title": "Newmont (NEM) Stock Price Pullback Versus Cash Flow And Earnings Valuation Signals",
-      "description": "If you are wondering whether Newmont stock still offers value at recent prices, this article breaks down what current valuation signals are actually saying. The share price closed at US$97.84, with returns declining 9.8% over the past week and 9.1% over the past month, while still up 70.2% over 1 ye",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/newmont-nem-stock-price-pullback-221253370.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T22:12:53+00:00",
-      "category": "Commodities",
-      "simple_explanation": "If you are wondering whether Newmont stock still offers value at recent prices, this article breaks down what current valuation signals are actually saying. The share price closed at US$97.84, with re"
-    },
-    {
-      "title": "Cerebras falls 10% after chipmaker forecasts shrinking margin in first earnings report since IPO",
-      "description": "Cerebras went public on the Nasdaq in May, giving Wall Street access to a pureplay AI company.",
-      "url": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-23T22:11:21+00:00",
-      "category": "USA",
-      "simple_explanation": "Cerebras went public on the Nasdaq in May, giving Wall Street access to a pureplay AI company."
-    },
-    {
-      "title": "Bank of America's latest gold outlook sends a different signal",
-      "description": "Gold has pulled back roughly 17% since the start of the Iran conflict, settling around $4,156 an ounce by June 20. The Iran war created an unusual dynamic where rising energy prices fed inflation expectations, pushing the Fed toward tighter policy and turning one of gold's biggest tailwinds into a .",
-      "url": "https://www.thestreet.com/investing/bank-of-americas-latest-gold-outlook-sends-a-different-signal?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T22:07:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold has pulled back roughly 17% since the start of the Iran conflict, settling around $4,156 an ounce by June 20. The Iran war created an unusual dynamic where rising energy prices fed inflation expe"
-    },
-    {
-      "title": "Could Adam Back's bitcoin treasury group go public via SPAC this week?",
-      "description": "Scott Melker discusses the possibility of Bitcoin Standard Treasury Company (BSTR) — a big-time bitcoin (BTC-USD) buyer headed by Adam Back — going public via a SPAC merger as soon as this Friday, June 23. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of",
-      "url": "https://finance.yahoo.com/video/could-adam-backs-bitcoin-treasury-220000155.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T22:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Scott Melker discusses the possibility of Bitcoin Standard Treasury Company (BSTR) — a big-time bitcoin (BTC-USD) buyer headed by Adam Back — going public via a SPAC merger as soon as this Friday, Jun"
-    },
-    {
-      "title": "Starmer steps down: What Andy Burnham means for crypto in the UK",
-      "description": "Burnham brings a dose of optimism to the UK crypto industry, having previously supported the blockchain industry as mayor of Manchester.",
-      "url": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-236230-uk-lawmakers-bank-of-england-stablecoin-rules-offshore-risk.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-23T22:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Burnham brings a dose of optimism to the UK crypto industry, having previously supported the blockchain industry as mayor of Manchester."
-    },
-    {
-      "title": "FedEx posts strong earnings results in last quarter with freight business",
-      "description": "FedEx posted strong fiscal fourth quarter earnings on Tuesday in the company's last quarter that included the freight business before its spin-off.",
-      "url": "https://www.cnbc.com/2026/06/23/fedex-fdx-q4-2026-earnings.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-23T21:58:31+00:00",
-      "category": "USA",
-      "simple_explanation": "FedEx posted strong fiscal fourth quarter earnings on Tuesday in the company's last quarter that included the freight business before its spin-off."
-    },
-    {
-      "title": "Here's Why Diversified Energy Company PLC (DEC) Fell More Than Broader Market",
-      "description": "Diversified Energy Company PLC (DEC) closed the most recent trading day at $12.93, moving 1.45% from the previous trading session.",
-      "url": "https://finance.yahoo.com/energy/articles/heres-why-diversified-energy-company-215003722.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T21:50:03+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Diversified Energy Company PLC (DEC) closed the most recent trading day at $12.93, moving 1.45% from the previous trading session."
-    },
-    {
-      "title": "Agnico Eagle Mines (AEM) Suffers a Larger Drop Than the General Market: Key Insights",
-      "description": "The latest trading day saw Agnico Eagle Mines (AEM) settling at $160.16, representing a -4.01% change from its previous close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-suffers-215002838.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T21:50:02+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The latest trading day saw Agnico Eagle Mines (AEM) settling at $160.16, representing a -4.01% change from its previous close."
-    },
-    {
-      "title": "CFTC sues Kentucky over actions against prediction markets, making it first red state to face federal scrutiny",
-      "description": "The commission has now sued nine states in its battle to defend what it sees as its exclusive right to regulate event contracts.",
-      "url": "https://www.cnbc.com/2026/06/23/cftc-sues-kentucky-over-actions-against-prediction-markets.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-06-23T21:31:49+00:00",
-      "category": "Global",
-      "simple_explanation": "The commission has now sued nine states in its battle to defend what it sees as its exclusive right to regulate event contracts."
-    },
-    {
-      "title": "SpaceX raises $25 billion in debt sale less than two weeks after IPO",
-      "description": "SpaceX raised $25 billion in a debt sale, after seeing nearly $90 billion worth of orders, sources say.",
-      "url": "https://www.cnbc.com/2026/06/23/spacex-debt-bond-market-ipo.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-23T21:29:33+00:00",
-      "category": "USA",
-      "simple_explanation": "SpaceX raised $25 billion in a debt sale, after seeing nearly $90 billion worth of orders, sources say."
-    },
-    {
-      "title": "Brent Settles at Lowest Price Since War Began. Iran Weighs Fees to Cross the Strait of Hormuz.",
-      "description": "The two countries said that they were working on an agreement on the future administration of navigation through the Strait of Hormuz and its associated costs.",
-      "url": "https://finance.yahoo.com/m/a922c157-cdd9-357a-8494-8963cb970e04/brent-settles-at-lowest-price.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T21:25:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The two countries said that they were working on an agreement on the future administration of navigation through the Strait of Hormuz and its associated costs."
-    },
-    {
-      "title": "Mark Zuckerberg ordered Meta staff to develop moneyless prediction market: NYT",
-      "description": "The Meta CEO reportedly plans for the company to launch a prediction market independent of its other apps allowing users to place wagers using a points system rather than money.",
-      "url": "https://cointelegraph.com/news/mark-zuckerberg-meta-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-legal-implications-of-betting-markets.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-23T21:01:32+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The Meta CEO reportedly plans for the company to launch a prediction market independent of its other apps allowing users to place wagers using a points system rather than money."
-    },
-    {
-      "title": "TSX Closer: Index Falls as Base Metals Slump Overshadows Broad Sector Gains",
-      "description": "The Toronto Stock Exchange closed lower on Tuesday as sharp losses in base metals stocks outweighed",
-      "url": "https://finance.yahoo.com/economy/articles/tsx-closer-index-falls-metals-202558204.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T20:25:58+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The Toronto Stock Exchange closed lower on Tuesday as sharp losses in base metals stocks outweighed"
-    },
-    {
-      "title": "Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect",
-      "description": "Voters are heading to the polls in New York, with four competitive races in Democratic congressional primaries in focus.",
-      "url": "https://www.cnbc.com/2026/06/23/prediction-market-traders-expectations-for-the-ny-primaries.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-06-23T20:25:32+00:00",
-      "category": "Global",
-      "simple_explanation": "Voters are heading to the polls in New York, with four competitive races in Democratic congressional primaries in focus."
-    },
-    {
-      "title": "IBD Stock Of The Day: Pawnshop Operator Makes Kingly Move",
-      "description": "The pawnshop stock is up 70% this year. Affordability concerns and high gold prices are boosting the business.",
-      "url": "https://finance.yahoo.com/m/6578f9b5-5d40-399f-9897-10110eb0f920/ibd-stock-of-the-day%3A.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T20:21:52+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The pawnshop stock is up 70% this year. Affordability concerns and high gold prices are boosting the business."
-    },
-    {
-      "title": "Meta is building a prediction markets app. These stocks fell in response",
-      "description": "The report said that CEO Mark Zuckerberg directed staff to develop a prediction markets platform, internally known as \"Arena.\"",
-      "url": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-06-23T20:09:00+00:00",
-      "category": "Global",
-      "simple_explanation": "The report said that CEO Mark Zuckerberg directed staff to develop a prediction markets platform, internally known as \"Arena.\""
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-23T20:07:02+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "US Stock: S&P, Nasdaq end lower on semiconductor selloff as AI spending concerns mount",
-      "description": "Indian markets mirrored global trends as major indices, including the Nasdaq and S&P 500, closed at over a week's low on Tuesday. Semiconductor stocks experienced significant declines, fueled by investor concerns over debt-fueled AI spending and anticipation of a more hawkish stance from the U.S. Fe",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-sp-nasdaq-end-lower-on-semiconductor-selloff-as-ai-spending-concerns-mount/articleshow/131949698.cms",
-      "image": "https://img.etimg.com/photo/msid-131949698,imgsize-134242.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-23T20:02:23+00:00",
-      "category": "India",
-      "simple_explanation": "Indian markets mirrored global trends as major indices, including the Nasdaq and S&P 500, closed at over a week's low on Tuesday. Semiconductor stocks experienced significant declines, fueled by inves"
-    },
-    {
-      "title": "Crypto isn't the problem with the US economy, says senator",
-      "description": "Louisiana Senator John Kennedy largely dismissed what he called the “promotion” of cryptocurrency by the Digital Chamber CEO Cody Carbone in a Senate hearing on affordability.",
-      "url": "https://cointelegraph.com/news/digital-chamber-overlooked-senate-affordability-hearing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hinew-us-government-crypto2-2.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-23T19:49:59+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Louisiana Senator John Kennedy largely dismissed what he called the “promotion” of cryptocurrency by the Digital Chamber CEO Cody Carbone in a Senate hearing on affordability."
-    },
-    {
-      "title": "SpaceX seeing some interest from short sellers, but many still afraid to bet against Musk",
-      "description": "About 40 million SpaceX shares are sold short, roughly 5% to 7% of the shares that are publicly available to trade, according to an estimate by S3 Partners.",
-      "url": "https://www.cnbc.com/2026/06/23/spacex-seeing-interest-from-short-sellers-but-most-afraid-to-go-against-musk.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-06-23T19:33:07+00:00",
-      "category": "Global",
-      "simple_explanation": "About 40 million SpaceX shares are sold short, roughly 5% to 7% of the shares that are publicly available to trade, according to an estimate by S3 Partners."
-    },
-    {
-      "title": "Congress Is Taking the CLARITY Act to New York: What It Changes for Bitcoin, Ethereum, and XRP",
-      "description": "This July, lawmakers are taking the CLARITY Act to New York for a hearing, and it’s being billed like the day U.S. crypto rules finally arrive. The CLARITY Act is the big market-structure bill, the one meant to settle which regulator is in charge of crypto and whether a token counts as a commodity o",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/06/23/congress-is-taking-the-clarity-act-to-new-york-what-it-changes-for-bitcoin-ethereum-and-xrp/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T17:43:38+00:00",
-      "category": "Crypto",
-      "simple_explanation": "This July, lawmakers are taking the CLARITY Act to New York for a hearing, and it’s being billed like the day U.S. crypto rules finally arrive. The CLARITY Act is the big market-structure bill, the on"
-    },
-    {
-      "title": "Robinhood is borrowing $2 billion at 0% interest: What to know",
-      "description": "Scott Melker explains what's going on with Robinhood's (HOOD) convertible debt play. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
-      "url": "https://finance.yahoo.com/video/robinhood-borrowing-2-billion-0-172911435.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-23T17:29:11+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Scott Melker explains what's going on with Robinhood's (HOOD) convertible debt play. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. M"
     }
   ]
 }
