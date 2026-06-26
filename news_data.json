@@ -1,16 +1,376 @@
 {
-  "last_updated": "2026-06-26T13:11:28.848971+00:00",
+  "last_updated": "2026-06-26T16:16:56.277898+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Ex-Apollo CEO Leon Black says Jeffrey Epstein duped him out of more than $60 million",
+      "title": "Trump says Iran violated ceasefire with drone attacks on Strait of Hormuz ships",
       "description": "",
+      "url": "https://www.cnbc.com/2026/06/26/trump-iran-ceasefire-strait-of-hormuz.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-26T16:15:36+00:00",
+      "category": "USA",
+      "simple_explanation": ""
+    },
+    {
+      "title": "US senators push to end CFTC ‘assault’ on state oversight of prediction markets",
+      "description": "A group of 17 Democratic senators went after the CFTC’s funding for lawsuits over prediction markets, calling it an “assault” on state authorities.",
+      "url": "https://cointelegraph.com/news/us-senators-cftc-assault-state-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-cftc-announces-contest-stablecoin.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-26T16:10:37+00:00",
+      "category": "Crypto",
+      "simple_explanation": "A group of 17 Democratic senators went after the CFTC’s funding for lawsuits over prediction markets, calling it an “assault” on state authorities."
+    },
+    {
+      "title": "Stocks recover from tech tremors as oil prices fall",
+      "description": "Wall Street's main stock indices overcame an early bout of tech jitters Friday thanks to buy-the-dip traders, while oil prices fell sharply.But the three main indices pushed into positive territory during the morning session in New York.",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-drop-again-rollercoaster-022857774.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T16:05:41+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Wall Street's main stock indices overcame an early bout of tech jitters Friday thanks to buy-the-dip traders, while oil prices fell sharply.But the three main indices pushed into positive territory du"
+    },
+    {
+      "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
+      "description": "Kashkari said he sees a hike likely this year as the economy continues to feel the hit from spiking inflation.",
+      "url": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-26T16:04:42+00:00",
+      "category": "USA",
+      "simple_explanation": "Kashkari said he sees a hike likely this year as the economy continues to feel the hit from spiking inflation."
+    },
+    {
+      "title": "Update: Consumer Discretionary Helps Push US Equity Indexes Higher in Midday Trading",
+      "description": "(Updates with index/price moves, macroeconomic data, and company/political news from the first parag",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/consumer-discretionary-helps-push-us-155847170.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T15:58:47+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with index/price moves, macroeconomic data, and company/political news from the first parag"
+    },
+    {
+      "title": "This Energy Stock Tests Support, Eyes Entry Amid Strait Of Hormuz Uncertainty",
+      "description": "An uneasy calm has hit the oil space since the U.S. struck an interim peace deal with Iran. So this energy stock is one to watch for now as it carves out a fresh pattern and tests buying support.",
+      "url": "https://finance.yahoo.com/m/efc96dc1-fcd6-3808-962e-ef9b1429fde4/this-energy-stock-tests.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T15:58:21+00:00",
+      "category": "Commodities",
+      "simple_explanation": "An uneasy calm has hit the oil space since the U.S. struck an interim peace deal with Iran. So this energy stock is one to watch for now as it carves out a fresh pattern and tests buying support."
+    },
+    {
+      "title": "Stock Market Today: Dow Jones Turns Higher After Soft Start; Microsoft Leads Software Rally (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index fell, while the Nasdaq dived amid a global tech sell-off. Micron, Nvidia and Sandisk tumbled.",
+      "url": "https://finance.yahoo.com/m/71673a4f-6fe0-330c-8edb-892aa4e7b732/stock-market-today%3A-dow-jones.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T15:57:53+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index fell, while the Nasdaq dived amid a global tech sell-off. Micron, Nvidia and Sandisk tumbled."
+    },
+    {
+      "title": "Bitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’",
+      "description": "Bitcoin risked turning $60,000 into resistance as BTC price weakness persisted following another tech-driven sell-off in Asian stock markets.",
+      "url": "https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/analysic-analytics-coat-of-arms-red-bear-bitcoin.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-26T15:55:56+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin risked turning $60,000 into resistance as BTC price weakness persisted following another tech-driven sell-off in Asian stock markets."
+    },
+    {
+      "title": "3 Reasons VTOL is Risky and 1 Stock to Buy Instead",
+      "description": "Bristow Group has had an impressive run over the past six months as its shares have beaten the S&P 500 by 6.8%. The stock now trades at $41.38, marking a 13% gain. This run-up might have investors contemplating their next move.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-vtol-risky-1-155225012.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T15:52:25+00:00",
+      "category": "USA",
+      "simple_explanation": "Bristow Group has had an impressive run over the past six months as its shares have beaten the S&P 500 by 6.8%. The stock now trades at $41.38, marking a 13% gain. This run-up might have investors con"
+    },
+    {
+      "title": "Silver Consumer Electricals concludes Rs 150 cr pre-IPO secondary share sale",
+      "description": "Silver Consumer Electricals, renowned for its pumps and motors, has successfully raised Rs 150 crore through a pre-IPO secondary share sale. A 2.59% stake was sold by a promoter group member to investor Riyaz Suterwala, paving the way for its upcoming initial public offering. With its DRHP filed las",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/silver-consumer-electricals-concludes-rs-150-cr-pre-ipo-secondary-share-sale/articleshow/132019877.cms",
+      "image": "https://img.etimg.com/photo/msid-132019877,imgsize-210463.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-26T15:49:44+00:00",
+      "category": "India",
+      "simple_explanation": "Silver Consumer Electricals, renowned for its pumps and motors, has successfully raised Rs 150 crore through a pre-IPO secondary share sale. A 2.59% stake was sold by a promoter group member to invest"
+    },
+    {
+      "title": "Fidelity Investments buys 2 pc stake in Lodha Developers for Rs 1,864 crore",
+      "description": "Fidelity Investments has strategically acquired a 2% stake in Lodha Developers, amounting to Rs 1,864 crore, through open market operations. The acquisition involves nearly 2 crore shares purchased from promoter entities Hightown Constructions and Homecraft Developers, resulting in a reduction of th",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/fidelity-investments-buys-2-pc-stake-in-lodha-developers-for-rs-1864-crore/articleshow/132019863.cms",
+      "image": "https://img.etimg.com/photo/msid-132019863,imgsize-149034.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-26T15:47:40+00:00",
+      "category": "India",
+      "simple_explanation": "Fidelity Investments has strategically acquired a 2% stake in Lodha Developers, amounting to Rs 1,864 crore, through open market operations. The acquisition involves nearly 2 crore shares purchased fr"
+    },
+    {
+      "title": "3 Consumer Stocks That Concern Us",
+      "description": "Most consumer discretionary businesses succeed or fail based on the broader economy. Unfortunately, the industry’s recent performance suggests demand may be slowing as discretionary stocks’ 3.7% return over the past six months has trailed the S&P 500 by 2.5 percentage points.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-consumer-stocks-concern-us-154425548.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T15:44:25+00:00",
+      "category": "USA",
+      "simple_explanation": "Most consumer discretionary businesses succeed or fail based on the broader economy. Unfortunately, the industry’s recent performance suggests demand may be slowing as discretionary stocks’ 3.7% retur"
+    },
+    {
+      "title": "Top Midday Stories: OpenAI Weighs Pushing Back IPO to 2027; ON Semiconductor Acquires Synaptics for $7 Billion",
+      "description": "The Nasdaq Composite was down in late-morning trading Friday, while the S&P 500 Index and Dow Jones",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-openai-weighs-154254426.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T15:42:54+00:00",
+      "category": "USA",
+      "simple_explanation": "The Nasdaq Composite was down in late-morning trading Friday, while the S&P 500 Index and Dow Jones"
+    },
+    {
+      "title": "Ex-Apollo CEO Leon Black says Jeffrey Epstein duped him out of more than $60 million",
+      "description": "\"I knew Jekyll. I didn't know Hyde,\" Leon Black says about Jeffrey Epstein in his prepared statement to the House Oversight and Government Reform Committee.",
       "url": "https://www.cnbc.com/2026/06/26/leon-black-jeffrey-epstein-house-oversight-committee.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-06-26T13:07:53+00:00",
+      "published_at": "2026-06-26T15:36:37+00:00",
       "category": "USA",
-      "simple_explanation": ""
+      "simple_explanation": "\"I knew Jekyll. I didn't know Hyde,\" Leon Black says about Jeffrey Epstein in his prepared statement to the House Oversight and Government Reform Committee."
+    },
+    {
+      "title": "Why Moderna Stock Is Soaring and Leading the S&P 500 Today",
+      "description": "Moderna shares pace toward their highest close since late 2024 after unveiling a new cell therapy program.",
+      "url": "https://finance.yahoo.com/m/ae995bc0-f122-3631-9d9e-26ca7761c7b8/why-moderna-stock-is-soaring.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T15:36:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Moderna shares pace toward their highest close since late 2024 after unveiling a new cell therapy program."
+    },
+    {
+      "title": "OpenAI hasn't held pre-IPO investor meetings or set timeline yet, sources say",
+      "description": "OpenAI said it confidentially filed its prospectus with the SEC earlier this month, but noted it \"may be a while\" before it goes public.",
+      "url": "https://www.cnbc.com/2026/06/26/open-ai-ipo-timeline-investors.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-26T15:34:49+00:00",
+      "category": "USA",
+      "simple_explanation": "OpenAI said it confidentially filed its prospectus with the SEC earlier this month, but noted it \"may be a while\" before it goes public."
+    },
+    {
+      "title": "OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce",
+      "description": "Speculators think the OpenAI IPO will come early next year, with only one-in-three odds it happens in 2026 but a high likelihood it is done by June 2027.",
+      "url": "https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-06-26T15:34:19+00:00",
+      "category": "Global",
+      "simple_explanation": "Speculators think the OpenAI IPO will come early next year, with only one-in-three odds it happens in 2026 but a high likelihood it is done by June 2027."
+    },
+    {
+      "title": "Jeremy Grantham says this is the most expensive market in 'American history'",
+      "description": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
+      "url": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-26T15:34:09+00:00",
+      "category": "USA",
+      "simple_explanation": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive."
+    },
+    {
+      "title": "UBS turns more bullish on U.S. dollar, sees euro and yen weakening further",
+      "description": "Investing.com -- A stronger U.S. dollar is likely to dominate global foreign exchange markets through the second half of 2026, according to UBS, which has raised its forecasts for the greenback against several major currencies as higher U.S. interest rate expectations and resilient economic fundamen",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/ubs-turns-more-bullish-u-151205230.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T15:12:05+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Investing.com -- A stronger U.S. dollar is likely to dominate global foreign exchange markets through the second half of 2026, according to UBS, which has raised its forecasts for the greenback agains"
+    },
+    {
+      "title": "Oil Prices Resume Decline as Tankers Transit Through Strait of Hormuz",
+      "description": "Oil prices resumed their decline on Friday as tankers continued to transit through the Strait of Hor",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-resume-decline-tankers-150914710.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T15:09:14+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil prices resumed their decline on Friday as tankers continued to transit through the Strait of Hor"
+    },
+    {
+      "title": "Does Kosmos Energy’s (KOS) Debt-Cutting Asset Sale Signal a New Strategic Identity?",
+      "description": "Kosmos Energy has completed the sale of its interests in the Ceiba Field and Okume Complex in Equatorial Guinea, receiving approximately US$127,000,000 in upfront cash and potential contingent payments of up to US$39,500,000 linked to future production and oil prices. This deal reduces long-term deb",
+      "url": "https://finance.yahoo.com/energy/articles/does-kosmos-energy-kos-debt-150853291.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T15:08:53+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Kosmos Energy has completed the sale of its interests in the Ceiba Field and Okume Complex in Equatorial Guinea, receiving approximately US$127,000,000 in upfront cash and potential contingent payment"
+    },
+    {
+      "title": "Can an OpenAI IPO delay derail the AI chip rally? Here's why it matters",
+      "description": "A potential delay in OpenAI's IPO has triggered selling in global technology stocks, impacting major players like SoftBank. As concerns over AI investment returns grow, investors are increasingly selective in their stock choices, marking a shift in sentiment within the technology sector.",
+      "url": "https://www.livemint.com/market/stock-market-news/can-an-openai-ipo-delay-derail-the-ai-chip-rally-heres-why-it-matters-11782484750309.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/26/1600x900/logo/FILES-US-TECH-AI-COPYRIGHT-0_1695700751643_1782484837187_4f759c1a-18ba-42cd-905b-b6a0a812014e.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-26T14:57:03+00:00",
+      "category": "India",
+      "simple_explanation": "A potential delay in OpenAI's IPO has triggered selling in global technology stocks, impacting major players like SoftBank. As concerns over AI investment returns grow, investors are increasingly sele"
+    },
+    {
+      "title": "Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%",
+      "description": "President Donald Trump's economic advisors are giving Warsh space, as the new Fed chairman, on interest rates as the president repeats calls to cut.",
+      "url": "https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-26T14:54:15+00:00",
+      "category": "USA",
+      "simple_explanation": "President Donald Trump's economic advisors are giving Warsh space, as the new Fed chairman, on interest rates as the president repeats calls to cut."
+    },
+    {
+      "title": "H&M net sales declines to Skr54.82bn in Q2",
+      "description": "By the end of the quarter, the group had 3% fewer stores than a year earlier.",
+      "url": "https://www.retail-insight-network.com/news/hm-net-sales-declines-q2/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T14:35:40+00:00",
+      "category": "Crypto",
+      "simple_explanation": "By the end of the quarter, the group had 3% fewer stores than a year earlier."
+    },
+    {
+      "title": "Dow, S&P 500 Turn Positive After Sentiment Data",
+      "description": "The major stock indexes were back to breakeven after the latest sentiment data from the University of Michigan. The Dow was up 83 points, or 0.2%. The S&P 500 was up 0.1%. The Nasdaq was down 0.1%. The University of Michigan said its index of consumer sentiment rose to 49.",
+      "url": "https://finance.yahoo.com/m/48d842b4-0d8c-3762-86fa-c627dbb6e0a7/dow%2C-s%26p-500-turn-positive.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T14:33:30+00:00",
+      "category": "USA",
+      "simple_explanation": "The major stock indexes were back to breakeven after the latest sentiment data from the University of Michigan. The Dow was up 83 points, or 0.2%. The S&P 500 was up 0.1%. The Nasdaq was down 0.1%. Th"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-26T14:06:06+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Chips Are Falling. The Rest of the Market Is Still Cruising",
+      "description": "The Nasdaq was down 1%, while the Dow was down 206 points, or 0.4%.  The Invesco S&P 500 Equal Weight ETF, a proxy for breadth since it counts every single S&P 500 stock as if it had the same market capitalization, was rising.  At the sector level, a rotation to health care, consumer staples, real e",
+      "url": "https://finance.yahoo.com/m/936fab8d-ef1e-3322-a6ae-f791bd41e728/chips-are-falling.-the-rest.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T14:02:45+00:00",
+      "category": "USA",
+      "simple_explanation": "The Nasdaq was down 1%, while the Dow was down 206 points, or 0.4%.  The Invesco S&P 500 Equal Weight ETF, a proxy for breadth since it counts every single S&P 500 stock as if it had the same market c"
+    },
+    {
+      "title": "Stock Market Weekly Review: S&P 500, Nasdaq Below 50-Day Line; Micron, Apple In Focus",
+      "description": "The stock market was mixed, but the S&P 500 and Nasdaq are below their 50-day lines. Micron earnings soared on memory prices, which hit Apple.",
+      "url": "https://finance.yahoo.com/m/277afe3c-68a1-3e8d-b035-73e0e5e237be/stock-market-weekly-review%3A.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T14:00:42+00:00",
+      "category": "USA",
+      "simple_explanation": "The stock market was mixed, but the S&P 500 and Nasdaq are below their 50-day lines. Micron earnings soared on memory prices, which hit Apple."
+    },
+    {
+      "title": "Framework Ventures raises $400M to invest beyond crypto: Report",
+      "description": "Framework Ventures raises $400 million fourth fund as it expands into AI, robotics and energy while reportedly planning to continue crypto investments.",
+      "url": "https://cointelegraph.com/news/framework-ventures-raise-400-million-push-beyond-crypto-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-stablecoin-yields-could-trigger-deposit-outflows-from-us-banks-according-to-aba2.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-26T13:58:28+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Framework Ventures raises $400 million fourth fund as it expands into AI, robotics and energy while reportedly planning to continue crypto investments."
+    },
+    {
+      "title": "Star Minerals acquires gold project in Merredin, Western Australia",
+      "description": "The area is located around 30km from the Edna May gold processing plant, which is currently in care and maintenance.",
+      "url": "https://www.mining-technology.com/news/star-minerals-acquires-gold-project-merredin/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T13:57:32+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The area is located around 30km from the Edna May gold processing plant, which is currently in care and maintenance."
+    },
+    {
+      "title": "BEML shares to be in focus on Monday after securing additional $5.35 million Middle East export order",
+      "description": "BEML Ltd. secured a $5.35 million export order, raising its contract total to $41.73 million. The company's international order book reached $112.35 million. Despite record revenue, net profit declined. Shares have fluctuated since 2024, currently down 36% from a peak.",
+      "url": "https://www.livemint.com/market/stock-market-news/beml-shares-to-be-in-focus-on-monday-after-securing-additional-5-35-million-middle-east-export-order-11782481136120.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/26/1600x900/logo/gfdbf8dbf34293642b1018409570970e5c8a8ce7861b91a731_1740639641918_1782481474057_436f324f-79cb-409a-8a8a-d617fc602e58.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-06-26T13:49:04+00:00",
+      "category": "India",
+      "simple_explanation": "BEML Ltd. secured a $5.35 million export order, raising its contract total to $41.73 million. The company's international order book reached $112.35 million. Despite record revenue, net profit decline"
+    },
+    {
+      "title": "US stocks Today | US stocks open lower as chip stocks resume slide",
+      "description": "Indian markets witnessed a dip on Friday, with technology stocks, particularly chipmakers, facing renewed selling pressure. Investors are now scrutinizing the elevated valuations of these companies and the substantial investments being poured into Artificial Intelligence. The Dow Jones, S&P 500, and",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-lower-as-chip-stocks-resume-slide/articleshow/132017428.cms",
+      "image": "https://img.etimg.com/photo/msid-132017428,imgsize-122930.cms",
+      "source": "Economic Times",
+      "published_at": "2026-06-26T13:36:04+00:00",
+      "category": "India",
+      "simple_explanation": "Indian markets witnessed a dip on Friday, with technology stocks, particularly chipmakers, facing renewed selling pressure. Investors are now scrutinizing the elevated valuations of these companies an"
+    },
+    {
+      "title": "Warsh reaches within the Fed for latest advisory appointments",
+      "description": "Warsh has added two more key advisors as he seeks to remake how the central bank approaches the economy and monetary policy.",
+      "url": "https://www.cnbc.com/2026/06/26/warsh-reaches-within-the-fed-for-latest-advisory-appointments.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-06-26T13:35:59+00:00",
+      "category": "Global",
+      "simple_explanation": "Warsh has added two more key advisors as he seeks to remake how the central bank approaches the economy and monetary policy."
+    },
+    {
+      "title": "Strategy Is Now Worth Less Than Its Own Bitcoin: Is Saylor about to be forced to sell?",
+      "description": "For years, the simplest way to bet on Bitcoin (CRYPTO:BTC) without buying it yourself was to buy Strategy. Michael Saylor turned his company into a giant Bitcoin holding machine, and for most of that run, the market paid far more for the stock than the Bitcoin behind it was worth. However, that narr",
+      "url": "https://247wallst.com/investing/2026/06/26/strategy-is-now-worth-less-than-its-own-bitcoin-is-saylor-about-to-be-forced-to-sell/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T13:33:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "For years, the simplest way to bet on Bitcoin (CRYPTO:BTC) without buying it yourself was to buy Strategy. Michael Saylor turned his company into a giant Bitcoin holding machine, and for most of that "
+    },
+    {
+      "title": "Purecore Announces Commencement of Data Compilation Program at the Bankier Property",
+      "description": "VANCOUVER, British Columbia, June 26, 2026 (GLOBE NEWSWIRE) -- Purecore Metals Inc. (CSE: PURE) (FSE: J8Y) (“Purecore” or the “Company”) is pleased to announce the commencement of a comprehensive data compilation program, representing the second phase of the Company's 2026 exploration program at the",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/purecore-announces-commencement-data-compilation-133000977.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T13:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "VANCOUVER, British Columbia, June 26, 2026 (GLOBE NEWSWIRE) -- Purecore Metals Inc. (CSE: PURE) (FSE: J8Y) (“Purecore” or the “Company”) is pleased to announce the commencement of a comprehensive data"
+    },
+    {
+      "title": "Sinda to Begin Trading on NYSE",
+      "description": "NEW YORK, June 26, 2026--Sinda Ltd. (the \"Company\" or \"Sinda\"), a silver exploration company with mineral projects in Mexico, will begin trading today on the New York Stock Exchange (the \"NYSE\") under the ticker symbol \"SIND\".",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sinda-begin-trading-nyse-131800350.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T13:18:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "NEW YORK, June 26, 2026--Sinda Ltd. (the \"Company\" or \"Sinda\"), a silver exploration company with mineral projects in Mexico, will begin trading today on the New York Stock Exchange (the \"NYSE\") under"
+    },
+    {
+      "title": "Hyperliquid added to Singapore's Investor Alert List",
+      "description": "Singapore’s financial regulator added Hyperliquid to its Investor Alert List, as a reminder that the decentralized exchange was not licensed in the region.",
+      "url": "https://cointelegraph.com/news/hyperliquid-singapore-mas-investor-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-singapore-law-kicks-in.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-26T13:11:29+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Singapore’s financial regulator added Hyperliquid to its Investor Alert List, as a reminder that the decentralized exchange was not licensed in the region."
     },
     {
       "title": "Gold Extends Longest Weekly Losing Streak Since August 2023",
@@ -23,6 +383,16 @@
       "simple_explanation": "Gold hovers near $4,000 as softer US inflation offsets dollar strength and Fed tightening concerns."
     },
     {
+      "title": "Vox Royalty Sells I-80 Gold Offtake Stream",
+      "description": "All amounts in U.S. dollars unless otherwise indicated DENVER, CO / ACCESS Newswire / June 26, 2026 /Vox Royalty Corp. (NASDAQ:VOXR)(TSX:VOXR) (\"Vox\" or the \"Company\"), a returns-focused mining royalty and streaming company, is pleased to announce ...",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/vox-royalty-sells-80-gold-130500144.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-26T13:05:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "All amounts in U.S. dollars unless otherwise indicated DENVER, CO / ACCESS Newswire / June 26, 2026 /Vox Royalty Corp. (NASDAQ:VOXR)(TSX:VOXR) (\"Vox\" or the \"Company\"), a returns-focused mining royalt"
+    },
+    {
       "title": "Super Copper Defines Property-Scale and Structurally Controlled Copper-Gold System at the Castilla Project",
       "description": "Super Copper Corp. (CSE: CUPR) (OTCQB: CUPPF) (FSE: N60) (\"Super Copper\" or the \"Company\") is pleased to report results from its phase one geophysics program at the 100%-owned Castilla Project (\"Castilla\" or the \"Project\"). The integrated datasets define property-scale alteration and structural corr",
       "url": "https://finance.yahoo.com/markets/commodities/articles/super-copper-defines-property-scale-130100627.html?.tsrc=rss",
@@ -31,376 +401,6 @@
       "published_at": "2026-06-26T13:01:00+00:00",
       "category": "Commodities",
       "simple_explanation": "Super Copper Corp. (CSE: CUPR) (OTCQB: CUPPF) (FSE: N60) (\"Super Copper\" or the \"Company\") is pleased to report results from its phase one geophysics program at the 100%-owned Castilla Project (\"Casti"
-    },
-    {
-      "title": "Goldman sees big tech stocks turning attractive amid chip volatility, 'you want to diversify toward hyperscalers'",
-      "description": "Big tech stocks could turn more attractive in the artificial intelligence trade as chipmakers show continued volatility, according to Goldman Sachs Group Inc. strategist Christian Mueller-Glissmann.",
-      "url": "https://www.livemint.com/market/goldman-sees-big-tech-stocks-turning-attractive-amid-chip-volatility-you-want-to-diversify-toward-hyperscalers-11782477441260.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/26/1600x900/logo/GOLDMAN-SACHS-PROMOTIONS--0_1764605951603_1764605968775_1782477935269_db979198-d86c-42de-8bcf-51baeec5e7bf.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-06-26T12:48:00+00:00",
-      "category": "India",
-      "simple_explanation": "Big tech stocks could turn more attractive in the artificial intelligence trade as chipmakers show continued volatility, according to Goldman Sachs Group Inc. strategist Christian Mueller-Glissmann."
-    },
-    {
-      "title": "Benton Acquires Additional Land at its Dominion Lake Project and Commences Summer Exploration",
-      "description": "Thunder Bay, Ontario--(Newsfile Corp. - June 26, 2026) - Benton Resources Inc. (TSXV: BEX) (\"Benton\" or the \"Company\") is pleased to announce that the Company will purchase a 100% interest in additional claims from Herb and April Froude, arm's-length prospectors, which will be added to the original ",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/benton-acquires-additional-land-dominion-124400998.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T12:44:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Thunder Bay, Ontario--(Newsfile Corp. - June 26, 2026) - Benton Resources Inc. (TSXV: BEX) (\"Benton\" or the \"Company\") is pleased to announce that the Company will purchase a 100% interest in addition"
-    },
-    {
-      "title": "Barclays warns summer volatility may persist as September Fed hike odds rise",
-      "description": "Investing.com -- Barclays has warned that equity markets face a potentially turbulent summer as rising real rates and a stronger dollar prompt a rotation away from this year's momentum winners, though falling oil prices could limit further hawkish repricing.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-warns-summer-volatility-may-124103797.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T12:41:03+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Investing.com -- Barclays has warned that equity markets face a potentially turbulent summer as rising real rates and a stronger dollar prompt a rotation away from this year's momentum winners, though"
-    },
-    {
-      "title": "i-80 Gold Announces Termination of Gold Offtake Agreement",
-      "description": "i-80 GOLD CORP. (NYSE: IAUX) (TSX: IAU) (\"i-80 Gold\", or the \"Company\") announces that it has entered into a termination and settlement agreement (the \"Settlement Agreement\") with Vox Royalty Cayman SEZC (\"Vox Cayman\") and its parent company, Vox Royalty Corp. (\"Vox\") to terminate the Company's gold",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/80-gold-announces-termination-gold-124100875.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T12:41:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "i-80 GOLD CORP. (NYSE: IAUX) (TSX: IAU) (\"i-80 Gold\", or the \"Company\") announces that it has entered into a termination and settlement agreement (the \"Settlement Agreement\") with Vox Royalty Cayman S"
-    },
-    {
-      "title": "What’s Ahead for U.S. Shoe Deals in the Second Half",
-      "description": "The first half has seen some activity, but the jury is out on whether there are more ahead.",
-      "url": "https://wwd.com/footwear-news/shoe-industry-news/footwear-mergers-acquisitions-second-half-2026-1239031491/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T12:37:07+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The first half has seen some activity, but the jury is out on whether there are more ahead."
-    },
-    {
-      "title": "JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits",
-      "description": "The moves would appear to make Doug Petno and Troy Rohrbaugh the most obvious possible successors to JPMorgan Chase CEO Jamie Dimon.",
-      "url": "https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-06-26T12:32:02+00:00",
-      "category": "Global",
-      "simple_explanation": "The moves would appear to make Doug Petno and Troy Rohrbaugh the most obvious possible successors to JPMorgan Chase CEO Jamie Dimon."
-    },
-    {
-      "title": "The brands winning with World Cup advertising may not be the sponsors",
-      "description": "The World Cup winners and losers in advertising may be indicative of a broader trend of how people are responding to authentic branding.",
-      "url": "https://www.cnbc.com/2026/06/26/world-cup-marketing-levis-nike-taco-bell.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-26T12:30:01+00:00",
-      "category": "USA",
-      "simple_explanation": "The World Cup winners and losers in advertising may be indicative of a broader trend of how people are responding to authentic branding."
-    },
-    {
-      "title": "Quote of the day by David Swensen: \"If you’re investing with a long time horizon, having an equity bias makes sense; stocks go up in the long run\"",
-      "description": "David Swensen emphasised the importance of maintaining an equity bias for long-term investors, noting that stocks tend to deliver stronger returns over extended horizons. Despite short-term volatility, equities reward patience and discipline. His advice highlights the value of staying invested, avoi",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-david-swensen-if-youre-investing-with-a-long-time-horizon-having-an-equity-bias-makes-sense-stocks-go-up-in-the-long-run/articleshow/132007031.cms",
-      "image": "https://img.etimg.com/photo/msid-132007031,imgsize-2194349.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-26T12:30:00+00:00",
-      "category": "India",
-      "simple_explanation": "David Swensen emphasised the importance of maintaining an equity bias for long-term investors, noting that stocks tend to deliver stronger returns over extended horizons. Despite short-term volatility"
-    },
-    {
-      "title": "US stock market today: S&P 500, Nasdaq futures slide up to 1% as global tech sell-off resumes",
-      "description": "US stock futures declined on 26 June due to a renewed global technology sell-off. Nasdaq futures dropped 1.1%, amid concerns over high valuations, production cuts, and rising market volatility, which are affecting investor sentiment.",
-      "url": "https://www.livemint.com/market/us-stock-market-today-s-p-500-nasdaq-futures-slide-up-to-1-as-global-tech-sell-off-resumes-11782472705947.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/26/1600x900/logo/US-MARKETS-OPEN-AFTER-DOW-LOSES-NEARLY-900-POINTS-_1742189741876_1782472699474_47d2752b-983f-4743-9d84-da31f0c61fd4.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-26T12:27:11+00:00",
-      "category": "India",
-      "simple_explanation": "US stock futures declined on 26 June due to a renewed global technology sell-off. Nasdaq futures dropped 1.1%, amid concerns over high valuations, production cuts, and rising market volatility, which "
-    },
-    {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures slip as chip stocks retreat after Micron-led rally",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-talks-hormuz-deal-brent-crude-oil-fed-warsh-micron-apple-spacex-intel-chip-stock-price-news-26th-june-2026/liveblog/132016225.cms",
-      "image": "https://img.etimg.com/photo/msid-132016225,imgsize-1918471.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-26T12:22:34+00:00",
-      "category": "India",
-      "simple_explanation": ""
-    },
-    {
-      "title": "Imposter scams led fraud reports to the FTC for fifth straight year in 2025, causing $3.5 billion in losses",
-      "description": "The amount lost to imposter scams is part of $15.9 billion in total fraud losses reported to the Federal Trade Commission in 2025",
-      "url": "https://www.cnbc.com/2026/06/26/imposter-scams-led-fraud-reports-to-ftc-in-2025-3point5-billion-losses.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-26T12:21:26+00:00",
-      "category": "USA",
-      "simple_explanation": "The amount lost to imposter scams is part of $15.9 billion in total fraud losses reported to the Federal Trade Commission in 2025"
-    },
-    {
-      "title": "Australian regulator extends no-action period for crypto licensing",
-      "description": "Australia’s financial regulator extended temporary enforcement relief for digital asset businesses until Sept. 30 as firms transition into the country’s licensing system.",
-      "url": "https://cointelegraph.com/news/australia-asic-extends-crypto-licensing-relief-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-atb-coins-legal-encounter-sets-precedent-in-australia-for-future-securities-violations.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-26T12:14:31+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Australia’s financial regulator extended temporary enforcement relief for digital asset businesses until Sept. 30 as firms transition into the country’s licensing system."
-    },
-    {
-      "title": "Nasdaq set to take another hit from rotation out of tech before quarter-end",
-      "description": "US stocks are set for another difficult session on Friday, with the Nasdaq on course for a fifth straight day of losses as investors continue to rotate out of technology shares ahead of the quarter-end. Nasdaq futures were down 1.2% ahead of the opening bell, while S&P 500 and Dow Jones...",
-      "url": "https://www.proactiveinvestors.com/companies/news/1094566/nasdaq-set-to-take-another-hit-from-rotation-out-of-tech-before-quarter-end-1094566.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T12:14:00+00:00",
-      "category": "USA",
-      "simple_explanation": "US stocks are set for another difficult session on Friday, with the Nasdaq on course for a fifth straight day of losses as investors continue to rotate out of technology shares ahead of the quarter-en"
-    },
-    {
-      "title": "Dow Jones Futures: S&P 500 Set To Break Key Level As Techs Tumble; What To Do Now",
-      "description": "The S&P 500 is set to undercut a key level Friday while the Nasdaq tests recent lows. Micron is giving up a slice of Thursday's gains.",
-      "url": "https://finance.yahoo.com/m/39030516-de91-329d-8d9d-9e91b632c186/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T12:11:17+00:00",
-      "category": "USA",
-      "simple_explanation": "The S&P 500 is set to undercut a key level Friday while the Nasdaq tests recent lows. Micron is giving up a slice of Thursday's gains."
-    },
-    {
-      "title": "OpenAI and Anthropic face new AI reality as companies shift from tokenmaxxing to efficiency",
-      "description": "Companies are tightening their AI budgets to focus on getting a return on their investment, and that could dampen growth rates at OpenAI and Anthropic.",
-      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-26T12:10:01+00:00",
-      "category": "USA",
-      "simple_explanation": "Companies are tightening their AI budgets to focus on getting a return on their investment, and that could dampen growth rates at OpenAI and Anthropic."
-    },
-    {
-      "title": "Morgan Stanley flags Fed hike risk if unemployment drops below 4%",
-      "description": "Investing.com -- Morgan Stanley has retained its forecast for the Federal Reserve to hold interest rates through year-end, but warned that a drop in unemployment below 4% or persistently elevated inflation could force a rethink in favor of rate hikes.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/morgan-stanley-flags-fed-hike-120752947.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T12:07:52+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Investing.com -- Morgan Stanley has retained its forecast for the Federal Reserve to hold interest rates through year-end, but warned that a drop in unemployment below 4% or persistently elevated infl"
-    },
-    {
-      "title": "Tech Stocks Drag Down Equity Index Futures Pre-Bell Amid AI, Gulf Worries",
-      "description": "Tech stocks swooned, and broader equity index futures declined in Friday's premarket trading amid co",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-drag-down-equity-120509974.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T12:05:09+00:00",
-      "category": "USA",
-      "simple_explanation": "Tech stocks swooned, and broader equity index futures declined in Friday's premarket trading amid co"
-    },
-    {
-      "title": "State Street vs. Vanguard: Which Energy ETF Stands Out in 2026?",
-      "description": "A highly concentrated, narrow portfolio may be attractive to some investors, while others may prefer a broader strategy.",
-      "url": "https://www.fool.com/coverage/etfs/2026/06/26/state-street-vs-vanguard-which-energy-etf-stands-out-in-2026/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T12:05:01+00:00",
-      "category": "USA",
-      "simple_explanation": "A highly concentrated, narrow portfolio may be attractive to some investors, while others may prefer a broader strategy."
-    },
-    {
-      "title": "How Much of Your Portfolio Should Be in Index Funds?",
-      "description": "Most investors understand all the reasons to own them. What's not as clear is the degree to which you should own these super-simple investments.",
-      "url": "https://www.fool.com/investing/2026/06/26/how-much-of-your-portfolio-should-be-in-index-fund/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T12:02:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Most investors understand all the reasons to own them. What's not as clear is the degree to which you should own these super-simple investments."
-    },
-    {
-      "title": "Polymarket annualized revenue surpasses $1 billion six weeks after its U.S. exchange launch",
-      "description": "World Cup trading and the end of its U.S. waitlist are driving rapid growth for Polymarket's prediction market platform.",
-      "url": "https://www.cnbc.com/2026/06/26/polymarket-annualized-revenue-1-billion-us-exchange-.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-26T12:00:11+00:00",
-      "category": "USA",
-      "simple_explanation": "World Cup trading and the end of its U.S. waitlist are driving rapid growth for Polymarket's prediction market platform."
-    },
-    {
-      "title": "Short-Term Bond ETFs Getting Investors' Love: Here's Why",
-      "description": "Short-term bond ETFs are drawing huge inflows as investors seek yield, stability and protection from rising rate risks and market volatility.",
-      "url": "https://finance.yahoo.com/markets/options/articles/short-term-bond-etfs-getting-120000921.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T12:00:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Short-term bond ETFs are drawing huge inflows as investors seek yield, stability and protection from rising rate risks and market volatility."
-    },
-    {
-      "title": "Everlert, Inc. (OTC: EVLI), Operating as American Gold & Copper Inc., Signs Memorandum of Understanding for Proposed Acquisition of the Rimrock Copper-Gold Project in Nevada",
-      "description": "Proposed Acquisition Represents an Important Step in the Company’s Strategy to Build a U.S.-Focused Portfolio of Copper and Precious Metals AssetsSOUTHLAKE, Texas, June 26, 2026 (GLOBE NEWSWIRE) -- Everlert, Inc. (OTC: EVLI) (“Everlert” or the “Company”), operating under the recently adopted legal n",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/everlert-inc-otc-evli-operating-120000820.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T12:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Proposed Acquisition Represents an Important Step in the Company’s Strategy to Build a U.S.-Focused Portfolio of Copper and Precious Metals AssetsSOUTHLAKE, Texas, June 26, 2026 (GLOBE NEWSWIRE) -- Ev"
-    },
-    {
-      "title": "Bitcoin’s Supply-in-Loss Hits an All-Time High: Why That Might Not Mean a Bottom?",
-      "description": "Bitcoin supply in loss hits a record as falling oil cools inflation, reviving hope the Fed avoids a 2026 hike and BTC holds $60,000.",
-      "url": "https://beincrypto.com/bitcoin-supply-in-loss-oil-inflation-analysis/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T12:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Bitcoin supply in loss hits a record as falling oil cools inflation, reviving hope the Fed avoids a 2026 hike and BTC holds $60,000."
-    },
-    {
-      "title": "Fed likely to 'stay put' on rates in 2026 after hot inflation data",
-      "description": "Coming off of May's hot Personal Consumption Expenditures (PCE) reading, Gradient Investments associate portfolio manager Lisa Schreiber weighs in on how the Federal Reserve may move on interest rates in 2026 based on the latest inflation data.",
-      "url": "https://finance.yahoo.com/video/fed-likely-stay-put-rates-120000762.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T12:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Coming off of May's hot Personal Consumption Expenditures (PCE) reading, Gradient Investments associate portfolio manager Lisa Schreiber weighs in on how the Federal Reserve may move on interest rates"
-    },
-    {
-      "title": "Silver prices today, Friday, June 26, 2026: Down 9.1% since Monday following latest PCE report",
-      "description": "Silver July futures opened at $58.03 per ounce on Friday, June 26, 2026, down 1.3% from Thursday's closing price. The silver price has remained steady this morning, reaching $58.71 as of 7:47 a.m. ET.",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-june-26-2026-down-91-since-monday-following-latest-pce-report-115941632.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T11:59:41+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Silver July futures opened at $58.03 per ounce on Friday, June 26, 2026, down 1.3% from Thursday's closing price. The silver price has remained steady this morning, reaching $58.71 as of 7:47 a.m. ET."
-    },
-    {
-      "title": "AscendEX withdrawal complaints mount as ZachXBT questions reserves",
-      "description": "Multiple users reported delayed AscendEX withdrawals after ZachXBT flagged potential liquidity issues and urged the exchange to explain its reserves.",
-      "url": "https://cointelegraph.com/news/ascendex-exchange-reportedly-faces-liquidity-issues-claims-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-data-aggregators-and-fake-exchange-volumes.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-26T11:47:02+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Multiple users reported delayed AscendEX withdrawals after ZachXBT flagged potential liquidity issues and urged the exchange to explain its reserves."
-    },
-    {
-      "title": "Stocks Fall Pre-Bell as Tech Weakness Persists",
-      "description": "The benchmark US stock measures were tracking in the red before the open Friday as bearish sentiment",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-pre-bell-tech-114509137.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T11:45:09+00:00",
-      "category": "USA",
-      "simple_explanation": "The benchmark US stock measures were tracking in the red before the open Friday as bearish sentiment"
-    },
-    {
-      "title": "Micron Leads Tech Stocks Rally on Blowout Earnings",
-      "description": "Micron Rockets Higher, Dragging Global Chip Stocks Into Green Zone",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-leads-tech-stocks-rally-113529692.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T11:35:29+00:00",
-      "category": "USA",
-      "simple_explanation": "Micron Rockets Higher, Dragging Global Chip Stocks Into Green Zone"
-    },
-    {
-      "title": "SCHD vs. VIG: Should Income Investors Favor Dividend Yield or Growth Potential?",
-      "description": "Compare portfolio strategies, sector weights, and risk profiles to see how these two leading dividend ETFs stack up for long-term investors.",
-      "url": "https://www.fool.com/coverage/etfs/2026/06/26/schd-vs-vig-should-income-investors-favor-dividend-yield-or-growth-potential/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T11:30:01+00:00",
-      "category": "USA",
-      "simple_explanation": "Compare portfolio strategies, sector weights, and risk profiles to see how these two leading dividend ETFs stack up for long-term investors."
-    },
-    {
-      "title": "Volkswagen plans to cut 15% of its workforce and close four German plants, report says",
-      "description": "Auto giant Volkswagen is reportedly planning to cut 100,000 jobs and end production at four German plants over the coming years.",
-      "url": "https://www.cnbc.com/2026/06/26/volkswagen-vw-job-cuts-autos-germany.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-26T11:27:10+00:00",
-      "category": "USA",
-      "simple_explanation": "Auto giant Volkswagen is reportedly planning to cut 100,000 jobs and end production at four German plants over the coming years."
-    },
-    {
-      "title": "Power Grid of India board okays raising borrowing limit to Rs 2.2 lakh cr",
-      "description": "The board of Power Grid Corporation has approved a substantial raise in its borrowing limit to Rs 2.2 lakh crore, up from Rs 1.8 lakh crore, subject to shareholder consent. Furthermore, the company intends to obtain USD 500 million in foreign currency resources via External Commercial Borrowings. Th",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/power-grid-of-india-board-okays-raising-borrowing-limit-to-rs-2-2-lakh-cr/articleshow/132014308.cms",
-      "image": "https://img.etimg.com/photo/msid-132014308,imgsize-84506.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-26T11:08:38+00:00",
-      "category": "India",
-      "simple_explanation": "The board of Power Grid Corporation has approved a substantial raise in its borrowing limit to Rs 2.2 lakh crore, up from Rs 1.8 lakh crore, subject to shareholder consent. Furthermore, the company in"
-    },
-    {
-      "title": "West Asia peace deal limits India Inc’s profitability hit to 100 bps: Report",
-      "description": "Crisil Ratings reports that falling crude oil prices may lessen the profitability hit for India Inc. this fiscal year. The anticipated impact on operating margins is now about 100 basis points, significantly lower than initial estimates.",
-      "url": "https://www.livemint.com/market/stock-market-news/west-asia-peace-deal-may-limit-india-inc-s-profitability-hit-to-100-bps-crisil-ratings-11782470015123.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/26/1600x900/logo/iStock-1437990859_Web_1778731556775_1778731565808_1782470095376_606944ba-6869-413a-b99e-fec5eac6aa54.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-26T10:47:51+00:00",
-      "category": "India",
-      "simple_explanation": "Crisil Ratings reports that falling crude oil prices may lessen the profitability hit for India Inc. this fiscal year. The anticipated impact on operating margins is now about 100 basis points, signif"
-    },
-    {
-      "title": "Bitcoin Whale In Dash For Cash As Preferred Stock Crashes",
-      "description": "Bitcoin whale Strategy is in a race to raise cash before its diving MSTR stock and the falling bitcoin price make it untenable to raise anything approaching the $7.9 billion it may have to pay out in the next two years.  The other $300.6 million, nearly 90%, went to shore up its depleted cash reserv",
-      "url": "https://finance.yahoo.com/m/c3594f56-c0b4-3694-91a2-b9b339b5b528/bitcoin-whale-in-dash-for.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-26T10:25:27+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin whale Strategy is in a race to raise cash before its diving MSTR stock and the falling bitcoin price make it untenable to raise anything approaching the $7.9 billion it may have to pay out in "
-    },
-    {
-      "title": "Multibagger HDFC AMC to announce June quarter results on this date. Check details",
-      "description": "HDFC AMC's board will meet on July 15, 2026, to review financial results for June 2026. The trading window for shares closes from July 1-17, 2026. The firm launched a new sustainable investment strategy, HDFC Growth for GOOD Portfolio, aiming for positive societal outcomes.",
-      "url": "https://www.livemint.com/market/stock-market-news/multibagger-hdfc-amc-to-announce-june-quarter-results-on-this-date-check-details-11782466522067.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/26/1600x900/logo/g1243f8b94a848157d23a16d798bf431429e6186a2440e1908_1744883781530_1782467162638_e29b3321-bbaf-402c-a005-6dc23bbf191d.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-26T09:53:26+00:00",
-      "category": "India",
-      "simple_explanation": "HDFC AMC's board will meet on July 15, 2026, to review financial results for June 2026. The trading window for shares closes from July 1-17, 2026. The firm launched a new sustainable investment strate"
-    },
-    {
-      "title": "Strong bet! SBI Mutual Fund investors already sitting on 3x returns ahead of IPO launch",
-      "description": "SBI Mutual Fund’s unlisted shares have delivered nearly 3.8x returns over the past three years, helped by sharp price appreciation and a 3:1 bonus issue, ahead of its proposed IPO. With Sebi’s approval in place, the country’s largest asset manager is expected to launch its public issue in early July",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/strong-bet-sbi-mutual-fund-investors-already-sitting-on-3x-returns-ahead-of-ipo-launch/articleshow/132012545.cms",
-      "image": "https://img.etimg.com/photo/msid-132012545,imgsize-2436448.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-26T09:45:48+00:00",
-      "category": "India",
-      "simple_explanation": "SBI Mutual Fund’s unlisted shares have delivered nearly 3.8x returns over the past three years, helped by sharp price appreciation and a 3:1 bonus issue, ahead of its proposed IPO. With Sebi’s approva"
-    },
-    {
-      "title": "Chart Beat: Q1FY27 growth seen steady for consumer staples—but it’s still a pricing story.",
-      "description": "Nomura analysts expect aggregate revenue growth of 10.4% year-on-year for consumer staples companies under their coverage in Q1FY27.",
-      "url": "https://www.livemint.com/market/mark-to-market/q1fy27-consumer-staples-growth-price-hikes-demand-steady-11782461522560.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/26/1600x900/logo/chips_1700673881471_1782466507100_f8a6f976-ec3b-4a85-8c8a-788282d0c7c3.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-06-26T09:40:47+00:00",
-      "category": "India",
-      "simple_explanation": "Nomura analysts expect aggregate revenue growth of 10.4% year-on-year for consumer staples companies under their coverage in Q1FY27."
-    },
-    {
-      "title": "Bitcoin ETFs post June's biggest daily outflows as BTC falls below $60K",
-      "description": "US Bitcoin ETFs recorded $696.3 million in outflows as Bitcoin slipped below $60,000, lifting year-to-date losses to $4.6 billion.",
-      "url": "https://cointelegraph.com/news/bitcoin-etfs-biggest-outflows-june-btc-below-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/dollardambawaterfallmoneyfiat11111.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-26T09:36:34+00:00",
-      "category": "Crypto",
-      "simple_explanation": "US Bitcoin ETFs recorded $696.3 million in outflows as Bitcoin slipped below $60,000, lifting year-to-date losses to $4.6 billion."
     }
   ]
 }
