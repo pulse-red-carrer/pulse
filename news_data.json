@@ -1,7 +1,147 @@
 {
-  "last_updated": "2026-06-29T21:40:39.301806+00:00",
+  "last_updated": "2026-06-29T22:58:21.164602+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip after tech rebounds",
+      "description": "US stock futures teetered as Wall Street digested an upbeat start to the week.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-tech-rebounds-224823556.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-29T22:48:23+00:00",
+      "category": "USA",
+      "simple_explanation": "US stock futures teetered as Wall Street digested an upbeat start to the week."
+    },
+    {
+      "title": "Wall Street ends higher as major tech-related shares jump",
+      "description": "STORY: Wall Street's main indexes closed higher on Monday, with the Dow adding about six-tenths of a percent to notch a record closing high, the S&P 500 climbing nearly 1.2% and the Nasdaq gaining 2%.Several tech stocks that had fallen recently due to concerns about AI spending rebounded on Monday. ",
+      "url": "https://finance.yahoo.com/video/wall-street-ends-higher-major-224730543.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-29T22:47:30+00:00",
+      "category": "USA",
+      "simple_explanation": "STORY: Wall Street's main indexes closed higher on Monday, with the Dow adding about six-tenths of a percent to notch a record closing high, the S&P 500 climbing nearly 1.2% and the Nasdaq gaining 2%."
+    },
+    {
+      "title": "Stock Market Today, June 29: AST SpaceMobile Rises on BlueBird Satellite Momentum",
+      "description": "AST SpaceMobile gave investors another constellation milestone, keeping attention on launch cadence and the path toward commercial service.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/29/stock-market-today-june-29-ast-spacemobile-rises-on-bluebird-satellite-momentum/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-29T22:34:56+00:00",
+      "category": "USA",
+      "simple_explanation": "AST SpaceMobile gave investors another constellation milestone, keeping attention on launch cadence and the path toward commercial service."
+    },
+    {
+      "title": "Waymo and Uber end robotaxi pilot in Phoenix",
+      "description": "The Waymo self-driving cars deployed in Phoenix for the Uber pilot will remain in use and make autonomous deliveries with DoorDash.",
+      "url": "https://www.cnbc.com/2026/06/29/waymo-uber-robotaxi-pilot-phoenix.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-29T22:31:12+00:00",
+      "category": "USA",
+      "simple_explanation": "The Waymo self-driving cars deployed in Phoenix for the Uber pilot will remain in use and make autonomous deliveries with DoorDash."
+    },
+    {
+      "title": "Dow Jones Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners",
+      "description": "Dow Jones Futures: The stock market rallied Monday on U.S.-Iran news. Alphabet, Rocket Lab, SpaceX stock and Tesla surged.",
+      "url": "https://finance.yahoo.com/m/02713b99-a5a4-39e9-afeb-b3b70009bd95/dow-jones-futures%3A-stock.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-29T22:17:29+00:00",
+      "category": "USA",
+      "simple_explanation": "Dow Jones Futures: The stock market rallied Monday on U.S.-Iran news. Alphabet, Rocket Lab, SpaceX stock and Tesla surged."
+    },
+    {
+      "title": "Industry lobbyists push House committee to block a ban on Pentagon defense contractors buying back their own stock",
+      "description": "Defense companies and their trade groups are pressing Congress not to require that the Pentagon approve stock buybacks.",
+      "url": "https://www.cnbc.com/2026/06/29/pentagon-defense-contractor-buyback-ban-lobbying.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-29T22:08:50+00:00",
+      "category": "USA",
+      "simple_explanation": "Defense companies and their trade groups are pressing Congress not to require that the Pentagon approve stock buybacks."
+    },
+    {
+      "title": "Dow Addition And $85 Billion AI Bet Could Be A Game Changer For Alphabet (GOOGL)",
+      "description": "Alphabet recently joined the Dow Jones Industrial Average, replacing Verizon and expanding the index’s exposure to digital advertising, cloud computing, and artificial intelligence through its diversified businesses. This elevation into the blue-chip benchmark has sharpened attention on Alphabet’s h",
+      "url": "https://finance.yahoo.com/technology/ai/articles/dow-addition-85-billion-ai-220831912.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-29T22:08:31+00:00",
+      "category": "USA",
+      "simple_explanation": "Alphabet recently joined the Dow Jones Industrial Average, replacing Verizon and expanding the index’s exposure to digital advertising, cloud computing, and artificial intelligence through its diversi"
+    },
+    {
+      "title": "Bitcoin faces critical test as bulls aim to hold $60K: Did BTC bottom?",
+      "description": "Bitcoin’s loose hold on $60,000 and soft futures markets raise questions about whether BTC has bottomed.",
+      "url": "https://cointelegraph.com/markets/bitcoin-faces-critical-test-as-bulls-aim-to-hold-60k-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-253090-suckers-rally-why-bitcoin-analysts-say-btc-price-must-hold-70k.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-29T21:57:57+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin’s loose hold on $60,000 and soft futures markets raise questions about whether BTC has bottomed."
+    },
+    {
+      "title": "Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities",
+      "description": "Eli Lilly and Regeneron are among the first seven companies the FDA has selected for its PreCheck Pilot Program, CNBC has learned.",
+      "url": "https://www.cnbc.com/2026/06/29/eli-lilly-regeneron-in-fda-precheck-manufacturing-program.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-06-29T21:56:21+00:00",
+      "category": "USA",
+      "simple_explanation": "Eli Lilly and Regeneron are among the first seven companies the FDA has selected for its PreCheck Pilot Program, CNBC has learned."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-06-29T21:45:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Here Are Tuesday’s Best Wall Street Analyst Research Calls:",
+      "description": "Pre-Market Stock Futures: Futures are trading flat after a big start to the holiday-shortened trading week, which saw every index trade higher. The small-cap Russell 2000 eked out a tiny gain on the close, finishing up 0.01% at $3010, and still leads all the major indices in 2026, up over 20%. The t",
+      "url": "https://247wallst.com/investing/2026/06/29/here-are-tuesdays-best-wall-street-analyst-research-calls/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-29T21:42:49+00:00",
+      "category": "USA",
+      "simple_explanation": "Pre-Market Stock Futures: Futures are trading flat after a big start to the holiday-shortened trading week, which saw every index trade higher. The small-cap Russell 2000 eked out a tiny gain on the c"
+    },
+    {
+      "title": "Stock Market Today, June 29: Nasdaq Composite Outperforms as Tech Stocks Gain on Easing Geopolitical Tensions",
+      "description": "Today, June 29, 2026, investors welcomed relief in risk assets as U.S.-Iran tensions cooled ahead of a key summit.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/06/29/stock-market-today-june-29-nasdaq-composite-outperforms-as-tech-stocks-gain-on-easing-geopolitical-tensions/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-29T21:38:17+00:00",
+      "category": "USA",
+      "simple_explanation": "Today, June 29, 2026, investors welcomed relief in risk assets as U.S.-Iran tensions cooled ahead of a key summit."
+    },
+    {
+      "title": "Why Tenable Stock Raced Higher Today",
+      "description": "The company's achievement of a new certification had investors racing to click the buy button today.",
+      "url": "https://www.fool.com/investing/2026/06/29/why-tenable-stock-raced-higher-today/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-29T21:36:15+00:00",
+      "category": "USA",
+      "simple_explanation": "The company's achievement of a new certification had investors racing to click the buy button today."
+    },
+    {
+      "title": "These 2 Industrial Giants Have Crushed Tesla's Returns Over the Last 12 Months. Will The Party Continue?",
+      "description": "Tesla's stock has gone up 14% over the past year, which is pretty good, but it still pales in comparison to Cat and GE Vernova.",
+      "url": "https://www.fool.com/investing/2026/06/29/these-2-industrial-giants-have-crushed-teslas-retu/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-29T21:35:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Tesla's stock has gone up 14% over the past year, which is pretty good, but it still pales in comparison to Cat and GE Vernova."
+    },
     {
       "title": "Donald Trump has 10 days to decide on housing bill with CBDC ban",
       "description": "House Speaker Mike Johnson transmitted a housing bill with a provision barring the US Federal Reserve issuing or creating a CBDC until 2030 to Donald Trump on Monday.",
@@ -23,16 +163,6 @@
       "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - June 29, 2026) - Harrys Manufacturing Inc. (CSE: HARY) (the \"Company\", \"Harrys\", \"we\", \"our\" or \"us\") is pleased to announce that it has acquired, by map"
     },
     {
-      "title": "Lobbying push to nix Pentagon defense contractor share buyback ban heats up",
-      "description": "Defense companies and their trade groups are pressing Congress against writing a requirement that the Pentagon approve stock buybacks into law.",
-      "url": "https://www.cnbc.com/2026/06/29/pentagon-defense-contractor-buyback-ban-lobbying.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-29T21:14:09+00:00",
-      "category": "USA",
-      "simple_explanation": "Defense companies and their trade groups are pressing Congress against writing a requirement that the Pentagon approve stock buybacks into law."
-    },
-    {
       "title": "Stock Market Today, June 29: Verizon Drops After Dow Removal and BT Group Joint Venture Drives Heavy Selling",
       "description": "Today, June 29, 2026, index fund rebalancing and new joint venture put fresh pressure on Verizon shares.",
       "url": "https://www.fool.com/coverage/stock-market-today/2026/06/29/stock-market-today-june-29-verizon-drops-after-dow-removal-and-bt-group-joint-venture-drives-heavy-selling/?.tsrc=rss",
@@ -49,7 +179,7 @@
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-06-29T21:10:32+00:00",
-      "category": "USA",
+      "category": "Commodities",
       "simple_explanation": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe"
     },
     {
@@ -61,76 +191,6 @@
       "published_at": "2026-06-29T21:05:00+00:00",
       "category": "Commodities",
       "simple_explanation": "Silvercorp Metals Inc. (\"Silvercorp\" or the \"Company\") (TSX: SVM) (NYSE American: SVM) announces that it has today filed its Annual Report on Form 40-F for the fiscal year ended March 31, 2026, with t"
-    },
-    {
-      "title": "Goldman Sachs doubles down on stock market outlook for 2026",
-      "description": "Q2 earnings season begins in mid-July. Goldman Sachs chief U.S. equity strategist Ben Snider, in a note published June 28, called it \"a critical test\" for U.S. stocks. The word choice was deliberate. The market's 2026 gains have come almost entirely from earnings growth rather than investors paying ",
-      "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-doubles-down-on-stock-market-outlook-for-2026-sp500?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-29T21:03:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Q2 earnings season begins in mid-July. Goldman Sachs chief U.S. equity strategist Ben Snider, in a note published June 28, called it \"a critical test\" for U.S. stocks. The word choice was deliberate. "
-    },
-    {
-      "title": "Which iShares Corporate Bond ETF Is Best for Income Investors: IGLB or LQD?",
-      "description": "Compare cost, yield, and risk profiles of two leading investment-grade bond ETFs. See how their strategies may impact long-term portfolio performance.",
-      "url": "https://www.fool.com/coverage/etfs/2026/06/29/which-ishares-corporate-bond-etf-is-best-for-income-investors-iglb-or-lqd/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-29T21:02:03+00:00",
-      "category": "USA",
-      "simple_explanation": "Compare cost, yield, and risk profiles of two leading investment-grade bond ETFs. See how their strategies may impact long-term portfolio performance."
-    },
-    {
-      "title": "Supreme Court rulings on Fed, FTC: What they mean for consumers",
-      "description": "The Supreme Court issued a pair of highly anticipated rulings on Monday that have far-reaching implications for household finances.",
-      "url": "https://www.cnbc.com/2026/06/29/supreme-court-rulings-fed-ftc-consumers.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-29T20:57:54+00:00",
-      "category": "USA",
-      "simple_explanation": "The Supreme Court issued a pair of highly anticipated rulings on Monday that have far-reaching implications for household finances."
-    },
-    {
-      "title": "Update: Dow Posts New High to Kick Off Holiday-Shortened Trading Week",
-      "description": "(Updates with market moves at the end of the day.) The Dow Jones Industrial Average hit a fresh a",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-posts-high-kick-off-204710455.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-29T20:47:10+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with market moves at the end of the day.) The Dow Jones Industrial Average hit a fresh a"
-    },
-    {
-      "title": "Dow Jones Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners",
-      "description": "Dow Jones Futures: The stock market rallied Monday on U.S.-Iran news. Alphabet, Rocket Lab, SpaceX stock and Tesla surged.",
-      "url": "https://finance.yahoo.com/m/02713b99-a5a4-39e9-afeb-b3b70009bd95/dow-jones-futures%3A-stock.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-29T20:46:36+00:00",
-      "category": "USA",
-      "simple_explanation": "Dow Jones Futures: The stock market rallied Monday on U.S.-Iran news. Alphabet, Rocket Lab, SpaceX stock and Tesla surged."
-    },
-    {
-      "title": "Stock Market Today: Dow Rises To Record; Cathie Wood Buys This Software Stock Amid 46% Dive",
-      "description": "The Dow Jones rises on the stock market today. The Supreme Court blocks President Trump's firing of Lisa Cook. Cathie Wood buys a diving stock while SpaceX soars.",
-      "url": "https://finance.yahoo.com/m/f09e44e5-75d2-3d24-a413-c960372d4f03/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-29T20:43:17+00:00",
-      "category": "USA",
-      "simple_explanation": "The Dow Jones rises on the stock market today. The Supreme Court blocks President Trump's firing of Lisa Cook. Cathie Wood buys a diving stock while SpaceX soars."
-    },
-    {
-      "title": "Alphabet shares 'a good value play', analyst says",
-      "description": "STORY: \"A lot of people are kind of worried about their spending habits\" regarding AI, Lang said, \"but I think today is a good day. On June 29th, I think the stock is turning around here.\"Alphabet shares climbed on Monday as the Google parent made its debut in the blue-chip Dow Jones Industrial Aver",
-      "url": "https://finance.yahoo.com/video/alphabet-shares-good-value-play-203945522.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-29T20:39:45+00:00",
-      "category": "USA",
-      "simple_explanation": "STORY: \"A lot of people are kind of worried about their spending habits\" regarding AI, Lang said, \"but I think today is a good day. On June 29th, I think the stock is turning around here.\"Alphabet sha"
     },
     {
       "title": "Tech rebound lifts Dow to record, yen hits 40-year low against dollar",
@@ -263,16 +323,6 @@
       "simple_explanation": "Rising demand for put options and persistent ETF outflows highlight Bitcoin's weakness despite lower oil prices."
     },
     {
-      "title": "Eli Lilly, Regeneron among first companies selected for FDA initiative to speed review of new manufacturing facilities",
-      "description": "Eli Lilly and Regeneron are among the first seven companies the FDA has selected for its PreCheck Pilot Program, CNBC has learned.",
-      "url": "https://www.cnbc.com/2026/06/29/eli-lilly-regeneron-in-fda-precheck-manufacturing-program.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-06-29T18:53:48+00:00",
-      "category": "USA",
-      "simple_explanation": "Eli Lilly and Regeneron are among the first seven companies the FDA has selected for its PreCheck Pilot Program, CNBC has learned."
-    },
-    {
       "title": "Micron's monster post-earnings rally is almost gone. Traders divided on where it goes next",
       "description": "The maker of memory chips slid to start the week, marking an about-face from its post-earnings surge.",
       "url": "https://www.cnbc.com/2026/06/29/micron-shares-fall-how-bulls-and-bears-are-positioned-in-chip-trade.html",
@@ -283,16 +333,6 @@
       "simple_explanation": "The maker of memory chips slid to start the week, marking an about-face from its post-earnings surge."
     },
     {
-      "title": "Headwater Gold Announces Commencement of Centerra-Funded Drilling at Crane Creek Project, Idaho",
-      "description": "VANCOUVER, British Columbia, June 29, 2026 (GLOBE NEWSWIRE) -- Headwater Gold Inc. (CSE: HWG) (OTCQX: HWAUF) (the “Company” or “Headwater”) is pleased to announce that Centerra Gold Inc. (“Centerra”) (TSX: CG) has commenced drilling at Headwater’s Crane Creek Project (“Crane Creek” or the “Project”)",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/headwater-gold-announces-commencement-centerra-180300566.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-29T18:03:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "VANCOUVER, British Columbia, June 29, 2026 (GLOBE NEWSWIRE) -- Headwater Gold Inc. (CSE: HWG) (OTCQX: HWAUF) (the “Company” or “Headwater”) is pleased to announce that Centerra Gold Inc. (“Centerra”) "
-    },
-    {
       "title": "Bitcoin balances $60K tightrope as US stocks rebound on fresh Iran peace deal hopes",
       "description": "Bitcoin faced its own battle for support as US stocks headed higher and analysts warned of a lack of \"conviction\" among BTC buyers.",
       "url": "https://cointelegraph.com/markets/bitcoin-fails-60k-reclaim-as-us-stocks-rebound-on-new-iran-peace-hopes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -301,26 +341,6 @@
       "published_at": "2026-06-29T17:44:49+00:00",
       "category": "Crypto",
       "simple_explanation": "Bitcoin faced its own battle for support as US stocks headed higher and analysts warned of a lack of \"conviction\" among BTC buyers."
-    },
-    {
-      "title": "Update: Gold Edges Down Despite a Weaker Dollar as Yields Rise",
-      "description": "(Updates prices in the second and final paragraphs.) Gold prices eased on Monday on rising Treasu",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-edges-down-despite-weaker-174251941.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-29T17:42:51+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Updates prices in the second and final paragraphs.) Gold prices eased on Monday on rising Treasu"
-    },
-    {
-      "title": "Coinbase, Kraken and OKX move to swoop up EU users affected by MiCA restrictions",
-      "description": "Several exchanges that have already been authorized by EU regulators are attempting to bring in users from companies unlicensed under the Markets in Crypto-Assets rules, offering transfer bonuses and prizes.",
-      "url": "https://cointelegraph.com/news/coinbase-okx-kraken-eu-users-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-heres-what-you-pay-for-using-crypto-mica-eu.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-29T17:42:39+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Several exchanges that have already been authorized by EU regulators are attempting to bring in users from companies unlicensed under the Markets in Crypto-Assets rules, offering transfer bonuses and "
     },
     {
       "title": "Bitcoin ETFs see worst month of outflows as investors pile into AI trade",
@@ -381,26 +401,6 @@
       "published_at": "2026-06-29T16:40:18+00:00",
       "category": "Crypto",
       "simple_explanation": "Scott Melker breaks down Strategy's (MSTR) new approach to bitcoin (BTC-USD). \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sur"
-    },
-    {
-      "title": "BNY adds USDC minting and redemption to institutional custody platform",
-      "description": "The move deepens BNY's partnership with Circle and builds on the bank's role as the primary custodian of USDC reserves.",
-      "url": "https://cointelegraph.com/news/bny-adds-usdc-minting-and-redemption-to-institutional-custody-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sbuidl-okx-tokenized-treasury-fund.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-06-29T16:10:09+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The move deepens BNY's partnership with Circle and builds on the bank's role as the primary custodian of USDC reserves."
-    },
-    {
-      "title": "Nasdaq, NYSE to ring opening bell from Oval Office for Trump Accounts launch, Hassett tells CNBC",
-      "description": "US stock exchanges Nasdaq and NYSE plan a rare joint opening bell from the Oval Office next week to promote Donald Trump’s new child investment scheme, Trump Accounts. The program offers $1,000 seed funding for eligible US children, aiming to boost early investing awareness and participation among f",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-nyse-to-ring-opening-bell-from-oval-office-for-trump-accounts-launch-hassett-tells-cnbc/articleshow/132074863.cms",
-      "image": "https://img.etimg.com/photo/msid-132074863,imgsize-206198.cms",
-      "source": "Economic Times",
-      "published_at": "2026-06-29T16:06:17+00:00",
-      "category": "India",
-      "simple_explanation": "US stock exchanges Nasdaq and NYSE plan a rare joint opening bell from the Oval Office next week to promote Donald Trump’s new child investment scheme, Trump Accounts. The program offers $1,000 seed f"
     }
   ]
 }
