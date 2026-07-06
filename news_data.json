@@ -1,19 +1,299 @@
 {
-  "last_updated": "2026-07-06T00:06:09.757495+00:00",
+  "last_updated": "2026-07-06T05:11:38.030374+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Dow Jones Futures Rise, Techs Jump; Apple, SpaceX, Sandisk, Robinhood In Focus",
+      "title": "Why Iran may find it difficult to clear its oil inventories even after sanctions relief",
+      "description": "Iran may face challenges in clearing oil inventories even after restrictions have been lifted, amid oil supplies elsewhere while China becomes less enthusiastic",
+      "url": "https://www.cnbc.com/2026/07/06/iran-oil-supply-hormuz-china-energy.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-06T05:06:07+00:00",
+      "category": "USA",
+      "simple_explanation": "Iran may face challenges in clearing oil inventories even after restrictions have been lifted, amid oil supplies elsewhere while China becomes less enthusiastic"
+    },
+    {
+      "title": "Zen Tech, HAL & other defence stocks rally up to 6% on DAC's Rs 52,000-crore approval. Motilal picks 3 shares to buy",
+      "description": "Defence stocks rallied sharply on Monday after the Defence Acquisition Council approved procurement proposals worth around Rs 52,000 crore. Zen Technologies, ideaForge, HAL, BEL, Paras Defence and Data Patterns gained, while Motilal Oswal reiterated its 'Buy' ratings on HAL, Bharat Electronics and A",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/zen-tech-hal-other-defence-stocks-rally-up-to-6-on-dacs-rs-52000-crore-approval-motilal-picks-3-shares-to-buy/articleshow/132207899.cms",
+      "image": "https://img.etimg.com/photo/msid-132207899,imgsize-139306.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-06T05:00:04+00:00",
+      "category": "India",
+      "simple_explanation": "Defence stocks rallied sharply on Monday after the Defence Acquisition Council approved procurement proposals worth around Rs 52,000 crore. Zen Technologies, ideaForge, HAL, BEL, Paras Defence and Dat"
+    },
+    {
+      "title": "Diamond Power Infrastructure shares jump 10% after Rs 435 crore order for Hyderabad data centre projects",
+      "description": "Diamond Power Infrastructure's stock surged after securing a substantial Rs 435 crore order for power cables for Hyderabad's 310 MW data center projects. This significant deal, involving major players like L&T, Sterling & Wilson, and Blue Star, underscores the company's growing prominence in supplyi",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/diamond-power-infrastructure-shares-jump-10-after-rs-435-crore-order-for-hyderabad-data-centre-projects/articleshow/132207865.cms",
+      "image": "https://img.etimg.com/photo/msid-132207865,imgsize-120310.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-06T04:56:16+00:00",
+      "category": "India",
+      "simple_explanation": "Diamond Power Infrastructure's stock surged after securing a substantial Rs 435 crore order for power cables for Hyderabad's 310 MW data center projects. This significant deal, involving major players"
+    },
+    {
+      "title": "Senco Gold shares soar 6% as Q1 business update highlights 60% revenue growth",
+      "description": "Senco Gold shares saw a significant jump following a strong Q1 FY27 business update. The jewellery retailer reported a robust 60% year-on-year revenue growth, driven by a 48% rise in retail revenue and an impressive 38% same-store sales growth.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/senco-gold-shares-soar-6-as-q1-business-update-highlights-60-revenue-growth/articleshow/132207483.cms",
+      "image": "https://img.etimg.com/photo/msid-132207483,imgsize-10472.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-06T04:37:21+00:00",
+      "category": "India",
+      "simple_explanation": "Senco Gold shares saw a significant jump following a strong Q1 FY27 business update. The jewellery retailer reported a robust 60% year-on-year revenue growth, driven by a 48% rise in retail revenue an"
+    },
+    {
+      "title": "Aastha Spintex share price makes weak debut, lists at 4% discount to the IPO price",
+      "description": "Aastha Spintex share price listed at 4.41% discount to the IPO price of  ₹136 per share. The stock opened at  ₹130 per share on both NSE and BSE.",
+      "url": "https://www.livemint.com/market/stock-market-news/aastha-spintex-share-price-makes-weak-debut-lists-at-4-discount-to-the-ipo-price-11783311877466.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/06/1600x900/logo/stock_1783312470965_1783312471138_159f2d77-fc84-4832-b837-46b4bcd46cba.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-06T04:35:16+00:00",
+      "category": "India",
+      "simple_explanation": "Aastha Spintex share price listed at 4.41% discount to the IPO price of  ₹136 per share. The stock opened at  ₹130 per share on both NSE and BSE."
+    },
+    {
+      "title": "Adon Agro Commodities shares list at 12% premium over IPO price on BSE SME platform",
+      "description": "Adon Agro Commodities experienced a robust stock market debut, listing at a nearly 12% premium on the BSE SME platform, surpassing grey market expectations. The company, which deals in dry fruits, nuts, seeds, and berries, raised Rs 44.03 crore through its IPO. Adon Agro boasts a diversified revenue",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/adon-agro-commodities-shares-list-at-12-premium-over-ipo-price-on-bse-sme-platform/articleshow/132207349.cms",
+      "image": "https://img.etimg.com/photo/msid-132207349,imgsize-4468.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-06T04:34:56+00:00",
+      "category": "India",
+      "simple_explanation": "Adon Agro Commodities experienced a robust stock market debut, listing at a nearly 12% premium on the BSE SME platform, surpassing grey market expectations. The company, which deals in dry fruits, nut"
+    },
+    {
+      "title": "Global equity funds attract third straight week of inflows as investors buy AI-linked dip",
+      "description": "Investors are pouring money into global equities, particularly technology stocks, despite a recent market dip. This surge, marking the third consecutive week of inflows, signals strong confidence in the AI-driven rally. While U.S. funds saw outflows, Europe and Asia experienced significant gains. Bo",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-equity-funds-attract-third-straight-week-of-inflows-as-investors-buy-ai-linked-dip/articleshow/132207442.cms",
+      "image": "https://img.etimg.com/photo/msid-132207442,imgsize-9006.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-06T04:32:56+00:00",
+      "category": "India",
+      "simple_explanation": "Investors are pouring money into global equities, particularly technology stocks, despite a recent market dip. This surge, marking the third consecutive week of inflows, signals strong confidence in t"
+    },
+    {
+      "title": "Shakti Pumps shares surge 8% on Rs 354 crore solar pump order from MSEDCL",
+      "description": "Shakti Pumps shares rose sharply on Monday trade after the company won a Rs 353.89 crore order from MSEDCL. The contract covers the supply, installation and commissioning of 15,000 off-grid solar photovoltaic water pumping systems under Maharashtra's Magel Tyala Saur Krushi Pump Yojana.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/shakti-pumps-shares-surge-8-on-rs-354-crore-solar-pump-order-from-msedcl/articleshow/132207342.cms",
+      "image": "https://img.etimg.com/photo/msid-132207342,imgsize-24064.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-06T04:28:58+00:00",
+      "category": "India",
+      "simple_explanation": "Shakti Pumps shares rose sharply on Monday trade after the company won a Rs 353.89 crore order from MSEDCL. The contract covers the supply, installation and commissioning of 15,000 off-grid solar phot"
+    },
+    {
+      "title": "HAL, BEL to Zen Technologies: Defence stocks rally on  ₹52,000 crore procurement boost; check key beneficiaries",
+      "description": "Zen Technologies emerged as the top gainer on the Nifty India Defence index, surging over 4%, followed by Paras Defence and Space Technologies, Bharat Dynamics, Bharat Electronics (BEL), Data Patterns (India), and Solar Industries.",
+      "url": "https://www.livemint.com/market/stock-market-news/hal-bel-to-zen-technologies-defence-stocks-rally-on-rs-52-000-crore-procurement-boost-check-key-beneficiaries-11783311429917.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/06/1600x900/logo/Screenshot_1719839128146_1783312043892_0b50d0d9-fecc-474a-82c1-2a65d53bf6b4.png",
+      "source": "LiveMint",
+      "published_at": "2026-07-06T04:27:56+00:00",
+      "category": "India",
+      "simple_explanation": "Zen Technologies emerged as the top gainer on the Nifty India Defence index, surging over 4%, followed by Paras Defence and Space Technologies, Bharat Dynamics, Bharat Electronics (BEL), Data Patterns"
+    },
+    {
+      "title": "Healthcare stock Unihealth Hospitals hits 5% upper circuit; here's why",
+      "description": "Unihealth Hospitals shares hit the 5% upper circuit after announcing a 49.81% stake acquisition in Uganda's Victoria Hospital, boosting its ownership to 99.81%. This strategic move supports its international expansion goals and ensures future economic benefits directly benefit its shareholders.",
+      "url": "https://www.livemint.com/market/stock-market-news/healthcare-stock-unihealth-hospitals-hits-5-upper-circuit-heres-why-11783311549734.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/06/1600x900/logo/g62e6fb90d6fce001a61d1bc95583b54ec186db1e120592733_1721123044085_1783311927087_9b79007c-51d8-4535-90f4-8b86b5552dc9.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-06T04:26:38+00:00",
+      "category": "India",
+      "simple_explanation": "Unihealth Hospitals shares hit the 5% upper circuit after announcing a 49.81% stake acquisition in Uganda's Victoria Hospital, boosting its ownership to 99.81%. This strategic move supports its intern"
+    },
+    {
+      "title": "Global Markets: Goldman Sachs tightens grip on EMEA M&A advisory as dealmaking hits 19-year high",
+      "description": "Goldman Sachs has significantly boosted its M&A advisory dominance in EMEA, capturing its largest market share in nearly a decade. This surge coincides with a robust revival in regional dealmaking, reaching a 19-year high.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-goldman-sachs-tightens-grip-on-emea-ma-advisory-as-dealmaking-hits-19-year-high/articleshow/132207316.cms",
+      "image": "https://img.etimg.com/photo/msid-132207316,imgsize-77182.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-06T04:25:52+00:00",
+      "category": "India",
+      "simple_explanation": "Goldman Sachs has significantly boosted its M&A advisory dominance in EMEA, capturing its largest market share in nearly a decade. This surge coincides with a robust revival in regional dealmaking, re"
+    },
+    {
+      "title": "Why Is The Crypto Market Up Today?",
+      "description": "The crypto market climbed to $2.17 trillion since July 1 as Fed's Warsh eased fears, a rare miner bottom signal fired, and HYPE led gains.",
+      "url": "https://beincrypto.com/why-is-the-crypto-market-up-today/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-06T04:23:16+00:00",
+      "category": "USA",
+      "simple_explanation": "The crypto market climbed to $2.17 trillion since July 1 as Fed's Warsh eased fears, a rare miner bottom signal fired, and HYPE led gains."
+    },
+    {
+      "title": "Poly Medicure among 4 stocks that closed below VWAP",
+      "description": "Four Nifty500 stocks, Poly Medicure, Aditya Birla Real Estate, Siemens Energy India, and Onesource Specialty Pharma, closed over 2% below their VWAP on July 3, indicating potential bearish momentum and heightened selling pressure, according to technical scan data.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/poly-medicure-among-4-stocks-that-closed-below-vwap/slideshow/132207281.cms",
+      "image": "https://img.etimg.com/photo/msid-132207234,imgsize-297303.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-06T04:19:58+00:00",
+      "category": "India",
+      "simple_explanation": "Four Nifty500 stocks, Poly Medicure, Aditya Birla Real Estate, Siemens Energy India, and Onesource Specialty Pharma, closed over 2% below their VWAP on July 3, indicating potential bearish momentum an"
+    },
+    {
+      "title": "Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Shriram Finance, Piramal Pharma shares on 6 July",
+      "description": "Indian benchmark indices, Sensex and Nifty 50, opened higher on July 6, driven by gains in private banking stocks following strong quarterly updates from HDFC Bank and Axis Bank. Market breadth was positive with 14 of the 16 major indices in the green.",
+      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-shriram-finance-piramal-pharma-shares-on-6-july-11783310585060.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/06/1600x900/logo/Dharmesh_Shah_2022_03_1708927453301_1783311327276_e5fcbf86-b6a2-4a8f-a09f-8c3b4df50263.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-06T04:18:21+00:00",
+      "category": "India",
+      "simple_explanation": "Indian benchmark indices, Sensex and Nifty 50, opened higher on July 6, driven by gains in private banking stocks following strong quarterly updates from HDFC Bank and Axis Bank. Market breadth was po"
+    },
+    {
+      "title": "HDFC Bank share price rises 2% on strong Q1 business update. Do you own?",
+      "description": "HDFC Bank share price rises 2% to  ₹817 apiece on NSE in Monday's trading session.",
+      "url": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-rises-2-on-strong-q1-business-update-do-you-own-11783309927064.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/06/1600x900/logo/HDFC_Bank_1783310285812_1783310285991_41b46562-e560-41e2-82d2-e0932c7e11ba.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-07-06T03:59:00+00:00",
+      "category": "India",
+      "simple_explanation": "HDFC Bank share price rises 2% to  ₹817 apiece on NSE in Monday's trading session."
+    },
+    {
+      "title": "Gold, silver trade volatile amid elevated dollar, easing US Fed rate hike bets; what should investors do?",
+      "description": "Gold and silver prices witnessed some volatility in early trade on the MCX on Monday, 6 July, torn between easing concerns over US Fed rate hikes after softer-than-expected jobs data, and elevated dollar.",
+      "url": "https://www.livemint.com/market/commodities/gold-silver-trade-volatile-amid-elevated-dollar-easing-us-fed-rate-hike-bets-what-should-investors-do-11783308915711.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/06/1600x900/logo/pexels-photo-366551_1781584700648_1781584717486_24fbc898-a60f-4425-976f-6e3190d233ee_1783309030539_dda3c095-fd7e-4227-9ccb-1c07cb48e124.jpeg",
+      "source": "LiveMint",
+      "published_at": "2026-07-06T03:43:36+00:00",
+      "category": "India",
+      "simple_explanation": "Gold and silver prices witnessed some volatility in early trade on the MCX on Monday, 6 July, torn between easing concerns over US Fed rate hikes after softer-than-expected jobs data, and elevated dol"
+    },
+    {
+      "title": "Central bankers sound alarms over agentic AI finance risks",
+      "description": "“We need to think about new tools and a different way of working with the [AI] market in a more collaborative way,” says Nikhil Rathi, CEO of the UK’s finance watchdog.",
+      "url": "https://cointelegraph.com/news/central-bankers-sound-alarms-over-agentic-ai-finance-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-everything-you-need-to-know.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-06T03:30:19+00:00",
+      "category": "Crypto",
+      "simple_explanation": "“We need to think about new tools and a different way of working with the [AI] market in a more collaborative way,” says Nikhil Rathi, CEO of the UK’s finance watchdog."
+    },
+    {
+      "title": "Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says",
+      "description": "The reported delay adds to concerns that Nvidia's breakneck annual release cadence is colliding with manufacturing limits.",
+      "url": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-06T03:21:27+00:00",
+      "category": "USA",
+      "simple_explanation": "The reported delay adds to concerns that Nvidia's breakneck annual release cadence is colliding with manufacturing limits."
+    },
+    {
+      "title": "Dow Jones Futures Rise, Techs Lead; Apple, SpaceX, Sandisk, Robinhood In Focus",
       "description": "The Nasdaq and many AI stocks like Sandisk are at key levels. Also watch Apple, SpaceX and Robinhood.",
       "url": "https://finance.yahoo.com/m/ec56cf3b-dedb-33cd-b5a6-808b1a4fa8f8/dow-jones-futures-rise%2C-techs.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-05T23:55:13+00:00",
+      "published_at": "2026-07-06T03:17:18+00:00",
       "category": "USA",
       "simple_explanation": "The Nasdaq and many AI stocks like Sandisk are at key levels. Also watch Apple, SpaceX and Robinhood."
     },
     {
-      "title": "Dubai tops Asian crypto hubs, India isolates banks from crypto: Asia Express",
+      "title": "Trump’s memecoin holders have lost over $3.8B: Report",
+      "description": "Nansen analysis shows that just under half a million wallets had profited on Donald Trump’s memecoin, while the large majority of buyers have lost out.",
+      "url": "https://cointelegraph.com/news/trumps-memecoin-loses-38b-for-nearly-1m-holders-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-china-tariffs.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-06T03:12:14+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Nansen analysis shows that just under half a million wallets had profited on Donald Trump’s memecoin, while the large majority of buyers have lost out."
+    },
+    {
+      "title": "NewPeak Metals soars more than 100% intraday after Las Opeñas discovery",
+      "description": "NewPeak Metals Ltd (ASX:NPM, OTC:NPMFF, FRA:NPM) shares surged in morning trade after the company confirmed a large-scale gold-zinc-silver discovery from the first hole of its 2026 drilling program at the 100%-owned Las Opeñas Gold Project in San Juan Province, Argentina. The stock surged as...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1094955/newpeak-metals-soars-more-than-100-intraday-after-las-openas-discovery-1094955.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-06T03:02:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "NewPeak Metals Ltd (ASX:NPM, OTC:NPMFF, FRA:NPM) shares surged in morning trade after the company confirmed a large-scale gold-zinc-silver discovery from the first hole of its 2026 drilling program at"
+    },
+    {
+      "title": "Lockheed Martin leading race for $3.5 billion purchase of naval defense firm Ultra Maritime",
+      "description": "Ultra is owned by private equity firm Advent International, and specialises in anti-submarine technology.",
+      "url": "https://www.cnbc.com/2026/07/06/lockheed-martin-leading-race-for-3point5-billion-buy-of-ultra-maritime-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-06T02:51:03+00:00",
+      "category": "USA",
+      "simple_explanation": "Ultra is owned by private equity firm Advent International, and specialises in anti-submarine technology."
+    },
+    {
+      "title": "Asian markets mixed as tech recovery stutters, oil slips",
+      "description": "Asian markets fluctuated Monday as investors struggled to maintain last week's late tech recovery, with traders turning their focus to the upcoming earnings season, while oil prices fell on further supplies passing through the Strait of Hormuz.Crude prices extended losses as tankers continued to pas",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-mixed-tech-recovery-024825236.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-06T02:48:25+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Asian markets fluctuated Monday as investors struggled to maintain last week's late tech recovery, with traders turning their focus to the upcoming earnings season, while oil prices fell on further su"
+    },
+    {
+      "title": "Trump asked FIFA to review Balogun's World Cup game suspension: Reports",
+      "description": "Folarin Balogun was surprisingly cleared by FIFA to play for the United States Men's National Team in the World Cup against Belgium on Monday.",
+      "url": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-06T02:37:06+00:00",
+      "category": "USA",
+      "simple_explanation": "Folarin Balogun was surprisingly cleared by FIFA to play for the United States Men's National Team in the World Cup against Belgium on Monday."
+    },
+    {
+      "title": "Down 32%, Is Nike the Smartest Dividend Stock to Buy for the Second Half of 2026?",
+      "description": "The stock offers a high yield, but it comes with risks.",
+      "url": "https://www.fool.com/investing/2026/07/05/down-32-is-nike-the-smartest-dividend-stock-to-buy/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-06T02:20:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The stock offers a high yield, but it comes with risks."
+    },
+    {
+      "title": "Nasdaq, S&P 500, Dow Futures Rise After Fourth Of July Break As Investors Await Fed Minutes: SLS, ONDS, HOOD, MARA, HUT In Focus",
+      "description": "U.S. stock futures edged higher in the overnight session ahead of Monday’s open following a strong rally in the prior week.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-rise-after-fourth-of-july-break-as-investors-await-fed-minutes/cZmKumjR7kK?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-06T00:58:06+00:00",
+      "category": "USA",
+      "simple_explanation": "U.S. stock futures edged higher in the overnight session ahead of Monday’s open following a strong rally in the prior week."
+    },
+    {
+      "title": "What This Rare Historical Market Signal Means for Your Portfolio",
+      "description": "The signal is named for Warren Buffett, who advised on when it's in scary territory -- such as now.",
+      "url": "https://www.fool.com/investing/2026/07/05/what-this-rare-historical-market-signal-means-for/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-06T00:24:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The signal is named for Warren Buffett, who advised on when it's in scary territory -- such as now."
+    },
+    {
+      "title": "Greatland tops FY26 guidance with 328,986 ounces of gold",
+      "description": "Greatland Resources Ltd (AIM:GGP, OTC:GRLGF, ASX:GGP) has delivered full-year gold production of 328,986 ounces, beating the top end of its FY26 guidance range after producing 79,099 ounces in the June quarter. The Western Australian gold and copper producer also reported June quarter copper...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1094947/greatland-tops-fy26-guidance-with-328-986-ounces-of-gold-1094947.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-06T00:23:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Greatland Resources Ltd (AIM:GGP, OTC:GRLGF, ASX:GGP) has delivered full-year gold production of 328,986 ounces, beating the top end of its FY26 guidance range after producing 79,099 ounces in the Jun"
+    },
+    {
+      "title": "Mizuho Raises Price Target for Entegris Inc. (ENTG)",
+      "description": "Entegris Inc. (NASDAQ:ENTG) is one of BlackRock’s 30 most important AI stocks right now. On July 1, John Roberts from Mizuho increased the firm’s target price on Entegris Inc. (NASDAQ:ENTG) from $180 to $200, and maintained an Outperform rating on the stock. Roberts’ price target adjustment is notab",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-raises-price-target-entegris-001647926.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-06T00:16:47+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Entegris Inc. (NASDAQ:ENTG) is one of BlackRock’s 30 most important AI stocks right now. On July 1, John Roberts from Mizuho increased the firm’s target price on Entegris Inc. (NASDAQ:ENTG) from $180 "
+    },
+    {
+      "title": "Dubai tops Asian crypto hubs, Taiwan passes crypto laws: Asia Express",
       "description": "Japan's SBI Crypto shuts down 12th largest Bitcoin mining pool in the world, Russia gears up to launch digital ruble despite EU sanctions, and more: Asia Express.",
       "url": "https://cointelegraph.com/features/asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-3.jpg",
@@ -21,16 +301,6 @@
       "published_at": "2026-07-05T23:35:03+00:00",
       "category": "Crypto",
       "simple_explanation": "Japan's SBI Crypto shuts down 12th largest Bitcoin mining pool in the world, Russia gears up to launch digital ruble despite EU sanctions, and more: Asia Express."
-    },
-    {
-      "title": "Stock market today: S&P 500, Nasdaq, Dow futures climb after record-setting week",
-      "description": "The major gauges advanced with gains concentrated in tech stocks leading to K-shaped fears",
-      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-7-225645420.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T22:56:45+00:00",
-      "category": "USA",
-      "simple_explanation": "The major gauges advanced with gains concentrated in tech stocks leading to K-shaped fears"
     },
     {
       "title": "AngloGold Ashanti PLC (AU) Faces Diverging Analyst Views Amid Market and Regulatory Shifts",
@@ -63,16 +333,6 @@
       "simple_explanation": "(Bloomberg) -- Oil fell as energy flows through the Strait of Hormuz persisted and OPEC+ signaled higher supplies, fanning concerns about a potential glut.Most Read from BloombergOil, Gas Tankers Cros"
     },
     {
-      "title": "Trump asked FIFA to review Balogun's World Cup game suspension: Reports",
-      "description": "Folarin Balogun was surprisingly cleared by FIFA to play for the United States Men's National Team in the World Cup against Belgium on Monday.",
-      "url": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-05T21:10:29+00:00",
-      "category": "USA",
-      "simple_explanation": "Folarin Balogun was surprisingly cleared by FIFA to play for the United States Men's National Team in the World Cup against Belgium on Monday."
-    },
-    {
       "title": "Kosmos Energy (KOS) Completes Sale of Equatorial Guinea Interests to Panoro Energy",
       "description": "Kosmos Energy Ltd. (NYSE:KOS) is one of the best value penny stocks to buy according to hedge funds. On June 17, Kosmos Energy announced the completed sale of its interests in the Ceiba Field and Okume Complex in Equatorial Guinea to Panoro Energy. The transaction resulted in a final cash payment of",
       "url": "https://finance.yahoo.com/energy/articles/kosmos-energy-kos-completes-sale-200554093.html?.tsrc=rss",
@@ -93,26 +353,6 @@
       "simple_explanation": "You can't know the one thing you need to know about timing the market."
     },
     {
-      "title": "The stock market is about to suffer a ‘snapback’ and will lose much of this year’s gains as ‘speculation is hitting extreme levels,’ BofA warns",
-      "description": "Bank of America reaffirmed its year-end price target of 7,100 for the S&P 500, representing a 5% drop from the week's closing level.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-suffer-snapback-lose-194341951.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T19:43:41+00:00",
-      "category": "USA",
-      "simple_explanation": "Bank of America reaffirmed its year-end price target of 7,100 for the S&P 500, representing a 5% drop from the week's closing level."
-    },
-    {
-      "title": "3 iShares ETFs Crushing the S&P 500 by 30 Points in 2026",
-      "description": "Three funds dominate the emerging markets ex-China conversation right now, and each one has put meaningful daylight between itself and the S&P 500 so far this year. iShares MSCI Emerging Markets ex China ETF (NASDAQ:EMXC) is up 39% year to date, Freedom 100 Emerging Markets ETF (NYSEARCA:FRDM) is up",
-      "url": "https://247wallst.com/investing/2026/07/05/3-ishares-etfs-crushing-the-sp-500-by-30-points-in-2026/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T19:10:14+00:00",
-      "category": "USA",
-      "simple_explanation": "Three funds dominate the emerging markets ex-China conversation right now, and each one has put meaningful daylight between itself and the S&P 500 so far this year. iShares MSCI Emerging Markets ex Ch"
-    },
-    {
       "title": "The Supertanker Tycoon Making Millions on Hormuz Shuttle Runs",
       "description": "(Bloomberg) -- Just a few weeks into the war, one of the Persian Gulf’s top oil producers quietly began sneaking its crude out of the Strait of Hormuz. Before long, the covert project became so successful that the United Arab Emirates was already approaching its pre-war rate of flows through the wat",
       "url": "https://finance.yahoo.com/energy/articles/supertanker-tycoon-making-millions-hormuz-190000308.html?.tsrc=rss",
@@ -121,16 +361,6 @@
       "published_at": "2026-07-05T19:00:00+00:00",
       "category": "Commodities",
       "simple_explanation": "(Bloomberg) -- Just a few weeks into the war, one of the Persian Gulf’s top oil producers quietly began sneaking its crude out of the Strait of Hormuz. Before long, the covert project became so succes"
-    },
-    {
-      "title": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide",
-      "description": "A handful of countries in the OPEC+ oil-producing alliance plan to increase their outputs modestly next month, which would bring more oil online after fuel prices have fallen to levels not seen since before the U.S. and Israel's war with Iran.  The Organization of the Petroleum Exporting Countries a",
-      "url": "https://finance.yahoo.com/energy/articles/7-opec-countries-agree-expand-184751385.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T18:47:51+00:00",
-      "category": "Commodities",
-      "simple_explanation": "A handful of countries in the OPEC+ oil-producing alliance plan to increase their outputs modestly next month, which would bring more oil online after fuel prices have fallen to levels not seen since "
     },
     {
       "title": "Which Crypto Can Make You a Millionaire by 2030 With $10,000? We Compared XRP, BTC, ETH, SOL, and HYPE",
@@ -153,16 +383,6 @@
       "simple_explanation": "Veteran trader Peter Brandt eyes selling Bitcoin to invest in gold, citing a bullish XAU/BTC ratio breakout on his chart."
     },
     {
-      "title": "The Energy Stock Most Investors Overlook-And Why You Should Consider Adding It to Your Portfolio Today.",
-      "description": "The soaring demand for electricity will drive Vistra's stock higher.",
-      "url": "https://www.fool.com/investing/2026/07/05/the-energy-stock-most-investors-overlook-and-why-y/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T18:02:05+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The soaring demand for electricity will drive Vistra's stock higher."
-    },
-    {
       "title": "Gold Was Volatile in the First Half of 2026. Here's How to Invest in Gold for the Rest of the Year.",
       "description": "The volatility in gold looks set to continue, but the underlying fundamentals favor taking a positive long-term view on the gold price.",
       "url": "https://www.fool.com/investing/2026/07/05/gold-was-volatile-in-the-first-half-of-2026-heres/?.tsrc=rss",
@@ -181,226 +401,6 @@
       "published_at": "2026-07-05T17:47:27+00:00",
       "category": "USA",
       "simple_explanation": "Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) pays a quarterly distribution from roughly 100 quality-screened U.S. dividend stocks. The fund holds $71.6 billion in assets at an expense ratio of just"
-    },
-    {
-      "title": "JPMorgan tweaks gold price target as Fed risks return",
-      "description": "Gold prices seemed to be mounting a comeback, but JPMorgan just made the rally harder to trust. Investors expected the shiny yellow metal to continue pushing higher into year's end, buoyed by rate-cut hopes, central-bank buying, and safe-haven demand. Reuters reported that spot gold was up over 2% .",
-      "url": "https://www.thestreet.com/investing/jpmorgan-tweaks-gold-price-target-as-fed-risks-return?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T17:17:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold prices seemed to be mounting a comeback, but JPMorgan just made the rally harder to trust. Investors expected the shiny yellow metal to continue pushing higher into year's end, buoyed by rate-cut"
-    },
-    {
-      "title": "Prediction: Energy Transfer (ET) Will Crush the S&P 500 in the Second-Half of 2026.",
-      "description": "This leading pipeline operator has a bright future.",
-      "url": "https://www.fool.com/investing/2026/07/05/prediction-et-will-crush-the-sp-500-in-2026/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T16:51:55+00:00",
-      "category": "Commodities",
-      "simple_explanation": "This leading pipeline operator has a bright future."
-    },
-    {
-      "title": "Bitcoin nears $63.5K into weekly close as trader warns of 'terrible' Monday",
-      "description": "Bitcoin reached its highest levels in nearly a fortnight over the weekend, but BTC price action faced an \"absolutely terrible\" Monday track record.",
-      "url": "https://cointelegraph.com/markets/bitcoin-nears-635k-into-weekly-close-as-trader-warns-of-terrible-monday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-transactions-stopped-danger.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-05T16:06:20+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin reached its highest levels in nearly a fortnight over the weekend, but BTC price action faced an \"absolutely terrible\" Monday track record."
-    },
-    {
-      "title": "Rate hike readjustment and AI hardware momentum: What to watch this week",
-      "description": "A quiet calendar ahead gives the market plenty of space to go off the beaten path this week as investors gear up for the beginning of earnings season.",
-      "url": "https://finance.yahoo.com/economy/article/rate-hike-readjustment-and-ai-hardware-momentum-what-to-watch-this-week-160059243.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T16:00:59+00:00",
-      "category": "USA",
-      "simple_explanation": "A quiet calendar ahead gives the market plenty of space to go off the beaten path this week as investors gear up for the beginning of earnings season."
-    },
-    {
-      "title": "Why MSTY Shareholders Are Facing Uncapped Losses Despite Weekly Distributions",
-      "description": "The YieldMax MSTR Option Income Strategy ETF (NYSEARCA:MSTY) is the single-stock income product retail investors flocked to when MicroStrategy (now Strategy) was climbing alongside Bitcoin. MSTY promises weekly cash from selling options tied to MSTR exposure, and in 2024 it delivered headline yields",
-      "url": "https://247wallst.com/investing/etf/2026/07/05/why-msty-shareholders-are-facing-uncapped-losses-despite-weekly-distributions/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T15:39:31+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The YieldMax MSTR Option Income Strategy ETF (NYSEARCA:MSTY) is the single-stock income product retail investors flocked to when MicroStrategy (now Strategy) was climbing alongside Bitcoin. MSTY promi"
-    },
-    {
-      "title": "Gold Exchange Universe Launches Portal Version 24k — Sydney’s Precious Metal Buyers for Scrap Gold, Gold Bullion and Jewellery, Paying Close to 98% of Spot",
-      "description": "Sell Gold Sydney | Gold Buyers Sydney | Sell Jewellery Sydney | Sell Gold Bullion | 95% of Spot for Scrap Gold | Up to 98% of Spot for Gold Bullion | NSW Second-Hand Dealers Licence No. 2PS27296 | ABN: 76 165 775 155Sydney, NSW, July 05, 2026 (GLOBE NEWSWIRE) -- Gold Exchange Universe launched Versi",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-exchange-universe-launches-portal-153700012.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T15:37:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Sell Gold Sydney | Gold Buyers Sydney | Sell Jewellery Sydney | Sell Gold Bullion | 95% of Spot for Scrap Gold | Up to 98% of Spot for Gold Bullion | NSW Second-Hand Dealers Licence No. 2PS27296 | ABN"
-    },
-    {
-      "title": "Could The US Ever Bail Out Bitcoin? Some Say Strategy Makes The Idea Harder To Dismiss",
-      "description": "The piece warned that Strategy selling Bitcoin into a falling market could turn reflexive, deepening its liquidity needs.",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-bailout-strategy-washington-zerohedge/cZmLenVR7kh?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T14:50:04+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The piece warned that Strategy selling Bitcoin into a falling market could turn reflexive, deepening its liquidity needs."
-    },
-    {
-      "title": "World Cup fans spent anywhere from $2,500 to $150,000 to see matches—they say it was worth it",
-      "description": "Soccer fans heading to World Cup matches at MetLife Stadium shared how much they expected to spend with CNBC Make It outside New York's Penn Station.",
-      "url": "https://www.cnbc.com/2026/07/05/world-cup-fans-spent-anywhere-from-2500-to-150000-to-see-matches.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-05T14:42:38+00:00",
-      "category": "USA",
-      "simple_explanation": "Soccer fans heading to World Cup matches at MetLife Stadium shared how much they expected to spend with CNBC Make It outside New York's Penn Station."
-    },
-    {
-      "title": "Wall Street Is Buzzing About Alphabet Joining the Dow. Income Investors Should Be Looking at This Stock Instead.",
-      "description": "Alphabet joined the Dow, but investors shouldn't take their eyes off Coca-Cola, one of the index's most dependable dividend names.",
-      "url": "https://www.fool.com/investing/2026/07/05/wall-street-is-buzzing-about-alphabet-joining-the/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T14:05:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Alphabet joined the Dow, but investors shouldn't take their eyes off Coca-Cola, one of the index's most dependable dividend names."
-    },
-    {
-      "title": "Gold Is Up Again in 2026 and After Reviewing Every Way to Own Bullion These 3 ETFs Cover the Trade at Three Cost Levels",
-      "description": "Gold’s run from the summer of 2025 into early 2026 pulled fresh attention to physically backed bullion funds, and the three obvious vehicles sit at noticeably different cost levels. SPDR Gold MiniShares Trust (NYSEARCA:GLDM), iShares Gold Trust (NYSEARCA:IAU), and abrdn Physical Gold Shares ETF (NYS",
-      "url": "https://247wallst.com/investing/2026/07/05/gold-is-up-again-in-2026-and-after-reviewing-every-way-to-own-bullion-these-3-etfs-cover-the-trade-at-three-cost-levels/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T14:04:04+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold’s run from the summer of 2025 into early 2026 pulled fresh attention to physically backed bullion funds, and the three obvious vehicles sit at noticeably different cost levels. SPDR Gold MiniShar"
-    },
-    {
-      "title": "Fidelity just identified five things that could turn crypto around",
-      "description": "As the first half of 2026 ended, Bitcoin (BTC) is trading slightly above $62,500. The leading cryptocurrency is trading 50% lower than the all-time high (ATH) of $126,080 that it hit on Oct. 6, 2025. In fact, June 2026 saw the U.S. spot exchange-traded funds (ETFs) tied to Bitcoin ...",
-      "url": "https://www.thestreet.com/crypto/markets/fidelity-just-identified-five-things-that-could-turn-crypto-around?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T13:30:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "As the first half of 2026 ended, Bitcoin (BTC) is trading slightly above $62,500. The leading cryptocurrency is trading 50% lower than the all-time high (ATH) of $126,080 that it hit on Oct. 6, 2025. "
-    },
-    {
-      "title": "Fed Chair Kevin Warsh May Have Driven a Dagger Into Wall Street's Heart With This Blunt 7-Word Statement",
-      "description": "Warsh's ideological overhaul of the central bank isn't the best news for a stock market that's priced for perfection.",
-      "url": "https://www.fool.com/investing/2026/07/05/fed-kevin-warsh-dagger-wall-st-7-word-statement/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T13:26:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Warsh's ideological overhaul of the central bank isn't the best news for a stock market that's priced for perfection."
-    },
-    {
-      "title": "Trump Accounts for kids launched July 4: What parents need to know",
-      "description": "Here's a breakdown of how Trump Accounts work, who qualifies for free money and when the funds can be withdrawn.",
-      "url": "https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-05T13:14:22+00:00",
-      "category": "USA",
-      "simple_explanation": "Here's a breakdown of how Trump Accounts work, who qualifies for free money and when the funds can be withdrawn."
-    },
-    {
-      "title": "ByteTree Warns AI Rally Is A 1999 Rerun, Groups Bitcoin With Inflation-Era Hard Assets",
-      "description": "Despite its zero ByteTrend score, ByteTree indicated the Bitcoin network is strong with weekly on-chain transaction value at $13.5 billion, five times 2022 levels.",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/byte-tree-warns-ai-rally-is-a-1999-rerun-bitcoin/cZmLERJR7kg?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T13:11:55+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Despite its zero ByteTrend score, ByteTree indicated the Bitcoin network is strong with weekly on-chain transaction value at $13.5 billion, five times 2022 levels."
-    },
-    {
-      "title": "Cargo vessel in Red Sea reports coming under attack, UK maritime body says",
-      "description": "The incident was reported in one of the world's most crucial trade transit routes amid a fragile ceasefire between Iran and the U.S.",
-      "url": "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-05T12:57:45+00:00",
-      "category": "USA",
-      "simple_explanation": "The incident was reported in one of the world's most crucial trade transit routes amid a fragile ceasefire between Iran and the U.S."
-    },
-    {
-      "title": "Top Wall Street analysts prefer these dividend stocks for boosting portfolio returns",
-      "description": "With thousands of dividend-paying companies to choose from, identifying the right stocks can be challenging.",
-      "url": "https://www.cnbc.com/2026/07/05/analysts-prefer-these-dividend-stocks-for-boosting-portfolio-returns.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-05T12:30:01+00:00",
-      "category": "USA",
-      "simple_explanation": "With thousands of dividend-paying companies to choose from, identifying the right stocks can be challenging."
-    },
-    {
-      "title": "Bitcoin's Entire Return Hinges On Just 10 Days A Year, Says BitMine’s Tom Lee",
-      "description": "Lee stated the Ethereum treasury business has $600 million in cash, staked 80% of its ETH, and earns over $250 million in staking incentives.",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-return-10-days-warns-tom-lee/cZmL2y1R7kX?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-05T11:54:22+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Lee stated the Ethereum treasury business has $600 million in cash, staked 80% of its ETH, and earns over $250 million in staking incentives."
-    },
-    {
-      "title": "South Africa proposes crypto tax guidance under existing framework",
-      "description": "South Africa’s tax authority proposed draft guidance clarifying how crypto assets are taxed under existing income and capital gains tax rules, seeking public input until Aug. 31.",
-      "url": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/booksouth-africa.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-05T11:52:47+00:00",
-      "category": "Crypto",
-      "simple_explanation": "South Africa’s tax authority proposed draft guidance clarifying how crypto assets are taxed under existing income and capital gains tax rules, seeking public input until Aug. 31."
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
-      "description": "Indian stock markets surged on Friday, with Sensex and Nifty posting gains exceeding 0.3%. This upward trend was fueled by a calmer Middle East situation, reduced expectations of US Federal Reserve rate hikes, and positive domestic factors like the India-Japan Summit and IT sector recovery.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/132194145.cms",
-      "image": "https://img.etimg.com/photo/msid-132194145,imgsize-54790.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-05T11:35:15+00:00",
-      "category": "India",
-      "simple_explanation": "Indian stock markets surged on Friday, with Sensex and Nifty posting gains exceeding 0.3%. This upward trend was fueled by a calmer Middle East situation, reduced expectations of US Federal Reserve ra"
-    },
-    {
-      "title": "Upcoming IPOs: Kusumgar IPO, Laser Power & Infra IPO among new issues scheduled for next week; check list here",
-      "description": "Kusumgar IPO and Laser Power &amp; Infra IPO are among the mainboard IPOs to open next week, collectively raising over  ₹1,392 crore. Meanwhile, in the small and medium enterprise (SME), Happy Steels IPO and Devson Catalyst IPO will collectively raise up to  ₹67.34 crore.",
-      "url": "https://www.livemint.com/market/ipo/upcoming-ipos-kusumgar-ipo-laser-power-infra-ipo-among-new-issues-scheduled-for-next-week-check-list-here-11783242218348.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/05/1600x900/logo/IPO_1783245652718_1783245652874_c65fbedd-ca62-4dc7-a091-386f3a255fbb.png",
-      "source": "LiveMint",
-      "published_at": "2026-07-05T10:05:49+00:00",
-      "category": "India",
-      "simple_explanation": "Kusumgar IPO and Laser Power &amp; Infra IPO are among the mainboard IPOs to open next week, collectively raising over  ₹1,392 crore. Meanwhile, in the small and medium enterprise (SME), Happy Steels "
-    },
-    {
-      "title": "Tips from Britain's ‘Own Buffett’: Timeless investing lessons for building long-term wealth",
-      "description": "Legendary investor Anthony Bolton, famed for nearly 20% annual returns, reveals his secrets to market outperformance.  He stresses temperament over intellect, advocating for independent thinking and emotional discipline.  Bolton's approach emphasises a clear investment thesis, knowing when to sell, ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/tips-from-britains-own-buffett-timeless-investing-lessons-for-building-long-term-wealth/articleshow/132193823.cms",
-      "image": "https://img.etimg.com/photo/msid-132193823,imgsize-5080.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-05T10:04:43+00:00",
-      "category": "India",
-      "simple_explanation": "Legendary investor Anthony Bolton, famed for nearly 20% annual returns, reveals his secrets to market outperformance.  He stresses temperament over intellect, advocating for independent thinking and e"
-    },
-    {
-      "title": "Cube Highways Trust plans Rs 5,000-cr IPO this month; eyes broader investor base",
-      "description": "Cube Highways Trust is set to launch a substantial Initial Public Offering worth Rs 5,000 crore this month, intending to broaden its base of investors. With a portfolio encompassing 27 operational highway assets throughout India, the trust emphasizes disciplined growth and reliable distributions. Th",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/cube-highways-trust-plans-rs-5000-cr-ipo-this-month-eyes-broader-investor-base/articleshow/132193784.cms",
-      "image": "https://img.etimg.com/photo/msid-132193784,imgsize-67778.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-05T10:01:14+00:00",
-      "category": "India",
-      "simple_explanation": "Cube Highways Trust is set to launch a substantial Initial Public Offering worth Rs 5,000 crore this month, intending to broaden its base of investors. With a portfolio encompassing 27 operational hig"
     }
   ]
 }
