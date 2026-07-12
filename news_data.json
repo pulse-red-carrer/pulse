@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-07-12T14:56:41.261306+00:00",
+  "last_updated": "2026-07-12T16:02:14.432871+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+      "description": "Sam Altman insisted that Elon Musk was again obsessed with him because of an OpenAI model release earlier this week.",
+      "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-12T15:32:34+00:00",
+      "category": "USA",
+      "simple_explanation": "Sam Altman insisted that Elon Musk was again obsessed with him because of an OpenAI model release earlier this week."
+    },
+    {
+      "title": "Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
+      "description": "futures loom amid U.S.-Iran attacks. Taiwan Semi, Goldman and GE earnings are ahead. Nvidia, Sandisk, Micron are near buy points.",
+      "url": "https://finance.yahoo.com/m/082a233e-c56a-3b99-a968-08ce2bfc43f7/dow-jones-futures-loom-amid.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-12T15:25:00+00:00",
+      "category": "USA",
+      "simple_explanation": "futures loom amid U.S.-Iran attacks. Taiwan Semi, Goldman and GE earnings are ahead. Nvidia, Sandisk, Micron are near buy points."
+    },
+    {
+      "title": "A Stock Market Correction Could Be Coming. Here's 1 Move All Investors Should Make Right Now.",
+      "description": "Multiple signs point to possible trouble ahead for the stock market.",
+      "url": "https://www.fool.com/investing/2026/07/12/a-stock-market-correction-could-be-coming-heres-1/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-12T15:05:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Multiple signs point to possible trouble ahead for the stock market."
+    },
+    {
+      "title": "Why UBS says the bull market can survive higher rates?",
+      "description": "Investing.com -- UBS Asset Management said it remains constructive on global equities, citing resilient economic growth and broadening corporate earnings, while warning that persistent U.S. core inflation could keep the Federal Reserve on a hawkish path and support a stronger dollar.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ubs-says-bull-market-145836602.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-12T14:58:36+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Investing.com -- UBS Asset Management said it remains constructive on global equities, citing resilient economic growth and broadening corporate earnings, while warning that persistent U.S. core infla"
+    },
     {
       "title": "If I Could Tell Every Investor 1 Thing About the Next 12 Months in the Stock Market, It's This",
       "description": "Having the right temperament is perhaps the most critical skill for investing success.",
@@ -31,16 +71,6 @@
       "published_at": "2026-07-12T14:35:00+00:00",
       "category": "USA",
       "simple_explanation": "For equity investors looking to mitigate risk, the Vanguard U.S. Minimum Volatility ETF is a hidden gem in the issuer's vaunted stable."
-    },
-    {
-      "title": "Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
-      "description": "futures loom amid U.S.-Iran attacks. Taiwan Semi, Goldman and GE earnings are ahead. Nvidia, Sandisk, Micron are near buy points.",
-      "url": "https://finance.yahoo.com/m/082a233e-c56a-3b99-a968-08ce2bfc43f7/dow-jones-futures-loom-amid.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-12T14:24:43+00:00",
-      "category": "USA",
-      "simple_explanation": "futures loom amid U.S.-Iran attacks. Taiwan Semi, Goldman and GE earnings are ahead. Nvidia, Sandisk, Micron are near buy points."
     },
     {
       "title": "Nabors Industries Ltd. (NBR) Is A Top Stock To Buy According To Bill Miller",
@@ -121,6 +151,16 @@
       "published_at": "2026-07-12T13:13:05+00:00",
       "category": "Commodities",
       "simple_explanation": "Iran just shut the Strait of Hormuz, and the ripple effects stretch far beyond rising gas prices. Here is what the closure means for inflation, corporate profits, and every investor watching the marke"
+    },
+    {
+      "title": "Peter Schiff Says Wall Street's Bitcoin Bulls ‘Won't Put Money Where Their Mouth Is,’ Cites Strategy's Widening Discount",
+      "description": "Peter Schiff tied the skepticism to Strategy's roughly $230.3 million in Bitcoin sales, a reversal of Saylor's \"never sell\" stance.",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/btc-schiff-wallstreet-bulls-wont-put-money/cZmDSZvR7o3?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-12T12:55:37+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Peter Schiff tied the skepticism to Strategy's roughly $230.3 million in Bitcoin sales, a reversal of Saylor's \"never sell\" stance."
     },
     {
       "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
@@ -233,13 +273,23 @@
       "simple_explanation": "Gold has reaffirmed its role as one of the world’s leading safe-haven assets after climbing back above $4,100 per ounce, supported by rising geopolitical uncertainty following renewed military tension"
     },
     {
+      "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
+      "description": "Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among the proof-of-stake networks studied.",
+      "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-germanys-blockchain-solution-hopes-to-remedy-energy-sector-limitations.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-12T09:29:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among the proof-of-stake networks studied."
+    },
+    {
       "title": "Bitcoin holds above $63,000 as Iran tensions rise, BIP-110 debate intensifies",
       "description": "Investing.com -- Bitcoin traded above the $63,000 mark over the weekend, showing resilience despite a fresh escalation in the Iran conflict, renewed debate over Bitcoin’s blockchain rules, and growing momentum behind U.S. digital asset legislation.",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-above-63-000-092723915.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-07-12T09:27:23+00:00",
-      "category": "Commodities",
+      "category": "Crypto",
       "simple_explanation": "Investing.com -- Bitcoin traded above the $63,000 mark over the weekend, showing resilience despite a fresh escalation in the Iran conflict, renewed debate over Bitcoin’s blockchain rules, and growing"
     },
     {
@@ -271,16 +321,6 @@
       "published_at": "2026-07-12T09:21:36+00:00",
       "category": "India",
       "simple_explanation": "Vijay Kedia-backed Kedia Securities has picked up a 3.56% stake in SME IT firm Exato Technologies, taking total holding to 9.68%. The stock has surged over 90% in a year. The move has drawn investor a"
-    },
-    {
-      "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
-      "description": "Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among the proof-of-stake networks studied.",
-      "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-germanys-blockchain-solution-hopes-to-remedy-energy-sector-limitations.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-12T09:20:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among the proof-of-stake networks studied."
     },
     {
       "title": "Michael Saylor Downplays BIP 110 Spam Filter Debate, Calls Consensus Change Precedent The Real Risk To Bitcoin",
@@ -361,46 +401,6 @@
       "published_at": "2026-07-12T07:59:01+00:00",
       "category": "Commodities",
       "simple_explanation": "Equinox Gold Corp. (NYSEAMERICAN:EQX) is one of the stocks set to explode in the next 2 years. On July 9, Equinox Gold reported a quarterly gold production of 176,836 ounces for the period ending June"
-    },
-    {
-      "title": "NSE launches Nifty500 Ahimsa Index based on non-violence towards animals; check stocks, methodology, other key details",
-      "description": "NSE Indices Limited, the index services subsidiary of NSE, on Monday announced the launch of the Nifty500 Ahimsa Index, a new thematic index that provides exposure to companies from the Nifty 500 universe whose business practices align with the principles of ‘Ahimsa’ or non-violence.",
-      "url": "https://www.livemint.com/market/stock-market-news/nse-launches-nifty500-ahimsa-index-based-on-non-violence-towards-animals-check-stocks-methodology-other-key-details-11783841372632.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/12/1600x900/logo/NSE_1783841718833_1783841718978_14329c1f-8330-4369-8dc4-b0e05e8dd532.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-07-12T07:41:35+00:00",
-      "category": "India",
-      "simple_explanation": "NSE Indices Limited, the index services subsidiary of NSE, on Monday announced the launch of the Nifty500 Ahimsa Index, a new thematic index that provides exposure to companies from the Nifty 500 univ"
-    },
-    {
-      "title": "Largecap funds no longer the best bet? Edelweiss CIO Trideep Bhattacharya explains why flexicaps may win now",
-      "description": "Edelweiss CIO Trideep Bhattacharya argues that largecap funds may be losing their edge due to structural market share shifts. He favours flexicap and midcap funds for better growth potential, remains underweight IT amid transition, and is bullish on financials, while selectively approaching small ca",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/largecap-funds-no-longer-the-best-bet-edelweiss-cio-trideep-bhattacharya-explains-why-flexicaps-may-win-now/articleshow/132342040.cms",
-      "image": "https://img.etimg.com/photo/msid-132342040,imgsize-65300.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-12T07:21:28+00:00",
-      "category": "India",
-      "simple_explanation": "Edelweiss CIO Trideep Bhattacharya argues that largecap funds may be losing their edge due to structural market share shifts. He favours flexicap and midcap funds for better growth potential, remains "
-    },
-    {
-      "title": "‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’",
-      "description": "AI-related chip stocks have been volatile amid a debate over AI demand and spending.",
-      "url": "https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-12T05:00:01+00:00",
-      "category": "USA",
-      "simple_explanation": "AI-related chip stocks have been volatile amid a debate over AI demand and spending."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-12T04:24:58+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     }
   ]
 }
