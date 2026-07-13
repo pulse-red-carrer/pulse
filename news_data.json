@@ -1,36 +1,366 @@
 {
-  "last_updated": "2026-07-13T13:23:34.395091+00:00",
+  "last_updated": "2026-07-13T16:33:49.592205+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Paramount, WBD hit with lawsuit from 12 states, including California, to block merger",
+      "description": "A group of states, including California, filed a lawsuit to block the merger between Paramount and Warner Bros. Discovery.",
+      "url": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-13T16:19:48+00:00",
+      "category": "USA",
+      "simple_explanation": "A group of states, including California, filed a lawsuit to block the merger between Paramount and Warner Bros. Discovery."
+    },
+    {
+      "title": "Trump recommends Lindsey Graham's sister serve as interim senator for South Carolina",
+      "description": "The death of Sen. Lindsey Graham ignited a scramble among South Carolina Republicans to prepare for a special primary election to replace him on the GOP ticket.",
+      "url": "https://www.cnbc.com/2026/07/13/trump-lindsey-graham-darline-south-carolina-senator.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-13T16:18:49+00:00",
+      "category": "USA",
+      "simple_explanation": "The death of Sen. Lindsey Graham ignited a scramble among South Carolina Republicans to prepare for a special primary election to replace him on the GOP ticket."
+    },
+    {
+      "title": "Trump calls for Congress to pass Clarity Act crypto bill to honor Lindsey Graham",
+      "description": "The Senate Banking Committee approved the bill 15-9 in May, with two Democrats joining Republicans to advance the legislation.",
+      "url": "https://www.cnbc.com/2026/07/13/trump-congress-clarity-act-crypto-bill-lindsey-graham.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-13T16:17:51+00:00",
+      "category": "USA",
+      "simple_explanation": "The Senate Banking Committee approved the bill 15-9 in May, with two Democrats joining Republicans to advance the legislation."
+    },
+    {
+      "title": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
+      "description": "Trump's lawsuit against the IRS was settled by the Justice Department with an agreement to create a $1.8 billion \"lawfare' fund that has since been scrapped.",
+      "url": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-13T16:17:41+00:00",
+      "category": "USA",
+      "simple_explanation": "Trump's lawsuit against the IRS was settled by the Justice Department with an agreement to create a $1.8 billion \"lawfare' fund that has since been scrapped."
+    },
+    {
+      "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade",
+      "description": "The Strait of Hormuz is a major oil-shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
+      "url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-13T16:17:25+00:00",
+      "category": "USA",
+      "simple_explanation": "The Strait of Hormuz is a major oil-shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran."
+    },
+    {
+      "title": "Stock Market Today: Dow Drops As Trump Reinstates Hormuz Blockade; Oil Refiners Rise (Live Coverage)",
+      "description": "The Dow Jones Industrial Average and other major stock indexes fell Monday, as President Donald Trump said the U.S. will restart a blockade of Iran in the Strait of Hormuz following fresh strikes between the countries.  Memory-chip maker SK Hynix and Taiwan Semiconductor Manufacturing were among the",
+      "url": "https://finance.yahoo.com/m/5eba618e-9a5d-3cbe-906d-545b7db0d19c/stock-market-today%3A-dow-drops.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T16:15:49+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dow Jones Industrial Average and other major stock indexes fell Monday, as President Donald Trump said the U.S. will restart a blockade of Iran in the Strait of Hormuz following fresh strikes betw"
+    },
+    {
+      "title": "SpaceX stock sinks for a second-straight day, nearing $135 IPO price",
+      "description": "SpaceX went public a month ago in a record IPO. Elon Musk's space and AI company was added to the Nasdaq-100 last week.",
+      "url": "https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-13T16:14:03+00:00",
+      "category": "USA",
+      "simple_explanation": "SpaceX went public a month ago in a record IPO. Elon Musk's space and AI company was added to the Nasdaq-100 last week."
+    },
+    {
+      "title": "Bank of Canada Likely to Hold Rates as Inflation Risks Ease and Growth Remains Soft, Say Economists",
+      "description": "The Bank of Canada is expected to leave its policy rate unchanged on Wednesday for the sixth time in",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bank-canada-likely-hold-rates-161313022.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T16:13:13+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The Bank of Canada is expected to leave its policy rate unchanged on Wednesday for the sixth time in"
+    },
+    {
+      "title": "Jim Cramer Says Buy IBM Right Now: Here Is Why Arvind Krishna Has This Stock Undervalued",
+      "description": "Jim Cramer sees a high-quality AI infrastructure operator hiding inside a stock the market still treats like a relic, but the bears have a leverage argument worth hearing before you pull the trigger.",
+      "url": "https://247wallst.com/investing/2026/07/13/jim-cramer-says-buy-ibm-right-now-here-is-why-arvind-krishna-has-this-stock-undervalued/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T16:10:22+00:00",
+      "category": "USA",
+      "simple_explanation": "Jim Cramer sees a high-quality AI infrastructure operator hiding inside a stock the market still treats like a relic, but the bears have a leverage argument worth hearing before you pull the trigger."
+    },
+    {
+      "title": "Oil prices surge on US-Iran attacks; tech shares tank",
+      "description": "World oil prices surged Monday as a fresh flare-up between the United States and Iran rattled investors, while a selloff in chipmakers sent South Korea's stock market plunging.The United States struck Iran for the second day Monday, prompting Tehran to retaliate against US allies in the Gulf, as the",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-spike-fresh-us-024047542.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T15:58:53+00:00",
+      "category": "Commodities",
+      "simple_explanation": "World oil prices surged Monday as a fresh flare-up between the United States and Iran rattled investors, while a selloff in chipmakers sent South Korea's stock market plunging.The United States struck"
+    },
+    {
+      "title": "Will XRP Fall Below $1 as the CLARITY Act Stalls in the Senate?",
+      "description": "XRP has shed 40% this year and now clings to a dollar-level floor that one stalled Senate bill could either rescue or abandon entirely. The clock is running out faster than most investors realize.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/07/13/will-xrp-fall-below-1-as-the-clarity-act-stalls-in-the-senate/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T15:55:28+00:00",
+      "category": "Crypto",
+      "simple_explanation": "XRP has shed 40% this year and now clings to a dollar-level floor that one stalled Senate bill could either rescue or abandon entirely. The clock is running out faster than most investors realize."
+    },
+    {
+      "title": "If You Invest $1,000 in the Vanguard Total Stock Market ETF Right Now, Here's What History Says It Could Be Worth in 20 Years",
+      "description": "This fund has been a solid long-term performer, and its future looks bright, too.",
+      "url": "https://www.fool.com/investing/2026/07/13/if-you-invest-1000-in-the-vanguard-total-stock-mar/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T15:52:00+00:00",
+      "category": "USA",
+      "simple_explanation": "This fund has been a solid long-term performer, and its future looks bright, too."
+    },
+    {
+      "title": "European Equities Mixed in Monday Trading; Eni to Fuel BMW Corporate Fleets With Renewable Diesel",
+      "description": "European stock markets closed mixed in Monday trading with the Stoxx 600 down 0.1%, Germany's DAX fr",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-mixed-monday-trading-155026227.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T15:50:26+00:00",
+      "category": "Commodities",
+      "simple_explanation": "European stock markets closed mixed in Monday trading with the Stoxx 600 down 0.1%, Germany's DAX fr"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+      "description": "The stock market witnessed a strong intraday recovery from the day’s lows, ending with modest gains amid a positive underlying sentiment supported by encouraging IT business updates and attractive valuations, said Vinod Nair, Head of Research of Geojit Investments.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132370688.cms",
+      "image": "https://img.etimg.com/photo/msid-132370688,imgsize-54790.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-13T15:50:23+00:00",
+      "category": "India",
+      "simple_explanation": "The stock market witnessed a strong intraday recovery from the day’s lows, ending with modest gains amid a positive underlying sentiment supported by encouraging IT business updates and attractive val"
+    },
+    {
+      "title": "Trump Makes U.S. The 'Guardian' Of Hormuz; What Happens Now",
+      "description": "Oil prices jumped on Monday as President Donald Trump said the U.S. will reimpose a blockade on Iranian ports and provide other countries safe passage —for a fee — through the Strait of Hormuz.  The announcement follows an escalation of U.S.-Iran military strikes after Tehran had targeted ships in t",
+      "url": "https://finance.yahoo.com/m/97f5e136-6c23-3394-9cd9-787789a56ec9/trump-makes-u.s.-the.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T15:46:03+00:00",
+      "category": "USA",
+      "simple_explanation": "Oil prices jumped on Monday as President Donald Trump said the U.S. will reimpose a blockade on Iranian ports and provide other countries safe passage —for a fee — through the Strait of Hormuz.  The a"
+    },
+    {
+      "title": "Facing Digital Threats, MGM Resorts Trades Higher On Reported Takeover Talks With Barry Diller's People Inc.",
+      "description": "MGM Resorts climbed Monday, trading as high as 48.25 amid reported negotiations with Barry Diller's People Inc.",
+      "url": "https://finance.yahoo.com/m/bc2590b2-f30d-3ec5-a341-5e9a24edaf54/facing-digital-threats%2C-mgm.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T15:44:54+00:00",
+      "category": "USA",
+      "simple_explanation": "MGM Resorts climbed Monday, trading as high as 48.25 amid reported negotiations with Barry Diller's People Inc."
+    },
+    {
+      "title": "3 S&P 500 Stocks to Target This Week",
+      "description": "The S&P 500 (^GSPC) is packed with companies that have built dominant market positions, making it a core index for investors. A select few continue to innovate and expand, setting themselves up for long-term success.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-target-154239173.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T15:42:39+00:00",
+      "category": "USA",
+      "simple_explanation": "The S&P 500 (^GSPC) is packed with companies that have built dominant market positions, making it a core index for investors. A select few continue to innovate and expand, setting themselves up for lo"
+    },
+    {
+      "title": "Delta's Reaffirmed Full-Year Outlook Shows Earnings Resiliency, Sets Airline Up for Strong 2027, Deutsche Bank Says",
+      "description": "Delta Air Lines' (DAL) decision to reiterate its full-year outlook despite incurring an estimated $3",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/delta-apos-reaffirmed-full-outlook-153739015.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T15:37:39+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Delta Air Lines' (DAL) decision to reiterate its full-year outlook despite incurring an estimated $3"
+    },
+    {
+      "title": "Gold, silver prices today: Comex gold, silver extend losses as Middle East tensions lift Fed rate hike fears",
+      "description": "Gold and silver prices continued to fall amid Middle East tensions, inflation concerns, and a stronger US dollar. Gold futures dropped to $4,009 and silver to $57.82. Crude oil prices surged over 4%, raising inflation fears and impacting markets ahead of economic data and Fed Chair testimony.",
+      "url": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-silver-extend-losses-as-middle-east-tensions-lift-fed-rate-hike-fears-11783952274681.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/13/1600x900/logo/s_1782288538863_1782288543389_42eb1049-ce04-4fa4-a82e-b3b75d863f72_1783953252521_b42eb66e-85e9-426b-a010-45883704b5e6.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-13T15:34:36+00:00",
+      "category": "India",
+      "simple_explanation": "Gold and silver prices continued to fall amid Middle East tensions, inflation concerns, and a stronger US dollar. Gold futures dropped to $4,009 and silver to $57.82. Crude oil prices surged over 4%, "
+    },
+    {
+      "title": "Pacific Empire Minerals Plans to Raise up to C$1.34 Million Through a Non-Brokered Private Placement",
+      "description": "Pacific Empire Minerals (PEMC.V) on Monday said it is raising to C$1.34 million through a non-broker",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pacific-empire-minerals-plans-raise-151640131.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T15:16:40+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Pacific Empire Minerals (PEMC.V) on Monday said it is raising to C$1.34 million through a non-broker"
+    },
+    {
+      "title": "Bitcoin threatens $62K in risk-asset rout as Donald Trump says US will 'run' closed Hormuz Strait",
+      "description": "Bitcoin bulls faced an uphill struggle to preserve $62,000 as stocks opened down on Strait of Hormuz rhetoric between the US and Iran.",
+      "url": "https://cointelegraph.com/markets/bitcoin-threatens-62k-in-risk-asset-out-as-donald-trump-says-us-will-run-closed-hormuz-strait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-speak-iran-1.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-13T15:05:45+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin bulls faced an uphill struggle to preserve $62,000 as stocks opened down on Strait of Hormuz rhetoric between the US and Iran."
+    },
+    {
+      "title": "SK Hynix US-listed shares slip nearly 8% as Nasdaq debut euphoria cools",
+      "description": "SK Hynix’s US-listed shares fell nearly 8% after a strong Nasdaq debut, as investors booked profits in AI-linked chip stocks. The decline triggered broader weakness across global semiconductor stocks, with sharp losses in Seoul and the US, reflecting growing concerns over valuations and sustainabili",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-us-listed-shares-slip-nearly-8-as-nasdaq-debut-euphoria-cools/articleshow/132369738.cms",
+      "image": "https://img.etimg.com/photo/msid-132369738,imgsize-96806.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-13T14:48:30+00:00",
+      "category": "India",
+      "simple_explanation": "SK Hynix’s US-listed shares fell nearly 8% after a strong Nasdaq debut, as investors booked profits in AI-linked chip stocks. The decline triggered broader weakness across global semiconductor stocks,"
+    },
+    {
+      "title": "Ahead of IPO, Millworks Tech raises nearly Rs 44 cr from anchor investors",
+      "description": "Millworks Technologies has successfully garnered Rs 44 crore from its anchor investors ahead of its public offering set to commence on July fourteenth. This large-scale IPO, amounting to Rs 160.33 crore, will close on July sixteenth. Renowned for its precision components across multiple sectors, the",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ahead-of-ipo-millworks-tech-raises-nearly-rs-44-cr-from-anchor-investors/articleshow/132369715.cms",
+      "image": "https://img.etimg.com/photo/msid-132369715,imgsize-10308.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-13T14:46:49+00:00",
+      "category": "India",
+      "simple_explanation": "Millworks Technologies has successfully garnered Rs 44 crore from its anchor investors ahead of its public offering set to commence on July fourteenth. This large-scale IPO, amounting to Rs 160.33 cro"
+    },
+    {
+      "title": "The Same Gold Rally, 79% More Upside: Miners vs. Bullion Over the Past Year",
+      "description": "The iShares Gold Trust (NYSEARCA:IAU) is one of the cheapest and simplest ways to hold gold in a brokerage account. Investors own IAU for a direct claim on the metal, low tracking error relative to the spot price, and as a hedge against inflation, real rates, and dollar weakness. The trust has deliv",
+      "url": "https://247wallst.com/investing/2026/07/13/the-same-gold-rally-79-more-upside-miners-vs-bullion-over-the-past-year/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T14:27:20+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The iShares Gold Trust (NYSEARCA:IAU) is one of the cheapest and simplest ways to hold gold in a brokerage account. Investors own IAU for a direct claim on the metal, low tracking error relative to th"
+    },
+    {
+      "title": "Small-cap stock under  ₹50 hits upper circuit after this AI update",
+      "description": "Blue Cloud Softech Solutions shares closed 5% higher at  ₹21.70 after signing a five-year Master Services Agreement with SpaceX International.",
+      "url": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-hits-upper-circuit-after-this-ai-update-11783943557326.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/13/1600x900/logo/gbcb6b736b5e0a503f1fc15715d084fe9c44819053b82b9eae_1750069076879_1783945090516_fd7b8fe5-78d9-4d7f-9d3a-f7e7ca0a4346.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-13T14:16:35+00:00",
+      "category": "India",
+      "simple_explanation": "Blue Cloud Softech Solutions shares closed 5% higher at  ₹21.70 after signing a five-year Master Services Agreement with SpaceX International."
+    },
+    {
+      "title": "Laser Power & Infra IPO: Issue booked 41 times on Day 03; NII, QIB portions see strong demand",
+      "description": "Laser Power &amp; Infra Ltd.'s IPO was oversubscribed 41 times, with institutional investors leading. The issue raised  ₹742 crore, priced at  ₹203-214 per share. The grey market premium suggests potential listing above the issue price, slated for July 16 after allotments on July 14.",
+      "url": "https://www.livemint.com/market/stock-market-news/laser-power-infra-ipo-issue-booked-41-times-on-day-03-nii-qib-portions-see-strong-demand-11783950960114.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/13/1600x900/logo/SME_IPO_1756099341077_1756099345044_1783950956390_18d07cb9-27b4-4fba-9ca2-b567c0cc29cc.png",
+      "source": "LiveMint",
+      "published_at": "2026-07-13T14:11:55+00:00",
+      "category": "India",
+      "simple_explanation": "Laser Power &amp; Infra Ltd.'s IPO was oversubscribed 41 times, with institutional investors leading. The issue raised  ₹742 crore, priced at  ₹203-214 per share. The grey market premium suggests pote"
+    },
+    {
+      "title": "Global Markets: Shein eyes up to $3 billion Hong Kong IPO as soon as August, Bloomberg News reports",
+      "description": "Fast-fashion powerhouse Shein is gearing up for an initial public offering in Hong Kong, aiming to secure between two to three billion dollars in funds. The company's long-awaited entry into the public market has been greenlit by China's securities regulator. With a targeted valuation between forty ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shein-eyes-up-to-3-billion-hong-kong-ipo-as-soon-as-august-bloomberg-news-reports/articleshow/132368819.cms",
+      "image": "https://img.etimg.com/photo/msid-132368819,imgsize-59196.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-13T14:08:30+00:00",
+      "category": "India",
+      "simple_explanation": "Fast-fashion powerhouse Shein is gearing up for an initial public offering in Hong Kong, aiming to secure between two to three billion dollars in funds. The company's long-awaited entry into the publi"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-13T14:07:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Gold drops more than 1% as rising Middle East tensions add to rate-hike fears",
+      "description": "Gold prices saw a notable decline amidst rising tensions in the Middle East, driven by concerns over inflation linked to escalating oil prices. The prospect of an interest rate hike from the Federal Reserve in September is keeping traders on edge as they await crucial economic data releases this wee",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-more-than-1-as-rising-middle-east-tensions-add-to-rate-hike-fears/articleshow/132368603.cms",
+      "image": "https://img.etimg.com/photo/msid-132368603,imgsize-591403.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-13T13:57:10+00:00",
+      "category": "India",
+      "simple_explanation": "Gold prices saw a notable decline amidst rising tensions in the Middle East, driven by concerns over inflation linked to escalating oil prices. The prospect of an interest rate hike from the Federal R"
+    },
+    {
+      "title": "This Strategist Says the Tech Wreck Is Your Buy Signal: Micron and SanDisk on Sale?",
+      "description": "While the Nasdaq bleeds and investors pile into healthcare and staples at record highs, one Wall Street strategist is shopping the wreckage in memory chips, and her valuation case is harder to dismiss than it looks.",
+      "url": "https://247wallst.com/investing/2026/07/13/this-strategist-says-the-tech-wreck-is-your-buy-signal-micron-and-sandisk-on-sale/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T13:55:38+00:00",
+      "category": "USA",
+      "simple_explanation": "While the Nasdaq bleeds and investors pile into healthcare and staples at record highs, one Wall Street strategist is shopping the wreckage in memory chips, and her valuation case is harder to dismiss"
+    },
+    {
+      "title": "Toubani secures $208m in funding for Kobada Gold Mine development",
+      "description": "The package includes a $160m (A$230.52m) gold stream facility with Eagle Eye Asset, which is expected to be drawn down from Q3 2026.",
+      "url": "https://www.mining-technology.com/news/toubani-208m-kobada-gold-mine-development/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T13:37:43+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The package includes a $160m (A$230.52m) gold stream facility with Eagle Eye Asset, which is expected to be drawn down from Q3 2026."
+    },
+    {
+      "title": "US stocks today: S&P 500, Nasdaq decline as Iran tensions jolt sentiment; chip stocks fall",
+      "description": "On Monday, stock markets dipped as rising oil prices intensified due to increasing tensions between the U.S. and Iran. This surge in oil costs exacerbated the ongoing decline in chip stocks, heavily weighing on the Nasdaq index. Investors are now tasked with weighing strong corporate earnings agains",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-decline-as-iran-tensions-jolt-sentiment-chip-stocks-fall/articleshow/132368301.cms",
+      "image": "https://img.etimg.com/photo/msid-132368301,imgsize-128174.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-13T13:37:01+00:00",
+      "category": "India",
+      "simple_explanation": "On Monday, stock markets dipped as rising oil prices intensified due to increasing tensions between the U.S. and Iran. This surge in oil costs exacerbated the ongoing decline in chip stocks, heavily w"
+    },
+    {
+      "title": "Mylan to sell up to $363 million stake in India's Biocon, term sheet shows",
+      "description": "Mylan ​Inc plans to ‌sell ⁠up ⁠to 92 ​million shares in ​Indian drugmaker ​Biocon ⁠Ltd, worth ‌up ​to ​34.81 ⁠billion Indian rupees ($363 ​million), according to ​a term ‌sheet seen ​by ​Reuters.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mylan-to-sell-up-to-363-million-stake-in-indias-biocon-term-sheet-shows/articleshow/132368259.cms",
+      "image": "https://img.etimg.com/photo/msid-132368259,imgsize-1726568.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-13T13:32:25+00:00",
+      "category": "India",
+      "simple_explanation": "Mylan ​Inc plans to ‌sell ⁠up ⁠to 92 ​million shares in ​Indian drugmaker ​Biocon ⁠Ltd, worth ‌up ​to ​34.81 ⁠billion Indian rupees ($363 ​million), according to ​a term ‌sheet seen ​by ​Reuters."
+    },
+    {
+      "title": "Coinbase Ventures tops crypto VC list for H1 2026",
+      "description": "Coinbase’s venture capital arm leads 2026 crypto investing even as funding withered and unique investors shied away amid the bear market.",
+      "url": "https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-vc-funding-surpasses-2021-totl-despite-declining-since-may.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-13T13:26:50+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Coinbase’s venture capital arm leads 2026 crypto investing even as funding withered and unique investors shied away amid the bear market."
+    },
+    {
+      "title": "Northstar Gold Receives C$627,663 Repayment Under Surgical Mining Project",
+      "description": "Northstar Gold (NSG.CN) received receipt of an initial C$627,663 Digital co-investment reimbursement",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/northstar-gold-receives-c-627-132241915.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T13:22:41+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Northstar Gold (NSG.CN) received receipt of an initial C$627,663 Digital co-investment reimbursement"
+    },
     {
       "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
       "description": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\"",
       "url": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
       "image": "",
-      "source": "CNBC",
+      "source": "CNBC World",
       "published_at": "2026-07-13T13:19:24+00:00",
-      "category": "USA",
+      "category": "Global",
       "simple_explanation": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\""
-    },
-    {
-      "title": "Prediction: Apple Stock Will Crush the S&P 500 in Its New CEO’s First Year",
-      "description": "John Ternus is stepping into the Apple CEO role at a moment that could define the company's next decade, but whether his product instincts and a bold on-device AI strategy are enough to outrun the broader market is far from a settled question.",
-      "url": "https://247wallst.com/investing/2026/07/13/prediction-apple-stock-will-crush-the-sp-500-in-its-new-ceos-first-year/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T13:12:29+00:00",
-      "category": "USA",
-      "simple_explanation": "John Ternus is stepping into the Apple CEO role at a moment that could define the company's next decade, but whether his product instincts and a bold on-device AI strategy are enough to outrun the bro"
-    },
-    {
-      "title": "The stock-market rally now hinges more on AI than oil",
-      "description": "As earnings season kicks off, AI investment remains front and center.",
-      "url": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T13:12:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "As earnings season kicks off, AI investment remains front and center."
     },
     {
       "title": "Strategy sells $467M in MSTR shares, leaves 843,775 BTC stack untouched",
@@ -53,354 +383,24 @@
       "simple_explanation": "Gold fell to its lowest level this month early Monday amid heightened inflation worries following re"
     },
     {
-      "title": "Trump: U.S. should be reimbursed for guarding Strait of Hormuz",
-      "description": "The Strait of Hormuz is a major oil-shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
-      "url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-13T13:00:14+00:00",
-      "category": "USA",
-      "simple_explanation": "The Strait of Hormuz is a major oil-shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran."
-    },
-    {
-      "title": "Carlin Gold Announces Changes to Management and Board of Directors",
-      "description": "Cal Everett, Chairman / Director Quentin Mai, President & CEO / Director and Craig Roberts, DirectorCortez Summit Project, Nevada Focused Project that Borders the Four Mile and Goldrush High Grade Gold DepositsVancouver, British Columbia--(Newsfile Corp. - July 13, 2026) - Carlin Gold Corporation (T",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/carlin-gold-announces-changes-management-130000573.html?.tsrc=rss",
+      "title": "Michael Saylor’s MSTR Didn't Buy A Single Bitcoin This Week – Here's What It Did Instead",
+      "description": "Strategy raised approximately $466.7 million by selling 4.82 million Class A shares through its at-the-market offering program.",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/mstr-stock-michael-saylor-pauses-bitcoin-buys-atm-offering/cZmzpUuR7Yc?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-13T13:00:00+00:00",
+      "published_at": "2026-07-13T13:01:21+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Strategy raised approximately $466.7 million by selling 4.82 million Class A shares through its at-the-market offering program."
+    },
+    {
+      "title": "Is Trending Stock Newmont Corporation (NEM) a Buy Now?",
+      "description": "Zacks.com users have recently been watching Newmont (NEM) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trending-stock-newmont-corporation-nem-130006866.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-13T13:00:06+00:00",
       "category": "Commodities",
-      "simple_explanation": "Cal Everett, Chairman / Director Quentin Mai, President & CEO / Director and Craig Roberts, DirectorCortez Summit Project, Nevada Focused Project that Borders the Four Mile and Goldrush High Grade Gol"
-    },
-    {
-      "title": "UAE oil output jumped 80% in June after leaving OPEC",
-      "description": "Investing.com -- The United Arab Emirates reported to OPEC that its oil production increased by 80% in June after leaving the producer group, according to a monthly report seen by Bloomberg on Monday.",
-      "url": "https://finance.yahoo.com/energy/articles/uae-oil-output-jumped-80-125621156.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T12:56:21+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Investing.com -- The United Arab Emirates reported to OPEC that its oil production increased by 80% in June after leaving the producer group, according to a monthly report seen by Bloomberg on Monday."
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Slides On New U.S.-Iran Strikes; SK Hynix Plunges (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index and Nasdaq dropped Monday on new U.S.-Iran strikes. SK Hynix plunged in premarket trading.",
-      "url": "https://finance.yahoo.com/m/5eba618e-9a5d-3cbe-906d-545b7db0d19c/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T12:53:31+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index and Nasdaq dropped Monday on new U.S.-Iran strikes. SK Hynix plunged in premarket trading."
-    },
-    {
-      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Renewed US-Iran Conflict Lifts Oil Prices",
-      "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.4%, and the actively t",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-125221407.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T12:52:21+00:00",
-      "category": "USA",
-      "simple_explanation": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.4%, and the actively t"
-    },
-    {
-      "title": "Update: US Equity Futures Drop Pre-Bell as Iran Says Strait of Hormuz Closed Once Again, Oil Prices Jump",
-      "description": "(Updates with recent oil price movement, world markets' overview and corporate stock movements.)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-drop-pre-124923573.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T12:49:23+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with recent oil price movement, world markets' overview and corporate stock movements.)"
-    },
-    {
-      "title": "G Mining targets late July close for G2 Goldfields deal",
-      "description": "G Mining Ventures Corp (TSX:GMIN, OTCQX:GMINF, FRA:W97) and G2 Goldfields Inc (TSX-V:GTWO, OTCQX:GUYGF) said the parties are working through the remaining closing conditions for their proposed plan of arrangement, which are expected to be completed by the end of July 2026. Under the...",
-      "url": "https://www.proactiveinvestors.com/companies/news/1095342/g-mining-targets-late-july-close-for-g2-goldfields-deal-1095342.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T12:48:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "G Mining Ventures Corp (TSX:GMIN, OTCQX:GMINF, FRA:W97) and G2 Goldfields Inc (TSX-V:GTWO, OTCQX:GUYGF) said the parties are working through the remaining closing conditions for their proposed plan of"
-    },
-    {
-      "title": "The Big Tech Fund Hiding Inside SPY ETF",
-      "description": "The world's most popular market fund is a lot more concentrated than its famous name suggests.",
-      "url": "https://www.trefis.com/articles/606844/the-big-tech-fund-hiding-inside-spy-etf/2026-07-13?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T12:42:41+00:00",
-      "category": "USA",
-      "simple_explanation": "The world's most popular market fund is a lot more concentrated than its famous name suggests."
-    },
-    {
-      "title": "A $10,000 Investment in Microsoft When Satya Nadella Took Over Is Worth This Much Today",
-      "description": "Satya Nadella inherited a company many had written off and spent a decade making bets that seemed reckless at the time. Whether those bets still look brilliant depends entirely on which window of time you examine.",
-      "url": "https://247wallst.com/investing/2026/07/13/a-10000-investment-in-microsoft-when-satya-nadella-took-over-is-worth-this-much-today/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T12:35:44+00:00",
-      "category": "USA",
-      "simple_explanation": "Satya Nadella inherited a company many had written off and spent a decade making bets that seemed reckless at the time. Whether those bets still look brilliant depends entirely on which window of time"
-    },
-    {
-      "title": "Gold prices today, Monday, July 13, 2026: Prices move lower following weekend airstrikes",
-      "description": "Gold August futures opened at $4,106.60 per troy ounce on Monday, July 13, 2026, down 0.2% from Friday's closing price. As of 8:29 a.m. ET, the price of gold was down to $4,068.10.",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-july-13-2026-prices-move-lower-following-weekend-airstrikes-123120098.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T12:31:20+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold August futures opened at $4,106.60 per troy ounce on Monday, July 13, 2026, down 0.2% from Friday's closing price. As of 8:29 a.m. ET, the price of gold was down to $4,068.10."
-    },
-    {
-      "title": "HCL Tech Q1 Results: Board declares interim dividend of  ₹12 per share. Details here",
-      "description": "HCL Technologies announced an interim dividend of  ₹12 per share, marking the 94th consecutive quarter of payouts. The record date for shareholders is July 17, with the payout scheduled for July 27.",
-      "url": "https://www.livemint.com/market/stock-market-news/hcl-tech-q1-results-board-declares-interim-dividend-of-rs-12-per-share-details-here-11783945313994.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/13/1600x900/logo/HCL_Tech_1760348819841_1760348827430_1783945311592_56371f1e-c618-4357-bd98-82a04201dfa2.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-13T12:31:19+00:00",
-      "category": "India",
-      "simple_explanation": "HCL Technologies announced an interim dividend of  ₹12 per share, marking the 94th consecutive quarter of payouts. The record date for shareholders is July 17, with the payout scheduled for July 27."
-    },
-    {
-      "title": "Quote of the day by Irving Fisher: \"The chief evils of speculation flow from the participation of the general public, who lack the special knowledge, and enter the market in a purely gambling spirit\"",
-      "description": "Irving Fisher's timeless observation warns against public speculation in financial markets. Retail investors often treat markets like casinos, driven by emotion and trends. Knowledge and discipline are crucial for successful investing, not quick profits. Easy access to trading platforms democratizes",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-irving-fisher-the-chief-evils-of-speculation-flow-from-the-participation-of-the-general-public-who-lack-the-special-knowledge-and-enter-the-market-in-a-purely-gambling-spirit/articleshow/132356751.cms",
-      "image": "https://img.etimg.com/photo/msid-132356751,imgsize-29736.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-13T12:30:00+00:00",
-      "category": "India",
-      "simple_explanation": "Irving Fisher's timeless observation warns against public speculation in financial markets. Retail investors often treat markets like casinos, driven by emotion and trends. Knowledge and discipline ar"
-    },
-    {
-      "title": "Sitka Drills 164.0 Metres of 1.83 g/t Gold Including 45.0 Metres of 3.49 g/t Gold and 2.0 Metres of 15.35 g/t Gold at Its RC Gold Project, Yukon",
-      "description": "Sitka reports results for additional diamond drill holes; continues to intercept broad intervals of high-grade gold mineralization in step out drilling at the Blackjack depositDrill hole DDRCCC-26-128 returned 348.0 m of 1.12 g/t Au, including 164.0 m of 1.83 g/t Au, 45.0 m of 3.49 g/t Au, 2.0 m of ",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/sitka-drills-164-0-metres-123000722.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T12:30:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Sitka reports results for additional diamond drill holes; continues to intercept broad intervals of high-grade gold mineralization in step out drilling at the Blackjack depositDrill hole DDRCCC-26-128"
-    },
-    {
-      "title": "USCM Signs Definitive Agreement to Acquire Korn Kob Property in Arizona's Copper District",
-      "description": "Establishes USCM in Arizona, one of the leading copper-producing states in the United StatesProvides strategic positioning to growing copper demand driven by AI infrastructure, data centers, grid modernization, and electrificationAcquires a 146-claim (~1,200-hectare) land package within a leading co",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/uscm-signs-definitive-agreement-acquire-122600234.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T12:26:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Establishes USCM in Arizona, one of the leading copper-producing states in the United StatesProvides strategic positioning to growing copper demand driven by AI infrastructure, data centers, grid mode"
-    },
-    {
-      "title": "Nasdaq tipped to fall as oil prices rebound on fresh US-Iran fighting",
-      "description": "US stocks are set for a weaker start to the week after last week finished on a positive note, with technology shares expected to come under the most pressure as investors balanced renewed geopolitical tensions against a busy week for inflation data and the start of bank earnings...",
-      "url": "https://www.proactiveinvestors.com/companies/news/1095341/nasdaq-tipped-to-fall-as-oil-prices-rebound-on-fresh-us-iran-fighting-1095341.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T12:24:00+00:00",
-      "category": "USA",
-      "simple_explanation": "US stocks are set for a weaker start to the week after last week finished on a positive note, with technology shares expected to come under the most pressure as investors balanced renewed geopolitical"
-    },
-    {
-      "title": "JSW Infrastructure among 7 stocks that hit 52-week highs and rallied up to 30% in a month",
-      "description": "Seven BSE 200 stocks, including Paytm, Nykaa, Oracle Financial Services and JSW Infrastructure, hit fresh 52-week highs despite a subdued market. The milestone reflects strong investor confidence, sustained buying interest and continued upward momentum in these counters.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jsw-infrastructure-among-7-stocks-that-hit-52-week-highs-and-rallied-up-to-30-in-a-month/slideshow/132366807.cms",
-      "image": "https://img.etimg.com/photo/msid-132366765,imgsize-41918.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-13T12:18:51+00:00",
-      "category": "India",
-      "simple_explanation": "Seven BSE 200 stocks, including Paytm, Nykaa, Oracle Financial Services and JSW Infrastructure, hit fresh 52-week highs despite a subdued market. The milestone reflects strong investor confidence, sus"
-    },
-    {
-      "title": "HCL Tech Q1 Results: Profit rises 20% YoY to Rs 4,624 crore; co declares Rs 12 dividend",
-      "description": "HCL Technologies Q1 results: IT services company HCL Tech reported a 20% year-on-year (YoY) growth in its consolidated net profit at Rs 4,624 crore in the first quarter of FY27. The same stood at Rs 3,843 crore in the last year quarter.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-technologies-q1-results-profit-rises-20-yoy-to-rs-4624-crore-co-declares-rs-12-dividend/articleshow/132365162.cms",
-      "image": "https://img.etimg.com/photo/msid-132365162,imgsize-30252.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-13T12:15:47+00:00",
-      "category": "India",
-      "simple_explanation": "HCL Technologies Q1 results: IT services company HCL Tech reported a 20% year-on-year (YoY) growth in its consolidated net profit at Rs 4,624 crore in the first quarter of FY27. The same stood at Rs 3"
-    },
-    {
-      "title": "Dow Jones| Nasdaq | S&P 500 | US Stock Market Today | Live: US stock futures decline as US-Iran escalation rattles sentiment",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-micron-sk-hynix-deckers-outdoor-stock-price-news-13-july-2026/liveblog/132366645.cms",
-      "image": "https://img.etimg.com/photo/msid-132366645,imgsize-2110543.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-13T12:14:45+00:00",
-      "category": "India",
-      "simple_explanation": ""
-    },
-    {
-      "title": "HCL Tech Q1 results: Profit jumps 20% YoY to  ₹4,626 crore; dividend declared; key takeaways from June quarter earnings",
-      "description": "HCL Tech Q1 results: Profit jumped 20% YoY to  ₹4,626 crore.  Sequentially, or quarter-on-quarter (QoQ), HCL Tech's profit increased by 3%. The company did not make any changes to its guidance for FY27.",
-      "url": "https://www.livemint.com/market/stock-market-news/hcl-tech-q1-results-profit-jumps-20-yoy-to-4-626-crore-dividend-declared-key-takeaways-from-june-quarter-earnings-11783929752654.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/13/1600x900/logo/EconomyPixabay_1689310833552_1783944794265_3b522726-dd60-4a7c-9ab9-22839a7d4121.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-13T12:11:36+00:00",
-      "category": "India",
-      "simple_explanation": "HCL Tech Q1 results: Profit jumped 20% YoY to  ₹4,626 crore.  Sequentially, or quarter-on-quarter (QoQ), HCL Tech's profit increased by 3%. The company did not make any changes to its guidance for FY2"
-    },
-    {
-      "title": "Market wrap: TCS, HCL Tech among top gainers and losers on Nifty and Sensex today",
-      "description": "Sensex and Nifty recovered sharply from nearly 1% intraday losses to close marginally higher, led by IT stocks. Analysts cited strong FII inflows and technical support at 24,000, while warning that rising crude oil prices remain the biggest market risk.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tcs-hcl-tech-among-top-gainers-and-losers-on-nifty-and-sensex-today/articleshow/132366249.cms",
-      "image": "https://img.etimg.com/photo/msid-132366249,imgsize-168352.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-13T12:10:14+00:00",
-      "category": "India",
-      "simple_explanation": "Sensex and Nifty recovered sharply from nearly 1% intraday losses to close marginally higher, led by IT stocks. Analysts cited strong FII inflows and technical support at 24,000, while warning that ri"
-    },
-    {
-      "title": "5 Things to Know Before the Stock Market Opens on Monday",
-      "description": "News of the day for July 13, 2026",
-      "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-monday-july-13-2026-12016814?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T12:02:03+00:00",
-      "category": "USA",
-      "simple_explanation": "News of the day for July 13, 2026"
-    },
-    {
-      "title": "US Equity Futures Drop Pre-Bell as Iran Says Strait of Hormuz Closed Once Again, Oil Prices Jump",
-      "description": "US equity futures were lower pre-bell Monday as hostilities continued to re-escalate in the Middle E",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-drop-pre-115924591.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T11:59:24+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity futures were lower pre-bell Monday as hostilities continued to re-escalate in the Middle E"
-    },
-    {
-      "title": "SK Hynix shares plunge 15% to one-month low after blockbuster Nasdaq debut",
-      "description": "SK Hynix shares fell 15% on 13 July, marking a record decline. The drop, driven by profit-taking after Nasdaq debut, weighed on South Korea's Kospi, which fell 9%. Market volatility raises questions on AI-driven valuations and sustainable returns amid uncertainty in earnings season.",
-      "url": "https://www.livemint.com/market/stock-market-news/sk-hynix-shares-plunge-15-to-one-month-low-after-blockbuster-nasdaq-debut-11783941755706.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/13/1600x900/logo/SK-HYNIX-LISTING--14_1783778096582_1783778142373_fb7f012a-d801-4787-82cc-bb0846068099_1783941752295_35ebcbf5-abfd-4066-add2-8966fe785ded.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-07-13T11:55:21+00:00",
-      "category": "India",
-      "simple_explanation": "SK Hynix shares fell 15% on 13 July, marking a record decline. The drop, driven by profit-taking after Nasdaq debut, weighed on South Korea's Kospi, which fell 9%. Market volatility raises questions o"
-    },
-    {
-      "title": "UK tokenization push could add as much as $44B to annual output by 2035: Report",
-      "description": "The government-backed roadmap calls for the UK’s first digital gilt by early 2027 and seeks to make tokenized bonds usable for trading and borrowing.",
-      "url": "https://cointelegraph.com/news/uk-tokenization-44-billion-annual-output-2035?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/peace-and-friendship-uk.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-13T11:50:04+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The government-backed roadmap calls for the UK’s first digital gilt by early 2027 and seeks to make tokenized bonds usable for trading and borrowing."
-    },
-    {
-      "title": "Hyperliquid’s Trading Boom Hits Records – But HYPE Investors Are Still Waiting",
-      "description": "RWAs have become the largest segment of Hyperliquid's open interest, surpassing Bitcoin, HYPE, and other Layer-1 token markets.",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/hyperliquid-rwa-perpetuals-record-open-interest-hype-price-spacex/cZmzFCfR7o6?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T11:49:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "RWAs have become the largest segment of Hyperliquid's open interest, surpassing Bitcoin, HYPE, and other Layer-1 token markets."
-    },
-    {
-      "title": "Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures",
-      "description": "The platform is designed to alleviate problems the company's most active traders have run into, according to a memo provided to CNBC.",
-      "url": "https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-13T11:36:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The platform is designed to alleviate problems the company's most active traders have run into, according to a memo provided to CNBC."
-    },
-    {
-      "title": "Bitcoin whale moves $188M for first time in 7 years",
-      "description": "A dormant whale transferred BTC worth $188 million after seven years of holding, adding to the growing ratio of whale transfers to cryptocurrency exchanges.",
-      "url": "https://cointelegraph.com/news/bitcoin-whale-moves-188m-first-7-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/whalestormship.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-13T11:36:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "A dormant whale transferred BTC worth $188 million after seven years of holding, adding to the growing ratio of whale transfers to cryptocurrency exchanges."
-    },
-    {
-      "title": "Bitcoin Is Near Overbought Levels – But Glassnode Warns That The Rally Has A Trust Problem",
-      "description": "According to Glassnode’s Weekly Pulse report, Bitcoin’s rally was driven by thin liquidity rather than strong buying conviction.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/bitcoin-near-overbought-levels-but-rally-has-a-trust-problem/cZmzFanR7oD?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T11:23:15+00:00",
-      "category": "Crypto",
-      "simple_explanation": "According to Glassnode’s Weekly Pulse report, Bitcoin’s rally was driven by thin liquidity rather than strong buying conviction."
-    },
-    {
-      "title": "Binance June futures volume at $1.6T defies crypto spot trading slump",
-      "description": "Binance futures volume jumped 80% in June, to $1.61 trillion, outpacing rivals while broader crypto trading activity remained weak.",
-      "url": "https://cointelegraph.com/news/binance-futures-volume-2026-high-crypto-spot-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-binance-futures-overtaking-bitmex-and-okex.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-13T11:20:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Binance futures volume jumped 80% in June, to $1.61 trillion, outpacing rivals while broader crypto trading activity remained weak."
-    },
-    {
-      "title": "ICICI Prudential AMC Q1 Results: Net profit rises 23% YoY to Rs 965 crore; revenue up 18%",
-      "description": "ICICI Prudential AMC Q1 Results: Revenue from operations, meanwhile, increased 18% YoY to Rs 1,564 crore.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-prudential-amc-q1-results-net-profit-rises-23-yoy-to-rs-965-crore-revenue-up-18/articleshow/132365298.cms",
-      "image": "https://img.etimg.com/photo/msid-132365298,imgsize-26051.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-13T11:18:32+00:00",
-      "category": "India",
-      "simple_explanation": "ICICI Prudential AMC Q1 Results: Revenue from operations, meanwhile, increased 18% YoY to Rs 1,564 crore."
-    },
-    {
-      "title": "Bitcoin Faces Inflation Test This Week: Bitfinex, Fidelity Flags $60K Support, CryptoQuant Warns Bear Cycle Is Not Over",
-      "description": "CryptoQuant analyst Darkfost noted that Bitcoin has traded below its $70,700 short-term holding-cost basis for 9 months, a trend that has paralleled bear-market cycles.",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-cpi-inflation-support-levels-fidelity-bitfinex-analyst/cZmznMPR7ow?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-13T11:04:22+00:00",
-      "category": "Crypto",
-      "simple_explanation": "CryptoQuant analyst Darkfost noted that Bitcoin has traded below its $70,700 short-term holding-cost basis for 9 months, a trend that has paralleled bear-market cycles."
-    },
-    {
-      "title": "ICICI Pru AMC Q1 results: Profit jumps 23% YoY to  ₹964.63 crore, revenue rises 17.5%",
-      "description": "ICICI Pru AMC Q1 results: ICICI Prudential Asset Management Company reported a 23% year-on-year rise in its profit to  ₹964.63 crore for Q1FY27. Revenue from operations rose by 17.55% YoY to  ₹1,564.22 crore.",
-      "url": "https://www.livemint.com/market/stock-market-news/icici-pru-amc-q1-results-profit-jumps-23-yoy-to-964-63-crore-11783927529619.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/13/1600x900/logo/INDIA-ICICI-PRUDENTIAL-AMC-11_1766054908388_1766054914832_1783927928468_f81c45e2-9e46-4bba-ae97-60b2bf72a5cb.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-13T10:58:03+00:00",
-      "category": "India",
-      "simple_explanation": "ICICI Pru AMC Q1 results: ICICI Prudential Asset Management Company reported a 23% year-on-year rise in its profit to  ₹964.63 crore for Q1FY27. Revenue from operations rose by 17.55% YoY to  ₹1,564.2"
-    },
-    {
-      "title": "BTC price bull market to begin in September? Five things to know in Bitcoin this week",
-      "description": "Bitcoin price analysis called for the end of the bear market within three months as the US-Iran war sent BTC lower from strengthening $64,000 resistance.",
-      "url": "https://cointelegraph.com/markets/btc-price-bull-market-to-begin-in-september-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-106114-1-12b-in-bitcoin-options-expire-this-week-and-bulls-appear-to-be-at-a-disadvanta.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-13T10:45:22+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin price analysis called for the end of the bear market within three months as the US-Iran war sent BTC lower from strengthening $64,000 resistance."
-    },
-    {
-      "title": "Japan’s SBI to launch yen stablecoin lending with 3% yield",
-      "description": "SBI VC Trade will open JPYSC lending applications on July 16, offering an initial 3% annual rate for a 12-week term without deposit insurance.",
-      "url": "https://cointelegraph.com/news/sbi-stablecoin-lending-service-3-yield-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/japan-what-is-the-best-japanese-word-for-crypto-currency.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-13T10:27:50+00:00",
-      "category": "Crypto",
-      "simple_explanation": "SBI VC Trade will open JPYSC lending applications on July 16, offering an initial 3% annual rate for a 12-week term without deposit insurance."
-    },
-    {
-      "title": "Sensex rises 47 points, Nifty closes above 24,200 as market recovers all morning losses. What’s ahead?",
-      "description": "Indian benchmark indices erased steep intraday losses to end marginally higher on Monday, supported by a strong rally in IT stocks and continued foreign fund inflows despite escalating tensions between the US and Iran. Analysts said the market's near-term direction will hinge on crude oil prices, wi",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-47-points-nifty-closes-above-24200-as-market-recovers-all-morning-losses-whats-ahead/articleshow/132363441.cms",
-      "image": "https://img.etimg.com/photo/msid-132363441,imgsize-152466.cms",
-      "source": "ET Markets",
-      "published_at": "2026-07-13T10:16:45+00:00",
-      "category": "India",
-      "simple_explanation": "Indian benchmark indices erased steep intraday losses to end marginally higher on Monday, supported by a strong rally in IT stocks and continued foreign fund inflows despite escalating tensions betwee"
+      "simple_explanation": "Zacks.com users have recently been watching Newmont (NEM) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects."
     }
   ]
 }
