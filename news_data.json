@@ -1,26 +1,316 @@
 {
-  "last_updated": "2026-07-14T15:23:18.960531+00:00",
+  "last_updated": "2026-07-14T17:14:53.347058+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Oil gives up gain after Trump abandons 20% fee on Strait of Hormuz traffic",
+      "title": "Supreme Court Justice Barrett says 'the threat level is really high' in budget testimony",
+      "description": "Supreme Court Justices Amy Coney Barrett and Elena Kagan are testifying about the high court's budget request, which includes higher spending for security.",
+      "url": "https://www.cnbc.com/2026/07/14/supreme-court-budget-congress-kagan-barrett.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-14T17:14:26+00:00",
+      "category": "USA",
+      "simple_explanation": "Supreme Court Justices Amy Coney Barrett and Elena Kagan are testifying about the high court's budget request, which includes higher spending for security."
+    },
+    {
+      "title": "JCB signs Circle MOU to test stablecoin payments in Japan",
+      "description": "The companies will explore using USDC for JCB’s cross-border treasury operations and merchant payments in Japan as regulated stablecoin adoption gains momentum.",
+      "url": "https://cointelegraph.com/news/japans-jcb-signs-mou-with-circle-to-explore-usdc-payments-and-cross-border-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-swift.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-14T17:05:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The companies will explore using USDC for JCB’s cross-border treasury operations and merchant payments in Japan as regulated stablecoin adoption gains momentum."
+    },
+    {
+      "title": "Nvidia May Be the Most Valuable Company in the World, but It Looks Like a Bargain Compared to These 3 Artificial Intelligence (AI) Stocks",
+      "description": "The stocks on this list have been popular with artificial investors, but they trade at excessively high premiums, especially when compared to Nvidia.",
+      "url": "https://www.fool.com/investing/2026/07/14/nvidia-may-be-the-most-valuable-company-in-the-wor/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T16:58:13+00:00",
+      "category": "USA",
+      "simple_explanation": "The stocks on this list have been popular with artificial investors, but they trade at excessively high premiums, especially when compared to Nvidia."
+    },
+    {
+      "title": "U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China",
+      "description": "The remark is a sign that H200 shipments to China have restarted, potentially boosting Nvidia's sales even higher.",
+      "url": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-14T16:50:28+00:00",
+      "category": "USA",
+      "simple_explanation": "The remark is a sign that H200 shipments to China have restarted, potentially boosting Nvidia's sales even higher."
+    },
+    {
+      "title": "Gold, silver prices today: Comex gold and silver rebound as softer US inflation eases Fed rate hike fears",
+      "description": "Gold and silver prices soared on 14 July due to softer US inflation and falling crude oil prices. Gold futures climbed to $4,112, while silver reached $60. Investor fears of rate hikes eased as CPI fell to 3.5%, supporting precious metals amid rising Middle East tensions.",
+      "url": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-rebound-as-softer-us-inflation-eases-fed-rate-hike-fears-11784041737126.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/14/1600x900/logo/ASIA-GOLD-DEMAND-0_1757837426384_1757837469508_1784045319232_b9ea8d99-27c5-4a07-a1d5-0f40841cef6d.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-07-14T16:48:39+00:00",
+      "category": "India",
+      "simple_explanation": "Gold and silver prices soared on 14 July due to softer US inflation and falling crude oil prices. Gold futures climbed to $4,112, while silver reached $60. Investor fears of rate hikes eased as CPI fe"
+    },
+    {
+      "title": "US consumer inflation slows more than expected in June",
+      "description": "STORY: U.S. inflation slowed more than expected in June, but the moderation in consumer prices could be short-lived.:: 3.5%The Consumer Price Index from the Labor Department, released on Tuesday, increased by 3.5% annually, a sharp pullback from May's figure and less than economists had expected.But",
+      "url": "https://finance.yahoo.com/video/us-consumer-inflation-slows-more-164530073.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T16:45:30+00:00",
+      "category": "Commodities",
+      "simple_explanation": "STORY: U.S. inflation slowed more than expected in June, but the moderation in consumer prices could be short-lived.:: 3.5%The Consumer Price Index from the Labor Department, released on Tuesday, incr"
+    },
+    {
+      "title": "Update: Nasdaq, S&P 500 Rise as Inflation Drops for First Time in Six Years, Trump Reverses Plan to Impose Toll on Hormuz Cargo",
+      "description": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-rise-inflation-163935341.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T16:39:35+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit"
+    },
+    {
+      "title": "Stock Market Today, July 14: IBM Slides After Profit Warning Weighs on Dow",
+      "description": "On July 14, 2026, IBM’s profit warning dragged on the Dow even as easing inflation and resilient bank stocks steadied broader U.S. markets.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/14/stock-market-today-july-14-ibm-slides-after-profit-warning-weighs-on-dow/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T16:36:21+00:00",
+      "category": "USA",
+      "simple_explanation": "On July 14, 2026, IBM’s profit warning dragged on the Dow even as easing inflation and resilient bank stocks steadied broader U.S. markets."
+    },
+    {
+      "title": "Oil prices off highs after Trump abandons 20% protection fee on Strait of Hormuz traffic",
       "description": "Oil prices rose on Tuesday after U.S. President Donald Trump announced plans to impose shipping fees in the Strait of Hormuz.",
       "url": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-07-14T15:20:55+00:00",
+      "published_at": "2026-07-14T16:31:08+00:00",
       "category": "USA",
       "simple_explanation": "Oil prices rose on Tuesday after U.S. President Donald Trump announced plans to impose shipping fees in the Strait of Hormuz."
     },
     {
-      "title": "Greenfire to acquire Canadian oil sands producer Connacher for $900m",
-      "description": "Connacher is a privately owned thermal oil sands producer focused on bitumen and owns the Great Divide project.",
-      "url": "https://www.offshore-technology.com/news/greenfire-to-acquire-connacher-900m/?.tsrc=rss",
+      "title": "Soft US inflation helps FTSE shake off oil surge",
+      "description": "The turnaround in the fortunes of London’s blue-chip index came as figures showed US consumer prices fell more than expected in June.",
+      "url": "https://uk.finance.yahoo.com/news/soft-us-inflation-helps-ftse-162835379.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-14T15:18:37+00:00",
+      "published_at": "2026-07-14T16:28:35+00:00",
       "category": "Commodities",
-      "simple_explanation": "Connacher is a privately owned thermal oil sands producer focused on bitumen and owns the Great Divide project."
+      "simple_explanation": "The turnaround in the fortunes of London’s blue-chip index came as figures showed US consumer prices fell more than expected in June."
+    },
+    {
+      "title": "CleanSpark shares jump 22% after $6.6B Georgia data center lease",
+      "description": "The Bitcoin miner’s Georgia agreement with an undisclosed investment-grade technology company expands its footprint in AI and high-performance computing infrastructure.",
+      "url": "https://cointelegraph.com/news/cleanspark-shares-jump-after-georgia-data-center-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-14T16:24:45+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Bitcoin miner’s Georgia agreement with an undisclosed investment-grade technology company expands its footprint in AI and high-performance computing infrastructure."
+    },
+    {
+      "title": "Technology and Financials Are Leading the Major Indexes",
+      "description": "The tech-heavy Nasdaq was up 0.7%, while the S&P 500 gained 0.2%.  The Dow wobbled near the flatline, with the blue-chip index oscillating between slight gains and losses throughout the session.  The financial sector followed, on track to close at an all-time high, driven by strong earnings reports ",
+      "url": "https://finance.yahoo.com/m/c6b66c78-631c-3531-830b-300ca646eb35/technology-and-financials-are.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T16:18:28+00:00",
+      "category": "USA",
+      "simple_explanation": "The tech-heavy Nasdaq was up 0.7%, while the S&P 500 gained 0.2%.  The Dow wobbled near the flatline, with the blue-chip index oscillating between slight gains and losses throughout the session.  The "
+    },
+    {
+      "title": "Vanguard doubles down on U.S. stocks with 4 new ETFs",
+      "description": "Most Americans who invest do it without ever picking a single stock. They put money into an index fund, usually one that tracks the S&P 500, and let the market do the work. For years, that felt close to a free lunch. Buy the whole market, keep costs near zero, and ride the long climb of ...",
+      "url": "https://www.thestreet.com/investing/vanguard-us-stocks-4-new-etfs?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T16:17:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Most Americans who invest do it without ever picking a single stock. They put money into an index fund, usually one that tracks the S&P 500, and let the market do the work. For years, that felt close "
+    },
+    {
+      "title": "Fed's Warsh vows to 'do my job' if challenged by Trump",
+      "description": "Federal Reserve Chair Kevin Warsh reaffirmed his commitment to controlling inflation and maintaining the Fed’s independence despite political pressure. While US inflation eased in June, Warsh signalled no immediate rate cuts. Markets lowered expectations of near-term hikes, as his policy stance rema",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-warsh-vows-to-do-my-job-if-challenged-by-trump/articleshow/132396174.cms",
+      "image": "https://img.etimg.com/photo/msid-132396174,imgsize-80026.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-14T16:16:30+00:00",
+      "category": "India",
+      "simple_explanation": "Federal Reserve Chair Kevin Warsh reaffirmed his commitment to controlling inflation and maintaining the Fed’s independence despite political pressure. While US inflation eased in June, Warsh signalle"
+    },
+    {
+      "title": "1 Mind-Boggling Metric That Proves Sandisk Stock Is Still Remarkably Cheap",
+      "description": "Sandisk has major growth ahead, but the market isn't pricing it into the stock.",
+      "url": "https://www.fool.com/investing/2026/07/14/1-mind-boggling-metric-that-proves-sandisk-stock-i/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T16:10:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Sandisk has major growth ahead, but the market isn't pricing it into the stock."
+    },
+    {
+      "title": "Jefferies Keeps Buy Rating on Pan American Silver (PAAS)",
+      "description": "Pan American Silver Corp. (NYSE:PAAS) is one of the 10 Best Growth Stocks With Highest Upside Potential. On July 6, 2026, Jefferies lowered the firm’s price target on Pan American Silver Corp. (NYSE:PAAS) to $53 from $54 previously and kept a Buy rating on the shares. Jefferies said gold has decline",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-keeps-buy-rating-pan-160950655.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T16:09:50+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Pan American Silver Corp. (NYSE:PAAS) is one of the 10 Best Growth Stocks With Highest Upside Potential. On July 6, 2026, Jefferies lowered the firm’s price target on Pan American Silver Corp. (NYSE:P"
+    },
+    {
+      "title": "CleanSpark Lands $6.6B AI Data Center Lease, Accelerating Shift Beyond Bitcoin Mining",
+      "description": "Cleanspark (NASDAQ:CLSK) said it has signed a 20-year triple-net lease with an unnamed high investment-grade global technology company to convert its Sandersville, Georgia, facility into a high-performance computing data center, marking a major step in the company’s shift beyond Bitcoin mining and i",
+      "url": "https://www.marketbeat.com/instant-alerts/cleanspark-lands-66b-ai-data-center-lease-accelerating-shift-beyond-bitcoin-mining-2026-07-14/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T16:03:30+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Cleanspark (NASDAQ:CLSK) said it has signed a 20-year triple-net lease with an unnamed high investment-grade global technology company to convert its Sandersville, Georgia, facility into a high-perfor"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+      "description": "Indian equities fell sharply as escalating West Asia tensions lifted crude oil prices and weakened the rupee, raising inflation concerns. Sensex and Nifty declined up to 0.7%, while analysts said geopolitical risks overshadowed earnings optimism despite technical support remaining intact.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132395996.cms",
+      "image": "https://img.etimg.com/photo/msid-132395996,imgsize-32356.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-14T16:01:46+00:00",
+      "category": "India",
+      "simple_explanation": "Indian equities fell sharply as escalating West Asia tensions lifted crude oil prices and weakened the rupee, raising inflation concerns. Sensex and Nifty declined up to 0.7%, while analysts said geop"
+    },
+    {
+      "title": "Dollar slides as rate hike prospects ease, oil gains moderate",
+      "description": "The dollar slid Tuesday after a drop in US inflation dented expectations of an interest rate hike later this month.Earlier Tuesday, the market saw a roughly 40 percent probability of a US interest rate hike this month, but that fell to 13 percent after the CPI data was published.",
+      "url": "https://finance.yahoo.com/energy/articles/oil-extends-gains-latest-us-024733929.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T15:59:45+00:00",
+      "category": "USA",
+      "simple_explanation": "The dollar slid Tuesday after a drop in US inflation dented expectations of an interest rate hike later this month.Earlier Tuesday, the market saw a roughly 40 percent probability of a US interest rat"
+    },
+    {
+      "title": "Goldman Sachs profit tops estimates on trading boom, corporate deal spree",
+      "description": "Goldman Sachs has reported robust profits for the second quarter, surpassing analysts' predictions. The firm's equities revenue soared to unprecedented levels, fueled by both fluctuating markets and active deal-making. Investment banking fees also experienced a notable increase, thanks to major tran",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-profit-tops-estimates-on-trading-boom-corporate-deal-spree/articleshow/132395970.cms",
+      "image": "https://img.etimg.com/photo/msid-132395970,imgsize-127728.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-14T15:59:36+00:00",
+      "category": "India",
+      "simple_explanation": "Goldman Sachs has reported robust profits for the second quarter, surpassing analysts' predictions. The firm's equities revenue soared to unprecedented levels, fueled by both fluctuating markets and a"
+    },
+    {
+      "title": "European Equities Rise in Tuesday Trading; Uber Reportedly in Advanced Talks to Take Over Delivery Hero",
+      "description": "European stock markets closed slightly higher in Tuesday trading, with the Stoxx 600 increasing 0.1%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/european-equities-rise-tuesday-trading-155227232.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T15:52:27+00:00",
+      "category": "Commodities",
+      "simple_explanation": "European stock markets closed slightly higher in Tuesday trading, with the Stoxx 600 increasing 0.1%"
+    },
+    {
+      "title": "June CPI report tests Fed rate cut outlook as Kevin Warsh testifies",
+      "description": "Yahoo Finance's Markets and Data Editor Jared Blikre and Senior Business Reporter Brooke DiPalma join Julie Hyman on Market Catalysts to break down the June Consumer Price Index (CPI) report, what it means for the Federal Reserve's rate-cut outlook, and how Fed Chair Kevin Warsh's testimony could sh",
+      "url": "https://finance.yahoo.com/video/june-cpi-report-tests-fed-rate-cut-outlook-as-kevin-warsh-testifies-155010151.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T15:50:10+00:00",
+      "category": "USA",
+      "simple_explanation": "Yahoo Finance's Markets and Data Editor Jared Blikre and Senior Business Reporter Brooke DiPalma join Julie Hyman on Market Catalysts to break down the June Consumer Price Index (CPI) report, what it "
+    },
+    {
+      "title": "Trump Backtracks on 20% Toll for Shipping in Hormuz Strait",
+      "description": "Brent crude prices remain at their highest since the days before the U.S. and Iran signed a memo of understanding aimed at reopening the strait and pausing hostilities.",
+      "url": "https://finance.yahoo.com/m/63b2854d-35be-3f35-95c5-aa667cbdd2ac/trump-backtracks-on-20%25-toll.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T15:49:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Brent crude prices remain at their highest since the days before the U.S. and Iran signed a memo of understanding aimed at reopening the strait and pausing hostilities."
+    },
+    {
+      "title": "New survey shows central banks are starting to ditch the dollar and buy more gold instead — should you do the same?",
+      "description": "The Official Monetary and Financial Institutions Forum (OMFIF) noted the trend as a first.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/survey-shows-central-banks-starting-154500756.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T15:45:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The Official Monetary and Financial Institutions Forum (OMFIF) noted the trend as a first."
+    },
+    {
+      "title": "KBW keeps CleanSpark at Outperform and $16 after Sandersville lease",
+      "description": "Sandersville largely matched the brokerage’s assumptions, leaving the unresolved Texas leases, development financing and execution as the main variables for CleanSpark’s valuation.",
+      "url": "https://blockspace.media/insight/cleanspark-kbw-outperform-rating-sandersville/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T15:44:19+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Sandersville largely matched the brokerage’s assumptions, leaving the unresolved Texas leases, development financing and execution as the main variables for CleanSpark’s valuation."
+    },
+    {
+      "title": "Anand Rathi Share Q1 results: Profit rises 71% to Rs 39 crore before one-time charge",
+      "description": "Anand Rathi Share and Stock Brokers reported a 71% year-on-year rise in Q1 FY27 profit before exceptional items to Rs 39.1 crore, driven by strong growth in margin funding, broking and distribution income. However, sequential performance softened, with declines in revenue, EBITDA and distribution in",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/anand-rathi-share-q1-results-profit-rises-71-to-rs-39-crore-before-one-time-charge/articleshow/132395689.cms",
+      "image": "https://img.etimg.com/photo/msid-132395689,imgsize-53568.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-14T15:40:15+00:00",
+      "category": "India",
+      "simple_explanation": "Anand Rathi Share and Stock Brokers reported a 71% year-on-year rise in Q1 FY27 profit before exceptional items to Rs 39.1 crore, driven by strong growth in margin funding, broking and distribution in"
+    },
+    {
+      "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
+      "description": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
+      "url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-14T15:39:29+00:00",
+      "category": "USA",
+      "simple_explanation": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years."
+    },
+    {
+      "title": "CleanSpark Jumps 12% on $6.6B Data Center Lease While Riot, MARA, Hut 8 Edge Higher",
+      "description": "A CleanSpark data center lease so large it dwarfs the company's own market cap sent shares surging Tuesday, while every peer miner sat frozen on the sidelines, raising one urgent question about what comes next.",
+      "url": "https://247wallst.com/investing/2026/07/14/cleanspark-jumps-12-on-6-6b-data-center-lease-while-riot-mara-hut-8-edge-higher/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T15:32:48+00:00",
+      "category": "Crypto",
+      "simple_explanation": "A CleanSpark data center lease so large it dwarfs the company's own market cap sent shares surging Tuesday, while every peer miner sat frozen on the sidelines, raising one urgent question about what c"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Leads After Inflation Results; Fed Chair Warsh Highlights AI Movement (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index wavers Tuesday after a surprise June CPI inflation report. Goldman Sachs is a big winner.",
+      "url": "https://finance.yahoo.com/m/5d020334-7a7d-3075-adc2-c428ddde2504/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T15:31:16+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index wavers Tuesday after a surprise June CPI inflation report. Goldman Sachs is a big winner."
+    },
+    {
+      "title": "Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock",
+      "description": "Warren Buffett omitted the Gates Foundation from his annual charitable stock gifts.",
+      "url": "https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-07-14T15:28:20+00:00",
+      "category": "Global",
+      "simple_explanation": "Warren Buffett omitted the Gates Foundation from his annual charitable stock gifts."
+    },
+    {
+      "title": "Goldco BBB Reviews Continue To Advance – Still The Premier Gold IRA Company",
+      "description": "Houston, Texas, July 14, 2026 (GLOBE NEWSWIRE) -- Houston, Texas - July 14, 2026 - Gold Investment Authority, a Houston-based precious metals research platform, reports that Goldco's Better Business Bureau review count has continued to climb into 2026, reinforcing the company's position as the autho",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/goldco-bbb-reviews-continue-advance-152800190.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T15:28:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Houston, Texas, July 14, 2026 (GLOBE NEWSWIRE) -- Houston, Texas - July 14, 2026 - Gold Investment Authority, a Houston-based precious metals research platform, reports that Goldco's Better Business B"
     },
     {
       "title": "IBM stock craters 23% after issuing second-quarter earnings warning",
@@ -33,34 +323,14 @@
       "simple_explanation": "CEO blamed the shortfall on weakness in the software and infrastructure business because clients shifted money toward hardware purchases."
     },
     {
-      "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-      "description": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
-      "url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-14T15:14:20+00:00",
-      "category": "USA",
-      "simple_explanation": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years."
-    },
-    {
-      "title": "Supreme Court Justice Barrett says 'the threat level is really high' in budget testimony",
-      "description": "Supreme Court Justices Amy Coney Barrett and Elena Kagan are testifying about the high court's budget request, which includes higher spending for security.",
-      "url": "https://www.cnbc.com/2026/07/14/supreme-court-budget-congress-kagan-barrett.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-14T15:11:24+00:00",
-      "category": "USA",
-      "simple_explanation": "Supreme Court Justices Amy Coney Barrett and Elena Kagan are testifying about the high court's budget request, which includes higher spending for security."
-    },
-    {
-      "title": "E. Jean Carroll receives $5.6M from Trump in sex abuse, defamation case: Court filing",
-      "description": "A federal judge recently ordered Trump to pay Carroll, rejecting his last-ditch efforts while noting that he \"has been stalling this case for years.\"",
-      "url": "https://www.cnbc.com/2026/07/14/trump-e-jean-carroll-sex-abuse-case.html",
-      "image": "",
-      "source": "CNBC",
+      "title": "Market Trading Guide: Adani Green among 4 stock recommendations for Wednesday",
+      "description": "Rising crude oil prices, a weaker rupee and West Asia tensions pressured domestic equities, raising inflation and earnings concerns. Analysts recommend Azad Engineering, MosChip Technologies, Adani Green Energy and Adani Power, citing bullish technical setups and positive momentum for Wednesday.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-adani-green-among-4-stocks-recommendations-for-wednesday/slideshow/132395083.cms",
+      "image": "https://img.etimg.com/photo/msid-132395022,imgsize-3570.cms",
+      "source": "Economic Times",
       "published_at": "2026-07-14T15:09:34+00:00",
-      "category": "USA",
-      "simple_explanation": "A federal judge recently ordered Trump to pay Carroll, rejecting his last-ditch efforts while noting that he \"has been stalling this case for years.\""
+      "category": "India",
+      "simple_explanation": "Rising crude oil prices, a weaker rupee and West Asia tensions pressured domestic equities, raising inflation and earnings concerns. Analysts recommend Azad Engineering, MosChip Technologies, Adani Gr"
     },
     {
       "title": "Govt reviews fresh bids for IDBI Bank as stake sale process gathers pace",
@@ -81,16 +351,6 @@
       "published_at": "2026-07-14T15:00:00+00:00",
       "category": "Crypto",
       "simple_explanation": "Institutions can now stake Tron's native token directly from Anchorage's custody platform as the company expands support for one of the largest USDT settlement networks."
-    },
-    {
-      "title": "Watts Water Technologies (WTS): Buy, Sell, or Hold Post Q1 Earnings?",
-      "description": "Since July 2021, the S&P 500 has delivered a total return of 73.1%. But one standout stock has nearly doubled the market - over the past five years, Watts Water Technologies has surged 138% to $346.95 per share. Its momentum hasn’t stopped as it’s also gained 19.5% in the last six months thanks to i",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/watts-water-technologies-wts-buy-145511339.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T14:55:11+00:00",
-      "category": "USA",
-      "simple_explanation": "Since July 2021, the S&P 500 has delivered a total return of 73.1%. But one standout stock has nearly doubled the market - over the past five years, Watts Water Technologies has surged 138% to $346.95"
     },
     {
       "title": "Bitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure",
@@ -123,26 +383,6 @@
       "simple_explanation": "Ameerex Corporation (USOTC:HIRU) outlined progress across its North American resource program and Patagonia Lithium joint venture while also providing updates on its ongoing audit, legal proceedings, "
     },
     {
-      "title": "3 Reasons HUBG is Risky and 1 Stock to Buy Instead",
-      "description": "Hub Group currently trades at $48.66 per share and has shown little upside over the past six months, posting a middling return of 3.2%. The stock also fell short of the S&P 500’s 9.4% gain during that period.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-hubg-risky-1-144711625.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T14:47:11+00:00",
-      "category": "USA",
-      "simple_explanation": "Hub Group currently trades at $48.66 per share and has shown little upside over the past six months, posting a middling return of 3.2%. The stock also fell short of the S&P 500’s 9.4% gain during that"
-    },
-    {
-      "title": "Pfizer Has the Highest-Yielding Dividend in the S&P 500. Should Investors Be Worried?",
-      "description": "The pharma giant's yield of around 7.1% is more than six times the S&P 500 average.",
-      "url": "https://www.fool.com/investing/2026/07/14/pfizer-has-the-highest-yielding-dividend-in-the-sp/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T14:44:39+00:00",
-      "category": "USA",
-      "simple_explanation": "The pharma giant's yield of around 7.1% is more than six times the S&P 500 average."
-    },
-    {
       "title": "IIAS opposes Ujjivan SFB RSU plan over disclosure concerns",
       "description": "Proxy advisory firm IIAS opposed Ujjivan Small Finance Bank’s proposed RSU scheme, citing inadequate clarity on vesting conditions and performance metrics. The bank responded that vesting depends on exceeding revenue and profit targets and satisfactory individual performance ratings.",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/iias-opposes-ujjivan-sfb-rsu-plan-over-disclosure-concerns/articleshow/132394582.cms",
@@ -153,16 +393,6 @@
       "simple_explanation": "Proxy advisory firm IIAS opposed Ujjivan Small Finance Bank’s proposed RSU scheme, citing inadequate clarity on vesting conditions and performance metrics. The bank responded that vesting depends on e"
     },
     {
-      "title": "3 Reasons to Sell BC and 1 Stock to Buy Instead",
-      "description": "Over the last six months, Brunswick’s shares have sunk to $76.88, producing a disappointing 12.7% loss - a stark contrast to the S&P 500’s 9.4% gain. This may have investors wondering how to approach the situation.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-bc-1-143911165.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T14:39:11+00:00",
-      "category": "USA",
-      "simple_explanation": "Over the last six months, Brunswick’s shares have sunk to $76.88, producing a disappointing 12.7% loss - a stark contrast to the S&P 500’s 9.4% gain. This may have investors wondering how to approach "
-    },
-    {
       "title": "El-Erian Says Softer CPI Print Should Help 'Temper' Hawkish Tilt As Markets Rethink Fed Path",
       "description": "Mohammed El-Erian stated that the softer print is unlikely to fully resolve the longer-term inflation outlook.",
       "url": "https://stocktwits.com/news-articles/markets/equity/el-erian-says-softer-cpi-print-should-help-temper-hawkish-tilt-fed-path/cZZbCnxR7q4?.tsrc=rss",
@@ -171,236 +401,6 @@
       "published_at": "2026-07-14T14:38:26+00:00",
       "category": "Commodities",
       "simple_explanation": "Mohammed El-Erian stated that the softer print is unlikely to fully resolve the longer-term inflation outlook."
-    },
-    {
-      "title": "Alpine Texworld IPO off to a slow start; subscribed 0.28 times on Day 1; GMP indicates modest listing",
-      "description": "Alpine Texworld's IPO had a weak debut, with only 0.28 times subscription on Day 1. Retail and NII segments saw low bids, while QIB was fully subscribed. The company aims to raise  ₹126 crore for expanding production in Ahmedabad and paying off debt.",
-      "url": "https://www.livemint.com/market/stock-market-news/alpine-texworld-ipo-off-to-a-slow-start-subscribed-0-28-times-on-day-1-gmp-indicates-modest-listing-11784038213076.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/14/1600x900/logo/Alpine_Texworld_IPO_1783664789825_1783664798833_b3c87df1-0e27-43f7-9cb0-5d1bdde8b6af_1784038915485_094c79f9-0d5c-4714-a726-3b1a91fe922d.png",
-      "source": "LiveMint",
-      "published_at": "2026-07-14T14:35:26+00:00",
-      "category": "India",
-      "simple_explanation": "Alpine Texworld's IPO had a weak debut, with only 0.28 times subscription on Day 1. Retail and NII segments saw low bids, while QIB was fully subscribed. The company aims to raise  ₹126 crore for expa"
-    },
-    {
-      "title": "Is Meta's recent rally sustainable?",
-      "description": "Meta Platforms (META) stock has finally crossed back above its 200-day moving average, consecutively in its last two sessions. Sevens Report Research founder Tom Essaye chats with Yahoo Finance Executive Editor Brian Sozzi about Meta's latest stock moves and what that may signal about its sustainabi",
-      "url": "https://finance.yahoo.com/video/is-metas-recent-rally-sustainable-143140725.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T14:31:40+00:00",
-      "category": "USA",
-      "simple_explanation": "Meta Platforms (META) stock has finally crossed back above its 200-day moving average, consecutively in its last two sessions. Sevens Report Research founder Tom Essaye chats with Yahoo Finance Execut"
-    },
-    {
-      "title": "Nasdaq and S&P 500 Rise on Inflation Relief, Lower Rate-Hike Odds",
-      "description": "Fresh economic data showing consumer prices fell in June sent stocks mostly higher at Tuesday's opening bell. The tech-heavy Nasdaq was up 0.4%, while the S&P 500 gained 0.2%. The Dow was up 0.2%, or 83 points.",
-      "url": "https://finance.yahoo.com/m/d180bcbf-6455-3e71-953e-c579486d741f/nasdaq-and-s%26p-500-rise-on.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T14:30:04+00:00",
-      "category": "USA",
-      "simple_explanation": "Fresh economic data showing consumer prices fell in June sent stocks mostly higher at Tuesday's opening bell. The tech-heavy Nasdaq was up 0.4%, while the S&P 500 gained 0.2%. The Dow was up 0.2%, or "
-    },
-    {
-      "title": "Stock Market Today: Dow Positive After Surprise Inflation Data; IBM Tanks, Banks Rise On Earnings (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index dropped Tuesday amid a surprise June CPI inflation report. IBM stock plunged 25% on earnings.",
-      "url": "https://finance.yahoo.com/m/5d020334-7a7d-3075-adc2-c428ddde2504/stock-market-today%3A-dow.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T14:27:20+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index dropped Tuesday amid a surprise June CPI inflation report. IBM stock plunged 25% on earnings."
-    },
-    {
-      "title": "Watch Fed Chairman Kevin Warsh testify live to House Financial Services committee",
-      "description": "In remarks prepared for the appearance, Warsh promised a vigilant fight to return inflation to the Fed's 2% target.",
-      "url": "https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-07-14T14:25:02+00:00",
-      "category": "Global",
-      "simple_explanation": "In remarks prepared for the appearance, Warsh promised a vigilant fight to return inflation to the Fed's 2% target."
-    },
-    {
-      "title": "Dow Jones' Two Biggest Banks Report Earnings. One Surges Past An Entry.",
-      "description": "Dow Jones banks JPMorgan Chase, Goldman Sachs detailed Q2 results on Tuesday. JPM stock jumps in buy zone, GS stock pops.",
-      "url": "https://finance.yahoo.com/m/6d518079-3338-37fb-be38-a668781adc40/dow-jones%27-two-biggest-banks.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T14:22:02+00:00",
-      "category": "USA",
-      "simple_explanation": "Dow Jones banks JPMorgan Chase, Goldman Sachs detailed Q2 results on Tuesday. JPM stock jumps in buy zone, GS stock pops."
-    },
-    {
-      "title": "Buffett to offload Berkshire stake in 8 years, Gates snubbed",
-      "description": "Warren Buffett is accelerating donations of Berkshire Hathaway shares, aiming to fully divest his stake within eight years. He excluded the Gates Foundation from future gifts amid renewed scrutiny over Bill Gates’ ties to Jeffrey Epstein, instead directing shares to foundations run by his children a",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/buffett-to-offload-berkshire-stake-in-8-years-gates-snubbed/articleshow/132393942.cms",
-      "image": "https://img.etimg.com/photo/msid-132393942,imgsize-24204.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-14T14:22:01+00:00",
-      "category": "India",
-      "simple_explanation": "Warren Buffett is accelerating donations of Berkshire Hathaway shares, aiming to fully divest his stake within eight years. He excluded the Gates Foundation from future gifts amid renewed scrutiny ove"
-    },
-    {
-      "title": "Three Price Target Boosts Can’t Help Tesla Stock",
-      "description": "Tesla  stock was inching higher at the start of Tuesday trading as investors mulled over what a couple of Wall Street price target hikes could do for it.  The modest rise came after Morgan Stanley, Barclays, and Wells Fargo all bumped their price targets for Tesla stock.  Morgan Stanley analyst Andr",
-      "url": "https://finance.yahoo.com/m/9c2b0e75-10d6-32b9-992d-13682f26706a/three-price-target-boosts.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T14:17:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Tesla  stock was inching higher at the start of Tuesday trading as investors mulled over what a couple of Wall Street price target hikes could do for it.  The modest rise came after Morgan Stanley, Ba"
-    },
-    {
-      "title": "Oil prices are back above $80 on renewed US-Iran tensions",
-      "description": "Oil prices (CL=F, BZ=F) are back on the rise, crossing above $80 per barrel on renewed tensions between the US and Iran. Morning Brief Host Julie Hyman is joined by Yahoo Finance Breaking News Reporter Jake Conley and Trustless Media founder Zack Guzman to weigh in on the price trends materializing ",
-      "url": "https://finance.yahoo.com/video/oil-prices-back-above-80-141500282.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T14:15:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil prices (CL=F, BZ=F) are back on the rise, crossing above $80 per barrel on renewed tensions between the US and Iran. Morning Brief Host Julie Hyman is joined by Yahoo Finance Breaking News Reporte"
-    },
-    {
-      "title": "Fastenal Stock Drops, Then Pops After Earnings. Industrial Growth Is Here.",
-      "description": "Industrial distributor Fastenal reported second-quarter earnings per share of 33 cents, in line with Wall Street estimates.",
-      "url": "https://finance.yahoo.com/m/6e14c761-78f6-302b-bc1a-0b77d11b0169/fastenal-stock-drops%2C-then.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T14:13:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Industrial distributor Fastenal reported second-quarter earnings per share of 33 cents, in line with Wall Street estimates."
-    },
-    {
-      "title": "Here’s What Hurt ConocoPhillips’ (COP) in Q2",
-      "description": "Harris Oakmark recently released its second-quarter 2026 investor letter for the “Oakmark Fund”. A copy of the letter can be downloaded here. The objective of the fund is to deliver capital appreciation by investing in a diverse set of large-cap US companies. In the quarter, the Fund (investor class",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hurt-conocophillips-cop-q2-141246779.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T14:12:46+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Harris Oakmark recently released its second-quarter 2026 investor letter for the “Oakmark Fund”. A copy of the letter can be downloaded here. The objective of the fund is to deliver capital appreciati"
-    },
-    {
-      "title": "RBI proposes easing rules for mutual funds, insurers to acquire higher stake in banks",
-      "description": "The RBI has proposed one-time approval for mutual funds, insurers and pension funds to increase bank shareholding up to 10% without repeated regulatory clearance. The move aims to simplify compliance for significant institutional investors, with public comments invited until August 4, 2026.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-proposes-easing-rules-for-mutual-funds-insurers-to-acquire-higher-stake-in-banks/articleshow/132393660.cms",
-      "image": "https://img.etimg.com/photo/msid-132393660,imgsize-114490.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-14T14:03:25+00:00",
-      "category": "India",
-      "simple_explanation": "The RBI has proposed one-time approval for mutual funds, insurers and pension funds to increase bank shareholding up to 10% without repeated regulatory clearance. The move aims to simplify compliance "
-    },
-    {
-      "title": "Big Bank Earnings Offset IBM's Nosedive, Dow Inches Higher",
-      "description": "The Dow is caught in a tug-of-war between strong bank earnings and IBM's historic drop.  The Dow's top performer was Goldman Sachs, which popped 5.5% after reporting record results.  Goldman is the heaviest weighted component in the Dow.",
-      "url": "https://finance.yahoo.com/m/be8baae7-a923-3f97-baca-56d556a0aa02/big-bank-earnings-offset.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T14:01:59+00:00",
-      "category": "USA",
-      "simple_explanation": "The Dow is caught in a tug-of-war between strong bank earnings and IBM's historic drop.  The Dow's top performer was Goldman Sachs, which popped 5.5% after reporting record results.  Goldman is the he"
-    },
-    {
-      "title": "Rs 1,839 crore Biocon block deal: ICICI Pru MF biggest buyer along with Citi and Goldman Sachs",
-      "description": "Mylan sold a ₹1,839 crore stake in Biocon through a block deal, attracting strong institutional demand. ICICI Prudential Mutual Fund emerged as the largest buyer, alongside other mutual funds, insurers and foreign investors, highlighting continued confidence in the pharmaceutical company.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1839-crore-biocon-block-deal-icici-pru-mf-biggest-buyer-along-with-citi-and-goldman-sachs/articleshow/132393595.cms",
-      "image": "https://img.etimg.com/photo/msid-132393595,imgsize-71766.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-14T13:58:05+00:00",
-      "category": "India",
-      "simple_explanation": "Mylan sold a ₹1,839 crore stake in Biocon through a block deal, attracting strong institutional demand. ICICI Prudential Mutual Fund emerged as the largest buyer, alongside other mutual funds, insurer"
-    },
-    {
-      "title": "Thomson Reuters to sell 51% stake in global print business to KKR for $500 million",
-      "description": "Thomson Reuters plans to divest its majority stake in the Global Print business to KKR, enabling a renewed focus on core operations. Set to finalize in the fourth quarter of 2026, this arrangement allows KKR exclusive distribution rights for both print and digital formats, while Thomson Reuters will",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/thomson-reuters-to-sell-51-stake-in-global-print-business-to-kkr-for-500-million/articleshow/132393585.cms",
-      "image": "https://img.etimg.com/photo/msid-132393585,imgsize-34766.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-14T13:55:32+00:00",
-      "category": "India",
-      "simple_explanation": "Thomson Reuters plans to divest its majority stake in the Global Print business to KKR, enabling a renewed focus on core operations. Set to finalize in the fourth quarter of 2026, this arrangement all"
-    },
-    {
-      "title": "CLSK Stock Leads Gains Among Crypto Equities – Lifting Data Center-Focused Bitcoin Miners",
-      "description": "CleanSpark’s new 20-year agreement covers the company's Sandersville, Georgia, campus and includes two optional five-year extensions.",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/clsk-stock-leads-gains-among-crypto-equities-lifting-bitcoin-miners/cZZbyBuR7p6?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T13:47:07+00:00",
-      "category": "Crypto",
-      "simple_explanation": "CleanSpark’s new 20-year agreement covers the company's Sandersville, Georgia, campus and includes two optional five-year extensions."
-    },
-    {
-      "title": "Triple One Metals Identifies Drill Targets in Emerging Newfoundland Copper-Gold Belt",
-      "description": "Triple One Produces a Map of the Gold and Multiple Metal Zones at Caledonia Brook Caledonia Brook Map of new gold and polymetallic zones The Map of Gold and Polymetallic Zones with the Caledonia Brook Properties (in Yellow) and the adjacent Pirate Gold Treasure Island Project in green. Vancouver, Br",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/triple-one-metals-identifies-drill-134400835.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T13:44:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Triple One Produces a Map of the Gold and Multiple Metal Zones at Caledonia Brook Caledonia Brook Map of new gold and polymetallic zones The Map of Gold and Polymetallic Zones with the Caledonia Brook"
-    },
-    {
-      "title": "US stocks today: S&P 500 and Nasdaq open higher as CPI, bank earnings take focus",
-      "description": "US markets opened mixed as softer inflation data boosted expectations of a less aggressive Federal Reserve. The S&P 500 and Nasdaq gained, supported by rate cut hopes, while the Dow declined. Investors also tracked major bank earnings, balancing optimism on inflation with caution around corporate pe",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-open-higher-as-cpi-bank-earnings-take-focus/articleshow/132393337.cms",
-      "image": "https://img.etimg.com/photo/msid-132393337,imgsize-252583.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-14T13:42:57+00:00",
-      "category": "India",
-      "simple_explanation": "US markets opened mixed as softer inflation data boosted expectations of a less aggressive Federal Reserve. The S&P 500 and Nasdaq gained, supported by rate cut hopes, while the Dow declined. Investor"
-    },
-    {
-      "title": "CLSK Stock Surges 13%: $6.6B AI Deal Has Retail Buzzing, Sentiment Flips Bullish",
-      "description": "The unnamed customer will set up its infrastructure at CleanSpark’s Sandersville campus in Georgia to run a range of computing workloads.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/clsk-stock-surges-13-6-6-b-ai-deal-has-retail-buzzing-sentiment-flips-bullish/cZZby39R7pC?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T13:42:39+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The unnamed customer will set up its infrastructure at CleanSpark’s Sandersville campus in Georgia to run a range of computing workloads."
-    },
-    {
-      "title": "OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report",
-      "description": "OpenAI’s ChatGPT now displays Kalshi’s World Cup prediction market odds in search results, marking the AI firm’s first reported deal with a prediction market platform.",
-      "url": "https://cointelegraph.com/news/openai-kalshi-prediction-markets-world-cup-chatgpt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/sam-altman-polymarket.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-14T13:30:06+00:00",
-      "category": "Crypto",
-      "simple_explanation": "OpenAI’s ChatGPT now displays Kalshi’s World Cup prediction market odds in search results, marking the AI firm’s first reported deal with a prediction market platform."
-    },
-    {
-      "title": "Strategy became a symbol of the dot-com crash: Could history repeat?",
-      "description": "MicroStrategy blew up during the dot-com era, before Michael Saylor transformed it into the world's largest corporate Bitcoin holder. Did he learn his lesson?",
-      "url": "https://cointelegraph.com/features/from-dot-com-bust-to-bitcoin-king-has-michael-saylor-rewritten-his-legacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-from-dot-com-crash-to-bitcoin-treasury-king-has-michael-saylor-rewritten-his-legacy-1.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-14T13:30:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "MicroStrategy blew up during the dot-com era, before Michael Saylor transformed it into the world's largest corporate Bitcoin holder. Did he learn his lesson?"
-    },
-    {
-      "title": "Sebi exempts Juhi Chawla-owned Mehta Family Trust from Saurashtra Cement open offer",
-      "description": "The Securities and Exchange Board of India (Sebi) has granted the Mehta Family Trust relief from the open offer requirement linked to their indirect acquisition of shares in Saurashtra Cement Ltd. This restructuring aims to facilitate succession planning within the family and has been determined as ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-exempts-mehta-family-trust-from-saurashtra-cement-open-offer/articleshow/132392809.cms",
-      "image": "https://img.etimg.com/photo/msid-132392809,imgsize-55652.cms",
-      "source": "ET Markets",
-      "published_at": "2026-07-14T13:20:25+00:00",
-      "category": "India",
-      "simple_explanation": "The Securities and Exchange Board of India (Sebi) has granted the Mehta Family Trust relief from the open offer requirement linked to their indirect acquisition of shares in Saurashtra Cement Ltd. Thi"
-    },
-    {
-      "title": "IBM shares plunge 26% after Q2 earnings forecast falls short of estimates",
-      "description": "IBM shares plunged 26% to $228 after Q2 sales fell below estimates, with revenue at $17.2 billion. CEO Arvind Krishna noted that customers are limiting spending. The stock faces its largest intraday decline since the 1980s. Other software firms also experienced losses amid these results.",
-      "url": "https://www.livemint.com/market/ibm-shares-plunge-22-in-pre-market-after-q2-earnings-forecast-falls-short-of-estimates-11784034454697.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/14/1600x900/TECH-CONFERENCE-MWC-6_1775881616084_1775881644079_1784034626100_70f262c4-f6dd-4483-b54b-bb445ed92584.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-07-14T13:14:52+00:00",
-      "category": "India",
-      "simple_explanation": "IBM shares plunged 26% to $228 after Q2 sales fell below estimates, with revenue at $17.2 billion. CEO Arvind Krishna noted that customers are limiting spending. The stock faces its largest intraday d"
     }
   ]
 }
