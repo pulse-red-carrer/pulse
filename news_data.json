@@ -1,16 +1,256 @@
 {
-  "last_updated": "2026-07-14T23:55:27.488417+00:00",
+  "last_updated": "2026-07-15T02:32:24.166147+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Dow Jones Futures Rise; Goldman, CrowdStrike Jump, But AI Stocks Need To Do This",
+      "title": "China posts slowest GDP growth since 2022 at 4.3%, missing expectations",
+      "description": "That second-quarter growth came below Beijing's full-year growth target range of 4.5% to 5%, the least ambitious goal in decades.",
+      "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-15T02:21:54+00:00",
+      "category": "USA",
+      "simple_explanation": "That second-quarter growth came below Beijing's full-year growth target range of 4.5% to 5%, the least ambitious goal in decades."
+    },
+    {
+      "title": "Stock market today: Gift Nifty hints muted start; seven day trading stocks to buy on Wednesday, 15 July",
+      "description": "The Indian stock market is expected to open subdued due to mixed global cues and ongoing geopolitical tensions. The Sensex fell 561.46 points, while the Nifty 50 decreased by 158.95 points. Traders remain cautious amidst elevated oil prices and fresh US-Iran hostilities.",
+      "url": "https://www.livemint.com/market/stock-market-today-gift-nifty-hints-muted-start-seven-day-trading-stocks-to-buy-on-wednesday-15-july-11784079922155.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/15/1600x900/logo/3-0-86449917-iStock-1167137273-0_1679793048835_1784081757543_6085b61d-84db-4b5c-b8fc-de2e0d0b9395.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-15T02:19:47+00:00",
+      "category": "India",
+      "simple_explanation": "The Indian stock market is expected to open subdued due to mixed global cues and ongoing geopolitical tensions. The Sensex fell 561.46 points, while the Nifty 50 decreased by 158.95 points. Traders re"
+    },
+    {
+      "title": "Kusumgar shares set to make market debut today; GMP hints at 39% listing premium",
+      "description": "Market participants estimate the Kusumgar IPO's grey market premium at around Rs 162, or nearly 39% above the upper issue price of Rs 419 per share. This implies an estimated listing price of about Rs 581.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kusumgar-shares-set-to-make-market-debut-today-gmp-hints-at-39-listing-premium/articleshow/132403938.cms",
+      "image": "https://img.etimg.com/photo/msid-132403938,imgsize-11424.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-15T02:15:14+00:00",
+      "category": "India",
+      "simple_explanation": "Market participants estimate the Kusumgar IPO's grey market premium at around Rs 162, or nearly 39% above the upper issue price of Rs 419 per share. This implies an estimated listing price of about Rs"
+    },
+    {
+      "title": "Stocks to watch: Groww, Delhivery, NBCC among shares in focus today; check list here",
+      "description": "Stock market today: Gift Nifty was trading near the 24,049 mark, up over 25 points from the previous close of Nifty futures.",
+      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-groww-delhivery-nbcc-among-shares-in-focus-today-check-list-here-11784056472442.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/15/1600x900/logo/stock_1784081504915_1784081505048_7ef58c7d-c0e8-432b-a919-b83f0d103342.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-15T02:14:54+00:00",
+      "category": "India",
+      "simple_explanation": "Stock market today: Gift Nifty was trading near the 24,049 mark, up over 25 points from the previous close of Nifty futures."
+    },
+    {
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade higher",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-groww-delhivery-share-price-15-july-2026/liveblog/132404160.cms",
+      "image": "https://img.etimg.com/photo/msid-132404160,imgsize-1952732.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-15T02:14:24+00:00",
+      "category": "India",
+      "simple_explanation": ""
+    },
+    {
+      "title": "Oil Price Today (July 15): Crude oil above $86 as US-Iran exchange fresh strikes. Bigger surge brewing?",
+      "description": "Brent crude settled at its highest level since June 12 for a second consecutive session, while West Texas Intermediate (WTI) closed at its strongest level since June 15.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-15-crude-oil-above-86-as-us-iran-exchange-fresh-strikes-bigger-surge-brewing/articleshow/132404132.cms",
+      "image": "https://img.etimg.com/photo/msid-132404132,imgsize-83072.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-15T02:11:57+00:00",
+      "category": "India",
+      "simple_explanation": "Brent crude settled at its highest level since June 12 for a second consecutive session, while West Texas Intermediate (WTI) closed at its strongest level since June 15."
+    },
+    {
+      "title": "Dow Jones Futures: Goldman, CrowdStrike Jump, But AI Stocks Need To Do This",
       "description": "The Nasdaq and AI stocks rallied, but still face key resistance. Goldman and CrowdStrike make big bullish moves.",
-      "url": "https://finance.yahoo.com/m/ff2fea6d-f6fc-389f-b0c6-62b745afe36d/dow-jones-futures-rise%3B.html?.tsrc=rss",
+      "url": "https://finance.yahoo.com/m/ff2fea6d-f6fc-389f-b0c6-62b745afe36d/dow-jones-futures%3A-goldman%2C.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-14T23:47:50+00:00",
+      "published_at": "2026-07-15T02:10:16+00:00",
       "category": "USA",
       "simple_explanation": "The Nasdaq and AI stocks rallied, but still face key resistance. Goldman and CrowdStrike make big bullish moves."
+    },
+    {
+      "title": "Asian stocks today: Kospi, Nikkei rally up to 6% after soft US inflation data eases rate hike concerns",
+      "description": "Asian stocks today: South Korea's Kospi surged 6.3% at the open, while the small-cap Kosdaq climbed 4%.",
+      "url": "https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-rally-up-to-6-after-soft-us-inflation-data-eases-rate-hike-concerns-11784079719622.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/15/1600x900/logo/asian_stocks_1784080759414_1784080759560_da28a294-e393-4387-b63f-29d2c0895c97.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-15T02:06:01+00:00",
+      "category": "India",
+      "simple_explanation": "Asian stocks today: South Korea's Kospi surged 6.3% at the open, while the small-cap Kosdaq climbed 4%."
+    },
+    {
+      "title": "Negative Breakout: These 12 stocks cross below their 200 DMAs",
+      "description": "The 200 DMA is a key indicator traders use to determine the overall trend in a particular stock.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-12-stocks-cross-below-their-200-dmas/slideshow/132404082.cms",
+      "image": "https://img.etimg.com/photo/msid-132404005,imgsize-326774.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-15T02:02:37+00:00",
+      "category": "India",
+      "simple_explanation": "The 200 DMA is a key indicator traders use to determine the overall trend in a particular stock."
+    },
+    {
+      "title": "Korea’s AI stock rout is becoming a lesson in leveraged excess",
+      "description": "South Korea's AI stock boom is now a cautionary tale of leverage's power. SK Hynix's plunge triggered billions in stock sales, deepening the Kospi's slide. Leveraged products and concentrated index weightings amplified market swings in both directions. This dynamic is now being watched globally as K",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-ai-stock-rout-is-becoming-a-lesson-in-leveraged-excess/articleshow/132403971.cms",
+      "image": "https://img.etimg.com/photo/msid-132403971,imgsize-13688.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-15T01:59:59+00:00",
+      "category": "India",
+      "simple_explanation": "South Korea's AI stock boom is now a cautionary tale of leverage's power. SK Hynix's plunge triggered billions in stock sales, deepening the Kospi's slide. Leveraged products and concentrated index we"
+    },
+    {
+      "title": "Gold edges higher on soft US inflation, Gulf conflict clouds rate outlook",
+      "description": "Gold prices saw a slight increase on Wednesday as inflation data eased rate hike worries. Renewed Middle East conflict and rising oil prices, however, limited gains for the precious metal. Traders now anticipate a lower probability of a U.S. interest rate increase this year. Investors await China's ",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-on-soft-us-inflation-gulf-conflict-clouds-rate-outlook/articleshow/132403970.cms",
+      "image": "https://img.etimg.com/photo/msid-132403970,imgsize-630220.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-15T01:58:11+00:00",
+      "category": "India",
+      "simple_explanation": "Gold prices saw a slight increase on Wednesday as inflation data eased rate hike worries. Renewed Middle East conflict and rising oil prices, however, limited gains for the precious metal. Traders now"
+    },
+    {
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 15 July",
+      "description": "Nifty 50, Sensex prediction today: The trends on Gift Nifty also indicate a muted start for the Indian benchmark index. The Gift Nifty was trading around 24,032 level, a premium of nearly 8 points from the Nifty futures’ previous close.",
+      "url": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-15-july-11784080004833.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/15/1600x900/logo/2-0-1244142584-religare-trading--13-20150520RP-0_1679615762557_1784080329610_2f907c32-9b5f-4dad-ab46-2de0e7acfa51.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-15T01:54:21+00:00",
+      "category": "India",
+      "simple_explanation": "Nifty 50, Sensex prediction today: The trends on Gift Nifty also indicate a muted start for the Indian benchmark index. The Gift Nifty was trading around 24,032 level, a premium of nearly 8 points fro"
+    },
+    {
+      "title": "From Gift Nifty, US inflation, IBM shares to Kospi’s rally: 8 key things that changed for Indian stock market overnight",
+      "description": "Gift Nifty was trading around 24,049 level, a premium of nearly 25 points from the Nifty futures’ previous close, indicating a mildly positive start for the Indian stock market indices.",
+      "url": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-us-inflation-ibm-shares-to-kospi-s-rally-8-key-things-that-changed-for-indian-stock-market-overnight-11784079326495.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/15/1600x900/logo/South-Korea-Financial-Markets-2_1784079464407_1784079477536_4b8169fe-1c06-4e44-a9f7-caf506b41b1d.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-15T01:41:19+00:00",
+      "category": "India",
+      "simple_explanation": "Gift Nifty was trading around 24,049 level, a premium of nearly 25 points from the Nifty futures’ previous close, indicating a mildly positive start for the Indian stock market indices."
+    },
+    {
+      "title": "Crude oil prices extend gains amid rising US-Iran war tensions; Brent crude surges past $85 per barrel",
+      "description": "US-Iran war: Brent crude was up $1.46, or 1.72%, at $86.19 per barrel, while WTI gained $1.11, or 1.4%, to trade at $80.40 per barrel.",
+      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-extend-gains-amid-rising-us-iran-war-tensions-brent-crude-surges-past-85-per-barrel-11784077895593.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/15/1600x900/logo/crude_1784078700613_1784078700750_4b51744c-4fe1-4b8d-80e4-bc8221ab910c.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-15T01:38:26+00:00",
+      "category": "India",
+      "simple_explanation": "US-Iran war: Brent crude was up $1.46, or 1.72%, at $86.19 per barrel, while WTI gained $1.11, or 1.4%, to trade at $80.40 per barrel."
+    },
+    {
+      "title": "Bitmine generated $46M from Ethereum staking last quarter",
+      "description": "Ethereum staking generated 98% of Bitmine’s revenue last quarter as the company’s pivot from Bitcoin mining gained momentum following its March validator launch.",
+      "url": "https://cointelegraph.com/news/bitmine-generated-46m-from-ethereum-staking-last-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-20-staking-explained.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-15T01:28:14+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Ethereum staking generated 98% of Bitmine’s revenue last quarter as the company’s pivot from Bitcoin mining gained momentum following its March validator launch."
+    },
+    {
+      "title": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally",
+      "description": "SK Hynix led a broad rally in Asian technology shares on Wednesday, tracking a rebound in U.S. semiconductor shares after a sharp selloff earlier this week.",
+      "url": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-15T01:22:34+00:00",
+      "category": "USA",
+      "simple_explanation": "SK Hynix led a broad rally in Asian technology shares on Wednesday, tracking a rebound in U.S. semiconductor shares after a sharp selloff earlier this week."
+    },
+    {
+      "title": "NewPeak Metals raises A$3.5 million to accelerate Las Opeñas gold exploration",
+      "description": "NewPeak Metals Ltd (ASX:NPM, OTC:NPMFF, FRA:NPM) has secured A$3.5 million through a strongly supported share placement to advance drilling, resource estimation and broader exploration at its wholly owned Las Opeñas Gold Project in Argentina. The placement attracted binding commitments for...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1095452/newpeak-metals-raises-a-3-5-million-to-accelerate-las-openas-gold-exploration-1095452.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-15T01:19:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "NewPeak Metals Ltd (ASX:NPM, OTC:NPMFF, FRA:NPM) has secured A$3.5 million through a strongly supported share placement to advance drilling, resource estimation and broader exploration at its wholly o"
+    },
+    {
+      "title": "D-St set for a positive opening as GIFT Nifty signals firm start",
+      "description": "Domestic equities closed lower on Tuesday, with the Nifty declining 0.7 percent. Rising crude oil prices and fresh foreign investor outflows weighed on sentiment. Global markets also showed weakness, adding to market volatility during the derivatives expiry. Analysts anticipate sideways trading with",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132403701.cms",
+      "image": "https://img.etimg.com/photo/msid-132403701,imgsize-31848.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-15T01:16:55+00:00",
+      "category": "India",
+      "simple_explanation": "Domestic equities closed lower on Tuesday, with the Nifty declining 0.7 percent. Rising crude oil prices and fresh foreign investor outflows weighed on sentiment. Global markets also showed weakness, "
+    },
+    {
+      "title": "Stocks in news: Groww, Delhivery, Infosys, Wipro, IDBI Bank, Tata Elxsi",
+      "description": "Markets traded under pressure amid renewed geopolitical concerns on Tuesday. Several companies like Groww and Infosys will be in focus today. Anand Rathi Share reported a significant profit rise for the June quarter. IDBI Bank clarified reports regarding a potential Fairfax Financial offer. Tata Elx",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-groww-delhivery-infosys-wipro-idbi-bank-tata-elxsi/articleshow/132403654.cms",
+      "image": "https://img.etimg.com/photo/msid-132403654,imgsize-605584.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-15T01:08:48+00:00",
+      "category": "India",
+      "simple_explanation": "Markets traded under pressure amid renewed geopolitical concerns on Tuesday. Several companies like Groww and Infosys will be in focus today. Anand Rathi Share reported a significant profit rise for t"
+    },
+    {
+      "title": "LOW Paid Holders $47 Bil While The Stock Went Nowhere",
+      "description": "The home improvement giant showered its owners with cash, yet the stock barely budged. Here’s what shareholders actually got, and what has to happen next for the trade to make sense.",
+      "url": "https://www.trefis.com/articles/607029/low-paid-holders-47-bil-while-the-stock-went-nowhere/2026-07-14?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-15T00:50:53+00:00",
+      "category": "USA",
+      "simple_explanation": "The home improvement giant showered its owners with cash, yet the stock barely budged. Here’s what shareholders actually got, and what has to happen next for the trade to make sense."
+    },
+    {
+      "title": "Life insurers seen posting mixed Q1 nos, health players likely to outperform",
+      "description": "Life insurers anticipate slower premium growth amid economic uncertainty and geopolitical tensions. Health insurers are poised for strong performance, driven by sustained demand and improved affordability. General insurers will likely face continued pricing pressures in motor and commercial insuranc",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/life-insurers-seen-posting-mixed-q1-health-players-likely-to-outperform/articleshow/132403571.cms",
+      "image": "https://img.etimg.com/photo/msid-132403571,imgsize-19576.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-15T00:42:53+00:00",
+      "category": "India",
+      "simple_explanation": "Life insurers anticipate slower premium growth amid economic uncertainty and geopolitical tensions. Health insurers are poised for strong performance, driven by sustained demand and improved affordabi"
+    },
+    {
+      "title": "U.S. strikes Iran before Hormuz Strait blockade restarts",
+      "description": "President Donald Trump has said the U.S.-Iran ceasefire is over following multiple flare-ups of hostilities in the region.",
+      "url": "https://www.cnbc.com/2026/07/14/iran-strikes-hormuz-strait-blockade-trump-tolls.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-15T00:24:59+00:00",
+      "category": "USA",
+      "simple_explanation": "President Donald Trump has said the U.S.-Iran ceasefire is over following multiple flare-ups of hostilities in the region."
+    },
+    {
+      "title": "APA (APA) Stock Looks Cheap Relative To Its Earnings Power",
+      "description": "APA stock has logged a 127.5% return over the past five years, and the current valuation checks still point to it screening cheap rather than stretched. That combination of a strong long run and a positive valuation read is drawing attention to whether the recent share price now fully reflects the r",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apa-apa-stock-looks-cheap-002249934.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-15T00:22:49+00:00",
+      "category": "Commodities",
+      "simple_explanation": "APA stock has logged a 127.5% return over the past five years, and the current valuation checks still point to it screening cheap rather than stretched. That combination of a strong long run and a pos"
+    },
+    {
+      "title": "Review & Preview: Inflation Cools",
+      "description": "It was a jam-packed day for the markets: earnings season started strong, oil futures fluctuated, Federal Reserve Chairman Kevin Warsh testified in front of lawmakers, and the latest June inflation report delivered a cooler-than-expected reading that should make policymakers hold off on raising inter",
+      "url": "https://finance.yahoo.com/m/3096eb76-83d8-3913-b57f-b9c59114b43c/review-%26-preview%3A-inflation.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T23:55:00+00:00",
+      "category": "USA",
+      "simple_explanation": "It was a jam-packed day for the markets: earnings season started strong, oil futures fluctuated, Federal Reserve Chairman Kevin Warsh testified in front of lawmakers, and the latest June inflation rep"
+    },
+    {
+      "title": "Global REITs or U.S. Only: Which iShares ETF Is the Better Buy, REET or ICF?",
+      "description": "REET owns real estate around the world, while ICF owns only the biggest names in U.S. property. Here is what that distinction means for your portfolio.",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/14/global-reits-or-u-s-only-which-ishares-etf-is-the-better-buy-reet-or-icf/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-14T23:52:45+00:00",
+      "category": "USA",
+      "simple_explanation": "REET owns real estate around the world, while ICF owns only the biggest names in U.S. property. Here is what that distinction means for your portfolio."
     },
     {
       "title": "AI Stocks: Falling Knife or Once-in-a-Decade Buying Opportunity?",
@@ -53,6 +293,16 @@
       "simple_explanation": "STORY: U.S. stocks closed mostly higher on Tuesday, with the Dow ending little changed, the S&P 500 adding almost four-tenths of a percent and the Nasdaq gaining nine-tenths of a percent.Second-quarte"
     },
     {
+      "title": "Over 95% of Coinbase’s code is now written with help of AI",
+      "description": "Coinbase’s Rob Witoff said the company is leaning more on AI to help with execution, but still needs high-agency humans for judgment and strategy.",
+      "url": "https://cointelegraph.com/news/over-95-of-coinbases-code-is-now-written-with-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-coinbase-transaction-ai-1.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-14T22:30:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Coinbase’s Rob Witoff said the company is leaning more on AI to help with execution, but still needs high-agency humans for judgment and strategy."
+    },
+    {
       "title": "Oil Climbs to a 1-Month High as the U.S. and Iran Trade Attacks in the Strait of Hormuz. Here's What it Means for Energy Investors.",
       "description": "It may not be the big windfall that you'd expect for oil stocks.",
       "url": "https://www.fool.com/investing/2026/07/14/oil-climbs-to-a-1-month-high-as-the-u-s-and-iran-trade-attacks-in-the-strait-of-hormuz-here-s-what-it-means-for-energy-investors/?.tsrc=rss",
@@ -91,16 +341,6 @@
       "published_at": "2026-07-14T22:15:03+00:00",
       "category": "USA",
       "simple_explanation": "Main Street Capital (MAIN) closed the most recent trading day at $53.09, moving +1.1% from the previous trading session."
-    },
-    {
-      "title": "M/I Homes (MHO) Exceeds Market Returns: Some Facts to Consider",
-      "description": "M/I Homes (MHO) closed at $148.11 in the latest trading session, marking a +1.4% move from the prior day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/m-homes-mho-exceeds-market-221503518.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T22:15:03+00:00",
-      "category": "USA",
-      "simple_explanation": "M/I Homes (MHO) closed at $148.11 in the latest trading session, marking a +1.4% move from the prior day."
     },
     {
       "title": "Micron Technology, Inc. (MU) Stock Rises After Entering Bear Market",
@@ -143,16 +383,6 @@
       "simple_explanation": "QUEBEC CITY, July 14, 2026 (GLOBE NEWSWIRE) -- Predictive Discovery Limited (ASX:PDI, TSX:PDI) (“PDI” or the “Company”) is pleased to announce it will make a US$10 million investment in West African-f"
     },
     {
-      "title": "U.S. strikes Iran before Hormuz Strait blockade restarts",
-      "description": "President Donald Trump has said the U.S.-Iran ceasefire is over following multiple flare-ups of hostilities in the region.",
-      "url": "https://www.cnbc.com/2026/07/14/iran-strikes-hormuz-strait-blockade-trump-tolls.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-14T21:27:12+00:00",
-      "category": "USA",
-      "simple_explanation": "President Donald Trump has said the U.S.-Iran ceasefire is over following multiple flare-ups of hostilities in the region."
-    },
-    {
       "title": "Oil Tanker Stocks Set Up Amid Trump's Flip-Flop On Hormuz Toll",
       "description": "Oil tanker stocks were setting up Tuesday as President Donald Trump abandoned his edict, that the U.S. would charge a fee to protect ships passing through the Strait of Hormuz.  Okeanis Eco Tankers, International Seaways and Nordic American Tankers all traded near buy points.  Trump withdrew the 20%",
       "url": "https://finance.yahoo.com/m/b646fcce-bcb6-3151-9a65-aa5164c853c2/oil-tanker-stocks-set-up-amid.html?.tsrc=rss",
@@ -163,36 +393,6 @@
       "simple_explanation": "Oil tanker stocks were setting up Tuesday as President Donald Trump abandoned his edict, that the U.S. would charge a fee to protect ships passing through the Strait of Hormuz.  Okeanis Eco Tankers, I"
     },
     {
-      "title": "Current and former employees sue Meta, alleging discrimination in using AI to conduct layoffs",
-      "description": "The lawsuit filed by current and former Meta employees underscores rising concerns about AI's impact on jobs and people with disabilities in the workforce.",
-      "url": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-14T21:12:44+00:00",
-      "category": "USA",
-      "simple_explanation": "The lawsuit filed by current and former Meta employees underscores rising concerns about AI's impact on jobs and people with disabilities in the workforce."
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Leads The Day; Yum Brands Falls On Report Of Taco Bell Investigation (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index creeps up Tuesday even as IBM stock tanks. CrowdStrike tops the S&P 500.",
-      "url": "https://finance.yahoo.com/m/5d020334-7a7d-3075-adc2-c428ddde2504/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T21:06:33+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Stock Market Today: The Dow Jones index creeps up Tuesday even as IBM stock tanks. CrowdStrike tops the S&P 500."
-    },
-    {
-      "title": "Stocks Rise on Hot Earnings, Cool Inflation: Stock Market Today",
-      "description": "Second-quarter earnings and June consumer inflation data offset continuing uncertainty about the Strait of Hormuz.",
-      "url": "https://www.kiplinger.com/investing/stocks/stocks-rise-on-hot-earnings-cool-inflation-stock-market-today?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T21:04:26+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Second-quarter earnings and June consumer inflation data offset continuing uncertainty about the Strait of Hormuz."
-    },
-    {
       "title": "Here’s the inflation breakdown for June 2026 — in one chart",
       "description": "The consumer price index rose 3.5% in June from a year earlier, a deceleration after several months of upward moves.",
       "url": "https://www.cnbc.com/2026/07/14/inflation-cpi-june-2026-in-one-chart.html",
@@ -201,206 +401,6 @@
       "published_at": "2026-07-14T21:02:45+00:00",
       "category": "USA",
       "simple_explanation": "The consumer price index rose 3.5% in June from a year earlier, a deceleration after several months of upward moves."
-    },
-    {
-      "title": "Trident Unlocks Value from Non-Core Knife Lake Copper Project Through Option Agreement with Apogee Minerals",
-      "description": "Vancouver, BC, July 14, 2026 (GLOBE NEWSWIRE) -- Trident Resources Corp. (TSXV: ROCK) (OTCQB: TRDTF) (Frankfurt: 6BP0) (“Trident” or the “Company”) is pleased to announce that it has entered into an option agreement dated July 13th, 2026 (the \"Agreement\") with Apogee Minerals Ltd. (\"Apogee\"), an arm",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trident-unlocks-value-non-core-210000502.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T21:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Vancouver, BC, July 14, 2026 (GLOBE NEWSWIRE) -- Trident Resources Corp. (TSXV: ROCK) (OTCQB: TRDTF) (Frankfurt: 6BP0) (“Trident” or the “Company”) is pleased to announce that it has entered into an o"
-    },
-    {
-      "title": "High gold prices send some vintage jewelry to the melting furnace",
-      "description": "STORY: EDITORS PLEASE NOTE: REFILING FOR VISIBILITY ONLY; NO CHANGES TO VIDEO:: London, England / June 10, 2026With gold prices near record highs, more and more owners of watches and bracelets made from the precious metal are opting to melt them down... versus selling them as-is.TALISMAN: “Some of t",
-      "url": "https://finance.yahoo.com/video/high-gold-prices-send-vintage-164853516.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T20:43:26+00:00",
-      "category": "Commodities",
-      "simple_explanation": "STORY: EDITORS PLEASE NOTE: REFILING FOR VISIBILITY ONLY; NO CHANGES TO VIDEO:: London, England / June 10, 2026With gold prices near record highs, more and more owners of watches and bracelets made fr"
-    },
-    {
-      "title": "CleanSpark Lands First HPC Lease Worth Nearly $7 Bil. Bitcoin Leads CPI-Fueled Crypto Surge.",
-      "description": "CleanSpark stock bolts after signing its first major HPC data center lease, which could balloon to $12 billion. Bitcoin, cryptos jump on CPI data.",
-      "url": "https://finance.yahoo.com/m/c1c4a421-c50c-39e2-8bee-8a74b41fa2fc/cleanspark-lands-first-hpc.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T20:40:19+00:00",
-      "category": "Crypto",
-      "simple_explanation": "CleanSpark stock bolts after signing its first major HPC data center lease, which could balloon to $12 billion. Bitcoin, cryptos jump on CPI data."
-    },
-    {
-      "title": "US stocks today: S&P 500 and Nasdaq end higher on cool inflation data, solid bank earnings",
-      "description": "U.S. stocks ended higher as softer June inflation data and strong bank earnings lifted sentiment despite escalating Middle East tensions. Nasdaq outperformed on chip gains, while JPMorgan and Goldman Sachs advanced on robust results. IBM fell on weak revenue guidance, and markets scaled back expecta",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-end-higher-on-cool-inflation-data-solid-bank-earnings/articleshow/132400813.cms",
-      "image": "https://img.etimg.com/photo/msid-132400813,imgsize-270072.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-14T20:04:42+00:00",
-      "category": "India",
-      "simple_explanation": "U.S. stocks ended higher as softer June inflation data and strong bank earnings lifted sentiment despite escalating Middle East tensions. Nasdaq outperformed on chip gains, while JPMorgan and Goldman "
-    },
-    {
-      "title": "Velocity raises $38M to build stablecoin treasury infrastructure for enterprises",
-      "description": "Backed by Dragonfly, FirstMark and Coinbase Ventures, the startup is expanding software that helps businesses integrate stablecoins into treasury and payment workflows.",
-      "url": "https://cointelegraph.com/news/velocity-raises-38m-to-build-stablecoin-treasury-infrastructure-for-enterprises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-erisx-raises-275-mln-from-fidelity-nasdaq-ventures-and-others-details-2.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-14T20:04:31+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Backed by Dragonfly, FirstMark and Coinbase Ventures, the startup is expanding software that helps businesses integrate stablecoins into treasury and payment workflows."
-    },
-    {
-      "title": "US derivatives regulator blocks Kalshi from canceling Michigan trades despite court order",
-      "description": "The U.S. derivatives regulator blocked Kalshi from cancelling trades in Michigan despite a state court order banning its sports-related contracts. The move highlights a growing clash between federal authorities backing prediction markets and states enforcing gambling laws, raising broader questions ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-derivatives-regulator-blocks-kalshi-from-canceling-michigan-trades-despite-court-order/articleshow/132400801.cms",
-      "image": "https://img.etimg.com/photo/msid-132400801,imgsize-55348.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-14T19:58:47+00:00",
-      "category": "India",
-      "simple_explanation": "The U.S. derivatives regulator blocked Kalshi from cancelling trades in Michigan despite a state court order banning its sports-related contracts. The move highlights a growing clash between federal a"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-14T19:52:11+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-      "description": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
-      "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-14T19:50:48+00:00",
-      "category": "USA",
-      "simple_explanation": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking."
-    },
-    {
-      "title": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
-      "description": "The two governments issued recommendations on the treatment of digital assets as the US prepares to implement a 2025 law on payment stablecoins.",
-      "url": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-regulation-considerations-in-the-united-states-and-united-kingdom.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-14T19:45:20+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The two governments issued recommendations on the treatment of digital assets as the US prepares to implement a 2025 law on payment stablecoins."
-    },
-    {
-      "title": "SK Hynix options begin trading. But another group of stocks is stealing its thunder",
-      "description": "One explanation for the lack of notable call-buying is that the surge in single-stock ETFs and leveraged funds stole a big chunk of the speculative limelight.",
-      "url": "https://www.cnbc.com/2026/07/14/sk-hynix-options-begin-trading-but-another-group-of-stocks-is-stealing-its-thunder.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-14T19:18:57+00:00",
-      "category": "USA",
-      "simple_explanation": "One explanation for the lack of notable call-buying is that the surge in single-stock ETFs and leveraged funds stole a big chunk of the speculative limelight."
-    },
-    {
-      "title": "Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock",
-      "description": "Warren Buffett omitted the Gates Foundation from his annual charitable stock gifts.",
-      "url": "https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-07-14T18:34:31+00:00",
-      "category": "Global",
-      "simple_explanation": "Warren Buffett omitted the Gates Foundation from his annual charitable stock gifts."
-    },
-    {
-      "title": "Why IBM shares crashed 26%: CEO Arvind Krishna highlights customer spending shifts towards AI",
-      "description": "IBM's second-quarter results missed expectations, impacted by customer spending shifts, triggering one of the worst crashes in its stock. CEO Arvind Krishna said clients prioritized AI infrastructure, securing supply-constrained hardware in June. He also atrributed the shortfall to execution lapses ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-ibm-shares-crashed-26-ceo-arvind-krishna-highlights-customer-spending-shifts-towards-ai/articleshow/132398379.cms",
-      "image": "https://img.etimg.com/photo/msid-132398379,imgsize-26058.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-14T18:01:35+00:00",
-      "category": "India",
-      "simple_explanation": "IBM's second-quarter results missed expectations, impacted by customer spending shifts, triggering one of the worst crashes in its stock. CEO Arvind Krishna said clients prioritized AI infrastructure,"
-    },
-    {
-      "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-      "description": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
-      "url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-14T17:29:07+00:00",
-      "category": "USA",
-      "simple_explanation": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years."
-    },
-    {
-      "title": "Multibagger Signature Global shares to be in focus on Wednesday after Q1 pre-sales rise 25% QoQ",
-      "description": "Signature Global's Q1 FY27 results show pre-sales at  ₹1,970 crore, down 25% YoY but up 25% QoQ, driven by the Tonino Lamborghini Residences launch.",
-      "url": "https://www.livemint.com/market/stock-market-news/multibagger-signature-global-shares-to-be-in-focus-on-wednesday-after-q1-pre-sales-rise-25-qoq-11784046956471.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/14/1600x900/logo/SG_Park_web_1764158413100_1764158445621_1784049605672_31db3f96-a6a8-40c8-911d-6f96315d063a.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-14T17:27:35+00:00",
-      "category": "India",
-      "simple_explanation": "Signature Global's Q1 FY27 results show pre-sales at  ₹1,970 crore, down 25% YoY but up 25% QoQ, driven by the Tonino Lamborghini Residences launch."
-    },
-    {
-      "title": "Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee",
-      "description": "In remarks prepared for the appearance, Warsh promised a vigilant fight to return inflation to the Fed's 2% target.",
-      "url": "https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-07-14T17:26:37+00:00",
-      "category": "Global",
-      "simple_explanation": "In remarks prepared for the appearance, Warsh promised a vigilant fight to return inflation to the Fed's 2% target."
-    },
-    {
-      "title": "UK government defers capital gains on certain crypto with ‘no gain, no loss’ approach",
-      "description": "The change in tax policy, expected to effect about 700,000 people in the UK, is tied to the disposal of crypto in lending and liquidity pools.",
-      "url": "https://cointelegraph.com/news/uk-government-capital-gains-lending-liquidity-no-gain-no-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-capital-gains-tax-italy-vs-france-vs-germany.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-14T17:24:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The change in tax policy, expected to effect about 700,000 people in the UK, is tied to the disposal of crypto in lending and liquidity pools."
-    },
-    {
-      "title": "JCB signs Circle MOU to test stablecoin payments in Japan",
-      "description": "The companies will explore using USDC for JCB’s cross-border treasury operations and merchant payments in Japan as regulated stablecoin adoption gains momentum.",
-      "url": "https://cointelegraph.com/news/japans-jcb-signs-mou-with-circle-to-explore-usdc-payments-and-cross-border-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-swift.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-14T17:05:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The companies will explore using USDC for JCB’s cross-border treasury operations and merchant payments in Japan as regulated stablecoin adoption gains momentum."
-    },
-    {
-      "title": "Gold, silver prices today: Comex gold and silver rebound as softer US inflation eases Fed rate hike fears",
-      "description": "Gold and silver prices soared on 14 July due to softer US inflation and falling crude oil prices. Gold futures climbed to $4,112, while silver reached $60. Investor fears of rate hikes eased as CPI fell to 3.5%, supporting precious metals amid rising Middle East tensions.",
-      "url": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-rebound-as-softer-us-inflation-eases-fed-rate-hike-fears-11784041737126.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/14/1600x900/logo/ASIA-GOLD-DEMAND-0_1757837426384_1757837469508_1784045319232_b9ea8d99-27c5-4a07-a1d5-0f40841cef6d.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-07-14T16:48:39+00:00",
-      "category": "India",
-      "simple_explanation": "Gold and silver prices soared on 14 July due to softer US inflation and falling crude oil prices. Gold futures climbed to $4,112, while silver reached $60. Investor fears of rate hikes eased as CPI fe"
-    },
-    {
-      "title": "Fed's Warsh vows to 'do my job' if challenged by Trump",
-      "description": "Federal Reserve Chair Kevin Warsh reaffirmed his commitment to controlling inflation and maintaining the Fed’s independence despite political pressure. While US inflation eased in June, Warsh signalled no immediate rate cuts. Markets lowered expectations of near-term hikes, as his policy stance rema",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-warsh-vows-to-do-my-job-if-challenged-by-trump/articleshow/132396174.cms",
-      "image": "https://img.etimg.com/photo/msid-132396174,imgsize-80026.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-14T16:16:30+00:00",
-      "category": "India",
-      "simple_explanation": "Federal Reserve Chair Kevin Warsh reaffirmed his commitment to controlling inflation and maintaining the Fed’s independence despite political pressure. While US inflation eased in June, Warsh signalle"
-    },
-    {
-      "title": "CleanSpark Lands $6.6B AI Data Center Lease, Accelerating Shift Beyond Bitcoin Mining",
-      "description": "Cleanspark (NASDAQ:CLSK) said it has signed a 20-year triple-net lease with an unnamed high investment-grade global technology company to convert its Sandersville, Georgia, facility into a high-performance computing data center, marking a major step in the company’s shift beyond Bitcoin mining and i",
-      "url": "https://www.marketbeat.com/instant-alerts/cleanspark-lands-66b-ai-data-center-lease-accelerating-shift-beyond-bitcoin-mining-2026-07-14/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-14T16:03:30+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Cleanspark (NASDAQ:CLSK) said it has signed a 20-year triple-net lease with an unnamed high investment-grade global technology company to convert its Sandersville, Georgia, facility into a high-perfor"
     }
   ]
 }
