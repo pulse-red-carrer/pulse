@@ -1,36 +1,326 @@
 {
-  "last_updated": "2026-07-17T13:38:02.584205+00:00",
+  "last_updated": "2026-07-17T15:13:20.711791+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
-      "description": "Import prices were up 0.3% for the month, as a drop in energy was more than offset by increases elsewhere.",
-      "url": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html",
+      "title": "California's billionaire tax: What's at risk for the biggest state economy in America",
+      "description": "California's billionaire tax would generate quick revenue, but Norway's example shows the longer-term economic impact of targeting the wealthy is unclear.",
+      "url": "https://www.cnbc.com/2026/07/17/california-billionaire-tax.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-07-17T13:34:48+00:00",
+      "published_at": "2026-07-17T15:02:57+00:00",
       "category": "USA",
-      "simple_explanation": "Import prices were up 0.3% for the month, as a drop in energy was more than offset by increases elsewhere."
+      "simple_explanation": "California's billionaire tax would generate quick revenue, but Norway's example shows the longer-term economic impact of targeting the wealthy is unclear."
     },
     {
-      "title": "Iran says civilian infrastructure hit by latest U.S. strikes, expands attacks to Syria, Bahrain",
-      "description": "The escalating standoff comes as the fragile truce signed by the U.S. and Iran last month showed further signs of unravelling",
-      "url": "https://www.cnbc.com/2026/07/17/iran-war-us-trump-syria-bahrain.html",
+      "title": "Over 60 Analysts Say Buy Microsoft. Here’s Our Price Target",
+      "description": "Microsoft stock has lost nearly a fifth of its value this year while its AI business clocks a $37 billion run rate and its contracted backlog nearly doubles. Wall Street is almost unanimously bullish, but our model arrives at a very different destination than the consensus.",
+      "url": "https://247wallst.com/investing/2026/07/17/over-60-analysts-say-buy-microsoft-heres-our-price-target/?.tsrc=rss",
       "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-17T13:34:42+00:00",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T15:00:21+00:00",
       "category": "USA",
-      "simple_explanation": "The escalating standoff comes as the fragile truce signed by the U.S. and Iran last month showed further signs of unravelling"
+      "simple_explanation": "Microsoft stock has lost nearly a fifth of its value this year while its AI business clocks a $37 billion run rate and its contracted backlog nearly doubles. Wall Street is almost unanimously bullish,"
     },
     {
-      "title": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
-      "description": "The streaming giant said it would cut back on the frequency of its \"What We Watched\" reports, which provide a picture of engagement.",
-      "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+      "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
+      "description": "In a remarkable turn of events, Apple has dethroned Nvidia to reclaim its status as the world's most valuable company. This change underscores a significant recalibration of investor perspectives regarding the artificial intelligence landscape, highlighting a shift in focus. With Apple's market valu",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-unseats-nvidia-to-become-worlds-most-valuable-company-as-ai-bets-shift/articleshow/132464148.cms",
+      "image": "https://img.etimg.com/photo/msid-132464148,imgsize-123068.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-17T14:56:01+00:00",
+      "category": "India",
+      "simple_explanation": "In a remarkable turn of events, Apple has dethroned Nvidia to reclaim its status as the world's most valuable company. This change underscores a significant recalibration of investor perspectives rega"
+    },
+    {
+      "title": "Apple, Nvidia vie for title of world's most valuable company",
+      "description": "Nvidia shares have underperformed in 2026 as Wall Street shifts to companies powering the infrastructure AI buildout.",
+      "url": "https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-07-17T13:31:28+00:00",
+      "published_at": "2026-07-17T14:43:28+00:00",
       "category": "USA",
-      "simple_explanation": "The streaming giant said it would cut back on the frequency of its \"What We Watched\" reports, which provide a picture of engagement."
+      "simple_explanation": "Nvidia shares have underperformed in 2026 as Wall Street shifts to companies powering the infrastructure AI buildout."
+    },
+    {
+      "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
+      "description": "Last month, an unoccupied Zoox robotaxi drove into an active emergency fire scene that was clouded with smoke, the company said.",
+      "url": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-17T14:42:04+00:00",
+      "category": "USA",
+      "simple_explanation": "Last month, an unoccupied Zoox robotaxi drove into an active emergency fire scene that was clouded with smoke, the company said."
+    },
+    {
+      "title": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure",
+      "description": "Bitcoin saw a key rejection at local highs before reversing lower, moving with stocks for a second day as US-Iran war downside took its toll.",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/16codemonitor-bitcoin.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-17T14:37:39+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin saw a key rejection at local highs before reversing lower, moving with stocks for a second day as US-Iran war downside took its toll."
+    },
+    {
+      "title": "The Megacap Growth ETF That’s Been Beating the S&P 500 for a Decade Straight",
+      "description": "A virtually unknown megacap ETF has spent a decade quietly outperforming the S&P 500, yet most growth investors have never put it on their radar. Before you dismiss it as just another large-cap fund, consider what its extreme concentration actually reveals about where the market's real power is hidi",
+      "url": "https://247wallst.com/investing/etf/2026/07/17/the-megacap-growth-etf-thats-been-beating-the-sp-500-for-a-decade-straight/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T14:35:05+00:00",
+      "category": "USA",
+      "simple_explanation": "A virtually unknown megacap ETF has spent a decade quietly outperforming the S&P 500, yet most growth investors have never put it on their radar. Before you dismiss it as just another large-cap fund, "
+    },
+    {
+      "title": "Whirlpool Corp. Recognized for Sustainability Leadership in Dow Jones Best-in-Class Indices and S&P Global Sustainability Yearbook",
+      "description": "NORTHAMPTON, MA / ACCESS Newswire / July 17, 2026 / Whirlpool Corporation has once again been recognized for its long-standing commitment to corporate responsibility, earning a position on the Dow Jones Best-in-Class Indices (formerly DJSI). This ...",
+      "url": "https://finance.yahoo.com/media-advertising/articles/whirlpool-corp-recognized-sustainability-leadership-143000834.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T14:30:00+00:00",
+      "category": "USA",
+      "simple_explanation": "NORTHAMPTON, MA / ACCESS Newswire / July 17, 2026 / Whirlpool Corporation has once again been recognized for its long-standing commitment to corporate responsibility, earning a position on the Dow Jon"
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing (TSM): A Beneficiary of AI Boom",
+      "description": "Wedgewood Partners, an investment management company, released its first-quarter 2026 investor letter. A copy of the letter can be downloaded here. Wedgewood Composite delivered a net return of 9.4% in the second quarter compared to 15.2% for the Standard & Poor’s 500 Index, 16.7% for the Russell 10",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-beneficiary-141959698.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T14:19:59+00:00",
+      "category": "USA",
+      "simple_explanation": "Wedgewood Partners, an investment management company, released its first-quarter 2026 investor letter. A copy of the letter can be downloaded here. Wedgewood Composite delivered a net return of 9.4% i"
+    },
+    {
+      "title": "Zepto IPO anchor book nears closure; Norges, Motilal Oswal may take 40-45%",
+      "description": "In a notable financial move, major investors like Norges and Motilal Oswal are expressing a keen interest in Zepto's upcoming initial public offering, which is valued at approximately Rs 11,000 crore. The anchor book is approaching its closure, with these investors poised to capture a substantial sh",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/zepto-ipo-anchor-book-nears-closure-norges-motilal-oswal-may-take-40-45-pc/articleshow/132463512.cms",
+      "image": "https://img.etimg.com/photo/msid-132463512,imgsize-50780.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-17T14:19:33+00:00",
+      "category": "India",
+      "simple_explanation": "In a notable financial move, major investors like Norges and Motilal Oswal are expressing a keen interest in Zepto's upcoming initial public offering, which is valued at approximately Rs 11,000 crore."
+    },
+    {
+      "title": "United Rentals (URI) Rose on Robust Nonresidential Construction End Markets",
+      "description": "Wedgewood Partners, an investment management company, released its first-quarter 2026 investor letter. A copy of the letter can be downloaded here. Wedgewood Composite delivered a net return of 9.4% in the second quarter compared to 15.2% for the Standard & Poor’s 500 Index, 16.7% for the Russell 10",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/united-rentals-uri-rose-robust-141810501.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T14:18:10+00:00",
+      "category": "USA",
+      "simple_explanation": "Wedgewood Partners, an investment management company, released its first-quarter 2026 investor letter. A copy of the letter can be downloaded here. Wedgewood Composite delivered a net return of 9.4% i"
+    },
+    {
+      "title": "Pulse of the Street: Earnings sentiment rescues volatile week; real test ahead",
+      "description": "The 30-share Sensex rose 0.75% for the week, while the broader Nifty 50 gained 0.53%, with most of the gains coming on Friday. The Nifty jumped 1.1% to close at 24,334.30, while the Sensex advanced 1.25% to settle at 78,151.44, its highest closing level since 12 June 2026.",
+      "url": "https://www.livemint.com/market/earnings-sentiment-rescues-volatile-stock-market-week-real-test-ahead-11784291623956.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/17/1600x900/logo/INDIA-BSE-10_1718252822146_1784297725333_c19d1abd-befd-4c82-abd3-8f674503877c.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-17T14:18:01+00:00",
+      "category": "India",
+      "simple_explanation": "The 30-share Sensex rose 0.75% for the week, while the broader Nifty 50 gained 0.53%, with most of the gains coming on Friday. The Nifty jumped 1.1% to close at 24,334.30, while the Sensex advanced 1."
+    },
+    {
+      "title": "22% Growth in iPhone Powers Apple’s (AAPL) Rally",
+      "description": "Wedgewood Partners, an investment management company, released its first-quarter 2026 investor letter. A copy of the letter can be downloaded here. Wedgewood Composite delivered a net return of 9.4% in the second quarter compared to 15.2% for the Standard & Poor’s 500 Index, 16.7% for the Russell 10",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/22-growth-iphone-powers-apple-141636256.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T14:16:36+00:00",
+      "category": "USA",
+      "simple_explanation": "Wedgewood Partners, an investment management company, released its first-quarter 2026 investor letter. A copy of the letter can be downloaded here. Wedgewood Composite delivered a net return of 9.4% i"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Sinks Amid Tech Rout; Robotic Surgery Name Tumbles (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index dropped Friday as Netflix stock plunged on earnings. SpaceX shares sold off on a canceled test flight.",
+      "url": "https://finance.yahoo.com/m/321db8d1-ca56-378a-a99c-0f73b9c90d9b/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T14:16:30+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index dropped Friday as Netflix stock plunged on earnings. SpaceX shares sold off on a canceled test flight."
+    },
+    {
+      "title": "Nasdaq drops 1% after China’s latest AI breakthrough rattles tech stocks",
+      "description": "Stocks in Asia and the United States fell Friday after technological advances announced by a Chinese artificial intelligence company intensified concerns that the AI spending spree driving this year’s market rally could be at risk.",
+      "url": "https://www.cnn.com/2026/07/17/investing/us-stocks-asia?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T14:15:33+00:00",
+      "category": "USA",
+      "simple_explanation": "Stocks in Asia and the United States fell Friday after technological advances announced by a Chinese artificial intelligence company intensified concerns that the AI spending spree driving this year’s"
+    },
+    {
+      "title": "Reliance Retail Q1 results: Quick-commerce spends drag PAT 14% YoY to Rs 2,806 crore; revenue rises 7%",
+      "description": "Reliance Retail Q1 Results:  Reliance Retail reported a 7.4% YoY rise in Q1 FY27 revenue to Rs 90,408 crore, while profit fell 14.2% as quick commerce investments weighed on earnings. The company outlined a three-year plan to double operating EBITDA by expanding JioMart, scaling digital commerce, im",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q1-results-pat-drops-14-yoy-to-rs-2806-crore-due-to-quick-commerce-spends-revenue-up-7-4-yoy/articleshow/132462433.cms",
+      "image": "https://img.etimg.com/photo/msid-132462433,imgsize-2428160.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-17T14:11:40+00:00",
+      "category": "India",
+      "simple_explanation": "Reliance Retail Q1 Results:  Reliance Retail reported a 7.4% YoY rise in Q1 FY27 revenue to Rs 90,408 crore, while profit fell 14.2% as quick commerce investments weighed on earnings. The company outl"
+    },
+    {
+      "title": "Apple overtakes Nvidia as world's most valuable company amid chip selloff",
+      "description": "Nvidia lost its title as the world's most valuable company to Apple after a selloff in semiconductor stocks. Nvidia shares fell 3.7%, while Apple's rose 0.4%, raising its market cap to $4.9 trillion amidst concerns over emerging AI competition from Chinese startups.",
+      "url": "https://www.livemint.com/market/stock-market-news/nvidia-drops-below-apple-as-top-valued-company-on-chip-selloff-11784297104631.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/17/1600x900/logo/APPLE-CHINA-AI-0_1784116890041_1784116905816_4f142bac-f592-466b-989e-330ed0580b77_1784298294593_4565de2e-231a-49e4-880c-d137588ccc27.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-07-17T14:06:59+00:00",
+      "category": "India",
+      "simple_explanation": "Nvidia lost its title as the world's most valuable company to Apple after a selloff in semiconductor stocks. Nvidia shares fell 3.7%, while Apple's rose 0.4%, raising its market cap to $4.9 trillion a"
+    },
+    {
+      "title": "Vista Energy Q2 Earnings Call Highlights",
+      "description": "Vista Energy (NYSE:VIST) reported a sharp increase in second-quarter 2026 revenue, adjusted EBITDA and free cash flow, as higher oil prices and the consolidation of newly acquired Vaca Muerta assets lifted production and cash generation. Chairman and CEO Miguel Galuccio said the quarter was “marked",
+      "url": "https://www.marketbeat.com/instant-alerts/vista-energy-q2-earnings-call-highlights-2026-07-17/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T14:05:16+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Vista Energy (NYSE:VIST) reported a sharp increase in second-quarter 2026 revenue, adjusted EBITDA and free cash flow, as higher oil prices and the consolidation of newly acquired Vaca Muerta assets l"
+    },
+    {
+      "title": "Chinese automakers are taking on the UK — and many Brits are embracing it",
+      "description": "The surge comes as China's auto exports have boomed in recent years as the country's appetite for new models has cooled.",
+      "url": "https://www.cnbc.com/2026/07/17/chinese-automakers-uk.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-17T14:04:19+00:00",
+      "category": "USA",
+      "simple_explanation": "The surge comes as China's auto exports have boomed in recent years as the country's appetite for new models has cooled."
+    },
+    {
+      "title": "Gold Falls to an Eight-Month Low as Rising Oil Prices Revive Inflation Worries",
+      "description": "Gold traded at an eight-month low early on Friday as higher oil prices following renewed fighting be",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-eight-month-low-140003743.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T14:00:03+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold traded at an eight-month low early on Friday as higher oil prices following renewed fighting be"
+    },
+    {
+      "title": "Wall Street falls on deepening selloff in chip stocks, Netflix slumps10.6%, Nvidia tumbles 4%",
+      "description": "As of 10 a.m. Eastern Time, the S&amp;P 500 dropped 0.8%, the Dow Jones Industrial Average was down 0.1%, and the Nasdaq Composite was 1.7% lower",
+      "url": "https://www.livemint.com/market/stock-market-news/wall-street-falls-on-deepening-selloff-in-chip-stocks-netflix-slumps-11784295818738.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/17/1600x900/STANDARD-NUCLEAR-IPO--9_1784295881120_1784295910641_c3b0390f-b4e5-49c3-b0cf-a1b94ad2b4d1.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-07-17T14:00:02+00:00",
+      "category": "India",
+      "simple_explanation": "As of 10 a.m. Eastern Time, the S&amp;P 500 dropped 0.8%, the Dow Jones Industrial Average was down 0.1%, and the Nasdaq Composite was 1.7% lower"
+    },
+    {
+      "title": "Reliance Jio Q1 Results: IPO-bound telco’s net profit rises 9% YoY to Rs 7,764 crore; ARPU climbs to Rs 215.6",
+      "description": "Reliance Jio Q1 Results: Jio Platforms reported a 9% YoY rise in Q1 FY27 net profit to Rs 7,764 crore, supported by higher ARPU, subscriber additions and digital services growth. The IPO-bound telecom major also highlighted its expanding broadband business and deep-tech focus as it prepares for a la",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-jio-q1-results-ipo-bound-telcos-net-profit-rises-9-yoy-to-rs-7764-crore-arpu-climbs-to-rs-215-6/articleshow/132462455.cms",
+      "image": "https://img.etimg.com/photo/msid-132462455,imgsize-2131141.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-17T13:58:25+00:00",
+      "category": "India",
+      "simple_explanation": "Reliance Jio Q1 Results: Jio Platforms reported a 9% YoY rise in Q1 FY27 net profit to Rs 7,764 crore, supported by higher ARPU, subscriber additions and digital services growth. The IPO-bound telecom"
+    },
+    {
+      "title": "HSBC wins Bank of England approval to enter Digital Securities Sandbox",
+      "description": "The Bank of England approved HSBC Orion to go live in its Digital Securities Sandbox, with the first Digital Gilt Instrument transaction expected in the first quarter of 2027.",
+      "url": "https://cointelegraph.com/news/hsbc-bank-of-england-approval-digital-securities-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-world-bank-blockchain-initiatives-hsbc.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-17T13:54:27+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Bank of England approved HSBC Orion to go live in its Digital Securities Sandbox, with the first Digital Gilt Instrument transaction expected in the first quarter of 2027."
+    },
+    {
+      "title": "AST SpaceMobile Stock Is Cheap Enough to Buy",
+      "description": "B. Riley analyst Mike Crawford upgraded AST SpaceMobile stock to Buy from Hold. His price target remained at $85 per share.",
+      "url": "https://finance.yahoo.com/m/8ac76f41-2518-39bb-aa71-dbd7b93a85fb/ast-spacemobile-stock-is.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T13:54:00+00:00",
+      "category": "USA",
+      "simple_explanation": "B. Riley analyst Mike Crawford upgraded AST SpaceMobile stock to Buy from Hold. His price target remained at $85 per share."
+    },
+    {
+      "title": "SpaceX Stock Hits Record Low After Starship Problem. Short Sellers Pile On.",
+      "description": "SpaceX  investors can’t catch a break.  Shares of Elon Musk’s rocket and AI company were down in premarket trading on Friday after the company scrubbed the thirteenth test of Starship.  Musk said some of the engines didn’t start, triggering an automatic abort.",
+      "url": "https://finance.yahoo.com/m/36e2680f-0d89-324c-9d57-fa1662ee8638/spacex-stock-hits-record-low.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T13:52:00+00:00",
+      "category": "USA",
+      "simple_explanation": "SpaceX  investors can’t catch a break.  Shares of Elon Musk’s rocket and AI company were down in premarket trading on Friday after the company scrubbed the thirteenth test of Starship.  Musk said some"
+    },
+    {
+      "title": "SBI Capital Markets, HDFC Bank among 4 book runners appointed for NLC India Renewables IPO",
+      "description": "NLC India Renewables has engaged four investment banks to facilitate its much-anticipated initial public offering. This IPO is designed to enhance the company's capital structure, fueling its ambitious growth objectives. The firm aims to broaden its renewable energy initiatives and align with nation",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-capital-markets-hdfc-bank-among-4-book-runners-appointed-for-nlc-india-renewables-ipo/articleshow/132462911.cms",
+      "image": "https://img.etimg.com/photo/msid-132462911,imgsize-50108.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-17T13:47:02+00:00",
+      "category": "India",
+      "simple_explanation": "NLC India Renewables has engaged four investment banks to facilitate its much-anticipated initial public offering. This IPO is designed to enhance the company's capital structure, fueling its ambitiou"
+    },
+    {
+      "title": "Stocks slide, oil prices jump as tech, Mideast war in focus",
+      "description": "Tokyo and Taipei stock markets led a fresh selloff for technology shares Friday, as concerns that the sector had been overbought in recent months intensified.\"The technology selloff is not the only reason markets are in a sour mood,\" noted Ipek Ozkardeskaya, senior analyst at Swissquote bank.",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/tokyo-taipei-lead-tech-losses-022548774.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T13:46:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Tokyo and Taipei stock markets led a fresh selloff for technology shares Friday, as concerns that the sector had been overbought in recent months intensified.\"The technology selloff is not the only re"
+    },
+    {
+      "title": "Reliance Q1 results: Profit falls 22%, margin shrinks 210 bps YoY - 5 key highlights from RIL Q1FY27 earnings",
+      "description": "Reliance Q1 results: Consolidated profit declined 22.40% YoY to  ₹20,946 crore. Sequentially, RIL's Q1FY27 profit rose by 23.42%. RIL's revenue from operations for the June quarter of FY27 rose by 25.41% YoY and 4.43% QoQ to  ₹3,11,850 crore.",
+      "url": "https://www.livemint.com/market/stock-market-news/reliance-q1-results-2026-key-takeaways-profit-revenue-margin-new-energy-updates-reliance-jio-reliance-retail-11784289960993.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/17/1600x900/logo/2-0-1321406577-RIL-0_1679976786472_1784291995040_7c489b10-fc0e-4a17-8afb-3b6dae950297.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-17T13:45:45+00:00",
+      "category": "India",
+      "simple_explanation": "Reliance Q1 results: Consolidated profit declined 22.40% YoY to  ₹20,946 crore. Sequentially, RIL's Q1FY27 profit rose by 23.42%. RIL's revenue from operations for the June quarter of FY27 rose by 25."
+    },
+    {
+      "title": "India's gold jewellery demand revives as prices stabilise; festive orders pick up: WGC",
+      "description": "India's gold jewellery demand is showing signs of recovery as stable prices and retailer discounts draw consumers back to stores, the World Gold Council said. Festive season orders have begun picking up, while gold ETF inflows and digital gold purchases also rebounded despite weaker demand for bars ",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/indias-gold-jewellery-demand-revives-as-prices-stabilise-festive-orders-pick-up-wgc/articleshow/132462896.cms",
+      "image": "https://img.etimg.com/photo/msid-132462896,imgsize-261224.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-17T13:44:49+00:00",
+      "category": "India",
+      "simple_explanation": "India's gold jewellery demand is showing signs of recovery as stable prices and retailer discounts draw consumers back to stores, the World Gold Council said. Festive season orders have begun picking "
+    },
+    {
+      "title": "RIL Q1 Results: Revenue up 25% YoY; profit falls 22% to Rs 20,946 cr due to one-time exceptional item",
+      "description": "RIL Q1 Results: Reliance Industries reported a 22% year-on-year decline in Q1FY27 consolidated net profit to Rs 20,946 crore, impacted by a one-time exceptional gain from the Asian Paints stake sale in the year-ago quarter. Revenue from operations rose 25% to Rs 3.11 lakh crore, while EBITDA increas",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q1-results-profit-falls-22-yoy-to-rs-20946-crore-due-to-one-time-exceptional-item/articleshow/132462892.cms",
+      "image": "https://img.etimg.com/photo/msid-132462892,imgsize-2459298.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-17T13:44:38+00:00",
+      "category": "India",
+      "simple_explanation": "RIL Q1 Results: Reliance Industries reported a 22% year-on-year decline in Q1FY27 consolidated net profit to Rs 20,946 crore, impacted by a one-time exceptional gain from the Asian Paints stake sale i"
+    },
+    {
+      "title": "J&K Bank sells 0.5% stake in PNB MetLife for Rs 120 crore",
+      "description": "Jammu and Kashmir Bank has sold a 0.5% stake in PNB MetLife India Insurance to MetLife International Holdings for Rs 120 crore. The transaction reduces the bank’s holding to 2.5% without changing control of the life insurance company.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jk-bank-sells-0-5-stake-in-pnb-metlife-for-rs-120-crore/articleshow/132462829.cms",
+      "image": "https://img.etimg.com/photo/msid-132462829,imgsize-337746.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-17T13:42:59+00:00",
+      "category": "India",
+      "simple_explanation": "Jammu and Kashmir Bank has sold a 0.5% stake in PNB MetLife India Insurance to MetLife International Holdings for Rs 120 crore. The transaction reduces the bank’s holding to 2.5% without changing cont"
+    },
+    {
+      "title": "Merck Reportedly Goes To Bat In Takeover Battle. Genomics Stock Flies.",
+      "description": "Personalis stock popped Friday on a rumor Merck and at least two other suitors are trying to buy the small genomics company.",
+      "url": "https://finance.yahoo.com/m/d7c0253b-1685-358a-b577-2367e5a71a78/merck-reportedly-goes-to-bat.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T13:41:13+00:00",
+      "category": "USA",
+      "simple_explanation": "Personalis stock popped Friday on a rumor Merck and at least two other suitors are trying to buy the small genomics company."
     },
     {
       "title": "3 EV Stocks Worth the Risk to Buy in July",
@@ -43,6 +333,26 @@
       "simple_explanation": "Oil swings, dilution fears, and stretched valuations make the EV trade brutal right now, yet three stocks carry a rare set of catalysts that could reward investors who time the entry correctly."
     },
     {
+      "title": "Price Prediction: MicroStrategy Has 260% Upside as Bitcoin Adoption Accelerates",
+      "description": "Wall Street analysts are nearly unanimous on MicroStrategy, yet the stock sits near a 52-week low while carrying billions in debt and a balance sheet dominated by a single volatile asset. Here is what the math actually says about where this trade goes from here.",
+      "url": "https://247wallst.com/investing/2026/07/17/price-prediction-microstrategy-has-260-upside-as-bitcoin-adoption-accelerates/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T13:30:25+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Wall Street analysts are nearly unanimous on MicroStrategy, yet the stock sits near a 52-week low while carrying billions in debt and a balance sheet dominated by a single volatile asset. Here is what"
+    },
+    {
+      "title": "SBI acquires Singaporean crypto platform Coinhako after MAS approval",
+      "description": "SBI Holdings received regulatory approval to acquire a majority stake in Singapore-based crypto exchange Coinhako as it expands into stablecoins, onchain finance and tokenized assets.",
+      "url": "https://cointelegraph.com/news/sbi-receives-mas-approval-to-acquire-singaporean-coinhako?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sbi-virtual-currencies-the-bank-backed-japanese-exchange-with-big-plans.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-17T13:30:20+00:00",
+      "category": "Crypto",
+      "simple_explanation": "SBI Holdings received regulatory approval to acquire a majority stake in Singapore-based crypto exchange Coinhako as it expands into stablecoins, onchain finance and tokenized assets."
+    },
+    {
       "title": "Could The Stock Market Crash This Summer? – 6 Moves For Boomer Investors to Do Now",
       "description": "Market veterans have watched this setup before, and it never ended well for investors who ignored the warning signs. Boomers with decades of hard-won wealth now face a set of converging risks that demand action before the window closes.",
       "url": "https://247wallst.com/investing/2026/07/17/could-the-stock-market-crash-this-summer-6-moves-for-boomer-investors-to-do-now/?.tsrc=rss",
@@ -51,6 +361,26 @@
       "published_at": "2026-07-17T13:30:12+00:00",
       "category": "Commodities",
       "simple_explanation": "Market veterans have watched this setup before, and it never ended well for investors who ignored the warning signs. Boomers with decades of hard-won wealth now face a set of converging risks that dem"
+    },
+    {
+      "title": "The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why",
+      "description": "Kraken, Bitstamp, 1inch and Bitfinex have all set up shop in the British Virgin Islands — but you might find it tricky to book an on-site meeting with one of their executives.",
+      "url": "https://cointelegraph.com/magazine/why-is-the-british-virgin-islands-becoming-a-legal-home-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-why-crypto-companies-are-flocking-to-bvi-or-similar.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-17T13:30:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Kraken, Bitstamp, 1inch and Bitfinex have all set up shop in the British Virgin Islands — but you might find it tricky to book an on-site meeting with one of their executives."
+    },
+    {
+      "title": "5 Top Stocks With Relative Price Strength to Buy Right Now",
+      "description": "JBHT, PGNY, BSET, VSXY and PARR stand out for relative price strength, positive estimate revisions and solid fundamentals amid market uncertainty.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-top-stocks-relative-price-132800062.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T13:28:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "JBHT, PGNY, BSET, VSXY and PARR stand out for relative price strength, positive estimate revisions and solid fundamentals amid market uncertainty."
     },
     {
       "title": "Reliance Industries promoters raise stake during Q1FY26. Check details",
@@ -63,26 +393,6 @@
       "simple_explanation": "Promoters of Reliance Industries increased their stake to 50.5% by June, the highest in over three years. Mutual funds also raised their holding to 10.11%. Analysts anticipate strong financial results"
     },
     {
-      "title": "Wall Street banks are having their best trading year since 2009. Does that mean a crash is coming?",
-      "description": "Wall Street banks are on track for record trading revenue, driven by AI investing, dealmaking and active markets rather than crisis conditions. While profits remain strong, analysts caution that crowded AI trades, rising volatility and inflation risks could challenge markets later in 2026.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-banks-are-having-their-best-trading-year-since-2009-does-that-mean-a-crash-is-coming/articleshow/132462445.cms",
-      "image": "https://img.etimg.com/photo/msid-132462445,imgsize-32448.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-17T13:21:55+00:00",
-      "category": "India",
-      "simple_explanation": "Wall Street banks are on track for record trading revenue, driven by AI investing, dealmaking and active markets rather than crisis conditions. While profits remain strong, analysts caution that crowd"
-    },
-    {
-      "title": "2 S&P 500 Stocks on Our Watchlist and 1 Facing Headwinds",
-      "description": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-watchlist-132146223.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T13:21:46+00:00",
-      "category": "USA",
-      "simple_explanation": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headw"
-    },
-    {
       "title": "Caliber Mining and Logistics IPO: Issue received a solid response on Day 01, booked 1.3 times",
       "description": "Caliber Mining and Logistics' IPO showed strong initial demand, with bids for 96.54 lakh shares against 74.29 lakh shares offered. The IPO, set at  ₹402-424, will close on July 21. Grey market premium indicates a potential listing price of  ₹529, 38% above the issue price.",
       "url": "https://www.livemint.com/market/caliber-mining-and-logistics-ipo-issue-received-a-solid-response-on-day-01-booked-1-3-times-11784290858915.html",
@@ -91,316 +401,6 @@
       "published_at": "2026-07-17T13:19:01+00:00",
       "category": "India",
       "simple_explanation": "Caliber Mining and Logistics' IPO showed strong initial demand, with bids for 96.54 lakh shares against 74.29 lakh shares offered. The IPO, set at  ₹402-424, will close on July 21. Grey market premium"
-    },
-    {
-      "title": "Oracle's stock crash looks embarrassing for billionaire founder Larry Ellison",
-      "description": "Oracle stock has sunk to the ocean floor, and it's unclear what will bring it back afloat.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/oracles-stock-crash-looks-embarrassing-for-billionaire-founder-larry-ellison-131809503.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T13:18:09+00:00",
-      "category": "USA",
-      "simple_explanation": "Oracle stock has sunk to the ocean floor, and it's unclear what will bring it back afloat."
-    },
-    {
-      "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
-      "description": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.",
-      "url": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-17T13:12:11+00:00",
-      "category": "USA",
-      "simple_explanation": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks."
-    },
-    {
-      "title": "Societe Generale sees broadening rally favoring equal-weight strategy in 2H26",
-      "description": "Investing.com -- Societe Generale told clients in a note Friday that market leadership has rotated from Materials and Staples earlier this year toward Energy, Technology and Healthcare, with the firm maintaining a preference for equal-weight exposure as the broadening trade continues into the second",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/societe-generale-sees-broadening-rally-131048821.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T13:10:48+00:00",
-      "category": "USA",
-      "simple_explanation": "Investing.com -- Societe Generale told clients in a note Friday that market leadership has rotated from Materials and Staples earlier this year toward Energy, Technology and Healthcare, with the firm "
-    },
-    {
-      "title": "Oil Rises as Fresh Middle East Fighting Keeps the Strait of Hormuz Closed",
-      "description": "Oil traded higher early on Friday as fresh fighting between the US and Iran kept the Strait of Hormu",
-      "url": "https://finance.yahoo.com/energy/articles/oil-rises-fresh-middle-east-130718974.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T13:07:18+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil traded higher early on Friday as fresh fighting between the US and Iran kept the Strait of Hormu"
-    },
-    {
-      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday as Investors Retreat From Chipmaker Stocks",
-      "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.7%, and the actively t",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-130030829.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T13:00:30+00:00",
-      "category": "USA",
-      "simple_explanation": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.7%, and the actively t"
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Friday, July 17, 2026: Prices ease as conflict in Iran escalates",
-      "description": "Bitcoin opened at $63,788.52 on Friday, July 17, 2026, down 1.4% from Thursday's opening price. Ethereum opened at $1,863.16 on Friday, July 17, 2026, down 2.8% from Thursday's opening price.",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-july-17-2026-prices-ease-as-conflict-in-iran-escalates-125602208.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T12:56:02+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Bitcoin opened at $63,788.52 on Friday, July 17, 2026, down 1.4% from Thursday's opening price. Ethereum opened at $1,863.16 on Friday, July 17, 2026, down 2.8% from Thursday's opening price."
-    },
-    {
-      "title": "Update: US Equity Futures Drop as AI Concerns Weigh on Tech Stocks, Middle East Conflict Continues",
-      "description": "US equity futures were edging lower pre-bell Friday as concerns over artificial intelligence spendin",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-drop-ai-125222588.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T12:52:22+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity futures were edging lower pre-bell Friday as concerns over artificial intelligence spendin"
-    },
-    {
-      "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
-      "description": "The public is as depressed about the economy as it has been since the years just after the pandemic, according to the All-America Economic Survey.",
-      "url": "https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-17T12:50:35+00:00",
-      "category": "USA",
-      "simple_explanation": "The public is as depressed about the economy as it has been since the years just after the pandemic, according to the All-America Economic Survey."
-    },
-    {
-      "title": "Stock Market Today: Dow Slides As Netflix Plunges On Earnings; SpaceX Slides After Canceled Flight (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index dropped Friday as Netflix stock plunged on earnings. SpaceX shares sold off on a canceled test flight.",
-      "url": "https://finance.yahoo.com/m/321db8d1-ca56-378a-a99c-0f73b9c90d9b/stock-market-today%3A-dow.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T12:50:17+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index dropped Friday as Netflix stock plunged on earnings. SpaceX shares sold off on a canceled test flight."
-    },
-    {
-      "title": "MakeMyTrip India files confidential IPO DRHP with Sebi. Check details",
-      "description": "MakeMyTrip has stealthily submitted documents for its Indian subsidiary's IPO, marking a significant step in expanding its market presence. The planned offering includes equity shares in MakeMyTrip India Ltd. By doing so, the company aims to boost brand recognition and motivate talent within the sub",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrip-files-ipo-papers-with-sebi-via-confidential-route/articleshow/132461790.cms",
-      "image": "https://img.etimg.com/photo/msid-132461790,imgsize-477770.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-17T12:39:26+00:00",
-      "category": "India",
-      "simple_explanation": "MakeMyTrip has stealthily submitted documents for its Indian subsidiary's IPO, marking a significant step in expanding its market presence. The planned offering includes equity shares in MakeMyTrip In"
-    },
-    {
-      "title": "Sebi warns listed firms, regulated entities against rising 'Boss Scam' cyber fraud",
-      "description": "Sebi has issued a warning to all regulated entities regarding a rising cyber fraud known as the 'Boss Scam'. In this scheme, fraudsters masquerade as senior executives to deceive finance teams into executing fund transfers. The scam employs various channels such as email, WhatsApp, and even sophisti",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-warns-listed-firms-regulated-entities-against-rising-boss-scam-cyber-fraud/articleshow/132461763.cms",
-      "image": "https://img.etimg.com/photo/msid-132461763,imgsize-55652.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-17T12:36:32+00:00",
-      "category": "India",
-      "simple_explanation": "Sebi has issued a warning to all regulated entities regarding a rising cyber fraud known as the 'Boss Scam'. In this scheme, fraudsters masquerade as senior executives to deceive finance teams into ex"
-    },
-    {
-      "title": "Quote of the day by Joel Tillinghast: \"People who have had success in other parts of their lives have difficulty accepting how much failure there is in the stock market\"",
-      "description": "Joel Tillinghast notes successful individuals struggle with stock market losses.  The stock market involves uncertainty, economic cycles, and investor sentiment.  Even experienced investors face setbacks and must learn from mistakes.  Retail investors should embrace patience and diversification for ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-joel-tillinghast-people-who-have-had-success-in-other-parts-of-their-lives-have-difficulty-accepting-how-much-failure-there-is-in-the-stock-market/articleshow/132459228.cms",
-      "image": "https://img.etimg.com/photo/msid-132459228,imgsize-38140.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-17T12:36:31+00:00",
-      "category": "India",
-      "simple_explanation": "Joel Tillinghast notes successful individuals struggle with stock market losses.  The stock market involves uncertainty, economic cycles, and investor sentiment.  Even experienced investors face setba"
-    },
-    {
-      "title": "Netflix, Intuitive Surgical tumble premarket",
-      "description": "Investing.com - U.S. stock index futures fell sharply on Friday, pointing to a second straight day of losses on Wall Street as investors continued to reassess lofty technology valuations following a string of disappointing corporate updates tied to artificial intelligence spending.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-intuitive-surgical-tumble-premarket-123416601.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T12:34:16+00:00",
-      "category": "USA",
-      "simple_explanation": "Investing.com - U.S. stock index futures fell sharply on Friday, pointing to a second straight day of losses on Wall Street as investors continued to reassess lofty technology valuations following a s"
-    },
-    {
-      "title": "Tata Technologies Q1 Results: Profit rises 6% to Rs 180 crore",
-      "description": "Tata Technologies has achieved an impressive 6.2 percent increase in profits for the June quarter, alongside a notable rise in consolidated revenues year-over-year. A strategic partnership worth USD 100 million with Tenneco showcases the company's dynamic approach. Furthermore, a leading Japanese au",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-technologies-q1-results-profit-rises-6-to-rs-180-crore/articleshow/132461624.cms",
-      "image": "https://img.etimg.com/photo/msid-132461624,imgsize-300358.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-17T12:31:38+00:00",
-      "category": "India",
-      "simple_explanation": "Tata Technologies has achieved an impressive 6.2 percent increase in profits for the June quarter, alongside a notable rise in consolidated revenues year-over-year. A strategic partnership worth USD 1"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-17T12:30:36+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "India bonds sink on oil spike, index-entry uncertainty",
-      "description": "On Friday, Indian government bonds underwent a notable drop, with benchmark yields marking the steepest weekly rise in the past eight weeks. The surge in oil prices and concerns over index inclusion led traders to exercise caution, reducing their risk exposure as they approached the weekend. This tr",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-sink-on-oil-spike-index-entry-uncertainty/articleshow/132461489.cms",
-      "image": "https://img.etimg.com/photo/msid-132461489,imgsize-97378.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-17T12:29:06+00:00",
-      "category": "India",
-      "simple_explanation": "On Friday, Indian government bonds underwent a notable drop, with benchmark yields marking the steepest weekly rise in the past eight weeks. The surge in oil prices and concerns over index inclusion l"
-    },
-    {
-      "title": "Silver prices today, Friday, July 17, 2026: Silver prices hit 8-month lows as airstrikes continue across Iran",
-      "description": "Silver opened at $55.83 per ounce on Friday, July 17, 2026, down 0.6% from Thursday's closing price. The silver price moved lower this morning, reaching $55.58 as of 8:13 a.m. ET.",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-july-17-2026-silver-prices-hit-8-month-lows-as-airstrikes-continue-across-iran-122717751.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T12:27:17+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Silver opened at $55.83 per ounce on Friday, July 17, 2026, down 0.6% from Thursday's closing price. The silver price moved lower this morning, reaching $55.58 as of 8:13 a.m. ET."
-    },
-    {
-      "title": "Dutch court declares crypto platform Knaken bankrupt over missing funds",
-      "description": "The Rotterdam court said bankruptcy was necessary to ensure an orderly settlement because the company lacked enough assets to fully repay users.",
-      "url": "https://cointelegraph.com/news/dutch-court-knaken-crypto-platform-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/man-documents-breaking-news.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-17T12:21:55+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The Rotterdam court said bankruptcy was necessary to ensure an orderly settlement because the company lacked enough assets to fully repay users."
-    },
-    {
-      "title": "Gold prices today, Friday, July 17, 2026: Gold nosedives to Nov. '25 levels as Iran airstrikes intensify",
-      "description": "Gold opened at $3,980.10 per troy ounce on Friday, July 17, 2026, down 0.3% from Thursday's closing price. The gold price moved slightly higher this morning to $3,998.10 at 8:02 a.m. ET.",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-17-2026-gold-nosedives-to-nov-25-levels-as-iran-airstrikes-intensify-121125037.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T12:11:25+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold opened at $3,980.10 per troy ounce on Friday, July 17, 2026, down 0.3% from Thursday's closing price. The gold price moved slightly higher this morning to $3,998.10 at 8:02 a.m. ET."
-    },
-    {
-      "title": "How MicroStrategy Lost Reddit’s Retail Investors in Weeks",
-      "description": "Strategy's Reddit fanbase turned from true believers into brutal critics in a matter of weeks, and the chain of events that triggered the collapse reveals just how fragile the leveraged bitcoin treasury model always was.",
-      "url": "https://247wallst.com/investing/2026/07/17/how-microstrategy-lost-reddits-retail-investors-in-weeks/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T12:10:40+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Strategy's Reddit fanbase turned from true believers into brutal critics in a matter of weeks, and the chain of events that triggered the collapse reveals just how fragile the leveraged bitcoin treasu"
-    },
-    {
-      "title": "Homebuyer affordability slipped for fifth straight month, real estate index shows",
-      "description": "With both home prices and mortgage rates climbing since earlier this year, affording a home has become harder, according to a housing affordability index.",
-      "url": "https://www.cnbc.com/2026/07/17/homebuyer-affordability.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-17T12:08:53+00:00",
-      "category": "USA",
-      "simple_explanation": "With both home prices and mortgage rates climbing since earlier this year, affording a home has become harder, according to a housing affordability index."
-    },
-    {
-      "title": "Dow Jones Futures Fall As Netflix Dives, SpaceX Scrubs Launch; AI Stocks Try To Halt Sell-Off",
-      "description": "Futures are falling as Netflix dives and SpaceX scrubbed a Starship launch. AI stocks such as Sandisk tried to make a stand before the open.",
-      "url": "https://finance.yahoo.com/m/b5c1ad7a-e72b-3a9b-bb20-11f0979acb67/dow-jones-futures-fall-as.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T12:05:16+00:00",
-      "category": "USA",
-      "simple_explanation": "Futures are falling as Netflix dives and SpaceX scrubbed a Starship launch. AI stocks such as Sandisk tried to make a stand before the open."
-    },
-    {
-      "title": "Stablecoin growth will erode bank deposits, says ECB’s Cipollone",
-      "description": "ECB’s Piero Cipollone said stablecoin adoption could erode bank deposits, but the digital euro will keep banks at the center of payments.",
-      "url": "https://cointelegraph.com/news/stablecoin-growth-bank-deposits-ecbs-cipollone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-17T12:03:51+00:00",
-      "category": "Crypto",
-      "simple_explanation": "ECB’s Piero Cipollone said stablecoin adoption could erode bank deposits, but the digital euro will keep banks at the center of payments."
-    },
-    {
-      "title": "5 Things to Know Before the Stock Market Opens on Friday",
-      "description": "News of the Day for July 17, 2026",
-      "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-friday-july-17-2026-12021320?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T12:03:50+00:00",
-      "category": "USA",
-      "simple_explanation": "News of the Day for July 17, 2026"
-    },
-    {
-      "title": "Goldman sees central bank demand providing a floor for gold prices",
-      "description": "Investing.com -- Goldman Sachs told clients in a note on Friday that strong central bank gold purchases in May are likely to provide a price floor for gold amid near-term pressure from hawkish Federal Reserve pricing.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/goldman-sees-central-bank-demand-115637647.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T11:56:37+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Investing.com -- Goldman Sachs told clients in a note on Friday that strong central bank gold purchases in May are likely to provide a price floor for gold amid near-term pressure from hawkish Federal"
-    },
-    {
-      "title": "Market wrap: Top gainers and losers on Nifty and Sensex today",
-      "description": "Indian markets ended the week strongly as Sensex surged 964 points and Nifty gained 262 points, driven by robust Q1 earnings and IT buying. Analysts see improving momentum in large caps, with Nifty's breakout indicating potential upside towards 24,800 despite broader market weakness.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-top-gainers-and-losers-on-nifty-and-sensex-today/articleshow/132460186.cms",
-      "image": "https://img.etimg.com/photo/msid-132460186,imgsize-168352.cms",
-      "source": "ET Markets",
-      "published_at": "2026-07-17T11:35:36+00:00",
-      "category": "India",
-      "simple_explanation": "Indian markets ended the week strongly as Sensex surged 964 points and Nifty gained 262 points, driven by robust Q1 earnings and IT buying. Analysts see improving momentum in large caps, with Nifty's "
-    },
-    {
-      "title": "UK sentences 2 hackers tied to $115M crypto ransom scheme",
-      "description": "The pair pleaded guilty after investigators linked them to the Scattered Spider cybercrime group, which US prosecutors say extorted dozens of companies.",
-      "url": "https://cointelegraph.com/news/london-police-sentence-hackers-crypto-ransom-public-transport?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-artificial-intelligence-is-used-in-fraud-detection-france.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-17T11:22:55+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The pair pleaded guilty after investigators linked them to the Scattered Spider cybercrime group, which US prosecutors say extorted dozens of companies."
-    },
-    {
-      "title": "Federal Bank among 4 stocks that hit 52-week highs and rallied up to 25% in a month",
-      "description": "Sensex ended 96 points higher on Friday as four BSE 200 stocks—Oracle Financial Services, Adani Energy Solutions, BHEL and Federal Bank—hit fresh 52-week highs. The milestone reflects sustained buying interest, improving investor sentiment and continued bullish momentum in these counters.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/federal-bank-among-4-stocks-that-hit-52-week-highs-and-rallied-up-to-25-in-a-month/slideshow/132460099.cms",
-      "image": "https://img.etimg.com/photo/msid-132460066,imgsize-41918.cms",
-      "source": "ET Markets",
-      "published_at": "2026-07-17T11:20:11+00:00",
-      "category": "India",
-      "simple_explanation": "Sensex ended 96 points higher on Friday as four BSE 200 stocks—Oracle Financial Services, Adani Energy Solutions, BHEL and Federal Bank—hit fresh 52-week highs. The milestone reflects sustained buying"
-    },
-    {
-      "title": "Ethereum Leads Losses Among Crypto Majors After Report Raises Fresh Doubts Over CLARITY Act",
-      "description": "A Politico report suggested the CLARITY Act may struggle to win enough Democratic support in the Senate.",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-eth-leads-crypto-losses-senate-clarity-act-doubts-stalls/cZZ7LjnR7tF?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T11:09:43+00:00",
-      "category": "Crypto",
-      "simple_explanation": "A Politico report suggested the CLARITY Act may struggle to win enough Democratic support in the Senate."
-    },
-    {
-      "title": "Blue Lagoon Surpasses $10 Million In Revenue As Dome Mountain Production Rises To 125 Tonnes Per Day",
-      "description": "VANCOUVER, BC / ACCESS Newswire / July 17, 2026 / Blue Lagoon Resources Inc. (CSE:BLLG)(OTCQB:BLAGF)(FSE:7BL) has now received more than C$10 million in revenue from gold and silver sales from its 100% owned Dome Mountain Gold and Silver Mine, located ...",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/blue-lagoon-surpasses-10-million-110000693.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T11:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "VANCOUVER, BC / ACCESS Newswire / July 17, 2026 / Blue Lagoon Resources Inc. (CSE:BLLG)(OTCQB:BLAGF)(FSE:7BL) has now received more than C$10 million in revenue from gold and silver sales from its 100"
-    },
-    {
-      "title": "Oberoi Realty Q1 profit jumps 29% to  ₹544 crore, revenue rises 32%; declares  ₹2 interim dividend",
-      "description": "Oberoi Realty reported Q1 FY27 net profit of  ₹544 crore, up 29% YoY. Revenue rose 31.7% to  ₹1,301 crore, with EBITDA increasing 41% to  ₹734 crore. The company also declared an interim dividend of  ₹2 per share as it continues to see strong demand for luxury homes.",
-      "url": "https://www.livemint.com/market/stock-market-news/oberoi-realty-q1-profit-jumps-29-to-rs-544-crore-revenue-rises-32-declares-rs-2-interim-dividend-11784283993297.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/17/1600x900/logo/gab0954f92217678affcbe3be1a858d9b1f84afe73e6ad384b_1735808983678_1784284098025_9ad0d846-c721-4628-acfe-69d6cbd8ff6a.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-17T10:35:37+00:00",
-      "category": "India",
-      "simple_explanation": "Oberoi Realty reported Q1 FY27 net profit of  ₹544 crore, up 29% YoY. Revenue rose 31.7% to  ₹1,301 crore, with EBITDA increasing 41% to  ₹734 crore. The company also declared an interim dividend of  "
     }
   ]
 }
