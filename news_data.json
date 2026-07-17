@@ -1,26 +1,216 @@
 {
-  "last_updated": "2026-07-17T19:09:36.008911+00:00",
+  "last_updated": "2026-07-17T20:55:33.470041+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz",
-      "description": "Iraqi Prime Minister Ali al-Zaidi is visiting the U.S. this week. He met with President Donald Trump at the White House on Tuesday.",
-      "url": "https://www.cnbc.com/2026/07/17/iran-war-iraq-syria-oil-pipeline-strait-hormuz.html",
+      "title": "Chinese AI has leveled up, and brought renewed focus on the open weight model shift",
+      "description": "It's the latest AI model from China to close the performance gap with leading U.S. AI labs.",
+      "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-07-17T18:47:39+00:00",
+      "published_at": "2026-07-17T20:48:35+00:00",
       "category": "USA",
-      "simple_explanation": "Iraqi Prime Minister Ali al-Zaidi is visiting the U.S. this week. He met with President Donald Trump at the White House on Tuesday."
+      "simple_explanation": "It's the latest AI model from China to close the performance gap with leading U.S. AI labs."
     },
     {
-      "title": "Investing.com’s stocks of the week",
-      "description": "Investing.com -- Profit-taking in AI names, a decline in IBM, and a disappointing Netflix outlook have helped push markets lower this week, while rising oil prices offered one of the few pockets of strength.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-183319988.html?.tsrc=rss",
+      "title": "Update: Equities Fall Amid Netflix Sell-Off; Oil Climbs as Middle East Tensions Rise",
+      "description": "(Updates with market moves at the end of the day and weekly index changes.) US equities declined",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-amid-netflix-sell-204656661.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-17T18:33:19+00:00",
+      "published_at": "2026-07-17T20:46:56+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with market moves at the end of the day and weekly index changes.) US equities declined"
+    },
+    {
+      "title": "S&P 500 Posts Weekly Decline Amid Worries Over Artificial Intelligence, Middle East",
+      "description": "The Standard & Poor's 500 index fell 1.6% this week, led by technology stocks, amid concerns about w",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-decline-204601881.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T20:46:01+00:00",
+      "category": "USA",
+      "simple_explanation": "The Standard & Poor's 500 index fell 1.6% this week, led by technology stocks, amid concerns about w"
+    },
+    {
+      "title": "Tech share selloff rolls on, oil prices jump on Mideast clashes",
+      "description": "Wall Street stocks fell decisively Friday, joining most global markets in retreating on continued weakness in artificial intelligence shares and rebounding oil prices.Kourkafas also cited the latest jump in oil prices as a factor in stock market weakness.",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/tokyo-taipei-lead-tech-losses-022548774.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T20:43:04+00:00",
       "category": "Commodities",
-      "simple_explanation": "Investing.com -- Profit-taking in AI names, a decline in IBM, and a disappointing Netflix outlook have helped push markets lower this week, while rising oil prices offered one of the few pockets of st"
+      "simple_explanation": "Wall Street stocks fell decisively Friday, joining most global markets in retreating on continued weakness in artificial intelligence shares and rebounding oil prices.Kourkafas also cited the latest j"
+    },
+    {
+      "title": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
+      "description": "The smoke coming from active wildfires in Canada has led to unhealthy air quality in swaths of the U.S., which could affect the upcoming World Cup final.",
+      "url": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-17T20:31:56+00:00",
+      "category": "USA",
+      "simple_explanation": "The smoke coming from active wildfires in Canada has led to unhealthy air quality in swaths of the U.S., which could affect the upcoming World Cup final."
+    },
+    {
+      "title": "Stock Market Today: Dow Drops 400 Points Amid Iran War News; Netflix Tumbles (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index drops Friday as oil prices rise. Nasdaq dives as Netflix stock sinks on soft guidance.",
+      "url": "https://finance.yahoo.com/m/321db8d1-ca56-378a-a99c-0f73b9c90d9b/stock-market-today%3A-dow-drops.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T20:28:09+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index drops Friday as oil prices rise. Nasdaq dives as Netflix stock sinks on soft guidance."
+    },
+    {
+      "title": "US Equity Indexes Decline This Week as Sell-Off in Chipmakers, Heavy Iran Strikes Fail to Outweigh Inflation Tailwind",
+      "description": "US equity indexes fell this week as semiconductors headed toward a bear market and Iran's retaliatio",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-decline-week-202717642.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T20:27:17+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity indexes fell this week as semiconductors headed toward a bear market and Iran's retaliatio"
+    },
+    {
+      "title": "Permianville Royalty Trust Announces Monthly Cash Distribution",
+      "description": "HOUSTON, July 17, 2026--Permianville Royalty Trust (NYSE: PVL, the \"Trust\") today announced a cash distribution to the holders of its units of beneficial interest of $0.015000 per unit, payable on August 14, 2026, to unitholders of record on July 31, 2026. The net profits interest calculation repres",
+      "url": "https://finance.yahoo.com/energy/articles/permianville-royalty-trust-announces-monthly-202000517.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T20:20:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "HOUSTON, July 17, 2026--Permianville Royalty Trust (NYSE: PVL, the \"Trust\") today announced a cash distribution to the holders of its units of beneficial interest of $0.015000 per unit, payable on Aug"
+    },
+    {
+      "title": "US Equity Markets End Lower as Oil Prices Climb on US-Iran Escalation",
+      "description": "US equity indexes closed lower on Friday as crude oil prices jumped amid escalating attacks by the U",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-201848949.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T20:18:48+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity indexes closed lower on Friday as crude oil prices jumped amid escalating attacks by the U"
+    },
+    {
+      "title": "Nasdaq, S&P 500 drop 1% after China’s latest AI breakthrough rattles tech stocks",
+      "description": "Stocks in Asia and the United States fell Friday after technological advances announced by a Chinese artificial intelligence company intensified concerns that the AI spending spree driving this year’s market rally could be at risk.",
+      "url": "https://www.cnn.com/2026/07/17/investing/us-stocks-asia?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T20:14:21+00:00",
+      "category": "USA",
+      "simple_explanation": "Stocks in Asia and the United States fell Friday after technological advances announced by a Chinese artificial intelligence company intensified concerns that the AI spending spree driving this year’s"
+    },
+    {
+      "title": "Merck Reportedly Goes To Bat In Takeover Battle. But Genomics Stock Reverses.",
+      "description": "Personalis stock reversed lower Friday on a rumor Merck and at least two other suitors are trying to buy the small genomics company.",
+      "url": "https://finance.yahoo.com/m/d7c0253b-1685-358a-b577-2367e5a71a78/merck-reportedly-goes-to-bat.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T20:12:18+00:00",
+      "category": "USA",
+      "simple_explanation": "Personalis stock reversed lower Friday on a rumor Merck and at least two other suitors are trying to buy the small genomics company."
+    },
+    {
+      "title": "T. Rowe Price Launches Multi-Crypto ETF Including Bitcoin, Ethereum, and XRP",
+      "description": "T. Rowe Price spent 89 years avoiding anything that looks like a gamble, then built a crypto fund where five managers hand-pick the coins instead of following any index. Their opening bets reveal a sharp disagreement with what the broader market currently says these assets are worth.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/07/17/t-rowe-price-launches-multi-crypto-etf-including-bitcoin-ethereum-and-xrp/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T20:08:54+00:00",
+      "category": "Crypto",
+      "simple_explanation": "T. Rowe Price spent 89 years avoiding anything that looks like a gamble, then built a crypto fund where five managers hand-pick the coins instead of following any index. Their opening bets reveal a sh"
+    },
+    {
+      "title": "The Hidden Danger in Leveraged Gold ETFs Like UGL and GLL",
+      "description": "Leveraged gold ETFs like UGL and GLL promise to multiply your gains, but a structural quirk buried in how they work has quietly destroyed returns even when traders called the gold market correctly.",
+      "url": "https://247wallst.com/investing/etf/2026/07/17/the-hidden-danger-in-leveraged-gold-etfs-like-ugl-and-gll/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T20:05:06+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Leveraged gold ETFs like UGL and GLL promise to multiply your gains, but a structural quirk buried in how they work has quietly destroyed returns even when traders called the gold market correctly."
+    },
+    {
+      "title": "US stocks today: Nasdaq, S&P fall over 1%, end lower for week as chip selloff broadens",
+      "description": "Wall Street declined as AI-driven chip stocks extended losses, triggering broader risk-off sentiment. Semiconductor shares saw sharp weekly declines, while energy stocks gained on rising oil prices amid Middle East tensions. Despite strong early earnings, including bank results, weak forecasts from ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-for-the-day-and-week-as-chip-selloff-broadens/articleshow/132469580.cms",
+      "image": "https://img.etimg.com/photo/msid-132469580,imgsize-129966.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-17T20:04:39+00:00",
+      "category": "India",
+      "simple_explanation": "Wall Street declined as AI-driven chip stocks extended losses, triggering broader risk-off sentiment. Semiconductor shares saw sharp weekly declines, while energy stocks gained on rising oil prices am"
+    },
+    {
+      "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
+      "description": "Galaxy Digital will rename Texas Tech’s football stadium under a 15-year agreement, expanding its West Texas presence as the state attracts growing crypto investment.",
+      "url": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-nfl-players-choosing-crypto-over-cash2.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-17T20:03:32+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Galaxy Digital will rename Texas Tech’s football stadium under a 15-year agreement, expanding its West Texas presence as the state attracts growing crypto investment."
+    },
+    {
+      "title": "SSR Mining Converts Hod Maden Stake Into a Royalty",
+      "description": "The miner converted its 20% Hod Maden stake into a 4% royalty",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/ssr-mining-converts-hod-maden-200113815.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T20:01:13+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The miner converted its 20% Hod Maden stake into a 4% royalty"
+    },
+    {
+      "title": "Epstein victims blast Trump attorney general nominee Todd Blanche after meeting",
+      "description": "\"Todd Blanche treated the meeting as a mere 'check-the-box' exercise intended to secure votes for his confirmation,\" said Epstein survivor Dani Bensky.",
+      "url": "https://www.cnbc.com/2026/07/17/epstein-victims-todd-blanche-doj-trump-tillis.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-17T19:51:42+00:00",
+      "category": "USA",
+      "simple_explanation": "\"Todd Blanche treated the meeting as a mere 'check-the-box' exercise intended to secure votes for his confirmation,\" said Epstein survivor Dani Bensky."
+    },
+    {
+      "title": "Hormuz Escalation Pressures Gold as $4,000 Support Comes Into Focus",
+      "description": "Happy Friday, traders. Welcome to our weekly market wrap, where we take a look back at these last five trading days with a focus on the market news, economic data, and headlines that had the most impact on gold prices and other key correlated assets—and may continue to in the future.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/hormuz-escalation-pressures-gold-4-195032142.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-17T19:50:32+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Happy Friday, traders. Welcome to our weekly market wrap, where we take a look back at these last five trading days with a focus on the market news, economic data, and headlines that had the most impa"
+    },
+    {
+      "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
+      "description": "The public is as depressed about the economy as it has been since the years just after the pandemic, according to the All-America Economic Survey.",
+      "url": "https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-17T19:49:17+00:00",
+      "category": "USA",
+      "simple_explanation": "The public is as depressed about the economy as it has been since the years just after the pandemic, according to the All-America Economic Survey."
+    },
+    {
+      "title": "Consensys unknowingly outsourced developer work to North Korean",
+      "description": "Through an introduction with a “reputable third-party service provider,“ the company took on a developer who, as part of an investigation, was revealed to be tied to North Korea.",
+      "url": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-hacker-interview.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-17T19:33:58+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Through an introduction with a “reputable third-party service provider,“ the company took on a developer who, as part of an investigation, was revealed to be tied to North Korea."
+    },
+    {
+      "title": "Crypto Biz: When dollars disappear, stablecoins step in",
+      "description": "Bolivia moves to recognize USDT amid a dollar shortage, while Bitcoin miners’ AI ambitions face fresh investor scrutiny.",
+      "url": "https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-dollar-1.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-17T19:23:53+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bolivia moves to recognize USDT amid a dollar shortage, while Bitcoin miners’ AI ambitions face fresh investor scrutiny."
     },
     {
       "title": "Teucrium Launches TPMT, a New Physical Gold ETF With a 0.24% Fee",
@@ -33,16 +223,6 @@
       "simple_explanation": "Teucrium just rode into the crowded physical gold ETF market waving a Texas flag, but whether its Y'all Street branding and competitive fee structure can win investors away from entrenched giants with"
     },
     {
-      "title": "Update: Equities Fall Intraday Amid Netflix Sell-Off; Oil Jumps on Middle East Tensions",
-      "description": "(Updates with latest market prices and developments.) US benchmark equity indexes were lower intr",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-amid-netflix-182404792.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T18:24:04+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with latest market prices and developments.) US benchmark equity indexes were lower intr"
-    },
-    {
       "title": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says",
       "description": "One seafarer was killed and three were injured in attack on the crude oil tanker Al Bahyah off Oman's coast on Tuesday.",
       "url": "https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html",
@@ -53,46 +233,6 @@
       "simple_explanation": "One seafarer was killed and three were injured in attack on the crude oil tanker Al Bahyah off Oman's coast on Tuesday."
     },
     {
-      "title": "3 Reasons Investors Love Stride (LRN)",
-      "description": "Since July 2021, the S&P 500 has delivered a total return of 77.6%. But one standout stock has more than doubled the market - over the past five years, Stride has surged 161% to $87.64 per share. Its momentum hasn’t stopped as it’s also gained 26.3% in the last six months, beating the S&P by 14.9%.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-investors-love-stride-180946307.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T18:09:46+00:00",
-      "category": "USA",
-      "simple_explanation": "Since July 2021, the S&P 500 has delivered a total return of 77.6%. But one standout stock has more than doubled the market - over the past five years, Stride has surged 161% to $87.64 per share. Its "
-    },
-    {
-      "title": "Kevin O’Leary Says Investing $100 a Week Will Make You a Millionaire by Retirement",
-      "description": "The \"Shark Tank\" investor has popularized the idea that consistent, modest investing can build substantial wealth by retirement. The concept is grounded in compound growth, and O'Leary believes the market's returns over 30 to 40 years do the heavy lifting. But with inflation running hotter than expe",
-      "url": "https://247wallst.com/personal-finance/2026/02/13/kevin-oleary-says-investing-100-a-week-will-make-you-a-millionaire-by-retirement/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T18:01:55+00:00",
-      "category": "USA",
-      "simple_explanation": "The \"Shark Tank\" investor has popularized the idea that consistent, modest investing can build substantial wealth by retirement. The concept is grounded in compound growth, and O'Leary believes the ma"
-    },
-    {
-      "title": "MasterCraft (MCFT): Buy, Sell, or Hold Post Q1 Earnings?",
-      "description": "MasterCraft’s 17.4% return over the past six months has outpaced the S&P 500 by 6%, and its stock price has climbed to $25.08 per share. This was partly thanks to its solid quarterly results, and the run-up might have investors contemplating their next move.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mastercraft-mcft-buy-sell-hold-180146412.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T18:01:46+00:00",
-      "category": "USA",
-      "simple_explanation": "MasterCraft’s 17.4% return over the past six months has outpaced the S&P 500 by 6%, and its stock price has climbed to $25.08 per share. This was partly thanks to its solid quarterly results, and the "
-    },
-    {
-      "title": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again",
-      "description": "The move is a vote of confidence in Boeing from the U.S. government.",
-      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-17T17:55:14+00:00",
-      "category": "USA",
-      "simple_explanation": "The move is a vote of confidence in Boeing from the U.S. government."
-    },
-    {
       "title": "Update: Gold Rises Off Session Lows on a Steady Dollar and Mixed Yields",
       "description": "(Updates prices in the second and final paragraphs.) Gold traded higher midafternoon on Friday, r",
       "url": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-off-session-lows-175450540.html?.tsrc=rss",
@@ -101,106 +241,6 @@
       "published_at": "2026-07-17T17:54:50+00:00",
       "category": "Commodities",
       "simple_explanation": "(Updates prices in the second and final paragraphs.) Gold traded higher midafternoon on Friday, r"
-    },
-    {
-      "title": "2 Reasons to Watch KFY and 1 to Stay Cautious",
-      "description": "Over the past six months, Korn Ferry has been a great trade, beating the S&P 500 by 7.2%. Its stock price has climbed to $78.87, representing a healthy 18.6% increase. This was partly due to its solid quarterly results, and the run-up might have investors contemplating their next move.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-watch-kfy-1-175346316.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T17:53:46+00:00",
-      "category": "USA",
-      "simple_explanation": "Over the past six months, Korn Ferry has been a great trade, beating the S&P 500 by 7.2%. Its stock price has climbed to $78.87, representing a healthy 18.6% increase. This was partly due to its solid"
-    },
-    {
-      "title": "Chevron Will Explore a Pipeline to Bypass the Strait of Hormuz. Here's What it Means for the Energy Stock.",
-      "description": "Chevron is making some potentially big moves in Iraq.",
-      "url": "https://www.fool.com/investing/2026/07/17/chevron-will-explore-a-pipeline-to-bypass-the-strait-of-hormuz-heres-what-it-means-for-the-energy-stock/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T17:50:01+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Chevron is making some potentially big moves in Iraq."
-    },
-    {
-      "title": "What Is AT&T Stock Really Adding To Your Portfolio?",
-      "description": "The telecom giant is moving to its own rhythm, but understanding its role is key before you follow the crowd.",
-      "url": "https://www.trefis.com/articles/607723/what-is-att-stock-really-adding-to-your-portfolio/2026-07-17?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T17:46:11+00:00",
-      "category": "USA",
-      "simple_explanation": "The telecom giant is moving to its own rhythm, but understanding its role is key before you follow the crowd."
-    },
-    {
-      "title": "Wall Street plunges in AI ‘bloodbath’",
-      "description": "The US stock market sank on Friday in a “bloodbath” for companies linked to the AI boom.",
-      "url": "https://uk.finance.yahoo.com/news/global-stocks-plunge-ai-bloodbath-093710394.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T17:45:54+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The US stock market sank on Friday in a “bloodbath” for companies linked to the AI boom."
-    },
-    {
-      "title": "Sector Update: Energy Stocks Gain Friday Afternoon",
-      "description": "Energy stocks were higher Friday afternoon, with the NYSE Energy Sector Index rising 1% and the Stat",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-friday-173751255.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T17:37:51+00:00",
-      "category": "USA",
-      "simple_explanation": "Energy stocks were higher Friday afternoon, with the NYSE Energy Sector Index rising 1% and the Stat"
-    },
-    {
-      "title": "Epstein victims blast Trump attorney general nominee Todd Blanche after meeting",
-      "description": "\"Todd Blanche treated the meeting as a mere 'check-the-box' exercise intended to secure votes for his confirmation,\" said Epstein survivor Dani Bensky.",
-      "url": "https://www.cnbc.com/2026/07/17/epstein-victims-todd-blanche-doj-trump-tillis.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-17T17:21:51+00:00",
-      "category": "USA",
-      "simple_explanation": "\"Todd Blanche treated the meeting as a mere 'check-the-box' exercise intended to secure votes for his confirmation,\" said Epstein survivor Dani Bensky."
-    },
-    {
-      "title": "Dow Holds Steady While Nasdaq Stumbles: What Moved Markets This Week",
-      "description": "AI spending fears rattled chip stocks all week long. Meanwhile, an insurance company quietly saved the Dow from a worse fate.",
-      "url": "https://www.fool.com/investing/2026/07/17/dow-holds-steady-while-nasdaq-stumbles-again/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T17:20:25+00:00",
-      "category": "USA",
-      "simple_explanation": "AI spending fears rattled chip stocks all week long. Meanwhile, an insurance company quietly saved the Dow from a worse fate."
-    },
-    {
-      "title": "The Stock Market Is Rocky Right Now. History Says It's Still a Prime Buying Opportunity.",
-      "description": "Investing now could prove to be lucrative over time.",
-      "url": "https://www.fool.com/investing/2026/07/17/the-stock-market-is-rocky-right-now-history-says-i/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T17:20:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Investing now could prove to be lucrative over time."
-    },
-    {
-      "title": "Update: US Equity Indexes Drop Amid Declines in Growth Sectors, Surge in Crude Oil as Washington-Tehran Widen Strikes",
-      "description": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-amid-171345942.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T17:13:45+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par"
-    },
-    {
-      "title": "Sector Update: Energy",
-      "description": "Energy stocks gained Friday afternoon, with the NYSE Energy Sector Index rising 1.1% and the State S",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-171107104.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T17:11:07+00:00",
-      "category": "USA",
-      "simple_explanation": "Energy stocks gained Friday afternoon, with the NYSE Energy Sector Index rising 1.1% and the State S"
     },
     {
       "title": "Stock Market Midday, July 17: Netflix Plunges and Stocks Slide as Semiconductor Sell-Off Deepens",
@@ -241,16 +281,6 @@
       "published_at": "2026-07-17T16:46:57+00:00",
       "category": "India",
       "simple_explanation": "Reliance Retail's Q1 revenue rose 8.2% despite the FMCG demerger, while net profit fell 14.2% as e-commerce investments pressured margins. Reliance Consumer more than doubled revenue, driven by Campa "
-    },
-    {
-      "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
-      "description": "The public is as depressed about the economy as it has been since the years just after the pandemic, according to the All-America Economic Survey.",
-      "url": "https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-17T16:38:57+00:00",
-      "category": "USA",
-      "simple_explanation": "The public is as depressed about the economy as it has been since the years just after the pandemic, according to the All-America Economic Survey."
     },
     {
       "title": "Netflix shares tumble 13% after weak sales forecast, hit 22-month low",
@@ -327,7 +357,7 @@
       "description": "Reliance Industries highlighted strong consumer business momentum in Q1 FY27, with Jio Platforms advancing towards its IPO and Reliance Consumer more than doubling revenue. Campa and Independence drove growth, while Jio posted higher ARPU, subscriber additions and earnings, supporting long-term valu",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q1-takeaways-what-mukesh-ambani-said-on-jio-ipo-and-how-reliance-consumer-doubled-revenue/articleshow/132464398.cms",
       "image": "https://img.etimg.com/photo/msid-132464398,imgsize-181532.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-07-17T15:16:36+00:00",
       "category": "India",
       "simple_explanation": "Reliance Industries highlighted strong consumer business momentum in Q1 FY27, with Jio Platforms advancing towards its IPO and Reliance Consumer more than doubling revenue. Campa and Independence drov"
@@ -371,36 +401,6 @@
       "published_at": "2026-07-17T14:06:59+00:00",
       "category": "India",
       "simple_explanation": "Nvidia lost its title as the world's most valuable company to Apple after a selloff in semiconductor stocks. Nvidia shares fell 3.7%, while Apple's rose 0.4%, raising its market cap to $4.9 trillion a"
-    },
-    {
-      "title": "Gold Falls to an Eight-Month Low as Rising Oil Prices Revive Inflation Worries",
-      "description": "Gold traded at an eight-month low early on Friday as higher oil prices following renewed fighting be",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-eight-month-low-140003743.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-17T14:00:03+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold traded at an eight-month low early on Friday as higher oil prices following renewed fighting be"
-    },
-    {
-      "title": "Wall Street falls on deepening selloff in chip stocks, Netflix slumps10.6%, Nvidia tumbles 4%",
-      "description": "As of 12:53 p.m. Eastern Time, the S&amp;P 500 fell 0.5%, the Dow Jones Industrial Average was down 0.3%, and the Nasdaq Composite fell 0.7%.",
-      "url": "https://www.livemint.com/market/stock-market-news/wall-street-falls-on-deepening-selloff-in-chip-stocks-netflix-slumps-11784295818738.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/17/1600x900/STANDARD-NUCLEAR-IPO--9_1784295881120_1784295910641_c3b0390f-b4e5-49c3-b0cf-a1b94ad2b4d1.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-07-17T14:00:02+00:00",
-      "category": "India",
-      "simple_explanation": "As of 12:53 p.m. Eastern Time, the S&amp;P 500 fell 0.5%, the Dow Jones Industrial Average was down 0.3%, and the Nasdaq Composite fell 0.7%."
-    },
-    {
-      "title": "Reliance Jio Q1 Results: IPO-bound telco’s net profit rises 9% YoY to Rs 7,764 crore; ARPU climbs to Rs 215.6",
-      "description": "Reliance Jio Q1 Results: Jio Platforms reported a 9% YoY rise in Q1 FY27 net profit to Rs 7,764 crore, supported by higher ARPU, subscriber additions and digital services growth. The IPO-bound telecom major also highlighted its expanding broadband business and deep-tech focus as it prepares for a la",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-jio-q1-results-ipo-bound-telcos-net-profit-rises-9-yoy-to-rs-7764-crore-arpu-climbs-to-rs-215-6/articleshow/132462455.cms",
-      "image": "https://img.etimg.com/photo/msid-132462455,imgsize-2131141.cms",
-      "source": "ET Markets",
-      "published_at": "2026-07-17T13:58:25+00:00",
-      "category": "India",
-      "simple_explanation": "Reliance Jio Q1 Results: Jio Platforms reported a 9% YoY rise in Q1 FY27 net profit to Rs 7,764 crore, supported by higher ARPU, subscriber additions and digital services growth. The IPO-bound telecom"
     }
   ]
 }
