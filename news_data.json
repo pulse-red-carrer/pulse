@@ -1,16 +1,376 @@
 {
-  "last_updated": "2026-07-22T11:47:16.121264+00:00",
+  "last_updated": "2026-07-22T13:54:37.245332+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Dow Jones Futures Fall As Oil Prices Jump; Two Big AI Earnings Movers With Google, Tesla Earnings Due",
+      "title": "Oil prices jump on Mideast war, stock markets diverge",
+      "description": "World oil prices soared Wednesday, with the benchmark international contract Brent North Sea crude surpassing $95 for the first time in nearly six weeks as the United States and Iran carried out more strikes.Trump later vowed that the United States would bomb Iranian civil infrastructure every time ",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/tech-lifts-asia-stocks-brent-030301738.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T13:46:35+00:00",
+      "category": "Commodities",
+      "simple_explanation": "World oil prices soared Wednesday, with the benchmark international contract Brent North Sea crude surpassing $95 for the first time in nearly six weeks as the United States and Iran carried out more "
+    },
+    {
+      "title": "S&P’s New Crypto Index Excludes XRP and Bitcoin: Here’s the Real Reason",
+      "description": "S&P Dow Jones Indices, the company behind the S&P 500, launched a new crypto benchmark this week with investment firm Pantera Capital. The S&P Pantera Digital Asset Index holds 18 tokens led by Ethereum, BNB, Solana, Tron and Hyperliquid, and it leaves out both Bitcoin (CRYPTO:BTC) and XRP (CRYPTO:X",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/07/22/sps-new-crypto-index-excludes-xrp-and-bitcoin-heres-the-real-reason/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T13:41:00+00:00",
+      "category": "USA",
+      "simple_explanation": "S&P Dow Jones Indices, the company behind the S&P 500, launched a new crypto benchmark this week with investment firm Pantera Capital. The S&P Pantera Digital Asset Index holds 18 tokens led by Ethere"
+    },
+    {
+      "title": "RBI sold $6 billion in May to defend oil-hit Indian rupee, data shows",
+      "description": "The Reserve Bank of India sold $6.1 billion in foreign exchange during May.  This intervention occurred as oil prices surged, pushing the rupee to a record low.  The central bank also implemented policy measures to encourage dollar inflows into India.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sold-6-billion-in-may-to-defend-oil-hit-indian-rupee-data-shows/articleshow/132560366.cms",
+      "image": "https://img.etimg.com/photo/msid-132560366,imgsize-68416.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-22T13:40:48+00:00",
+      "category": "India",
+      "simple_explanation": "The Reserve Bank of India sold $6.1 billion in foreign exchange during May.  This intervention occurred as oil prices surged, pushing the rupee to a record low.  The central bank also implemented poli"
+    },
+    {
+      "title": "Madison Dividend Income Fund is Bullish on ExxonMobil Holdings Corporation (XOM)",
+      "description": "Madison Dividend Income Fund, managed by Madison Funds, released its Q2 2026 investor letter. A copy of the letter can be downloaded here. The Fund aims to generate income and capital appreciation from a high-quality, high-dividend portfolio. The Fund (class I) returned +1.8% in the second quarter, ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/madison-dividend-income-fund-bullish-133826973.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T13:38:26+00:00",
+      "category": "USA",
+      "simple_explanation": "Madison Dividend Income Fund, managed by Madison Funds, released its Q2 2026 investor letter. A copy of the letter can be downloaded here. The Fund aims to generate income and capital appreciation fro"
+    },
+    {
+      "title": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+      "description": "Anthropic's agreement with AMD is the latest in a string of infrastructure deals the company has announced this year to increase its computing capacity.",
+      "url": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-22T13:38:03+00:00",
+      "category": "USA",
+      "simple_explanation": "Anthropic's agreement with AMD is the latest in a string of infrastructure deals the company has announced this year to increase its computing capacity."
+    },
+    {
+      "title": "US stocks today: S&P 500, Nasdaq open lower as caution builds ahead of Big Tech earnings",
+      "description": "U.S. markets opened mixed as Nasdaq and S&P 500 slipped on chip stock weakness, while Dow edged higher. Investors remained cautious ahead of key Big Tech earnings, with focus on whether AI-driven momentum can sustain. Semiconductor pressure and earnings uncertainty kept overall sentiment fragile at ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-open-lower-as-caution-builds-ahead-of-big-tech-earnings/articleshow/132560268.cms",
+      "image": "https://img.etimg.com/photo/msid-132560268,imgsize-203580.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-22T13:37:42+00:00",
+      "category": "India",
+      "simple_explanation": "U.S. markets opened mixed as Nasdaq and S&P 500 slipped on chip stock weakness, while Dow edged higher. Investors remained cautious ahead of key Big Tech earnings, with focus on whether AI-driven mome"
+    },
+    {
+      "title": "Boost for Norway as North Sea oil giant’s profits top $11bn",
+      "description": "Norway’s North Sea drilling operations were boosted as the country’s national oil company doubled profits to $11.5bn (£8.5bn).",
+      "url": "https://uk.finance.yahoo.com/news/boost-norway-north-sea-oil-133350747.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T13:33:50+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Norway’s North Sea drilling operations were boosted as the country’s national oil company doubled profits to $11.5bn (£8.5bn)."
+    },
+    {
+      "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says",
+      "description": "Attacks on ships transiting the Bab el-Mandeb threaten to cut off millions of barrels per day of Saudi crude oil exports.",
+      "url": "https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-22T13:33:34+00:00",
+      "category": "USA",
+      "simple_explanation": "Attacks on ships transiting the Bab el-Mandeb threaten to cut off millions of barrels per day of Saudi crude oil exports."
+    },
+    {
+      "title": "The digital euro: Surveillance money, or a better alternative to cash?",
+      "description": "Proponents of the digital euro say its a better alternative to cash that’s fully backed by the ECB. But critics argue it could provide the EU with too much power over its citizens.",
+      "url": "https://cointelegraph.com/magazine/what-is-the-digital-euro-all-you-need-to-know-about-europes-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-euro.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-22T13:30:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Proponents of the digital euro say its a better alternative to cash that’s fully backed by the ECB. But critics argue it could provide the EU with too much power over its citizens."
+    },
+    {
+      "title": "Quote of the day by John Maynard Keynes: \"Speculators may do no harm as bubbles on a steady stream of enterprise. But the position is serious when enterprise becomes the bubble on a whirlpool of speculation\"",
+      "description": "John Maynard Keynes' quote highlights speculation's dual nature in markets. Healthy speculation supports enterprise, while excessive speculation can destabilize economies. Modern markets face risks as AI and cryptocurrencies can overshadow fundamentals.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-john-maynard-keynes-speculators-may-do-no-harm-as-bubbles-on-a-steady-stream-of-enterprise-but-the-position-is-serious-when-enterprise-becomes-the-bubble-on-a-whirlpool-of-speculation/articleshow/132556823.cms",
+      "image": "https://img.etimg.com/photo/msid-132556823,imgsize-118336.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-22T13:26:50+00:00",
+      "category": "India",
+      "simple_explanation": "John Maynard Keynes' quote highlights speculation's dual nature in markets. Healthy speculation supports enterprise, while excessive speculation can destabilize economies. Modern markets face risks as"
+    },
+    {
+      "title": "Does AT&T Stock Follow Its Own Path?",
+      "description": "The telecom giant is standing out in a down market, but its real value for your portfolio is a story told over years, not days.",
+      "url": "https://www.trefis.com/articles/608350/does-att-stock-follow-its-own-path-2/2026-07-22?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T13:26:08+00:00",
+      "category": "USA",
+      "simple_explanation": "The telecom giant is standing out in a down market, but its real value for your portfolio is a story told over years, not days."
+    },
+    {
+      "title": "Sector Update: Energy Stocks Rise Premarket Wednesday",
+      "description": "Energy stocks were rising premarket Wednesday, with the State Street Energy Select Sector SPDR ETF (",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-premarket-132521358.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T13:25:21+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Energy stocks were rising premarket Wednesday, with the State Street Energy Select Sector SPDR ETF ("
+    },
+    {
+      "title": "What Is the Vanguard U.S. Value Factor ETF and Who Should Buy It?",
+      "description": "This actively managed value fund has outperformed the S&P 500 and Nasdaq-100 in the past year.",
+      "url": "https://www.fool.com/investing/2026/07/22/what-is-the-vanguard-us-value-factor-etf-vfva/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T13:20:00+00:00",
+      "category": "USA",
+      "simple_explanation": "This actively managed value fund has outperformed the S&P 500 and Nasdaq-100 in the past year."
+    },
+    {
+      "title": "Franklin Templeton calls agentic AI next ‘killer’ use case for blockchain",
+      "description": "Franklin Templeton’s digital assets lead said that the autonomous AI agent economy will increase demand for blockchain protocols hosting machine-to-machine micropayments.",
+      "url": "https://cointelegraph.com/news/agentic-ai-killer-use-case-blockchain-franklin-templeton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-develop-an-ai-agent-for-crypto-trading.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-22T13:18:50+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Franklin Templeton’s digital assets lead said that the autonomous AI agent economy will increase demand for blockchain protocols hosting machine-to-machine micropayments."
+    },
+    {
+      "title": "Wall Street set for weaker open as oil surge and earnings season dominate sentiment: Dow Jones, S&P, Nasdaq, Futures",
+      "description": "Rising crude prices and geopolitical tensions weigh on investor outlookU. S.",
+      "url": "https://investorshub.advfn.com/market-news/article/32441/wall-street-set-for-weaker-open-as-oil-surge-and-earnings-season-dominate-sentiment-dow-jones-sp-nasdaq-futures?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T13:18:10+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Rising crude prices and geopolitical tensions weigh on investor outlookU. S."
+    },
+    {
+      "title": "LLY Has Momentum. The Question Is The Price",
+      "description": "A pharmaceutical giant is on an incredible run fueled by blockbuster drugs, forcing investors to ask if the price of admission already accounts for the entire victory lap.",
+      "url": "https://www.trefis.com/articles/608362/lly-has-momentum-the-question-is-the-price/2026-07-22?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T13:17:27+00:00",
+      "category": "USA",
+      "simple_explanation": "A pharmaceutical giant is on an incredible run fueled by blockbuster drugs, forcing investors to ask if the price of admission already accounts for the entire victory lap."
+    },
+    {
+      "title": "Arista Networks (ANET) Strengthens from Exponential Growth in AI",
+      "description": "Giverny Capital Asset Management, LLC, an investment management company, recently published its second-quarter 2026 investor letter. A copy of the letter can be downloaded here. The model portfolio returned 13.70% this quarter, compared to the S&P 500’s 15.20% return. YTD, the portfolio gained 5.89%",
+      "url": "https://finance.yahoo.com/technology/ai/articles/arista-networks-anet-strengthens-exponential-131206001.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T13:12:06+00:00",
+      "category": "USA",
+      "simple_explanation": "Giverny Capital Asset Management, LLC, an investment management company, recently published its second-quarter 2026 investor letter. A copy of the letter can be downloaded here. The model portfolio re"
+    },
+    {
+      "title": "Stock Market Today: Dow Falls As Oil Prices Jump; SMCI Surges With Alphabet, Tesla Earnings Next (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index dropped Wednesday as oil prices jumped. SMCI stock surged, with Alphabet and Tesla earnings due.",
+      "url": "https://finance.yahoo.com/m/1c679c39-b73f-3cc1-abf9-648d2f1a9328/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T13:04:36+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index dropped Wednesday as oil prices jumped. SMCI stock surged, with Alphabet and Tesla earnings due."
+    },
+    {
+      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Wednesday Ahead of Major Tech Earnings",
+      "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) retreated 0.4%, and the actively",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-130102621.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T13:01:02+00:00",
+      "category": "USA",
+      "simple_explanation": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) retreated 0.4%, and the actively"
+    },
+    {
+      "title": "Sen. Wyden introduces bill to curb Trump's tariff powers",
+      "description": "Sen. Ron Wyden said Trump has \"abused every trade authority at his disposal\" and called his new tariffs on Canadian goods a \"shakedown.\"",
+      "url": "https://www.cnbc.com/2026/07/22/trump-tariffs-wyden-bill-congress.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-22T13:00:15+00:00",
+      "category": "USA",
+      "simple_explanation": "Sen. Ron Wyden said Trump has \"abused every trade authority at his disposal\" and called his new tariffs on Canadian goods a \"shakedown.\""
+    },
+    {
+      "title": "Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut",
+      "description": "Samsung launched the Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8.",
+      "url": "https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-22T13:00:01+00:00",
+      "category": "USA",
+      "simple_explanation": "Samsung launched the Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8."
+    },
+    {
+      "title": "Meridian Energy Group Completes Filming on upcoming “All Access hosted by Andy Garcia” episode",
+      "description": "Profiling the Next Generation of Refining Technology Using Oil & Gas to Produce Clean Fuels Keeping Domestic Energy Production at HomeHOUSTON, TX, July 22, 2026 (GLOBE NEWSWIRE) -- On July 9, Meridian Energy Group completed filming an upcoming educational broadcasting segment that highlights the mod",
+      "url": "https://finance.yahoo.com/energy/articles/meridian-energy-group-completes-filming-130000214.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T13:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Profiling the Next Generation of Refining Technology Using Oil & Gas to Produce Clean Fuels Keeping Domestic Energy Production at HomeHOUSTON, TX, July 22, 2026 (GLOBE NEWSWIRE) -- On July 9, Meridian"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-22T12:54:29+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Update: US Equity Futures Drop Pre-Bell as Oil Prices Jump Amid Lack of Progress in US-Iran Talks",
+      "description": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-drop-pre-125324960.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T12:53:24+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock"
+    },
+    {
+      "title": "US stock market today: Wall Street edges lower ahead of Alphabet earnings; Brent climbs above $95",
+      "description": "A two-day rebound in the Nasdaq 100 came to a halt, with Nasdaq-100 futures declining 0.6%. S&amp;P 500 futures slipped 0.3%, while futures tied to the Dow Jones Industrial Average fell 31 points.",
+      "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-edges-lower-ahead-of-alphabet-earnings-brent-climbs-above-95-11784721735142.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/22/1600x900/logo/NYSE-TRUMP-50_1741919261406_1784721883592_0f7ac650-a691-4981-986b-42730a4a0d9d.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-22T12:41:31+00:00",
+      "category": "India",
+      "simple_explanation": "A two-day rebound in the Nasdaq 100 came to a halt, with Nasdaq-100 futures declining 0.6%. S&amp;P 500 futures slipped 0.3%, while futures tied to the Dow Jones Industrial Average fell 31 points."
+    },
+    {
+      "title": "Aftermath Silver begins drilling at Berenguela copper target and Chile's Challacollo project",
+      "description": "Aftermath Silver Ltd (TSX-V:AAG, OTCQX:AAGFF, FRA:FLM1) announced that it has started drilling at the eastern edge of its Berenguela project in Peru to test for high-grade copper mineralization beyond the current mineral resource estimate, while also launching a drill program at its Challacollo...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1095856/aftermath-silver-begins-drilling-at-berenguela-copper-target-and-chile-s-challacollo-project-1095856.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T12:35:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Aftermath Silver Ltd (TSX-V:AAG, OTCQX:AAGFF, FRA:FLM1) announced that it has started drilling at the eastern edge of its Berenguela project in Peru to test for high-grade copper mineralization beyond"
+    },
+    {
+      "title": "GE Vernova Earnings Were a Big Test for the AI Trade. The Stock Is Falling.",
+      "description": "GE Vernova  delivered another strong quarter and raised full-year financial guidance again.  Wall Street was looking for Ebitda of $1.3 billion, from sales of $10.8 billion.  Ebitda was a little light, but the company raised full-year guidance.",
+      "url": "https://finance.yahoo.com/m/113c1b34-8e3d-3f4d-99ee-e426e241255d/ge-vernova-earnings-were-a.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T12:31:00+00:00",
+      "category": "USA",
+      "simple_explanation": "GE Vernova  delivered another strong quarter and raised full-year financial guidance again.  Wall Street was looking for Ebitda of $1.3 billion, from sales of $10.8 billion.  Ebitda was a little light"
+    },
+    {
+      "title": "Dow Jones| Nasdaq | S&P 500 | US Stock Market Today | Live: S&P 500, Nasdaq open lower as caution builds ahead of Big Tech earnings",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-alphabet-tesla-super-micro-computer-stock-price-news-22-july-2026/liveblog/132559144.cms",
+      "image": "https://img.etimg.com/photo/msid-132559144,imgsize-2159450.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-22T12:18:45+00:00",
+      "category": "India",
+      "simple_explanation": ""
+    },
+    {
+      "title": "5 Things to Know Before the Stock Market Opens on Wednesday",
+      "description": "Stock futures are lower as investors await earnings reports from major technology companies later today. Here’s what you need to know today.",
+      "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-wednesday-july-22-2026-12024201?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T12:16:05+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock futures are lower as investors await earnings reports from major technology companies later today. Here’s what you need to know today."
+    },
+    {
+      "title": "Dow Jones Futures Fall As Oil Prices Jump; Two AI Earnings Movers With Google, Tesla Due",
       "description": "Futures fell as oil prices jumped after the S&P 500 reclaimed key support Tuesday. Super Micro and GE Vernova were big earnings movers Google, Tesla earnings loom.",
       "url": "https://finance.yahoo.com/m/a3af1dc6-2e2e-3d9f-8f14-fa68af7a14c9/dow-jones-futures-fall-as-oil.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-22T11:37:03+00:00",
+      "published_at": "2026-07-22T12:12:57+00:00",
       "category": "USA",
       "simple_explanation": "Futures fell as oil prices jumped after the S&P 500 reclaimed key support Tuesday. Super Micro and GE Vernova were big earnings movers Google, Tesla earnings loom."
+    },
+    {
+      "title": "Oil rally weighs on Indian bonds, value buyers limit fall",
+      "description": "Indian government bonds experienced a fourth consecutive session of decline on Wednesday.  Benchmark bond yields rose to their highest level since late June.  Rising oil prices and supply fears intensified concerns about India's economic outlook.  The Indian rupee weakened to a two-month low against",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/oil-rally-weighs-on-indian-bonds-value-buyers-limit-fall/articleshow/132558831.cms",
+      "image": "https://img.etimg.com/photo/msid-132558831,imgsize-87352.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-22T12:03:06+00:00",
+      "category": "India",
+      "simple_explanation": "Indian government bonds experienced a fourth consecutive session of decline on Wednesday.  Benchmark bond yields rose to their highest level since late June.  Rising oil prices and supply fears intens"
+    },
+    {
+      "title": "3 Great Mutual Fund Picks for Your Retirement",
+      "description": "Consider adding these three top-ranked, best-performing and well-managed mutual funds to your retirement portfolio if you are looking to maximize returns.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-great-mutual-fund-picks-120002090.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T12:00:02+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Consider adding these three top-ranked, best-performing and well-managed mutual funds to your retirement portfolio if you are looking to maximize returns."
+    },
+    {
+      "title": "Purecore Completes Phase One Exploration at Critical Minerals Project, Bankier",
+      "description": "VANCOUVER, British Columbia, July 22, 2026 (GLOBE NEWSWIRE) -- Purecore Metals Inc. (CSE: PURE) (FSE: J8Y) (“Purecore” or the “Company”) is pleased to announce geologists from HEG & Associates have completed the initial phase of boots-on-the-ground exploration as part of the Company’s 2026 field pro",
+      "url": "https://finance.yahoo.com/energy/articles/purecore-completes-phase-one-exploration-120000174.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T12:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "VANCOUVER, British Columbia, July 22, 2026 (GLOBE NEWSWIRE) -- Purecore Metals Inc. (CSE: PURE) (FSE: J8Y) (“Purecore” or the “Company”) is pleased to announce geologists from HEG & Associates have co"
+    },
+    {
+      "title": "Bitcoin analysis eyes ‘serious volume’ after Binance sees 9K BTC daily outflow",
+      "description": "Binance set multimonth records for net BTC outflows on Tuesday, adding to an emerging trend of positive inflows to the US spot Bitcoin ETFs.",
+      "url": "https://cointelegraph.com/markets/bitcoin-analysis-eyes-serious-volume-after-binance-sees-9k-btc-daily-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-quantitative-easing-to-increase-btc-price-2.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-22T11:55:21+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Binance set multimonth records for net BTC outflows on Tuesday, adding to an emerging trend of positive inflows to the US spot Bitcoin ETFs."
+    },
+    {
+      "title": "NovaGold to Buy Billionaire Paulson’s Stake in Alaska Gold Mine",
+      "description": "(Bloomberg) -- NovaGold Resources Inc. agreed to acquire billionaire investor John Paulson’s 40% stake in the Donlin Gold project in Alaska, giving the company full ownership of a giant undeveloped bullion mine.Most Read from BloombergTrump’s 100% Generic Drug Duty Threatens US Low-Cost SupplyApple ",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/novagold-buy-billionaire-paulson-stake-115214954.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T11:52:14+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(Bloomberg) -- NovaGold Resources Inc. agreed to acquire billionaire investor John Paulson’s 40% stake in the Donlin Gold project in Alaska, giving the company full ownership of a giant undeveloped bu"
+    },
+    {
+      "title": "Zilliqa Ledger app vulnerability lets attackers recover signer’s private keys",
+      "description": "A security vulnerability in the Zilliqa Ledger app is enabling attackers to reconstruct private keys using publicly available onchain data.",
+      "url": "https://cointelegraph.com/news/zilliqa-ledger-vulnerability-attackers-recover-private-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-hacking.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-22T11:49:53+00:00",
+      "category": "Crypto",
+      "simple_explanation": "A security vulnerability in the Zilliqa Ledger app is enabling attackers to reconstruct private keys using publicly available onchain data."
+    },
+    {
+      "title": "How to start investing in gold",
+      "description": "From buying physical bullion to investing in a gold ETF or mining stocks, we look at the various ways to invest in gold.",
+      "url": "https://moneyweek.com/2342/a-beginners-guide-to-investing-in-gold?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-22T11:37:07+00:00",
+      "category": "Commodities",
+      "simple_explanation": "From buying physical bullion to investing in a gold ETF or mining stocks, we look at the various ways to invest in gold."
     },
     {
       "title": "US seeks forfeiture of $25M in crypto tied to romance, investment scams",
@@ -21,16 +381,6 @@
       "published_at": "2026-07-22T11:32:40+00:00",
       "category": "Crypto",
       "simple_explanation": "US prosecutors are seeking more than $25 million in cryptocurrency allegedly connected to international fraud and laundering networks."
-    },
-    {
-      "title": "Oil price hits $95, rate hike odds rise ahead of Alphabet earnings",
-      "description": "Brent crude briefly topped $95 a barrel Wednesday after an 11th consecutive night of U.S. strikes against Iran, with Fed rate hike odds climbing",
-      "url": "https://qz.com/oil-prices-iran-strikes-rate-hike-alphabet-earnings-072226?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-22T11:31:43+00:00",
-      "category": "USA",
-      "simple_explanation": "Brent crude briefly topped $95 a barrel Wednesday after an 11th consecutive night of U.S. strikes against Iran, with Fed rate hike odds climbing"
     },
     {
       "title": "Mortgage rates are rising again, but homebuyers are seeing some advantages",
@@ -51,356 +401,6 @@
       "published_at": "2026-07-22T11:30:00+00:00",
       "category": "Commodities",
       "simple_explanation": "Infill drilling, including hole 26-SPX-RC084 (5.37 g/t Au over 8.4 m) and 26-SPX-RC100 (1.50 g/t Au over 42.4 m), is targeting resource upgrade and conversion within the pit limitsInfill assays are ma"
-    },
-    {
-      "title": "Oil prices surge on Mideast war, stock markets diverge",
-      "description": "World oil prices soared Wednesday, with the benchmark international contract Brent North Sea crude surpassing $95 for the first time in nearly six weeks as the United States and Iran carried out more strikes.\"European stock indices are brushing off the rise (oil prices)... after a stunning rally for",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/tech-lifts-asia-stocks-brent-030301738.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-22T11:22:32+00:00",
-      "category": "Commodities",
-      "simple_explanation": "World oil prices soared Wednesday, with the benchmark international contract Brent North Sea crude surpassing $95 for the first time in nearly six weeks as the United States and Iran carried out more "
-    },
-    {
-      "title": "Oil prices jump 4% as Rubio says U.S. will 'continue to protect shipping' after strikes on Iran",
-      "description": "The U.S. has launched strikes against Iran for 11 consecutive days, citing a need to \"degrade Iran's ability to threaten commercial shipping.\"",
-      "url": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-22T11:21:14+00:00",
-      "category": "USA",
-      "simple_explanation": "The U.S. has launched strikes against Iran for 11 consecutive days, citing a need to \"degrade Iran's ability to threaten commercial shipping.\""
-    },
-    {
-      "title": "PSU stock Coal India sets board meeting date to declare final dividend for FY26, record date. Details here",
-      "description": "Coal India Ltd. will hold its 52nd AGM on 31 August 2026 via VC to approve a final dividend of  ₹5.25 per share for FY26. The record date for dividend eligibility is set for 4 September 2026, with detailed TDS exemption guidelines to be available soon.",
-      "url": "https://www.livemint.com/market/stock-market-news/psu-stock-coal-india-sets-board-meeting-date-to-declare-final-dividend-for-fy26-record-date-details-here-11784718121166.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/22/1600x900/logo/2-0-1284878999-4300179037-x01-mc-wmbm-0_1679597496975_1784718692114_9a872165-40e2-4563-a466-921824e12aef.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-22T11:20:54+00:00",
-      "category": "India",
-      "simple_explanation": "Coal India Ltd. will hold its 52nd AGM on 31 August 2026 via VC to approve a final dividend of  ₹5.25 per share for FY26. The record date for dividend eligibility is set for 4 September 2026, with det"
-    },
-    {
-      "title": "IndusInd Bank Q1 Results: Profit soars 72% YoY to Rs 1,037 crore; NII flat",
-      "description": "IndusInd Bank reported a 72% year-on-year jump in consolidated Q1 net profit to Rs 1,037 crore, aided by lower provisions despite flat net interest income and weaker fee income. Asset quality improved, deposits grew, and capital adequacy strengthened, while advances declined as the lender prioritise",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/indusind-bank-q1-results-profit-soars-72-yoy-to-rs-1037-crore-nii-flat/articleshow/132557800.cms",
-      "image": "https://img.etimg.com/photo/msid-132557800,imgsize-25444.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-22T11:20:17+00:00",
-      "category": "India",
-      "simple_explanation": "IndusInd Bank reported a 72% year-on-year jump in consolidated Q1 net profit to Rs 1,037 crore, aided by lower provisions despite flat net interest income and weaker fee income. Asset quality improved"
-    },
-    {
-      "title": "1 S&P 500 Stock with Solid Fundamentals and 2 We Ignore",
-      "description": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some are struggling with slowing growth, declining margins, or increased competition.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-solid-111827134.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-22T11:18:27+00:00",
-      "category": "USA",
-      "simple_explanation": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some a"
-    },
-    {
-      "title": "Earnings Season Totally Hinges On Great Results From 5 Stocks",
-      "description": "Want to know if second-quarter earnings season is a success? Watch the results of five S&P 500 companies.",
-      "url": "https://finance.yahoo.com/m/00e83348-bd1b-3142-a5d0-9d69ca49bfb1/earnings-season-totally.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-22T11:18:20+00:00",
-      "category": "USA",
-      "simple_explanation": "Want to know if second-quarter earnings season is a success? Watch the results of five S&P 500 companies."
-    },
-    {
-      "title": "Expert view: Market recovery may be closer than most people think, says Monarch Networth Capital CEO",
-      "description": "Gaurav Bhandari, CEO of Monarch Networth Capital, offers a refreshing perspective on the Indian stock market, suggesting that despite recent challenges, a recovery might be imminent.",
-      "url": "https://www.livemint.com/market/stock-market-news/expert-view-market-recovery-may-be-closer-than-most-people-think-says-monarch-networth-capital-ceo-11784718071930.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/22/1600x900/logo/Gaurav_Bhandari_CEO_Monarch_1784718249411_1784718253425_279b68be-779e-41fd-b66e-caed62c89ec7.jpeg",
-      "source": "LiveMint",
-      "published_at": "2026-07-22T11:18:11+00:00",
-      "category": "India",
-      "simple_explanation": "Gaurav Bhandari, CEO of Monarch Networth Capital, offers a refreshing perspective on the Indian stock market, suggesting that despite recent challenges, a recovery might be imminent."
-    },
-    {
-      "title": "Oil prices near $95 as U.S. strikes Iran for 11th straight night",
-      "description": "Brent crude rose above $94 a barrel on Wednesday after the U.S. completed its 11th straight night of strikes against Iran",
-      "url": "https://qz.com/oil-prices-iran-strikes-rubio-hormuz-072226?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-22T11:15:01+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Brent crude rose above $94 a barrel on Wednesday after the U.S. completed its 11th straight night of strikes against Iran"
-    },
-    {
-      "title": "Chip Caution, Oil Prices Dent Wall Street Pre-Bell; Asia Mixed, Europe Up",
-      "description": "Wall Street futures pointed moderately lower pre-bell Wednesday as traders weighed rising oil prices",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chip-caution-oil-prices-dent-111246658.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-22T11:12:46+00:00",
-      "category": "USA",
-      "simple_explanation": "Wall Street futures pointed moderately lower pre-bell Wednesday as traders weighed rising oil prices"
-    },
-    {
-      "title": "Equinor shares gain as strong oil trading offsets exploration weakness in Q2 (NYSE:EQNR)",
-      "description": "Trading and cash flow lift quarterly performanceEquinor (NYSE:EQNR) shares rose as much as 3% on Wednesday after the Norwegian energy group delivered second-quarter results that exceeded market expectations for operating income and cash flow, supported by a standout performance in its trading and sh",
-      "url": "https://investorshub.advfn.com/market-news/article/32392/equinor-shares-gain-as-strong-oil-trading-offsets-exploration-weakness-in-q2-nyseeqnr?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-22T11:10:22+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Trading and cash flow lift quarterly performanceEquinor (NYSE:EQNR) shares rose as much as 3% on Wednesday after the Norwegian energy group delivered second-quarter results that exceeded market expect"
-    },
-    {
-      "title": "GreenLight Metals Intersects 52.18m of 1.12 g/t Au (1.28% CuEq) Including 10.82m of 2.49 g/t Au (2.75% CuEq) at the Bend VMS Deposit in Wisconsin",
-      "description": "Results extend broad gold-bearing mineralization approximately 75 metres down-dip; B26-011 also returns 10.07m of 0.96% Cu and 1.09 g/t Au (2.12% CuEq)Medford, Wisconsin--(Newsfile Corp. - July 22, 2026) - GreenLight Metals Inc. (TSXV: GRL) (OTCQB: GRLMF) (\"GreenLight\" or the \"Company\") is pleased t",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/greenlight-metals-intersects-52-18m-111000411.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-22T11:10:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Results extend broad gold-bearing mineralization approximately 75 metres down-dip; B26-011 also returns 10.07m of 0.96% Cu and 1.09 g/t Au (2.12% CuEq)Medford, Wisconsin--(Newsfile Corp. - July 22, 20"
-    },
-    {
-      "title": "If I Could Tell Every Nervous Investor 1 Thing About the Stock Market Right Now, It's This",
-      "description": "The market has performed well in recent years, but investors will continue to find reasons to worry.",
-      "url": "https://www.fool.com/investing/2026/07/22/every-nervous-investor-1-thing-stock-market/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-22T11:07:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The market has performed well in recent years, but investors will continue to find reasons to worry."
-    },
-    {
-      "title": "Why Warren Buffett and Charlie Munger don't like EBITDA as an earnings metric",
-      "description": "As Q1 earnings dominate investor focus, Warren Buffett and Charlie Munger's criticism of EBITDA is back in the spotlight. Buffett called it a tool to mislead investors, while Munger famously dubbed it \"bullshit earnings\", arguing that ignoring depreciation and other real costs distorts a company's t",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-warren-buffett-and-charlie-munger-dont-like-ebitda-as-an-earnings-metric/articleshow/132557098.cms",
-      "image": "https://img.etimg.com/photo/msid-132557098,imgsize-118302.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-22T11:01:22+00:00",
-      "category": "India",
-      "simple_explanation": "As Q1 earnings dominate investor focus, Warren Buffett and Charlie Munger's criticism of EBITDA is back in the spotlight. Buffett called it a tool to mislead investors, while Munger famously dubbed it"
-    },
-    {
-      "title": "Peacock is getting a lift from World Cup, Spanish-language content",
-      "description": "Peacock attracted new subscribers with the Spanish-language telecast of the World Cup, and executives say advertisers are taking notice.",
-      "url": "https://www.cnbc.com/2026/07/22/peacock-is-getting-a-lift-from-world-cup-spanish-language-content.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-22T11:00:01+00:00",
-      "category": "USA",
-      "simple_explanation": "Peacock attracted new subscribers with the Spanish-language telecast of the World Cup, and executives say advertisers are taking notice."
-    },
-    {
-      "title": "Silver Acadia Reports Additional High-Grade Silver-Gold Results and Completed a Geological Study for Future Drill Targets",
-      "description": "Montreal, Quebec--(Newsfile Corp. - July 22, 2026) - Silver Acadia Exploration Inc. (CSE: SLA) (\"SLA\" or the \"Company\") is pleased to announce additional high-grade assay results from the Phase 1 drill program at the Hachey Zone on its flagship Nicholas-Denys Project. The Company is also reporting t",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/silver-acadia-reports-additional-high-110000154.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-22T11:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Montreal, Quebec--(Newsfile Corp. - July 22, 2026) - Silver Acadia Exploration Inc. (CSE: SLA) (\"SLA\" or the \"Company\") is pleased to announce additional high-grade assay results from the Phase 1 dril"
-    },
-    {
-      "title": "Gladiator Intersects 32.0m @ 1.36% Cu + 0.63 g/t Au Including 18.0m @ 2.12% Cu + 1.06 g/t Au Extending High-Grade Continuity at Cub East",
-      "description": "Vancouver, British Columbia--(Newsfile Corp. - July 22, 2026) - Gladiator Metals Corp. (TSXV: GLAD) (OTCQB: GDTRF) (FSE: ZX7) (\"Gladiator\" or the \"Company\") is excited to announce the latest assay results from Cub East, confirming high-grade copper, gold, and silver mineralization across multiple dr",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gladiator-intersects-32-0m-1-110000074.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-22T11:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - July 22, 2026) - Gladiator Metals Corp. (TSXV: GLAD) (OTCQB: GDTRF) (FSE: ZX7) (\"Gladiator\" or the \"Company\") is excited to announce the latest assay res"
-    },
-    {
-      "title": "Lahontan Drills 31m Grading 0.90 g/t Au Oxide at Calvada Central",
-      "description": "TORONTO, July 22, 2026 (GLOBE NEWSWIRE) -- Lahontan Gold Corp. (TSXV:LG, OTCQB:LGCXF, FSE:Y2F) (the \"Company\" or \"Lahontan\") is pleased to announce additional drill results from its 2026 drilling program at the Santa Fe Mine Project. The drill results reported herein include 188 metres of diamond dr",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/lahontan-drills-31m-grading-0-110000820.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-22T11:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "TORONTO, July 22, 2026 (GLOBE NEWSWIRE) -- Lahontan Gold Corp. (TSXV:LG, OTCQB:LGCXF, FSE:Y2F) (the \"Company\" or \"Lahontan\") is pleased to announce additional drill results from its 2026 drilling prog"
-    },
-    {
-      "title": "Erdene Provides Q2 2026 Bayan Khundii Gold Mine Update and Notice of Conference Call and Webcast",
-      "description": "HALIFAX, Nova Scotia, July 22, 2026 (GLOBE NEWSWIRE) -- Erdene Resource Development Corp. (TSX:ERD; MSE:ERDN; OTCQX: ERDCF) (\"Erdene\" or the \"Company\") is pleased to provide a Bayan Khundii Gold Mine (“BK”) production update for Q2 2026, operated by Erdene Mongol LLC (“EM”), the Company’s joint vent",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/erdene-provides-q2-2026-bayan-110000681.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-22T11:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "HALIFAX, Nova Scotia, July 22, 2026 (GLOBE NEWSWIRE) -- Erdene Resource Development Corp. (TSX:ERD; MSE:ERDN; OTCQX: ERDCF) (\"Erdene\" or the \"Company\") is pleased to provide a Bayan Khundii Gold Mine "
-    },
-    {
-      "title": "Talos brings institutional trading tools to Kalshi prediction markets",
-      "description": "The integration provides institutional clients with access to Kalshi’s event contracts and crypto perpetuals via Talos’ existing trading infrastructure.",
-      "url": "https://cointelegraph.com/news/talos-brings-institutional-trading-tools-to-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-decentralized-prediction-markets-gambling-or-a-window-into-the-future-1.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-22T11:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The integration provides institutional clients with access to Kalshi’s event contracts and crypto perpetuals via Talos’ existing trading infrastructure."
-    },
-    {
-      "title": "IndusInd Bank Q1 Results 2026: Net profit surges 72% at  ₹1,037 crore, NII up just 1%",
-      "description": "IndusInd Bank reported a 72% rise in Q1 FY27 consolidated net profit to  ₹1,037 crore, up from  ₹604 crore last year. Net Interest Income grew 1% to  ₹4,685 crore, while operating expenses fell 12.5% to  ₹3,698 crore.",
-      "url": "https://www.livemint.com/market/stock-market-news/indusind-bank-q1-results-2026-net-profit-surges-72-at-rs-1-037-crore-nii-up-just-1-11784717260308.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/22/1600x900/IndusInd_Bank_Q1_Results_2026_1784717303844_1784717303983_713b813b-d142-45b5-9d9b-52e7c7e03ec8.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-07-22T10:59:27+00:00",
-      "category": "India",
-      "simple_explanation": "IndusInd Bank reported a 72% rise in Q1 FY27 consolidated net profit to  ₹1,037 crore, up from  ₹604 crore last year. Net Interest Income grew 1% to  ₹4,685 crore, while operating expenses fell 12.5% "
-    },
-    {
-      "title": "South Korea crypto volumes shrink as retail investors shift to stocks",
-      "description": "Trading activity on South Korea’s five major crypto exchanges fell sharply as the KOSPI surged, signaling a shift in retail investors toward equities.",
-      "url": "https://cointelegraph.com/news/south-korea-crypto-volume-decline-kospi-retail-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-south-korea-excludes-users.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-22T10:47:09+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Trading activity on South Korea’s five major crypto exchanges fell sharply as the KOSPI surged, signaling a shift in retail investors toward equities."
-    },
-    {
-      "title": "'Global economy is crashing': Rich Dad Poor Dad author Robert Kiyosaki repeats stock market crash prediction",
-      "description": "Kiyosaki cautions about a looming economic crash, predicting historical implications. He encourages followers to prepare and adapt, noting that while many may lose, a few can benefit from economic downturns. He advocates for holding assets like gold and Bitcoin.",
-      "url": "https://www.livemint.com/market/stock-market-news/global-economy-is-crashing-rich-dad-poor-dad-author-robert-kiyosaki-repeats-stock-market-crash-prediction-11784713956376.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/22/1600x900/logo/Robert_Kiyosaki_1784714400191_1784714400366_b09b2e9a-a1c2-4eb0-8789-4c4fb7f8adad.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-22T10:45:34+00:00",
-      "category": "India",
-      "simple_explanation": "Kiyosaki cautions about a looming economic crash, predicting historical implications. He encourages followers to prepare and adapt, noting that while many may lose, a few can benefit from economic dow"
-    },
-    {
-      "title": "Will Blinkit growth sustain amid competition? 5 things to know from Eternal's shareholder letter",
-      "description": "Eternal's Q1 shareholder letter highlights Blinkit's rapid expansion, improving profitability and rising capital investments, while food delivery remains the group's profit engine. Management also addressed mounting quick commerce competition, outlined Blinkit's return framework and detailed continu",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-blinkit-growth-sustain-amid-competition-5-things-to-know-from-eternals-shareholder-letter/articleshow/132556814.cms",
-      "image": "https://img.etimg.com/photo/msid-132556814,imgsize-133897.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-22T10:36:31+00:00",
-      "category": "India",
-      "simple_explanation": "Eternal's Q1 shareholder letter highlights Blinkit's rapid expansion, improving profitability and rising capital investments, while food delivery remains the group's profit engine. Management also add"
-    },
-    {
-      "title": "Foundry asks Bitcoin miners to vote on BIP-110 support",
-      "description": "Foundry USA asked its mining customers to signal their support for BIP-110, an actively debated proposal seeking to shrink the amount of data that can be stored in a Bitcoin transaction.",
-      "url": "https://cointelegraph.com/news/foundry-bitcoin-miners-vote-bip-110?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-mine-bitcoin.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-22T10:29:42+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Foundry USA asked its mining customers to signal their support for BIP-110, an actively debated proposal seeking to shrink the amount of data that can be stored in a Bitcoin transaction."
-    },
-    {
-      "title": "Brent Crude tops $95 as US-Iran tensions, Hormuz blockade drive oil rally",
-      "description": "Brent crude futures climbed above $95 a barrel for the first time since June 11, rising $4.43, or 4.87%, to $95.44",
-      "url": "https://www.livemint.com/market/commodities/brent-crude-tops-95-as-us-iran-tensions-hormuz-blockade-drive-oil-rally-11784714555942.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/22/1600x900/CHINA-ECONOMY-TRADE-1_1784714632405_1784714650158_7faff0f2-c625-4128-abcc-43024f6acc65.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-22T10:28:53+00:00",
-      "category": "India",
-      "simple_explanation": "Brent crude futures climbed above $95 a barrel for the first time since June 11, rising $4.43, or 4.87%, to $95.44"
-    },
-    {
-      "title": "FIIs are leaving Adani Enterprises. Here’s who is buying",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-are-leaving-adani-enterprises-heres-who-is-buying/videoshow/132556643.cms",
-      "image": "",
-      "source": "Economic Times",
-      "published_at": "2026-07-22T10:26:32+00:00",
-      "category": "India",
-      "simple_explanation": ""
-    },
-    {
-      "title": "Global Market: Airbus shares surge over 5% after €5 billion buyback, ambitious 2029 profit targets",
-      "description": "Airbus shares rose significantly after announcing a  €5 billion share buyback program. The company outlined ambitious financial targets for the next five years. Airbus aims for core operating profit between €12 billion and €13 billion by 2029. Deliveries are increasing as supply chain issues gradual",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-airbus-shares-surge-over-5-after-5-billion-buyback-ambitious-2029-profit-targets/articleshow/132556495.cms",
-      "image": "https://img.etimg.com/photo/msid-132556495,imgsize-19429.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-22T10:24:27+00:00",
-      "category": "India",
-      "simple_explanation": "Airbus shares rose significantly after announcing a  €5 billion share buyback program. The company outlined ambitious financial targets for the next five years. Airbus aims for core operating profit b"
-    },
-    {
-      "title": "Indo-MIM IPO opens tomorrow; GMP signals 37% listing premium. Check price band, dates and key details",
-      "description": "Indo-MIM’s Rs 3,811-crore IPO opens on July 23 with a strong grey market premium of about 37%. The precision engineering manufacturer plans to repay debt using fresh issue proceeds, while analysts highlight its global MIM leadership, diversified operations, and robust financial growth supporting lon",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/indo-mim-ipo-opens-tomorrow-gmp-signals-37-listing-premium-check-price-band-dates-and-key-details/articleshow/132556427.cms",
-      "image": "https://img.etimg.com/photo/msid-132556427,imgsize-27009.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-22T10:20:52+00:00",
-      "category": "India",
-      "simple_explanation": "Indo-MIM’s Rs 3,811-crore IPO opens on July 23 with a strong grey market premium of about 37%. The precision engineering manufacturer plans to repay debt using fresh issue proceeds, while analysts hig"
-    },
-    {
-      "title": "HFCL Q1 results: Firm swings to black, net profit at Rs 246 crore, revenue soars 120% YoY",
-      "description": "HFCL reported a sharp turnaround in Q1FY27, posting a net profit of Rs 246 crore against a year-ago loss as revenue more than doubled. Strong export growth, record order book, expanding AI infrastructure investments and capacity expansion supported robust earnings and strengthened the company's long",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hfcl-q1-results-firm-swings-to-black-net-profit-at-rs-246-crore-revenue-soars-120-yoy/articleshow/132556350.cms",
-      "image": "https://img.etimg.com/photo/msid-132556350,imgsize-26664.cms",
-      "source": "ET Markets",
-      "published_at": "2026-07-22T10:16:52+00:00",
-      "category": "India",
-      "simple_explanation": "HFCL reported a sharp turnaround in Q1FY27, posting a net profit of Rs 246 crore against a year-ago loss as revenue more than doubled. Strong export growth, record order book, expanding AI infrastruct"
-    },
-    {
-      "title": "XRP Holders Cheer as Bessent Says Major Crypto Bill ‘On the 1-Yard Line’",
-      "description": "Treasury Secretary Bessent just told the Senate it is one play away from putting XRP's legal status to rest for good, but the vote math is razor-thin and the clock runs out in two weeks.",
-      "url": "https://247wallst.com/investing/2026/07/22/xrp-holders-cheer-as-bessent-says-major-crypto-bill-on-the-1-yard-line/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-22T10:16:01+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Treasury Secretary Bessent just told the Senate it is one play away from putting XRP's legal status to rest for good, but the vote math is razor-thin and the clock runs out in two weeks."
-    },
-    {
-      "title": "Top Gainers & Losers on 22 July: Bandhan Bank, PG Electroplast, Lupin, Delhivery, Voltas, IndiGo among top losers",
-      "description": "The Indian stock market faced heightened sell-off on July 22, with the Nifty 50 closing 0.77% lower amid ongoing Middle East tensions and concerns over US tariffs on pharmaceuticals. Broader markets fell over 1%, with Nifty Media and Nifty Pharma facing significant declines.",
-      "url": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-22-july-bandhan-bank-pg-electroplast-lupin-delhivery-voltas-indigo-among-top-losers-11784713647070.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/22/1600x900/2-0-85820715-Mumbai-Stock-4Cnew--0_1681743391999_1784715177897_1b34386d-b8ee-47fe-a471-78d07c1a6d3f.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-22T10:14:26+00:00",
-      "category": "India",
-      "simple_explanation": "The Indian stock market faced heightened sell-off on July 22, with the Nifty 50 closing 0.77% lower amid ongoing Middle East tensions and concerns over US tariffs on pharmaceuticals. Broader markets f"
-    },
-    {
-      "title": "Bharat Coking Coal shares crash 8% after Coal India arm posts Rs 68 crore Q1 net loss",
-      "description": "Bharat Coking Coal shares plunged over 8% on Wednesday. The company reported a net loss of Rs 68 crore for the April-June quarter. Revenue from operations rose 4% year-on-year to Rs 3,587 crore. Total expenses increased 5% while EBITDA dropped significantly. Production and offtake output missed targ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-coking-coal-shares-crash-8-after-coal-india-arm-posts-rs-68-crore-q1-net-loss/articleshow/132556293.cms",
-      "image": "https://img.etimg.com/photo/msid-132556293,imgsize-12409.cms",
-      "source": "ET Markets",
-      "published_at": "2026-07-22T10:12:54+00:00",
-      "category": "India",
-      "simple_explanation": "Bharat Coking Coal shares plunged over 8% on Wednesday. The company reported a net loss of Rs 68 crore for the April-June quarter. Revenue from operations rose 4% year-on-year to Rs 3,587 crore. Total"
-    },
-    {
-      "title": "BPCL Q1 Results: Co reports loss of Rs 3,962 crore but revenue rises 23% YoY",
-      "description": "BPCL reported a standalone loss of Rs 3,962 crore in the first quarter. Revenue from operations increased 23% year-on-year to Rs 1.59 lakh crore. Total expenses rose sharply to Rs 1.66 lakh crore from Rs 1.22 lakh crore a year earlier. The rise in expenses was led by higher cost of materials consume",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bpcl-q1-results-co-reports-loss-of-rs-3962-crore-revenue-rises-23-yoy/articleshow/132555904.cms",
-      "image": "https://img.etimg.com/photo/msid-132555904,imgsize-271322.cms",
-      "source": "ET Markets",
-      "published_at": "2026-07-22T09:53:01+00:00",
-      "category": "India",
-      "simple_explanation": "BPCL reported a standalone loss of Rs 3,962 crore in the first quarter. Revenue from operations increased 23% year-on-year to Rs 1.59 lakh crore. Total expenses rose sharply to Rs 1.66 lakh crore from"
-    },
-    {
-      "title": "SecondFi to wind down after $2.6M ADA theft linked to wallet flaw",
-      "description": "SecondFi will wind down after a $2.6 million ADA theft, while users still await recovery tools that were initially expected within weeks of the exploit.",
-      "url": "https://cointelegraph.com/news/secondfi-shutdown-ada-theft-wallet-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-got-crypto-losses-wallet-shutdown.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-22T09:42:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "SecondFi will wind down after a $2.6 million ADA theft, while users still await recovery tools that were initially expected within weeks of the exploit."
-    },
-    {
-      "title": "Galaxy pledges $5M for developers quantum-proofing Bitcoin",
-      "description": "Galaxy pledged up to $5 million in grants for developers working on Bitcoin’s quantum security and elected a council of quantum-advisory experts to research quantum-resistant migration solutions.",
-      "url": "https://cointelegraph.com/news/galaxy-pledges-5m-developers-quantum-proofing-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoins-quantum-upgrade-path-what-bip-360-changes-and-what-it-doesnt.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-22T09:30:05+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Galaxy pledged up to $5 million in grants for developers working on Bitcoin’s quantum security and elected a council of quantum-advisory experts to research quantum-resistant migration solutions."
     }
   ]
 }
