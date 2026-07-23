@@ -1,76 +1,326 @@
 {
-  "last_updated": "2026-07-23T20:12:02.427207+00:00",
+  "last_updated": "2026-07-23T22:03:55.218201+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion",
+      "description": "Oracle will supply on-premises software to the U.S. Department of Defense.",
+      "url": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-23T21:56:31+00:00",
+      "category": "USA",
+      "simple_explanation": "Oracle will supply on-premises software to the U.S. Department of Defense."
+    },
+    {
+      "title": "Stock Market Today, July 23: Cleveland-Cliffs Stock Soars on Robust Steel Demand and Pricing",
+      "description": "On July 23, 2026, the steelmaker told investors to expect earnings to continue improving.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/23/stock-market-today-july-23-cleveland-cliffs-stock-soars-on-robust-steel-demand-and-pricing/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T21:49:31+00:00",
+      "category": "USA",
+      "simple_explanation": "On July 23, 2026, the steelmaker told investors to expect earnings to continue improving."
+    },
+    {
+      "title": "3 Reasons to Avoid BEN and 1 Stock to Buy Instead",
+      "description": "Franklin Resources has had an impressive run over the past six months as its shares have beaten the S&P 500 by 19.8%. The stock now trades at $32.49, marking a 28.4% gain. This was partly thanks to its solid quarterly results, and the performance may have investors wondering how to approach the situ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-ben-1-214831450.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T21:48:31+00:00",
+      "category": "USA",
+      "simple_explanation": "Franklin Resources has had an impressive run over the past six months as its shares have beaten the S&P 500 by 19.8%. The stock now trades at $32.49, marking a 28.4% gain. This was partly thanks to it"
+    },
+    {
+      "title": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
+      "description": "The Bitcoin donation can be used to support Donald Trump as a New York court considers whether to reverse a $5 million settlement between the CFTC and Gemini.",
+      "url": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/winklevoss-trump.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-23T21:47:39+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Bitcoin donation can be used to support Donald Trump as a New York court considers whether to reverse a $5 million settlement between the CFTC and Gemini."
+    },
+    {
+      "title": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire",
+      "description": "The Trump administration has ramped its tariff actions back up since the president's trade  agenda suffered major legal setbacks earlier this year.",
+      "url": "https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-23T21:43:10+00:00",
+      "category": "USA",
+      "simple_explanation": "The Trump administration has ramped its tariff actions back up since the president's trade  agenda suffered major legal setbacks earlier this year."
+    },
+    {
+      "title": "The EM ETF Built on Demographics, Not Tech Hype",
+      "description": "That EM ETF you added to your portfolio years ago for diversification purposes may actually just be delivering more of what you’re already getting an overabundance of via domestic equities: tech. The RISE ETF offers a genuinely differentiated approach to EM investing that won’t deliver 40% tech sect",
+      "url": "http://www.etf.com/sections/podcasts/em-etf-built-demographics-not-tech-hype?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T21:41:24+00:00",
+      "category": "USA",
+      "simple_explanation": "That EM ETF you added to your portfolio years ago for diversification purposes may actually just be delivering more of what you’re already getting an overabundance of via domestic equities: tech. The "
+    },
+    {
+      "title": "Nvidia's Stock Hasn't Been This Cheap Since 2019. Here's Why It's the Best Buy in the Market Now.",
+      "description": "Nvidia is looking attractively priced.",
+      "url": "https://www.fool.com/investing/2026/07/23/nvidias-stock-hasnt-been-this-cheap-since-2019-her/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T21:41:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Nvidia is looking attractively priced."
+    },
+    {
+      "title": "3 Reasons to Avoid DHT and 1 Stock to Buy Instead",
+      "description": "DHT Holdings currently trades at $18.16 and has been a dream stock for shareholders. It’s returned 214% since July 2021, more than tripling the S&P 500’s 70.1% gain. The company has also beaten the index over the past six months as its stock price is up 31.4% thanks to its solid quarterly results.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-dht-1-214031359.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T21:40:31+00:00",
+      "category": "USA",
+      "simple_explanation": "DHT Holdings currently trades at $18.16 and has been a dream stock for shareholders. It’s returned 214% since July 2021, more than tripling the S&P 500’s 70.1% gain. The company has also beaten the in"
+    },
+    {
+      "title": "Dow Jones Futures: Market Sells Off On Oil Prices, Google, Tesla; Intel Jumps Late, SpaceX Starship Launch Due",
+      "description": "The Nasdaq undercut key levels as Google and Tesla led titans lower while oil prices soared. A big SpaceX launch is due.",
+      "url": "https://finance.yahoo.com/m/96fdd7c6-3e7b-334a-a08e-b91b60ced4b6/dow-jones-futures%3A-market.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T21:35:21+00:00",
+      "category": "USA",
+      "simple_explanation": "The Nasdaq undercut key levels as Google and Tesla led titans lower while oil prices soared. A big SpaceX launch is due."
+    },
+    {
+      "title": "Stock Market Today, July 23: Tesla Drops 15%, Leading Tech Stock Slide",
+      "description": "On July 23, 2026, massive capital expenditure plans triggered a broad retreat across technology stocks, as soaring crude oil added to inflation fears.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/23/stock-market-today-july-23-tesla-drops-15-leading-tech-stock-slide/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T21:30:14+00:00",
+      "category": "USA",
+      "simple_explanation": "On July 23, 2026, massive capital expenditure plans triggered a broad retreat across technology stocks, as soaring crude oil added to inflation fears."
+    },
+    {
+      "title": "Heat Worries US Wheat Farmers Just as Crop Prices Surge",
+      "description": "For farmers in North Dakota surveying their wheat as harvest closes in, scorching heat is threatening yields just as crop prices rise to a three-year high.",
+      "url": "https://www.livemint.com/market/heat-worries-us-wheat-farmers-just-as-crop-prices-surge-11784841971254.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "source": "LiveMint",
+      "published_at": "2026-07-23T21:26:10+00:00",
+      "category": "India",
+      "simple_explanation": "For farmers in North Dakota surveying their wheat as harvest closes in, scorching heat is threatening yields just as crop prices rise to a three-year high."
+    },
+    {
+      "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
+      "description": "Intel rallied after the company reported blowout earnings and guidance.",
+      "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-23T21:25:26+00:00",
+      "category": "USA",
+      "simple_explanation": "Intel rallied after the company reported blowout earnings and guidance."
+    },
+    {
+      "title": "Dollar Rises as Intensifying Iran War Lifts Rate Hike Bets",
+      "description": "The dollar jumped Thursday as intensifying conflict in the Middle East sparked concerns over energy supply disruptions, fueling expectations that interest rates will stay higher for longer.",
+      "url": "https://www.livemint.com/market/dollar-rises-as-intensifying-iran-war-lifts-rate-hike-bets-11784841425131.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+      "source": "LiveMint",
+      "published_at": "2026-07-23T21:17:04+00:00",
+      "category": "India",
+      "simple_explanation": "The dollar jumped Thursday as intensifying conflict in the Middle East sparked concerns over energy supply disruptions, fueling expectations that interest rates will stay higher for longer."
+    },
     {
       "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
       "description": "OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.",
       "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-07-23T20:09:13+00:00",
+      "published_at": "2026-07-23T21:09:48+00:00",
       "category": "USA",
       "simple_explanation": "OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face."
     },
     {
-      "title": "Amazon and Microsoft pivot cloud gaming strategies to target different players",
-      "description": "Amazon is bringing Luna to the Prime Video streaming service, while Microsoft will test an ad-supported streaming of titles that people own.",
-      "url": "https://www.cnbc.com/2026/07/23/amazon-microsoft-cloud-gaming.html",
+      "title": "Imperial Reports Production Update for Red Chris Mine 2026 Second Quarter",
+      "description": "VANCOUVER, British Columbia, July 23, 2026 (GLOBE NEWSWIRE) -- Imperial Metals Corporation (“Imperial”) (TSX:III) reports copper and gold production for the second quarter 2026 from Red Chris mine. Red Chris metal production (100%) for the second quarter of 2026 was 17.924 million pounds copper and ",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/imperial-reports-production-red-chris-210700303.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T21:07:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "VANCOUVER, British Columbia, July 23, 2026 (GLOBE NEWSWIRE) -- Imperial Metals Corporation (“Imperial”) (TSX:III) reports copper and gold production for the second quarter 2026 from Red Chris mine. Re"
+    },
+    {
+      "title": "Freeport-McMoRan Inc (FCX) Q2 2026 Earnings Call Highlights: Strong Income Growth and Strategic ...",
+      "description": "Freeport-McMoRan Inc (FCX) reports a 65% increase in net income and strategic expansions, while addressing challenges in capital expenditures and regulatory approvals.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/freeport-mcmoran-inc-fcx-q2-210446739.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T21:04:46+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Freeport-McMoRan Inc (FCX) reports a 65% increase in net income and strategic expansions, while addressing challenges in capital expenditures and regulatory approvals."
+    },
+    {
+      "title": "Update: US Equity Indexes Slump, Crude Oil Soars as Trump Warns of Big Iran Attack",
+      "description": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slump-crude-210304104.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T21:03:04+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit"
+    },
+    {
+      "title": "The 1 Number That Explains Why Alphabet Stock Is Tanking",
+      "description": "Alphabet’s second-quarter free cash flow turned negative for the first time as the Google parent ramps AI spending, leaving Wall Street divided over whether the investment will pay off.",
+      "url": "https://finance.yahoo.com/m/6ed9ecae-1d81-34c8-89f9-0e4289df4fc2/the-1-number-that-explains.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T20:55:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Alphabet’s second-quarter free cash flow turned negative for the first time as the Google parent ramps AI spending, leaving Wall Street divided over whether the investment will pay off."
+    },
+    {
+      "title": "Coinbase lets businesses accept USDC payments from AI agents",
+      "description": "The exchange also introduced AI trading tools and a developer kit as part of a broader push to build financial infrastructure for autonomous AI agents.",
+      "url": "https://cointelegraph.com/news/coinbase-lets-businesses-accept-usdc-payments-from-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-facebook-x.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-23T20:51:27+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The exchange also introduced AI trading tools and a developer kit as part of a broader push to build financial infrastructure for autonomous AI agents."
+    },
+    {
+      "title": "Newmont Reported Strong Earnings and Cash Flow. The Stock Is Down.",
+      "description": "Newmont  reported better-than-expected second-quarter earnings, despite weaker gold prices.  Cost control helped.  Through Thursday trading, Newmont stock has been strong, up almost 60% over the past 12 months, benefiting from the rise in gold prices.",
+      "url": "https://finance.yahoo.com/m/a35d032d-7847-38f7-acb2-c7c68d7f5190/newmont-reported-strong.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T20:51:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Newmont  reported better-than-expected second-quarter earnings, despite weaker gold prices.  Cost control helped.  Through Thursday trading, Newmont stock has been strong, up almost 60% over the past "
+    },
+    {
+      "title": "Oil soars above $100 as Middle East fears grow",
+      "description": "Oil prices surged past $100 a barrel on Thursday as Iran-backed Houthi rebels targeted Red Sea shipping as threats by US President Donald Trump to strike them in return sent equity markets slumping.Saudi Arabia had been using the Red Sea to export millions of barrels of oil that normally flowed thro",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-bounce-lifts-asia-stocks-025329409.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T20:50:58+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil prices surged past $100 a barrel on Thursday as Iran-backed Houthi rebels targeted Red Sea shipping as threats by US President Donald Trump to strike them in return sent equity markets slumping.Sa"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Plunges To 4-Week Low; Metals Firm Kaiser Hits New Entry (Live Coverage)",
+      "description": "The Nasdaq composite led a wide-ranging sell-off the entire session as the Iran-U.S. war intensified and grew in complexity. Blue chips offered no safe haven either, as the Dow Jones Industrial Average moved sharply lower Thursday.",
+      "url": "https://finance.yahoo.com/m/e94a43e0-7ab5-3e5d-a5df-9ae321464787/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T20:43:44+00:00",
+      "category": "USA",
+      "simple_explanation": "The Nasdaq composite led a wide-ranging sell-off the entire session as the Iran-U.S. war intensified and grew in complexity. Blue chips offered no safe haven either, as the Dow Jones Industrial Averag"
+    },
+    {
+      "title": "TotalEnergies Q2 Profit Jumps 68% as Refining and Trading Strength Offset Gas Weakness",
+      "description": "Higher fuel prices and refining margins lifted earnings despite weaker LNG performance and lower production.",
+      "url": "https://finance.yahoo.com/energy/articles/totalenergies-q2-profit-jumps-68-204237395.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T20:42:37+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Higher fuel prices and refining margins lifted earnings despite weaker LNG performance and lower production."
+    },
+    {
+      "title": "BlackRock’s IBIT Leads Nearly $1B Bitcoin ETF Recovery as Inflows Hit 7 Straight Days",
+      "description": "Bitcoin ETFs just snapped a brutal stretch of outflows with seven straight days of buying, but one fund is hoovering up nearly all the money while the recovery still has billions to go before it means anything.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/07/23/blackrocks-ibit-leads-nearly-1b-bitcoin-etf-recovery-as-inflows-hit-7-straight-days/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T20:38:34+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin ETFs just snapped a brutal stretch of outflows with seven straight days of buying, but one fund is hoovering up nearly all the money while the recovery still has billions to go before it means"
+    },
+    {
+      "title": "What's pushing bond yield curve higher?",
+      "description": "Market Domination Host Josh Lipton welcomes Truist Wealth (TFC) managing director, fixed income, Chip Hughey, to the show to break down the key factors driving global bond yields higher and what the move means for investors.",
+      "url": "https://finance.yahoo.com/video/whats-pushing-bond-yield-curve-higher-203715084.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T20:37:15+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Market Domination Host Josh Lipton welcomes Truist Wealth (TFC) managing director, fixed income, Chip Hughey, to the show to break down the key factors driving global bond yields higher and what the m"
+    },
+    {
+      "title": "Integra Resources Reports 30% Increase in Q2 Gold Production at Florida Canyon; 2026 Outlook Maintained",
+      "description": "Integra Resources (ITR.V) after trade Thursday said its Florida Canyon mine in Nevada produced 16,37",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/integra-resources-reports-30-increase-203620680.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T20:36:20+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Integra Resources (ITR.V) after trade Thursday said its Florida Canyon mine in Nevada produced 16,37"
+    },
+    {
+      "title": "Can Starship’s Next Flight Halt SpaceX’s Stock Slide? What the Market Needs to See.",
+      "description": "SpaceX  stock rose as investors were waiting for an all-important Starship test flight, slated for later on Thursday.  SpaceX trades for roughly 40 times estimated 2026 sales, and there has simply never been a trillion-dollar company at that valuation.  Investors hope Starship can send the stock bac",
+      "url": "https://finance.yahoo.com/m/bc7a0748-cfa5-3b44-9ee9-040471265df6/can-starship%E2%80%99s-next-flight.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T20:34:00+00:00",
+      "category": "USA",
+      "simple_explanation": "SpaceX  stock rose as investors were waiting for an all-important Starship test flight, slated for later on Thursday.  SpaceX trades for roughly 40 times estimated 2026 sales, and there has simply nev"
+    },
+    {
+      "title": "Bitcoin slides below $65K as Iran conflict fuels $100 oil and bond-yield surge",
+      "description": "Bitcoin price forecasts diverge as US-Iran war tensions fueled an ongoing oil and bond-market surge, while July Fed rate-hike odds neared 40%.",
+      "url": "https://cointelegraph.com/markets/bitcoin-dips-below-65k-iran-war-sparks-100-oil-us-bond-spike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-price-analysis-falling-1.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-23T20:32:22+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin price forecasts diverge as US-Iran war tensions fueled an ongoing oil and bond-market surge, while July Fed rate-hike odds neared 40%."
+    },
+    {
+      "title": "10-year Treasury yield rises to highest since January 2025 as surging oil rekindles inflation fear",
+      "description": "U.S. Treasury yields climbed on Wednesday, following oil prices higher, as traders also reacted to a slump in weekly claims for unemployment insurance.",
+      "url": "https://www.cnbc.com/2026/07/23/treasury-yields-oil-prices-jobless-claims.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-07-23T20:06:50+00:00",
+      "published_at": "2026-07-23T20:30:50+00:00",
       "category": "USA",
-      "simple_explanation": "Amazon is bringing Luna to the Prime Video streaming service, while Microsoft will test an ad-supported streaming of titles that people own."
+      "simple_explanation": "U.S. Treasury yields climbed on Wednesday, following oil prices higher, as traders also reacted to a slump in weekly claims for unemployment insurance."
     },
     {
-      "title": "Intel blows past estimates, recording fastest sales growth in almost 15 years on 'unprecedented' demand",
-      "description": "Despite a recent slump in the stock, Intel shares are still up over 170% this year.",
-      "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
+      "description": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
+      "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
       "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-23T20:05:19+00:00",
-      "category": "USA",
-      "simple_explanation": "Despite a recent slump in the stock, Intel shares are still up over 170% this year."
+      "source": "CNBC World",
+      "published_at": "2026-07-23T20:25:28+00:00",
+      "category": "Global",
+      "simple_explanation": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September."
     },
     {
-      "title": "1 S&P 500 Stock on Our Buy List and 2 Facing Challenges",
-      "description": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, heavy debt, or disruptive new competitors.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-buy-200431173.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T20:04:31+00:00",
-      "category": "USA",
-      "simple_explanation": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, h"
-    },
-    {
-      "title": "Dorchester Minerals, L.P. Announces Its Second Quarter Distribution",
-      "description": "DALLAS, July 23, 2026 (GLOBE NEWSWIRE) -- Dorchester Minerals, L.P. (NASDAQ:DMLP) announced today the Partnership’s second quarter 2026 cash distribution. The distribution of $1.272943 per common unit represents activity for the three-month period ended June 30, 2026 and is payable on August 13, 202",
-      "url": "https://finance.yahoo.com/energy/articles/dorchester-minerals-l-p-announces-200000099.html?.tsrc=rss",
+      "title": "Is Avino (TSX:ASM) Revealing a Strategic Shift Through Its Changing Silver-Gold Production Mix?",
+      "description": "Avino Silver & Gold Mines Ltd. has reported past consolidated operating results for Q2 and the first half of 2026, showing lower copper and silver output but slightly higher gold production versus the same periods a year earlier. The decrease in silver-equivalent production, despite stable gold volu",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/avino-tsx-asm-revealing-strategic-200902384.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-23T20:00:00+00:00",
+      "published_at": "2026-07-23T20:09:02+00:00",
       "category": "Commodities",
-      "simple_explanation": "DALLAS, July 23, 2026 (GLOBE NEWSWIRE) -- Dorchester Minerals, L.P. (NASDAQ:DMLP) announced today the Partnership’s second quarter 2026 cash distribution. The distribution of $1.272943 per common unit"
+      "simple_explanation": "Avino Silver & Gold Mines Ltd. has reported past consolidated operating results for Q2 and the first half of 2026, showing lower copper and silver output but slightly higher gold production versus the"
     },
     {
-      "title": "Which Healthcare ETF Is the Better Buy: Vanguard's VHT or Fidelity's FHLC?",
-      "description": "One basis point separates these two healthcare funds. Here is why the bigger decision is whether to own healthcare at all.",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/23/which-healthcare-etf-is-the-better-buy-vanguard-s-vht-or-fidelity-s-fhlc/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T19:59:08+00:00",
-      "category": "USA",
-      "simple_explanation": "One basis point separates these two healthcare funds. Here is why the bigger decision is whether to own healthcare at all."
-    },
-    {
-      "title": "Resurging Oil Prices Boost Fed Rate Hike Bets",
-      "description": "Resurging oil prices are fanning worries about inflation, driving up the likelihood that the Federal",
-      "url": "https://finance.yahoo.com/economy/policy/articles/resurging-oil-prices-boost-fed-195849532.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T19:58:49+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Resurging oil prices are fanning worries about inflation, driving up the likelihood that the Federal"
+      "title": "US stocks today: Nasdaq plunges 2% as tech earnings spark AI spending worries",
+      "description": "Wall Street closed sharply lower with Nasdaq down over 2% as weak Big Tech earnings and rising AI spending concerns hit sentiment. Surging oil prices above $100, driven by Middle East tensions, reignited inflation fears and pushed bond yields higher, overshadowing gains in defense stocks like Lockhe",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-fall-as-tech-earnings-spark-ai-spending-worries-and-oil-hits-100/articleshow/132591456.cms",
+      "image": "https://img.etimg.com/photo/msid-132591456,imgsize-248936.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-23T20:03:25+00:00",
+      "category": "India",
+      "simple_explanation": "Wall Street closed sharply lower with Nasdaq down over 2% as weak Big Tech earnings and rising AI spending concerns hit sentiment. Surging oil prices above $100, driven by Middle East tensions, reigni"
     },
     {
       "title": "Yen’s Slump Extends Beyond Dollar and Stokes Inflation Fears",
@@ -83,26 +333,6 @@
       "simple_explanation": "While the yen’s plunge to a four-decade low against the dollar has dominated headlines, a broader gauge of the Japanese currency’s health is also flashing a warning."
     },
     {
-      "title": "Is an S&P 500 ETF a Safe Investment During a Market Crash?",
-      "description": "Your portfolio might lose value, but that doesn't tell the whole story.",
-      "url": "https://www.fool.com/investing/2026/07/23/is-an-sp-500-etf-a-safe-investment-during-a-market/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T19:56:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Your portfolio might lose value, but that doesn't tell the whole story."
-    },
-    {
-      "title": "Update: US Equity Indexes Slump, Crude Oil Soars as Iran-Backed Houthis Hit Tankers in Red Sea Chokepoint",
-      "description": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slump-crude-195401375.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T19:54:01+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit"
-    },
-    {
       "title": "Tesla short sellers mint $4 billion profit as shares nosedive",
       "description": "Tesla shares plunged up to 15% after weak quarterly earnings, triggering about $4.1 billion in one-day gains for short sellers. Concerns over AI spending, high valuation, and soft auto margins weighed on sentiment, though retail investors continued buying and some analysts see the decline as a long-",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive/articleshow/132591384.cms",
@@ -111,26 +341,6 @@
       "published_at": "2026-07-23T19:53:21+00:00",
       "category": "India",
       "simple_explanation": "Tesla shares plunged up to 15% after weak quarterly earnings, triggering about $4.1 billion in one-day gains for short sellers. Concerns over AI spending, high valuation, and soft auto margins weighed"
-    },
-    {
-      "title": "iShares Global Healthcare ETF vs VanEck Biotech ETF: Which ETF Is Better for Profiting With Healthcare in 2026?",
-      "description": "VanEck's concentrated biotech portfolio surged 30.8% in one year but endured a 39.9% drawdown. iShares offers steadier global healthcare exposure with a 1.5% dividend yield.",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/23/ishares-global-healthcare-etf-vs-vaneck-biotech-etf-which-etf-is-better-for-profiting-with-healthcare-in-2026/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T19:50:01+00:00",
-      "category": "USA",
-      "simple_explanation": "VanEck's concentrated biotech portfolio surged 30.8% in one year but endured a 39.9% drawdown. iShares offers steadier global healthcare exposure with a 1.5% dividend yield."
-    },
-    {
-      "title": "59% of Berkshire Hathaway's Portfolio Sits in 5 Dow Stocks. This Is My Top Pick to Buy Now.",
-      "description": "Due to its size, Berkshire Hathaway often invests in large, well-known companies that are also included in the Dow Jones Industrial Average.",
-      "url": "https://www.fool.com/investing/2026/07/23/berkshire-hathaways-portfolio-sits-in-5-dow-stocks/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T19:50:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Due to its size, Berkshire Hathaway often invests in large, well-known companies that are also included in the Dow Jones Industrial Average."
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -153,16 +363,6 @@
       "simple_explanation": "The research released by the organization said that crypto companies will directly or indirectly lead to 232,000 jobs across the entire US economy in 2026."
     },
     {
-      "title": "Sector Update: Energy Stocks Gain Late Afternoon",
-      "description": "Energy stocks rose late Thursday afternoon with the NYSE Energy Sector Index gaining 1.1% and the St",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-193741394.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T19:37:41+00:00",
-      "category": "USA",
-      "simple_explanation": "Energy stocks rose late Thursday afternoon with the NYSE Energy Sector Index gaining 1.1% and the St"
-    },
-    {
       "title": "As BitMEX exits, analysts warn crypto consolidation is accelerating",
       "description": "BitMEX’s shutdown marks the end of one of crypto’s earliest derivatives exchanges as analysts point to rising regulatory costs, market concentration and the shift toward licensed trading venues.",
       "url": "https://cointelegraph.com/news/as-bitmex-exits-analysts-warn-crypto-consolidation-is-accelerating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -173,43 +373,13 @@
       "simple_explanation": "BitMEX’s shutdown marks the end of one of crypto’s earliest derivatives exchanges as analysts point to rising regulatory costs, market concentration and the shift toward licensed trading venues."
     },
     {
-      "title": "Is It Too Late to Buy the Vanguard S&P 500 ETF? Here's What History Says.",
-      "description": "The stock market has posted many double-digit gains in recent years. You might still want to invest in it.",
-      "url": "https://www.fool.com/investing/2026/07/23/too-late-buy-vanguard-sp-500-etf-voo/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T19:23:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The stock market has posted many double-digit gains in recent years. You might still want to invest in it."
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Pounded As Oil Surges; Metals Firm Hits New Entry (Live Coverage)",
-      "description": "The Nasdaq composite led a wide-ranging sell-off and the Dow Jones Industrial Average moved sharply lower Thursday as major indexes struggled to lift off their intraday lows.  Google-parent Alphabet and Tesla led the sell-off on the stock market today after their quarterly earnings reports.  In Thur",
-      "url": "https://finance.yahoo.com/m/e94a43e0-7ab5-3e5d-a5df-9ae321464787/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T19:21:13+00:00",
-      "category": "USA",
-      "simple_explanation": "The Nasdaq composite led a wide-ranging sell-off and the Dow Jones Industrial Average moved sharply lower Thursday as major indexes struggled to lift off their intraday lows.  Google-parent Alphabet a"
-    },
-    {
-      "title": "Oil Futures Jump as Houthis Target Saudi Tankers",
-      "description": "Crude futures extend gains with Brent settling above $100 a barrel for the first time in two months as Iran-backed Houthis said they attacked Saudi tankers in the Red Sea, threatening a key alternative shipping route to the Strait of Hormuz.",
-      "url": "https://finance.yahoo.com/m/86f0d45c-b9e1-395d-9cca-5dbcc3978df1/oil-futures-jump-as-houthis.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T19:20:15+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Crude futures extend gains with Brent settling above $100 a barrel for the first time in two months as Iran-backed Houthis said they attacked Saudi tankers in the Red Sea, threatening a key alternativ"
-    },
-    {
       "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
       "description": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
       "url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
       "image": "",
-      "source": "CNBC World",
+      "source": "CNBC",
       "published_at": "2026-07-23T19:19:01+00:00",
-      "category": "Global",
+      "category": "USA",
       "simple_explanation": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel."
     },
     {
@@ -223,36 +393,6 @@
       "simple_explanation": "GLOBAL-FOREX/ (UPDATE 6, GRAPHICS):FOREX-Dollar hits new 40-year high versus yen, euro softer after ECB stands pat on rates"
     },
     {
-      "title": "Gold Falls, but Longer-Term Outlook Stays Strong",
-      "description": "Front-month gold and silver futures both decline, with gold falling 2.4% to $4,046.50 a troy ounce and silver down 3.7% to $57.798/oz. Sentiment around precious metals seems to be turning the corner -- with central banks seen coming back with demand for gold.",
-      "url": "https://finance.yahoo.com/m/38420374-fb8b-3d73-ab8b-715dec9e977a/gold-falls%2C-but-longer-term.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T19:04:53+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Front-month gold and silver futures both decline, with gold falling 2.4% to $4,046.50 a troy ounce and silver down 3.7% to $57.798/oz. Sentiment around precious metals seems to be turning the corner -"
-    },
-    {
-      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
-      "description": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
-      "url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-23T18:42:20+00:00",
-      "category": "USA",
-      "simple_explanation": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September."
-    },
-    {
-      "title": "Congress splits on war powers resolutions to force Trump to abandon Iran war",
-      "description": "Trump would be nearly certain to veto any measure to curtail his ability to wage war with Iran.",
-      "url": "https://www.cnbc.com/2026/07/23/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-23T18:39:06+00:00",
-      "category": "USA",
-      "simple_explanation": "Trump would be nearly certain to veto any measure to curtail his ability to wage war with Iran."
-    },
-    {
       "title": "Gold falls 2% as Middle East tensions fuel inflation fears, rate-hike bets",
       "description": "GLOBAL-PRECIOUS:Gold falls 2% as Middle East tensions fuel inflation fears, rate-hike bets",
       "url": "https://www.livemint.com/market/gold-falls-2-as-middle-east-tensions-fuel-inflation-fears-rate-hike-bets-11784831852540.html",
@@ -261,146 +401,6 @@
       "published_at": "2026-07-23T18:37:32+00:00",
       "category": "India",
       "simple_explanation": "GLOBAL-PRECIOUS:Gold falls 2% as Middle East tensions fuel inflation fears, rate-hike bets"
-    },
-    {
-      "title": "The 1 Number That Explains Why Alphabet Stock Is Tanking",
-      "description": "Alphabet’s second-quarter free cash flow turned negative for the first time as the Google parent ramps AI spending, leaving Wall Street divided over whether the investment will pay off.",
-      "url": "https://finance.yahoo.com/m/6ed9ecae-1d81-34c8-89f9-0e4289df4fc2/the-1-number-that-explains.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T18:34:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Alphabet’s second-quarter free cash flow turned negative for the first time as the Google parent ramps AI spending, leaving Wall Street divided over whether the investment will pay off."
-    },
-    {
-      "title": "Robinhood CEO’s X account hacked in apparent memecoin scam",
-      "description": "A hacker reportedly took over Robinhood CEO Vlad Tenev’s X account to promote a fake “VLAD” memecoin, posting what appeared to be a malicious token contract address.",
-      "url": "https://cointelegraph.com/news/robinhood-ceo-x-account-hacked-in-apparent-memecoin-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-robinhood-down-several-times-as-dj-sees-biggest-one-day-gains.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-23T18:09:26+00:00",
-      "category": "Crypto",
-      "simple_explanation": "A hacker reportedly took over Robinhood CEO Vlad Tenev’s X account to promote a fake “VLAD” memecoin, posting what appeared to be a malicious token contract address."
-    },
-    {
-      "title": "Aftermath Silver launches drilling at Berenguela and Challacollo Projects",
-      "description": "Aftermath Silver CEO Ralph Rushton joined Steve Darling from Proactive to discuss the start of new drilling campaigns at the company's Berenguela project in Peru and the Challacollo silver-gold project in northern Chile, aimed at expanding resources and testing new high-priority targets. At Berengue",
-      "url": "https://finance.yahoo.com/video/aftermath-silver-launches-drilling-berenguela-180412449.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T18:04:12+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Aftermath Silver CEO Ralph Rushton joined Steve Darling from Proactive to discuss the start of new drilling campaigns at the company's Berenguela project in Peru and the Challacollo silver-gold projec"
-    },
-    {
-      "title": "Tesla falls 14%, Alphabet sinks 6% as AI spending concerns spook investors",
-      "description": "Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.",
-      "url": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-23T18:00:12+00:00",
-      "category": "USA",
-      "simple_explanation": "Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence."
-    },
-    {
-      "title": "Update: Gold Retreats from Two-Week High as Dollar and Treasury Yields Rise",
-      "description": "(Updates prices in the second and final paragraphs.) Gold prices retreated midafternoon Thursday,",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-retreats-two-week-high-175451125.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T17:54:51+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Updates prices in the second and final paragraphs.) Gold prices retreated midafternoon Thursday,"
-    },
-    {
-      "title": "Morgan Stanley sees AI data center pivot unlocking upside for bitcoin miners",
-      "description": "Investing.com -- Morgan Stanley initiated coverage of bitcoin miners turned AI infrastructure providers, arguing that companies with large, grid-connected power assets are well positioned to benefit from surging demand for AI data centers as hyperscalers race to secure electricity for compute expans",
-      "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-sees-ai-data-175347881.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T17:53:47+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Investing.com -- Morgan Stanley initiated coverage of bitcoin miners turned AI infrastructure providers, arguing that companies with large, grid-connected power assets are well positioned to benefit f"
-    },
-    {
-      "title": "Sector Update: Energy Stocks Higher Thursday Afternoon",
-      "description": "Energy stocks rose Thursday afternoon with the NYSE Energy Sector Index gaining 1.1% and the State S",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-thursday-174800505.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T17:48:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Energy stocks rose Thursday afternoon with the NYSE Energy Sector Index gaining 1.1% and the State S"
-    },
-    {
-      "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
-      "description": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
-      "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-07-23T17:10:06+00:00",
-      "category": "Global",
-      "simple_explanation": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management."
-    },
-    {
-      "title": "Freeport-McMoRan shares slip despite second quarter earnings beat as copper outlook softens",
-      "description": "Freeport-McMoRan Inc (NYSE:FCX, XETRA:FPMB) reported stronger-than-expected second quarter 2026 results on Thursday, with earnings and revenue topping Wall Street expectations, although shares edged about 2% lower as investors weighed a slightly reduced near-term copper sales outlook. The...",
-      "url": "https://www.proactiveinvestors.com/companies/news/1095956/freeport-mcmoran-shares-slip-despite-second-quarter-earnings-beat-as-copper-outlook-softens-1095956.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T17:07:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Freeport-McMoRan Inc (NYSE:FCX, XETRA:FPMB) reported stronger-than-expected second quarter 2026 results on Thursday, with earnings and revenue topping Wall Street expectations, although shares edged a"
-    },
-    {
-      "title": "Goldman Sachs CEO backs ‘not perfect’ CLARITY Act as vote expected soon",
-      "description": "Goldman chief David Solomon will support the crypto market structure bill now in Congress, even as financial companies and banks are hesitant over provisions on stablecoins.",
-      "url": "https://cointelegraph.com/news/goldman-sachs-ceo-clarity-act-stablecoin-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-goldman-sachs-and-crypto-recap.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-23T16:57:11+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Goldman chief David Solomon will support the crypto market structure bill now in Congress, even as financial companies and banks are hesitant over provisions on stablecoins."
-    },
-    {
-      "title": "Gold crashes from $5,500 to $4,160 since the Iran conflict began, but experts see a massive buying opportunity",
-      "description": "The Iran conflict may be a bonanza for U.S. defense manufacturers, but it’s been a downbeat experience for gold prices.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-crashes-5-500-4-165000223.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T16:50:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The Iran conflict may be a bonanza for U.S. defense manufacturers, but it’s been a downbeat experience for gold prices."
-    },
-    {
-      "title": "Here’s why the CLARITY Act’s ethics deal may be so hard to reach",
-      "description": "Both parties say they want US crypto market structure legislation, but a dispute over ethics rules and who enforces them is becoming the bill’s biggest obstacle.",
-      "url": "https://cointelegraph.com/magazine/heres-why-the-clarity-acts-ethics-deal-may-be-so-hard-to-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/magazine-trump-v-harris-crypto-politics.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-23T16:44:42+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Both parties say they want US crypto market structure legislation, but a dispute over ethics rules and who enforces them is becoming the bill’s biggest obstacle."
-    },
-    {
-      "title": "Tesla falls 15%, Alphabet drops 8% as AI spending concerns mount",
-      "description": "Tesla shares fell to around $319 following disappointing quarterly earnings, marking their lowest since August 2025. Alphabet also declined despite higher revenue, with concerns about rising AI investment overshadowing positive results. Both companies contributed to a 1.55% drop in the S&amp;P 500.",
-      "url": "https://www.livemint.com/market/stock-market-news/tesla-falls-15-alphabet-drops-8-as-ai-spending-concerns-mount-11784819582476.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/23/1600x900/logo/US-STOCKS-10_1748507813617_1784822497896_306b6d03-4a9a-4d51-b5c0-87179cbefc65.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-23T16:20:44+00:00",
-      "category": "India",
-      "simple_explanation": "Tesla shares fell to around $319 following disappointing quarterly earnings, marking their lowest since August 2025. Alphabet also declined despite higher revenue, with concerns about rising AI invest"
-    },
-    {
-      "title": "Suryoday SFB Q1 profit more than doubles on strong loan growth",
-      "description": "Suryoday Small Finance Bank reported a more than twofold rise in first-quarter net profit to Rs 75 crore, driven by healthy business growth. Net interest income, operating profit and advances increased strongly, while gross NPAs improved significantly from a year earlier.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/suryoday-sfb-q1-profit-more-than-doubles-on-strong-loan-growth/articleshow/132586902.cms",
-      "image": "https://img.etimg.com/photo/msid-132586902,imgsize-11866.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-23T16:12:44+00:00",
-      "category": "India",
-      "simple_explanation": "Suryoday Small Finance Bank reported a more than twofold rise in first-quarter net profit to Rs 75 crore, driven by healthy business growth. Net interest income, operating profit and advances increase"
     }
   ]
 }
