@@ -1,46 +1,266 @@
 {
-  "last_updated": "2026-07-24T18:17:36.867372+00:00",
+  "last_updated": "2026-07-24T20:19:33.934643+00:00",
   "total": 40,
   "articles": [
     {
+      "title": "3 Reasons UAA is Risky and 1 Stock to Buy Instead",
+      "description": "Under Armour trades at $6.69 per share and has stayed right on track with the overall market, gaining 5.9% over the last six months. At the same time, the S&P 500 has returned 7.9%.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-uaa-risky-1-200908799.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-24T20:09:08+00:00",
+      "category": "USA",
+      "simple_explanation": "Under Armour trades at $6.69 per share and has stayed right on track with the overall market, gaining 5.9% over the last six months. At the same time, the S&P 500 has returned 7.9%."
+    },
+    {
+      "title": "Bond market anxiety is growing over AI capex budgets",
+      "description": "Google, Amazon and Meta are seeing credit spreads widen as fixed-income investors demand more reward on companies they lend to.",
+      "url": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-24T20:07:36+00:00",
+      "category": "USA",
+      "simple_explanation": "Google, Amazon and Meta are seeing credit spreads widen as fixed-income investors demand more reward on companies they lend to."
+    },
+    {
+      "title": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
+      "description": "Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a \"significant win.\"",
+      "url": "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-24T20:06:10+00:00",
+      "category": "USA",
+      "simple_explanation": "Paramount previously said it intended to complete its WBD acquisition by the end of September, but said Friday the agreement is a \"significant win.\""
+    },
+    {
+      "title": "House passes bill on lawmakers using insider information for stock trading",
+      "description": "According to Senator Elizabeth Warren, the House bill “won’t solve the problem“ of insider trading in Congress as lawmakers will still be allowed to own and sell stocks.",
+      "url": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-market-trading-1-breaking-news.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-24T20:05:50+00:00",
+      "category": "Crypto",
+      "simple_explanation": "According to Senator Elizabeth Warren, the House bill “won’t solve the problem“ of insider trading in Congress as lawmakers will still be allowed to own and sell stocks."
+    },
+    {
+      "title": "Top Cryptocurrencies Fall; Bitcoin Holds Above $64,000",
+      "description": "Top cryptocurrencies fell Friday, with Bitcoin (BTC-USD) down but still holding above $64,000. Th",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrencies-fall-bitcoin-holds-200416069.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-24T20:04:16+00:00",
+      "category": "USA",
+      "simple_explanation": "Top cryptocurrencies fell Friday, with Bitcoin (BTC-USD) down but still holding above $64,000. Th"
+    },
+    {
+      "title": "Trump defends DOJ subpoenas of NY Times reporters; Google also was targeted",
+      "description": "The DOJ is investigating the leak to The New York Times of security concerns about President Donald Trump's new Air Force One plane, donated by Qatar.",
+      "url": "https://www.cnbc.com/2026/07/24/trump-doj-subpoenas-new-york-times-google.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-24T20:02:44+00:00",
+      "category": "USA",
+      "simple_explanation": "The DOJ is investigating the leak to The New York Times of security concerns about President Donald Trump's new Air Force One plane, donated by Qatar."
+    },
+    {
+      "title": "2 Reasons to Watch ANIP and 1 to Stay Cautious",
+      "description": "Since January 2026, ANI Pharmaceuticals has been in a holding pattern, posting a small loss of 3.5% while floating around $78.49. The stock also fell short of the S&P 500’s 7.9% gain during that period.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-watch-anip-1-200108125.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-24T20:01:08+00:00",
+      "category": "USA",
+      "simple_explanation": "Since January 2026, ANI Pharmaceuticals has been in a holding pattern, posting a small loss of 3.5% while floating around $78.49. The stock also fell short of the S&P 500’s 7.9% gain during that perio"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Mixed Late Afternoon",
+      "description": "Energy stocks were mixed late Friday afternoon, with the NYSE Energy Sector Index 0.1% lower and the",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-195951492.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-24T19:59:51+00:00",
+      "category": "USA",
+      "simple_explanation": "Energy stocks were mixed late Friday afternoon, with the NYSE Energy Sector Index 0.1% lower and the"
+    },
+    {
+      "title": "3 Reasons WYNN is Risky and 1 Stock to Buy Instead",
+      "description": "Over the past six months, Wynn Resorts’s shares (currently trading at $95.86) have posted a disappointing 16% loss, well below the S&P 500’s 7.9% gain. This might have investors contemplating their next move.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-wynn-risky-1-195308412.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-24T19:53:08+00:00",
+      "category": "USA",
+      "simple_explanation": "Over the past six months, Wynn Resorts’s shares (currently trading at $95.86) have posted a disappointing 16% loss, well below the S&P 500’s 7.9% gain. This might have investors contemplating their ne"
+    },
+    {
+      "title": "CDC says massive cyclospora outbreak is now in nine states",
+      "description": "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
+      "url": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-24T19:53:01+00:00",
+      "category": "USA",
+      "simple_explanation": "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan."
+    },
+    {
+      "title": "Invest in the “Dogs of the Dow” with this Cheap, But Effective Dividend ETF",
+      "description": "One of Wall Street's oldest investing strategies has been quietly beating its own benchmark for years, and there is a dirt-cheap ETF that packages the whole idea into a single ticker most investors have never heard of.",
+      "url": "https://247wallst.com/investing/2026/07/24/invest-in-the-dogs-of-the-dow-with-this-cheap-but-effective-dividend-etf/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-24T19:50:13+00:00",
+      "category": "USA",
+      "simple_explanation": "One of Wall Street's oldest investing strategies has been quietly beating its own benchmark for years, and there is a dirt-cheap ETF that packages the whole idea into a single ticker most investors ha"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Slips As Sellers Hit Memory Chips; Oil, Yields Slide (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index rises Friday as oil prices pull back after big gains in recent sessions. SpaceX stock drops.",
+      "url": "https://finance.yahoo.com/m/ade5d14e-80ed-362c-af6a-6db848708217/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-24T19:42:18+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index rises Friday as oil prices pull back after big gains in recent sessions. SpaceX stock drops."
+    },
+    {
       "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
-      "description": "Trump's Truth Social post railed against the European Union's new fine on Google, and prior penalties against U.S. tech giants Apple, Meta and Amazon.",
+      "description": "Trump on Truth Social railed against the European Union's new fine on Google and prior penalties against U.S. tech giants Apple, Meta and Amazon.",
       "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-07-24T18:08:57+00:00",
+      "published_at": "2026-07-24T19:39:50+00:00",
       "category": "USA",
-      "simple_explanation": "Trump's Truth Social post railed against the European Union's new fine on Google, and prior penalties against U.S. tech giants Apple, Meta and Amazon."
+      "simple_explanation": "Trump on Truth Social railed against the European Union's new fine on Google and prior penalties against U.S. tech giants Apple, Meta and Amazon."
     },
     {
-      "title": "FDVV’s 2.8% yield hides tech mega-cap risk in dividend portfolio",
-      "description": "FDVV markets itself as a dividend ETF, but a quarter of its portfolio sits in tech giants that barely yield anything. Whether that tradeoff quietly undermines your income strategy depends on what is actually holding the distribution together.",
-      "url": "https://247wallst.com/investing/2026/07/24/fdvvs-2-8-yield-hides-tech-mega-cap-risk-in-dividend-portfolio/?.tsrc=rss",
+      "title": "3 Reasons SOLV is Risky and 1 Stock to Buy Instead",
+      "description": "Since January 2026, Solventum has been in a holding pattern, posting a small loss of 2.2% while floating around $77.29. The stock also fell short of the S&P 500’s 7.9% gain during that period.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-solv-risky-1-193708034.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-24T18:04:29+00:00",
+      "published_at": "2026-07-24T19:37:08+00:00",
       "category": "USA",
-      "simple_explanation": "FDVV markets itself as a dividend ETF, but a quarter of its portfolio sits in tech giants that barely yield anything. Whether that tradeoff quietly undermines your income strategy depends on what is a"
+      "simple_explanation": "Since January 2026, Solventum has been in a holding pattern, posting a small loss of 2.2% while floating around $77.29. The stock also fell short of the S&P 500’s 7.9% gain during that period."
     },
     {
-      "title": "Stock Market: Nasdaq Skids As Oil Prices Jump, Google And Tesla Plunge: Weekly Review",
-      "description": "The Nasdaq tested key lows and the S&P 500 broke support as oil prices soared while Tesla, Google sold off. But there was strength too.",
-      "url": "https://finance.yahoo.com/m/02827e22-586b-354a-920f-f93b7754adfc/stock-market%3A-nasdaq-skids-as.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-24T18:01:19+00:00",
-      "category": "USA",
-      "simple_explanation": "The Nasdaq tested key lows and the S&P 500 broke support as oil prices soared while Tesla, Google sold off. But there was strength too."
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-24T19:03:45+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "UBS Says It’s Time to Diversify — These Are Its 2 Stock Picks",
-      "description": "Wall Street pulled back on Thursday after the S&P 500 had spent recent weeks trading near record territory. The index fell 1.2%, while the Nasdaq dropped 2.15%, as investors digested disappointing earnings from several large tech companies, heavier AI spending plans, higher oil prices, and rising Tr",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-says-time-diversify-2-175500280.html?.tsrc=rss",
+      "title": "Update: US Equity Indexes Mixed as Technology Declines in Final Leg of Trading",
+      "description": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-technology-190305535.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-24T17:55:00+00:00",
+      "published_at": "2026-07-24T19:03:05+00:00",
       "category": "USA",
-      "simple_explanation": "Wall Street pulled back on Thursday after the S&P 500 had spent recent weeks trading near record territory. The index fell 1.2%, while the Nasdaq dropped 2.15%, as investors digested disappointing ear"
+      "simple_explanation": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe"
+    },
+    {
+      "title": "The Red Sea Is Becoming Saudi Arabia's Biggest Oil Bottleneck",
+      "description": "Saudi Arabia's East-West Pipeline bypasses Hormuz, but a closure of Bab el-Mandeb leaves Yanbu exports facing severe logistical constraints, with the Suez Canal unable to fully replace the Red Sea route.",
+      "url": "https://finance.yahoo.com/energy/articles/red-sea-becoming-saudi-arabias-190000674.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-24T19:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Saudi Arabia's East-West Pipeline bypasses Hormuz, but a closure of Bab el-Mandeb leaves Yanbu exports facing severe logistical constraints, with the Suez Canal unable to fully replace the Red Sea rou"
+    },
+    {
+      "title": "Yields ease, but Iran war keeps rate-hike bets alive",
+      "description": "USA-BONDS/ (UPDATE 2):TREASURIES-Yields ease, but Iran war keeps rate-hike bets alive",
+      "url": "https://www.livemint.com/market/yields-ease-but-iran-war-keeps-rate-hike-bets-alive-11784919575477.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+      "source": "LiveMint",
+      "published_at": "2026-07-24T18:59:35+00:00",
+      "category": "India",
+      "simple_explanation": "USA-BONDS/ (UPDATE 2):TREASURIES-Yields ease, but Iran war keeps rate-hike bets alive"
+    },
+    {
+      "title": "Yen records biggest weekly drop in over two months, dollar climbs for the week",
+      "description": "GLOBAL-FOREX/ (UPDATE 5, GRAPHICS):FOREX-Yen records biggest weekly drop in over two months, dollar climbs for the week",
+      "url": "https://www.livemint.com/market/yen-records-biggest-weekly-drop-in-over-two-months-dollar-climbs-for-the-week-11784919025317.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+      "source": "LiveMint",
+      "published_at": "2026-07-24T18:50:24+00:00",
+      "category": "India",
+      "simple_explanation": "GLOBAL-FOREX/ (UPDATE 5, GRAPHICS):FOREX-Yen records biggest weekly drop in over two months, dollar climbs for the week"
+    },
+    {
+      "title": "Trump considers ‘massive attack’ on Iran; Pakistan reportedly seeks to restart stalled peace talks",
+      "description": "The president told Axios he was considering an operation \"bigger than ever before\" before Reuters reported Pakistan is seeking to restart peace talks.",
+      "url": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-24T18:48:10+00:00",
+      "category": "USA",
+      "simple_explanation": "The president told Axios he was considering an operation \"bigger than ever before\" before Reuters reported Pakistan is seeking to restart peace talks."
+    },
+    {
+      "title": "Why Experts Say Earnings Growth May Be Stalling—and What That Means For Stocks",
+      "description": "Rising Oil Prices Threaten to Squeeze Corporate Profits",
+      "url": "https://www.investopedia.com/why-experts-say-earnings-growth-may-be-stalling-and-what-that-means-for-stocks-economy-oil-prices-12026287?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-24T18:44:28+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Rising Oil Prices Threaten to Squeeze Corporate Profits"
+    },
+    {
+      "title": "SpaceX, Micron, SAP, Verizon, Amex, Tenet, and More Stocks That Explain Today’s Market",
+      "description": "Stocks rise as oil prices fall but Intel shares are declining even as the chip maker’s earnings beat analysts’ expectations.",
+      "url": "https://finance.yahoo.com/m/e191a137-6116-3870-ad52-6df45ebfb4df/spacex%2C-micron%2C-sap%2C-verizon%2C.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-24T18:37:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Stocks rise as oil prices fall but Intel shares are declining even as the chip maker’s earnings beat analysts’ expectations."
+    },
+    {
+      "title": "Stocks edge back up as oil prices pause climb but yields hover near highs",
+      "description": "GLOBAL-MARKETS:Stocks edge back up as oil prices pause climb but yields hover near highs",
+      "url": "https://www.livemint.com/market/stocks-edge-back-up-as-oil-prices-pause-climb-but-yields-hover-near-highs-11784917992500.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "source": "LiveMint",
+      "published_at": "2026-07-24T18:33:12+00:00",
+      "category": "India",
+      "simple_explanation": "GLOBAL-MARKETS:Stocks edge back up as oil prices pause climb but yields hover near highs"
+    },
+    {
+      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+      "description": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
+      "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-07-24T18:20:17+00:00",
+      "category": "Global",
+      "simple_explanation": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves."
+    },
+    {
+      "title": "Update: Equity Markets Mostly Rise Intraday; Oil Retreats",
+      "description": "(Updates with latest market prices and developments.) US benchmark equity indexes were mostly hig",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equity-markets-mostly-rise-intraday-181257739.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-24T18:12:57+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with latest market prices and developments.) US benchmark equity indexes were mostly hig"
+    },
+    {
+      "title": "NovaRed Mining Identifies Large High-Intensity Magnetic Target Associated with Regional Copper-Gold Intrusive System",
+      "description": "Vancouver, British Columbia--(Newsfile Corp. - July 24, 2026) - NovaRed Mining Inc. (CSE: NRED) (OTCQB: NREDF) (\"NovaRed\" or the \"Company\") is pleased to report a geological interpretation of a large, regional, high-intensity magnetic anomaly underlying the Wilmac Copper-Gold Project (the \"Project\")",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/novared-mining-identifies-large-high-181100687.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-24T18:11:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - July 24, 2026) - NovaRed Mining Inc. (CSE: NRED) (OTCQB: NREDF) (\"NovaRed\" or the \"Company\") is pleased to report a geological interpretation of a large,"
     },
     {
       "title": "Update: Gold Steady, Remaining Above $4,000 Despite Inflation Worries",
@@ -51,36 +271,6 @@
       "published_at": "2026-07-24T17:54:55+00:00",
       "category": "Commodities",
       "simple_explanation": "(Updates prices in the second and final paragraphs.) Gold was mostly steady midafternoon Friday,"
-    },
-    {
-      "title": "3 Dow Jones Stocks with Solid Fundamentals",
-      "description": "The Dow Jones (^DJI) is packed with iconic businesses that have built strong brands and durable market positions. A select few continue to thrive, delivering solid returns and proving their resilience in an evolving market.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-dow-jones-stocks-solid-174508840.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-24T17:45:08+00:00",
-      "category": "USA",
-      "simple_explanation": "The Dow Jones (^DJI) is packed with iconic businesses that have built strong brands and durable market positions. A select few continue to thrive, delivering solid returns and proving their resilience"
-    },
-    {
-      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-      "description": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
-      "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-24T17:37:49+00:00",
-      "category": "USA",
-      "simple_explanation": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves."
-    },
-    {
-      "title": "Sector Update: Energy Stocks Mixed Friday Afternoon",
-      "description": "Energy stocks were mixed Friday afternoon with the NYSE Energy Sector Index little changed and the S",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-friday-173747758.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-24T17:37:47+00:00",
-      "category": "USA",
-      "simple_explanation": "Energy stocks were mixed Friday afternoon with the NYSE Energy Sector Index little changed and the S"
     },
     {
       "title": "Peter Schiff sees something big in gold and silver",
@@ -103,74 +293,14 @@
       "simple_explanation": "Total card spending, or billed business, climbed 9% year over year to $455.8 billion on a foreign exchange-adjusted basis. Quarterly revenue also rose 10% to $19.6 billion, reflecting healthy consumer"
     },
     {
-      "title": "CDC says massive cyclospora outbreak is now in nine states",
-      "description": "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
-      "url": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-24T17:32:22+00:00",
-      "category": "USA",
-      "simple_explanation": "The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania — join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan."
-    },
-    {
-      "title": "Update: US Equity Indexes Trade Mixed Amid Declining Crude Oil, Treasury Yields",
-      "description": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-trade-mixed-172845159.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-24T17:28:45+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par"
-    },
-    {
-      "title": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer",
-      "description": "The bearish Tesla set-up we flagged ahead of Wednesday's report has delivered most of what it can.",
-      "url": "https://www.cnbc.com/2026/07/24/trader-who-successfully-shorted-tesla-into-earnings-now-sets-sights-on-this-high-flyer-.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-24T17:28:15+00:00",
-      "category": "USA",
-      "simple_explanation": "The bearish Tesla set-up we flagged ahead of Wednesday's report has delivered most of what it can."
-    },
-    {
-      "title": "If your mortgage offer starts with a 3, it isn't too high to lock in",
-      "description": "Robert McLister: Big Banks are faster to hike than to cut, and are still waiting to see if the latest yield spike will last",
-      "url": "https://financialpost.com/real-estate/mortgages/mortgage-rates/offer-starts-3-not-high-lock-in?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-24T17:26:17+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Robert McLister: Big Banks are faster to hike than to cut, and are still waiting to see if the latest yield spike will last"
-    },
-    {
       "title": "Critical minerals start-up threatens to quit Britain",
       "description": "An innovative British metals producer planning a £30m factory in the North East has warned it could relocate to the US or Japan unless it gets more taxpayer support.",
-      "url": "https://uk.finance.yahoo.com/news/critical-minerals-start-threatens-quit-172234700.html?.tsrc=rss",
+      "url": "https://www.telegraph.co.uk/business/2026/07/24/critical-minerals-start-up-threatens-to-quit-britain/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-07-24T17:22:34+00:00",
       "category": "Commodities",
       "simple_explanation": "An innovative British metals producer planning a £30m factory in the North East has warned it could relocate to the US or Japan unless it gets more taxpayer support."
-    },
-    {
-      "title": "Stock Market Today: Dow Gains Amid Iran News, Oil Slides; Oracle Hits New Lows (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index rises Friday as oil prices pull back after big gains in recent sessions. SpaceX stock drops.",
-      "url": "https://finance.yahoo.com/m/ade5d14e-80ed-362c-af6a-6db848708217/stock-market-today%3A-dow-gains.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-24T17:22:26+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index rises Friday as oil prices pull back after big gains in recent sessions. SpaceX stock drops."
-    },
-    {
-      "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
-      "description": "Anthropic said Claude Opus 5 is its best performing and its most cost-effective offering.",
-      "url": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-24T17:20:47+00:00",
-      "category": "USA",
-      "simple_explanation": "Anthropic said Claude Opus 5 is its best performing and its most cost-effective offering."
     },
     {
       "title": "Small-cap Orient Technologies shares to be in focus on Monday after  ₹76 crore NPCI order",
@@ -183,34 +313,14 @@
       "simple_explanation": "Orient Technologies is set to gain attention after receiving a  ₹76.2 crore order from NPCI for server supply, scheduled over 18 weeks. This contract strengthens its capabilities in enterprise infrast"
     },
     {
-      "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
-      "description": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded I",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-171116480.html?.tsrc=rss",
+      "title": "AI Has Completely Rewritten the Rules of the Stock Market",
+      "description": "AI on/AI off is now driving the stock market.  Rocky Fishman at Asym Research points out that of the 11 sectors that make up the  five have a zero or negative correlation with the index over the past five months, including healthcare and real estate.  If I told you the  exchange-traded fund is up 1.",
+      "url": "https://finance.yahoo.com/m/f403e39a-bea2-3efa-9dc6-21ede0d06444/ai-has-completely-rewritten.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-24T17:11:16+00:00",
-      "category": "USA",
-      "simple_explanation": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded I"
-    },
-    {
-      "title": "Chip Stocks Slide Friday—Memory Favorites Micron, Sandisk Among the Big Decliners",
-      "description": "Intel Shares Drop Despite Strong AI-Fueled Earnings",
-      "url": "https://www.investopedia.com/chip-stocks-slide-friday-memory-favorites-micron-sandisk-among-big-decliners-mu-sndk-intel-intc-12026380?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-24T17:10:48+00:00",
-      "category": "USA",
-      "simple_explanation": "Intel Shares Drop Despite Strong AI-Fueled Earnings"
-    },
-    {
-      "title": "S&P 500 Rises 0.6% at Midday on Easing Middle East Tensions",
-      "description": "The major indexes bounced back Friday on falling oil prices. Here's what's driving the divergence between old-economy gains and tech-sector jitters.",
-      "url": "https://www.fool.com/investing/2026/07/24/sp-500-rises-06-at-midday-on-easing-iran-tension/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-24T16:57:06+00:00",
-      "category": "USA",
-      "simple_explanation": "The major indexes bounced back Friday on falling oil prices. Here's what's driving the divergence between old-economy gains and tech-sector jitters."
+      "published_at": "2026-07-24T17:19:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "AI on/AI off is now driving the stock market.  Rocky Fishman at Asym Research points out that of the 11 sectors that make up the  five have a zero or negative correlation with the index over the past "
     },
     {
       "title": "Crypto advocacy groups support CLARITY passage as ethics rules face pushback",
@@ -243,26 +353,6 @@
       "simple_explanation": "Brent crude sinks to $95 per barrel amid hopes of U.S.-Iran talks, and the Dow jumps today, July 24, 2026."
     },
     {
-      "title": "Gold, silver prices today: Comex gold rebounds above $4,070; silver at $59 as investors assess Middle East tensions",
-      "description": "The prices of precious metals gold and silver increased on 24 July, driven by the Middle Eastern conflict and anticipation of US rate hikes. Gold prices reached an intraday high of $4,073, while silver rose to $58.98, with both metals showing weekly gains amid global market uncertainty.",
-      "url": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-rebounds-above-4-070-silver-at-59-as-investors-assess-middle-east-tensions-11784905494690.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/24/1600x900/logo/FILES-KUWAIT-COMMODITIES-MARKETS-GOLD-SILVER_17688_1784906248600_1784906248780_ba55094b-566e-462c-babc-b2f3fddc9b3d.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-24T16:17:28+00:00",
-      "category": "India",
-      "simple_explanation": "The prices of precious metals gold and silver increased on 24 July, driven by the Middle Eastern conflict and anticipation of US rate hikes. Gold prices reached an intraday high of $4,073, while silve"
-    },
-    {
-      "title": "Trump considers ‘massive attack’ on Iran; Pakistan reportedly seeks to restart stalled peace talks",
-      "description": "The president told Axios he was considering an operation \"bigger than ever before\" before Reuters reported Pakistan is seeking to restart peace talks.",
-      "url": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-24T16:04:46+00:00",
-      "category": "USA",
-      "simple_explanation": "The president told Axios he was considering an operation \"bigger than ever before\" before Reuters reported Pakistan is seeking to restart peace talks."
-    },
-    {
       "title": "Internet Freedom Foundation calls India’s BitChat GitHub takedown order ‘unconstitutional’",
       "description": "The digital rights group says India’s order to remove Jack Dorsey’s BitChat repositories from GitHub exceeds the government’s legal authority and threatens free speech.",
       "url": "https://cointelegraph.com/news/internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstitutional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -271,26 +361,6 @@
       "published_at": "2026-07-24T16:04:30+00:00",
       "category": "Crypto",
       "simple_explanation": "The digital rights group says India’s order to remove Jack Dorsey’s BitChat repositories from GitHub exceeds the government’s legal authority and threatens free speech."
-    },
-    {
-      "title": "AI Has Completely Rewritten the Rules of the Stock Market",
-      "description": "AI on/AI off is now driving the stock market.  Rocky Fishman at Asym Research points out that of the 11 sectors that make up the  five have a zero or negative correlation with the index over the past five months, including healthcare and real estate.  If I told you the  exchange-traded fund is up 1.",
-      "url": "https://finance.yahoo.com/m/f403e39a-bea2-3efa-9dc6-21ede0d06444/ai-has-completely-rewritten.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-24T15:41:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "AI on/AI off is now driving the stock market.  Rocky Fishman at Asym Research points out that of the 11 sectors that make up the  five have a zero or negative correlation with the index over the past "
-    },
-    {
-      "title": "Gold prices today, Friday, July 24, 2026: Gold price remains below $4,100 ahead of next week’s rate decision",
-      "description": "Gold (GC=F) August futures opened at $4,053.40 per troy ounce on Friday, July 24, 2026, up 0.1% from Thursday's closing price. The gold price moved higher this morning to $4,057 at 8:07 a.m. ET.",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-24-2026-gold-price-remains-below-4100-ahead-of-next-weeks-rate-decision-152726975.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-24T15:27:26+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold (GC=F) August futures opened at $4,053.40 per troy ounce on Friday, July 24, 2026, up 0.1% from Thursday's closing price. The gold price moved higher this morning to $4,057 at 8:07 a.m. ET."
     },
     {
       "title": "Crypto Biz: Is the AI-to-crypto rotation underway?",
@@ -323,16 +393,6 @@
       "simple_explanation": "American Express has indicated an impressive eight percent growth in profit during the second quarter, largely driven by increased spending from card members and a decline in delinquency rates. The su"
     },
     {
-      "title": "Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds",
-      "description": "Bitcoin saw several dips under the $64,000 mark as a Binance “plunge protection team” reemerged with bid liquidity to avoid a deeper BTC price rout.",
-      "url": "https://cointelegraph.com/markets/bitcoin-falls-under-64k-us-bond-yields-fed-rate-hike-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/bungee-jumping-bitcoin-1.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-24T14:28:03+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin saw several dips under the $64,000 mark as a Binance “plunge protection team” reemerged with bid liquidity to avoid a deeper BTC price rout."
-    },
-    {
       "title": "ACC Q1 Results: Profit plunges 60% to Rs 147 crore on lower sales",
       "description": "ACC Ltd, part of the Adani Group, reported a staggering 60.8% decline in net profit for the June quarter. This drop in profitability can be attributed to a decline in sales volume, resulting in a 7.75% decrease in revenue compared to the previous year. While higher costs impacted earnings, the compa",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/acc-q1-results-profit-plunges-60-to-rs-147-crore-on-lower-sales/articleshow/132608115.cms",
@@ -341,66 +401,6 @@
       "published_at": "2026-07-24T14:23:35+00:00",
       "category": "India",
       "simple_explanation": "ACC Ltd, part of the Adani Group, reported a staggering 60.8% decline in net profit for the June quarter. This drop in profitability can be attributed to a decline in sales volume, resulting in a 7.75"
-    },
-    {
-      "title": "REC Q1 Results: Net profit dips over 6% to Rs 4,193 crore",
-      "description": "REC Ltd reported a year-on-year profit decline of six percent for the June quarter, primarily due to lower interest income affecting its consolidated net profit. Additionally, total income dropped compared to the previous year. The company announced an interim dividend of Rs 4.25 per share and decla",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/rec-q1-results-net-profit-dips-over-6-to-rs-4193-crore/articleshow/132608016.cms",
-      "image": "https://img.etimg.com/photo/msid-132608016,imgsize-470686.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-24T14:19:25+00:00",
-      "category": "India",
-      "simple_explanation": "REC Ltd reported a year-on-year profit decline of six percent for the June quarter, primarily due to lower interest income affecting its consolidated net profit. Additionally, total income dropped com"
-    },
-    {
-      "title": "SAIL Q1 Results: Net profit jumps 138% YoY to  ₹1,636 crore; revenue remains flat",
-      "description": "SAIL reported a 138% YoY increase in net profit to  ₹1,636 crore for Q1 FY27, despite lower production. EBITDA rose 49% YoY to  ₹4,356 crore. The company moderated production due to geopolitical issues but aims for improved stability ahead.",
-      "url": "https://www.livemint.com/market/stock-market-news/sail-q1-results-net-profit-jumps-138-yoy-to-rs-1-636-crore-revenue-remains-flat-11784900706880.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/24/1600x900/INDIA-ANTITRUST-STEEL-0_1778825175819_177882518689_1784900701109_1784900701230_ba55dfcd-0063-4f71-9cdc-05d1fdaddbfc.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-07-24T14:17:08+00:00",
-      "category": "India",
-      "simple_explanation": "SAIL reported a 138% YoY increase in net profit to  ₹1,636 crore for Q1 FY27, despite lower production. EBITDA rose 49% YoY to  ₹4,356 crore. The company moderated production due to geopolitical issue"
-    },
-    {
-      "title": "Lodha Developers Q1 Results: Profit jumps 2-fold to Rs 1,373 crore",
-      "description": "Lodha Developers reported a remarkable 100% increase in net profit for the first quarter, showcasing substantial growth in sales bookings, which rose by four percent to reach Rs 4,630 crore. Their total income has significantly outperformed the same quarter last year, marking the highest quarterly p",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-q1-results-profit-jumps-2-fold-to-rs-1373-crore/articleshow/132607903.cms",
-      "image": "https://img.etimg.com/photo/msid-132607903,imgsize-66098.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-24T14:15:01+00:00",
-      "category": "India",
-      "simple_explanation": "Lodha Developers reported a remarkable 100% increase in net profit for the first quarter, showcasing substantial growth in sales bookings, which rose by four percent to reach Rs 4,630 crore. Their tot"
-    },
-    {
-      "title": "Pulse of the Street: Oil spike knocks markets to sharpest weekly fall since mid-May",
-      "description": "Benchmark Nifty 50 and the Sensex fell 0.4% each on Friday to close at 23,767.45 and 76,059.75, respectively. For the week, the Nifty lost 2.3% while Sensex declined 2.6%, their steepest fall since the week ended 15 May, when the benchmarks had shed 2.7%.",
-      "url": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-crude-oil-spike-equities-sensex-nifty-11784895654005.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/24/1600x900/logo/Sensex_rise_1758016085667_1758016091787_1784902379573_05ba92e8-5706-4f34-9c15-fe422d9450ba.png",
-      "source": "LiveMint",
-      "published_at": "2026-07-24T14:14:55+00:00",
-      "category": "India",
-      "simple_explanation": "Benchmark Nifty 50 and the Sensex fell 0.4% each on Friday to close at 23,767.45 and 76,059.75, respectively. For the week, the Nifty lost 2.3% while Sensex declined 2.6%, their steepest fall since th"
-    },
-    {
-      "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
-      "description": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
-      "url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-07-24T14:10:40+00:00",
-      "category": "Global",
-      "simple_explanation": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel."
-    },
-    {
-      "title": "V-Mart Retail Q1 Results: Profit surges 40% to Rs 47 crore",
-      "description": "V-Mart Retail has reported an impressive 40.5% increase in net profit for the June quarter, reaching Rs 47.21 crore, up from Rs 33.60 crore. Revenue from operations surged by 23% to Rs 1,088.81 crore, while total expenses grew by 22% to Rs 1,031.94 crore. The company has also broadened its horizons ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/v-mart-retail-q1-results-profit-surges-40-to-rs-47-crore/articleshow/132607877.cms",
-      "image": "https://img.etimg.com/photo/msid-132607877,imgsize-4277.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-24T14:07:21+00:00",
-      "category": "India",
-      "simple_explanation": "V-Mart Retail has reported an impressive 40.5% increase in net profit for the June quarter, reaching Rs 47.21 crore, up from Rs 33.60 crore. Revenue from operations surged by 23% to Rs 1,088.81 crore,"
     }
   ]
 }
