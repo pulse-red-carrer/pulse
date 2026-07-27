@@ -1,26 +1,286 @@
 {
-  "last_updated": "2026-07-27T14:34:47.358285+00:00",
+  "last_updated": "2026-07-27T16:57:36.025366+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Sam Altman to meet with Trump administration, Senators this week. Here's what he plans to say",
+      "title": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
+      "description": "The certification could expand access to Tether’s gold-backed token among Islamic financial institutions and investors seeking Shariah-compliant exposure to physical gold.",
+      "url": "https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sharia-ruling-on-crypto-will-it-set-a-standard-for-acceptance.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-27T16:44:03+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The certification could expand access to Tether’s gold-backed token among Islamic financial institutions and investors seeking Shariah-compliant exposure to physical gold."
+    },
+    {
+      "title": "Kraken parent Payward acquires Magic Labs’ wallet business",
+      "description": "The deal brings wallet technology to Payward’s enterprise platform, potentially reducing the number of infrastructure providers businesses need to integrate with.",
+      "url": "https://cointelegraph.com/news/kraken-parent-payward-acquires-magic-labs-wallet-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/piece-unite-blockchain-cube.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-27T16:40:39+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The deal brings wallet technology to Payward’s enterprise platform, potentially reducing the number of infrastructure providers businesses need to integrate with."
+    },
+    {
+      "title": "US Equity Indexes Mixed, Crude Oil Sinks in Midday Trading",
+      "description": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-crude-163934577.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-27T16:39:34+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit"
+    },
+    {
+      "title": "Netanyahu, Zelenskyy come to DC for Graham's funeral, meetings with Trump amid wars",
+      "description": "The funeral for Sen. Lindsey Graham is bringing world leaders to Washington at a time when many are eager to meet with President Donald Trump amid wars.",
+      "url": "https://www.cnbc.com/2026/07/27/trump-netanyahu-zelenskyy-iran-war-lindsey-graham-funeral.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-27T16:38:39+00:00",
+      "category": "USA",
+      "simple_explanation": "The funeral for Sen. Lindsey Graham is bringing world leaders to Washington at a time when many are eager to meet with President Donald Trump amid wars."
+    },
+    {
+      "title": "Stock Market Midday, July 27: Dow Edges Higher as Nvidia Drop Weighs on Nasdaq",
+      "description": "On July 27, 2026, crude oil retreat lifts blue-chip sentiment, though tech weakness tempers broader gains.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/27/stock-market-midday-july-27-dow-edges-higher-as-nvidia-drop-weighs-on-nasdaq/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-27T16:37:57+00:00",
+      "category": "USA",
+      "simple_explanation": "On July 27, 2026, crude oil retreat lifts blue-chip sentiment, though tech weakness tempers broader gains."
+    },
+    {
+      "title": "Stocks jump as US-Iran pause sees oil price fall",
+      "description": "The US held fire at the weekend after 13 days of attacks on sites in Iran.",
+      "url": "https://uk.finance.yahoo.com/news/stocks-jump-us-iran-pause-163717919.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-27T16:37:17+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The US held fire at the weekend after 13 days of attacks on sites in Iran."
+    },
+    {
+      "title": "Sen. McConnell still not cleared to go back to work as he recovers from fall, doctors say",
+      "description": "McConnell's office shared a press release that included a written statement from the senator apologizing for being unable to attend an annual Kentucky picnic.",
+      "url": "https://www.cnbc.com/2026/07/27/mcconnell-fall-hospital-senate-recovery.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-27T16:36:30+00:00",
+      "category": "USA",
+      "simple_explanation": "McConnell's office shared a press release that included a written statement from the senator apologizing for being unable to attend an annual Kentucky picnic."
+    },
+    {
+      "title": "Oil prices plunge as US and Iran pause strikes over Strait of Hormuz",
+      "description": "Oil prices eased in early trading on Monday, falling further from a two-month high set last week, after the United States and Iran refrained from launching military strikes in the Persian Gulf.View on euronews",
+      "url": "https://www.euronews.com/2026/07/27/oil-prices-plunge-as-us-and-iran-pause-strikes-over-strait-of-hormuz?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-27T16:35:54+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil prices eased in early trading on Monday, falling further from a two-month high set last week, after the United States and Iran refrained from launching military strikes in the Persian Gulf.View on"
+    },
+    {
+      "title": "Brent Falls Below $90 as Trump Says US, Iran in Talks",
+      "description": "Brent declined below $90 a barrel on Monday as President Donald Trump said the US and Iran were in t",
+      "url": "https://finance.yahoo.com/energy/articles/brent-falls-below-90-trump-162555454.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-27T16:25:55+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Brent declined below $90 a barrel on Monday as President Donald Trump said the US and Iran were in t"
+    },
+    {
+      "title": "Anthony Scaramucci Says Trump's Meme Coins 'Karate Chopped' Crypto's Image But Vouches For Bitcoin’s $10T Market Cap",
+      "description": "In a podcast, Anthony Scaramucci stated he is not optimistic about the CLARITY Act’s passage this year and says it has up to a 40% chance, despite recent progress in the legislature.",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/anthony-scaramucci-trump-meme-coins-karate-chopped-bitcoin/cZZxNasR76Q?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-27T16:21:44+00:00",
+      "category": "Crypto",
+      "simple_explanation": "In a podcast, Anthony Scaramucci stated he is not optimistic about the CLARITY Act’s passage this year and says it has up to a 40% chance, despite recent progress in the legislature."
+    },
+    {
+      "title": "Oil prices tumble, stock set to rise amid pause in U.S.-Iran fighting",
+      "description": "Crude prices dropped as the U.S. Ambassador to the UN said suspension of attacks is aimed at finding a diplomatic solution.",
+      "url": "https://www.cbsnews.com/news/oil-prices-tumble-us-iran-pause/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-27T16:09:06+00:00",
+      "category": "USA",
+      "simple_explanation": "Crude prices dropped as the U.S. Ambassador to the UN said suspension of attacks is aimed at finding a diplomatic solution."
+    },
+    {
+      "title": "Why this oil pullback could be a buying opportunity",
+      "description": "Oil prices (CL=F, BZ=F) are pulling back as the U.S. and Iran pause military strikes. Tortoise senior portfolio manager & managing director Rob Thummel joins Market Catalysts to discuss the volatility of oil prices and why he sees long-term value in energy stocks.",
+      "url": "https://finance.yahoo.com/video/why-this-oil-pullback-could-be-a-buying-opportunity-160830477.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-27T16:08:30+00:00",
+      "category": "USA",
+      "simple_explanation": "Oil prices (CL=F, BZ=F) are pulling back as the U.S. and Iran pause military strikes. Tortoise senior portfolio manager & managing director Rob Thummel joins Market Catalysts to discuss the volatility"
+    },
+    {
+      "title": "Bond investors, unsure about Fed policy outlook, hedge against US rate shock",
+      "description": "As U.S. interest rates continue to rise, bond investors are taking proactive measures to protect their portfolios. The surge in demand for swaptions, which yield profits from increased borrowing costs, highlights growing apprehensions regarding Federal Reserve policies and ongoing inflation. Investo",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/bond-investors-unsure-about-fed-policy-outlook-hedge-against-us-rate-shock/articleshow/132665831.cms",
+      "image": "https://img.etimg.com/photo/msid-132665831,imgsize-459753.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-27T16:03:25+00:00",
+      "category": "India",
+      "simple_explanation": "As U.S. interest rates continue to rise, bond investors are taking proactive measures to protect their portfolios. The surge in demand for swaptions, which yield profits from increased borrowing costs"
+    },
+    {
+      "title": "Top Midday Stories: Nvidia Enters Into $500 Billion Partnership With SK Group; AstraZeneca Earnings Top Estimates",
+      "description": "The Dow Jones Industrial Average was up, while the S&P 500 and Nasdaq Composite were down in late-mo",
+      "url": "https://finance.yahoo.com/technology/ai/articles/top-midday-stories-nvidia-enters-155841596.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-27T15:58:41+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dow Jones Industrial Average was up, while the S&P 500 and Nasdaq Composite were down in late-mo"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+      "description": "Indian markets snapped a five-session losing streak as easing Iran-US tensions, lower crude prices and upbeat earnings lifted sentiment. Sensex climbed 776 points and Nifty reclaimed 23,996, with analysts eyeing 24,250–24,300 if the index sustains above the 24,000 mark.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132665751.cms",
+      "image": "https://img.etimg.com/photo/msid-132665751,imgsize-105340.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-27T15:58:10+00:00",
+      "category": "India",
+      "simple_explanation": "Indian markets snapped a five-session losing streak as easing Iran-US tensions, lower crude prices and upbeat earnings lifted sentiment. Sensex climbed 776 points and Nifty reclaimed 23,996, with anal"
+    },
+    {
+      "title": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
+      "description": "CME Group on Monday launched cash-settled single-stock futures on 55 U.S. equities, along with micro-sized contracts on 22 names.",
+      "url": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-27T15:50:20+00:00",
+      "category": "USA",
+      "simple_explanation": "CME Group on Monday launched cash-settled single-stock futures on 55 U.S. equities, along with micro-sized contracts on 22 names."
+    },
+    {
+      "title": "Meet the Dividend King Stock That Yields More Than Triple the S&P 500. Here's Why It's a Buy Before the End of July.",
+      "description": "The average S&P 500 yield hasn't been this low in more than 150 years.",
+      "url": "https://www.fool.com/investing/2026/07/27/meet-the-dividend-king-stock-that-yields-more-than/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-27T15:50:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The average S&P 500 yield hasn't been this low in more than 150 years."
+    },
+    {
+      "title": "Mold-Tek Packaging Q1 results: Net profit jumps 14% YoY to  ₹25.6 crore; revenue crosses  ₹300 crore",
+      "description": "Mold-Tek Packaging reported a strong Q1 FY27, with net sales up 24.9% to  ₹300.45 crore and EBITDA growing by 19.1%. The company maintains confidence amid geopolitical challenges, focusing on pharmaceutical packaging and expanding its product portfolio while recovering from previous stock lows.",
+      "url": "https://www.livemint.com/market/stock-market-news/moldtek-packaging-q1-results-net-profit-jumps-14-yoy-to-rs-25-6-crore-revenue-crosses-rs-300-crore-11785166078548.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/27/1600x900/logo/gc10891045fb0ed837d0f563edf6d3c6464c1dce14e7313625_1785166137178_1785166137345_4ae540d6-8d13-441c-95c0-d0a277722107.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-27T15:49:59+00:00",
+      "category": "India",
+      "simple_explanation": "Mold-Tek Packaging reported a strong Q1 FY27, with net sales up 24.9% to  ₹300.45 crore and EBITDA growing by 19.1%. The company maintains confidence amid geopolitical challenges, focusing on pharmace"
+    },
+    {
+      "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say",
+      "description": "Experts say food industry consolidation may be amplifying the cyclospora outbreak, allowing contaminated produce to spread farther.",
+      "url": "https://www.cnbc.com/2026/07/27/cyclospora-outbreak-food-industry-consolidation.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-27T15:49:31+00:00",
+      "category": "USA",
+      "simple_explanation": "Experts say food industry consolidation may be amplifying the cyclospora outbreak, allowing contaminated produce to spread farther."
+    },
+    {
+      "title": "Stock Market Today: Indexes Mixed On U.S.-Iran War Pause; Pharma Player Tests Entry, Oil Skids (Live Coverage)",
+      "description": "The Dow Jones index jumps on hopes of U.S.-Iran talks. Oil skids but software shines Monday. Nvidia falls on OpenAI move.",
+      "url": "https://finance.yahoo.com/m/de8b5436-c73d-31ce-a62f-9df4d32cb08d/stock-market-today%3A-indexes.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-27T15:39:42+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dow Jones index jumps on hopes of U.S.-Iran talks. Oil skids but software shines Monday. Nvidia falls on OpenAI move."
+    },
+    {
+      "title": "Oil prices slide, Brent crude below $90 as pause to U.S.-Iran hostilities appears to hold",
+      "description": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place.",
+      "url": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-27T15:27:45+00:00",
+      "category": "USA",
+      "simple_explanation": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place."
+    },
+    {
+      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
       "description": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.",
       "url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-07-27T14:33:10+00:00",
+      "published_at": "2026-07-27T15:24:16+00:00",
       "category": "USA",
       "simple_explanation": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models."
     },
     {
-      "title": "Oil prices tumble as US and Iran hold off on strikes over weekend",
-      "description": "Oil prices dropped as the US and Iran reached three days without exchanging strikes.",
-      "url": "https://finance.yahoo.com/markets/article/oil-prices-tumble-as-us-and-iran-hold-off-on-strikes-over-weekend-142524290.html?.tsrc=rss",
+      "title": "Chip Stocks Sink on China Competition Concerns, Erasing Early Gains",
+      "description": "The S&P 500 and the Nasdaq Composite reversed gains, wavering near the flatline after opening higher.  The PHLX Semiconductor Index was down 4.3% after opening higher.  Nvidia, AMD, Micron, and ASML are some of the chip maker stocks dragging the semi index and the broader market lower, thanks to the",
+      "url": "https://finance.yahoo.com/m/8b6f2fcd-e0ec-389d-93c9-94d65252c613/chip-stocks-sink-on-china.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-27T14:25:24+00:00",
+      "published_at": "2026-07-27T15:10:14+00:00",
+      "category": "USA",
+      "simple_explanation": "The S&P 500 and the Nasdaq Composite reversed gains, wavering near the flatline after opening higher.  The PHLX Semiconductor Index was down 4.3% after opening higher.  Nvidia, AMD, Micron, and ASML a"
+    },
+    {
+      "title": "Alliance Resource Partners Q2 Earnings Call Highlights",
+      "description": "Alliance Resource Partners (NASDAQ:ARLP) reported higher second-quarter results as increased coal sales volumes, lower operating costs, record oil and gas royalty performance and stronger equity-method investment income offset lower average coal pricing. Net income attributable to ARLP rose 33.9% f",
+      "url": "https://www.marketbeat.com/instant-alerts/alliance-resource-partners-q2-earnings-call-highlights-2026-07-27/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-27T15:02:41+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Alliance Resource Partners (NASDAQ:ARLP) reported higher second-quarter results as increased coal sales volumes, lower operating costs, record oil and gas royalty performance and stronger equity-metho"
+    },
+    {
+      "title": "Bitcoin price eyes $66K as US stocks rise on Iran-strike pause",
+      "description": "Bitcoin copied US stocks as relief over end of US-Iran strikes spread to risk assets at the start of the US trading session.",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/gym-up-bitcoin.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-27T14:51:26+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin copied US stocks as relief over end of US-Iran strikes spread to risk assets at the start of the US trading session."
+    },
+    {
+      "title": "Global markets: Shein will struggle to justify up to $50 billion Hong Kong IPO valuation",
+      "description": "While the ​quarterly loss partly reflected a $328 million fair-value charge on convertible redeemable preferred shares following an accounting change, slowing revenue growth and weaker core earnings underscore the ​company's mounting challenges.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shein-will-struggle-to-justify-up-to-50-billion-hong-kong-ipo-valuation/articleshow/132664467.cms",
+      "image": "https://img.etimg.com/photo/msid-132664467,imgsize-51298.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-27T14:46:18+00:00",
+      "category": "India",
+      "simple_explanation": "While the ​quarterly loss partly reflected a $328 million fair-value charge on convertible redeemable preferred shares following an accounting change, slowing revenue growth and weaker core earnings u"
+    },
+    {
+      "title": "Tata Power board okays raising Rs 4,500 cr via NCDs",
+      "description": "Tata Power's board has given the green light to raise funds up to Rs 4,500 crore through debt securities, aimed at refinancing existing loans and various other needs. This initiative will see the company issue non-convertible debentures or alternative debt instruments via private placement. Sharehol",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/tata-power-board-okays-raising-rs-4500-cr-via-ncds/articleshow/132664416.cms",
+      "image": "https://img.etimg.com/photo/msid-132664416,imgsize-48138.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-27T14:43:38+00:00",
+      "category": "India",
+      "simple_explanation": "Tata Power's board has given the green light to raise funds up to Rs 4,500 crore through debt securities, aimed at refinancing existing loans and various other needs. This initiative will see the comp"
+    },
+    {
+      "title": "Benton Plans to Spin Out Great Burnt Copper-Gold Project to Shareholders for $15.0 M Valuation in Conjunction with Concurrent $10.0 M Financing",
+      "description": "Thunder Bay, Ontario--(Newsfile Corp. - July 27, 2026) - Benton Resources Inc. (TSXV: BEX) (\"Benton\" or the \"Company\"), is pleased to announce the execution of a letter agreement (LA) dated July 24, 2026 with privately held Silverback Metals Corp. (\"Silverback\") to create a new well-funded public re",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/benton-plans-spin-great-burnt-143600650.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-27T14:36:00+00:00",
       "category": "Commodities",
-      "simple_explanation": "Oil prices dropped as the US and Iran reached three days without exchanging strikes."
+      "simple_explanation": "Thunder Bay, Ontario--(Newsfile Corp. - July 27, 2026) - Benton Resources Inc. (TSXV: BEX) (\"Benton\" or the \"Company\"), is pleased to announce the execution of a letter agreement (LA) dated July 24, 2"
     },
     {
       "title": "Crude tumbles as US-Iran pause eases pressure, but risks to India’s oil supply remain",
@@ -33,44 +293,24 @@
       "simple_explanation": "Crude prices fell more than 9% after Washington and Tehran paused strikes, easing near-term pressure on India's import bill, even as risks around key shipping routes and Russian supplies persist."
     },
     {
-      "title": "Adani Energy launches QIP, sets floor price at Rs 1,698 per share",
-      "description": "Adani Energy Solutions launched its Rs 10,000 crore qualified institutional placement, fixing a floor price of Rs 1,698.15 per share. The fundraise targets institutional investors, with the stock gaining over 63% in 2026 and 109% over the past year.",
+      "title": "Bitcoin Heads Into Fed Week With Least Downside Protection Since June, Bitfinex Analysts Say",
+      "description": "According to Bitfinex analysts, in May and June, wallets holding 100 to 1,000 BTC sold for $5.1 billion.",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-fed-meeting-downside-protection-analyst-traders/cZZxj59R763?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-27T14:22:11+00:00",
+      "category": "Crypto",
+      "simple_explanation": "According to Bitfinex analysts, in May and June, wallets holding 100 to 1,000 BTC sold for $5.1 billion."
+    },
+    {
+      "title": "Adani Energy launches Rs 3,500 crore QIP, sets floor price at Rs 1,698 per share",
+      "description": "Adani Energy Solutions launched its qualified institutional placement to raise Rs 3,500 crore. The company fixed the floor price at Rs 1,698.15 per equity share for this issue. This placement allows raising equity capital quickly from institutional investors. Proceeds will fund capital expenditure a",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-energy-launches-qip-sets-floor-price-at-rs-1698-per-share/articleshow/132663955.cms",
       "image": "https://img.etimg.com/photo/msid-132663955,imgsize-30990.cms",
       "source": "Economic Times",
       "published_at": "2026-07-27T14:21:24+00:00",
       "category": "India",
-      "simple_explanation": "Adani Energy Solutions launched its Rs 10,000 crore qualified institutional placement, fixing a floor price of Rs 1,698.15 per share. The fundraise targets institutional investors, with the stock gain"
-    },
-    {
-      "title": "Chipmaker CXMT’s 466% market debut surge makes it the most valuable China-listed company",
-      "description": "The Hefei-based company raised 57.92 billion yuan ($8.6 billion) after pricing its IPO at 8.66 yuan per share.",
-      "url": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-27T14:19:43+00:00",
-      "category": "USA",
-      "simple_explanation": "The Hefei-based company raised 57.92 billion yuan ($8.6 billion) after pricing its IPO at 8.66 yuan per share."
-    },
-    {
-      "title": "Dow Soars Over 600 Points, Crude Oil Prices Plummet Amid A Pause In Iran Strikes",
-      "description": "The S&P 500 index gained about 0.8%, while the Nasdaq Composite rose about 0.7%.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/dow-soars-crude-oil-prices-plummet-amid-pause-us-iran-strikes/cZZxStUR76d?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T14:10:11+00:00",
-      "category": "USA",
-      "simple_explanation": "The S&P 500 index gained about 0.8%, while the Nasdaq Composite rose about 0.7%."
-    },
-    {
-      "title": "Oil prices fall as US, Iran pause attacks. What does this mean for stocks & bonds?",
-      "description": "Oil (CL=F, BZ=F) prices are declining as the US and Iran take a pause on attacks. Yahoo Finance Senior Business Reporter Ines Ferré takes a closer look.",
-      "url": "https://finance.yahoo.com/video/oil-prices-fall-as-us-iran-pause-attacks-what-does-this-mean-for-stocks--bonds-140755484.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T14:07:55+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil (CL=F, BZ=F) prices are declining as the US and Iran take a pause on attacks. Yahoo Finance Senior Business Reporter Ines Ferré takes a closer look."
+      "simple_explanation": "Adani Energy Solutions launched its qualified institutional placement to raise Rs 3,500 crore. The company fixed the floor price at Rs 1,698.15 per equity share for this issue. This placement allows r"
     },
     {
       "title": "Hedge fund bets on rising US healthcare stocks near 5-year high, Goldman says",
@@ -93,14 +333,14 @@
       "simple_explanation": "Ratnaveer Precision Engineering shares surged over 14% post Q1 FY27 results, reflecting strong financial performance with 20% revenue growth. Strategic initiatives, including a CCL project, bolster ma"
     },
     {
-      "title": "Wall Street edges higher as US-Iran hostilities pause",
-      "description": "The Dow Jones Industrial Average rose 0.44%, the S&amp;P 500 rose 0.70%, the Nasdaq Composite rose 1.04%",
+      "title": "Wall Street edges higher as oil prices slide after US-Iran hostilities pause, Microsoft climbs 2.6%, Google gains 2.8%",
+      "description": "As of 9:55 a.m. Eastern Time, the S&amp;P 500 rose 0.6%, the Dow Jones Industrial Average rose 1%, and the Nasdaq Composite rose 0.7%",
       "url": "https://www.livemint.com/market/stock-market-news/wall-street-edge-higher-as-us-iran-hostilities-pause-11785159746123.html",
       "image": "https://www.livemint.com/lm-img/img/2026/07/27/1600x900/US-STOCKS-MARKETS-NYSE-12_1785159824551_1785159935780_a894341c-96f6-415c-9cb0-f80040642fb1.jpg",
       "source": "LiveMint",
       "published_at": "2026-07-27T13:56:04+00:00",
       "category": "India",
-      "simple_explanation": "The Dow Jones Industrial Average rose 0.44%, the S&amp;P 500 rose 0.70%, the Nasdaq Composite rose 1.04%"
+      "simple_explanation": "As of 9:55 a.m. Eastern Time, the S&amp;P 500 rose 0.6%, the Dow Jones Industrial Average rose 1%, and the Nasdaq Composite rose 0.7%"
     },
     {
       "title": "Another Canadian company to redomicile to the U.S.",
@@ -113,16 +353,6 @@
       "simple_explanation": "NovaGold Resources (NYSE American: NG) is taking a significant step toward becoming a U. S."
     },
     {
-      "title": "Don't Look Now, but Delta Air Lines Stock Is Up Nearly 50% in the Past Year",
-      "description": "Favorable trends could drive Delta to even higher altitudes.",
-      "url": "https://www.fool.com/investing/2026/07/27/dont-look-now-but-delta-air-lines-stock-is-up-near/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T13:50:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Favorable trends could drive Delta to even higher altitudes."
-    },
-    {
       "title": "Gold Rises as Weak US Data Weighs on Dollar, Treasury Yields",
       "description": "Gold rose for a second straight session early Monday, edging higher as the dollar and Treasury yield",
       "url": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-weak-us-data-134526633.html?.tsrc=rss",
@@ -133,46 +363,6 @@
       "simple_explanation": "Gold rose for a second straight session early Monday, edging higher as the dollar and Treasury yield"
     },
     {
-      "title": "What Cisco's Big Run Actually Adds To Your Portfolio",
-      "description": "Cisco has outrun the market for years, yet what decides its place in your portfolio is how much of that return is genuinely its own.",
-      "url": "https://www.trefis.com/articles/608967/what-ciscos-big-run-actually-adds-to-your-portfolio/2026-07-27?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T13:45:23+00:00",
-      "category": "USA",
-      "simple_explanation": "Cisco has outrun the market for years, yet what decides its place in your portfolio is how much of that return is genuinely its own."
-    },
-    {
-      "title": "Is AI spending actually a sore spot for Big Tech margins?",
-      "description": "US stock futures (ES=F, NQ=F, YM=F) are soaring in Monday's pre-market trading as Wall Street looks ahead to this week's bout of Big Tech earnings, which includes Microsoft (MSFT), Meta Platforms (META), Apple (AAPL), Amazon (AMZN), and Qualcomm (QCOM). Morning Brief Host Julie Hyman is joined by Ya",
-      "url": "https://finance.yahoo.com/video/is-ai-spending-actually-a-sore-spot-for-big-tech-margins-134333155.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T13:43:33+00:00",
-      "category": "USA",
-      "simple_explanation": "US stock futures (ES=F, NQ=F, YM=F) are soaring in Monday's pre-market trading as Wall Street looks ahead to this week's bout of Big Tech earnings, which includes Microsoft (MSFT), Meta Platforms (MET"
-    },
-    {
-      "title": "Stock Market Today: Dow Jumps 600 Points On U.S.-Iran Hopes; Oil Prices Plunge (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index jumped 600 points on hopes of U.S.-Iran talks. Oil prices plunged Monday.",
-      "url": "https://finance.yahoo.com/m/de8b5436-c73d-31ce-a62f-9df4d32cb08d/stock-market-today%3A-dow-jumps.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T13:42:55+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index jumped 600 points on hopes of U.S.-Iran talks. Oil prices plunged Monday."
-    },
-    {
-      "title": "Oil prices tumble, stock set to rise amid pause in U.S.-Iran fighting",
-      "description": "Stock futures rose and crude fell after U.S. Ambassador Mike Waltz told \"Face the Nation\" that a pause in U.S.-Iran fighting aims to give diplomacy time to work.",
-      "url": "https://www.cbsnews.com/news/oil-prices-tumble-us-iran-pause/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T13:42:50+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock futures rose and crude fell after U.S. Ambassador Mike Waltz told \"Face the Nation\" that a pause in U.S.-Iran fighting aims to give diplomacy time to work."
-    },
-    {
       "title": "Hong Kong crypto giant HashKey merges regional exchange into one",
       "description": "Hong Kong’s HashKey will unify its crypto exchange branches, with users from its Hong Kong, Global, Singapore and Middle East regions using the same platform.",
       "url": "https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -181,16 +371,6 @@
       "published_at": "2026-07-27T13:41:44+00:00",
       "category": "Crypto",
       "simple_explanation": "Hong Kong’s HashKey will unify its crypto exchange branches, with users from its Hong Kong, Global, Singapore and Middle East regions using the same platform."
-    },
-    {
-      "title": "US stocks: US market opens higher as pause in US-Iran hostilities lifts sentiment",
-      "description": "Major Wall Street indexes opened higher on Monday morning. This rise followed the United States and Iran pausing hostilities, boosting investor confidence. The Dow Jones Industrial Average saw a significant increase at the opening bell. The S&P 500 and Nasdaq Composite also experienced notable gains",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-opens-higher-as-pause-in-us-iran-hostilities-lifts-sentiment/articleshow/132663154.cms",
-      "image": "https://img.etimg.com/photo/msid-132663154,imgsize-123420.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-27T13:39:43+00:00",
-      "category": "India",
-      "simple_explanation": "Major Wall Street indexes opened higher on Monday morning. This rise followed the United States and Iran pausing hostilities, boosting investor confidence. The Dow Jones Industrial Average saw a signi"
     },
     {
       "title": "Strategy Climbs 3%, BitMine Surges 7%, SharpLink Rises 5% as Crypto Stocks Bounce Back Toward $65K Bitcoin",
@@ -213,26 +393,6 @@
       "simple_explanation": "Bitmine Immersion Technologies (NYSE: $BMNR) purchased another 10,000 Ethereum (CRYPTO: $ETH) over the past week.&n..."
     },
     {
-      "title": "The Broadcom Trade Is A Bet On The Market You Already Own, Amplified",
-      "description": "Its five-year record is its own story, but its correlation says much of what you would be buying is the same market you already hold, dialed up.",
-      "url": "https://www.trefis.com/articles/608968/the-broadcom-trade-is-a-bet-on-the-market-you-already-own-amplified/2026-07-27?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T13:34:54+00:00",
-      "category": "USA",
-      "simple_explanation": "Its five-year record is its own story, but its correlation says much of what you would be buying is the same market you already hold, dialed up."
-    },
-    {
-      "title": "Corning Incorporated (GLW) Rose on Growing AI Fiber and Optical Demand",
-      "description": "Carillon Tower Advisers, an investment management company, released its second-quarter 2026 investor letter for the “Carillon Eagle Growth & Income Fund”. A copy of the letter is available to download here. The second quarter of 2026 was driven by a sharp rally in AI-related stocks, although gains w",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/corning-incorporated-glw-rose-growing-133354252.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T13:33:54+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Carillon Tower Advisers, an investment management company, released its second-quarter 2026 investor letter for the “Carillon Eagle Growth & Income Fund”. A copy of the letter is available to download"
-    },
-    {
       "title": "MicroStrategy Is Asking MSTR Investors to Make One Big Trade-Off",
       "description": "Strategy has now gone five straight weeks without buying Bitcoin, instead raising $544.5 million by selling 5.43 million shares.",
       "url": "https://beincrypto.com/mstr-investors-big-trade-off/?.tsrc=rss",
@@ -241,166 +401,6 @@
       "published_at": "2026-07-27T13:33:51+00:00",
       "category": "Crypto",
       "simple_explanation": "Strategy has now gone five straight weeks without buying Bitcoin, instead raising $544.5 million by selling 5.43 million shares."
-    },
-    {
-      "title": "Rate path still divides investors: Five things to know in Bitcoin this week",
-      "description": "Bitcoin traders prepared to navigate a slew of volatility catalysts as US inflation data and US-Iran war triggers keep risk-assets in an unpredictable state.",
-      "url": "https://cointelegraph.com/markets/rate-path-still-divides-investors-five-things-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/us-inflation-1.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-27T13:31:07+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin traders prepared to navigate a slew of volatility catalysts as US inflation data and US-Iran war triggers keep risk-assets in an unpredictable state."
-    },
-    {
-      "title": "Lohia Corp IPO subscribed over 7.25 times on final day; QIB portion booked 9 times",
-      "description": "Lohia Corp's IPO was oversubscribed 7.26 times, with significant interest from qualified institutional buyers. The issue, with a price range of  ₹404-425 per share, aims for listing on July 30. The company reported strong revenue growth, reaching  ₹1,716.99 crore in FY26.",
-      "url": "https://www.livemint.com/market/stock-market-news/lohia-corp-ipo-subscribed-over-7-25-times-on-final-day-qib-portion-booked-9-times-11785158264834.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/27/1600x900/logo/g0e6064554f2cd92feb76a22e20702c893b093c5f2fdab00b3_1785158306528_1785158306654_c2a9f399-f07c-4ce3-928e-14ee0d732b66.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-27T13:28:49+00:00",
-      "category": "India",
-      "simple_explanation": "Lohia Corp's IPO was oversubscribed 7.26 times, with significant interest from qualified institutional buyers. The issue, with a price range of  ₹404-425 per share, aims for listing on July 30. The co"
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Monday, July 27, 2026: Can positive price trends hold this week?",
-      "description": "Bitcoin opened at $65,333.12 on Monday, July 27, 2026, 1.6% higher than Sunday's opening price. Ethereum opened at $1,953.02 on Monday, July 27, 2026, up 4.3% from Sunday's opening price.",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-july-27-2026-can-positive-price-trends-hold-this-week-132757216.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T13:27:57+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin opened at $65,333.12 on Monday, July 27, 2026, 1.6% higher than Sunday's opening price. Ethereum opened at $1,953.02 on Monday, July 27, 2026, up 4.3% from Sunday's opening price."
-    },
-    {
-      "title": "Investors Turn To Bitcoin Amid Fears Of U.S. Dollar Devaluation",
-      "description": "Investors appear to be turning back to Bitcoin (CRYPO: $BTC) amid rising fears that the U.S. dollar will become dev...",
-      "url": "https://www.cryptoprowl.com/releases/investors-turn-to-bitcoin-amid-fears-of-us-dollar-devaluation-6260?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T13:27:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Investors appear to be turning back to Bitcoin (CRYPO: $BTC) amid rising fears that the U.S. dollar will become dev..."
-    },
-    {
-      "title": "Strategy Again Boosts Cash Reserves And Leaves Bitcoin Unchanged",
-      "description": "Cryptocurrency treasury firm Strategy (NASDAQ: $MSTR) has again chosen to raise its cash reserves and leave its Bit...",
-      "url": "https://www.cryptoprowl.com/releases/strategy-again-boosts-cash-reserves-and-leaves-bitcoin-unchanged-6259?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T13:26:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Cryptocurrency treasury firm Strategy (NASDAQ: $MSTR) has again chosen to raise its cash reserves and leave its Bit..."
-    },
-    {
-      "title": "Binance disappears from Google Play in certain EU countries",
-      "description": "Binance’s Android app is unavailable on Google Play in some EU markets amid scrutiny over MiCA compliance.",
-      "url": "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-digitized-europe-the-shift-to-a-cashless-world2-1.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-27T13:24:17+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Binance’s Android app is unavailable on Google Play in some EU markets amid scrutiny over MiCA compliance."
-    },
-    {
-      "title": "Gold rises above $4,100 as U.S.-Iran ceasefire pause cuts oil prices",
-      "description": "Brent crude tumbled as much as 9.5% after Washington and Tehran held off attacks for a third straight night",
-      "url": "https://qz.com/gold-price-us-iran-pause-oil-drop-fed-072726?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T13:19:24+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Brent crude tumbled as much as 9.5% after Washington and Tehran held off attacks for a third straight night"
-    },
-    {
-      "title": "Tata Chemicals Q1 Results: Profit plunges 81% to Rs 60 crore on higher expenses",
-      "description": "Tata Chemicals experienced a significant eighty-one percent drop in profits for the June quarter, primarily due to increased expenses that affected its consolidated net profit. Despite this decline, the total income surged to Rs 4,311 crore, showing improvement compared to the same period last year.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-chemicals-q1-profit-down-81-pc-to-rs-60-cr-on-higher-expenses/articleshow/132662595.cms",
-      "image": "https://img.etimg.com/photo/msid-132662595,imgsize-15832.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-27T13:12:19+00:00",
-      "category": "India",
-      "simple_explanation": "Tata Chemicals experienced a significant eighty-one percent drop in profits for the June quarter, primarily due to increased expenses that affected its consolidated net profit. Despite this decline, t"
-    },
-    {
-      "title": "USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents",
-      "description": "IBM’s blockchain portfolio includes more than 680 patent families and nearly 1,000 issued patents worldwide, with a particular focus in supply chain applications.",
-      "url": "https://cointelegraph.com/news/circle-to-acquire-nearly-1000-ibm-blockchain-patents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-usdt-vs-usdc-whats-the-difference.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-27T13:08:55+00:00",
-      "category": "Crypto",
-      "simple_explanation": "IBM’s blockchain portfolio includes more than 680 patent families and nearly 1,000 issued patents worldwide, with a particular focus in supply chain applications."
-    },
-    {
-      "title": "Stock Futures Jump to Kick Off Crunch Week as Market Focuses on the Fed and Big Tech Earnings",
-      "description": "Stocks looked set to rally on Monday as oil prices retreated, helping to ease investors’ worries about higher inflation at the start of a week that will be defined by a Federal Reserve policy decision and a slew of mega-cap tech earnings.  S&P 500 futures rose 0.9%, while Nasdaq futures jumped 1.4%.",
-      "url": "https://finance.yahoo.com/m/9506b2a6-dc30-316f-bdda-99d8527233b1/stock-futures-jump-to-kick.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T13:06:27+00:00",
-      "category": "USA",
-      "simple_explanation": "Stocks looked set to rally on Monday as oil prices retreated, helping to ease investors’ worries about higher inflation at the start of a week that will be defined by a Federal Reserve policy decision"
-    },
-    {
-      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday as Oil Prices Fall",
-      "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.9%, and the actively tra",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-130512818.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T13:05:12+00:00",
-      "category": "USA",
-      "simple_explanation": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.9%, and the actively tra"
-    },
-    {
-      "title": "Tamilnad Mercantile Bank Q1 profit jumps 35% on strong income growth",
-      "description": "Tamilnad Mercantile Bank reported a 35% year-on-year rise in June quarter net profit to Rs 412 crore, driven by higher income and net interest income. The lender also posted improved margins, stronger asset quality and robust growth in advances and deposits.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tamilnad-mercantile-bank-q1-profit-jumps-35-on-strong-income-growth/articleshow/132662506.cms",
-      "image": "https://img.etimg.com/photo/msid-132662506,imgsize-1220277.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-27T13:04:48+00:00",
-      "category": "India",
-      "simple_explanation": "Tamilnad Mercantile Bank reported a 35% year-on-year rise in June quarter net profit to Rs 412 crore, driven by higher income and net interest income. The lender also posted improved margins, stronger"
-    },
-    {
-      "title": "Here is What to Know Beyond Why Newmont Corporation (NEM) is a Trending Stock",
-      "description": "Newmont (NEM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-newmont-corporation-130004312.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T13:00:04+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Newmont (NEM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects."
-    },
-    {
-      "title": "Phenom Commences Drilling at Dobbin Gold Project, Nevada",
-      "description": "Vancouver, British Columbia--(Newsfile Corp. - July 27, 2026) - Phenom Resources Corp. (TSXV: PHNM) (OTCQX: PHNMF) (FSE: 1PY0) (\"Phenom\" or the \"Company\") is pleased to report that core drilling is now underway at the Dobbin Gold Project to test the strong 2.1 kilometres long (1.3 miles) and 200 met",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/phenom-commences-drilling-dobbin-gold-130000248.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T13:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - July 27, 2026) - Phenom Resources Corp. (TSXV: PHNM) (OTCQX: PHNMF) (FSE: 1PY0) (\"Phenom\" or the \"Company\") is pleased to report that core drilling is no"
-    },
-    {
-      "title": "Why Trump's new tariff blitz is very different this time around",
-      "description": "President Trump on Friday launched a fresh round of tariffs targeting 60 trading partners, including the European Union, China and the U.K.",
-      "url": "https://www.cnbc.com/2026/07/27/donald-trump-tariffs-trade-war-iran.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-27T12:53:33+00:00",
-      "category": "USA",
-      "simple_explanation": "President Trump on Friday launched a fresh round of tariffs targeting 60 trading partners, including the European Union, China and the U.K."
-    },
-    {
-      "title": "Update: US Equity Futures Rise Pre-Bell as Oil Prices Drop Amid Pause in Middle East Hostilities",
-      "description": "US equity futures rose pre-bell Monday as oil prices declined amid a pause in hostilities between th",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-125212777.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T12:52:12+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity futures rose pre-bell Monday as oil prices declined amid a pause in hostilities between th"
     }
   ]
 }
