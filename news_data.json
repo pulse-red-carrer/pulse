@@ -1,7 +1,387 @@
 {
-  "last_updated": "2026-07-28T10:35:21.544323+00:00",
+  "last_updated": "2026-07-28T12:53:47.659212+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Apple plans to lease iPhones for $17.99 a month through partnership with Klarna",
+      "description": "Apple is announcing an iPhone lease option weeks after raising iPad and Mac prices due to the global memory shortage.",
+      "url": "https://www.cnbc.com/2026/07/28/apple-plans-to-lease-iphones-for-17point99-a-month-through-klarna-deal.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-28T12:38:50+00:00",
+      "category": "USA",
+      "simple_explanation": "Apple is announcing an iPhone lease option weeks after raising iPad and Mac prices due to the global memory shortage."
+    },
+    {
+      "title": "Birlasoft Q1 Results: Net profit jumps 51% YoY to  ₹161 crore; TCV rises 20%",
+      "description": "Birlasoft reported Q1 FY27 revenue of  ₹1,379.4 crore, up 2.3% sequentially. Net profit rose 51.3% YoY to  ₹161 crore. The company signed $169 million worth of deals, a 20% increase from last year, while voluntary attrition declined to 11.7%.",
+      "url": "https://www.livemint.com/market/stock-market-news/birlasoft-q1-results-net-profit-jumps-51-yoy-to-rs-161-crore-tcv-rises-20-11785241695017.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/28/1600x900/logo/Q4_results_earning_today_April_21_Tata_Indraprasta_1745202511548_1785241764915_9e16836e-1552-4269-a8cd-012b6a9e5726.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-28T12:38:11+00:00",
+      "category": "India",
+      "simple_explanation": "Birlasoft reported Q1 FY27 revenue of  ₹1,379.4 crore, up 2.3% sequentially. Net profit rose 51.3% YoY to  ₹161 crore. The company signed $169 million worth of deals, a 20% increase from last year, wh"
+    },
+    {
+      "title": "Australia to build first new oil refinery in 60 years after petrol shortages",
+      "description": "Australia is planning to build its first new oil refinery since 1965 after petrol stations ran dry earlier this year.",
+      "url": "https://uk.finance.yahoo.com/news/australia-build-first-oil-refinery-123416006.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T12:34:16+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Australia is planning to build its first new oil refinery since 1965 after petrol stations ran dry earlier this year."
+    },
+    {
+      "title": "Sitka Gold to Accelerate Acquisition of 100% Interest in the Clear Creek Property at Its RC Gold Project, Yukon",
+      "description": "Sitka to accelerate its acquisition of a 100% interest in the Clear Creek Property from the Receiver of Victoria Gold Corp.This transaction completes Sitka’s acquisition of all of the properties comprising the contiguous 447-square-kilometre RC Gold Project in Yukon, consolidating Sitka's 100% owner",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/sitka-gold-accelerate-acquisition-100-123000475.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T12:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Sitka to accelerate its acquisition of a 100% interest in the Clear Creek Property from the Receiver of Victoria Gold Corp.This transaction completes Sitka’s acquisition of all of the properties compr"
+    },
+    {
+      "title": "Boeing Shares Fight To Regain Support; Q2 Results Don't Help",
+      "description": "Boeing cleared Q2 sales estimates as commercial airplane deliveries grow. FAA highlights seat installation issue. BA stock rises.",
+      "url": "https://finance.yahoo.com/m/d8217250-580f-3904-98bb-1bcb14748304/boeing-shares-fight-to-regain.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T12:29:22+00:00",
+      "category": "USA",
+      "simple_explanation": "Boeing cleared Q2 sales estimates as commercial airplane deliveries grow. FAA highlights seat installation issue. BA stock rises."
+    },
+    {
+      "title": "Boeing posts wider loss than expected as Air Force One costs weigh on results",
+      "description": "Boeing took a $280 million charge on its long-delayed Air Force One program.",
+      "url": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-28T12:25:45+00:00",
+      "category": "USA",
+      "simple_explanation": "Boeing took a $280 million charge on its long-delayed Air Force One program."
+    },
+    {
+      "title": "Stock Market Today: Tech Futures Sell Off As Chip Stocks Micron, Sandisk Dive; Coca-Cola Jumps (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index rose, but tech futures dropped as chip stocks Micron and Sandisk dived. Coca-Cola jumped on earnings.",
+      "url": "https://finance.yahoo.com/m/34f57721-8495-3628-bd2a-4209897b008c/stock-market-today%3A-tech.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T12:19:15+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index rose, but tech futures dropped as chip stocks Micron and Sandisk dived. Coca-Cola jumped on earnings."
+    },
+    {
+      "title": "Transition Metals Commences 2026 Exploration Program at Pike Warden Epithermal Gold-Silver and Porphyry Copper Project, Yukon",
+      "description": "Field program focused on evaluation of the Saddles epithermal Au-Ag target areaHand stripping to expose bedrock sources of intermediate-sulphidation veining identified during prospecting, where grab samples returned 44.5 g/t AuResults to support structural interpretation and drill targeting ahead of",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/transition-metals-commences-2026-exploration-121600548.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T12:16:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Field program focused on evaluation of the Saddles epithermal Au-Ag target areaHand stripping to expose bedrock sources of intermediate-sulphidation veining identified during prospecting, where grab s"
+    },
+    {
+      "title": "Quote of the day by John Templeton: \"I have learned that the great opportunities are the places that have been neglected, where other people are not looking\"",
+      "description": "John Templeton's investing philosophy urges investors to seek overlooked opportunities with strong fundamentals rather than chase market trends. His contrarian approach highlights the importance of independent research, patience and long-term thinking to uncover undervalued investments before they g",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-john-templeton-i-have-learned-that-the-great-opportunities-are-the-places-that-have-been-neglected-where-other-people-are-not-looking/articleshow/132684391.cms",
+      "image": "https://img.etimg.com/photo/msid-132684391,imgsize-103.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-28T12:11:30+00:00",
+      "category": "India",
+      "simple_explanation": "John Templeton's investing philosophy urges investors to seek overlooked opportunities with strong fundamentals rather than chase market trends. His contrarian approach highlights the importance of in"
+    },
+    {
+      "title": "Market wrap: TCS, Eternal, HUL, BEL among top gainers and losers on Nifty and Sensex on Tuesday",
+      "description": "Indian equity benchmarks ended marginally lower after surrendering early gains as IT stocks outperformed but weakness in FMCG, power and defence weighed on sentiment. Analysts expect Nifty to remain range-bound, with 24,050 as key resistance and 23,800 as crucial support.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tcs-eternal-hul-bel-among-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/132684231.cms",
+      "image": "https://img.etimg.com/photo/msid-132684231,imgsize-168352.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-28T12:08:38+00:00",
+      "category": "India",
+      "simple_explanation": "Indian equity benchmarks ended marginally lower after surrendering early gains as IT stocks outperformed but weakness in FMCG, power and defence weighed on sentiment. Analysts expect Nifty to remain r"
+    },
+    {
+      "title": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
+      "description": "PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while reporting $8.68 billion in revenue and an $81 million crypto-related earnings adjustment.",
+      "url": "https://cointelegraph.com/news/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/paypal.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-28T12:07:51+00:00",
+      "category": "Crypto",
+      "simple_explanation": "PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while reporting $8.68 billion in revenue and an $81 million crypto-related earnings adjustment."
+    },
+    {
+      "title": "L&T Q1 Results: Net profit rises 14% YoY to Rs 4,123 crore, revenue up 7%",
+      "description": "L&T Q1 Results: Larsen & Toubro (L&T) on Tuesday reported a consolidated net profit of Rs 4,123 crore for the April-June quarter of the ongoing financial year 2027, marking nearly 14% year-on-year (YoY) rise from the Rs 3,617 crore net profit reported in the same period last year.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/lt-q1-results-net-profit-rises-14-yoy-to-rs-4123-crore-revenue-up-7/articleshow/132684207.cms",
+      "image": "https://img.etimg.com/photo/msid-132684207,imgsize-42940.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-28T12:05:17+00:00",
+      "category": "India",
+      "simple_explanation": "L&T Q1 Results: Larsen & Toubro (L&T) on Tuesday reported a consolidated net profit of Rs 4,123 crore for the April-June quarter of the ongoing financial year 2027, marking nearly 14% year-on-year (Yo"
+    },
+    {
+      "title": "Posthaste: Why markets are betting the Bank of Canada hikes rates more than its peers next year",
+      "description": "Some economics predict interest rates will climb to 3.25%",
+      "url": "https://financialpost.com/news/bank-of-canada-might-hike-interest-rates-more-than-peers?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T12:05:16+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Some economics predict interest rates will climb to 3.25%"
+    },
+    {
+      "title": "Silver prices today, Tuesday, July 28, 2026: Silver edges lower ahead of today's Fed meeting",
+      "description": "Silver (SI=F) September futures opened at $58.74 per ounce on Tuesday, July 28, 2026, up 0.1% from Monday's closing price. Silver prices moved lower this morning, reaching $57.55 as of 7:50 a.m. ET.",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-july-28-2026-silver-edges-lower-ahead-of-todays-fed-meeting-120508650.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T12:05:08+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Silver (SI=F) September futures opened at $58.74 per ounce on Tuesday, July 28, 2026, up 0.1% from Monday's closing price. Silver prices moved lower this morning, reaching $57.55 as of 7:50 a.m. ET."
+    },
+    {
+      "title": "Expert view: 10 sectors that could generate alpha over the next 5–10 years, according to Right Horizons PMS founder",
+      "description": "Discover insights from Anil Rego, founder of Right Horizons PMS, as he reveals 10 high-potential sectors that could thrive despite market uncertainties. Rego sees Nifty earnings growth of around 12% CAGR during FY26-FY28E.",
+      "url": "https://www.livemint.com/market/stock-market-news/expert-view-10-sectors-that-could-generate-alpha-over-the-next-5-10-years-according-to-right-horizons-pms-founder-11785238853300.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/28/1600x900/logo/Anil_Rego_1785239081730_1785239088052_9d3f5d55-d3f1-4a8e-bd9e-3ce88a9416b3.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-28T12:02:16+00:00",
+      "category": "India",
+      "simple_explanation": "Discover insights from Anil Rego, founder of Right Horizons PMS, as he reveals 10 high-potential sectors that could thrive despite market uncertainties. Rego sees Nifty earnings growth of around 12% C"
+    },
+    {
+      "title": "Wood Mackenzie Mid-Year Outlook: Oil and Gas Industry Cash-Rich but Capital-Cautious as Nearly Half a Trillion Dollar Windfall Fails to Trigger a Spending Surge",
+      "description": "LONDON/HOUSTON/SINGAPORE, July 28, 2026 (GLOBE NEWSWIRE) -- INSIGHT FOR IMMEDIATE RELEASE Wood Mackenzie | www.woodmac.com Wood Mackenzie's mid-year upstream and corporate outlook finds the global upstream sector could accumulate a cash windfall of US$495 billion this year, assuming Brent prices ave",
+      "url": "https://finance.yahoo.com/energy/articles/wood-mackenzie-mid-outlook-oil-120100400.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T12:01:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "LONDON/HOUSTON/SINGAPORE, July 28, 2026 (GLOBE NEWSWIRE) -- INSIGHT FOR IMMEDIATE RELEASE Wood Mackenzie | www.woodmac.com Wood Mackenzie's mid-year upstream and corporate outlook finds the global ups"
+    },
+    {
+      "title": "US stock market today: Wall Street edges lower as chip stocks face fresh sell-off; Brent slips below $85",
+      "description": "US stock futures are set for a weaker open as global semiconductor stocks drop amid concerns about AI spending returns. Nasdaq-100 futures fell 0.9%, with Micron Technology declining 4.5%.",
+      "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-edges-lower-as-chip-stocks-face-fresh-sell-off-brent-slips-below-85-11785238862393.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/28/1600x900/logo/US-STOCKS-0_1765502040339_1765502056419_1785239072240_f669ddb7-5924-4ea4-b47c-9d65ef935323.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-28T12:00:04+00:00",
+      "category": "India",
+      "simple_explanation": "US stock futures are set for a weaker open as global semiconductor stocks drop amid concerns about AI spending returns. Nasdaq-100 futures fell 0.9%, with Micron Technology declining 4.5%."
+    },
+    {
+      "title": "Decade Receives Drill Permit for Bonaparte Property",
+      "description": "Stewart, British Columbia--(Newsfile Corp. - July 28, 2026) - Decade Resources Ltd. (TSXV: DEC) (\"Decade\" or the \"Company\") announces that it has received a drill permit for the Bonaparte copper-gold property, located approximately 50km north of Kamloops, B.C., within the Kamloops Mining Division. T",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/decade-receives-drill-permit-bonaparte-120000418.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T12:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Stewart, British Columbia--(Newsfile Corp. - July 28, 2026) - Decade Resources Ltd. (TSXV: DEC) (\"Decade\" or the \"Company\") announces that it has received a drill permit for the Bonaparte copper-gold "
+    },
+    {
+      "title": "Meta, Amazon: Why this analyst feels 'less confident' in one",
+      "description": "Amazon (AMZN) and Meta (META) are both set to report quarterly earnings this week. Wedbush managing director of equity research, Ygal Arounian, shares his expectations for the earnings results.",
+      "url": "https://finance.yahoo.com/video/meta-amazon-why-analyst-feels-120000895.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T12:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Amazon (AMZN) and Meta (META) are both set to report quarterly earnings this week. Wedbush managing director of equity research, Ygal Arounian, shares his expectations for the earnings results."
+    },
+    {
+      "title": "Comstock Resources (CRK) Reports Earnings Tomorrow: What To Expect",
+      "description": "Natural gas producer Comstock Resources (NYSE:CRK) will be reporting earnings this Wednesday after market hours. Here’s what to look for.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/comstock-resources-crk-reports-earnings-115702064.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T11:57:02+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Natural gas producer Comstock Resources (NYSE:CRK) will be reporting earnings this Wednesday after market hours. Here’s what to look for."
+    },
+    {
+      "title": "Blackrock Is Latest Asset Manager to Officially Backs CLARITY Act",
+      "description": "In BlackRock Bitcoin news, the asset manager has formally endorsed the CLARITY Act, the most consequential piece of US crypto regulation legislation currently before Congress, and Coinbase Vice Chairman Ryan VanGrack made sure no one missed it. On July 27, VanGrack posted on X that “BlackRock is off",
+      "url": "https://99bitcoins.com/news/bitcoin-btc/clarity-act-blackrock-bitcoin-endorsement-senate-votes/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T11:56:09+00:00",
+      "category": "Crypto",
+      "simple_explanation": "In BlackRock Bitcoin news, the asset manager has formally endorsed the CLARITY Act, the most consequential piece of US crypto regulation legislation currently before Congress, and Coinbase Vice Chairm"
+    },
+    {
+      "title": "US Equity Futures Mixed as Halt in Middle East Hostilities Holds, Semiconductor Stocks Drop",
+      "description": "US equity futures were mixed pre-bell Tuesday as the pause in hostilities between the US and Iran ap",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-halt-115417577.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T11:54:17+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity futures were mixed pre-bell Tuesday as the pause in hostilities between the US and Iran ap"
+    },
+    {
+      "title": "Coca-Cola tops earnings estimates, hikes full-year outlook as demand for drinks climbs",
+      "description": "Coca-Cola stock has risen 19% this year, outstripping the gains of the S&P 500.",
+      "url": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-28T11:54:11+00:00",
+      "category": "USA",
+      "simple_explanation": "Coca-Cola stock has risen 19% this year, outstripping the gains of the S&P 500."
+    },
+    {
+      "title": "Stocks Mostly Down Pre-Bell Amid Chip Sell-Off; Traders Await More Earnings",
+      "description": "US equity futures were mostly tracking in the red on Tuesday amid a selloff in chip stocks over conc",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-pre-bell-115357169.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T11:53:57+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity futures were mostly tracking in the red on Tuesday amid a selloff in chip stocks over conc"
+    },
+    {
+      "title": "AI concerns pressure chipmakers premarket; UPS, Carrier rise",
+      "description": "Investing.com - U.S. stock futures were mixed on Tuesday as renewed concerns over artificial intelligence spending weighed on semiconductor stocks ahead of a pivotal week featuring mega-cap technology earnings and the Federal Reserve’s latest interest rate decision.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-concerns-pressure-chipmakers-premarket-115314342.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T11:53:14+00:00",
+      "category": "USA",
+      "simple_explanation": "Investing.com - U.S. stock futures were mixed on Tuesday as renewed concerns over artificial intelligence spending weighed on semiconductor stocks ahead of a pivotal week featuring mega-cap technology"
+    },
+    {
+      "title": "UPS beats earnings expectations, raises full-year guidance",
+      "description": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
+      "url": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-28T11:50:50+00:00",
+      "category": "USA",
+      "simple_explanation": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday."
+    },
+    {
+      "title": "Dow set to extend gains as AI spending caution drags on Nasdaq",
+      "description": "Wall Street is heading for another mixed session on Tuesday, with blue-chip gains offset by concerns about AI spending and Chinese competition weighing on some technology stocks. Dow Jones futures were up 317 points, or 0.6%, but the Nasdaq has been called 1% lower, with S&P 500 futures...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1096134/dow-set-to-extend-gains-as-ai-spending-caution-drags-on-nasdaq-1096134.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T11:45:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Wall Street is heading for another mixed session on Tuesday, with blue-chip gains offset by concerns about AI spending and Chinese competition weighing on some technology stocks. Dow Jones futures wer"
+    },
+    {
+      "title": "Gold prices today, Tuesday, July 28, 2026: Gold remains below $4,100 ahead of Fed meeting",
+      "description": "Gold futures opened at $4,083 per troy ounce on Tuesday, July 28, 2026, up just 0.1% from Monday's closing price. The price of gold moved lower this morning to $4,027 per troy ounce as of 7:24 a.m. ET.",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-july-28-2026-gold-remains-below-4100-ahead-of-fed-meeting-114031587.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T11:40:31+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold futures opened at $4,083 per troy ounce on Tuesday, July 28, 2026, up just 0.1% from Monday's closing price. The price of gold moved lower this morning to $4,027 per troy ounce as of 7:24 a.m. ET"
+    },
+    {
+      "title": "D-Wave Quantum Stock Hits Pause After AT&T Deal Rally",
+      "description": "D-Wave Quantum Inc. (NASDAQ:QBTS) stock fell in Tuesday premarket trading as investors took profits after the stock surged nearly 20% on Monday following its AT&T agreement. The pullback also comes ahead of the company’s earnings report next week. The broader market was also under pressure, with Nas",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/d-wave-quantum-stock-hits-113631684.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T11:36:31+00:00",
+      "category": "USA",
+      "simple_explanation": "D-Wave Quantum Inc. (NASDAQ:QBTS) stock fell in Tuesday premarket trading as investors took profits after the stock surged nearly 20% on Monday following its AT&T agreement. The pullback also comes ah"
+    },
+    {
+      "title": "Karus Mining Adds Technical Strength to the Company",
+      "description": "Appoints Henry Marsden to Technical CommitteeVancouver, British Columbia--(Newsfile Corp. - July 28, 2026) - Karus Mining Inc. (CSE: KARU) (\"Karus\" or the \"Company\") is pleased to announce the appointment of Henry Marsden to the Karus Technical Committee. Mr. Marsden is an accomplished exploration g",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/karus-mining-adds-technical-strength-113000810.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T11:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Appoints Henry Marsden to Technical CommitteeVancouver, British Columbia--(Newsfile Corp. - July 28, 2026) - Karus Mining Inc. (CSE: KARU) (\"Karus\" or the \"Company\") is pleased to announce the appoint"
+    },
+    {
+      "title": "Chip stocks fall as South Korea's Kospi plunges 10% before earnings",
+      "description": "South Korea's Kospi fell 10% and Nasdaq-100 futures dropped more than 1% as semiconductor names slid for a fourth session",
+      "url": "https://qz.com/chip-stocks-sell-off-kospi-nasdaq-futures-earnings-072826?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T11:27:01+00:00",
+      "category": "USA",
+      "simple_explanation": "South Korea's Kospi fell 10% and Nasdaq-100 futures dropped more than 1% as semiconductor names slid for a fourth session"
+    },
+    {
+      "title": "IPO pipeline robust with 245 DRHPs filed with Sebi, 175 receive observations: Equirus",
+      "description": "India's IPO pipeline remains robust with 245 companies filing draft papers with Sebi, including 175 already cleared for launch. Strong domestic liquidity, resilient investor participation and improving market sentiment are driving equity fundraising despite global uncertainties and foreign fund outf",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ipo-pipeline-robust-with-245-drhps-filed-with-sebi-175-receive-observations-equirus/articleshow/132682968.cms",
+      "image": "https://img.etimg.com/photo/msid-132682968,imgsize-103160.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-28T11:12:31+00:00",
+      "category": "India",
+      "simple_explanation": "India's IPO pipeline remains robust with 245 companies filing draft papers with Sebi, including 175 already cleared for launch. Strong domestic liquidity, resilient investor participation and improvin"
+    },
+    {
+      "title": "Blurred front lines: Trump to meet Zelenskyy as Ukraine, Iran wars collide",
+      "description": "Trump and Zelenskyy's meeting comes as the U.S war against Iran and Russia's full-scale invasion of Ukraine have threatened to overlap in recent days.",
+      "url": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-28T11:08:51+00:00",
+      "category": "USA",
+      "simple_explanation": "Trump and Zelenskyy's meeting comes as the U.S war against Iran and Russia's full-scale invasion of Ukraine have threatened to overlap in recent days."
+    },
+    {
+      "title": "Mint Explainer | Why Sebi is overhauling online dispute resolution",
+      "description": "Sebi has proposed a sweeping overhaul of its online dispute resolution framework, shifting administration to market infrastructure institutions to speed up investor grievance redressal, strengthen enforcement and improve accountability.",
+      "url": "https://www.livemint.com/market/sebi-odr-overhaul-online-dispute-resolution-investor-grievance-reforms-11785228171730.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/28/1600x900/logo/Sebi_2-reuters_1765779552828_1765779562101_1785236169286_fb8c1e86-5d71-43d7-a70a-0034068daad7.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-28T10:59:25+00:00",
+      "category": "India",
+      "simple_explanation": "Sebi has proposed a sweeping overhaul of its online dispute resolution framework, shifting administration to market infrastructure institutions to speed up investor grievance redressal, strengthen enf"
+    },
+    {
+      "title": "Rupee clings to two-week high as oil slides, intervention helps cement rise",
+      "description": "The Indian rupee experienced a significant rebound on Tuesday, intensifying to its strongest position in two weeks. The decline in oil prices and the potential intervention by the central bank played crucial roles in this uplift, with state-run banks actively selling dollars to stabilize the currenc",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-clings-to-two-week-high-as-oil-slides-intervention-helps-cement-rise/articleshow/132682371.cms",
+      "image": "https://img.etimg.com/photo/msid-132682371,imgsize-34704.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-28T10:47:38+00:00",
+      "category": "India",
+      "simple_explanation": "The Indian rupee experienced a significant rebound on Tuesday, intensifying to its strongest position in two weeks. The decline in oil prices and the potential intervention by the central bank played "
+    },
+    {
+      "title": "Vedanta Aluminium shares in a sweet spot, says ICICI Securities; initiates coverage with Buy rating",
+      "description": "ICICI Securities has initiated coverage on Vedanta Aluminium Metal (VAML) with a 'Buy' rating and a target price of Rs 520, implying over 19% upside. The brokerage expects strong earnings growth, driven by favourable aluminium prices, higher volumes, backward integration and lower costs. It also see",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-shares-in-a-sweet-spot-says-icici-securities-initiates-coverage-with-buy-rating/articleshow/132682352.cms",
+      "image": "https://img.etimg.com/photo/msid-132682352,imgsize-18460.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-28T10:46:18+00:00",
+      "category": "India",
+      "simple_explanation": "ICICI Securities has initiated coverage on Vedanta Aluminium Metal (VAML) with a 'Buy' rating and a target price of Rs 520, implying over 19% upside. The brokerage expects strong earnings growth, driv"
+    },
+    {
+      "title": "Tata Capital Q1 Results: Net profit jumps 56% YoY to Rs 1,547 crore, revenue up 15%",
+      "description": "Tata Capital announced a substantial net profit increase of over 56 percent.  Revenue from operations also saw a healthy rise of more than 15 percent.  Assets under management grew by 22 percent, reaching Rs 2.91 lakh crore.  Net interest income and the net loan book experienced strong year-on-year ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-capital-q1-results-net-profit-jumps-56-yoy-to-rs-1547-crore-revenue-up-15/articleshow/132682221.cms",
+      "image": "https://img.etimg.com/photo/msid-132682221,imgsize-69302.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-28T10:38:46+00:00",
+      "category": "India",
+      "simple_explanation": "Tata Capital announced a substantial net profit increase of over 56 percent.  Revenue from operations also saw a healthy rise of more than 15 percent.  Assets under management grew by 22 percent, reac"
+    },
+    {
+      "title": "Meesho shares can rally to Rs 240? Why Motilal Oswal initiated coverage on the platform stock",
+      "description": "Motilal Oswal has begun coverage on Meesho, awarding it a buy rating along with a target price indicating strong potential. The brokerage believes that free cash flow will start manifesting from FY27, highlighting Meesho's asset-light model as a crucial factor for growth. The company's recent Q1 per",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/meesho-shares-can-rally-to-rs-240-why-motilal-oswal-initiated-coverage-on-the-platform-stock/articleshow/132682117.cms",
+      "image": "https://img.etimg.com/photo/msid-132682117,imgsize-34972.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-28T10:35:46+00:00",
+      "category": "India",
+      "simple_explanation": "Motilal Oswal has begun coverage on Meesho, awarding it a buy rating along with a target price indicating strong potential. The brokerage believes that free cash flow will start manifesting from FY27,"
+    },
     {
       "title": "SpaceX stock-purchasing by Congress members fuels conflict concerns",
       "description": "Five of the Congress members serve on committees whose work touches SpaceX's federal contracts, defense programs, AI, telecommunications or securities markets.",
@@ -21,386 +401,6 @@
       "published_at": "2026-07-28T10:27:50+00:00",
       "category": "India",
       "simple_explanation": "After a volatile year, gold is in the spotlight again. Despite a recent decline, Jefferies' Christopher Wood sees this as an opportunity for investors to buy gold and mining stocks, anticipating a bul"
-    },
-    {
-      "title": "UPS beats earnings expectations, raises full-year guidance",
-      "description": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
-      "url": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-28T10:27:36+00:00",
-      "category": "USA",
-      "simple_explanation": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday."
-    },
-    {
-      "title": "Coca-Cola is about to report earnings. Here's what to expect",
-      "description": "Coca-Cola stock has risen 19% this year, outstripping the gains of the S&P 500.",
-      "url": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-28T10:25:01+00:00",
-      "category": "USA",
-      "simple_explanation": "Coca-Cola stock has risen 19% this year, outstripping the gains of the S&P 500."
-    },
-    {
-      "title": "Soaring oil and gas prices threaten new inflation headache for Reeves",
-      "description": "Qatar produces a fifth of the world’s LNG and is the biggest supplier to Asia",
-      "url": "https://www.standard.co.uk/business/oil-and-gas-prices-new-inflation-headache-reeves-b1273215.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T10:14:17+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Qatar produces a fifth of the world’s LNG and is the biggest supplier to Asia"
-    },
-    {
-      "title": "Top Gainers & Losers on 28 July: Coforge, City Union Bank, Swiggy, TCS, Pine Labs, Nestle, among top gainers",
-      "description": "Indian equity benchmarks closed Tuesday with slight losses as IT and realty stocks gains were offset by declines in FMCG and financial shares. The Nifty 50 and S&amp;P BSE Sensex fell 0.04% and 0.07%, respectively, while Asian markets dropped sharply amid technology stock sell-offs.",
-      "url": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-28-july-coforge-city-union-bank-swiggy-tcs-pine-labs-nestle-among-top-gainers-11785233358411.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/28/1600x900/2-0-939359840-bse1web-0_1679733268760_1785233503374_c245d364-6c6c-472c-87e8-b76ea3657dd4.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-28T10:12:16+00:00",
-      "category": "India",
-      "simple_explanation": "Indian equity benchmarks closed Tuesday with slight losses as IT and realty stocks gains were offset by declines in FMCG and financial shares. The Nifty 50 and S&amp;P BSE Sensex fell 0.04% and 0.07%,"
-    },
-    {
-      "title": "MFs kept buying these 13 smallcap stocks for 4 straight quarters; shares surged up to 111%",
-      "description": "Mutual funds steadily increased stakes in several smallcap stocks over four quarters, with many rewarding investors through strong one-year gains, including 13 stocks delivering returns between 50% and 111%.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-kept-buying-these-13-smallcap-stocks-for-4-straight-quarters-shares-surged-up-to-111/slideshow/132681828.cms",
-      "image": "https://img.etimg.com/photo/msid-132681563,imgsize-7378.cms",
-      "source": "ET Markets",
-      "published_at": "2026-07-28T10:10:40+00:00",
-      "category": "India",
-      "simple_explanation": "Mutual funds steadily increased stakes in several smallcap stocks over four quarters, with many rewarding investors through strong one-year gains, including 13 stocks delivering returns between 50% an"
-    },
-    {
-      "title": "IMF warns Brazil’s stablecoin activity outpaces traditional capital flows",
-      "description": "The IMF said Brazil’s stablecoin market has expanded rapidly since 2017, with cross-border crypto flows growing faster than traditional capital flows.",
-      "url": "https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-imf-and-tokenization.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-28T10:09:47+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The IMF said Brazil’s stablecoin market has expanded rapidly since 2017, with cross-border crypto flows growing faster than traditional capital flows."
-    },
-    {
-      "title": "Blurred frontlines: Trump to meet Zelenskyy as Ukraine, Iran wars collide",
-      "description": "Trump and Zelenskyy's meeting comes as the U.S war against Iran and Russia's full-scale invasion of Ukraine have threatened to overlap in recent days.",
-      "url": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-28T10:09:35+00:00",
-      "category": "USA",
-      "simple_explanation": "Trump and Zelenskyy's meeting comes as the U.S war against Iran and Russia's full-scale invasion of Ukraine have threatened to overlap in recent days."
-    },
-    {
-      "title": "Royal Caribbean Cruises (RCL) Rises With Oil Relief But Is The Valuation Already Priced In",
-      "description": "Royal Caribbean Cruises (RCL) is back on trader radars after easing conflict risks in the Middle East pushed oil prices lower, improving sentiment toward fuel intensive travel stocks as the company approaches its latest earnings update. See our latest analysis for Royal Caribbean Cruises. Royal Cari",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-cruises-rcl-rises-100745835.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T10:07:45+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Royal Caribbean Cruises (RCL) is back on trader radars after easing conflict risks in the Middle East pushed oil prices lower, improving sentiment toward fuel intensive travel stocks as the company ap"
-    },
-    {
-      "title": "Star Gold Corp. Finalizes Summer 2026 Drill Program at Longstreet, Advancing Nevada Gold-Silver Project Toward Permitting and Development",
-      "description": "Star Gold Corp. (OTCQB: SRGZ) (\"Star Gold\" or the \"Company\") today announced it has finalized the design of its summer 2026 drill campaign at the wholly owned Longstreet Gold-Silver Project in Nye County, Nevada, and that earthwork to establish drill site access is underway.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/star-gold-corp-finalizes-summer-100500428.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T10:05:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Star Gold Corp. (OTCQB: SRGZ) (\"Star Gold\" or the \"Company\") today announced it has finalized the design of its summer 2026 drill campaign at the wholly owned Longstreet Gold-Silver Project in Nye Cou"
-    },
-    {
-      "title": "Stock market today: Sensex drops 70 points, Nifty 50 ends at 23,985; IT stocks shine",
-      "description": "The Sensex closed 70 points, or 0.09%, lower at 76,765.92, while the Nifty 50 ended at 23,985.35, down 11 points, or 0.04%.",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-drops-70-points-nifty-50-ends-at-23-985-it-stocks-shine-11785232498213.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/28/1600x900/logo/PTI08-05-2024-000216A-0_1722857566902_1785233025590_680c5c47-bf80-4060-8e32-93076180af7d.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-28T10:03:08+00:00",
-      "category": "India",
-      "simple_explanation": "The Sensex closed 70 points, or 0.09%, lower at 76,765.92, while the Nifty 50 ended at 23,985.35, down 11 points, or 0.04%."
-    },
-    {
-      "title": "Suzlon Energy shares crash 10% to 3-month low after Q1 results. What’s spooking investors?",
-      "description": "Suzlon Energy shares fell nearly 10% following its Q1 FY27 earnings update, where net profit slipped 6% YoY to Rs 305 crore and EBITDA margins compressed to 15.6%. Despite a 22.5% growth in revenue and record deliveries, investor sentiment was impacted by margin pressure and global supply chain disr",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-crash-10-to-3-month-low-after-q1-results-whats-spooking-investors/articleshow/132681258.cms",
-      "image": "https://img.etimg.com/photo/msid-132681258,imgsize-81655.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-28T10:02:10+00:00",
-      "category": "India",
-      "simple_explanation": "Suzlon Energy shares fell nearly 10% following its Q1 FY27 earnings update, where net profit slipped 6% YoY to Rs 305 crore and EBITDA margins compressed to 15.6%. Despite a 22.5% growth in revenue an"
-    },
-    {
-      "title": "ASML, Samsung Electronics to SK Hynix: Why are semiconductor stocks under pressure in the global markets today?",
-      "description": "Global markets today: Semiconductor stocks crashed on concerns about Chinese competition and funding of the AI boom",
-      "url": "https://www.livemint.com/market/stock-market-news/asml-samsung-electronics-to-sk-hynix-why-are-semiconductor-stocks-under-selling-pressure-in-the-global-markets-today-11785230436472.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/28/1600x900/logo/Global_markets_today_NVIDIA_SK_Hynix_Share_Price_1785232577162_1785232577332_60e3b237-4ac0-4159-8b22-6769d4a74b98.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-28T10:01:34+00:00",
-      "category": "India",
-      "simple_explanation": "Global markets today: Semiconductor stocks crashed on concerns about Chinese competition and funding of the AI boom"
-    },
-    {
-      "title": "Eagle Plains and American Eagle Gold Corp Execute Option Agreement for the Hearne Hill South, Jinx and NAK NW Copper-Gold Projects, British Columbia",
-      "description": "CRANBROOK, BC / ACCESS Newswire / July 28, 2026 /Eagle Plains Resources Ltd. (TSXV:EPL)(OTCQB:EGPLF) (\"EPL\" or \"Eagle Plains\") and American Eagle Gold Corp. (TSXV:AE)(OTCQB:AMEGF) (\"AE\" or \"American Eagle\")‎ are pleased to announce that the parties ...",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/eagle-plains-american-eagle-gold-100000550.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T10:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "CRANBROOK, BC / ACCESS Newswire / July 28, 2026 /Eagle Plains Resources Ltd. (TSXV:EPL)(OTCQB:EGPLF) (\"EPL\" or \"Eagle Plains\") and American Eagle Gold Corp. (TSXV:AE)(OTCQB:AMEGF) (\"AE\" or \"American E"
-    },
-    {
-      "title": "American Eagle Expands Its Babine Porphyry District Land Position with Hearne Hill South Option",
-      "description": "Highlights:American Eagle's land position has been expanded by 470%, from 1,632 hectares to approximately 9,283 hectares, creating one of the district's largest and most strategic land positions, immediately adjacent to the Morrison deposit and the Hearne Hill porphyry system.American Eagle now cont",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/american-eagle-expands-babine-porphyry-100000003.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T10:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Highlights:American Eagle's land position has been expanded by 470%, from 1,632 hectares to approximately 9,283 hectares, creating one of the district's largest and most strategic land positions, imme"
-    },
-    {
-      "title": "The bond market's danger zone is becoming the new normal: Chart of the Day",
-      "description": "Stocks are beginning to feel the pressure from rising bond yields.",
-      "url": "https://finance.yahoo.com/markets/article/the-bond-markets-danger-zone-is-becoming-the-new-normal-chart-of-the-day-100000676.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T10:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Stocks are beginning to feel the pressure from rising bond yields."
-    },
-    {
-      "title": "MV Electrosystems IPO to open on July 30; sets price band at Rs 400-425 per share",
-      "description": "MV Electrosystems has fixed the price band for its Rs 290 crore IPO at Rs 400-425 per share. The issue, opening on July 30, will fund working capital, R&D and corporate needs as the railway electronics manufacturer expands its manufacturing capacity and order book.",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/mv-electrosystems-ipo-to-open-on-july-30-sets-price-band-at-rs-400-425-per-share/articleshow/132681115.cms",
-      "image": "https://img.etimg.com/photo/msid-132681115,imgsize-47558.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-28T09:57:59+00:00",
-      "category": "India",
-      "simple_explanation": "MV Electrosystems has fixed the price band for its Rs 290 crore IPO at Rs 400-425 per share. The issue, opening on July 30, will fund working capital, R&D and corporate needs as the railway electronic"
-    },
-    {
-      "title": "Global Market: Xiaohongshu faces scrutiny over potential Hong Kong IPO plans amid VIE structure dispute",
-      "description": "Chinese social media platform Xiaohongshu faces listing scrutiny following a complaint by a former executive regarding its variable interest entity (VIE) structure. The dispute over employee stock options and corporate control disclosures highlights regulatory and compliance risks for Chinese tech f",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-xiaohongshu-faces-scrutiny-over-potential-hong-kong-ipo-plans-amid-vie-structure-dispute/articleshow/132680810.cms",
-      "image": "https://img.etimg.com/photo/msid-132680810,imgsize-96984.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-28T09:46:32+00:00",
-      "category": "India",
-      "simple_explanation": "Chinese social media platform Xiaohongshu faces listing scrutiny following a complaint by a former executive regarding its variable interest entity (VIE) structure. The dispute over employee stock opt"
-    },
-    {
-      "title": "China’s reported chip breakthrough comes with some big caveats",
-      "description": "China is reportedly producing a key chip tool in a market dominated by ASML. But analysts questioned China's ability to compete with the Dutch giant.",
-      "url": "https://www.cnbc.com/2026/07/28/china-chipmaking-duv-tool-asml-explained.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-28T09:44:13+00:00",
-      "category": "USA",
-      "simple_explanation": "China is reportedly producing a key chip tool in a market dominated by ASML. But analysts questioned China's ability to compete with the Dutch giant."
-    },
-    {
-      "title": "How the rain gods impact the Indian economy",
-      "description": "IDFC FIRST Bank Chief Economist Gaura Sengupta analyzes how El Nino and monsoon performance shape India's economic growth and inflation. While expanding irrigation and a growing allied sector have reduced agriculture's direct sensitivity to rainfall deficits, volatile weather and global pressures co",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-the-rain-gods-impact-the-indian-economy/articleshow/132680776.cms",
-      "image": "https://img.etimg.com/photo/msid-132680776,imgsize-21228.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-28T09:40:30+00:00",
-      "category": "India",
-      "simple_explanation": "IDFC FIRST Bank Chief Economist Gaura Sengupta analyzes how El Nino and monsoon performance shape India's economic growth and inflation. While expanding irrigation and a growing allied sector have red"
-    },
-    {
-      "title": "Global Market: European stocks trade flat as tech selloff offsets earnings boost from consumer, luxury firms",
-      "description": "European stock markets remained relatively stable despite a notable dip in technology shares. The positive earnings reported from the consumer goods and luxury sectors provided a buffer against wider market declines. Lower oil prices lent further support, keeping investor confidence steady. Attentio",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-trade-flat-as-tech-selloff-offsets-earnings-boost-from-consumer-luxury-firms/articleshow/132680734.cms",
-      "image": "https://img.etimg.com/photo/msid-132680734,imgsize-214970.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-28T09:38:37+00:00",
-      "category": "India",
-      "simple_explanation": "European stock markets remained relatively stable despite a notable dip in technology shares. The positive earnings reported from the consumer goods and luxury sectors provided a buffer against wider "
-    },
-    {
-      "title": "The Stock Market Sounds an Alarm Triggered Just Once Before. History Says This Will Happen Next.",
-      "description": "The stock market is more expensive today than it has been since the dot-com bubble.",
-      "url": "https://www.fool.com/investing/2026/07/28/stock-market-alarm-once-before-this-happen-next/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T09:32:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The stock market is more expensive today than it has been since the dot-com bubble."
-    },
-    {
-      "title": "Should investors increase allocation to small, midcaps? Motilal Oswal Private Wealth explains why",
-      "description": "Motilal Oswal Private Wealth has increased its recommended portfolio allocation for mid and smallcaps to 50% in its July 2026 report, citing attractive valuations and high exposure to growth sectors. The firm maintains a neutral stance on overall equities while advising a flexible, actively managed ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/should-investors-increase-allocation-to-small-midcaps-motilal-oswal-private-wealth-explains-why/articleshow/132680588.cms",
-      "image": "https://img.etimg.com/photo/msid-132680588,imgsize-65664.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-28T09:31:50+00:00",
-      "category": "India",
-      "simple_explanation": "Motilal Oswal Private Wealth has increased its recommended portfolio allocation for mid and smallcaps to 50% in its July 2026 report, citing attractive valuations and high exposure to growth sectors. "
-    },
-    {
-      "title": "Multibagger Aurionpro Solutions shares crash over 12% after June quarter results",
-      "description": "Aurionpro Solutions shares dropped 12.3% to  ₹733.50 after mixed Q1 earnings. Revenue rose 6.3% to  ₹358 crore, but EBITDA fell 9.1%. The company secured significant contracts, including a USD 33 million deal. Despite this, shares have lost over 55% since September 2024.",
-      "url": "https://www.livemint.com/market/stock-market-news/multibagger-aurionpro-solutions-shares-crash-over-12-after-june-quarter-results-11785229401718.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/28/1600x900/logo/g1dbcf8fc2d906d2f5b6991f319b0b6928fa766234dc314dda_1785230720875_1785230721070_dc486b0e-bfb6-438c-a6d4-6ca9a57949c5.png",
-      "source": "LiveMint",
-      "published_at": "2026-07-28T09:31:42+00:00",
-      "category": "India",
-      "simple_explanation": "Aurionpro Solutions shares dropped 12.3% to  ₹733.50 after mixed Q1 earnings. Revenue rose 6.3% to  ₹358 crore, but EBITDA fell 9.1%. The company secured significant contracts, including a USD 33 mill"
-    },
-    {
-      "title": "Ambuja Cements Q1 results: Profit drops nearly 37% YoY to  ₹660 crore, revenue declines 8%",
-      "description": "Ambuja Cements reported a 36.6% YoY drop in its consolidated profit to  ₹660 crore. Revenue from operations for the quarter dropped 7.7% YoY to  ₹9,500 crore.",
-      "url": "https://www.livemint.com/market/stock-market-news/ambuja-cements-q1-results-profit-drops-nearly-37-yoy-to-660-crore-11785230818281.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/28/1600x900/logo/AMBUJA-CEMENTS-STAKE--0_1729599546811_1785230931192_9029f49a-a9c9-45de-9cf1-8ca5db9bc082.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-07-28T09:29:50+00:00",
-      "category": "India",
-      "simple_explanation": "Ambuja Cements reported a 36.6% YoY drop in its consolidated profit to  ₹660 crore. Revenue from operations for the quarter dropped 7.7% YoY to  ₹9,500 crore."
-    },
-    {
-      "title": "Treasuries Set for Third Day of Gains as Oil Drops on Iran Talks",
-      "description": "(Bloomberg) -- Treasuries head for their best win streak in a month, buoyed by a sharp retreat in oil prices on optimism that talks between the US and Iran will lead to the resumption of tanker traffic around the Arabian Peninsula. Most Read from BloombergNvidia’s $750 Billion in Deals Reignite Circ",
-      "url": "https://finance.yahoo.com/news/treasuries-set-third-day-gains-092111252.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T09:21:11+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Bloomberg) -- Treasuries head for their best win streak in a month, buoyed by a sharp retreat in oil prices on optimism that talks between the US and Iran will lead to the resumption of tanker traffi"
-    },
-    {
-      "title": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
-      "description": "Lido launched Curated Module v2, an upgrade that could reduce Ethereum’s validator count by one-third by consolidating validators and introducing new operator rules.",
-      "url": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-lido-ldo-a-beginners-guide-to-liquidity-for-staked-assets.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-28T09:14:45+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Lido launched Curated Module v2, an upgrade that could reduce Ethereum’s validator count by one-third by consolidating validators and introducing new operator rules."
-    },
-    {
-      "title": "Vijay Kedia sells 4 lakh shares of this microcap facade maker in Q1, stock down 35% in 6 months. Do you own?",
-      "description": "Veteran investor Vijay Kedia reduced his stake in microcap firm Innovators Facade Systems during Q1 FY27, selling over 3.66 lakh shares. His holding fell from 10.66% to 8.71%, leaving him with 16.44 lakh shares at the end of June. The stock has declined more than 35% over the past six months.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-sells-4-lakh-shares-of-this-microcap-facade-maker-in-q1-stock-down-35-in-6-months-do-you-own/articleshow/132680256.cms",
-      "image": "https://img.etimg.com/photo/msid-132680256,imgsize-24930.cms",
-      "source": "ET Markets",
-      "published_at": "2026-07-28T09:13:29+00:00",
-      "category": "India",
-      "simple_explanation": "Veteran investor Vijay Kedia reduced his stake in microcap firm Innovators Facade Systems during Q1 FY27, selling over 3.66 lakh shares. His holding fell from 10.66% to 8.71%, leaving him with 16.44 l"
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights Apple, Microsoft, Amazon, LVMH, AstraZeneca, Shell, Airbus and UBS",
-      "description": "AAPL, MSFT and AMZN earnings join key central bank meetings as investors track AI spending, interest rates and rising geopolitical risks.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-091300766.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T09:13:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "AAPL, MSFT and AMZN earnings join key central bank meetings as investors track AI spending, interest rates and rising geopolitical risks."
-    },
-    {
-      "title": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
-      "description": "The new system marks an apparent departure from the institution-focused layer-1 blockchain Ondo announced in 2025.",
-      "url": "https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-explanatory-articles-for-the-very-beginner-ondo-1.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-28T09:12:14+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The new system marks an apparent departure from the institution-focused layer-1 blockchain Ondo announced in 2025."
-    },
-    {
-      "title": "Ambuja Cement Q1 Results: Net profit drops 34% YoY to Rs 577 crore; revenue falls 7.5%",
-      "description": "Ambuja Cement Q1 Results: Revenue from operations also declined 7.5% YoY to Rs 9,474 crore from Rs 10,244 crore in the year-ago quarter, the company said in a regulatory filing.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-q1-results-net-profit-drops-34-yoy-at-rs-577-crore-revenue-falls-7-5/articleshow/132680124.cms",
-      "image": "https://img.etimg.com/photo/msid-132680124,imgsize-25551.cms",
-      "source": "ET Markets",
-      "published_at": "2026-07-28T09:04:18+00:00",
-      "category": "India",
-      "simple_explanation": "Ambuja Cement Q1 Results: Revenue from operations also declined 7.5% YoY to Rs 9,474 crore from Rs 10,244 crore in the year-ago quarter, the company said in a regulatory filing."
-    },
-    {
-      "title": "Nasdaq, S&P 500 Futures Slip As Korea Chip Shock Dents AI Memory Heavyweights Ahead Of Fed Decision: Why NVDA, SNDK, MU, APLD, SPCX, SLS, CAPR Are In Focus",
-      "description": "Retail sentiment remains ‘bearish’ on SPY and deteriorated to ‘extremely bearish’ on QQQ, amid growing anxiety around technology stocks.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-slip-korea-chip-shock-ai-memory-fed-decision-why-nvda-sndk-mu-apld-spcx-sls-capr-in-focus/cZZCK96RJG0?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T08:46:55+00:00",
-      "category": "USA",
-      "simple_explanation": "Retail sentiment remains ‘bearish’ on SPY and deteriorated to ‘extremely bearish’ on QQQ, amid growing anxiety around technology stocks."
-    },
-    {
-      "title": "Micron, Nvidia fall after SK Hynix plunges nearly 15% as chip sell-off deepens",
-      "description": "Semiconductor stocks fell in premarket trading on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.",
-      "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-28T08:41:56+00:00",
-      "category": "USA",
-      "simple_explanation": "Semiconductor stocks fell in premarket trading on Tuesday, extending a rout in chipmakers after another weak session on Wall Street."
-    },
-    {
-      "title": "Salesforce’s Agentforce Bet Made It the Dow’s Worst Performer. Is the Market Overreacting?",
-      "description": "Enterprise AI agents were meant to be the breakout software offering for 2026, yet instead they’ve become one of the major sources of buyer distrust. According to Anaconda and Forrester research, over 88% of AI agent pilots never reach production, as confirmed by independent polls from a16z and MIT ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-agentforce-bet-made-dow-083826022.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T08:38:26+00:00",
-      "category": "USA",
-      "simple_explanation": "Enterprise AI agents were meant to be the breakout software offering for 2026, yet instead they’ve become one of the major sources of buyer distrust. According to Anaconda and Forrester research, over"
-    },
-    {
-      "title": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",
-      "description": "Concerns about the AI boom's sustainability offset the market impact of falling oil prices and earnings optimism.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T08:28:32+00:00",
-      "category": "USA",
-      "simple_explanation": "Concerns about the AI boom's sustainability offset the market impact of falling oil prices and earnings optimism."
-    },
-    {
-      "title": "Stock Futures Drop as Chip Selloff Rages On",
-      "description": "Tech stocks looked set to drop again on Tuesday as investors continued to ditch chip makers, which got hammered the previous session due to concerns about fierce competition from China. Nasdaq 100 futures declined 0.",
-      "url": "https://finance.yahoo.com/m/19675e67-f0fe-34ce-89a1-7eb93378fad4/stock-futures-drop-as-chip.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T08:27:51+00:00",
-      "category": "USA",
-      "simple_explanation": "Tech stocks looked set to drop again on Tuesday as investors continued to ditch chip makers, which got hammered the previous session due to concerns about fierce competition from China. Nasdaq 100 fut"
-    },
-    {
-      "title": "Jerome Powell's Inflation Warning Rings Truer Than Ever After President Donald Trump's Latest Announcement",
-      "description": "Who's ready for another round of tariffs?",
-      "url": "https://www.fool.com/investing/2026/07/28/jerome-powell-inflation-warning-trump-announcement/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T08:26:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Who's ready for another round of tariffs?"
-    },
-    {
-      "title": "Why Is The Crypto Market Down Today?",
-      "description": "The crypto market fell over 1% as crypto deal-making collapsed and Fed rate hike bets triggered $608 million in liquidations.",
-      "url": "https://beincrypto.com/why-is-the-crypto-market-down-today/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T07:55:48+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The crypto market fell over 1% as crypto deal-making collapsed and Fed rate hike bets triggered $608 million in liquidations."
-    },
-    {
-      "title": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
-      "description": "Three users allege a fake Sparrow Wallet app on Apple’s App Store drained their Bitcoin holdings, with losses totaling more than $1.8 million.",
-      "url": "https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ledger-and-monero2.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-28T07:40:40+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Three users allege a fake Sparrow Wallet app on Apple’s App Store drained their Bitcoin holdings, with losses totaling more than $1.8 million."
     }
   ]
 }
