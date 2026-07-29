@@ -1,16 +1,126 @@
 {
-  "last_updated": "2026-07-29T20:55:56.968465+00:00",
+  "last_updated": "2026-07-29T22:02:25.568072+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Meta's stock drops on light revenue guidance, dwindling free cash flow",
+      "title": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion",
+      "description": "Microsoft's backlog sat 8% taller than the previous quarter, mainly thanks to contributions from customers other than large artificial intelligence companies.",
+      "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-29T22:00:35+00:00",
+      "category": "USA",
+      "simple_explanation": "Microsoft's backlog sat 8% taller than the previous quarter, mainly thanks to contributions from customers other than large artificial intelligence companies."
+    },
+    {
+      "title": "Robinhood posts record quarter, but crypto revenue slides 38%",
+      "description": "The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined.",
+      "url": "https://cointelegraph.com/news/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/robinhood.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-29T21:53:35+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined."
+    },
+    {
+      "title": "Chipotle hikes same-store sales forecast, says cyclospora fears hit sales in late July",
+      "description": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
+      "url": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-29T21:52:41+00:00",
+      "category": "USA",
+      "simple_explanation": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion."
+    },
+    {
+      "title": "Binance.US to attempt prediction markets entry as CFTC-licensed entity, says CEO",
+      "description": "The CEO of the US crypto exchange said that the company would apply for a license with the CFTC in August allowing it to offer prediction markets.",
+      "url": "https://cointelegraph.com/news/binance-us-prediction-markets-cftc-designated-contract-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/paper-document-man-office-cftc.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-29T21:52:27+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The CEO of the US crypto exchange said that the company would apply for a license with the CFTC in August allowing it to offer prediction markets."
+    },
+    {
+      "title": "JPMorgan just sent stock market investors a signal worth watching",
+      "description": "CNBC released a podcast interview with Jamie Dimon on July 21. He said he would not buy U.S. stocks or long-dated Treasurys at current prices. He said the market was underpricing risk and that investors were too comfortable. Six days later, JPMorgan's own trading desk published a note saying the ...",
+      "url": "https://www.thestreet.com/investing/stocks/jpmorgan-sent-stock-market-investors-buy-signal-sp500-jamie-dimon?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:47:00+00:00",
+      "category": "USA",
+      "simple_explanation": "CNBC released a podcast interview with Jamie Dimon on July 21. He said he would not buy U.S. stocks or long-dated Treasurys at current prices. He said the market was underpricing risk and that investo"
+    },
+    {
+      "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+      "description": "After the Dow falls by 1,000 points, the index typically is weak in the week that follows. The average then posts gains in the next month and three months.",
+      "url": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-29T21:43:50+00:00",
+      "category": "USA",
+      "simple_explanation": "After the Dow falls by 1,000 points, the index typically is weak in the week that follows. The average then posts gains in the next month and three months."
+    },
+    {
+      "title": "Five9 Set to Join S&P SmallCap 600",
+      "description": "Five9, Inc. (NASD: FIVN) will replace Two Harbors Investment Corp. (NYSE: TWO) in the S&P SmallCap 600 effective prior to the opening of trading on Monday, August 3. CrossCountry Mortgage, LLC is acquiring Two Harbors Investment Corp. in a deal expected to close soon, pending final closing condition",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/five9-set-join-p-smallcap-214100432.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:41:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Five9, Inc. (NASD: FIVN) will replace Two Harbors Investment Corp. (NYSE: TWO) in the S&P SmallCap 600 effective prior to the opening of trading on Monday, August 3. CrossCountry Mortgage, LLC is acqu"
+    },
+    {
+      "title": "Dow Jones Futures: Stock Market Tumbles, Oil Prices Soar On Trump's Iran Threats; Microsoft, Meta, Fortinet Earnings Late",
+      "description": "The stock market sold off as oil prices surged on Trump's Iran threats. Microsoft, Meta and Fortinet were key earnings movers late.",
+      "url": "https://finance.yahoo.com/m/58bee05c-df37-343b-b099-b9d3d5fa6440/dow-jones-futures%3A-stock.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:40:29+00:00",
+      "category": "USA",
+      "simple_explanation": "The stock market sold off as oil prices surged on Trump's Iran threats. Microsoft, Meta and Fortinet were key earnings movers late."
+    },
+    {
+      "title": "Update: US Equity Indexes Slide as Divided Fed Reiterates Inflation Focus, Trump Vows to Hit Iran Hard in Retribution Move",
+      "description": "(Updates with index/price moves and Federal Reserve/geopolitical news from the first paragraph.)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-divided-212756138.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:27:56+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with index/price moves and Federal Reserve/geopolitical news from the first paragraph.)"
+    },
+    {
+      "title": "Meta's stock plunges almost 10% on disappointing guidance, dwindling free cash flow",
       "description": "Meta issued a weaker-than-expected revenue forecast and narrowed its capex range for the year.",
       "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-07-29T20:55:28+00:00",
+      "published_at": "2026-07-29T21:26:17+00:00",
       "category": "USA",
       "simple_explanation": "Meta issued a weaker-than-expected revenue forecast and narrowed its capex range for the year."
+    },
+    {
+      "title": "Oil prices surge while US stocks fall as Fed keeps rates unchanged",
+      "description": "Wall Street stocks finished sharply lower Wednesday after the Federal Reserve kept interest rates unchanged despite lofty US inflation as escalations in the Middle East war pushed oil prices skyward.On Wednesday afternoon after the stock market closed, Microsoft gained after its earnings, while Meta",
+      "url": "https://finance.yahoo.com/energy/articles/crude-jumps-fresh-mideast-flare-030605104.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:26:10+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Wall Street stocks finished sharply lower Wednesday after the Federal Reserve kept interest rates unchanged despite lofty US inflation as escalations in the Middle East war pushed oil prices skyward.O"
+    },
+    {
+      "title": "Agnico Eagle Reports Higher Q2 Earnings, Maintains 2026 Production Outlook",
+      "description": "Agnico Eagle Mines (AEM.TO, AEM) after the close on Wednesday reported second-quarter adjusted earni",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-reports-higher-q2-212354897.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:23:54+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Agnico Eagle Mines (AEM.TO, AEM) after the close on Wednesday reported second-quarter adjusted earni"
     },
     {
       "title": "Starbucks stock jumps as coffee giant raises full-year outlook",
@@ -18,19 +128,139 @@
       "url": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-07-29T20:54:40+00:00",
+      "published_at": "2026-07-29T21:22:20+00:00",
       "category": "USA",
       "simple_explanation": "Starbucks posted its fourth straight quarter of same-store sales growth, as it continues a turnaround under CEO Brian Niccol."
     },
     {
-      "title": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion",
-      "description": "Microsoft's backlog sat 8% taller than the previous quarter, mainly thanks to contributions from customers other than large artificial intelligence companies.",
-      "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+      "title": "Comstock Resources (NYSE:CRK) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings",
+      "description": "Natural gas producer Comstock Resources (NYSE:CRK) missed Wall Street’s revenue expectations in Q2 CY2026 as sales only rose 1.6% year on year to $353.3 million. Its non-GAAP profit of $0.03 per share was $0.02 above analysts’ consensus estimates.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/comstock-resources-nyse-crk-reports-212218325.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:22:18+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Natural gas producer Comstock Resources (NYSE:CRK) missed Wall Street’s revenue expectations in Q2 CY2026 as sales only rose 1.6% year on year to $353.3 million. Its non-GAAP profit of $0.03 per share"
+    },
+    {
+      "title": "Stock Market Today, July 29: Stocks Slide on Hawkish Fed and Increased Middle East Tensions",
+      "description": "On July 29, 2026, a hawkish shift from three Federal Reserve officials rattled investors who were already bracing for geopolitical risks.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/29/stock-market-today-july-29-stocks-slide-on-hawkish-fed-and-increased-middle-east-tensions/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:21:35+00:00",
+      "category": "USA",
+      "simple_explanation": "On July 29, 2026, a hawkish shift from three Federal Reserve officials rattled investors who were already bracing for geopolitical risks."
+    },
+    {
+      "title": "Elemental Royalty Notes 32% Increase in Reserves at Karlawinda with Expansion Commissioning on Track for Q3 2026",
+      "description": "Denver, Colorado--(Newsfile Corp. - July 29, 2026) - Elemental Royalty Corporation (NASDAQ: ELE) (TSX: ELE) (\"Elemental\" or the \"Company\") notes the announcement by Capricorn Metals Ltd (ASX: CMM) (\"Capricorn\") of a 32% increase in Mineral Reserves at the Karlawinda Gold Project (\"Karlawinda\"). Elem",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/elemental-royalty-notes-32-increase-212000136.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:20:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Denver, Colorado--(Newsfile Corp. - July 29, 2026) - Elemental Royalty Corporation (NASDAQ: ELE) (TSX: ELE) (\"Elemental\" or the \"Company\") notes the announcement by Capricorn Metals Ltd (ASX: CMM) (\"C"
+    },
+    {
+      "title": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance",
+      "description": "\"Cost went up, prices are going to go up,\" Qualcomm CEO Cristiano Amon said in an interview.",
+      "url": "https://www.cnbc.com/2026/07/29/qualcomm-qcom-earnings-report-q3-2026-.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-07-29T20:51:39+00:00",
+      "published_at": "2026-07-29T21:19:52+00:00",
       "category": "USA",
-      "simple_explanation": "Microsoft's backlog sat 8% taller than the previous quarter, mainly thanks to contributions from customers other than large artificial intelligence companies."
+      "simple_explanation": "\"Cost went up, prices are going to go up,\" Qualcomm CEO Cristiano Amon said in an interview."
+    },
+    {
+      "title": "Greenheart Gold Announces Results from the Maiden Drill Program at Igab, Including Hole D-007 Intersecting 7.0 m @ 5.82 g/t Au, and Results at Majorodam",
+      "description": "Longueuil, Québec--(Newsfile Corp. - July 29, 2026) - Greenheart Gold Inc. (TSXV: GHRT) (OTCQX: GHRTF) (the \"Company\" or \"Greenheart Gold\") is pleased to report initial diamond drill and additional trenching results from its Igab project in Suriname, and to provide an update on results for the Major",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/greenheart-gold-announces-results-maiden-211500331.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:15:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Longueuil, Québec--(Newsfile Corp. - July 29, 2026) - Greenheart Gold Inc. (TSXV: GHRT) (OTCQX: GHRTF) (the \"Company\" or \"Greenheart Gold\") is pleased to report initial diamond drill and additional tr"
+    },
+    {
+      "title": "SoFi Is Excited by the ‘Velocity’ of Its Growth. The Stock Market Isn’t.",
+      "description": "SoFi Technologies posts second-quarter earnings that edge past analysts’ forecasts and raises part of its full-year guidance.",
+      "url": "https://finance.yahoo.com/m/924e46cb-b67d-305f-a7d1-76d8ead10a9e/sofi-is-excited-by-the.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:14:00+00:00",
+      "category": "USA",
+      "simple_explanation": "SoFi Technologies posts second-quarter earnings that edge past analysts’ forecasts and raises part of its full-year guidance."
+    },
+    {
+      "title": "Donald Trump says Andy Burnham told him he will ‘open up North Sea oil’",
+      "description": "The US president, who is a vocal supporter of fossil fuels, argues the move would make the UK ‘a wealthy country’.",
+      "url": "https://uk.finance.yahoo.com/news/donald-trump-says-pm-andy-201552010.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:09:27+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The US president, who is a vocal supporter of fossil fuels, argues the move would make the UK ‘a wealthy country’."
+    },
+    {
+      "title": "Antero Resources (NYSE:AR) Surprises With Q2 CY2026 Sales",
+      "description": "Natural gas producer Antero Resources (NYSE:AR) reported Q2 CY2026 results topping the market’s revenue expectations, with sales up 29.6% year on year to $1.56 billion. Its GAAP profit of $0.90 per share was 10.5% above analysts’ consensus estimates.",
+      "url": "https://finance.yahoo.com/energy/articles/antero-resources-nyse-ar-surprises-210706982.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:07:06+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Natural gas producer Antero Resources (NYSE:AR) reported Q2 CY2026 results topping the market’s revenue expectations, with sales up 29.6% year on year to $1.56 billion. Its GAAP profit of $0.90 per sh"
+    },
+    {
+      "title": "L3Harris Stock Jumps on Earnings Beat. The Defense Business Is Growing.",
+      "description": "The defense contractor reported second-quarter earnings per share of $3.13. Wall Street was looking for $2.80.",
+      "url": "https://finance.yahoo.com/m/80abaddf-fab3-379b-bc43-81fe73bca9de/l3harris-stock-jumps-on.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:05:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The defense contractor reported second-quarter earnings per share of $3.13. Wall Street was looking for $2.80."
+    },
+    {
+      "title": "Stock Market Today: Dow Craters 1,110 Points As Bond Yields Jump On Fed Worries; Meta Extends Losses",
+      "description": "Stock Market Today: The Dow Jones index sinks Thursday as rising bond yields reflect uncertainty about the Fed's direction on interest rates.",
+      "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-dow.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:02:17+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index sinks Thursday as rising bond yields reflect uncertainty about the Fed's direction on interest rates."
+    },
+    {
+      "title": "Centerra Gold Inc (CGAU) Q2 2026 Earnings Call Highlights: Boosted Production Guidance and ...",
+      "description": "Centerra Gold Inc (CGAU) raises its gold production outlook and enhances shareholder returns amid financial flexibility and strategic growth initiatives.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/centerra-gold-inc-cgau-q2-210059925.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:00:59+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Centerra Gold Inc (CGAU) raises its gold production outlook and enhances shareholder returns amid financial flexibility and strategic growth initiatives."
+    },
+    {
+      "title": "Kinross declares quarterly dividend",
+      "description": "TORONTO, July 29, 2026 (GLOBE NEWSWIRE) -- Kinross Gold Corporation (TSX: K; NYSE: KGC) (the “Company”) today announced that the Company’s Board of Directors has declared a dividend of US$0.04 per common share for the second quarter of 2026. The dividend is payable on September 3, 2026, to sharehold",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kinross-declares-quarterly-dividend-210000278.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T21:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "TORONTO, July 29, 2026 (GLOBE NEWSWIRE) -- Kinross Gold Corporation (TSX: K; NYSE: KGC) (the “Company”) today announced that the Company’s Board of Directors has declared a dividend of US$0.04 per com"
+    },
+    {
+      "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
+      "description": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.",
+      "url": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-07-29T20:58:06+00:00",
+      "category": "Global",
+      "simple_explanation": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through."
     },
     {
       "title": "Here are the five big takeaways from this week's Fed meeting",
@@ -53,54 +283,24 @@
       "simple_explanation": "ARK Invest’s Lorenzo Valente says revenue is becoming increasingly concentrated among a handful of crypto protocols, setting the stage for more mergers, acquisitions and exchange closures."
     },
     {
-      "title": "Dakota Gold Announces Leadership Changes as It Advances Its Richmond Hill Gold Project",
-      "description": "Lead, South Dakota--(Newsfile Corp. - July 29, 2026) - Dakota Gold Corp. (NYSE American: DC) (\"Dakota Gold\" or the \"Company\") is pleased to announce leadership changes designed to support the Company's next phase of growth as it advances the Richmond Hill Gold Project (\"Richmond Hill\" or the \"Projec",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dakota-gold-announces-leadership-changes-203000779.html?.tsrc=rss",
+      "title": "How Ford Survived Its Aluminum Crisis to Power Its Earnings and Its Stock",
+      "description": "Ford announced an operating profit of $2.5 billion from sales of $48.3 billion. Things look OK for the U.S. car business.",
+      "url": "https://finance.yahoo.com/m/b19eac9a-043b-30a6-a0fa-6f379fa91ee5/how-ford-survived-its.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-29T20:30:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Lead, South Dakota--(Newsfile Corp. - July 29, 2026) - Dakota Gold Corp. (NYSE American: DC) (\"Dakota Gold\" or the \"Company\") is pleased to announce leadership changes designed to support the Company'"
-    },
-    {
-      "title": "Update: Equities Tumble Following Fed's Divided Decision to Stay on Hold",
-      "description": "(Updates with market moves at the end of the day and the Fed decision.) US stocks slid Wednesday",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-tumble-following-fed-apos-202733412.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T20:27:33+00:00",
+      "published_at": "2026-07-29T20:38:00+00:00",
       "category": "USA",
-      "simple_explanation": "(Updates with market moves at the end of the day and the Fed decision.) US stocks slid Wednesday"
+      "simple_explanation": "Ford announced an operating profit of $2.5 billion from sales of $48.3 billion. Things look OK for the U.S. car business."
     },
     {
-      "title": "TSX Closer: Index Closes Lower as Financials Slide, Energy Gains on Oil Rally",
-      "description": "The S&P/TSX Composite Index closed sharply lower on Wednesday as losses in financial stocks outweigh",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-closes-lower-202255537.html?.tsrc=rss",
+      "title": "Microsoft Crushes Q4 as Azure Growth Fuels AI Boom, How Should Traders Position?",
+      "description": "Microsoft beat Q4 estimates as Azure grew 43%. Shares rose after hours while Bitcoin stalled below $64,000.",
+      "url": "https://beincrypto.com/microsoft-earnings-azure-ai-boom/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-29T20:22:55+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The S&P/TSX Composite Index closed sharply lower on Wednesday as losses in financial stocks outweigh"
-    },
-    {
-      "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
-      "description": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.",
-      "url": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-07-29T20:22:27+00:00",
-      "category": "Global",
-      "simple_explanation": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through."
-    },
-    {
-      "title": "Chipotle hikes same-store sales forecast as diners return for burrito bowls",
-      "description": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
-      "url": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-29T20:19:31+00:00",
-      "category": "USA",
-      "simple_explanation": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion."
+      "published_at": "2026-07-29T20:32:48+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Microsoft beat Q4 estimates as Azure grew 43%. Shares rose after hours while Bitcoin stalled below $64,000."
     },
     {
       "title": "Gold, silver prices today: Comex gold and silver recover as Fed keeps rates unchanged, dollar weakens",
@@ -123,76 +323,6 @@
       "simple_explanation": "A group of 12 county commissioners voted unanimously to ban mining facilities and data centers in unincorporated areas as it deals with a lawsuit by a digital asset company."
     },
     {
-      "title": "Fortitude Gold Drills 3.05 Meters Grading 2.35 g/t Gold Within 7.62 Meters Grading 1.32 g/t Gold at Isabella Pearl Scarlet North",
-      "description": "COLORADO SPRINGS, CO / ACCESS Newswire / July 29, 2026 / Fortitude Gold Corp. (OTCQB:FTCO) (the \"Company\") announced multiple wide and high-grade gold drill intercepts from its Isabella Pearl property, located in Mineral County, Nevada. Scarlet North ...",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/fortitude-gold-drills-3-05-201000247.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T20:10:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "COLORADO SPRINGS, CO / ACCESS Newswire / July 29, 2026 / Fortitude Gold Corp. (OTCQB:FTCO) (the \"Company\") announced multiple wide and high-grade gold drill intercepts from its Isabella Pearl property"
-    },
-    {
-      "title": "Raymond James Puts New Breakout Into Gear. Now This Grind Looms.",
-      "description": "As banks and other financial stocks rise, Raymond James launches a breakout. But this challenge looms.",
-      "url": "https://finance.yahoo.com/m/2db4c33b-aa95-3031-9910-1887099d2974/raymond-james-puts-new.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T20:09:25+00:00",
-      "category": "USA",
-      "simple_explanation": "As banks and other financial stocks rise, Raymond James launches a breakout. But this challenge looms."
-    },
-    {
-      "title": "US Equity Markets End Lower as Oil Rises, Divided Fed Keeps Rates Unchanged",
-      "description": "US equity indexes fell Wednesday as crude oil prices jumped after Iran's surprise missile attack, wh",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-200624638.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T20:06:24+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity indexes fell Wednesday as crude oil prices jumped after Iran's surprise missile attack, wh"
-    },
-    {
-      "title": "Tibooburra Gold Project Update",
-      "description": "HIGHLIGHTS Novo has moved to the second stage and is progressing exploration at the Tibooburra Gold Project in NSW through a Farm-in/JV with Manhattan Gold Corporation Limited (ASX: MHC).Novo will commence a ~2,700 m RC program at Tibooburra, with drilling to occur at the Clone and Pioneer South pro",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/tibooburra-gold-project-200500687.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T20:05:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "HIGHLIGHTS Novo has moved to the second stage and is progressing exploration at the Tibooburra Gold Project in NSW through a Farm-in/JV with Manhattan Gold Corporation Limited (ASX: MHC).Novo will com"
-    },
-    {
-      "title": "Teekay Corporation Ltd. Second Quarter 2026 Update",
-      "description": "HAMILTON, Bermuda, July 29, 2026 (GLOBE NEWSWIRE) -- Teekay Corporation Ltd. (Teekay or the Company) (NYSE:TK) today reported an update for the three months ended June 30, 2026. The update and Teekay Group’s earnings presentation are available on the Company’s website here. About Teekay Teekay is a ",
-      "url": "https://finance.yahoo.com/energy/articles/teekay-corporation-ltd-second-quarter-200500938.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T20:05:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "HAMILTON, Bermuda, July 29, 2026 (GLOBE NEWSWIRE) -- Teekay Corporation Ltd. (Teekay or the Company) (NYSE:TK) today reported an update for the three months ended June 30, 2026. The update and Teekay "
-    },
-    {
-      "title": "Centerra Gold Q2 Earnings Call Highlights",
-      "description": "Centerra Gold (NYSE:CGAU) reported higher second-quarter production at its Mount Milligan and Öksüt operations, raised its consolidated 2026 gold production outlook and outlined continued spending on a pipeline of gold, copper and molybdenum projects. President and Chief Executive Officer Paul Tomo",
-      "url": "https://www.marketbeat.com/instant-alerts/centerra-gold-q2-earnings-call-highlights-2026-07-29/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T20:03:59+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Centerra Gold (NYSE:CGAU) reported higher second-quarter production at its Mount Milligan and Öksüt operations, raised its consolidated 2026 gold production outlook and outlined continued spending on "
-    },
-    {
-      "title": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance",
-      "description": "\"Cost went up, prices are going to go up,\" Qualcomm CEO Cristiano Amon said in an interview.",
-      "url": "https://www.cnbc.com/2026/07/29/qualcomm-qcom-earnings-report-q3-2026-.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-29T20:02:38+00:00",
-      "category": "USA",
-      "simple_explanation": "\"Cost went up, prices are going to go up,\" Qualcomm CEO Cristiano Amon said in an interview."
-    },
-    {
       "title": "US stocks: US market closes down sharply after Fed holds rates unchanged",
       "description": "Wall Street experienced a sharp decline as the Federal Reserve maintained interest rates. AI-related chip stocks also saw further losses ahead of key earnings reports. Investors are concerned about the sustainability of AI spending and increasing competition from China. Major companies like Microsof",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-closes-down-sharply-after-fed-holds-rates-unchanged/articleshow/132721597.cms",
@@ -213,36 +343,6 @@
       "simple_explanation": "Federal Reserve Chairman Kevin Warsh stressed commitment to the 2% inflation target. He clarified there is no implicit inflation target above this for the committee and noted that the committee is foc"
     },
     {
-      "title": "Top Cryptocurrencies Mixed; Bitcoin Holds Above $63,000",
-      "description": "Major digital assets were mixed on Wednesday with Bitcoin (BTC-USD) holding above $63,000. The Co",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrencies-mixed-bitcoin-holds-195600234.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T19:56:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Major digital assets were mixed on Wednesday with Bitcoin (BTC-USD) holding above $63,000. The Co"
-    },
-    {
-      "title": "Sector Update: Energy Stocks Gain Late Afternoon",
-      "description": "Energy stocks rose late Wednesday afternoon, with the NYSE Energy Sector Index gaining 2.3% and the",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195450732.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T19:54:50+00:00",
-      "category": "USA",
-      "simple_explanation": "Energy stocks rose late Wednesday afternoon, with the NYSE Energy Sector Index gaining 2.3% and the"
-    },
-    {
-      "title": "Update: US Equity Indexes Slide as Fed on Pause for Fifth Meeting; Investors Await Big Tech Results Amid Mounting Middle East Tensions",
-      "description": "(Updates with index/price moves and Federal Reserve/geopolitical news from the first paragraph.)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-fed-195310379.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T19:53:10+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with index/price moves and Federal Reserve/geopolitical news from the first paragraph.)"
-    },
-    {
       "title": "US prosecutors propose changes to CLARITY as voting window narrows: Report",
       "description": "A White House crypto adviser said that the proposed changes to the CLARITY Act were “not even close” to the administration’s position, signaling another fight over the bill.",
       "url": "https://cointelegraph.com/news/clarity-act-changes-law-enforcement-voting-narrows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -253,63 +353,13 @@
       "simple_explanation": "A White House crypto adviser said that the proposed changes to the CLARITY Act were “not even close” to the administration’s position, signaling another fight over the bill."
     },
     {
-      "title": "PL Gold Mine Restart Update High Grade Gold Results, Resource Expansion Potential and Operational Readiness Update",
-      "description": "Toronto, Ontario--(Newsfile Corp. - July 29, 2026) - Minnova Corp. (TSXV: MCI) (OTC Pink: AGRDF) (\"Minnova\" or the \"Company\"), an advanced development-stage gold company focused on the restart and the expansion of our 100% owned PL Gold Mine in central Manitoba is pleased to provide an update on the",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/pl-gold-mine-restart-high-194300064.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T19:43:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Toronto, Ontario--(Newsfile Corp. - July 29, 2026) - Minnova Corp. (TSXV: MCI) (OTC Pink: AGRDF) (\"Minnova\" or the \"Company\"), an advanced development-stage gold company focused on the restart and the"
-    },
-    {
-      "title": "Dow Falls 1,000 Points as Tech Selling Picks Back Up",
-      "description": "After a brief relief rally, stock market selling accelerated again heading into the close. The Dow Jones Industrial Average sank 1,000 points, or 1.9%. The S&P 500 fell 1%. The Nasdaq dropped 0.9%. The S&P and Nasdaq both were on pace to mark intraday comebacks but lost steam as traders digested the",
-      "url": "https://finance.yahoo.com/m/6bcf6202-01fa-399a-ae25-817dd8c62311/dow-falls-1%2C000-points-as.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T19:40:31+00:00",
-      "category": "USA",
-      "simple_explanation": "After a brief relief rally, stock market selling accelerated again heading into the close. The Dow Jones Industrial Average sank 1,000 points, or 1.9%. The S&P 500 fell 1%. The Nasdaq dropped 0.9%. Th"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Tumbles As Fed's Warsh Notes Two Trends; Meta Losing Gains (Live Coverage)",
-      "description": "The Nasdaq erased a brief venture into the black Wednesday afternoon following the Federal Reserve's decision to keep its benchmark rate unchanged while Fed Chair Kevin Warsh addressed a press conference on the rate decision.",
-      "url": "https://finance.yahoo.com/m/031fc95b-4216-3fa9-93d3-0f98e7121d16/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T19:38:47+00:00",
-      "category": "USA",
-      "simple_explanation": "The Nasdaq erased a brief venture into the black Wednesday afternoon following the Federal Reserve's decision to keep its benchmark rate unchanged while Fed Chair Kevin Warsh addressed a press confere"
-    },
-    {
-      "title": "The Fed Didn't Hike, But 'Will Not Waver' In Inflation Fight, Warsh Vows",
-      "description": "The Federal Reserve held its benchmark interest rate steady, but multiple dissents in favor of a rate hike support market expectations for a tightening of monetary policy in September.  The S&P 500 closed sharply lower, but the selling didn't appear related to the Fed outlook.  The stock market cut ",
-      "url": "https://finance.yahoo.com/m/073dde9a-c175-3284-a40f-0cc73742ea31/the-fed-didn%27t-hike%2C-but.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T19:21:44+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The Federal Reserve held its benchmark interest rate steady, but multiple dissents in favor of a rate hike support market expectations for a tightening of monetary policy in September.  The S&P 500 cl"
-    },
-    {
-      "title": "A rate hike runs counter to 'monetary policy 101': Mark Zandi",
-      "description": "Federal Reserve officials voted to hold interest rates steady at their June FOMC meeting. Moody's Analytics chief economist Mark Zandi explains what a possible rate hike would have represented to investors.",
-      "url": "https://finance.yahoo.com/video/a-rate-hike-runs-counter-to-monetary-policy-101-mark-zandi-191845914.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T19:18:45+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Federal Reserve officials voted to hold interest rates steady at their June FOMC meeting. Moody's Analytics chief economist Mark Zandi explains what a possible rate hike would have represented to inve"
-    },
-    {
       "title": "Divided Fed holds interest rates steady, but three members voted to hike",
       "description": "Despite increasing support for a rate increase, the Federal Open Market Committee voted 9-3 to leave the federal funds rate in a range between 3.5% and 3.75%.",
       "url": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
       "image": "",
-      "source": "CNBC",
+      "source": "CNBC World",
       "published_at": "2026-07-29T18:58:16+00:00",
-      "category": "USA",
+      "category": "Global",
       "simple_explanation": "Despite increasing support for a rate increase, the Federal Open Market Committee voted 9-3 to leave the federal funds rate in a range between 3.5% and 3.75%."
     },
     {
@@ -321,16 +371,6 @@
       "published_at": "2026-07-29T18:54:13+00:00",
       "category": "India",
       "simple_explanation": "GLOBAL-MARKETS/ (WRAPUP 7, PIX):GLOBAL MARKETS-US stocks stay lower after Fed leaves rates unchanged"
-    },
-    {
-      "title": "Markets in Motion: momentum trade unwinds as rotation accelerates",
-      "description": "Markets expect the Federal Reserve to leave interest rates unchanged at its July meeting, while pricing shifts further out remain sensitive to incoming data. High-momentum stocks have suffered a sharp reversal, with semiconductor names moving from market leadership toward weakening or lagging positi",
-      "url": "https://investorshub.advfn.com/market-news/article/33020/markets-in-motion-momentum-sector-rotation?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T18:51:07+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Markets expect the Federal Reserve to leave interest rates unchanged at its July meeting, while pricing shifts further out remain sensitive to incoming data. High-momentum stocks have suffered a sharp"
     },
     {
       "title": "Here's what changed in the second Fed statement under Warsh",
@@ -361,46 +401,6 @@
       "published_at": "2026-07-29T18:04:31+00:00",
       "category": "India",
       "simple_explanation": "The U.S. Federal Reserve, led by Chair Kevin Warsh, kept interest rates unchanged for the fifth consecutive meeting, awaiting clearer inflation and economic trends before modifying monetary policy, fo"
-    },
-    {
-      "title": "Bitcoin and Gold Jump After Fed Rate Hold Splits FOMC 9 to 3",
-      "description": "The Fed held rates at 3.50% to 3.75% with three dissents. Bitcoin and gold jumped as September hike bets faded.",
-      "url": "https://beincrypto.com/fed-rates-three-officials-hike/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T18:03:10+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The Fed held rates at 3.50% to 3.75% with three dissents. Bitcoin and gold jumped as September hike bets faded."
-    },
-    {
-      "title": "US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge",
-      "description": "The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation signals. Renewed fighting linked to Iran pressures oil prices and clouds economic outlook. Inflation remains above the Fed's target, causing investor concern about potential price increases.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserve-keeps-rates-steady-as-iran-driven-inflation-risks-keep-markets-on-edge/articleshow/132719615.cms",
-      "image": "https://img.etimg.com/photo/msid-132719615,imgsize-66806.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-29T18:02:07+00:00",
-      "category": "India",
-      "simple_explanation": "The US Federal Reserve kept interest rates unchanged, awaiting clearer inflation signals. Renewed fighting linked to Iran pressures oil prices and clouds economic outlook. Inflation remains above the "
-    },
-    {
-      "title": "Juniper Green Energy raises  ₹539 crore from anchor investors ahead of IPO opening on Thursday",
-      "description": "Juniper Green Energy has raised  ₹539.4 crore from anchor investors for its IPO on July 30, 2026. The company allocated shares at  ₹225 each, with significant participation from domestic mutual funds. The IPO aims to fund projects and support India's clean energy transition.",
-      "url": "https://www.livemint.com/market/stock-market-news/juniper-green-energy-raises-rs-539-crore-from-anchor-investors-ahead-of-ipo-opening-on-thursday-11785344630966.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/29/1600x900/logo/g0e6064554f2cd92feb76a22e20702c893b093c5f2fdab00b3_1785344698092_1785344698265_0ee8f0cf-fe83-45a2-81f8-e744a733eb77.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-29T17:57:59+00:00",
-      "category": "India",
-      "simple_explanation": "Juniper Green Energy has raised  ₹539.4 crore from anchor investors for its IPO on July 30, 2026. The company allocated shares at  ₹225 each, with significant participation from domestic mutual funds."
-    },
-    {
-      "title": "Microsoft stock edges higher ahead of Q4 results, Wall Street eyes AI payoff",
-      "description": "According to consensus estimates, analysts expect Microsoft to report adjusted earnings of $4.24 per share on revenue of $87.62 billion",
-      "url": "https://www.livemint.com/market/microsoft-stock-edges-higher-ahead-of-q4-results-wall-street-eyes-ai-payoff-11785345972320.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/29/1600x900/MICROSOFT-EARNS-11_1785345949057_1785345969449_9a5d24f3-ff78-4899-b777-845428b911cb.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-29T17:46:11+00:00",
-      "category": "India",
-      "simple_explanation": "According to consensus estimates, analysts expect Microsoft to report adjusted earnings of $4.24 per share on revenue of $87.62 billion"
     }
   ]
 }
