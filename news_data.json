@@ -1,26 +1,356 @@
 {
-  "last_updated": "2026-07-29T00:04:39.843086+00:00",
+  "last_updated": "2026-07-29T04:11:56.760456+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "SK Hynix second-quarter revenue more than triples — but misses estimates",
-      "description": "SK Hynix announced second quarter earnings on Wednesday, with profit reaching a record but still missing estimates. Revenue more than tripled year over year.",
+      "title": "Asian technology stocks extend sell-off with SoftBank down 9% as AI plays take a hit",
+      "description": "Chinese internet stocks listed in Hong Kong bucked the broader regional weakness with Tencent, Meituan, Baidu and Kuaishou all trading higher.",
+      "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-29T04:11:33+00:00",
+      "category": "USA",
+      "simple_explanation": "Chinese internet stocks listed in Hong Kong bucked the broader regional weakness with Tencent, Meituan, Baidu and Kuaishou all trading higher."
+    },
+    {
+      "title": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
+      "description": "SK Hynix shares fell as exponential profit and revenue growth failed to meet analysts' lofty expectations for a darling of the artificial intelligence sector.",
       "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-07-29T00:00:33+00:00",
+      "published_at": "2026-07-29T04:10:27+00:00",
       "category": "USA",
-      "simple_explanation": "SK Hynix announced second quarter earnings on Wednesday, with profit reaching a record but still missing estimates. Revenue more than tripled year over year."
+      "simple_explanation": "SK Hynix shares fell as exponential profit and revenue growth failed to meet analysts' lofty expectations for a darling of the artificial intelligence sector."
+    },
+    {
+      "title": "L&T shares rise 4% after Q1 earnings. Why Goldman Sachs, other brokerages remain bullish?",
+      "description": "Larsen & Toubro (L&T) shares climbed after the company reported a 14% YoY rise in Q1 FY27 net profit to ₹4,123 crore. Revenue from operations grew 7% to ₹67,942 crore, with international business contributing 51% of total revenue. Following the strong earnings, brokerages maintained their 'Buy' rati",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lt-shares-rise-4-after-q1-earnings-why-goldman-sachs-other-brokerages-remain-bullish/articleshow/132699768.cms",
+      "image": "https://img.etimg.com/photo/msid-132699768,imgsize-45806.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-29T03:59:50+00:00",
+      "category": "India",
+      "simple_explanation": "Larsen & Toubro (L&T) shares climbed after the company reported a 14% YoY rise in Q1 FY27 net profit to ₹4,123 crore. Revenue from operations grew 7% to ₹67,942 crore, with international business cont"
+    },
+    {
+      "title": "Global Market | AI boom, market correction risks emerge as major credit threats: Fitch",
+      "description": "Ratings agency Fitch highlights AI boom and market correction as major global credit risks. Unprecedented AI spending and soaring valuations may outpace uncertain future returns, Fitch stated. Geopolitical tensions, particularly the U.S.-Iran conflict, add further significant challenges to the credi",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ai-boom-market-correction-risks-emerge-as-major-credit-threats-fitch/articleshow/132699700.cms",
+      "image": "https://img.etimg.com/photo/msid-132699700,imgsize-51376.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-29T03:57:02+00:00",
+      "category": "India",
+      "simple_explanation": "Ratings agency Fitch highlights AI boom and market correction as major global credit risks. Unprecedented AI spending and soaring valuations may outpace uncertain future returns, Fitch stated. Geopoli"
+    },
+    {
+      "title": "RVNL share price rises 2% after announcing new order win, dividend record date. Do you own this PSU stock?",
+      "description": "Rail Vikas Nigam Limited (RVNL) share price rose as much as 2% to  ₹225.20 on NSE on Wednesday.",
+      "url": "https://www.livemint.com/market/stock-market-news/rvnl-share-price-rises-2-after-announcing-new-order-win-dividend-record-date-do-you-own-this-psu-stock-11785296795236.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/29/1600x900/RVNL_1785297068175_1785297068307_43384418-b4b1-4f0d-8c89-87cc28f82301.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-29T03:55:24+00:00",
+      "category": "India",
+      "simple_explanation": "Rail Vikas Nigam Limited (RVNL) share price rose as much as 2% to  ₹225.20 on NSE on Wednesday."
+    },
+    {
+      "title": "Nikkei, Kospi to US stocks: Global equity heatmap you should know before the Indian stock market opens on Wednesday",
+      "description": "Global markets today: During the Tuesday session, Apple share price briefly crossed the $5 trillion market capitalisation mark after overtaking Nvidia as the world's most valuable company",
+      "url": "https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-markets-equity-heatmap-you-should-know-before-indian-stock-market-opens-on-wednesday-11785292239206.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/29/1600x900/logo/Global_markets_today_Nikkei_Kospi_Sensex_today_1785296611195_1785296611302_3cb8b2ae-2fc1-4f85-9143-415d7319f2de.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-29T03:47:55+00:00",
+      "category": "India",
+      "simple_explanation": "Global markets today: During the Tuesday session, Apple share price briefly crossed the $5 trillion market capitalisation mark after overtaking Nvidia as the world's most valuable company"
+    },
+    {
+      "title": "Lohia Corp IPO GMP signals over 4% listing gains on July 30; check total subscription and other details",
+      "description": "Lohia Corp's IPO, open from July 23 to 27, was 7.25 times subscribed. Expected to debut on July 30, shares are estimated at  ₹442.5. This entirely OFS issue involves the sale of 2.59 crore shares, with retail bids starting at  ₹14,875.",
+      "url": "https://www.livemint.com/market/ipo/lohia-corp-ipo-gmp-signals-over-4-listing-gains-on-july-30-check-total-subscription-and-other-details-11785296313850.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/29/1600x900/logo/Lohia_Corp_IPO_1785296435325_1785296435467_5c14370a-f840-45c2-acc0-3f159a98dc61.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-29T03:45:09+00:00",
+      "category": "India",
+      "simple_explanation": "Lohia Corp's IPO, open from July 23 to 27, was 7.25 times subscribed. Expected to debut on July 30, shares are estimated at  ₹442.5. This entirely OFS issue involves the sale of 2.59 crore shares, wit"
+    },
+    {
+      "title": "South Korea plans stablecoin rules as opposition pushes crypto tax repeal",
+      "description": "The FSC reportedly plans a government-backed digital asset bill covering stablecoins and exchanges, while opposition lawmakers seek to scrap a 22% crypto tax due in 2027.",
+      "url": "https://cointelegraph.com/news/south-korea-consolidated-crypto-law-tax-repeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-people-start-trust-stablecoin-in-period-of-crisis-south-korea.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-29T03:43:05+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The FSC reportedly plans a government-backed digital asset bill covering stablecoins and exchanges, while opposition lawmakers seek to scrap a 22% crypto tax due in 2027."
+    },
+    {
+      "title": "Rupee opens 13 paise higher at 95.72 against US dollar",
+      "description": "Rupee opens 13 paise higher at 95.72 against US dollar",
+      "url": "https://www.livemint.com/market/stock-market-news/rupee-opens-13-paise-higher-at-95-72-against-us-dollar-11785296160416.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/29/1600x900/8th_pay_commission_faq_money_da_salary_hikes_17523_1785296212640_1785296212847_bbb00d88-73b7-453d-b953-f752acc1518d.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-29T03:37:45+00:00",
+      "category": "India",
+      "simple_explanation": "Rupee opens 13 paise higher at 95.72 against US dollar"
+    },
+    {
+      "title": "Gold, silver prices trade mixed ahead of the US Fed meeting outcome; experts highlight key levels to watch",
+      "description": "Gold and silver prices traded mixed on the MCX on Wednesday (29 July) morning, reflecting caution ahead of the US Federal Reserve's monetary policy decision.",
+      "url": "https://www.livemint.com/market/commodities/gold-silver-prices-trade-mixed-ahead-of-the-us-fed-meeting-outcome-experts-highlight-key-levels-to-watch-11785294991809.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/29/1600x900/logo/s_1782288538863_1782288543389_42eb1049-ce04-4fa4-a82e-b3b75d863f72_1785295390162_499d4691-e593-44f7-b420-8c3b141dcd97.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-29T03:34:51+00:00",
+      "category": "India",
+      "simple_explanation": "Gold and silver prices traded mixed on the MCX on Wednesday (29 July) morning, reflecting caution ahead of the US Federal Reserve's monetary policy decision."
+    },
+    {
+      "title": "These 5 dividend stocks are money-printing machines",
+      "description": "A high yield means nothing if the payout is funded by debt. These five pass a much harder test.",
+      "url": "https://www.livemint.com/market/stock-market-news/best-dividend-stocks-india-high-dividend-yield-stocks-2026-coal-india-itc-castrol-india-11785237345790.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/28/1600x900/logo/mutual_fund_5_1756395514713_1756395521060_1785239595068_b293f621-f5cb-442e-8ac4-f61585588419.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-29T03:30:08+00:00",
+      "category": "India",
+      "simple_explanation": "A high yield means nothing if the payout is funded by debt. These five pass a much harder test."
+    },
+    {
+      "title": "FIIs cut stakes in 7 Nifty IT stocks. Then the index surged 16% in July",
+      "description": "Foreign investors reduced stakes in most Nifty IT stocks during the June quarter. Oracle Financial Services Software saw the largest foreign investor stake increase. Mutual funds also cut holdings in nine of ten Nifty IT companies. Some foreign investors now see opportunities in beaten-down IT valua",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stakes-in-7-nifty-it-stocks-then-the-index-surged-16-in-july/articleshow/132699326.cms",
+      "image": "https://img.etimg.com/photo/msid-132699326,imgsize-192745.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-29T03:29:05+00:00",
+      "category": "India",
+      "simple_explanation": "Foreign investors reduced stakes in most Nifty IT stocks during the June quarter. Oracle Financial Services Software saw the largest foreign investor stake increase. Mutual funds also cut holdings in "
+    },
+    {
+      "title": "Top Gold IRA Companies Reported – Goldco Wins Best Overall",
+      "description": "InvestingInGold.com releases its latest Gold IRA review, naming Goldco Best Overall for client experience, reputation, and educational resources. Top Gold IRA Companies Reported – Goldco Wins Best Overall InvestingInGold.com releases its latest Gold IRA review, naming Goldco Best Overall for client ",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/top-gold-ira-companies-reported-032800973.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T03:28:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "InvestingInGold.com releases its latest Gold IRA review, naming Goldco Best Overall for client experience, reputation, and educational resources. Top Gold IRA Companies Reported – Goldco Wins Best Ove"
+    },
+    {
+      "title": "Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut",
+      "description": "The Bitcoin miner and AI infrastructure company closed at $62.90, giving it a market capitalization of about $2.8 billion after its direct listing.",
+      "url": "https://cointelegraph.com/markets/celsius-bitcoin-miner-ionic-digital-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ebang-goes-for-nasdaq-whos-next-and-why-only-mining-firms-go-public.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-29T03:26:44+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Bitcoin miner and AI infrastructure company closed at $62.90, giving it a market capitalization of about $2.8 billion after its direct listing."
+    },
+    {
+      "title": "Shree Balaji (Mala) Textiles shares to list today; GMP signals massive 80% listing gain",
+      "description": "Shree Balaji (Mala) Textiles is set for its stock market debut today on the BSE SME platform. The company's shares are showing a strong grey market premium of 80%. Its recent IPO received an overwhelming subscription of over 186 times overall. Proceeds from the issue will primarily strengthen the co",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/shree-balaji-mala-textiles-shares-to-list-today-gmp-signals-massive-80-listing-gain/articleshow/132699181.cms",
+      "image": "https://img.etimg.com/photo/msid-132699181,imgsize-21524.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-29T03:19:53+00:00",
+      "category": "India",
+      "simple_explanation": "Shree Balaji (Mala) Textiles is set for its stock market debut today on the BSE SME platform. The company's shares are showing a strong grey market premium of 80%. Its recent IPO received an overwhelm"
+    },
+    {
+      "title": "Hindustan Unilever among 5 stocks crossing below VWAP, signalling bearish trend",
+      "description": "On July 29, five Nifty 500 stocks including Hindustan Unilever, Suzlon Energy, and Capri Global Capital closed below their Volume Weighted Average Price (VWAP). According to StockEdge data, closing below VWAP indicates that late-session trading occurred below the day's average price, signalling pote",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-unilever-among-5-stocks-crossing-below-vwap-signalling-bearish-trend/slideshow/132699249.cms",
+      "image": "https://img.etimg.com/photo/msid-132699156,imgsize-40436.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-29T03:17:21+00:00",
+      "category": "India",
+      "simple_explanation": "On July 29, five Nifty 500 stocks including Hindustan Unilever, Suzlon Energy, and Capri Global Capital closed below their Volume Weighted Average Price (VWAP). According to StockEdge data, closing be"
+    },
+    {
+      "title": "Inox Wind shares in focus after bagging Rs 1,600-crore order from NLC India",
+      "description": "Inox Wind secured a repeat 200 MW turnkey order from NLC India worth Rs 1,600 crore. This project involves end-to-end execution and will be commissioned within twenty-four months. The company's order book now stands at 4.7 GW, strengthening its market position. Inox Wind's CEO expressed confidence i",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/inox-wind-shares-in-focus-after-bagging-rs-1600-crore-order-from-nlc-india/articleshow/132699028.cms",
+      "image": "https://img.etimg.com/photo/msid-132699028,imgsize-7682.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-29T03:11:15+00:00",
+      "category": "India",
+      "simple_explanation": "Inox Wind secured a repeat 200 MW turnkey order from NLC India worth Rs 1,600 crore. This project involves end-to-end execution and will be commissioned within twenty-four months. The company's order "
+    },
+    {
+      "title": "Dow Jones Futures: Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Earnings Late",
+      "description": "Futures fell as oil prices jumped on an Iran news. Seagate, SK Hynix, KLA, Bloom Energy are key earnings late. Will the Fed surprise?",
+      "url": "https://finance.yahoo.com/m/0eb51c4d-da78-36ad-bd11-f37d9adcc2f8/dow-jones-futures%3A-oil-jumps.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T03:06:28+00:00",
+      "category": "USA",
+      "simple_explanation": "Futures fell as oil prices jumped on an Iran news. Seagate, SK Hynix, KLA, Bloom Energy are key earnings late. Will the Fed surprise?"
+    },
+    {
+      "title": "Crude jumps on fresh Mideast flare-up, tech rout deepens",
+      "description": "Oil prices spiked Wednesday after a fresh flare-up of fighting in the Middle East that revived fears over supplies through the Strait of Hormuz, while chip firms continued to bleed as nervous investors unwound their bets on the AI boom.Iran on Wednesday said it had halted three oil tankers in the st",
+      "url": "https://finance.yahoo.com/energy/articles/crude-jumps-fresh-mideast-flare-030605104.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T03:06:05+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil prices spiked Wednesday after a fresh flare-up of fighting in the Middle East that revived fears over supplies through the Strait of Hormuz, while chip firms continued to bleed as nervous investor"
+    },
+    {
+      "title": "Radico Khaitan among 4 stocks that closed above VWAP, signalling bullish shift",
+      "description": "On July 28, four Nifty 500 stocks, including Radico Khaitan and Kalyan Jewellers, closed above their Volume Weighted Average Price (VWAP). According to StockEdge data, trading above VWAP indicates that buyers paid above the day's volume-weighted average, signalling potential short-term bullish momen",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/radico-khaitan-among-4-stocks-that-closed-above-vwap-signalling-bullish-shift/slideshow/132698835.cms",
+      "image": "https://img.etimg.com/photo/msid-132698734,imgsize-284964.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-29T03:01:17+00:00",
+      "category": "India",
+      "simple_explanation": "On July 28, four Nifty 500 stocks, including Radico Khaitan and Kalyan Jewellers, closed above their Volume Weighted Average Price (VWAP). According to StockEdge data, trading above VWAP indicates tha"
+    },
+    {
+      "title": "Oil Prices Surge on Fresh Middle East Strikes and API Crude Draw",
+      "description": "Oil prices rebounded sharply after renewed military action in the Middle East and a larger-than-expected draw in U.S. crude inventories reignited supply concerns.",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-surge-fresh-middle-030100788.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T03:01:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil prices rebounded sharply after renewed military action in the Middle East and a larger-than-expected draw in U.S. crude inventories reignited supply concerns."
+    },
+    {
+      "title": "Grasim Inds Share Price Live Updates: Grasim Industries Breaks Above 20-Day SMA, Signaling Positive Momentum",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-29-jul-2026/liveblog/132698700.cms",
+      "image": "https://img.etimg.com/photo/msid-132698700,imgsize-18120.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-29T03:00:31+00:00",
+      "category": "India",
+      "simple_explanation": ""
+    },
+    {
+      "title": "Tether signs tokenization deal with Nairobi Securities Exchange",
+      "description": "The agreement covers tokenized securities, blockchain-based market infrastructure and the potential use of USDT as a settlement layer.",
+      "url": "https://cointelegraph.com/news/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/bank-building-hall-entrance-revolving-doorsthreetether.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-29T02:50:51+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The agreement covers tokenized securities, blockchain-based market infrastructure and the potential use of USDT as a settlement layer."
+    },
+    {
+      "title": "The Smartest Dividend Stock to Buy With $1,000 Right Now (Spoiler: It Yields 5.6%.)",
+      "description": "Add the effect of stock buybacks to the dividend, and you're looking at a total yield approaching 11%.",
+      "url": "https://www.fool.com/investing/2026/07/28/the-smartest-dividend-stock-to-buy-with-1000-sny/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T02:50:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Add the effect of stock buybacks to the dividend, and you're looking at a total yield approaching 11%."
+    },
+    {
+      "title": "Alkane Resources lifts Storheden gold resource to 212,000oz",
+      "description": "Alkane Resources Ltd (ASX: ALK, OTC: ALKEF) managing director and CEO Nic Earner talked with Proactive about the substantial increase in the Mineral Resource at the Storheden gold deposit in northern Sweden and its potential to become a satellite mining area for the nearby Björkdal operation. The up",
+      "url": "https://finance.yahoo.com/video/alkane-resources-lifts-storheden-gold-024943901.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T02:49:43+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Alkane Resources Ltd (ASX: ALK, OTC: ALKEF) managing director and CEO Nic Earner talked with Proactive about the substantial increase in the Mineral Resource at the Storheden gold deposit in northern "
     },
     {
       "title": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East",
-      "description": "Centcom in a post on X said that attack originated from Iran, but all missiles were intercepted.",
+      "description": "Centcom in a post on X said that the attack originated from Iran, but all missiles were intercepted.",
       "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-07-28T23:53:56+00:00",
+      "published_at": "2026-07-29T02:06:49+00:00",
       "category": "USA",
-      "simple_explanation": "Centcom in a post on X said that attack originated from Iran, but all missiles were intercepted."
+      "simple_explanation": "Centcom in a post on X said that the attack originated from Iran, but all missiles were intercepted."
+    },
+    {
+      "title": "Greatland Resources beats FY26 guidance as cash reaches A$1.29 billion",
+      "description": "Greatland Resources Ltd (AIM:GGP, OTC:GRLGF, FRA:G8G, ASX:GGP) closed the June 2026 quarter with a strong operating and financial performance, beating full-year production and cost guidance while strengthening its balance sheet ahead of major investment in the Telfer-Havieron gold-copper...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1096176/greatland-resources-beats-fy26-guidance-as-cash-reaches-a-1-29-billion-1096176.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T01:52:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Greatland Resources Ltd (AIM:GGP, OTC:GRLGF, FRA:G8G, ASX:GGP) closed the June 2026 quarter with a strong operating and financial performance, beating full-year production and cost guidance while stre"
+    },
+    {
+      "title": "2 Reasons to Sell EFX and 1 Stock to Buy Instead",
+      "description": "Over the past six months, Equifax’s stock price fell to $177.62. Shareholders have lost 13.5% of their capital, which is disappointing considering the S&P 500 has climbed by 6.3%. This was partly due to its softer quarterly results and may have investors wondering how to approach the situation.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-sell-efx-1-012502492.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T01:25:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Over the past six months, Equifax’s stock price fell to $177.62. Shareholders have lost 13.5% of their capital, which is disappointing considering the S&P 500 has climbed by 6.3%. This was partly due "
+    },
+    {
+      "title": "3 Reasons to Avoid CB and 1 Stock to Buy Instead",
+      "description": "Over the past six months, Chubb has been a great trade, beating the S&P 500 by 11.6%. Its stock price has climbed to $357.81, representing a healthy 17.8% increase. This performance may have investors wondering how to approach the situation.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-cb-1-011702525.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T01:17:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Over the past six months, Chubb has been a great trade, beating the S&P 500 by 11.6%. Its stock price has climbed to $357.81, representing a healthy 17.8% increase. This performance may have investors"
+    },
+    {
+      "title": "Zcash says Ironwood proof rules out undetectable counterfeiting bugs",
+      "description": "Zcash researchers published more than 2,700 machine-checked theorems designed to rule out undetectable counterfeiting bugs in Ironwood.",
+      "url": "https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bounties-and-do-they-work-zcash-1.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-29T01:05:15+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Zcash researchers published more than 2,700 machine-checked theorems designed to rule out undetectable counterfeiting bugs in Ironwood."
+    },
+    {
+      "title": "Oil jumps as U.S.-Iran resume strikes after a brief pause",
+      "description": "Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles.",
+      "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-29T00:52:49+00:00",
+      "category": "USA",
+      "simple_explanation": "Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles."
+    },
+    {
+      "title": "1 Healthcare Stock to Keep an Eye On and 2 We Avoid",
+      "description": "Healthcare companies are pushing the status quo by innovating in areas like drug development and digital health. Those leading the charge have not only realized strong financial performance but also propelled the broader industry’s returns as healthcare stocks have gained 14.3% over the past six mon",
+      "url": "https://finance.yahoo.com/healthcare/articles/1-healthcare-stock-keep-eye-004502226.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T00:45:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Healthcare companies are pushing the status quo by innovating in areas like drug development and digital health. Those leading the charge have not only realized strong financial performance but also p"
+    },
+    {
+      "title": "1 Energy Stock Worth Investigating and 2 We Find Risky",
+      "description": "Whether you see them or not, energy businesses play a crucial part in our daily activities, from powering our homes and businesses to powering our transportation and industries.They are also bound to benefit from a friendlier regulatory environment with the “American energy dominance” stance of the ",
+      "url": "https://finance.yahoo.com/energy/articles/1-energy-stock-worth-investigating-003702597.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T00:37:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Whether you see them or not, energy businesses play a crucial part in our daily activities, from powering our homes and businesses to powering our transportation and industries.They are also bound to "
+    },
+    {
+      "title": "Presentation to Tactic Conference",
+      "description": "Targeting near-term production, medium-term scale & long-term growth ADELAIDE, AU / ACCESS Newswire / July 28, 2026 / Barton Gold Holdings Limited (ASX:BGD)(OTCQB:BGDFF)(FRA:BGD3) (Barton or Company) advises that the attached presentation is due to ...",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/presentation-tactic-conference-002700323.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T00:27:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Targeting near-term production, medium-term scale & long-term growth ADELAIDE, AU / ACCESS Newswire / July 28, 2026 / Barton Gold Holdings Limited (ASX:BGD)(OTCQB:BGDFF)(FRA:BGD3) (Barton or Company) "
+    },
+    {
+      "title": "European financial institutions launch RL1 cooperative blockchain network",
+      "description": "RL1 began operations as a member-owned blockchain cooperative backed by 10 European financial institutions, including ABN AMRO, DekaBank and Natixis CIB.",
+      "url": "https://cointelegraph.com/news/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-read-a-stablecoin-attestation-report-eu.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-29T00:09:29+00:00",
+      "category": "Crypto",
+      "simple_explanation": "RL1 began operations as a member-owned blockchain cooperative backed by 10 European financial institutions, including ABN AMRO, DekaBank and Natixis CIB."
     },
     {
       "title": "Senate confirms Jay Clayton as Trump's director of national intelligence, replacing Pulte",
@@ -28,19 +358,29 @@
       "url": "https://www.cnbc.com/2026/07/28/jay-clayton-bill-pulte-senate-vote-trump-spy-chief.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-07-28T23:44:00+00:00",
+      "published_at": "2026-07-29T00:04:25+00:00",
       "category": "USA",
       "simple_explanation": "Bill Pulte had been serving for months as DNI after Tulsi Gabbard resigned the post."
     },
     {
-      "title": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Earnings Late",
-      "description": "Futures fell as oil prices jumped on an Iran news. Seagate, SK Hynix, KLA, Bloom Energy are key earnings late. Will the Fed surprise?",
-      "url": "https://finance.yahoo.com/m/0eb51c4d-da78-36ad-bd11-f37d9adcc2f8/dow-jones-futures-fall%2C-oil.html?.tsrc=rss",
+      "title": "Gibson Energy Q2 Earnings Call Highlights",
+      "description": "Gibson Energy (TSE:GEI) reported record infrastructure adjusted EBITDA in the second quarter of 2026, supported by higher network utilization, contributions from its newly acquired Chauvin Pipeline system and optimization initiatives. The company also said its marketing business benefited from stron",
+      "url": "https://www.marketbeat.com/instant-alerts/gibson-energy-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-28T23:41:42+00:00",
+      "published_at": "2026-07-29T00:03:58+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gibson Energy (TSE:GEI) reported record infrastructure adjusted EBITDA in the second quarter of 2026, supported by higher network utilization, contributions from its newly acquired Chauvin Pipeline sy"
+    },
+    {
+      "title": "Review & Preview: ‘One Big Global Trade’",
+      "description": "While 71% of S&P 500 stocks finished in the green, an 11% plunge in South Korea’s main index kept the Nasdaq in the timeout chair.",
+      "url": "https://finance.yahoo.com/m/0491153e-ca91-3766-89f3-da0f74c6c1ea/review-%26-preview%3A-%E2%80%98one-big.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T23:55:00+00:00",
       "category": "USA",
-      "simple_explanation": "Futures fell as oil prices jumped on an Iran news. Seagate, SK Hynix, KLA, Bloom Energy are key earnings late. Will the Fed surprise?"
+      "simple_explanation": "While 71% of S&P 500 stocks finished in the green, an 11% plunge in South Korea’s main index kept the Nasdaq in the timeout chair."
     },
     {
       "title": "Small Cap Watch: Alkane lifts gold resource, St George hits record-thick Araxá intercept, Janus secures Frankfurt listing and more...",
@@ -61,346 +401,6 @@
       "published_at": "2026-07-28T23:27:28+00:00",
       "category": "Crypto",
       "simple_explanation": "Myanmar lawmakers approved an anti-online scam bill whose draft proposed prison terms of 10 years to life for crypto scams and operating scam centers."
-    },
-    {
-      "title": "Alkane Resources lifts Storheden gold resource to 212,000 ounces as high-grade drilling expands growth case",
-      "description": "Alkane Resources Ltd (ASX:ALK, OTC:ALKEF) has substantially increased the Mineral Resource at the Storheden gold deposit in northern Sweden, strengthening its potential to become a satellite mining area for the nearby Björkdal operation. The updated estimate comprises an Indicated Resource of...",
-      "url": "https://www.proactiveinvestors.com/companies/news/1096168/alkane-resources-lifts-storheden-gold-resource-to-212-000-ounces-as-high-grade-drilling-expands-growth-case-1096168.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T23:22:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Alkane Resources Ltd (ASX:ALK, OTC:ALKEF) has substantially increased the Mineral Resource at the Storheden gold deposit in northern Sweden, strengthening its potential to become a satellite mining ar"
-    },
-    {
-      "title": "Franklin Resources (BEN) Following Its Expansion Narrative Is The Stock Fully Valued",
-      "description": "Dividend profile and recent performance of Franklin Resources stock Franklin Resources (BEN) has drawn attention for its dividend profile, with a yield above both its industry and the S&P 500, alongside five consecutive years of annual dividend increases. The company also reports expectations for ea",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/franklin-resources-ben-following-expansion-231528849.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T23:15:28+00:00",
-      "category": "USA",
-      "simple_explanation": "Dividend profile and recent performance of Franklin Resources stock Franklin Resources (BEN) has drawn attention for its dividend profile, with a yield above both its industry and the S&P 500, alongsi"
-    },
-    {
-      "title": "3 Financials Stocks on Our Watchlist",
-      "description": "Financial firms serve as the backbone of the economy, providing essential services from lending and investment management to risk management and payment processing. But worries about economic uncertainty and potential market volatility have kept sentiment in check, and over the past six months, the ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-financials-stocks-watchlist-230102467.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T23:01:02+00:00",
-      "category": "USA",
-      "simple_explanation": "Financial firms serve as the backbone of the economy, providing essential services from lending and investment management to risk management and payment processing. But worries about economic uncertai"
-    },
-    {
-      "title": "Wall Street ends mixed as investors await tech earnings",
-      "description": "STORY: Wall Street's main indexes closed mixed on Tuesday with the Dow gaining 1%, the S&P 500 edging up about two-tenths of a percent and the Nasdaq dipping by roughly two-tenths of a percent.Markets have been volatile this month as investors worry that Microsoft, Amazon and other tech heavyweights",
-      "url": "https://finance.yahoo.com/video/wall-street-ends-mixed-investors-225803995.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T22:58:03+00:00",
-      "category": "USA",
-      "simple_explanation": "STORY: Wall Street's main indexes closed mixed on Tuesday with the Dow gaining 1%, the S&P 500 edging up about two-tenths of a percent and the Nasdaq dipping by roughly two-tenths of a percent.Markets"
-    },
-    {
-      "title": "1 Software Stock with Impressive Fundamentals and 2 Facing Headwinds",
-      "description": "From commerce to culture, software is digitizing every aspect of our lives. The undeniable tailwinds fueling the industry have also led to decent returns for SaaS stocks lately as they’ve gained 5.7% over the past six months. This performance was almost identical to the S&P 500.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-software-stock-impressive-fundamentals-225302549.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T22:53:02+00:00",
-      "category": "USA",
-      "simple_explanation": "From commerce to culture, software is digitizing every aspect of our lives. The undeniable tailwinds fueling the industry have also led to decent returns for SaaS stocks lately as they’ve gained 5.7% "
-    },
-    {
-      "title": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
-      "description": "Ford cited operational improvements, resilient vehicle pricing and a high sales mix of profitable products for its performance and the improved guidance.",
-      "url": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-28T22:49:50+00:00",
-      "category": "USA",
-      "simple_explanation": "Ford cited operational improvements, resilient vehicle pricing and a high sales mix of profitable products for its performance and the improved guidance."
-    },
-    {
-      "title": "3 Financials Stocks Worth Investigating",
-      "description": "Financial institutions play a critical role, offering everything from consumer banking to wealth management and specialized financial solutions. But uncertainty about fiscal and monetary policy has tempered enthusiasm, limiting the industry’s gains to 3.8% over the past six months. This return lagge",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-financials-stocks-worth-investigating-224502260.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T22:45:02+00:00",
-      "category": "USA",
-      "simple_explanation": "Financial institutions play a critical role, offering everything from consumer banking to wealth management and specialized financial solutions. But uncertainty about fiscal and monetary policy has te"
-    },
-    {
-      "title": "Dow Ends Higher For Third Straight Session As Oil Cools, Nasdaq Slides On Chipmaker Rout — PYPL, SPCX, AAPL, V, F Stocks In Focus",
-      "description": "Nasdaq dropped for the fifth straight session on Tuesday, its longest losing streak since January this year.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-continues-to-drop-on-chipmaker-rout/cZZ6TnzRJbt?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T22:44:01+00:00",
-      "category": "USA",
-      "simple_explanation": "Nasdaq dropped for the fifth straight session on Tuesday, its longest losing streak since January this year."
-    },
-    {
-      "title": "This 100-Year-Old Theory Says the Stock Market Isn’t Done Climbing: Ed Yardeni",
-      "description": "Artificial intelligence has dominated Wall Street’s attention this year. Investors have obsessed over capital spending, shrinking free cash flow and whether the hyperscalers are overspending on AI. Yet one of the market’s oldest indicators is quietly telling a very different...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/100-old-theory-says-stock-223019868.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T22:30:19+00:00",
-      "category": "USA",
-      "simple_explanation": "Artificial intelligence has dominated Wall Street’s attention this year. Investors have obsessed over capital spending, shrinking free cash flow and whether the hyperscalers are overspending on AI. Ye"
-    },
-    {
-      "title": "Oil Holds Three-Day Drop as Tensions in the Middle East Cool",
-      "description": "Oil held the bulk of a three-day decline on optimism that the US and Iran may be able to forge a diplomatic solution to end the war in the Middle East, with the conflict now in its sixth month.",
-      "url": "https://www.livemint.com/market/oil-holds-three-day-drop-as-tensions-in-the-middle-east-cool-11785277194561.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-28T22:19:54+00:00",
-      "category": "India",
-      "simple_explanation": "Oil held the bulk of a three-day decline on optimism that the US and Iran may be able to forge a diplomatic solution to end the war in the Middle East, with the conflict now in its sixth month."
-    },
-    {
-      "title": "Whirlpool (WHR) Beats Stock Market Upswing: What Investors Need to Know",
-      "description": "In the closing of the recent trading day, Whirlpool (WHR) stood at $38.48, denoting a +2.26% move from the preceding trading day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/whirlpool-whr-beats-stock-market-221504374.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T22:15:04+00:00",
-      "category": "USA",
-      "simple_explanation": "In the closing of the recent trading day, Whirlpool (WHR) stood at $38.48, denoting a +2.26% move from the preceding trading day."
-    },
-    {
-      "title": "ChargePoint Holdings, Inc. (CHPT) Stock Sinks As Market Gains: What You Should Know",
-      "description": "In the most recent trading session, ChargePoint Holdings, Inc. (CHPT) closed at $5.34, indicating a -1.29% shift from the previous trading day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chargepoint-holdings-inc-chpt-stock-221504783.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T22:15:04+00:00",
-      "category": "USA",
-      "simple_explanation": "In the most recent trading session, ChargePoint Holdings, Inc. (CHPT) closed at $5.34, indicating a -1.29% shift from the previous trading day."
-    },
-    {
-      "title": "Nasdaq 100 Is Approaching a Correction as Chips Selloff Worsens",
-      "description": "The Nasdaq 100 Index inched closer to a correction Tuesday as the selloff in semiconductor stocks turns ugly with investors questioning the amount of money Big Tech is spending on artificial intelligence.",
-      "url": "https://www.livemint.com/market/nasdaq-100-is-approaching-a-correction-as-chips-selloff-worsens-11785276889410.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-28T22:14:48+00:00",
-      "category": "India",
-      "simple_explanation": "The Nasdaq 100 Index inched closer to a correction Tuesday as the selloff in semiconductor stocks turns ugly with investors questioning the amount of money Big Tech is spending on artificial intellige"
-    },
-    {
-      "title": "Africa’s Richest Man Aliko Dangote Secures Record $2.5B Investment Ahead Of Refinery IPO",
-      "description": "The fundraising attracted several institutional investors, including the Africa Finance Corporation and African Export-Import Bank",
-      "url": "https://finance.yahoo.com/energy/articles/africa-richest-man-aliko-dangote-221414031.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T22:14:14+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The fundraising attracted several institutional investors, including the Africa Finance Corporation and African Export-Import Bank"
-    },
-    {
-      "title": "Cardinal Energy Ltd. Announces Second Quarter 2026 Operating and Financial Results",
-      "description": "Calgary, Alberta--(Newsfile Corp. - July 28, 2026) - Cardinal Energy Ltd. (TSX: CJ) (\"Cardinal\" or the \"Company\") is pleased to announce its operating and financial results for the second quarter ended June 30, 2026.FINANCIAL AND OPERATING HIGHLIGHTS FROM THE SECOND QUARTER OF 2026Second quarter 202",
-      "url": "https://finance.yahoo.com/energy/articles/cardinal-energy-ltd-announces-second-220100640.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T22:01:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Calgary, Alberta--(Newsfile Corp. - July 28, 2026) - Cardinal Energy Ltd. (TSX: CJ) (\"Cardinal\" or the \"Company\") is pleased to announce its operating and financial results for the second quarter ende"
-    },
-    {
-      "title": "Yen’s Relentless Slide to Test Ueda’s Capacity to Calm Traders",
-      "description": "A key risk moment looms for the yen for this week when Bank of Japan Governor Kazuo Ueda speaks after the central bank’s policy meeting on Friday.",
-      "url": "https://www.livemint.com/market/yens-relentless-slide-to-test-ueda-s-capacity-to-calm-traders-11785275912256.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-28T21:58:31+00:00",
-      "category": "India",
-      "simple_explanation": "A key risk moment looms for the yen for this week when Bank of Japan Governor Kazuo Ueda speaks after the central bank’s policy meeting on Friday."
-    },
-    {
-      "title": "Visa outlines stablecoin strategy during Q3 earnings call",
-      "description": "Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call.",
-      "url": "https://cointelegraph.com/news/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/visa.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-28T21:57:49+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call."
-    },
-    {
-      "title": "Exxon Mobil's Next Earnings Report on July 31 Could Send the Stock Soaring. Here's Why.",
-      "description": "ExxonMobil should report a profit gusher later this week.",
-      "url": "https://www.fool.com/investing/2026/07/28/exxon-mobils-next-earnings-report-on-july-31-could-send-the-stock-soaring-heres-why/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T21:35:01+00:00",
-      "category": "Commodities",
-      "simple_explanation": "ExxonMobil should report a profit gusher later this week."
-    },
-    {
-      "title": "Centerra Gold Reports Higher Q2 Profit, Raises Oksut Gold Production Guidance",
-      "description": "Centerra Gold (CG.TO, NYSE: CGAU) after the close on Tuesday announced second-quarter net earnings o",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/centerra-gold-reports-higher-q2-212608549.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T21:26:08+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Centerra Gold (CG.TO, NYSE: CGAU) after the close on Tuesday announced second-quarter net earnings o"
-    },
-    {
-      "title": "Mixed day for global stocks but oil prices fall along with chip shares",
-      "description": "Wall Street stocks mostly rose Tuesday behind solid earnings and a pullback in oil prices, offsetting weakness in chip shares and in Asian equity markets.European stocks ended the day higher, supported by corporate earnings and lower oil prices.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/seoul-tokyo-lead-asian-plunge-025326269.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T21:19:35+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Wall Street stocks mostly rose Tuesday behind solid earnings and a pullback in oil prices, offsetting weakness in chip shares and in Asian equity markets.European stocks ended the day higher, supporte"
-    },
-    {
-      "title": "Goldman Says Japan’s AI Stock Trade ‘Not Broken’ After Rout",
-      "description": "Goldman Sachs Japan Co. says a sharp selloff in Japan’s artificial intelligence-related stocks has created a buying opportunity, arguing that strong earnings could revive investor appetite for semiconductor shares.",
-      "url": "https://www.livemint.com/market/goldman-says-japan-s-ai-stock-trade-not-broken-after-rout-11785273521589.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-      "source": "LiveMint",
-      "published_at": "2026-07-28T21:18:41+00:00",
-      "category": "India",
-      "simple_explanation": "Goldman Sachs Japan Co. says a sharp selloff in Japan’s artificial intelligence-related stocks has created a buying opportunity, arguing that strong earnings could revive investor appetite for semicon"
-    },
-    {
-      "title": "Auro Intersects 542m Grading 0.60 g/t Gold and 0.12% Copper at the Santa Barbara Gold-Copper Project, Ecuador",
-      "description": "Vancouver, British Columbia--(Newsfile Corp. - July 28, 2026) - Auro Metals Inc. (TSXV: AURO) (OTC Pink: AURFF) (\"Auro\" or the \"Company\") is pleased to announce the third batch of assay results, of four drillholes, from the 2026 Phase I Drill Program at its 100%-owned Santa Barbara Gold-Copper Proje",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/auro-intersects-542m-grading-0-210100255.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T21:01:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - July 28, 2026) - Auro Metals Inc. (TSXV: AURO) (OTC Pink: AURFF) (\"Auro\" or the \"Company\") is pleased to announce the third batch of assay results, of fo"
-    },
-    {
-      "title": "Chip Rout Sinks Emerging-Market Stocks; Currencies Trade Mixed",
-      "description": "A selloff in semiconductor stocks pressured Asian bourses and pushed the emerging-market benchmark to the lowest in more than three months, while currencies were mixed on the eve of the Federal Reserve’s decision.",
-      "url": "https://www.livemint.com/market/chip-rout-sinks-emerging-market-stocks-currencies-trade-mixed-11785271370611.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-28T20:42:50+00:00",
-      "category": "India",
-      "simple_explanation": "A selloff in semiconductor stocks pressured Asian bourses and pushed the emerging-market benchmark to the lowest in more than three months, while currencies were mixed on the eve of the Federal Reserv"
-    },
-    {
-      "title": "TSX Closer: Index Rises as Tech Gains Offset Commodity Weakness Ahead of Fed Decision",
-      "description": "The S&P/TSX Composite Index edged higher on Tuesday as gains in technology stocks outweighed weaknes",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-rises-tech-204047021.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T20:40:47+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The S&P/TSX Composite Index edged higher on Tuesday as gains in technology stocks outweighed weaknes"
-    },
-    {
-      "title": "TSX hits record high, led by tech and financial shares",
-      "description": "CANADA-STOCKS/ (UPDATE 2):CANADA STOCKS-TSX hits record high, led by tech and financial shares",
-      "url": "https://www.livemint.com/market/tsx-hits-record-high-led-by-tech-and-financial-shares-11785269958336.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-28T20:19:18+00:00",
-      "category": "India",
-      "simple_explanation": "CANADA-STOCKS/ (UPDATE 2):CANADA STOCKS-TSX hits record high, led by tech and financial shares"
-    },
-    {
-      "title": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
-      "description": "The new exchange-traded products track Ether and Solana, offer staking rewards and follow the firm’s Bitcoin fund launched earlier this year.",
-      "url": "https://cointelegraph.com/news/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/bankcman-morgan-stanley.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-28T20:10:46+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The new exchange-traded products track Ether and Solana, offer staking rewards and follow the firm’s Bitcoin fund launched earlier this year."
-    },
-    {
-      "title": "GLD vs SLVP: Should You Invest in Gold Bullion or Silver Mining Stocks in 2026?",
-      "description": "SLVP delivered 69% returns in one year versus GLD's 22%, but endured a 48% maximum drawdown compared to GLD's 26%.",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/28/gld-vs-slvp-should-you-invest-in-gold-bullion-or-silver-mining-stocks-in-2026/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T20:03:01+00:00",
-      "category": "Commodities",
-      "simple_explanation": "SLVP delivered 69% returns in one year versus GLD's 22%, but endured a 48% maximum drawdown compared to GLD's 26%."
-    },
-    {
-      "title": "Apple touches $5 trillion market cap for first time",
-      "description": "The jockeying between Apple and Nvidia reflects a debate about the future of AI that has preoccupied investors this summer.",
-      "url": "https://www.cnbc.com/2026/07/28/apple-touches-5-trillion-market-cap-for-first-time-.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-28T20:02:50+00:00",
-      "category": "USA",
-      "simple_explanation": "The jockeying between Apple and Nvidia reflects a debate about the future of AI that has preoccupied investors this summer."
-    },
-    {
-      "title": "US stocks: S&P 500 ends higher as investors await tech earnings",
-      "description": "The S&P 500 index closed higher on Tuesday, boosted by gains in Boeing and Coca-Cola.  Chip stocks experienced a significant decline as investors awaited quarterly reports from major tech firms.  Microsoft and Amazon saw movement ahead of their upcoming earnings announcements this week.  Apple's sto",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-investors-await-tech-earnings/articleshow/132694299.cms",
-      "image": "https://img.etimg.com/photo/msid-132694299,imgsize-123420.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-28T20:02:04+00:00",
-      "category": "India",
-      "simple_explanation": "The S&P 500 index closed higher on Tuesday, boosted by gains in Boeing and Coca-Cola.  Chip stocks experienced a significant decline as investors awaited quarterly reports from major tech firms.  Micr"
-    },
-    {
-      "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
-      "description": "Alphabet's free cash flow has turned negative, and the company lifted its capital spending forecast. Slower-growing cloud rivals report this week.",
-      "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-28T19:45:10+00:00",
-      "category": "USA",
-      "simple_explanation": "Alphabet's free cash flow has turned negative, and the company lifted its capital spending forecast. Slower-growing cloud rivals report this week."
-    },
-    {
-      "title": "Apple briefly tops $5 trillion in market value, second after Nvidia; unveils iPhone leasing scheme",
-      "description": "Apple briefly surpassed $5 trillion in market value, becoming only the second company after Nvidia to reach the historic milestone.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/apple-briefly-tops-5-trillion-in-market-value-second-after-nvidia-unveils-iphone-leasing-scheme/articleshow/132693980.cms",
-      "image": "https://img.etimg.com/photo/msid-132693980,imgsize-57628.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-28T19:26:55+00:00",
-      "category": "India",
-      "simple_explanation": "Apple briefly surpassed $5 trillion in market value, becoming only the second company after Nvidia to reach the historic milestone."
-    },
-    {
-      "title": "AmericanFortress proposes quantum-safe crypto wallet protection without fund migration",
-      "description": "The proposed cryptographic scheme aims to protect existing Bitcoin, Ethereum and Solana wallets from future quantum attacks without requiring users to move funds or change wallet addresses.",
-      "url": "https://cointelegraph.com/news/americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/magazineq-day-bitcoin-could-take-7-years-to-upgrade-to-post-quantum.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-28T18:47:26+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The proposed cryptographic scheme aims to protect existing Bitcoin, Ethereum and Solana wallets from future quantum attacks without requiring users to move funds or change wallet addresses."
-    },
-    {
-      "title": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
-      "description": "The letter is part of the commission’s public comment period for the first draft of its proposed rule on regulating prediction markets.",
-      "url": "https://www.cnbc.com/2026/07/28/44-states-say-cftc-has-no-authority-over-sports-prediction-markets.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-07-28T18:27:43+00:00",
-      "category": "Global",
-      "simple_explanation": "The letter is part of the commission’s public comment period for the first draft of its proposed rule on regulating prediction markets."
-    },
-    {
-      "title": "Manipal Health IPO: Co. garners Rs 4,167 crore from anchor investors; ADIA, Morgan Stanley among investors",
-      "description": "Manipal Health Enterprises secured Rs 4,167 crore from anchor investors for its upcoming IPO. The company's initial public offering is set to launch on July 29, aiming for Rs 9,275 crore. This public issue will include a fresh issue and an offer for sale by existing shareholders. Funds raised will b",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/manipal-health-ipo-co-garners-rs-4167-crore-from-anchor-investors-adia-morgan-stanley-among-investors/articleshow/132692857.cms",
-      "image": "https://img.etimg.com/photo/msid-132692857,imgsize-87482.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-28T18:20:39+00:00",
-      "category": "India",
-      "simple_explanation": "Manipal Health Enterprises secured Rs 4,167 crore from anchor investors for its upcoming IPO. The company's initial public offering is set to launch on July 29, aiming for Rs 9,275 crore. This public "
     }
   ]
 }
