@@ -1,16 +1,116 @@
 {
-  "last_updated": "2026-07-28T22:59:08.477958+00:00",
+  "last_updated": "2026-07-29T00:04:39.843086+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "SK Hynix second-quarter revenue more than triples — but misses estimates",
+      "description": "SK Hynix announced second quarter earnings on Wednesday, with profit reaching a record but still missing estimates. Revenue more than tripled year over year.",
+      "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-29T00:00:33+00:00",
+      "category": "USA",
+      "simple_explanation": "SK Hynix announced second quarter earnings on Wednesday, with profit reaching a record but still missing estimates. Revenue more than tripled year over year."
+    },
+    {
+      "title": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East",
+      "description": "Centcom in a post on X said that attack originated from Iran, but all missiles were intercepted.",
+      "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-28T23:53:56+00:00",
+      "category": "USA",
+      "simple_explanation": "Centcom in a post on X said that attack originated from Iran, but all missiles were intercepted."
+    },
+    {
+      "title": "Senate confirms Jay Clayton as Trump's director of national intelligence, replacing Pulte",
+      "description": "Bill Pulte had been serving for months as DNI after Tulsi Gabbard resigned the post.",
+      "url": "https://www.cnbc.com/2026/07/28/jay-clayton-bill-pulte-senate-vote-trump-spy-chief.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-28T23:44:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Bill Pulte had been serving for months as DNI after Tulsi Gabbard resigned the post."
+    },
     {
       "title": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Earnings Late",
       "description": "Futures fell as oil prices jumped on an Iran news. Seagate, SK Hynix, KLA, Bloom Energy are key earnings late. Will the Fed surprise?",
       "url": "https://finance.yahoo.com/m/0eb51c4d-da78-36ad-bd11-f37d9adcc2f8/dow-jones-futures-fall%2C-oil.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-28T22:55:59+00:00",
+      "published_at": "2026-07-28T23:41:42+00:00",
       "category": "USA",
       "simple_explanation": "Futures fell as oil prices jumped on an Iran news. Seagate, SK Hynix, KLA, Bloom Energy are key earnings late. Will the Fed surprise?"
+    },
+    {
+      "title": "Small Cap Watch: Alkane lifts gold resource, St George hits record-thick Araxá intercept, Janus secures Frankfurt listing and more...",
+      "description": "The S&P/ASX Small Ordinaries slipped modestly on Tuesday, with the index easing 3.8 points, or 0.11%, to close at 3,322.8. The small-cap benchmark has declined 20.5 points, or 0.61%, over the past five trading sessions, reflecting a subdued stretch for the junior end of the Australian...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1096169/small-cap-watch-alkane-lifts-gold-resource-st-george-hits-record-thick-araxa-intercept-janus-secures-frankfurt-listing-and-more-1096169.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T23:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The S&P/ASX Small Ordinaries slipped modestly on Tuesday, with the index easing 3.8 points, or 0.11%, to close at 3,322.8. The small-cap benchmark has declined 20.5 points, or 0.61%, over the past fiv"
+    },
+    {
+      "title": "Myanmar parliament passes crypto scam bill with penalties up to life",
+      "description": "Myanmar lawmakers approved an anti-online scam bill whose draft proposed prison terms of 10 years to life for crypto scams and operating scam centers.",
+      "url": "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2025.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-28T23:27:28+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Myanmar lawmakers approved an anti-online scam bill whose draft proposed prison terms of 10 years to life for crypto scams and operating scam centers."
+    },
+    {
+      "title": "Alkane Resources lifts Storheden gold resource to 212,000 ounces as high-grade drilling expands growth case",
+      "description": "Alkane Resources Ltd (ASX:ALK, OTC:ALKEF) has substantially increased the Mineral Resource at the Storheden gold deposit in northern Sweden, strengthening its potential to become a satellite mining area for the nearby Björkdal operation. The updated estimate comprises an Indicated Resource of...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1096168/alkane-resources-lifts-storheden-gold-resource-to-212-000-ounces-as-high-grade-drilling-expands-growth-case-1096168.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T23:22:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Alkane Resources Ltd (ASX:ALK, OTC:ALKEF) has substantially increased the Mineral Resource at the Storheden gold deposit in northern Sweden, strengthening its potential to become a satellite mining ar"
+    },
+    {
+      "title": "Franklin Resources (BEN) Following Its Expansion Narrative Is The Stock Fully Valued",
+      "description": "Dividend profile and recent performance of Franklin Resources stock Franklin Resources (BEN) has drawn attention for its dividend profile, with a yield above both its industry and the S&P 500, alongside five consecutive years of annual dividend increases. The company also reports expectations for ea",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/franklin-resources-ben-following-expansion-231528849.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T23:15:28+00:00",
+      "category": "USA",
+      "simple_explanation": "Dividend profile and recent performance of Franklin Resources stock Franklin Resources (BEN) has drawn attention for its dividend profile, with a yield above both its industry and the S&P 500, alongsi"
+    },
+    {
+      "title": "3 Financials Stocks on Our Watchlist",
+      "description": "Financial firms serve as the backbone of the economy, providing essential services from lending and investment management to risk management and payment processing. But worries about economic uncertainty and potential market volatility have kept sentiment in check, and over the past six months, the ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-financials-stocks-watchlist-230102467.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T23:01:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Financial firms serve as the backbone of the economy, providing essential services from lending and investment management to risk management and payment processing. But worries about economic uncertai"
+    },
+    {
+      "title": "Wall Street ends mixed as investors await tech earnings",
+      "description": "STORY: Wall Street's main indexes closed mixed on Tuesday with the Dow gaining 1%, the S&P 500 edging up about two-tenths of a percent and the Nasdaq dipping by roughly two-tenths of a percent.Markets have been volatile this month as investors worry that Microsoft, Amazon and other tech heavyweights",
+      "url": "https://finance.yahoo.com/video/wall-street-ends-mixed-investors-225803995.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T22:58:03+00:00",
+      "category": "USA",
+      "simple_explanation": "STORY: Wall Street's main indexes closed mixed on Tuesday with the Dow gaining 1%, the S&P 500 edging up about two-tenths of a percent and the Nasdaq dipping by roughly two-tenths of a percent.Markets"
+    },
+    {
+      "title": "1 Software Stock with Impressive Fundamentals and 2 Facing Headwinds",
+      "description": "From commerce to culture, software is digitizing every aspect of our lives. The undeniable tailwinds fueling the industry have also led to decent returns for SaaS stocks lately as they’ve gained 5.7% over the past six months. This performance was almost identical to the S&P 500.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-software-stock-impressive-fundamentals-225302549.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T22:53:02+00:00",
+      "category": "USA",
+      "simple_explanation": "From commerce to culture, software is digitizing every aspect of our lives. The undeniable tailwinds fueling the industry have also led to decent returns for SaaS stocks lately as they’ve gained 5.7% "
     },
     {
       "title": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
@@ -33,14 +133,24 @@
       "simple_explanation": "Financial institutions play a critical role, offering everything from consumer banking to wealth management and specialized financial solutions. But uncertainty about fiscal and monetary policy has te"
     },
     {
-      "title": "1 Energy Stock Worth Investigating and 2 We Brush Off",
-      "description": "Energy businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. But their prominence also brings high exposure to the ups and downs of economic and energy cycles. Luckily, the tide is turning in their favor as the industry’s 12.6% return over the p",
-      "url": "https://finance.yahoo.com/energy/articles/1-energy-stock-worth-investigating-223702527.html?.tsrc=rss",
+      "title": "Dow Ends Higher For Third Straight Session As Oil Cools, Nasdaq Slides On Chipmaker Rout — PYPL, SPCX, AAPL, V, F Stocks In Focus",
+      "description": "Nasdaq dropped for the fifth straight session on Tuesday, its longest losing streak since January this year.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-continues-to-drop-on-chipmaker-rout/cZZ6TnzRJbt?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-28T22:37:02+00:00",
+      "published_at": "2026-07-28T22:44:01+00:00",
       "category": "USA",
-      "simple_explanation": "Energy businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. But their prominence also brings high exposure to the ups and downs of economic and "
+      "simple_explanation": "Nasdaq dropped for the fifth straight session on Tuesday, its longest losing streak since January this year."
+    },
+    {
+      "title": "This 100-Year-Old Theory Says the Stock Market Isn’t Done Climbing: Ed Yardeni",
+      "description": "Artificial intelligence has dominated Wall Street’s attention this year. Investors have obsessed over capital spending, shrinking free cash flow and whether the hyperscalers are overspending on AI. Yet one of the market’s oldest indicators is quietly telling a very different...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/100-old-theory-says-stock-223019868.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T22:30:19+00:00",
+      "category": "USA",
+      "simple_explanation": "Artificial intelligence has dominated Wall Street’s attention this year. Investors have obsessed over capital spending, shrinking free cash flow and whether the hyperscalers are overspending on AI. Ye"
     },
     {
       "title": "Oil Holds Three-Day Drop as Tensions in the Middle East Cool",
@@ -51,6 +161,26 @@
       "published_at": "2026-07-28T22:19:54+00:00",
       "category": "India",
       "simple_explanation": "Oil held the bulk of a three-day decline on optimism that the US and Iran may be able to forge a diplomatic solution to end the war in the Middle East, with the conflict now in its sixth month."
+    },
+    {
+      "title": "Whirlpool (WHR) Beats Stock Market Upswing: What Investors Need to Know",
+      "description": "In the closing of the recent trading day, Whirlpool (WHR) stood at $38.48, denoting a +2.26% move from the preceding trading day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/whirlpool-whr-beats-stock-market-221504374.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T22:15:04+00:00",
+      "category": "USA",
+      "simple_explanation": "In the closing of the recent trading day, Whirlpool (WHR) stood at $38.48, denoting a +2.26% move from the preceding trading day."
+    },
+    {
+      "title": "ChargePoint Holdings, Inc. (CHPT) Stock Sinks As Market Gains: What You Should Know",
+      "description": "In the most recent trading session, ChargePoint Holdings, Inc. (CHPT) closed at $5.34, indicating a -1.29% shift from the previous trading day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chargepoint-holdings-inc-chpt-stock-221504783.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T22:15:04+00:00",
+      "category": "USA",
+      "simple_explanation": "In the most recent trading session, ChargePoint Holdings, Inc. (CHPT) closed at $5.34, indicating a -1.29% shift from the previous trading day."
     },
     {
       "title": "Nasdaq 100 Is Approaching a Correction as Chips Selloff Worsens",
@@ -103,56 +233,6 @@
       "simple_explanation": "Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call."
     },
     {
-      "title": "Clear Secure (YOU) Exceeds Market Returns: Some Facts to Consider",
-      "description": "The latest trading day saw Clear Secure (YOU) settling at $53.84, representing a +1.15% change from its previous close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/clear-secure-exceeds-market-returns-215005880.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T21:50:05+00:00",
-      "category": "USA",
-      "simple_explanation": "The latest trading day saw Clear Secure (YOU) settling at $53.84, representing a +1.15% change from its previous close."
-    },
-    {
-      "title": "Vertex Pharmaceuticals (VRTX) Exceeds Market Returns: Some Facts to Consider",
-      "description": "Vertex Pharmaceuticals (VRTX) closed the most recent trading day at $490.39, moving +2.38% from the previous trading session.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vertex-pharmaceuticals-vrtx-exceeds-market-215005922.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T21:50:05+00:00",
-      "category": "USA",
-      "simple_explanation": "Vertex Pharmaceuticals (VRTX) closed the most recent trading day at $490.39, moving +2.38% from the previous trading session."
-    },
-    {
-      "title": "On Holding (ONON) Rises Higher Than Market: Key Facts",
-      "description": "On Holding (ONON) reached $37.89 at the closing of the latest trading day, reflecting a +2.24% change compared to its last close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-rises-higher-market-215004385.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T21:50:04+00:00",
-      "category": "USA",
-      "simple_explanation": "On Holding (ONON) reached $37.89 at the closing of the latest trading day, reflecting a +2.24% change compared to its last close."
-    },
-    {
-      "title": "Blue Bird (BLBD) Stock Declines While Market Improves: Some Information for Investors",
-      "description": "Blue Bird (BLBD) concluded the recent trading session at $73.89, signifying a -2.83% move from its prior day's close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blue-bird-blbd-stock-declines-215004856.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T21:50:04+00:00",
-      "category": "USA",
-      "simple_explanation": "Blue Bird (BLBD) concluded the recent trading session at $73.89, signifying a -2.83% move from its prior day's close."
-    },
-    {
-      "title": "Take-Two Interactive (TTWO) Laps the Stock Market: Here's Why",
-      "description": "Take-Two Interactive (TTWO) reached $247.62 at the closing of the latest trading day, reflecting a +1.5% change compared to its last close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-laps-stock-215004311.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T21:50:04+00:00",
-      "category": "USA",
-      "simple_explanation": "Take-Two Interactive (TTWO) reached $247.62 at the closing of the latest trading day, reflecting a +1.5% change compared to its last close."
-    },
-    {
       "title": "Exxon Mobil's Next Earnings Report on July 31 Could Send the Stock Soaring. Here's Why.",
       "description": "ExxonMobil should report a profit gusher later this week.",
       "url": "https://www.fool.com/investing/2026/07/28/exxon-mobils-next-earnings-report-on-july-31-could-send-the-stock-soaring-heres-why/?.tsrc=rss",
@@ -193,26 +273,6 @@
       "simple_explanation": "Goldman Sachs Japan Co. says a sharp selloff in Japan’s artificial intelligence-related stocks has created a buying opportunity, arguing that strong earnings could revive investor appetite for semicon"
     },
     {
-      "title": "SpaceX, Blue Origin could get quicker launch approval under FAA move to waive environmental rules",
-      "description": "\"America won the first Space Race, and we can do it again — but only if we get government red tape out of the way,\" Transportation Secretary Sean Duffy said.",
-      "url": "https://www.cnbc.com/2026/07/28/space-launches-faa-environmental-spacex-blue-origin-sean-duffy.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-28T21:14:31+00:00",
-      "category": "USA",
-      "simple_explanation": "\"America won the first Space Race, and we can do it again — but only if we get government red tape out of the way,\" Transportation Secretary Sean Duffy said."
-    },
-    {
-      "title": "Senate set to vote on Trump's pick for spy chief, ending Bill Pulte's brief tenure",
-      "description": "The Senate on Tuesday is expected to vote on Jay Clayton, President Donald Trump's nominee to become the director of national intelligence.",
-      "url": "https://www.cnbc.com/2026/07/28/jay-clayton-bill-pulte-senate-vote-trump-spy-chief.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-28T21:05:36+00:00",
-      "category": "USA",
-      "simple_explanation": "The Senate on Tuesday is expected to vote on Jay Clayton, President Donald Trump's nominee to become the director of national intelligence."
-    },
-    {
       "title": "Auro Intersects 542m Grading 0.60 g/t Gold and 0.12% Copper at the Santa Barbara Gold-Copper Project, Ecuador",
       "description": "Vancouver, British Columbia--(Newsfile Corp. - July 28, 2026) - Auro Metals Inc. (TSXV: AURO) (OTC Pink: AURFF) (\"Auro\" or the \"Company\") is pleased to announce the third batch of assay results, of four drillholes, from the 2026 Phase I Drill Program at its 100%-owned Santa Barbara Gold-Copper Proje",
       "url": "https://finance.yahoo.com/markets/commodities/articles/auro-intersects-542m-grading-0-210100255.html?.tsrc=rss",
@@ -221,16 +281,6 @@
       "published_at": "2026-07-28T21:01:00+00:00",
       "category": "Commodities",
       "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - July 28, 2026) - Auro Metals Inc. (TSXV: AURO) (OTC Pink: AURFF) (\"Auro\" or the \"Company\") is pleased to announce the third batch of assay results, of fo"
-    },
-    {
-      "title": "Asia is rewriting the global energy map",
-      "description": "(By Oil & Gas 360) – The global energy landscape continues to evolve at an unprecedented pace, with Asia emerging […]",
-      "url": "https://finance.yahoo.com/energy/articles/asia-rewriting-global-energy-map-210034600.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T21:00:34+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(By Oil & Gas 360) – The global energy landscape continues to evolve at an unprecedented pace, with Asia emerging […]"
     },
     {
       "title": "Chip Rout Sinks Emerging-Market Stocks; Currencies Trade Mixed",
@@ -283,6 +333,16 @@
       "simple_explanation": "SLVP delivered 69% returns in one year versus GLD's 22%, but endured a 48% maximum drawdown compared to GLD's 26%."
     },
     {
+      "title": "Apple touches $5 trillion market cap for first time",
+      "description": "The jockeying between Apple and Nvidia reflects a debate about the future of AI that has preoccupied investors this summer.",
+      "url": "https://www.cnbc.com/2026/07/28/apple-touches-5-trillion-market-cap-for-first-time-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-28T20:02:50+00:00",
+      "category": "USA",
+      "simple_explanation": "The jockeying between Apple and Nvidia reflects a debate about the future of AI that has preoccupied investors this summer."
+    },
+    {
       "title": "US stocks: S&P 500 ends higher as investors await tech earnings",
       "description": "The S&P 500 index closed higher on Tuesday, boosted by gains in Boeing and Coca-Cola.  Chip stocks experienced a significant decline as investors awaited quarterly reports from major tech firms.  Microsoft and Amazon saw movement ahead of their upcoming earnings announcements this week.  Apple's sto",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-investors-await-tech-earnings/articleshow/132694299.cms",
@@ -293,6 +353,16 @@
       "simple_explanation": "The S&P 500 index closed higher on Tuesday, boosted by gains in Boeing and Coca-Cola.  Chip stocks experienced a significant decline as investors awaited quarterly reports from major tech firms.  Micr"
     },
     {
+      "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
+      "description": "Alphabet's free cash flow has turned negative, and the company lifted its capital spending forecast. Slower-growing cloud rivals report this week.",
+      "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-28T19:45:10+00:00",
+      "category": "USA",
+      "simple_explanation": "Alphabet's free cash flow has turned negative, and the company lifted its capital spending forecast. Slower-growing cloud rivals report this week."
+    },
+    {
       "title": "Apple briefly tops $5 trillion in market value, second after Nvidia; unveils iPhone leasing scheme",
       "description": "Apple briefly surpassed $5 trillion in market value, becoming only the second company after Nvidia to reach the historic milestone.",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/apple-briefly-tops-5-trillion-in-market-value-second-after-nvidia-unveils-iphone-leasing-scheme/articleshow/132693980.cms",
@@ -301,26 +371,6 @@
       "published_at": "2026-07-28T19:26:55+00:00",
       "category": "India",
       "simple_explanation": "Apple briefly surpassed $5 trillion in market value, becoming only the second company after Nvidia to reach the historic milestone."
-    },
-    {
-      "title": "Kentucky Gov. Beshear calls on Mitch McConnell to prove he can serve or resign",
-      "description": "McConnell’s prolonged absence could complicate the GOP’s narrow Senate majority and trigger an untested Kentucky vacancy process.",
-      "url": "https://www.cnbc.com/2026/07/28/beshear-mcconnell-health-resign-senate-vacancy.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-28T19:03:40+00:00",
-      "category": "USA",
-      "simple_explanation": "McConnell’s prolonged absence could complicate the GOP’s narrow Senate majority and trigger an untested Kentucky vacancy process."
-    },
-    {
-      "title": "Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead",
-      "description": "It's been a rough month for Elon Musk, if there is such a thing for the world's richest man.",
-      "url": "https://www.cnbc.com/2026/07/28/elon-musk-stocks-take-1point5-trillion-hit-with-fresh-test-in-spacex-lockup-ahead.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-28T18:56:34+00:00",
-      "category": "USA",
-      "simple_explanation": "It's been a rough month for Elon Musk, if there is such a thing for the world's richest man."
     },
     {
       "title": "AmericanFortress proposes quantum-safe crypto wallet protection without fund migration",
@@ -351,56 +401,6 @@
       "published_at": "2026-07-28T18:20:39+00:00",
       "category": "India",
       "simple_explanation": "Manipal Health Enterprises secured Rs 4,167 crore from anchor investors for its upcoming IPO. The company's initial public offering is set to launch on July 29, aiming for Rs 9,275 crore. This public "
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-28T18:15:25+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "Galaxy, MARA Holdings deepen Texas expansion with land acquisitions",
-      "description": "The crypto-focused companies announced separate acquisitions as demand for power-intensive AI and digital infrastructure continues to grow.",
-      "url": "https://cointelegraph.com/news/galaxy-mara-texas-land-deals-ai-bitcoin-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-top-5-crypto-states-in-us-texas.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-28T18:08:32+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The crypto-focused companies announced separate acquisitions as demand for power-intensive AI and digital infrastructure continues to grow."
-    },
-    {
-      "title": "Boeing shares rise 5% despite higher than expected Q2 loss on Air Force One costs",
-      "description": "Boeing posted a wider-than-expected Q2 loss after a $280 million Air Force One charge, but shares rose 5% as positive free cash flow and higher aircraft production signaled progress in the planemaker’s turnaround.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/boeing-shares-rise-5-despite-higher-than-expected-q2-loss-on-air-force-one-costs/articleshow/132691839.cms",
-      "image": "https://img.etimg.com/photo/msid-132691839,imgsize-590815.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-28T17:55:08+00:00",
-      "category": "India",
-      "simple_explanation": "Boeing posted a wider-than-expected Q2 loss after a $280 million Air Force One charge, but shares rose 5% as positive free cash flow and higher aircraft production signaled progress in the planemaker’"
-    },
-    {
-      "title": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
-      "description": "The Facebook and Instagram owner is set to report earnings after the market close on Wednesday.",
-      "url": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-07-28T17:40:03+00:00",
-      "category": "Global",
-      "simple_explanation": "The Facebook and Instagram owner is set to report earnings after the market close on Wednesday."
-    },
-    {
-      "title": "Canada Commodities: Oil and Gold Lower as Pause in US-Iran Hostilities Seem to be Holding",
-      "description": "Prices for key Canadian export commodities fell on Tuesday, with oil and gold in the red as a pause",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-oil-gold-lower-172832030.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T17:28:32+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Prices for key Canadian export commodities fell on Tuesday, with oil and gold in the red as a pause"
     }
   ]
 }
