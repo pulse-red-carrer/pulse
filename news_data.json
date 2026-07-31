@@ -1,16 +1,226 @@
 {
-  "last_updated": "2026-07-30T22:05:15.128844+00:00",
+  "last_updated": "2026-07-31T00:01:26.950725+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+      "description": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
+      "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-31T00:00:37+00:00",
+      "category": "USA",
+      "simple_explanation": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems."
+    },
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "description": "Indian benchmark indices opened flat and traded in a choppy, volatile range. Analysts suggest the index may head towards resistance at 24,500-24,600 levels. The India VIX, measuring market fear, rose 1.2% to settle at 12.16. Foreign portfolio investors and domestic institutions were net buyers of sh",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132752586.cms",
+      "image": "https://img.etimg.com/photo/msid-132752586,imgsize-110060.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-30T23:44:59+00:00",
+      "category": "India",
+      "simple_explanation": "Indian benchmark indices opened flat and traded in a choppy, volatile range. Analysts suggest the index may head towards resistance at 24,500-24,600 levels. The India VIX, measuring market fear, rose "
+    },
+    {
+      "title": "The Quiet Repricing Of ROAD Stock",
+      "description": "A road builder delivered record growth and a large backlog, yet its stock went nowhere. The market is quietly pricing in a problem that has not yet appeared in the numbers.",
+      "url": "https://www.trefis.com/articles/609485/the-quiet-repricing-of-road-stock-2/2026-07-30?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T23:38:48+00:00",
+      "category": "USA",
+      "simple_explanation": "A road builder delivered record growth and a large backlog, yet its stock went nowhere. The market is quietly pricing in a problem that has not yet appeared in the numbers."
+    },
+    {
+      "title": "Small Cap Watch: Explorers and developers advance key programs during June quarter",
+      "description": "The S&P/ASX Small Ordinaries Index (ASX) fell 57.70 points, or 1.73%, yesterday to close at 3,268.80. The index is now down 60.20 points, or 1.81%, over the past five trading sessions. Despite the broader market weakness, small-cap companies continue to generate news across gold...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1096322/small-cap-watch-explorers-and-developers-advance-key-programs-during-june-quarter-1096322.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T23:34:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The S&P/ASX Small Ordinaries Index (ASX) fell 57.70 points, or 1.73%, yesterday to close at 3,268.80. The index is now down 60.20 points, or 1.81%, over the past five trading sessions. Despite the bro"
+    },
+    {
+      "title": "Bitcoin Slides as Investors Fret Over Prospect of Higher Rates",
+      "description": "Bitcoin tumbled as concerns over the possibility of higher interest rates weighed on risk sentiment, prompting investors to pull back from digital assets.",
+      "url": "https://www.livemint.com/market/bitcoin-slides-as-investors-fret-over-prospect-of-higher-rates-11785454424538.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-30T23:33:44+00:00",
+      "category": "India",
+      "simple_explanation": "Bitcoin tumbled as concerns over the possibility of higher interest rates weighed on risk sentiment, prompting investors to pull back from digital assets."
+    },
     {
       "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
       "description": "The stock market jumped Thursday as Microsoft powered a big AI rebound. Apple and Amazon led earnings late.",
       "url": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-30T21:59:56+00:00",
+      "published_at": "2026-07-30T23:33:17+00:00",
       "category": "USA",
       "simple_explanation": "The stock market jumped Thursday as Microsoft powered a big AI rebound. Apple and Amazon led earnings late."
+    },
+    {
+      "title": "Ripple (XRP) Price Prediction: Analyst Predicts XRP Will Reach $1,000",
+      "description": "One analyst on X built a detailed case for XRP reaching four figures, and the math behind his collateral thesis is more serious than the price target makes it sound.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/07/30/ripple-xrp-price-prediction-analyst-predicts-xrp-will-reach-1000/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T23:30:24+00:00",
+      "category": "Commodities",
+      "simple_explanation": "One analyst on X built a detailed case for XRP reaching four figures, and the math behind his collateral thesis is more serious than the price target makes it sound."
+    },
+    {
+      "title": "Oil on Pace for 21% Monthly Rally as US-Iran War Strains Supply",
+      "description": "Oil steadied at the end of a volatile week, with prices on track for the biggest monthly gain since March as the US-Iran war escalated.",
+      "url": "https://www.livemint.com/market/oil-on-pace-for-21-monthly-rally-as-us-iran-war-strains-supply-11785453933062.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "source": "LiveMint",
+      "published_at": "2026-07-30T23:25:32+00:00",
+      "category": "India",
+      "simple_explanation": "Oil steadied at the end of a volatile week, with prices on track for the biggest monthly gain since March as the US-Iran war escalated."
+    },
+    {
+      "title": "Strategy misses Q2 earnings estimates by a wide margin",
+      "description": "Michael Saylor’s Strategy (Nasdaq: MSTR) reported an $8.22 billion net loss for the second quarter of 2026 on July 30, as falling Bitcoin prices reduced the value of its holdings. The company posted a diluted loss of $24.45 per share, compared with analysts’ estimate for a loss of $2.19 ...",
+      "url": "https://www.thestreet.com/crypto/markets/strategy-misses-q2-earnings-estimates-by-a-wide-margin?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T23:18:19+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Michael Saylor’s Strategy (Nasdaq: MSTR) reported an $8.22 billion net loss for the second quarter of 2026 on July 30, as falling Bitcoin prices reduced the value of its holdings. The company posted a"
+    },
+    {
+      "title": "Agnico Eagle Mines Ltd (AEM) (Q2 2026) Earnings Call Highlights: Record Free Cash Flow and ...",
+      "description": "Agnico Eagle Mines Ltd (AEM) posts record free cash flow of $1.3 billion and gold production above budget, while navigating a pit wall slide and safety incidents.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-ltd-aem-230054806.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T23:00:54+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Agnico Eagle Mines Ltd (AEM) posts record free cash flow of $1.3 billion and gold production above budget, while navigating a pit wall slide and safety incidents."
+    },
+    {
+      "title": "How China Became the Ultimate Swing Oil Buyer",
+      "description": "China's future buying will be critical for oil prices, with imports rebounding recently but renewed tensions in Hormuz and the Red Sea—and higher oil prices—likely to determine whether demand strengthens or weakens in the months ahead.",
+      "url": "https://finance.yahoo.com/energy/articles/china-became-ultimate-swing-oil-230000808.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T23:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "China's future buying will be critical for oil prices, with imports rebounding recently but renewed tensions in Hormuz and the Red Sea—and higher oil prices—likely to determine whether demand strength"
+    },
+    {
+      "title": "Wall Street ends sharply higher, lifted by soaring Microsoft",
+      "description": "STORY: U.S. stocks ended sharply higher on Thursday, with the Dow gaining more than one percent, the S&P 500 climbing one-and-two-thirds percent and the Nasdaq rallying more than two-and-three-quarters percent.:: MicrosoftShares of Microsoft soared more than 15% to log their biggest daily percentage",
+      "url": "https://finance.yahoo.com/video/wall-street-ends-sharply-higher-224515470.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T22:45:15+00:00",
+      "category": "USA",
+      "simple_explanation": "STORY: U.S. stocks ended sharply higher on Thursday, with the Dow gaining more than one percent, the S&P 500 climbing one-and-two-thirds percent and the Nasdaq rallying more than two-and-three-quarter"
+    },
+    {
+      "title": "The biggest myth about the S&P 500 run just got debunked",
+      "description": "The S&P 500 has spent much of the year under scrutiny as elevated valuations and signs of overextension fueled expectations of a market correction. After the index broke through 7,000 for the first time and kept climbing to new records, those fears intensified across financial media. The ...",
+      "url": "https://www.thestreet.com/investing/sp-500-putnam-earnings-drove-rally-volatility-2026?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T22:33:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The S&P 500 has spent much of the year under scrutiny as elevated valuations and signs of overextension fueled expectations of a market correction. After the index broke through 7,000 for the first ti"
+    },
+    {
+      "title": "Amazon & Apple Beat Earnings, Head Separate Ways",
+      "description": "Despite plenty of uncertainty on some of the bigger economic issues, Q2 earnings season rolls along quite successfully to this point.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-apple-beat-earnings-head-223100755.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T22:31:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Despite plenty of uncertainty on some of the bigger economic issues, Q2 earnings season rolls along quite successfully to this point."
+    },
+    {
+      "title": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
+      "description": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
+      "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-30T22:28:58+00:00",
+      "category": "USA",
+      "simple_explanation": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves."
+    },
+    {
+      "title": "Reddit shares sink 11% on 'choppy' search referrals even as results blow past estimates",
+      "description": "Reddit reported second-quarter earnings that beat on the top and the bottom, and gave a revenue forecast that topped estimates.",
+      "url": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-30T22:28:38+00:00",
+      "category": "USA",
+      "simple_explanation": "Reddit reported second-quarter earnings that beat on the top and the bottom, and gave a revenue forecast that topped estimates."
+    },
+    {
+      "title": "Why Ralph Lauren (RL) Outpaced the Stock Market Today",
+      "description": "In the closing of the recent trading day, Ralph Lauren (RL) stood at $385.91, denoting a +2.72% move from the preceding trading day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ralph-lauren-rl-outpaced-221503081.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T22:15:03+00:00",
+      "category": "USA",
+      "simple_explanation": "In the closing of the recent trading day, Ralph Lauren (RL) stood at $385.91, denoting a +2.72% move from the preceding trading day."
+    },
+    {
+      "title": "Phillips 66 (PSX) Outpaces Stock Market Gains: What You Should Know",
+      "description": "Phillips 66 (PSX) closed the most recent trading day at $210.6, moving +1.83% from the previous trading session.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-outpaces-stock-221503114.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T22:15:03+00:00",
+      "category": "USA",
+      "simple_explanation": "Phillips 66 (PSX) closed the most recent trading day at $210.6, moving +1.83% from the previous trading session."
+    },
+    {
+      "title": "Copart, Inc. (CPRT) Stock Sinks As Market Gains: Here's Why",
+      "description": "The latest trading day saw Copart, Inc. (CPRT) settling at $29.57, representing a -4.07% change from its previous close.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/copart-inc-cprt-stock-sinks-221502161.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T22:15:02+00:00",
+      "category": "USA",
+      "simple_explanation": "The latest trading day saw Copart, Inc. (CPRT) settling at $29.57, representing a -4.07% change from its previous close."
+    },
+    {
+      "title": "Crescent Energy (CRGY) Gains But Lags Market: What You Should Know",
+      "description": "Crescent Energy (CRGY) closed the most recent trading day at $11.17, moving +1.09% from the previous trading session.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-crgy-gains-lags-221502391.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T22:15:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Crescent Energy (CRGY) closed the most recent trading day at $11.17, moving +1.09% from the previous trading session."
+    },
+    {
+      "title": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
+      "description": "The latest China Beige Book study found factory activity decelerated in July.",
+      "url": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-30T22:01:01+00:00",
+      "category": "USA",
+      "simple_explanation": "The latest China Beige Book study found factory activity decelerated in July."
+    },
+    {
+      "title": "Middle East Oil Shock Could Hand Upstream Sector a $495 Billion Windfall",
+      "description": "Wood Mackenzie now expects the global upstream oil and gas sector to generate $495 billion in free cash flow in 2026 if Brent averages $90 per barrel.",
+      "url": "https://finance.yahoo.com/energy/articles/middle-east-oil-shock-could-220000904.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T22:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Wood Mackenzie now expects the global upstream oil and gas sector to generate $495 billion in free cash flow in 2026 if Brent averages $90 per barrel."
     },
     {
       "title": "US Senators sent revised ethics rules to White House for CLARITY Act: Report",
@@ -21,26 +231,6 @@
       "published_at": "2026-07-30T21:54:38+00:00",
       "category": "Crypto",
       "simple_explanation": "The window to pass a comprehensive crypto market structure bill before the Senate breaks for a month-long recess is closing, with ethics a dividing issue for many lawmakers."
-    },
-    {
-      "title": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center",
-      "description": "Morgan Stanley is the lead banker engaging in advanced talks to lend $15 billion to Nexus Data Centers, CNBC confirmed.",
-      "url": "https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-30T21:50:17+00:00",
-      "category": "USA",
-      "simple_explanation": "Morgan Stanley is the lead banker engaging in advanced talks to lend $15 billion to Nexus Data Centers, CNBC confirmed."
-    },
-    {
-      "title": "Stock Market Today, July 30: Amazon Soars Over 8% After Hours on Earnings Beat",
-      "description": "On July 30, 2026, the e-commerce giant's earnings topped forecasts as it showed investors its heavy AI infrastructure spending is paying off.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/30/stock-market-today-july-30-amazon-soars-over-8-after-hours-on-earnings-beat/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T21:42:07+00:00",
-      "category": "USA",
-      "simple_explanation": "On July 30, 2026, the e-commerce giant's earnings topped forecasts as it showed investors its heavy AI infrastructure spending is paying off."
     },
     {
       "title": "Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses",
@@ -73,6 +263,16 @@
       "simple_explanation": "Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter."
     },
     {
+      "title": "Why Strategy Earnings Are an Afterthought for MSTR Stock",
+      "description": "The world’s largest corporate holder of Bitcoin says it is navigating a period of “muted Bitcoin sentiment and market skepticism.”",
+      "url": "https://finance.yahoo.com/m/a7e8fd93-2c44-3c95-ac64-abccb7018802/why-strategy-earnings-are-an.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T21:21:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The world’s largest corporate holder of Bitcoin says it is navigating a period of “muted Bitcoin sentiment and market skepticism.”"
+    },
+    {
       "title": "Yen Surges as Nikkei Says Japan Intervened in Market Again",
       "description": "The yen soared by the most in more than two years against the US dollar, with Japan’s Nikkei newspaper reporting that officials stepped in once again to try and prop up the nation’s sagging currency.",
       "url": "https://www.livemint.com/market/yen-surges-as-nikkei-says-japan-intervened-in-market-again-11785446408826.html",
@@ -81,26 +281,6 @@
       "published_at": "2026-07-30T21:20:08+00:00",
       "category": "India",
       "simple_explanation": "The yen soared by the most in more than two years against the US dollar, with Japan’s Nikkei newspaper reporting that officials stepped in once again to try and prop up the nation’s sagging currency."
-    },
-    {
-      "title": "Rivian reduces 2026 spending plans, narrows earnings guidance",
-      "description": "Rivian reduced its 2026 spending plans and slightly narrowed its previously forecast losses this year as the company reported second-quarter results.",
-      "url": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-30T21:19:16+00:00",
-      "category": "USA",
-      "simple_explanation": "Rivian reduced its 2026 spending plans and slightly narrowed its previously forecast losses this year as the company reported second-quarter results."
-    },
-    {
-      "title": "Reddit shares sink 11% on 'choppy' search referrals even as results blow past estimates",
-      "description": "Reddit reported second-quarter earnings that beat on the top and the bottom, and gave a revenue forecast that topped estimates.",
-      "url": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-30T21:17:37+00:00",
-      "category": "USA",
-      "simple_explanation": "Reddit reported second-quarter earnings that beat on the top and the bottom, and gave a revenue forecast that topped estimates."
     },
     {
       "title": "Aris Mining Files WKSI Base Shelf Prospectus",
@@ -113,26 +293,6 @@
       "simple_explanation": "VANCOUVER, British Columbia, July 30, 2026--Aris Mining Corporation (Aris Mining or the Company) (TSX: ARIS; NYSE: ARIS) announces that it has filed a well-known seasoned issuer (WKSI) base shelf pros"
     },
     {
-      "title": "Permian Resources (PR) Rises On Oil Supply Fears As Undervalued Narrative Faces A Valuation Test",
-      "description": "Renewed conflict in the Middle East and a sharper than expected drop in U.S. crude stockpiles pushed oil prices higher, and Permian Resources (PR) climbed 4.9% as investors reassessed supply risk. See our latest analysis for Permian Resources. At a share price of $20.75, Permian Resources has a 1 mo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-rises-oil-211032861.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T21:10:32+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Renewed conflict in the Middle East and a sharper than expected drop in U.S. crude stockpiles pushed oil prices higher, and Permian Resources (PR) climbed 4.9% as investors reassessed supply risk. See"
-    },
-    {
-      "title": "Franklin BSP Realty Trust Inc (FBRT) (Q2 2026) Earnings Call Highlights: Dividend Coverage ...",
-      "description": "Book value per share rises to $14.24 as the company navigates a challenging commercial real estate environment with a strong multifamily focus.",
-      "url": "https://finance.yahoo.com/real-estate/articles/franklin-bsp-realty-trust-inc-210833841.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T21:08:33+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Book value per share rises to $14.24 as the company navigates a challenging commercial real estate environment with a strong multifamily focus."
-    },
-    {
       "title": "World Cup generated $20B in blockchain prediction market volume: Chainalysis",
       "description": "The blockchain analytics firm said the World Cup attracted global participation in prediction markets and digital collectibles, with more than 400,000 wallets placing blockchain-based bets.",
       "url": "https://cointelegraph.com/news/world-cup-generated-20b-prediction-market-volume-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -141,16 +301,6 @@
       "published_at": "2026-07-30T21:04:59+00:00",
       "category": "Crypto",
       "simple_explanation": "The blockchain analytics firm said the World Cup attracted global participation in prediction markets and digital collectibles, with more than 400,000 wallets placing blockchain-based bets."
-    },
-    {
-      "title": "PBF Energy Inc (PBF) (Q2 2026) Earnings Call Highlights: Strong Balance Sheet and Elevated ...",
-      "description": "PBF Energy slashes net debt by over $1.4 billion and expects elevated refining margins to persist into 2027, while navigating geopolitical risks and operational challenges.",
-      "url": "https://finance.yahoo.com/energy/articles/pbf-energy-inc-pbf-q2-210407262.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T21:04:07+00:00",
-      "category": "Commodities",
-      "simple_explanation": "PBF Energy slashes net debt by over $1.4 billion and expects elevated refining margins to persist into 2027, while navigating geopolitical risks and operational challenges."
     },
     {
       "title": "Bajaj Finance Ltd (BOM:500034) (Q1 2027) Earnings Call Highlights: Record Customer Additions ...",
@@ -173,34 +323,14 @@
       "simple_explanation": "(All amounts expressed in U.S. dollars unless otherwise noted) VANCOUVER, British Columbia, July 30, 2026 (GLOBE NEWSWIRE) -- Eldorado Gold Corporation (“Eldorado”, \"Eldorado Gold\" or “the Company”) ("
     },
     {
-      "title": "Baytex Announces Quarterly Dividend for October 2026",
-      "description": "Calgary, Alberta--(Newsfile Corp. - July 30, 2026) - Baytex Energy Corp. (TSX: BTE) (NYSE: BTE) (\"Baytex\" or the \"Company\") announces that its Board of Directors has declared a quarterly cash dividend of CDN$0.0225 per share to be paid on October 1, 2026 to shareholders of record on September 15, 20",
-      "url": "https://finance.yahoo.com/energy/articles/baytex-announces-quarterly-dividend-october-210000794.html?.tsrc=rss",
+      "title": "Coinbase Q2 Earnings Miss Drags COIN Lower as Losses Hit 3rd Quarter",
+      "description": "Coinbase missed Q2 revenue estimates and posted a $359.5M loss, sending COIN lower even as market share hit a record.",
+      "url": "https://beincrypto.com/coinbase-revenue-coin-stock/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-30T21:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Calgary, Alberta--(Newsfile Corp. - July 30, 2026) - Baytex Energy Corp. (TSX: BTE) (NYSE: BTE) (\"Baytex\" or the \"Company\") announces that its Board of Directors has declared a quarterly cash dividend"
-    },
-    {
-      "title": "Yangarra Announces 2026 Second Quarter Financial and Operating Results",
-      "description": "CALGARY, Alberta, July 30, 2026 (GLOBE NEWSWIRE) -- Yangarra Resources Ltd. (\"Yangarra\" or the \"Company\") (TSX:YGR) announces its financial and operating results for the three and six months ended June 30, 2026. Operations Update Yangarra executed an active second quarter operating program despite p",
-      "url": "https://finance.yahoo.com/energy/articles/yangarra-announces-2026-second-quarter-210000300.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T21:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "CALGARY, Alberta, July 30, 2026 (GLOBE NEWSWIRE) -- Yangarra Resources Ltd. (\"Yangarra\" or the \"Company\") (TSX:YGR) announces its financial and operating results for the three and six months ended Jun"
-    },
-    {
-      "title": "Sandisk Stock Is Having Its Best Day Since January. It Has Had a Tough Month.",
-      "description": "The stock was the session’s leading performer in the  and notched its largest daily percentage gain since Jan. 6.  It’s likely  Sandisk  received a boost from  Samsung Electronics  ’ strong earnings and remarks suggesting memory supply shortages will last through 2028.  Sandisk stock remains down 45",
-      "url": "https://finance.yahoo.com/m/ae656ca1-8ae1-391d-8f12-22230841adc0/sandisk-stock-is-having-its.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T20:55:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The stock was the session’s leading performer in the  and notched its largest daily percentage gain since Jan. 6.  It’s likely  Sandisk  received a boost from  Samsung Electronics  ’ strong earnings a"
+      "published_at": "2026-07-30T20:56:44+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Coinbase missed Q2 revenue estimates and posted a $359.5M loss, sending COIN lower even as market share hit a record."
     },
     {
       "title": "Strategy shares edge lower after bitcoin losses drive Q2 miss",
@@ -211,26 +341,6 @@
       "published_at": "2026-07-30T20:54:23+00:00",
       "category": "Crypto",
       "simple_explanation": "Investing.com --Strategy Inc (NASDAQ:MSTR) reported a net loss of $24.45 per share for the second quarter ended June 30, compared to earnings of $32.60 per share in the same period last year, as unrea"
-    },
-    {
-      "title": "FICO Stock Drops the Most in 6 Years. Here’s What Went Wrong.",
-      "description": "FICO dropped on Thursday after the global analytics software company issued lower-than-expected guidance.  The company, formerly known as  Fair Isaac  closed down 17% at $1,139.54, snapping a four-day winning streak to post its largest percent decrease since March 16, 2020, according to Dow Jones Ma",
-      "url": "https://finance.yahoo.com/m/9fdf6f5e-41c6-3ce8-9601-60c29a559033/fico-stock-drops-the-most-in.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T20:54:00+00:00",
-      "category": "USA",
-      "simple_explanation": "FICO dropped on Thursday after the global analytics software company issued lower-than-expected guidance.  The company, formerly known as  Fair Isaac  closed down 17% at $1,139.54, snapping a four-day"
-    },
-    {
-      "title": "Update: US Equity Indexes Surge as Microsoft Triggers Rebound in Chipmakers While Inflation Rate Falls in June",
-      "description": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-surge-microsoft-204930306.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T20:49:30+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa"
     },
     {
       "title": "Fitch’s Private Credit Default Rate Hit Record in Second Quarter",
@@ -253,36 +363,6 @@
       "simple_explanation": "The crypto exchange blamed softer spot trading and low volatility for the earnings miss while highlighting growth in derivatives, stablecoins and tokenized finance."
     },
     {
-      "title": "Stock Market Today: Chips Lead Nasdaq's Fierce Rebound, But Meta Bashed",
-      "description": "Stock Market Today: The Dow Jones index rallies with the Nasdaq composite following a Fed Day tumble. Meta stock plunges on earnings.",
-      "url": "https://finance.yahoo.com/m/826969c6-014c-37f9-9ed7-da1bab782e05/stock-market-today%3A-chips.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T20:46:55+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index rallies with the Nasdaq composite following a Fed Day tumble. Meta stock plunges on earnings."
-    },
-    {
-      "title": "Blowout Microsoft results lift US stocks as oil retreats",
-      "description": "Wall Street stocks rebounded Thursday as blowout Microsoft results and moderating oil prices blunted worries about higher US Treasury yields.US Treasury yields remained high on Thursday, but futures markets showed rising confidence that the Fed will hike rates later this year.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/south-korean-stocks-bounce-rout-030639895.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T20:46:54+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Wall Street stocks rebounded Thursday as blowout Microsoft results and moderating oil prices blunted worries about higher US Treasury yields.US Treasury yields remained high on Thursday, but futures m"
-    },
-    {
-      "title": "Update: Nasdaq Composite Snaps 6-Day Slump as Microsoft Soars",
-      "description": "(Updates with market moves at the end of the day.) The Nasdaq Composite surged Thursday, reboundi",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-composite-snaps-6-day-204416812.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T20:44:16+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with market moves at the end of the day.) The Nasdaq Composite surged Thursday, reboundi"
-    },
-    {
       "title": "Tata Steel Q1 net profit beats estimates; approves Rs 33,873 crore capex",
       "description": "Tata Steel's consolidated net profit increased nearly twelve percent year-on-year.  This growth was primarily driven by a robust performance in its Indian market.  The company also announced a substantial capital expenditure for capacity expansion.  Consolidated total revenue for the June quarter ro",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-steel-q1-net-profit-beats-estimates-approves-rs-33873-crore-capex/articleshow/132750129.cms",
@@ -291,6 +371,16 @@
       "published_at": "2026-07-30T20:35:08+00:00",
       "category": "India",
       "simple_explanation": "Tata Steel's consolidated net profit increased nearly twelve percent year-on-year.  This growth was primarily driven by a robust performance in its Indian market.  The company also announced a substan"
+    },
+    {
+      "title": "MicroStrategy Earnings Flip From $10 Billion Profit to $8.2 Billion Loss in 1 Year",
+      "description": "MicroStrategy earnings swung to an $8.22 billion loss, reversing $10.02 billion of profit a year earlier.",
+      "url": "https://beincrypto.com/microstrategy-loss-q2-earnings/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T20:33:35+00:00",
+      "category": "Crypto",
+      "simple_explanation": "MicroStrategy earnings swung to an $8.22 billion loss, reversing $10.02 billion of profit a year earlier."
     },
     {
       "title": "Mahindra Q1 net profit rises 34%, standalone earnings beat estimates",
@@ -311,96 +401,6 @@
       "published_at": "2026-07-30T20:28:16+00:00",
       "category": "Commodities",
       "simple_explanation": "The S&P/TSX Composite Index edged higher on Thursday as gains in base metals and energy stocks outwe"
-    },
-    {
-      "title": "Coinbase Rut Continues With Q2 Miss. Bitcoin, Miners Jump On AI Trade.",
-      "description": "Coinbase stock falls after missing Q2 estimates amid weak crypto market. Bitcoin climbs on Fed news. Miners spike on big tech's AI spending.",
-      "url": "https://finance.yahoo.com/m/2950862b-0579-3f51-903b-c3bc79e3babc/coinbase-rut-continues-with.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T20:20:40+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Coinbase stock falls after missing Q2 estimates amid weak crypto market. Bitcoin climbs on Fed news. Miners spike on big tech's AI spending."
-    },
-    {
-      "title": "Investment strategist a 'big believer' in precious metals, copper",
-      "description": "STORY: Analysts have cut their gold price forecasts for the first time since late 2023 after a sharp pullback ​from January's record highs, a Reuters poll showed, but most still expect support from central ‌bank buying and concerns about fiscal sustainability.\"With the sharp declines that we've had ",
-      "url": "https://finance.yahoo.com/video/investment-strategist-big-believer-precious-201851833.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T20:18:51+00:00",
-      "category": "Commodities",
-      "simple_explanation": "STORY: Analysts have cut their gold price forecasts for the first time since late 2023 after a sharp pullback ​from January's record highs, a Reuters poll showed, but most still expect support from ce"
-    },
-    {
-      "title": "US Equity Markets End Higher on Microsoft's Cloud Gains, Semiconductor Rebound",
-      "description": "US equity indexes ended higher Thursday after Microsoft (MSFT) posted AI-backed gains and semiconduc",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-201704981.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T20:17:04+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity indexes ended higher Thursday after Microsoft (MSFT) posted AI-backed gains and semiconduc"
-    },
-    {
-      "title": "Cathie Wood once said sell gold and buy Bitcoin,  here is whether she got it right",
-      "description": "On February 2, 2026, Cathie Wood said something that turned heads across financial media. The ARK Invest CEO said she would \"make a shift from gold into Bitcoin,\" pointing to a chart showing gold divided by the M2 money supply had hit a record high. Her conclusion was direct. \"Gold is probably ...",
-      "url": "https://www.thestreet.com/crypto/markets/cathie-wood-once-said-sell-gold-and-buy-bitcoin-here-is-whether-she-got-it-right?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T20:16:48+00:00",
-      "category": "Commodities",
-      "simple_explanation": "On February 2, 2026, Cathie Wood said something that turned heads across financial media. The ARK Invest CEO said she would \"make a shift from gold into Bitcoin,\" pointing to a chart showing gold divi"
-    },
-    {
-      "title": "US stocks: Amazon beats estimates for quarterly cloud revenue growth",
-      "description": "Amazon Web Services cloud revenue surged significantly, surpassing market forecasts. This strong performance was fueled by increased enterprise artificial intelligence spending.  Rivals Microsoft and Alphabet's Google also reported solid cloud revenue growth.  Amazon's e-commerce business saw increa",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-amazon-beats-estimates-for-quarterly-cloud-revenue-growth/articleshow/132750040.cms",
-      "image": "https://img.etimg.com/photo/msid-132750040,imgsize-11278.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-30T20:13:05+00:00",
-      "category": "India",
-      "simple_explanation": "Amazon Web Services cloud revenue surged significantly, surpassing market forecasts. This strong performance was fueled by increased enterprise artificial intelligence spending.  Rivals Microsoft and "
-    },
-    {
-      "title": "Tesla Stock Rises. How Microsoft Helped End Its 6-Day Losing Streak.",
-      "description": "Coming into Thursday trading, Tesla stock had dropped for six straight days, losing 21% over that span.",
-      "url": "https://finance.yahoo.com/m/8b715d1c-cf3c-3af0-8e73-a81f434d6ab7/tesla-stock-rises.-how.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T20:13:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Coming into Thursday trading, Tesla stock had dropped for six straight days, losing 21% over that span."
-    },
-    {
-      "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
-      "description": "Jersey Mike's priced its initial public offering at $23 per share.",
-      "url": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-30T20:13:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Jersey Mike's priced its initial public offering at $23 per share."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-30T20:10:16+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "US stocks: US market ends sharply higher, lifted by soaring Microsoft",
-      "description": "Wall Street surged on Thursday, led by chip stocks and Microsoft's strong forecast.  Microsoft's forecast eased investor concerns about massive artificial intelligence infrastructure spending.  Other tech giants like Alphabet and Meta faced pressure from significant AI investment costs.  The PHLX ch",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-sharply-higher-lifted-by-soaring-microsoft/articleshow/132749971.cms",
-      "image": "https://img.etimg.com/photo/msid-132749971,imgsize-1246653.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-30T20:01:57+00:00",
-      "category": "India",
-      "simple_explanation": "Wall Street surged on Thursday, led by chip stocks and Microsoft's strong forecast.  Microsoft's forecast eased investor concerns about massive artificial intelligence infrastructure spending.  Other "
     }
   ]
 }
