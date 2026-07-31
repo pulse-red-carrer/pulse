@@ -1,36 +1,386 @@
 {
-  "last_updated": "2026-07-31T00:01:26.950725+00:00",
+  "last_updated": "2026-07-31T04:22:02.892174+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
-      "description": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
-      "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+      "title": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target",
+      "description": "The decision comes as speculation continues to swirl around whether the Bank of Japan will hike rates at a faster pace.",
+      "url": "https://www.cnbc.com/2026/07/31/boj-rates-yen-intervention-inflation-japan.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-07-31T00:00:37+00:00",
+      "published_at": "2026-07-31T04:19:06+00:00",
       "category": "USA",
-      "simple_explanation": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems."
+      "simple_explanation": "The decision comes as speculation continues to swirl around whether the Bank of Japan will hike rates at a faster pace."
     },
     {
-      "title": "Pre-market action: Here's the trade setup for today's session",
-      "description": "Indian benchmark indices opened flat and traded in a choppy, volatile range. Analysts suggest the index may head towards resistance at 24,500-24,600 levels. The India VIX, measuring market fear, rose 1.2% to settle at 12.16. Foreign portfolio investors and domestic institutions were net buyers of sh",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132752586.cms",
-      "image": "https://img.etimg.com/photo/msid-132752586,imgsize-110060.cms",
+      "title": "CXMT's blockbuster debut in Shanghai sets stage for next test against global memory giants",
+      "description": "The company faces a challenge as it does not have access to the latest extreme ultraviolet, or EUV, lithography machines, essential for manufacturing advanced chips.",
+      "url": "https://www.cnbc.com/2026/07/31/cxmts-sk-hynix-samsung-micron-memory-chip.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-31T04:17:09+00:00",
+      "category": "USA",
+      "simple_explanation": "The company faces a challenge as it does not have access to the latest extreme ultraviolet, or EUV, lithography machines, essential for manufacturing advanced chips."
+    },
+    {
+      "title": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium",
+      "description": "Commonwealth Bank of Australia said in a note on Friday that stronger oil flows through the Strait of Hormuz had eased market concerns after U.S.-Iran strikes earlier this week.",
+      "url": "https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-07-31T04:11:13+00:00",
+      "category": "USA",
+      "simple_explanation": "Commonwealth Bank of Australia said in a note on Friday that stronger oil flows through the Strait of Hormuz had eased market concerns after U.S.-Iran strikes earlier this week."
+    },
+    {
+      "title": "Vedanta share price target: Why brokerages see up to 24% upside after Q1 earnings?",
+      "description": "Vedanta's net profit surged 72% year-on-year to Rs 5,473 crore. EBITDA also jumped 98% to a record Rs 8,469 crore. The company announced Arun Misra as its new CEO, effective August first. Nuvama maintained a buy rating with a target price of Rs 333. Motilal Oswal maintained its Neutral rating on Ved",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-share-price-target-why-brokerages-see-up-to-24-upside-after-q1-earnings/articleshow/132755711.cms",
+      "image": "https://img.etimg.com/photo/msid-132755711,imgsize-1910020.cms",
       "source": "ET Markets",
-      "published_at": "2026-07-30T23:44:59+00:00",
+      "published_at": "2026-07-31T04:10:49+00:00",
       "category": "India",
-      "simple_explanation": "Indian benchmark indices opened flat and traded in a choppy, volatile range. Analysts suggest the index may head towards resistance at 24,500-24,600 levels. The India VIX, measuring market fear, rose "
+      "simple_explanation": "Vedanta's net profit surged 72% year-on-year to Rs 5,473 crore. EBITDA also jumped 98% to a record Rs 8,469 crore. The company announced Arun Misra as its new CEO, effective August first. Nuvama maint"
     },
     {
-      "title": "The Quiet Repricing Of ROAD Stock",
-      "description": "A road builder delivered record growth and a large backlog, yet its stock went nowhere. The market is quietly pricing in a problem that has not yet appeared in the numbers.",
-      "url": "https://www.trefis.com/articles/609485/the-quiet-repricing-of-road-stock-2/2026-07-30?.tsrc=rss",
+      "title": "Swiggy shares plunge 6% even as losses narrow. Should investors buy, sell or accumulate?",
+      "description": "Swiggy shares plunged as much as 6% after the food delivery and quick commerce company reported its June-quarter results. While the consolidated net loss narrowed year-on-year, investors remained cautious over profitability and margin pressures. Brokerages stayed largely positive on the stock, with ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-plunge-6-even-as-losses-narrow-should-investors-buy-sell-or-accumulate/articleshow/132755620.cms",
+      "image": "https://img.etimg.com/photo/msid-132755620,imgsize-1380141.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-31T04:05:16+00:00",
+      "category": "India",
+      "simple_explanation": "Swiggy shares plunged as much as 6% after the food delivery and quick commerce company reported its June-quarter results. While the consolidated net loss narrowed year-on-year, investors remained caut"
+    },
+    {
+      "title": "Bajaj Finance shares rally 5% after Q1 results. What Nomura, Nuvama, other brokerages expect",
+      "description": "Bajaj Finance shares jumped after the NBFC reported a strong Q1 FY27 performance, with standalone net profit rising 28% YoY to Rs 6,081 crore and net interest income growing 23% to Rs 12,571 crore. Robust earnings prompted several brokerages to raise their target prices. The company's assets under m",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-shares-rally-5-after-q1-results-heres-what-nomura-nuvama-other-brokerages-expect/articleshow/132755577.cms",
+      "image": "https://img.etimg.com/photo/msid-132755577,imgsize-2049374.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-31T04:04:55+00:00",
+      "category": "India",
+      "simple_explanation": "Bajaj Finance shares jumped after the NBFC reported a strong Q1 FY27 performance, with standalone net profit rising 28% YoY to Rs 6,081 crore and net interest income growing 23% to Rs 12,571 crore. Ro"
+    },
+    {
+      "title": "M&M shares climb 3% after strong Q1 results. Morgan Stanley sees up to 29% upside scope",
+      "description": "Mahindra & Mahindra shares climbed up to 3% after the automaker reported a 7% year-on-year rise in standalone net profit to Rs 3,685 crore for the June quarter. Revenue from operations surged 23% to Rs 41,920 crore, driven by robust demand. The strong quarterly performance lifted investor sentiment,",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mm-shares-climb-3-after-strong-q1-results-morgan-stanley-sees-up-to-29-upside-scope/articleshow/132755545.cms",
+      "image": "https://img.etimg.com/photo/msid-132755545,imgsize-2151658.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-31T04:02:56+00:00",
+      "category": "India",
+      "simple_explanation": "Mahindra & Mahindra shares climbed up to 3% after the automaker reported a 7% year-on-year rise in standalone net profit to Rs 3,685 crore for the June quarter. Revenue from operations surged 23% to R"
+    },
+    {
+      "title": "Sensex rises over 50 points higher, Nifty above 24,350; Bajaj Finance, M&M among top gainers",
+      "description": "The Indian stock market extended gains on Friday as the Sensex rose 50 points and Nifty crossed 24,350 amid positive global cues. Bajaj Finance and M&M led gainers, while Nifty IT dragged. Strong FII inflows and stable earnings continue supporting market resilience, with technical charts signalling ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-gains-over-50-points-higher-nifty-above-24350-bajaj-finance-mm-among-top-gainers/articleshow/132755138.cms",
+      "image": "https://img.etimg.com/photo/msid-132755138,imgsize-303103.cms",
+      "source": "ET Markets",
+      "published_at": "2026-07-31T04:01:32+00:00",
+      "category": "India",
+      "simple_explanation": "The Indian stock market extended gains on Friday as the Sensex rose 50 points and Nifty crossed 24,350 amid positive global cues. Bajaj Finance and M&M led gainers, while Nifty IT dragged. Strong FII "
+    },
+    {
+      "title": "Meesho among 3 stocks that closed above VWAP, signaling bullish shift",
+      "description": "On July 30, Schneider Electric Infrastructure, Sumitomo Chemical India, and Meesho closed more than 1.5% above their VWAP, signalling strong buying interest and potential bullish momentum, according to StockEdge technical scan data.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/meesho-among-3-stocks-that-closed-above-vwap-signaling-bullish-shift/slideshow/132755218.cms",
+      "image": "https://img.etimg.com/photo/msid-132755175,imgsize-293163.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-31T03:48:53+00:00",
+      "category": "India",
+      "simple_explanation": "On July 30, Schneider Electric Infrastructure, Sumitomo Chemical India, and Meesho closed more than 1.5% above their VWAP, signalling strong buying interest and potential bullish momentum, according t"
+    },
+    {
+      "title": "MV Electrosystems IPO Day 2: Check latest GMP, subscription status, and other details - Apply or not?",
+      "description": "The IPO of MV Electrosystems Ltd., which aims to raise  ₹290 crore, is set to open on July 30. The company, backed by prominent investor Madhuri Kela, has received varying recommendations from brokerages due to past financial performance but shows promise in India's expanding railway sector.",
+      "url": "https://www.livemint.com/market/ipo/mv-electrosystems-ipo-day-2-check-latest-ipo-gmp-ipo-subscription-status-and-other-details-apply-or-not-11785468704924.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/31/1600x900/logo/MV_Electrosystems_IPO__1785469394018_1785469394140_0606a024-5a91-4d10-91e4-43932d43216c.jpeg",
+      "source": "LiveMint",
+      "published_at": "2026-07-31T03:46:26+00:00",
+      "category": "India",
+      "simple_explanation": "The IPO of MV Electrosystems Ltd., which aims to raise  ₹290 crore, is set to open on July 30. The company, backed by prominent investor Madhuri Kela, has received varying recommendations from brokera"
+    },
+    {
+      "title": "Karnataka Bank among 4 stocks flashing bullish signals, hinting at a possible uptrend",
+      "description": "On July 30, StockEdge's White Marubozu scanner identified Sona BLW Precision Forgings, Karnataka Bank, Vedant Fashions, and Sagility, indicating strong buying momentum and sustained bullish sentiment during the trading session.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/karnataka-bank-among-4-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/132755168.cms",
+      "image": "https://img.etimg.com/photo/msid-132755041,imgsize-256544.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-31T03:42:03+00:00",
+      "category": "India",
+      "simple_explanation": "On July 30, StockEdge's White Marubozu scanner identified Sona BLW Precision Forgings, Karnataka Bank, Vedant Fashions, and Sagility, indicating strong buying momentum and sustained bullish sentiment "
+    },
+    {
+      "title": "BOJ keeps rates steady, signals further rate hikes",
+      "description": "The Bank of Japan maintained its interest rates at one percent on Friday.  This decision came after a two-day meeting concluded by the central bank.  One board member voted for a higher rate, seeking a 1.25 percent increase.  Governor Kazuo Ueda will explain the policy decision at a news conference.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/boj-keeps-rates-steady-signals-further-rate-hikes/articleshow/132754999.cms",
+      "image": "https://img.etimg.com/photo/msid-132754999,imgsize-139946.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-31T03:39:43+00:00",
+      "category": "India",
+      "simple_explanation": "The Bank of Japan maintained its interest rates at one percent on Friday.  This decision came after a two-day meeting concluded by the central bank.  One board member voted for a higher rate, seeking "
+    },
+    {
+      "title": "Gold and silver prices fall on MCX amid a stronger dollar, escalating US-Iran conflict",
+      "description": "MCX gold August futures fell 0.50% to  ₹1,42,547 per 10 grams, while MCX silver September contracts declined 0.40% to   ₹2,19,117 per kg in morning deals.",
+      "url": "https://www.livemint.com/market/commodities/gold-and-silver-prices-fall-on-mcx-amid-a-stronger-dollar-escalating-us-iran-conflict-11785468795874.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/31/1600x900/logo/rows-gold-silver-bars-stacked_1772093462975_1772093470773_1785468879628_5455fddb-03bd-4cb7-b008-07b27a8183cd.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-31T03:39:39+00:00",
+      "category": "India",
+      "simple_explanation": "MCX gold August futures fell 0.50% to  ₹1,42,547 per 10 grams, while MCX silver September contracts declined 0.40% to   ₹2,19,117 per kg in morning deals."
+    },
+    {
+      "title": "MV Electrosystems IPO Day 2: GMP jumps, indicating 30% listing gains; issue subscribed 3.64 times. Apply or skip?",
+      "description": "The Rs 290-crore MV Electrosystems IPO entered Day 2 with a GMP suggesting 30% listing gains. Subscribed 3.64 times on Day 1 with strong retail interest, the issue faces concerns over FY26 net losses and revenue decline, prompting Swastika Investmart to assign an Avoid rating despite grey market opt",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/mv-electrosystems-ipo-day-2-gmp-jumps-indicating-30-listing-gains-issue-subscribed-3-64-times-apply-or-skip/articleshow/132754989.cms",
+      "image": "https://img.etimg.com/photo/msid-132754989,imgsize-1555749.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-31T03:39:05+00:00",
+      "category": "India",
+      "simple_explanation": "The Rs 290-crore MV Electrosystems IPO entered Day 2 with a GMP suggesting 30% listing gains. Subscribed 3.64 times on Day 1 with strong retail interest, the issue faces concerns over FY26 net losses "
+    },
+    {
+      "title": "Silverstorm Parks & Resorts IPO set for BSE SME debut; Grey market signals mild listing upside",
+      "description": "Silverstorm Parks & Resorts shares debut on the BSE SME platform this Friday. Grey market trends suggest the listing will be above the issue price. The company raised Rs 82.43 crore through its recent IPO. Funds will support business expansion and infrastructure development projects. Strong financia",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/silverstorm-parks-resorts-ipo-set-for-bse-sme-debut-grey-market-signals-mild-listing-upside/articleshow/132754856.cms",
+      "image": "https://img.etimg.com/photo/msid-132754856,imgsize-1761256.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-31T03:36:00+00:00",
+      "category": "India",
+      "simple_explanation": "Silverstorm Parks & Resorts shares debut on the BSE SME platform this Friday. Grey market trends suggest the listing will be above the issue price. The company raised Rs 82.43 crore through its recent"
+    },
+    {
+      "title": "Rupee jumps 29 paise to open at three-week high of 95.39 against US dollar",
+      "description": "The Indian rupee rose by 29 paise to 95.39 against the US dollar on July 31, driven by the dollar's decline, crude oil price easing, and RBI's support. The rupee has gained 0.9% this week, outperforming other Asian currencies amid ongoing RBI interventions.",
+      "url": "https://www.livemint.com/market/rupee-jumps-29-paise-to-open-at-three-week-high-of-95-39-against-us-dollar-11785468814137.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/31/1600x900/logo/8th_pay_commission_faq_money_da_salary_hikes_17523_1785468877022_1785468877205_1825fd8f-9b7c-41da-8566-c322c2763403.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-31T03:35:16+00:00",
+      "category": "India",
+      "simple_explanation": "The Indian rupee rose by 29 paise to 95.39 against the US dollar on July 31, driven by the dollar's decline, crude oil price easing, and RBI's support. The rupee has gained 0.9% this week, outperformi"
+    },
+    {
+      "title": "FPIs return after four-month exodus, but is the worst really over?",
+      "description": "Overseas investors snapped a four-month selling spree in July by pouring  ₹9,613 crore into Indian equities. Experts view the shift as tactical repositioning rather than a structural return, even as strong domestic inflows absorb global volatility.",
+      "url": "https://www.livemint.com/market/stock-market-news/fpi-foreign-portfolio-investors-nsdl-dii-domestic-institutional-investors-sensex-indian-equities-foreign-inflows-11785421850762.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/31/1600x900/logo/INDIA-CENBANK-CURRENT-ACCOUNT-0_1735740212996_1785465005356_b79ee441-2cf2-472c-8011-6d10f4dd02ec.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-07-31T03:32:31+00:00",
+      "category": "India",
+      "simple_explanation": "Overseas investors snapped a four-month selling spree in July by pouring  ₹9,613 crore into Indian equities. Experts view the shift as tactical repositioning rather than a structural return, even as s"
+    },
+    {
+      "title": "ICRA Q1 Results: Profit rises 32% YoY to Rs 56 crore",
+      "description": "ICRA Ltd reported a 32 percent net profit increase for the first quarter.  Revenue from operations also saw a significant 31.2 percent year-on-year rise.  Healthy growth in ratings and sustained momentum in risk and analytics supported performance.  Demand in industries and NBFC segments drove ratin",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/icra-q1-results-profit-rises-32-yoy-to-rs-56-crore/articleshow/132754836.cms",
+      "image": "https://img.etimg.com/photo/msid-132754836,imgsize-23692.cms",
+      "source": "Economic Times",
+      "published_at": "2026-07-31T03:31:51+00:00",
+      "category": "India",
+      "simple_explanation": "ICRA Ltd reported a 32 percent net profit increase for the first quarter.  Revenue from operations also saw a significant 31.2 percent year-on-year rise.  Healthy growth in ratings and sustained momen"
+    },
+    {
+      "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 31 July 2026",
+      "description": "The Indian stock market is expected to open flat-to-positive, reflecting global cues. Nifty 50, Sensex showed gains in the previous session, with significant support and resistance levels outlined by analysts. Stocks recommended for purchase are Sona BLW Precision, Alkem Laboratories, and RBL Bank.",
+      "url": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-31-july-2026-11785466975272.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/31/1600x900/logo/Chandan_Taparia_1715614105669_1785468417725_7f417967-72ea-47b4-80ee-8dfa633311ef.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-07-31T03:29:22+00:00",
+      "category": "India",
+      "simple_explanation": "The Indian stock market is expected to open flat-to-positive, reflecting global cues. Nifty 50, Sensex showed gains in the previous session, with significant support and resistance levels outlined by "
+    },
+    {
+      "title": "Stocks to buy for short term: Ajit Mishra of Religare Broking recommends 3 shares for next 1-2 weeks",
+      "description": "Ajit Mishra from Religare Broking highlights three stocks poised for gains in the short term. Supported by strong technical setups and renewed market interest, these picks offer investors fresh opportunities amid volatile market conditions.",
+      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-hero-moto-pfc-indian-hotels-ajit-mishra-of-religare-broking-recommends-3-shares-11785466732181.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/31/1600x900/logo/Ajit_Mishra_1735172296883_1785466901651_e533496d-8e0d-41a8-b2a3-90b4de492a22.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-07-31T03:22:06+00:00",
+      "category": "India",
+      "simple_explanation": "Ajit Mishra from Religare Broking highlights three stocks poised for gains in the short term. Supported by strong technical setups and renewed market interest, these picks offer investors fresh opport"
+    },
+    {
+      "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
+      "description": "The stock market jumped Thursday as Microsoft powered a big AI rebound. Apple and Amazon led earnings late.",
+      "url": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-07-30T23:38:48+00:00",
+      "published_at": "2026-07-31T03:04:56+00:00",
       "category": "USA",
-      "simple_explanation": "A road builder delivered record growth and a large backlog, yet its stock went nowhere. The market is quietly pricing in a problem that has not yet appeared in the numbers."
+      "simple_explanation": "The stock market jumped Thursday as Microsoft powered a big AI rebound. Apple and Amazon led earnings late."
+    },
+    {
+      "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
+      "description": "Coinkite urged Coldcard Mk3 users to migrate funds after identifying a potential seed-generation risk, as Bitcoin security experts separately examine an unexplained $38 million wallet drain.",
+      "url": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/thief-bitcoin.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-31T02:38:09+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Coinkite urged Coldcard Mk3 users to migrate funds after identifying a potential seed-generation risk, as Bitcoin security experts separately examine an unexplained $38 million wallet drain."
+    },
+    {
+      "title": "Bitcoin, Ethereum Spike, XRP and Dogecoin Climb Amid Sharp Crypto Recovery: Analyst Says 'Don't Fear' BTC Dropping to $60,000",
+      "description": "Leading cryptocurrencies staged a sharp recovery alongside stocks on Thursday, reversing a Federal Reserve-driven sell-off the day before. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.16%$65,112.78Ethereum (CRYPTO: ETH) +1.31%$1,929.21XRP (CRYPTO: XRP) +1.4",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-spike-xrp-dogecoin-021729869.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-31T02:17:29+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Leading cryptocurrencies staged a sharp recovery alongside stocks on Thursday, reversing a Federal Reserve-driven sell-off the day before. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:25 p.m. E"
+    },
+    {
+      "title": "Cathie Wood buys $14.3 million of tumbling semiconductor stock",
+      "description": "Cathie Wood, chief of Ark Investment Management, often buys her highest-conviction stocks during sharp pullbacks. That's exactly what she's doing with Nvidia (NVDA), adding more shares after the semiconductor giant fell more than 6% over the past five trading days. In 2025, the flagship Ark ...",
+      "url": "https://www.thestreet.com/investing/cathie-wood-buys-14-3-million-of-tumbling-semiconductor-stock-nvidia-nvda?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-31T02:07:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Cathie Wood, chief of Ark Investment Management, often buys her highest-conviction stocks during sharp pullbacks. That's exactly what she's doing with Nvidia (NVDA), adding more shares after the semic"
+    },
+    {
+      "title": "PayPal's $17 Billion Bet Against Wall Street",
+      "description": "A large bet on its own shares has so far been a losing one, creating a quiet standoff between management's conviction and the market's deep-seated skepticism.",
+      "url": "https://www.trefis.com/articles/609491/paypals-17-billion-bet-against-wall-street/2026-07-30?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-31T01:40:53+00:00",
+      "category": "USA",
+      "simple_explanation": "A large bet on its own shares has so far been a losing one, creating a quiet standoff between management's conviction and the market's deep-seated skepticism."
+    },
+    {
+      "title": "Dow, S&P 500, Nasdaq Futures Extend Rally As Big Tech Earnings Revive AI Trade: AMZN, AAPL, NBIS, RDDT In Focus",
+      "description": "Despite multiple sessions in the red, all three benchmark indexes are on track to close higher this week.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-extend-rally-as-big-tech-earnings-revive-ai-trade-amzn-aapl-nbis-rddt-in-focus/cZNEr73RJ2i?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-31T01:35:45+00:00",
+      "category": "USA",
+      "simple_explanation": "Despite multiple sessions in the red, all three benchmark indexes are on track to close higher this week."
+    },
+    {
+      "title": "Oil industry sees war windfall but girds for political blowback",
+      "description": "US oil giants are set to report blowout profits Friday at a time when lofty gasoline prices are stressing consumers and exacerbating President Donald Trump's worries about upcoming midterm elections.Lowering gasoline prices before November is high on Trump's priority list, prompting numerous White H",
+      "url": "https://finance.yahoo.com/energy/articles/oil-industry-sees-war-windfall-012840618.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-31T01:28:40+00:00",
+      "category": "Commodities",
+      "simple_explanation": "US oil giants are set to report blowout profits Friday at a time when lofty gasoline prices are stressing consumers and exacerbating President Donald Trump's worries about upcoming midterm elections.L"
+    },
+    {
+      "title": "Blackbuck Ltd (NSE:BLACKBUCK) (Q1 2027) Earnings Call Highlights: Record Telematics Sales and ...",
+      "description": "Despite macro headwinds in April, the company posted strong profitability with 60-85% of revenue growth converting into EBITDA.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blackbuck-ltd-nse-blackbuck-q1-010225603.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-31T01:02:25+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Despite macro headwinds in April, the company posted strong profitability with 60-85% of revenue growth converting into EBITDA."
+    },
+    {
+      "title": "CVR Energy Inc (CVI) (Q2 2026) Earnings Call Highlights: Strong Operational Performance Drives ...",
+      "description": "Robust crude and ammonia plant utilization, coupled with elevated crack spreads, fuel significant year-over-year growth across both petroleum and fertilizer segments.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cvr-energy-inc-cvi-q2-010108264.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-31T01:01:08+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Robust crude and ammonia plant utilization, coupled with elevated crack spreads, fuel significant year-over-year growth across both petroleum and fertilizer segments."
+    },
+    {
+      "title": "South Korea’s Kospi index jumps more than 16% on a surge of chipmaking stocks",
+      "description": "South Korea’s Kospi index jumped more than 16% on Friday, tracking gains on Wall Street as artificial intelligence-related stocks bounced back after losses earlier this week.  U.S. futures edged higher and oil prices rose.  Shares of South Korean technology giant Samsung Electronics surged 21%, whil",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/south-korea-kospi-index-jumps-004921141.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-31T00:49:21+00:00",
+      "category": "Commodities",
+      "simple_explanation": "South Korea’s Kospi index jumped more than 16% on Friday, tracking gains on Wall Street as artificial intelligence-related stocks bounced back after losses earlier this week.  U.S. futures edged highe"
+    },
+    {
+      "title": "RSP Nears $100 Billion as Equal Weight Finally Has Its Year",
+      "description": "The Invesco S&P 500 Equal Weight ETF is closing in on a milestone it has never hit, helped by a rare stretch of the megacaps lagging the rest of the market.",
+      "url": "http://www.etf.com/sections/features/rsp-nears-100-billion-equal-weight-finally-has-its-year?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-31T00:45:28+00:00",
+      "category": "USA",
+      "simple_explanation": "The Invesco S&P 500 Equal Weight ETF is closing in on a milestone it has never hit, helped by a rare stretch of the megacaps lagging the rest of the market."
+    },
+    {
+      "title": "Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury",
+      "description": "3iQ will manage an undisclosed portion of Gelephu Mindfulness City’s Bitcoin treasury as Bhutan develops a digital-asset investment hub.",
+      "url": "https://cointelegraph.com/news/bhutan-gelephu-3iq-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-bhutan-is-building-a-green-bitcoin-economy-from-the-ground-up.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-07-31T00:31:21+00:00",
+      "category": "Crypto",
+      "simple_explanation": "3iQ will manage an undisclosed portion of Gelephu Mindfulness City’s Bitcoin treasury as Bhutan develops a digital-asset investment hub."
+    },
+    {
+      "title": "Why Bristol Myers Squibb Stock Topped the Market on Thursday",
+      "description": "It notched convincing beats on analyst estimates with its second-quarter performance.",
+      "url": "https://www.fool.com/investing/2026/07/30/why-bristol-myers-squibb-stock-topped-the-market-o/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-31T00:25:29+00:00",
+      "category": "USA",
+      "simple_explanation": "It notched convincing beats on analyst estimates with its second-quarter performance."
+    },
+    {
+      "title": "Austral Gold Files Q2 2026 Quarterly Activities Report",
+      "description": "Sydney, Australia--(Newsfile Corp. - July 30, 2026) - Established gold producer Austral Gold Limited (ASX: AGD) (TSXV: AGLD) (OTCQB: AGLDF) (Austral or the Company) is pleased to announce that it has filed its Q2 2026 Quarterly Activities Report. The complete Report is available under the Company's ",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/austral-gold-files-q2-2026-002000520.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-31T00:20:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Sydney, Australia--(Newsfile Corp. - July 30, 2026) - Established gold producer Austral Gold Limited (ASX: AGD) (TSXV: AGLD) (OTCQB: AGLDF) (Austral or the Company) is pleased to announce that it has "
+    },
+    {
+      "title": "Buenaventura Announces Second Quarter 2026 Results",
+      "description": "LIMA, Peru, July 31, 2026--Compañia de Minas Buenaventura S.A.A. (\"Buenaventura\" or \"the Company\") (NYSE: BVN; Lima Stock Exchange: BUE.LM), Peru’s largest publicly-traded precious metals mining company, today announced results for the second quarter (2Q26) ended June 30, 2026. All figures have been",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buenaventura-announces-second-quarter-2026-001600944.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-31T00:16:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "LIMA, Peru, July 31, 2026--Compañia de Minas Buenaventura S.A.A. (\"Buenaventura\" or \"the Company\") (NYSE: BVN; Lima Stock Exchange: BUE.LM), Peru’s largest publicly-traded precious metals mining compa"
+    },
+    {
+      "title": "Tokyo CPI rises in July, core inflation nears BOJ target on energy costs, weak yen",
+      "description": "Investing.com-- Consumer inflation in Japan’s capital rose in July, with core prices coming in sight of the Bank of Japan’s target range amid high energy prices and rising import costs due to a weak yen.",
+      "url": "https://finance.yahoo.com/economy/policy/articles/tokyo-cpi-rises-july-core-001515334.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-31T00:15:15+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Investing.com-- Consumer inflation in Japan’s capital rose in July, with core prices coming in sight of the Bank of Japan’s target range amid high energy prices and rising import costs due to a weak y"
+    },
+    {
+      "title": "Review & Preview: Microsoft’s $450 Billion Cushion",
+      "description": "Massive single-day market cap gains prove once again that a few heavyweights can carry the entire market on their back.",
+      "url": "https://finance.yahoo.com/m/c1dc67b6-9756-3152-b922-6b9e162ae5b5/review-%26-preview%3A-microsoft%E2%80%99s.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T23:55:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Massive single-day market cap gains prove once again that a few heavyweights can carry the entire market on their back."
+    },
+    {
+      "title": "Ora Banda Mining expands Little Gem gold footprint with high-grade Sapphire and Gem lode hits",
+      "description": "Ora Banda Mining Ltd (ASX:OBM, OTC:ESGFF, FRA:M6N) has significantly expanded the mineralised footprint at its high-grade Little Gem Prospect in Western Australia, with drilling extending the newly discovered Sapphire lodes across more than 2.6 kilometres of strike while delivering further...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1096324/ora-banda-mining-expands-little-gem-gold-footprint-with-high-grade-sapphire-and-gem-lode-hits-1096324.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-30T23:50:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Ora Banda Mining Ltd (ASX:OBM, OTC:ESGFF, FRA:M6N) has significantly expanded the mineralised footprint at its high-grade Little Gem Prospect in Western Australia, with drilling extending the newly di"
     },
     {
       "title": "Small Cap Watch: Explorers and developers advance key programs during June quarter",
@@ -43,26 +393,6 @@
       "simple_explanation": "The S&P/ASX Small Ordinaries Index (ASX) fell 57.70 points, or 1.73%, yesterday to close at 3,268.80. The index is now down 60.20 points, or 1.81%, over the past five trading sessions. Despite the bro"
     },
     {
-      "title": "Bitcoin Slides as Investors Fret Over Prospect of Higher Rates",
-      "description": "Bitcoin tumbled as concerns over the possibility of higher interest rates weighed on risk sentiment, prompting investors to pull back from digital assets.",
-      "url": "https://www.livemint.com/market/bitcoin-slides-as-investors-fret-over-prospect-of-higher-rates-11785454424538.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-07-30T23:33:44+00:00",
-      "category": "India",
-      "simple_explanation": "Bitcoin tumbled as concerns over the possibility of higher interest rates weighed on risk sentiment, prompting investors to pull back from digital assets."
-    },
-    {
-      "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
-      "description": "The stock market jumped Thursday as Microsoft powered a big AI rebound. Apple and Amazon led earnings late.",
-      "url": "https://finance.yahoo.com/m/410b5188-fada-3c74-b2e7-6fb6f4fcea6e/dow-jones-futures%3A-apple%2C.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T23:33:17+00:00",
-      "category": "USA",
-      "simple_explanation": "The stock market jumped Thursday as Microsoft powered a big AI rebound. Apple and Amazon led earnings late."
-    },
-    {
       "title": "Ripple (XRP) Price Prediction: Analyst Predicts XRP Will Reach $1,000",
       "description": "One analyst on X built a detailed case for XRP reaching four figures, and the math behind his collateral thesis is more serious than the price target makes it sound.",
       "url": "https://247wallst.com/investing/cryptocurrency/2026/07/30/ripple-xrp-price-prediction-analyst-predicts-xrp-will-reach-1000/?.tsrc=rss",
@@ -71,336 +401,6 @@
       "published_at": "2026-07-30T23:30:24+00:00",
       "category": "Commodities",
       "simple_explanation": "One analyst on X built a detailed case for XRP reaching four figures, and the math behind his collateral thesis is more serious than the price target makes it sound."
-    },
-    {
-      "title": "Oil on Pace for 21% Monthly Rally as US-Iran War Strains Supply",
-      "description": "Oil steadied at the end of a volatile week, with prices on track for the biggest monthly gain since March as the US-Iran war escalated.",
-      "url": "https://www.livemint.com/market/oil-on-pace-for-21-monthly-rally-as-us-iran-war-strains-supply-11785453933062.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-      "source": "LiveMint",
-      "published_at": "2026-07-30T23:25:32+00:00",
-      "category": "India",
-      "simple_explanation": "Oil steadied at the end of a volatile week, with prices on track for the biggest monthly gain since March as the US-Iran war escalated."
-    },
-    {
-      "title": "Strategy misses Q2 earnings estimates by a wide margin",
-      "description": "Michael Saylor’s Strategy (Nasdaq: MSTR) reported an $8.22 billion net loss for the second quarter of 2026 on July 30, as falling Bitcoin prices reduced the value of its holdings. The company posted a diluted loss of $24.45 per share, compared with analysts’ estimate for a loss of $2.19 ...",
-      "url": "https://www.thestreet.com/crypto/markets/strategy-misses-q2-earnings-estimates-by-a-wide-margin?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T23:18:19+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Michael Saylor’s Strategy (Nasdaq: MSTR) reported an $8.22 billion net loss for the second quarter of 2026 on July 30, as falling Bitcoin prices reduced the value of its holdings. The company posted a"
-    },
-    {
-      "title": "Agnico Eagle Mines Ltd (AEM) (Q2 2026) Earnings Call Highlights: Record Free Cash Flow and ...",
-      "description": "Agnico Eagle Mines Ltd (AEM) posts record free cash flow of $1.3 billion and gold production above budget, while navigating a pit wall slide and safety incidents.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-ltd-aem-230054806.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T23:00:54+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Agnico Eagle Mines Ltd (AEM) posts record free cash flow of $1.3 billion and gold production above budget, while navigating a pit wall slide and safety incidents."
-    },
-    {
-      "title": "How China Became the Ultimate Swing Oil Buyer",
-      "description": "China's future buying will be critical for oil prices, with imports rebounding recently but renewed tensions in Hormuz and the Red Sea—and higher oil prices—likely to determine whether demand strengthens or weakens in the months ahead.",
-      "url": "https://finance.yahoo.com/energy/articles/china-became-ultimate-swing-oil-230000808.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T23:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "China's future buying will be critical for oil prices, with imports rebounding recently but renewed tensions in Hormuz and the Red Sea—and higher oil prices—likely to determine whether demand strength"
-    },
-    {
-      "title": "Wall Street ends sharply higher, lifted by soaring Microsoft",
-      "description": "STORY: U.S. stocks ended sharply higher on Thursday, with the Dow gaining more than one percent, the S&P 500 climbing one-and-two-thirds percent and the Nasdaq rallying more than two-and-three-quarters percent.:: MicrosoftShares of Microsoft soared more than 15% to log their biggest daily percentage",
-      "url": "https://finance.yahoo.com/video/wall-street-ends-sharply-higher-224515470.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T22:45:15+00:00",
-      "category": "USA",
-      "simple_explanation": "STORY: U.S. stocks ended sharply higher on Thursday, with the Dow gaining more than one percent, the S&P 500 climbing one-and-two-thirds percent and the Nasdaq rallying more than two-and-three-quarter"
-    },
-    {
-      "title": "The biggest myth about the S&P 500 run just got debunked",
-      "description": "The S&P 500 has spent much of the year under scrutiny as elevated valuations and signs of overextension fueled expectations of a market correction. After the index broke through 7,000 for the first time and kept climbing to new records, those fears intensified across financial media. The ...",
-      "url": "https://www.thestreet.com/investing/sp-500-putnam-earnings-drove-rally-volatility-2026?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T22:33:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The S&P 500 has spent much of the year under scrutiny as elevated valuations and signs of overextension fueled expectations of a market correction. After the index broke through 7,000 for the first ti"
-    },
-    {
-      "title": "Amazon & Apple Beat Earnings, Head Separate Ways",
-      "description": "Despite plenty of uncertainty on some of the bigger economic issues, Q2 earnings season rolls along quite successfully to this point.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-apple-beat-earnings-head-223100755.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T22:31:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Despite plenty of uncertainty on some of the bigger economic issues, Q2 earnings season rolls along quite successfully to this point."
-    },
-    {
-      "title": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
-      "description": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
-      "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-30T22:28:58+00:00",
-      "category": "USA",
-      "simple_explanation": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves."
-    },
-    {
-      "title": "Reddit shares sink 11% on 'choppy' search referrals even as results blow past estimates",
-      "description": "Reddit reported second-quarter earnings that beat on the top and the bottom, and gave a revenue forecast that topped estimates.",
-      "url": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-30T22:28:38+00:00",
-      "category": "USA",
-      "simple_explanation": "Reddit reported second-quarter earnings that beat on the top and the bottom, and gave a revenue forecast that topped estimates."
-    },
-    {
-      "title": "Why Ralph Lauren (RL) Outpaced the Stock Market Today",
-      "description": "In the closing of the recent trading day, Ralph Lauren (RL) stood at $385.91, denoting a +2.72% move from the preceding trading day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ralph-lauren-rl-outpaced-221503081.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T22:15:03+00:00",
-      "category": "USA",
-      "simple_explanation": "In the closing of the recent trading day, Ralph Lauren (RL) stood at $385.91, denoting a +2.72% move from the preceding trading day."
-    },
-    {
-      "title": "Phillips 66 (PSX) Outpaces Stock Market Gains: What You Should Know",
-      "description": "Phillips 66 (PSX) closed the most recent trading day at $210.6, moving +1.83% from the previous trading session.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-outpaces-stock-221503114.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T22:15:03+00:00",
-      "category": "USA",
-      "simple_explanation": "Phillips 66 (PSX) closed the most recent trading day at $210.6, moving +1.83% from the previous trading session."
-    },
-    {
-      "title": "Copart, Inc. (CPRT) Stock Sinks As Market Gains: Here's Why",
-      "description": "The latest trading day saw Copart, Inc. (CPRT) settling at $29.57, representing a -4.07% change from its previous close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/copart-inc-cprt-stock-sinks-221502161.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T22:15:02+00:00",
-      "category": "USA",
-      "simple_explanation": "The latest trading day saw Copart, Inc. (CPRT) settling at $29.57, representing a -4.07% change from its previous close."
-    },
-    {
-      "title": "Crescent Energy (CRGY) Gains But Lags Market: What You Should Know",
-      "description": "Crescent Energy (CRGY) closed the most recent trading day at $11.17, moving +1.09% from the previous trading session.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-crgy-gains-lags-221502391.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T22:15:02+00:00",
-      "category": "USA",
-      "simple_explanation": "Crescent Energy (CRGY) closed the most recent trading day at $11.17, moving +1.09% from the previous trading session."
-    },
-    {
-      "title": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
-      "description": "The latest China Beige Book study found factory activity decelerated in July.",
-      "url": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-30T22:01:01+00:00",
-      "category": "USA",
-      "simple_explanation": "The latest China Beige Book study found factory activity decelerated in July."
-    },
-    {
-      "title": "Middle East Oil Shock Could Hand Upstream Sector a $495 Billion Windfall",
-      "description": "Wood Mackenzie now expects the global upstream oil and gas sector to generate $495 billion in free cash flow in 2026 if Brent averages $90 per barrel.",
-      "url": "https://finance.yahoo.com/energy/articles/middle-east-oil-shock-could-220000904.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T22:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Wood Mackenzie now expects the global upstream oil and gas sector to generate $495 billion in free cash flow in 2026 if Brent averages $90 per barrel."
-    },
-    {
-      "title": "US Senators sent revised ethics rules to White House for CLARITY Act: Report",
-      "description": "The window to pass a comprehensive crypto market structure bill before the Senate breaks for a month-long recess is closing, with ethics a dividing issue for many lawmakers.",
-      "url": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/white-house-crypto3.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-30T21:54:38+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The window to pass a comprehensive crypto market structure bill before the Senate breaks for a month-long recess is closing, with ethics a dividing issue for many lawmakers."
-    },
-    {
-      "title": "Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses",
-      "description": "The Bitcoin treasury company said it has built a $3.75 billion cash reserve to support preferred stock payouts following the launch of its BTC monetization program.",
-      "url": "https://cointelegraph.com/news/strategy-reports-q2-2026-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/regulation-office-document-paper-strategyb.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-30T21:36:39+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The Bitcoin treasury company said it has built a $3.75 billion cash reserve to support preferred stock payouts following the launch of its BTC monetization program."
-    },
-    {
-      "title": "Amazon hikes 2026 capex to $220 billion due to higher memory costs",
-      "description": "AWS sales expanded 37% year over year, which trounced analysts' expectations for 31% growth.",
-      "url": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-30T21:31:31+00:00",
-      "category": "USA",
-      "simple_explanation": "AWS sales expanded 37% year over year, which trounced analysts' expectations for 31% growth."
-    },
-    {
-      "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
-      "description": "Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.",
-      "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-07-30T21:29:19+00:00",
-      "category": "USA",
-      "simple_explanation": "Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter."
-    },
-    {
-      "title": "Why Strategy Earnings Are an Afterthought for MSTR Stock",
-      "description": "The world’s largest corporate holder of Bitcoin says it is navigating a period of “muted Bitcoin sentiment and market skepticism.”",
-      "url": "https://finance.yahoo.com/m/a7e8fd93-2c44-3c95-ac64-abccb7018802/why-strategy-earnings-are-an.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T21:21:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The world’s largest corporate holder of Bitcoin says it is navigating a period of “muted Bitcoin sentiment and market skepticism.”"
-    },
-    {
-      "title": "Yen Surges as Nikkei Says Japan Intervened in Market Again",
-      "description": "The yen soared by the most in more than two years against the US dollar, with Japan’s Nikkei newspaper reporting that officials stepped in once again to try and prop up the nation’s sagging currency.",
-      "url": "https://www.livemint.com/market/yen-surges-as-nikkei-says-japan-intervened-in-market-again-11785446408826.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-      "source": "LiveMint",
-      "published_at": "2026-07-30T21:20:08+00:00",
-      "category": "India",
-      "simple_explanation": "The yen soared by the most in more than two years against the US dollar, with Japan’s Nikkei newspaper reporting that officials stepped in once again to try and prop up the nation’s sagging currency."
-    },
-    {
-      "title": "Aris Mining Files WKSI Base Shelf Prospectus",
-      "description": "VANCOUVER, British Columbia, July 30, 2026--Aris Mining Corporation (Aris Mining or the Company) (TSX: ARIS; NYSE: ARIS) announces that it has filed a well-known seasoned issuer (WKSI) base shelf prospectus in Canada and a related registration statement on Form F-10 with the U.S. Securities and Exch",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aris-mining-files-wksi-shelf-211500265.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T21:15:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "VANCOUVER, British Columbia, July 30, 2026--Aris Mining Corporation (Aris Mining or the Company) (TSX: ARIS; NYSE: ARIS) announces that it has filed a well-known seasoned issuer (WKSI) base shelf pros"
-    },
-    {
-      "title": "World Cup generated $20B in blockchain prediction market volume: Chainalysis",
-      "description": "The blockchain analytics firm said the World Cup attracted global participation in prediction markets and digital collectibles, with more than 400,000 wallets placing blockchain-based bets.",
-      "url": "https://cointelegraph.com/news/world-cup-generated-20b-prediction-market-volume-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-nft-at-the-fifa-world-cup-1.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-30T21:04:59+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The blockchain analytics firm said the World Cup attracted global participation in prediction markets and digital collectibles, with more than 400,000 wallets placing blockchain-based bets."
-    },
-    {
-      "title": "Bajaj Finance Ltd (BOM:500034) (Q1 2027) Earnings Call Highlights: Record Customer Additions ...",
-      "description": "Bajaj Finance Ltd (BOM:500034) reports a 28% profit surge and record 5 million customer additions, while management signals caution on revising FY27 guidance despite broad-based growth.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bajaj-finance-ltd-bom-500034-210105931.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T21:01:05+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Bajaj Finance Ltd (BOM:500034) reports a 28% profit surge and record 5 million customer additions, while management signals caution on revising FY27 guidance despite broad-based growth."
-    },
-    {
-      "title": "Eldorado Gold Reports Solid Q2 2026 Financial and Operational Results; Skouries On Track for Q3 2026",
-      "description": "(All amounts expressed in U.S. dollars unless otherwise noted) VANCOUVER, British Columbia, July 30, 2026 (GLOBE NEWSWIRE) -- Eldorado Gold Corporation (“Eldorado”, \"Eldorado Gold\" or “the Company”) (TSX: ELD) (NYSE: EGO) today reports the Company’s financial and operational results for the second q",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/eldorado-gold-reports-solid-q2-210000742.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T21:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(All amounts expressed in U.S. dollars unless otherwise noted) VANCOUVER, British Columbia, July 30, 2026 (GLOBE NEWSWIRE) -- Eldorado Gold Corporation (“Eldorado”, \"Eldorado Gold\" or “the Company”) ("
-    },
-    {
-      "title": "Coinbase Q2 Earnings Miss Drags COIN Lower as Losses Hit 3rd Quarter",
-      "description": "Coinbase missed Q2 revenue estimates and posted a $359.5M loss, sending COIN lower even as market share hit a record.",
-      "url": "https://beincrypto.com/coinbase-revenue-coin-stock/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T20:56:44+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Coinbase missed Q2 revenue estimates and posted a $359.5M loss, sending COIN lower even as market share hit a record."
-    },
-    {
-      "title": "Strategy shares edge lower after bitcoin losses drive Q2 miss",
-      "description": "Investing.com --Strategy Inc (NASDAQ:MSTR) reported a net loss of $24.45 per share for the second quarter ended June 30, compared to earnings of $32.60 per share in the same period last year, as unrealized losses on its bitcoin holdings weighed on results. Revenue rose 6.9% YoY to $122.4 million, ma",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-shares-edge-lower-bitcoin-205423508.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T20:54:23+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Investing.com --Strategy Inc (NASDAQ:MSTR) reported a net loss of $24.45 per share for the second quarter ended June 30, compared to earnings of $32.60 per share in the same period last year, as unrea"
-    },
-    {
-      "title": "Fitch’s Private Credit Default Rate Hit Record in Second Quarter",
-      "description": "The default rate across 1,300 US private debt borrowers tracked by Fitch Ratings rose to a record high in the second quarter, according to a report released Thursday.",
-      "url": "https://www.livemint.com/market/fitchs-private-credit-default-rate-hit-record-in-second-quarter-11785444493938.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-      "source": "LiveMint",
-      "published_at": "2026-07-30T20:48:13+00:00",
-      "category": "India",
-      "simple_explanation": "The default rate across 1,300 US private debt borrowers tracked by Fitch Ratings rose to a record high in the second quarter, according to a report released Thursday."
-    },
-    {
-      "title": "Coinbase Q2 profit misses estimates despite record crypto market share",
-      "description": "The crypto exchange blamed softer spot trading and low volatility for the earnings miss while highlighting growth in derivatives, stablecoins and tokenized finance.",
-      "url": "https://cointelegraph.com/markets/coinbase-q2-earnings-record-crypto-market-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/news-coin-coinbase.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-07-30T20:47:27+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The crypto exchange blamed softer spot trading and low volatility for the earnings miss while highlighting growth in derivatives, stablecoins and tokenized finance."
-    },
-    {
-      "title": "Tata Steel Q1 net profit beats estimates; approves Rs 33,873 crore capex",
-      "description": "Tata Steel's consolidated net profit increased nearly twelve percent year-on-year.  This growth was primarily driven by a robust performance in its Indian market.  The company also announced a substantial capital expenditure for capacity expansion.  Consolidated total revenue for the June quarter ro",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-steel-q1-net-profit-beats-estimates-approves-rs-33873-crore-capex/articleshow/132750129.cms",
-      "image": "https://img.etimg.com/photo/msid-132750129,imgsize-25038.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-30T20:35:08+00:00",
-      "category": "India",
-      "simple_explanation": "Tata Steel's consolidated net profit increased nearly twelve percent year-on-year.  This growth was primarily driven by a robust performance in its Indian market.  The company also announced a substan"
-    },
-    {
-      "title": "MicroStrategy Earnings Flip From $10 Billion Profit to $8.2 Billion Loss in 1 Year",
-      "description": "MicroStrategy earnings swung to an $8.22 billion loss, reversing $10.02 billion of profit a year earlier.",
-      "url": "https://beincrypto.com/microstrategy-loss-q2-earnings/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T20:33:35+00:00",
-      "category": "Crypto",
-      "simple_explanation": "MicroStrategy earnings swung to an $8.22 billion loss, reversing $10.02 billion of profit a year earlier."
-    },
-    {
-      "title": "Mahindra Q1 net profit rises 34%, standalone earnings beat estimates",
-      "description": "Mahindra & Mahindra announced a thirty-four percent profit increase for the fiscal first quarter. Robust demand for sport utility vehicles and tractors fueled this significant financial growth. Higher commodity costs, however, did impact the company's profit margins during this period. Group compani",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-q1-net-profit-rises-34-standalone-earnings-beat-estimates/articleshow/132750115.cms",
-      "image": "https://img.etimg.com/photo/msid-132750115,imgsize-15332.cms",
-      "source": "Economic Times",
-      "published_at": "2026-07-30T20:31:01+00:00",
-      "category": "India",
-      "simple_explanation": "Mahindra & Mahindra announced a thirty-four percent profit increase for the fiscal first quarter. Robust demand for sport utility vehicles and tractors fueled this significant financial growth. Higher"
-    },
-    {
-      "title": "TSX Closer: Index Edges Higher as Base Metals Rally Offsets Industrial Weakness",
-      "description": "The S&P/TSX Composite Index edged higher on Thursday as gains in base metals and energy stocks outwe",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-edges-higher-202816874.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-30T20:28:16+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The S&P/TSX Composite Index edged higher on Thursday as gains in base metals and energy stocks outwe"
     }
   ]
 }
