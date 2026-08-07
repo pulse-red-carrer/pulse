@@ -1,36 +1,326 @@
 {
-  "last_updated": "2026-08-07T13:03:28.706134+00:00",
+  "last_updated": "2026-08-07T14:52:27.429373+00:00",
   "total": 40,
   "articles": [
     {
+      "title": "Stock Market Today: Nasdaq Leads After Surprise July Jobs Reading; AI Stock Cloudflare Soars (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index falls Friday on a surprise reading in the July jobs report. AI name Cloudflare stock soars on earnings.",
+      "url": "https://finance.yahoo.com/m/f31b7dd5-5905-3ff6-bb6f-3918f4e33295/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T14:43:28+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index falls Friday on a surprise reading in the July jobs report. AI name Cloudflare stock soars on earnings."
+    },
+    {
+      "title": "SpaceX's influence ripples across markets: AlphaCheck",
+      "description": "SpaceX's gravitational pull is undeniable. That's why it's unsurprising that a few offhand remarks in SpaceX's earnings call on Tuesday still managed to jolt stocks in the further reaches of the company's orbit.",
+      "url": "https://finance.yahoo.com/markets/article/spacexs-influence-ripples-across-markets-alphacheck-144205821.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T14:42:05+00:00",
+      "category": "Commodities",
+      "simple_explanation": "SpaceX's gravitational pull is undeniable. That's why it's unsurprising that a few offhand remarks in SpaceX's earnings call on Tuesday still managed to jolt stocks in the further reaches of the compa"
+    },
+    {
+      "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
+      "description": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
+      "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-07T14:32:43+00:00",
+      "category": "USA",
+      "simple_explanation": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives."
+    },
+    {
+      "title": "US Economy Loses 23,000 Jobs, Gold Jumps 3%: What Do Prediction Markets Say About Rate Hikes?",
+      "description": "Gold futures jumped roughly 3% to around $4,400 on Friday after the U.S. economy lost 23,000 jobs in July—a shock miss against expectations for a gain of 83,000 that sent bets on another Federal Reserve rate hike tumbling. The report...",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61042357/us-jobs-report-gold-fed-rate-hike?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T14:31:24+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold futures jumped roughly 3% to around $4,400 on Friday after the U.S. economy lost 23,000 jobs in July—a shock miss against expectations for a gain of 83,000 that sent bets on another Federal Reser"
+    },
+    {
+      "title": "Doximity shares soar 60% after CEO says its AI can outperform Anthropic",
+      "description": "Doximity shares surged after the healthcare platform highlighted the strong performance of its clinical AI, overshadowing an earnings miss. Investors cheered its AI capabilities, positioning the company as a specialised healthcare AI player despite mixed quarterly financial results.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/doximity-shares-soar-60-after-ceo-says-its-ai-can-outperform-anthropic/articleshow/133036609.cms",
+      "image": "https://img.etimg.com/photo/msid-133036609,imgsize-55670.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T14:27:19+00:00",
+      "category": "India",
+      "simple_explanation": "Doximity shares surged after the healthcare platform highlighted the strong performance of its clinical AI, overshadowing an earnings miss. Investors cheered its AI capabilities, positioning the compa"
+    },
+    {
+      "title": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
+      "description": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
+      "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-07T14:26:40+00:00",
+      "category": "USA",
+      "simple_explanation": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search."
+    },
+    {
+      "title": "9 IPOs get Sebi approval as primary market pipeline gathers pace",
+      "description": "Sebi has approved IPOs of nine companies spanning engineering, travel technology, gaming, drones, paper, renewable energy and digital platforms. The approvals strengthen India’s IPO pipeline, with firms including Laxyo, Garuda Aerospace, PlaySimple Games, Rediff.com and Jakson Green preparing to lis",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/9-ipos-get-sebi-approval-as-primary-market-pipeline-gathers-pace/articleshow/133036494.cms",
+      "image": "https://img.etimg.com/photo/msid-133036494,imgsize-50108.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T14:19:02+00:00",
+      "category": "India",
+      "simple_explanation": "Sebi has approved IPOs of nine companies spanning engineering, travel technology, gaming, drones, paper, renewable energy and digital platforms. The approvals strengthen India’s IPO pipeline, with fir"
+    },
+    {
+      "title": "Coeur Mining (CDE) Rides A Gold Rally, Is It Still A Bargain?",
+      "description": "Coeur Mining (CDE) has come into focus after a sector wide rally in precious metals stocks linked to rising gold prices, alongside the company’s record quarterly revenue, new buyback plan, and first dividend in decades. See our latest analysis for Coeur Mining. The recent pullback in Coeur Mining’s ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coeur-mining-cde-rides-gold-141835516.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T14:18:35+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Coeur Mining (CDE) has come into focus after a sector wide rally in precious metals stocks linked to rising gold prices, alongside the company’s record quarterly revenue, new buyback plan, and first d"
+    },
+    {
+      "title": "Pulse of the Street: Small-caps steal the show as equities extend gains",
+      "description": "The benchmarks gained 0.51% and 0.76%, respectively, during the week.",
+      "url": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-small-caps-steal-the-show-as-equities-extend-gains-11786106174324.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/INDIA-STOCKS-EXCHANGES-2_1786111881511_1786111894253_d5f3933d-226e-4410-8435-5e5321a446c0.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-08-07T14:14:37+00:00",
+      "category": "India",
+      "simple_explanation": "The benchmarks gained 0.51% and 0.76%, respectively, during the week."
+    },
+    {
+      "title": "While everyone chases Nvidia, Caterpillar just showed where AI money goes next",
+      "description": "For the past two years, investors have treated artificial intelligence as a technology story. If you wanted exposure to the AI boom, you bought Nvidia (NVDA). Maybe Microsoft. Perhaps Broadcom or AMD. The winners all seemed to make chips, servers, or software. Caterpillar (CAT) just proved that ...",
+      "url": "https://www.thestreet.com/investing/while-everyone-chases-nvidia-caterpillar-just-showed-where-ai-money-goes-next?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T14:07:00+00:00",
+      "category": "USA",
+      "simple_explanation": "For the past two years, investors have treated artificial intelligence as a technology story. If you wanted exposure to the AI boom, you bought Nvidia (NVDA). Maybe Microsoft. Perhaps Broadcom or AMD."
+    },
+    {
+      "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
+      "description": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping choke points under renewed threat.",
+      "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-07T14:06:10+00:00",
+      "category": "USA",
+      "simple_explanation": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping choke points under renewed threat."
+    },
+    {
+      "title": "Sebi cuts inspection load for market intermediaries, shifts focus to risk-based checks",
+      "description": "Sebi has overhauled its inspection framework, reducing FY27 inspections to about one-third of last year’s level. The regulator will prioritise risk-based, joint inspections using alerts, complaints and market intelligence while easing compliance burdens for well-governed market intermediaries.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-cuts-inspection-load-for-market-intermediaries-shifts-focus-to-risk-based-checks/articleshow/133036043.cms",
+      "image": "https://img.etimg.com/photo/msid-133036043,imgsize-24168.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T14:02:09+00:00",
+      "category": "India",
+      "simple_explanation": "Sebi has overhauled its inspection framework, reducing FY27 inspections to about one-third of last year’s level. The regulator will prioritise risk-based, joint inspections using alerts, complaints an"
+    },
+    {
+      "title": "Plains All American Tops Q2 Expectations as Higher Volumes Support Results",
+      "description": "Plains All American Pipeline, L. P.",
+      "url": "https://investorshub.advfn.com/market-news/article/33759/plains-all-american-tops-q2-expectations-as-higher-volumes-support-results?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T13:58:16+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Plains All American Pipeline, L. P."
+    },
+    {
+      "title": "Dollar drops, stocks climb after surprise US jobs miss",
+      "description": "The dollar fell sharply Friday after the US economy shed thousands of jobs in July, reducing the risk of an interest rate hike by the Federal Reserve that could slow growth in the world's biggest economy.\"Inflation remains a concern, but today's data may give policymakers more reason to remain patie",
+      "url": "https://finance.yahoo.com/energy/articles/oil-extends-gains-stocks-fall-024841858.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T13:58:04+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The dollar fell sharply Friday after the US economy shed thousands of jobs in July, reducing the risk of an interest rate hike by the Federal Reserve that could slow growth in the world's biggest econ"
+    },
+    {
+      "title": "Wall Street: S&P 500, Nasdaq edge higher after jobs data",
+      "description": "The Dow Jones Industrial Average fell 0.07%, the S&amp;P 500 rose 0.33%, the Nasdaq Composite rose 0.71%",
+      "url": "https://www.livemint.com/market/stock-market-news/wall-street-s-p-500-nasdaq-edge-higher-after-jobs-data-11786110178723.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/nyse_1786110398644_1786110398780_f63133e8-33ca-405e-882d-5d06aac87f19.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-07T13:56:34+00:00",
+      "category": "India",
+      "simple_explanation": "The Dow Jones Industrial Average fell 0.07%, the S&amp;P 500 rose 0.33%, the Nasdaq Composite rose 0.71%"
+    },
+    {
+      "title": "Stocks Open Higher After Jobs Data Misses Forecasts",
+      "description": "U.S. stocks jumped after the July jobs report came in much cooler than expected, with the U.S. economy losing 23,000 jobs last month.",
+      "url": "https://www.wsj.com/finance/stocks/oil-ticks-higher-u-s-futures-steady-ahead-of-jobs-report-67178ce5?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T13:54:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "U.S. stocks jumped after the July jobs report came in much cooler than expected, with the U.S. economy losing 23,000 jobs last month."
+    },
+    {
+      "title": "SBI Q1 profit beats estimates on strong loan growth, asset quality",
+      "description": "SBI reported a 10% rise in Q1 net profit to Rs 21,121 crore, beating estimates on robust loan growth and higher net interest income. Improved asset quality, lower bad-loan provisions and strong credit demand offset weaker treasury income and slightly lower margins.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q1-profit-beats-estimates-on-strong-loan-growth-asset-quality/articleshow/133035822.cms",
+      "image": "https://img.etimg.com/photo/msid-133035822,imgsize-56742.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T13:53:19+00:00",
+      "category": "India",
+      "simple_explanation": "SBI reported a 10% rise in Q1 net profit to Rs 21,121 crore, beating estimates on robust loan growth and higher net interest income. Improved asset quality, lower bad-loan provisions and strong credit"
+    },
+    {
+      "title": "US stocks: S&P, Nasdaq open higher as surprise payrolls fall quells rate-hike fears",
+      "description": "US stock markets opened higher on Friday after unexpected job losses.  The S&P 500 and Nasdaq saw gains at the opening bell.  This economic data raised doubts about a September interest rate hike.  The Dow Jones Industrial Average experienced a slight decline at the open.  Markets reacted to the lat",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-nasdaq-open-higher-as-surprise-payrolls-fall-quells-rate-hike-fears/articleshow/133035778.cms",
+      "image": "https://img.etimg.com/photo/msid-133035778,imgsize-123432.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T13:50:39+00:00",
+      "category": "India",
+      "simple_explanation": "US stock markets opened higher on Friday after unexpected job losses.  The S&P 500 and Nasdaq saw gains at the opening bell.  This economic data raised doubts about a September interest rate hike.  Th"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-07T13:49:35+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Apple Stock Surged On An Upgrade Cycle Its Own Reports Flagged Early",
+      "description": "The company was reporting that AI availability tracked with better iPhone sales well before the market repriced the stock.",
+      "url": "https://www.trefis.com/articles/610602/apple-stock-surged-on-an-upgrade-cycle-its-own-reports-flagged-early/2026-08-07?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T13:43:42+00:00",
+      "category": "USA",
+      "simple_explanation": "The company was reporting that AI availability tracked with better iPhone sales well before the market repriced the stock."
+    },
+    {
+      "title": "S&P 500 rallies after July jobs report misses forecasts",
+      "description": "The U.S. economy shed 23,000 jobs in July, far below forecasts of an 83,000 gain, shifting trader expectations away from a September rate hike",
+      "url": "https://qz.com/sp500-nasdaq-jobs-report-fed-rate-hike-080726?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T13:41:03+00:00",
+      "category": "USA",
+      "simple_explanation": "The U.S. economy shed 23,000 jobs in July, far below forecasts of an 83,000 gain, shifting trader expectations away from a September rate hike"
+    },
+    {
       "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
-      "description": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate held steady at 4.2%, according to the Dow Jones consensus.",
+      "description": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
       "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-08-07T12:53:12+00:00",
+      "published_at": "2026-08-07T13:40:19+00:00",
       "category": "USA",
-      "simple_explanation": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate held steady at 4.2%, according to the Dow Jones consensus."
+      "simple_explanation": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus."
     },
     {
-      "title": "Stock Market Today: Dow Rises On Surprise Jobs Report; AI Stock Cloudflare Soars On Earnings (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index rises Friday on a surprise July jobs report. AI name Cloudflare stock soars on earnings.",
-      "url": "https://finance.yahoo.com/m/f31b7dd5-5905-3ff6-bb6f-3918f4e33295/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T12:49:34+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index rises Friday on a surprise July jobs report. AI name Cloudflare stock soars on earnings."
-    },
-    {
-      "title": "Shockingly Weak Jobs Report Lowers Fed Rate Hike Odds; S&P 500 Futures Rally (Live Coverage)",
+      "title": "Shockingly Weak Jobs Report Is Fed 'Game Changer'; S&P 500 Rises (Live Coverage)",
       "description": "The July jobs report showed payrolls down 23,000, shifting September Fed rate hike odds. S&P 500 futures are up.",
       "url": "https://finance.yahoo.com/m/e32bdd3a-8570-3a85-bc10-126009565094/shockingly-weak-jobs-report.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-07T12:49:20+00:00",
+      "published_at": "2026-08-07T13:38:05+00:00",
       "category": "USA",
       "simple_explanation": "The July jobs report showed payrolls down 23,000, shifting September Fed rate hike odds. S&P 500 futures are up."
+    },
+    {
+      "title": "Oil slips, heads for weekly loss as Hormuz deal uncertainty persists",
+      "description": "Oil prices declined as investors weighed prospects of reopening the Strait of Hormuz against persistent geopolitical risks. Markets also awaited US payrolls data, while uncertainty over Iran-related negotiations, shipping arrangements and regional security kept crude prices volatile despite easing s",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-slips-heads-weekly-loss-as-hormuz-deal-uncertainty-persists/articleshow/133035490.cms",
+      "image": "https://img.etimg.com/photo/msid-133035490,imgsize-49300.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T13:36:55+00:00",
+      "category": "India",
+      "simple_explanation": "Oil prices declined as investors weighed prospects of reopening the Strait of Hormuz against persistent geopolitical risks. Markets also awaited US payrolls data, while uncertainty over Iran-related n"
+    },
+    {
+      "title": "Odds the Fed will hike in September tumble following big July jobs miss",
+      "description": "A weaker labor market would weaken the case for raising rates, which some members of the central bank have called for amid higher energy prices.",
+      "url": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-08-07T13:34:44+00:00",
+      "category": "Global",
+      "simple_explanation": "A weaker labor market would weaken the case for raising rates, which some members of the central bank have called for amid higher energy prices."
+    },
+    {
+      "title": "H&R Block Gears Up to Report Q4 Earnings: What's in the Cards?",
+      "description": "HRB heads into fiscal Q4 results with revenues expected to rise 0.6%, as client retention, AI investments and assisted tax demand support growth.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/h-r-block-gears-report-133200197.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T13:32:00+00:00",
+      "category": "USA",
+      "simple_explanation": "HRB heads into fiscal Q4 results with revenues expected to rise 0.6%, as client retention, AI investments and assisted tax demand support growth."
+    },
+    {
+      "title": "Fierce backlash to Ethereum’s EIP-8363 staking proposal",
+      "description": "Ethereum’s proposed EIP-8363 staking overhaul aims to reduce issuance, but critics say it could hurt DeFi, decentralization and institutional adoption.",
+      "url": "https://cointelegraph.com/magazine/fierce-backlash-to-ethereums-latest-staking-proposal-eip-8363?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/magazineback-to-ethereum.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-07T13:30:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Ethereum’s proposed EIP-8363 staking overhaul aims to reduce issuance, but critics say it could hurt DeFi, decentralization and institutional adoption."
+    },
+    {
+      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Strong Tech Results",
+      "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.3%, and the actively tra",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131928036.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T13:19:28+00:00",
+      "category": "USA",
+      "simple_explanation": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.3%, and the actively tra"
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report",
+      "description": "Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% from Thursday's opening. Ethereum moved to $1,929.36 as of 9:02 a.m. ET.",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T13:14:51+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin opened at $64,259.68 on Friday, August 7, 2026, 0.5% lower than Thursday's opening price. As of 9:02 a.m. ET, bitcoin moved higher to $65,143.87. Ethereum opened at $1,902.20 today, down 0.2% "
+    },
+    {
+      "title": "₹71 to  ₹820: Multibagger penny stock turns  ₹1 lakh into  ₹11.5 lakh in five years. Do you own?",
+      "description": "ICE Make Refrigeration's stock soared 3,096% over five years, significantly increasing investor wealth. With retail investors owning 24% of the firm, the growth underscores the potential of carefully chosen stocks in the Indian market.",
+      "url": "https://www.livemint.com/market/stock-market-news/rs-71-to-rs-820-multibagger-penny-stock-turns-rs-1-lakh-into-rs-11-5-lakh-in-five-years-do-you-own-11786106275728.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/gfd7eb6a4ff3b7722c26419631ebb2ff072e650093667ac8ce_1749522059479_1786107438562_28f3f65c-dc5d-4bda-96e7-12c9cb6fdef4.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-07T13:03:04+00:00",
+      "category": "India",
+      "simple_explanation": "ICE Make Refrigeration's stock soared 3,096% over five years, significantly increasing investor wealth. With retail investors owning 24% of the firm, the growth underscores the potential of carefully "
+    },
+    {
+      "title": "Bitcoiners turn to dice throws as self-custody setups are re-evaluated",
+      "description": "Dice entropy may become the new gold standard after the Coldcard hack",
+      "url": "https://cointelegraph.com/features/bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-true-or-false-about-bitcoin-and-crypto-are-totally-wrong.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-07T13:00:01+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Dice entropy may become the new gold standard after the Coldcard hack"
+    },
+    {
+      "title": "Update: US Equity Futures Rise Pre-Bell as Traders Assess Jobs Report, Monitor Middle East Developments",
+      "description": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-125656298.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T12:56:56+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock"
     },
     {
       "title": "UBS sees gold rising to $5,000/oz by first half of 2027",
@@ -57,7 +347,7 @@
       "description": "Hitachi Energy India has displayed remarkable financial growth with a net profit soaring over 100% in the June quarter. The company reported a substantial increase in operational revenue compared to the previous year. With first-quarter orders reaching Rs 5,096.5 crore for FY27, the firm has achieve",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hitachi-energy-india-q1-results-net-profit-rises-over-twofold-to-rs-294-crore/articleshow/133034152.cms",
       "image": "https://img.etimg.com/photo/msid-133034152,imgsize-839270.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-08-07T12:34:36+00:00",
       "category": "India",
       "simple_explanation": "Hitachi Energy India has displayed remarkable financial growth with a net profit soaring over 100% in the June quarter. The company reported a substantial increase in operational revenue compared to t"
@@ -67,30 +357,10 @@
       "description": "Sebi is introducing joint inspections by stock exchanges and depositories, along with a notable reduction in its inspection target for FY27. This strategy intends to enhance oversight while facilitating operations for intermediaries. Moreover, the practice of conducting repetitive annual inspections",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-streamlines-market-intermediaries-inspection-framework-cuts-fy27-target-to-one-third/articleshow/133034089.cms",
       "image": "https://img.etimg.com/photo/msid-133034089,imgsize-1379405.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-08-07T12:32:24+00:00",
       "category": "India",
       "simple_explanation": "Sebi is introducing joint inspections by stock exchanges and depositories, along with a notable reduction in its inspection target for FY27. This strategy intends to enhance oversight while facilitati"
-    },
-    {
-      "title": "Indian bonds clock first weekly rise in five on dovish RBI, easing crude",
-      "description": "Indian government bonds finished the week with little change on Friday, yet celebrated their first gain in five weeks. A decline in oil prices and a calming tone from the central bank helped elevate demand for these bonds. The Reserve Bank of India opted to keep its repo rate steady, alleviating con",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-clock-first-weekly-rise-in-five-on-dovish-rbi-easing-crude/articleshow/133034019.cms",
-      "image": "https://img.etimg.com/photo/msid-133034019,imgsize-121016.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-07T12:30:33+00:00",
-      "category": "India",
-      "simple_explanation": "Indian government bonds finished the week with little change on Friday, yet celebrated their first gain in five weeks. A decline in oil prices and a calming tone from the central bank helped elevate d"
-    },
-    {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stock futures climb ahead of jobs data as chip, software shares rally",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-peace-deal-crude-oil-fed-warsh-rate-hike-jobs-data-sandisk-cloudflare-atlassian-chip-stock-price-news-7th-august-2026/liveblog/133034022.cms",
-      "image": "https://img.etimg.com/photo/msid-133034022,imgsize-1944867.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-07T12:29:13+00:00",
-      "category": "India",
-      "simple_explanation": ""
     },
     {
       "title": "Russia cracks down on 9 crypto exchanges in Moscow City",
@@ -107,7 +377,7 @@
       "description": "Wealth manager Aarti Gupta urged women to diversify beyond physical gold by building goal-based, multi-asset portfolios with SIPs, index funds and ETFs. She also advocated financial independence through personal bank accounts, emergency savings and shared household financial planning.",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-alone-isnt-enough-for-your-daughters-streedhan-wealth-manager-aarti-gupta-explains-why/articleshow/133033944.cms",
       "image": "https://img.etimg.com/photo/msid-133033944,imgsize-43378.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-08-07T12:28:15+00:00",
       "category": "India",
       "simple_explanation": "Wealth manager Aarti Gupta urged women to diversify beyond physical gold by building goal-based, multi-asset portfolios with SIPs, index funds and ETFs. She also advocated financial independence throu"
@@ -116,8 +386,8 @@
       "title": "BSE Index Services launches BSE REITs Index. Here's everything you need to know",
       "description": "BSE Index Services has launched the BSE REITs Index to track the performance of listed Real Estate Investment Trusts in India. The index comprises six REITs and has delivered an 18.54% one-year return on a total-return basis. Embassy Office Parks REIT has the highest weight at 32.18%.",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/bse-index-services-launches-bse-reits-index-heres-everything-you-need-to-know/articleshow/133033836.cms",
-      "image": "https://img.etimg.com/photo/msid-133033836,imgsize-10826.cms",
-      "source": "Economic Times",
+      "image": "https://img.etimg.com/photo/msid-133033836,imgsize-.cms",
+      "source": "ET Markets",
       "published_at": "2026-08-07T12:23:46+00:00",
       "category": "India",
       "simple_explanation": "BSE Index Services has launched the BSE REITs Index to track the performance of listed Real Estate Investment Trusts in India. The index comprises six REITs and has delivered an 18.54% one-year return"
@@ -131,276 +401,6 @@
       "published_at": "2026-08-07T12:21:02+00:00",
       "category": "Commodities",
       "simple_explanation": "Gold December futures opened at $4,298.30 per troy ounce on Friday, August 7, 2026, flat compared to Thursday's closing price. The gold price moved higher this morning to $4,3831 at 8:12 a.m. ET."
-    },
-    {
-      "title": "EIH shares drop 6% after the announcement of Q1FY27 results",
-      "description": "EIH shares fell 6% to  ₹307 after mixed Q1 earnings were announced, with a 52% QoQ profit decline despite a 3-fold YoY increase. The company plans significant expansion, signing agreements for six new luxury hotels aimed at capitalizing on growth opportunities.",
-      "url": "https://www.livemint.com/market/stock-market-news/eih-shares-drop-6-after-the-announcement-of-q1fy27-results-11786103630279.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/gfa068c0b2ac3d3cb35abe0cb9f3e35a5f958af87d600bd609_1786104711135_1786104711269_71591f92-0aa8-477d-97aa-86ca6ef167ac.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-08-07T12:21:00+00:00",
-      "category": "India",
-      "simple_explanation": "EIH shares fell 6% to  ₹307 after mixed Q1 earnings were announced, with a 52% QoQ profit decline despite a 3-fold YoY increase. The company plans significant expansion, signing agreements for six new"
-    },
-    {
-      "title": "Market wrap: TCS, SBI, M&M, Trent among top gainers and losers on Nifty and Sensex on Friday",
-      "description": "Indian equities ended lower as the Closing Auction Session continued creating divergence between Sensex and Nifty. Banking and financial stocks dragged benchmarks, while auto and IT outperformed. Analysts said Nifty’s 24,500 support remains crucial despite easing momentum and continued profit bookin",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tcs-sbi-mm-trent-among-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/133033641.cms",
-      "image": "https://img.etimg.com/photo/msid-133033641,imgsize-146002.cms",
-      "source": "ET Markets",
-      "published_at": "2026-08-07T12:17:26+00:00",
-      "category": "India",
-      "simple_explanation": "Indian equities ended lower as the Closing Auction Session continued creating divergence between Sensex and Nifty. Banking and financial stocks dragged benchmarks, while auto and IT outperformed. Anal"
-    },
-    {
-      "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
-      "description": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
-      "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-07T12:15:42+00:00",
-      "category": "USA",
-      "simple_explanation": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives."
-    },
-    {
-      "title": "Warren Buffett's Berkshire Hathaway just sent a surprising signal",
-      "description": "Berkshire Hathaway shares are now trading at their highest price since Warren Buffett announced his retirement in May 2025, per Yahoo Finance AlphaSpace data.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/warren-buffetts-berkshire-hathaway-just-sent-a-surprising-signal-121444115.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T12:14:44+00:00",
-      "category": "USA",
-      "simple_explanation": "Berkshire Hathaway shares are now trading at their highest price since Warren Buffett announced his retirement in May 2025, per Yahoo Finance AlphaSpace data."
-    },
-    {
-      "title": "CEX perpetual futures volume falls to $4T, lowest since late 2023",
-      "description": "Perpetual futures trading volume on crypto exchanges fell to its lowest level in 31 months, while perpetual trading on decentralized platforms neared a one-year low.",
-      "url": "https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-market-trading-trader-breaking-news.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-07T12:13:40+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Perpetual futures trading volume on crypto exchanges fell to its lowest level in 31 months, while perpetual trading on decentralized platforms neared a one-year low."
-    },
-    {
-      "title": "Solar stocks shine after Trump extends China tariffs to polysilicon products",
-      "description": "Solar stocks rose in premarket trading President Donald Trump announced fresh import restrictions on polysilicon products.",
-      "url": "https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-07T12:13:07+00:00",
-      "category": "USA",
-      "simple_explanation": "Solar stocks rose in premarket trading President Donald Trump announced fresh import restrictions on polysilicon products."
-    },
-    {
-      "title": "Stocks Rise Pre-Bell Ahead of Key Jobs Report; Investors Assess Iran's Hormuz Draft Plan",
-      "description": "The benchmark US stock measures were tracking in the green before the open Friday as traders await a",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-ahead-120634322.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T12:06:34+00:00",
-      "category": "USA",
-      "simple_explanation": "The benchmark US stock measures were tracking in the green before the open Friday as traders await a"
-    },
-    {
-      "title": "Dow Jones Futures Rise As Cloudflare Leads Big Software Winners; Jobs Report On Tap",
-      "description": "Dow Jones futures: The market pauses, but what happens next? Don't buy these AI stocks yet. Cloudflare, Sezzle lead big earnings movers late.",
-      "url": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures-rise-as.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T12:03:57+00:00",
-      "category": "USA",
-      "simple_explanation": "Dow Jones futures: The market pauses, but what happens next? Don't buy these AI stocks yet. Cloudflare, Sezzle lead big earnings movers late."
-    },
-    {
-      "title": "Posthaste: Alberta leads the rest of Canada in creating jobs, just not for the reason you think",
-      "description": "Other sectors have outpaced the oilpatch, where employment 'remains largely unchanged'",
-      "url": "https://financialpost.com/news/alberta-leads-canadas-job-creation-whats-powering-growth-surprise?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T12:02:11+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Other sectors have outpaced the oilpatch, where employment 'remains largely unchanged'"
-    },
-    {
-      "title": "Nasdaq set to lead US markets higher as payrolls data looms",
-      "description": "8am: Positive start expected as market eyes payrolls data US markets are pointed higher ahead of July's non-farm payrolls data, due out before the open, with the Nasdaq set to lead the way. Nasdaq futures point to a 0.5% gain, S&P futures are up 0.2%, and Dow futures are firmer by less...",
-      "url": "https://www.proactiveinvestors.com/companies/news/1096724/nasdaq-set-to-lead-us-markets-higher-as-payrolls-data-looms-1096724.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T12:00:00+00:00",
-      "category": "USA",
-      "simple_explanation": "8am: Positive start expected as market eyes payrolls data US markets are pointed higher ahead of July's non-farm payrolls data, due out before the open, with the Nasdaq set to lead the way. Nasdaq fut"
-    },
-    {
-      "title": "Golden Rapture Mining Acquires Ground Located Approximately 500 Metres South of NexGold's Proposed Goliath Open Pit",
-      "description": "Edmonton, Alberta--(Newsfile Corp. - August 7, 2026) - Golden Rapture Mining Corporation (CSE: GLDR) (\"Golden Rapture\" or the \"Company\") is pleased to announce that it has entered into an agreement with 1544230 Ontario Inc. and Gravel Ridge Resources Ltd. to acquire a 100% interest in four mineral c",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/golden-rapture-mining-acquires-ground-120000296.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T12:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Edmonton, Alberta--(Newsfile Corp. - August 7, 2026) - Golden Rapture Mining Corporation (CSE: GLDR) (\"Golden Rapture\" or the \"Company\") is pleased to announce that it has entered into an agreement wi"
-    },
-    {
-      "title": "US Equity Futures Rise Pre-Bell as Traders Await Jobs Report, Monitor Middle East Developments",
-      "description": "US equity futures were edging higher pre-bell Friday as traders stood by for July's national jobs re",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-115512326.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T11:55:12+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity futures were edging higher pre-bell Friday as traders stood by for July's national jobs re"
-    },
-    {
-      "title": "Here Are Friday’s Top Wall Street Analyst Research Calls: Baker Hughes, Etsy, HubSpot, Instacart, JetBlue, Roku, SpaceX, Tower Semiconductor, Trade Desk, and More",
-      "description": "Wall Street analysts reshuffled their ratings on Friday with some bold calls that could move money fast, including a dramatic target cut on Trade Desk and a fresh Buy on SpaceX as markets brace for next week's inflation data.",
-      "url": "https://247wallst.com/investing/2026/08/07/here-are-fridays-top-wall-street-analyst-research-calls-baker-hughes-etsy-hubspot-instacart-jetblue-roku-spacex-tower-semiconductor-trade-desk-and-more/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T11:51:24+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Wall Street analysts reshuffled their ratings on Friday with some bold calls that could move money fast, including a dramatic target cut on Trade Desk and a fresh Buy on SpaceX as markets brace for ne"
-    },
-    {
-      "title": "Bitcoin Price to $33,000? CLARITY Act's September Delay Sparks Crash Warning",
-      "description": "Crypto Rover warned that Bitcoin could face renewed downside pressure after the Senate delayed a vote on the CLARITY Act until September. Bitcoin previously fell ...",
-      "url": "https://www.ccn.com/news/crypto/bitcoin-price-33000-clarity-act-september-delay-sparks-crash-warning/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T11:42:27+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Crypto Rover warned that Bitcoin could face renewed downside pressure after the Senate delayed a vote on the CLARITY Act until September. Bitcoin previously fell ..."
-    },
-    {
-      "title": "S&P 500, Nasdaq set for second straight weekly gain before jobs report",
-      "description": "Futures pointed higher Friday morning as traders awaited payrolls data, with the Nasdaq on pace for its best week since May",
-      "url": "https://qz.com/stocks-weekly-gains-jobs-report-nasdaq-semiconductor-080726?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T11:42:21+00:00",
-      "category": "USA",
-      "simple_explanation": "Futures pointed higher Friday morning as traders awaited payrolls data, with the Nasdaq on pace for its best week since May"
-    },
-    {
-      "title": "The Senate Just Shelved the CLARITY Act, And JPMorgan Says Crypto’s Tokenization Boom Could Slip Away to Wall Street",
-      "description": "Bitcoin traded near $64,600 as the U.S. Senate shelved the CLARITY Act ahead of its August recess, leaving the market-structure bill without a floor vote. JPMorgan had described the legislation as a significant potential catalyst, while its latest analysis said declining odds of passage this year we",
-      "url": "https://cryptonews.com/news/clarity-act-senate-delay/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T11:41:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin traded near $64,600 as the U.S. Senate shelved the CLARITY Act ahead of its August recess, leaving the market-structure bill without a floor vote. JPMorgan had described the legislation as a s"
-    },
-    {
-      "title": "Commodities Quietly Set Up an Inflation Shock",
-      "description": "Commodities Quietly Set Up an Inflation Shock",
-      "url": "https://www.newsmax.com/Finance/nigelgreen/commodities-sugar-cocoa/2026/08/07/id/1265364?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T11:31:10+00:00",
-      "category": "USA",
-      "simple_explanation": "Commodities Quietly Set Up an Inflation Shock"
-    },
-    {
-      "title": "Ola Electric Q1 Results: Loss narrows to Rs 336 crore; revenue falls 45% YoY",
-      "description": "Ola Electric reported a narrower Q1 loss of Rs 336 crore as deliveries nearly doubled sequentially and revenue rebounded 72% from Q4. Improved market share, lower operating costs and progress in battery manufacturing supported the company's operational turnaround despite year-on-year revenue decline",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-q1-results-loss-narrows-to-rs-336-crore-revenue-falls-45-yoy/articleshow/133032481.cms",
-      "image": "https://img.etimg.com/photo/msid-133032481,imgsize-190990.cms",
-      "source": "ET Markets",
-      "published_at": "2026-08-07T11:27:33+00:00",
-      "category": "India",
-      "simple_explanation": "Ola Electric reported a narrower Q1 loss of Rs 336 crore as deliveries nearly doubled sequentially and revenue rebounded 72% from Q4. Improved market share, lower operating costs and progress in batte"
-    },
-    {
-      "title": "The S&P 500 Index Just Did Something for Only the 3rd Time in the Past 30 Years. Here's What History Says Comes Next.",
-      "description": "The S&P 500 just had another flashing sign that could hint at a violent move to come.",
-      "url": "https://www.fool.com/investing/2026/08/07/the-sp-500-index-just-did-something-for-only-the-3/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T11:20:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The S&P 500 just had another flashing sign that could hint at a violent move to come."
-    },
-    {
-      "title": "Phase one drilling begins at Decade’s Bonaparte copper-gold project",
-      "description": "The property comprises four mineral claims covering more than 4,149ha in the Kamloops Mining Division, Canada.",
-      "url": "https://www.mining-technology.com/news/phase-i-drilling-decades-bonaparte-project/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T11:10:01+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The property comprises four mineral claims covering more than 4,149ha in the Kamloops Mining Division, Canada."
-    },
-    {
-      "title": "XRP Lost 93% of Its Institutional Money, But Whales Smelled a Bargain",
-      "description": "XRP ETF inflows fell 93% last week while Bitcoin and Ethereum funds jumped and large XRP whales kept buying the dip.",
-      "url": "https://beincrypto.com/xrp-etf-inflows-drop-whales-accumulation-analysis/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T11:07:55+00:00",
-      "category": "Crypto",
-      "simple_explanation": "XRP ETF inflows fell 93% last week while Bitcoin and Ethereum funds jumped and large XRP whales kept buying the dip."
-    },
-    {
-      "title": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
-      "description": "Binance saw a record divergence between daily spot and futures trading volumes, with the latter reaching nearly $58 billion.",
-      "url": "https://cointelegraph.com/markets/binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/lost-bitcoins-etf-hack-hacking-falling-jeans.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-07T11:05:01+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Binance saw a record divergence between daily spot and futures trading volumes, with the latter reaching nearly $58 billion."
-    },
-    {
-      "title": "Bitcoin Could Split in Two This Weekend: What Holders Need to Know",
-      "description": "BIP-110's author told users to abandon Bitcoin Core. Michael Saylor says its backers should stand down instead.",
-      "url": "https://beincrypto.com/bip-110-mandatory-signaling-bitcoin-core-warning/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T11:01:12+00:00",
-      "category": "Crypto",
-      "simple_explanation": "BIP-110's author told users to abandon Bitcoin Core. Michael Saylor says its backers should stand down instead."
-    },
-    {
-      "title": "Asante Provides 2026 Guidance and Operating Update",
-      "description": "VANCOUVER, British Columbia, Aug. 07, 2026 (GLOBE NEWSWIRE) -- Asante Gold Corporation (TSXV: ASE | GSE: ASG | OTCQX: ASGOF) (\"Asante\" or the \"Company\") is pleased to provide production and cost guidance for full-year 2026, together with an update on operational initiatives at the Bibiani and Chiran",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/asante-provides-2026-guidance-operating-110000736.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T11:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "VANCOUVER, British Columbia, Aug. 07, 2026 (GLOBE NEWSWIRE) -- Asante Gold Corporation (TSXV: ASE | GSE: ASG | OTCQX: ASGOF) (\"Asante\" or the \"Company\") is pleased to provide production and cost guida"
-    },
-    {
-      "title": "Titan Q1 Results: Net profit jumps 63% to  ₹1,777 crore on steady jewellery demand; revenue rises 40%",
-      "description": "Titan, part of the Tata Group, reported strong FY27 results, with June quarter net profit rising 63% YoY to  ₹1,777 crore. Revenue from operations also surged 40% YoY to  ₹20,787 crore.",
-      "url": "https://www.livemint.com/market/stock-market-news/titan-q1-results-net-profit-jumps-63-to-rs-1-777-crore-revenue-rises-40-11786099305471.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/Jalsa__1779619050759_1779619093901_0889194f-3adc-4371-859f-95ad82fd0902_1786099301026_ffcbd154-2291-4114-88cc-239dfe0eaac5.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-08-07T10:49:48+00:00",
-      "category": "India",
-      "simple_explanation": "Titan, part of the Tata Group, reported strong FY27 results, with June quarter net profit rising 63% YoY to  ₹1,777 crore. Revenue from operations also surged 40% YoY to  ₹20,787 crore."
-    },
-    {
-      "title": "MARA Bitcoin Holdings Drop 29% as Q2 Loss Widens to $611 Million",
-      "description": "MARA posted a $611.3 million Q2 net loss as revenue fell 27% to $174.9 million. Bitcoin holdings declined 29% year over year to 35,577 ...",
-      "url": "https://www.ccn.com/news/crypto/mara-bitcoin-holdings-fall-q2-loss-611-million/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T10:46:23+00:00",
-      "category": "Crypto",
-      "simple_explanation": "MARA posted a $611.3 million Q2 net loss as revenue fell 27% to $174.9 million. Bitcoin holdings declined 29% year over year to 35,577 ..."
-    },
-    {
-      "title": "Heliostar Presents Q2 2026 Financial and Operating Results with Record Gold Production and Cash Balance",
-      "description": "Q2 2026 Highlights:Produced a record 14,803 gold ounces and 79,710 silver ounces Increased quarterly gold production from San Agustin by 49%Continued low-cost production with cash cost of $1,654 per ounce of gold sold and a corporate all-in sustaining costs (\"AISC\") of $2,287 per ounce of gold soldA",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/heliostar-presents-q2-2026-financial-103000756.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T10:30:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Q2 2026 Highlights:Produced a record 14,803 gold ounces and 79,710 silver ounces Increased quarterly gold production from San Agustin by 49%Continued low-cost production with cash cost of $1,654 per o"
     }
   ]
 }
