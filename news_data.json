@@ -1,9 +1,269 @@
 {
-  "last_updated": "2026-08-07T10:06:38.644183+00:00",
+  "last_updated": "2026-08-07T11:45:06.034289+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Stock market today: Nasdaq futures rise, Dow and S&P 500 waver ahead of July jobs report",
+      "title": "Dow Jones Futures Rise As Cloudflare Leads Big Software Winners; Jobs Report On Tap",
+      "description": "Dow Jones futures: The market pauses, but what happens next? Don't buy these AI stocks yet. Cloudflare, Sezzle lead big earnings movers late.",
+      "url": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures-rise-as.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T11:30:58+00:00",
+      "category": "USA",
+      "simple_explanation": "Dow Jones futures: The market pauses, but what happens next? Don't buy these AI stocks yet. Cloudflare, Sezzle lead big earnings movers late."
+    },
+    {
+      "title": "Ola Electric Q1 Results: Loss narrows to Rs 336 crore; revenue falls 45% YoY",
+      "description": "Ola Electric reported a narrower Q1 loss of Rs 336 crore as deliveries nearly doubled sequentially and revenue rebounded 72% from Q4. Improved market share, lower operating costs and progress in battery manufacturing supported the company's operational turnaround despite year-on-year revenue decline",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-q1-results-loss-narrows-to-rs-336-crore-revenue-falls-45-yoy/articleshow/133032481.cms",
+      "image": "https://img.etimg.com/photo/msid-133032481,imgsize-188656.cms",
+      "source": "ET Markets",
+      "published_at": "2026-08-07T11:27:33+00:00",
+      "category": "India",
+      "simple_explanation": "Ola Electric reported a narrower Q1 loss of Rs 336 crore as deliveries nearly doubled sequentially and revenue rebounded 72% from Q4. Improved market share, lower operating costs and progress in batte"
+    },
+    {
+      "title": "The July jobs numbers are due out Friday. Here's what to expect",
+      "description": "Nonfarm payrolls are expected to post a gain of just 83,000 with an unchanged unemployment rate at 4.2%.",
+      "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-07T11:23:07+00:00",
+      "category": "USA",
+      "simple_explanation": "Nonfarm payrolls are expected to post a gain of just 83,000 with an unchanged unemployment rate at 4.2%."
+    },
+    {
+      "title": "Aurobindo Pharma among 8 stocks hitting 52-week highs; surge up to 20% in a month",
+      "description": "Eight stocks from the BSE 200 index hit fresh 52-week highs, reaching their highest price levels in the past year, indicating strong investor interest, and potential upward momentum in the share price.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/aurobindo-pharma-among-8-stocks-hitting-52-week-highs-surge-up-to-20-in-a-month/slideshow/133032470.cms",
+      "image": "https://img.etimg.com/photo/msid-133032361,imgsize-12298.cms",
+      "source": "ET Markets",
+      "published_at": "2026-08-07T11:20:08+00:00",
+      "category": "India",
+      "simple_explanation": "Eight stocks from the BSE 200 index hit fresh 52-week highs, reaching their highest price levels in the past year, indicating strong investor interest, and potential upward momentum in the share price"
+    },
+    {
+      "title": "European stocks rise before US jobs report",
+      "description": "European stock markets rose, oil prices dipped and the dollar steadied Friday as investors awaited a key US jobs report for clues on the outlook for interest rates in the world's biggest economy.Oil prices eased Friday after rising on reports that the potential agreement bars US and Israeli vessels ",
+      "url": "https://finance.yahoo.com/energy/articles/oil-extends-gains-stocks-fall-024841858.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T11:20:05+00:00",
+      "category": "Commodities",
+      "simple_explanation": "European stock markets rose, oil prices dipped and the dollar steadied Friday as investors awaited a key US jobs report for clues on the outlook for interest rates in the world's biggest economy.Oil p"
+    },
+    {
+      "title": "The S&P 500 Index Just Did Something for Only the 3rd Time in the Past 30 Years. Here's What History Says Comes Next.",
+      "description": "The S&P 500 just had another flashing sign that could hint at a violent move to come.",
+      "url": "https://www.fool.com/investing/2026/08/07/the-sp-500-index-just-did-something-for-only-the-3/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T11:20:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The S&P 500 just had another flashing sign that could hint at a violent move to come."
+    },
+    {
+      "title": "Jobs Report, Persian Gulf Views Lift Wall Street Pre-Bell; Asia Mixed, Europe Up",
+      "description": "Wall Street futures pointed moderately higher pre-bell Friday as traders awaited the national jobs r",
+      "url": "https://finance.yahoo.com/markets/articles/jobs-report-persian-gulf-views-111452033.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T11:14:52+00:00",
+      "category": "USA",
+      "simple_explanation": "Wall Street futures pointed moderately higher pre-bell Friday as traders awaited the national jobs r"
+    },
+    {
+      "title": "Trump could net big tax windfall in crypto bill divestiture plan: Reports",
+      "description": "A bipartisan proposal for cryptocurrency legislation could grant President Trump a tax advantage by allowing the deferral of capital gains taxes on his digital asset portfolio. This bill stipulates that the president must separate from crypto-related enterprises. Democrats emphasize ethical standard",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/trump-could-net-big-tax-windfall-in-crypto-bill-divestiture-plan-reports/articleshow/133032164.cms",
+      "image": "https://img.etimg.com/photo/msid-133032164,imgsize-63156.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T11:10:11+00:00",
+      "category": "India",
+      "simple_explanation": "A bipartisan proposal for cryptocurrency legislation could grant President Trump a tax advantage by allowing the deferral of capital gains taxes on his digital asset portfolio. This bill stipulates th"
+    },
+    {
+      "title": "Phase one drilling begins at Decade’s Bonaparte copper-gold project",
+      "description": "The property comprises four mineral claims covering more than 4,149ha in the Kamloops Mining Division, Canada.",
+      "url": "https://www.mining-technology.com/news/phase-i-drilling-decades-bonaparte-project/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T11:10:01+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The property comprises four mineral claims covering more than 4,149ha in the Kamloops Mining Division, Canada."
+    },
+    {
+      "title": "Fossil Group is said to invite banks for India unit IPO",
+      "description": "Fossil Group Inc. is exploring an initial public offering for its India business.  This potential listing could raise as much as $300 million.  The US-based company may sell up to a 25% stake in Fossil India.  This move follows other multinationals seeking value from their Indian operations.  The of",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/fossil-group-is-said-to-invite-banks-for-india-unit-ipo/articleshow/133031984.cms",
+      "image": "https://img.etimg.com/photo/msid-133031984,imgsize-157562.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T11:08:56+00:00",
+      "category": "India",
+      "simple_explanation": "Fossil Group Inc. is exploring an initial public offering for its India business.  This potential listing could raise as much as $300 million.  The US-based company may sell up to a 25% stake in Fossi"
+    },
+    {
+      "title": "Vikram Solar Q1 net profit declines 85 pc to Rs 20 cr",
+      "description": "Vikram Solar experienced an astonishing 85 percent drop in profits for the June quarter, primarily attributable to increased expenses. On a positive note, the company's revenue from operations showed a healthy uptick during this period. In a strategic move, Vikram Solar has also greenlit the expansi",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/vikram-solar-q1-net-profit-declines-85-pc-to-rs-20-cr/articleshow/133032114.cms",
+      "image": "https://img.etimg.com/photo/msid-133032114,imgsize-116824.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T11:08:24+00:00",
+      "category": "India",
+      "simple_explanation": "Vikram Solar experienced an astonishing 85 percent drop in profits for the June quarter, primarily attributable to increased expenses. On a positive note, the company's revenue from operations showed "
+    },
+    {
+      "title": "Akamai, Atlassian, Cloudflare, JFrog, and More Stocks That Explain Today’s Market",
+      "description": "Software stocks lead the broader market higher after a slew of solid earnings reports ease fears about AI disruption.",
+      "url": "https://finance.yahoo.com/m/8118379d-0173-3caf-bae7-b24c96670077/akamai%2C-atlassian%2C.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T11:07:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Software stocks lead the broader market higher after a slew of solid earnings reports ease fears about AI disruption."
+    },
+    {
+      "title": "Lupin Q1 PAT rises 16 pc at Rs 1,417 cr",
+      "description": "Lupin Ltd has reported a remarkable sixteen percent surge in profit after tax for the first quarter, showcasing their continued success. The firm experienced considerable growth in consolidated total revenue from operations, largely driven by a staggering forty-two percent increase in sales in the U",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/lupin-q1-pat-rises-16-pc-at-rs-1417-cr/articleshow/133031974.cms",
+      "image": "https://img.etimg.com/photo/msid-133031974,imgsize-11896.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T11:06:00+00:00",
+      "category": "India",
+      "simple_explanation": "Lupin Ltd has reported a remarkable sixteen percent surge in profit after tax for the first quarter, showcasing their continued success. The firm experienced considerable growth in consolidated total "
+    },
+    {
+      "title": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
+      "description": "Binance saw a record divergence between daily spot and futures trading volumes, with the latter reaching nearly $58 billion.",
+      "url": "https://cointelegraph.com/markets/binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/lost-bitcoins-etf-hack-hacking-falling-jeans.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-07T11:05:01+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Binance saw a record divergence between daily spot and futures trading volumes, with the latter reaching nearly $58 billion."
+    },
+    {
+      "title": "Stock Futures Rebound as Jobs Report Looms",
+      "description": "Investors were rising early Friday ahead of a July jobs report that will help determine whether the Federal Reserve’s next move is to hike, hold, or even cut interest rates.  Nasdaq 100 futures rose 0.5%.  Economists are forecasting that the July data will show an unemployment rate of 4.2%, with abo",
+      "url": "https://finance.yahoo.com/m/e6c2bd3f-3391-3491-9a10-2b4aa59661d0/stock-futures-rebound-as-jobs.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T11:02:30+00:00",
+      "category": "USA",
+      "simple_explanation": "Investors were rising early Friday ahead of a July jobs report that will help determine whether the Federal Reserve’s next move is to hike, hold, or even cut interest rates.  Nasdaq 100 futures rose 0"
+    },
+    {
+      "title": "Premier Energies Q1 Result: Profit jumps 53% to Rs 472 crore",
+      "description": "Premier Energies reported remarkable growth, with profits soaring more than 53% in the latest quarter. The uptick in revenue can be attributed to robust demand across vital business sectors. The company has made significant strides in enhancing manufacturing, particularly in solar cells and modules.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/premier-energies-q1-result-profit-jumps-53-to-rs-472-crore/articleshow/133031911.cms",
+      "image": "https://img.etimg.com/photo/msid-133031911,imgsize-189146.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T11:01:08+00:00",
+      "category": "India",
+      "simple_explanation": "Premier Energies reported remarkable growth, with profits soaring more than 53% in the latest quarter. The uptick in revenue can be attributed to robust demand across vital business sectors. The compa"
+    },
+    {
+      "title": "Asante Provides 2026 Guidance and Operating Update",
+      "description": "VANCOUVER, British Columbia, Aug. 07, 2026 (GLOBE NEWSWIRE) -- Asante Gold Corporation (TSXV: ASE | GSE: ASG | OTCQX: ASGOF) (\"Asante\" or the \"Company\") is pleased to provide production and cost guidance for full-year 2026, together with an update on operational initiatives at the Bibiani and Chiran",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/asante-provides-2026-guidance-operating-110000736.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T11:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "VANCOUVER, British Columbia, Aug. 07, 2026 (GLOBE NEWSWIRE) -- Asante Gold Corporation (TSXV: ASE | GSE: ASG | OTCQX: ASGOF) (\"Asante\" or the \"Company\") is pleased to provide production and cost guida"
+    },
+    {
+      "title": "JK Tyre & Industries Q1 Results: Net profit tumbles 73% at Rs 44.09 crore",
+      "description": "In the first quarter of FY27, JK Tyre & Industries reported a staggering 73 percent decline in profits, primarily due to soaring raw material prices linked to the West Asia crisis. Their consolidated net profit plummeted to Rs 44.09 crore from Rs 163.35 crore year-on-year, even as revenue rose to Rs",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jk-tyre-industries-q1-results-net-profit-tumbles-73-at-rs-44-09-crore/articleshow/133031885.cms",
+      "image": "https://img.etimg.com/photo/msid-133031885,imgsize-14044.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T10:59:18+00:00",
+      "category": "India",
+      "simple_explanation": "In the first quarter of FY27, JK Tyre & Industries reported a staggering 73 percent decline in profits, primarily due to soaring raw material prices linked to the West Asia crisis. Their consolidated "
+    },
+    {
+      "title": "Jobs Report May Clarify Fed Rate-Hike Outlook; What To Watch (Live Coverage)",
+      "description": "Today's jobs report, out at 8:30 a.m. ET is expected to show fairly solid payroll gains and a steady unemployment rate in July.  A deviation from those expectations could swing the outlook for Federal Reserve rate hikes, with markets on the fence about September's meeting.  S&P 500 futures are sligh",
+      "url": "https://finance.yahoo.com/m/e32bdd3a-8570-3a85-bc10-126009565094/jobs-report-may-clarify-fed.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T10:54:37+00:00",
+      "category": "USA",
+      "simple_explanation": "Today's jobs report, out at 8:30 a.m. ET is expected to show fairly solid payroll gains and a steady unemployment rate in July.  A deviation from those expectations could swing the outlook for Federal"
+    },
+    {
+      "title": "Titan Q1 Results: Net profit jumps 63% to  ₹1,777 crore on steady jewellery demand; revenue rises 40%",
+      "description": "Titan, part of the Tata Group, reported strong FY27 results, with June quarter net profit rising 63% YoY to  ₹1,777 crore. Revenue from operations also surged 40% YoY to  ₹20,787 crore.",
+      "url": "https://www.livemint.com/market/stock-market-news/titan-q1-results-net-profit-jumps-63-to-rs-1-777-crore-revenue-rises-40-11786099305471.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/Jalsa__1779619050759_1779619093901_0889194f-3adc-4371-859f-95ad82fd0902_1786099301026_ffcbd154-2291-4114-88cc-239dfe0eaac5.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-07T10:49:48+00:00",
+      "category": "India",
+      "simple_explanation": "Titan, part of the Tata Group, reported strong FY27 results, with June quarter net profit rising 63% YoY to  ₹1,777 crore. Revenue from operations also surged 40% YoY to  ₹20,787 crore."
+    },
+    {
+      "title": "Bengal Energy Announces Fiscal 2027 First Quarter Results",
+      "description": "Calgary, Alberta--(Newsfile Corp. - August 7, 2026) - Bengal Energy Ltd. (TSX: BNG) (\"Bengal\" or the \"Company\") today announces its financial and operating results for the year end and first quarter of fiscal 2027 ended June 30, 2026.FIRST-QUARTER FISCAL 2027 HIGHLIGHTS:The following is an overview ",
+      "url": "https://finance.yahoo.com/energy/articles/bengal-energy-announces-fiscal-2027-104500231.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T10:45:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Calgary, Alberta--(Newsfile Corp. - August 7, 2026) - Bengal Energy Ltd. (TSX: BNG) (\"Bengal\" or the \"Company\") today announces its financial and operating results for the year end and first quarter o"
+    },
+    {
+      "title": "Solar stocks shine after Trump extends China tariffs to polysilicon products",
+      "description": "Solar stocks rose in premarket trading President Donald Trump announced fresh import restrictions on polysilicon products.",
+      "url": "https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-07T10:31:29+00:00",
+      "category": "USA",
+      "simple_explanation": "Solar stocks rose in premarket trading President Donald Trump announced fresh import restrictions on polysilicon products."
+    },
+    {
+      "title": "Heliostar Presents Q2 2026 Financial and Operating Results with Record Gold Production and Cash Balance",
+      "description": "Q2 2026 Highlights:Produced a record 14,803 gold ounces and 79,710 silver ounces Increased quarterly gold production from San Agustin by 49%Continued low-cost production with cash cost of $1,654 per ounce of gold sold and a corporate all-in sustaining costs (\"AISC\") of $2,287 per ounce of gold soldA",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/heliostar-presents-q2-2026-financial-103000756.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T10:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Q2 2026 Highlights:Produced a record 14,803 gold ounces and 79,710 silver ounces Increased quarterly gold production from San Agustin by 49%Continued low-cost production with cash cost of $1,654 per o"
+    },
+    {
+      "title": "Commerzbank Says Oil Prices Rise on Hormuz Uncertainties, Asia Equities Mixed",
+      "description": "Brent rises to around $84 a barrel on uncertainties following the latest Strait of Hormuz headlines,",
+      "url": "https://finance.yahoo.com/energy/articles/commerzbank-says-oil-prices-rise-102626532.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T10:26:26+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Brent rises to around $84 a barrel on uncertainties following the latest Strait of Hormuz headlines,"
+    },
+    {
+      "title": "RBC downgrades Endeavour Mining as gold miner's re-rating leaves little room left",
+      "description": "RBC Capital Markets has downgraded Endeavour Mining PLC (LSE:EDV, TSX:EDV, OTCQX:EDVMF, FRA:6E2) to 'sector perform' from 'outperform ', arguing that the West African gold producer's strong run has left most near-term catalysts already reflected in the share price. The Canadian bank cut its...",
+      "url": "https://www.proactiveinvestors.com/companies/news/1096719/rbc-downgrades-endeavour-mining-as-gold-miner-s-re-rating-leaves-little-room-left-1096719.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T10:26:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "RBC Capital Markets has downgraded Endeavour Mining PLC (LSE:EDV, TSX:EDV, OTCQX:EDVMF, FRA:6E2) to 'sector perform' from 'outperform ', arguing that the West African gold producer's strong run has le"
+    },
+    {
+      "title": "Top Gainers & Losers on 7 August: Bajaj Finance, Navin Fluorine, Trent, Tata Capital, Swiggy among top losers",
+      "description": "The Indian stock market struggled on August 7, with the Nifty 50 down 0.32% and the Sensex declining 0.59%. Concerns over a potential peace deal in the Middle East and financial sector weaknesses led to mixed performance among broader markets and sector indices.",
+      "url": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-7-august-bajaj-finance-navin-fluorine-trent-tata-capital-swiggy-among-top-losers-11786097361207.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/2-0-1309458163-bse--1--0_1679981984752_1786097357919_c8c02f8f-3660-4450-a37d-25c55fbfb6e0.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-07T10:13:41+00:00",
+      "category": "India",
+      "simple_explanation": "The Indian stock market struggled on August 7, with the Nifty 50 down 0.32% and the Sensex declining 0.59%. Concerns over a potential peace deal in the Middle East and financial sector weaknesses led "
+    },
+    {
+      "title": "Stock market today: S&P 500 and Nasdaq futures rise, Dow wavers ahead of July jobs report",
       "description": "Wall Street awaited the July jobs report for a fresh picture of the labor market.",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-7-nasdaq-dow-sp-500-jobs-report-100009572.html?.tsrc=rss",
       "image": "",
@@ -23,36 +283,6 @@
       "simple_explanation": "UBS expects gold prices to rise toward $5,000 per ounce in the first half of 2027."
     },
     {
-      "title": "Prediction: This Unstoppable Vanguard ETF Will Crush the S&P 500 in the Remainder of 2026",
-      "description": "Some of America's largest growth stocks had a sluggish start to 2026, but they're bouncing back.",
-      "url": "https://www.fool.com/investing/2026/08/07/prediction-vanguard-etf-will-crush-sp-500-in-2026/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T09:50:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Some of America's largest growth stocks had a sluggish start to 2026, but they're bouncing back."
-    },
-    {
-      "title": "Multibaggers: 12 stocks skyrocketed up to 925% in 6 months; here's how retail investors bet on them",
-      "description": "Thirty-four BSE stocks doubled in six months, with 12 delivering returns of 169% to 923%. Retail investors raised stakes in several multibaggers while booking profits in others during June 2026 quarter.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-12-stocks-skyrocketed-up-to-925-in-6-months-heres-how-retail-investors-bet-on-them/slideshow/133030207.cms",
-      "image": "https://img.etimg.com/photo/msid-133029996,imgsize-29922.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-07T09:41:27+00:00",
-      "category": "India",
-      "simple_explanation": "Thirty-four BSE stocks doubled in six months, with 12 delivering returns of 169% to 923%. Retail investors raised stakes in several multibaggers while booking profits in others during June 2026 quarte"
-    },
-    {
-      "title": "Global Market: SK Hynix approves $38.3 billion investment plan through 2031 to expand AI chip production",
-      "description": "SK Hynix approved investments of 54.3 trillion won through 2031 to expand semiconductor production, targeting rising AI-driven demand. Funds will support new DRAM facilities in Yongin and NAND flash capacity in Cheongju. The company also plans additional shareholder return measures, with details exp",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-sk-hynix-approves-38-3-billion-investment-plan-through-2031-to-expand-ai-chip-production/articleshow/133029935.cms",
-      "image": "https://img.etimg.com/photo/msid-133029935,imgsize-67438.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-07T09:40:01+00:00",
-      "category": "India",
-      "simple_explanation": "SK Hynix approved investments of 54.3 trillion won through 2031 to expand semiconductor production, targeting rising AI-driven demand. Funds will support new DRAM facilities in Yongin and NAND flash c"
-    },
-    {
       "title": "Alphabet, Meta Platforms to SK Hynix: What does the AI trade bubble burst mean for the Indian stock market?",
       "description": "Experts believe contra-AI trade may benefit Indian stock market once the crowded AI positioning across global markets begins to take a pause",
       "url": "https://www.livemint.com/market/stock-market-news/alphabet-meta-platforms-to-sk-hynix-what-does-the-ai-trade-bubble-burst-mean-for-the-indian-stock-market-11786090522971.html",
@@ -63,26 +293,6 @@
       "simple_explanation": "Experts believe contra-AI trade may benefit Indian stock market once the crowded AI positioning across global markets begins to take a pause"
     },
     {
-      "title": "Why a solid NFP report could spark a stock selloff, according to JPMorgan",
-      "description": "Investing.com - Today's nonfarm payrolls print above 150,000 could push the S&P 500 down nearly 2%, according to JPMorgan Market Intelligence, as stronger hiring would cement higher-for-longer Federal Reserve pricing and put fresh upward pressure on Treasury yields.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-solid-nfp-report-could-093508468.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T09:35:08+00:00",
-      "category": "USA",
-      "simple_explanation": "Investing.com - Today's nonfarm payrolls print above 150,000 could push the S&P 500 down nearly 2%, according to JPMorgan Market Intelligence, as stronger hiring would cement higher-for-longer Federal"
-    },
-    {
-      "title": "Global Market: European shares rise as healthcare stocks offset geopolitical concerns; investors await US jobs data",
-      "description": "European stock markets edged higher on Friday, supported by gains in healthcare stocks, while rising oil prices and renewed Middle East tensions kept investors cautious ahead of the closely watched U.S. non-farm payrolls report.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-healthcare-stocks-offset-geopolitical-concerns-investors-await-us-jobs-data/articleshow/133029661.cms",
-      "image": "https://img.etimg.com/photo/msid-133029661,imgsize-140616.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-07T09:27:56+00:00",
-      "category": "India",
-      "simple_explanation": "European stock markets edged higher on Friday, supported by gains in healthcare stocks, while rising oil prices and renewed Middle East tensions kept investors cautious ahead of the closely watched U."
-    },
-    {
       "title": "CleanSpark misses Wall Street revenue estimates as shares sink",
       "description": "CleanSpark’s shares fell 5.5% on Thursday after the Bitcoin miner reported $138 million in quarterly revenue, narrowly missing Wall Street’s consensus estimate.",
       "url": "https://cointelegraph.com/news/cleanspark-wall-street-revenue-estimates-shares-sink?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -91,26 +301,6 @@
       "published_at": "2026-08-07T09:25:56+00:00",
       "category": "Crypto",
       "simple_explanation": "CleanSpark’s shares fell 5.5% on Thursday after the Bitcoin miner reported $138 million in quarterly revenue, narrowly missing Wall Street’s consensus estimate."
-    },
-    {
-      "title": "Global equity funds extend inflow streak to 11 weeks as earnings optimism lifts risk appetite",
-      "description": "Global equity funds extended their inflow streak to 11 weeks, attracting $21.15 billion in the week ended August 5. Strong corporate earnings and easing crude prices boosted risk appetite. European and Asian equity funds led regional inflows, while emerging market equities saw their strongest weekly",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-equity-funds-extend-inflow-streak-to-11-weeks-as-earnings-optimism-lifts-risk-appetite/articleshow/133029555.cms",
-      "image": "https://img.etimg.com/photo/msid-133029555,imgsize-8550.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-07T09:25:26+00:00",
-      "category": "India",
-      "simple_explanation": "Global equity funds extended their inflow streak to 11 weeks, attracting $21.15 billion in the week ended August 5. Strong corporate earnings and easing crude prices boosted risk appetite. European an"
-    },
-    {
-      "title": "Bitcoin Bulls Go Missing as BTC Upside Volatility Sinks to All-Time Low: Glassnode",
-      "description": "Bitcoin remained flat as stocks and gold reached records. Upside implied volatility fell to an all-time low near 23%. Historical volatility squeezes usually break ...",
-      "url": "https://www.ccn.com/news/sponsored/bitcoin-options-upside-demand-all-time-low/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T09:24:26+00:00",
-      "category": "USA",
-      "simple_explanation": "Bitcoin remained flat as stocks and gold reached records. Upside implied volatility fell to an all-time low near 23%. Historical volatility squeezes usually break ..."
     },
     {
       "title": "Hero MotoCorp shares climb 4.5%, hit 5-month high after strong June-quarter results",
@@ -143,36 +333,6 @@
       "simple_explanation": "Stripe-owned Bridge has entered the EU MiCA register following Luxembourg approval, joining regulated providers under the bloc’s crypto framework."
     },
     {
-      "title": "SBI share price climbs 4% after Q1 profit jumps 10% YoY, beats estimates",
-      "description": "SBI shares rose sharply on Friday after the lender reported a 10% year-on-year rise in Q1 FY27 standalone profit to Rs 21,121 crore, beating Street estimates. Net interest income rose 15% to Rs 46,992 crore, while total business crossed Rs 110 trillion. The stock remains 9% below its 52-week high.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-share-price-climbs-4-after-q1-profit-jumps-10-yoy-beats-estimates/articleshow/133029314.cms",
-      "image": "https://img.etimg.com/photo/msid-133029314,imgsize-2081746.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-07T09:13:04+00:00",
-      "category": "India",
-      "simple_explanation": "SBI shares rose sharply on Friday after the lender reported a 10% year-on-year rise in Q1 FY27 standalone profit to Rs 21,121 crore, beating Street estimates. Net interest income rose 15% to Rs 46,992"
-    },
-    {
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "description": "The S&P 500 edged lower on Thursday as investors paused after a record-setting rally, weighing mixed corporate earnings alongside renewed uncertainty over the Strait of Hormuz. Despite the pullback, Polymarket traders continue to expect the benchmark index to rebound at...",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61030573/will-sp500-open-up-or-down-aug-7-polymarket-jobs-report-strait-of-hormuz?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T09:04:38+00:00",
-      "category": "USA",
-      "simple_explanation": "The S&P 500 edged lower on Thursday as investors paused after a record-setting rally, weighing mixed corporate earnings alongside renewed uncertainty over the Strait of Hormuz. Despite the pullback, P"
-    },
-    {
-      "title": "SK Hynix to invest $38 billion building new memory chip plants as demand soars",
-      "description": "Memory prices have surged because of short supply and huge demand with investors watching closely for any changes to the supply-demand imbalance.",
-      "url": "https://www.cnbc.com/2026/08/07/sk-hynix-memory-chips-ai-prices.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-07T09:02:59+00:00",
-      "category": "USA",
-      "simple_explanation": "Memory prices have surged because of short supply and huge demand with investors watching closely for any changes to the supply-demand imbalance."
-    },
-    {
       "title": "CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO",
       "description": "Industry figures warned that continued legislative limbo could slow institutional adoption, revive regulation by enforcement and push innovation offshore.",
       "url": "https://cointelegraph.com/news/clarity-act-delay-asian-crypto-hubs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -193,16 +353,6 @@
       "simple_explanation": "Nephos will offer independent ISAE 3000 proof of reserves and attestation services for GBPA."
     },
     {
-      "title": "Here's the 1 Habit That Has Helped Ordinary Investors Build Extraordinary Wealth in the Stock Market",
-      "description": "A simple adjustment can lead to fantastic returns.",
-      "url": "https://www.fool.com/investing/2026/08/07/1-habit-investors-extraordinary-wealth-stocks/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T08:51:00+00:00",
-      "category": "USA",
-      "simple_explanation": "A simple adjustment can lead to fantastic returns."
-    },
-    {
       "title": "Norsemont expands land position at Choquelimpie",
       "description": "The Choquelimpie project, located 185km east of the Arica and Parinacota region, is wholly owned by Norsemont Mining.",
       "url": "https://www.mining-technology.com/news/norsemont-expands-land-position-choquelimpie/?.tsrc=rss",
@@ -211,36 +361,6 @@
       "published_at": "2026-08-07T08:45:15+00:00",
       "category": "Commodities",
       "simple_explanation": "The Choquelimpie project, located 185km east of the Arica and Parinacota region, is wholly owned by Norsemont Mining."
-    },
-    {
-      "title": "Global Market: European bluechip earnings set for strongest growth since 2022 as energy sector powers profits",
-      "description": "European blue-chip companies are gearing up for their most promising quarterly earnings growth in the last three years, with the energy sector and basic materials industries making significant strides. The STOXX 600 index anticipates a remarkable earnings rise of 22.4 percent, alongside an uptick in",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-bluechip-earnings-set-for-strongest-growth-since-2022-as-energy-sector-powers-profits/articleshow/133028458.cms",
-      "image": "https://img.etimg.com/photo/msid-133028458,imgsize-89964.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-07T08:44:06+00:00",
-      "category": "India",
-      "simple_explanation": "European blue-chip companies are gearing up for their most promising quarterly earnings growth in the last three years, with the energy sector and basic materials industries making significant strides"
-    },
-    {
-      "title": "Oil Prices Advance as Strait of Hormuz Uncertainty Returns to the Forefront",
-      "description": "Oil prices moved higher on Friday as uncertainty surrounding the future of shipping through the Strait of Hormuz continued to support the market. Fresh proposals from Iran, developed alongside Oman, have raised concerns by suggesting restrictions on vessels considered hostile and financial penalties",
-      "url": "https://investorshub.advfn.com/market-news/article/33694/oil-prices-advance-as-strait-of-hormuz-uncertainty-returns-to-the-forefront?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T08:42:03+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil prices moved higher on Friday as uncertainty surrounding the future of shipping through the Strait of Hormuz continued to support the market. Fresh proposals from Iran, developed alongside Oman, h"
-    },
-    {
-      "title": "Gold Headed for Largest Weekly Gain Since January",
-      "description": "Gold prices are on track for their largest weekly gain since January as investors await key U.S. jobs data later on Friday for more cues on the interest-rate outlook. In early trading, New York gold futures rose 1% to $4,343.",
-      "url": "https://finance.yahoo.com/m/918035d5-5c77-3583-9113-6937c0b6d961/gold-headed-for-largest.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T08:37:23+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold prices are on track for their largest weekly gain since January as investors await key U.S. jobs data later on Friday for more cues on the interest-rate outlook. In early trading, New York gold f"
     },
     {
       "title": "US Jobs Report in Focus as Middle East Tensions and Corporate News Shape Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures",
@@ -263,16 +383,6 @@
       "simple_explanation": "SBI Q1 Results: SBI reported a 10.23% YoY rise in Q1 net profit to  ₹21,121.22 crore and an interest income of  ₹46,992 crore, up 14.88%. Gross advances grew 18.6%, while total business surpassed  ₹11"
     },
     {
-      "title": "Dow Futures Fall, Nasdaq Rebounds as Jobs Report Looms",
-      "description": "Investors were in wait-and-see mode early Friday ahead of a July jobs report that will help determine whether the Federal Reserve’s next move is to hike, hold, or even cut interest rates.  Nasdaq 100 futures rose 0.4%.  Dow Jones Industrial Average futures slid 60 points, or 0.1%.",
-      "url": "https://finance.yahoo.com/m/e6c2bd3f-3391-3491-9a10-2b4aa59661d0/dow-futures-fall%2C-nasdaq.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T08:33:27+00:00",
-      "category": "USA",
-      "simple_explanation": "Investors were in wait-and-see mode early Friday ahead of a July jobs report that will help determine whether the Federal Reserve’s next move is to hike, hold, or even cut interest rates.  Nasdaq 100 "
-    },
-    {
       "title": "No Forward-Looking Guidance Needed: Fed Chair Kevin Warsh Just Outlined His Inflation Plan in 9 Words",
       "description": "The bond market is telling quite a tale for those willing to listen.",
       "url": "https://www.fool.com/investing/2026/08/07/fed-kevin-warsh-outlined-inflation-plan-in-9-words/?.tsrc=rss",
@@ -283,36 +393,6 @@
       "simple_explanation": "The bond market is telling quite a tale for those willing to listen."
     },
     {
-      "title": "SBI Q1 Results: Standalone profit rises 10% YoY to Rs 21,121 crore, beats estimates",
-      "description": "State Bank of India reported a ten percent year-on-year net profit growth.  Its net interest income also saw a fifteen percent rise during the quarter.  Total business crossed one hundred ten trillion rupees, with deposits exceeding sixty trillion.  Advances grew nineteen percent year-on-year, drive",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q1-results-standalone-profit-rises-10-yoy-to-rs-21121-crore-beats-estimates/articleshow/133028121.cms",
-      "image": "https://img.etimg.com/photo/msid-133028121,imgsize-1987006.cms",
-      "source": "ET Markets",
-      "published_at": "2026-08-07T08:23:56+00:00",
-      "category": "India",
-      "simple_explanation": "State Bank of India reported a ten percent year-on-year net profit growth.  Its net interest income also saw a fifteen percent rise during the quarter.  Total business crossed one hundred ten trillion"
-    },
-    {
-      "title": "AI frenzy spooks investors but JPMorgan CEO Jamie Dimon says spending boom likely to pay off. Here's why",
-      "description": "JPMorgan Chase CEO Jamie Dimon believes massive capital expenditure in artificial intelligence by hyperscalers will ultimately pay off despite market anxiety. Speaking to CNBC, Dimon noted that AI infrastructure demand is driving US economic growth and GDP, though individual data centre project risk",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-frenzy-spooks-investors-but-jpmorgan-ceo-jamie-dimon-says-spending-boom-likely-to-pay-off-heres-why/articleshow/133028059.cms",
-      "image": "https://img.etimg.com/photo/msid-133028059,imgsize-168896.cms",
-      "source": "ET Markets",
-      "published_at": "2026-08-07T08:21:47+00:00",
-      "category": "India",
-      "simple_explanation": "JPMorgan Chase CEO Jamie Dimon believes massive capital expenditure in artificial intelligence by hyperscalers will ultimately pay off despite market anxiety. Speaking to CNBC, Dimon noted that AI inf"
-    },
-    {
-      "title": "Oil extends gains and stocks mostly down on fresh Hormuz worries",
-      "description": "Oil prices extended gains and most stocks fell further on Friday amid fading optimism over a deal to reopen the Strait of Hormuz, as reports said Iran was planning to block US and Israeli ships from the waterway as part of a deal with Oman.Crude prices had begun edging up on Wednesday and rallied as",
-      "url": "https://finance.yahoo.com/energy/articles/oil-extends-gains-stocks-fall-024841858.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T08:20:52+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil prices extended gains and most stocks fell further on Friday amid fading optimism over a deal to reopen the Strait of Hormuz, as reports said Iran was planning to block US and Israeli ships from t"
-    },
-    {
       "title": "Optimystix Entertainment IPO Day 1: Issue booked 34% so far. Check GMP, issue details, key dates",
       "description": "Optimystix Entertainment IPO runs from August 7 to August 11, with a price band of  ₹166-175 per share. The company, known for its TV productions and films, anticipates a strong listing on August 14, following positive grey market trends and steady financial growth.",
       "url": "https://www.livemint.com/market/ipo/optimystix-entertainment-ipo-day-1-issue-booked-34-so-far-check-gmp-issue-details-key-dates-11786088221432.html",
@@ -321,86 +401,6 @@
       "published_at": "2026-08-07T08:12:57+00:00",
       "category": "India",
       "simple_explanation": "Optimystix Entertainment IPO runs from August 7 to August 11, with a price band of  ₹166-175 per share. The company, known for its TV productions and films, anticipates a strong listing on August 14, "
-    },
-    {
-      "title": "Suzlon Energy shares rise after US judge directs Pentagon to lift wind project freeze",
-      "description": "Suzlon Energy shares rose after a U.S. judge ordered the Pentagon to lift its freeze on reviewing onshore wind projects. According to Reuters, U.S. District Judge Karin Immergut granted a preliminary injunction sought by renewable energy groups, who said the freeze had caused a \"total halt\" in wind ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-rise-after-us-judge-directs-pentagon-to-lift-wind-project-freeze/articleshow/133027955.cms",
-      "image": "https://img.etimg.com/photo/msid-133027955,imgsize-32276.cms",
-      "source": "ET Markets",
-      "published_at": "2026-08-07T08:12:56+00:00",
-      "category": "India",
-      "simple_explanation": "Suzlon Energy shares rose after a U.S. judge ordered the Pentagon to lift its freeze on reviewing onshore wind projects. According to Reuters, U.S. District Judge Karin Immergut granted a preliminary "
-    },
-    {
-      "title": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
-      "description": "The Coldcard exploit, which caused more than $100 million in losses, helped push July crypto thefts to $247 million, making it the second-worst month of 2026.",
-      "url": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-8-most-common-cyberattacks-and-how-to-prevent-them.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-07T07:59:42+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The Coldcard exploit, which caused more than $100 million in losses, helped push July crypto thefts to $247 million, making it the second-worst month of 2026."
-    },
-    {
-      "title": "Cummins India faces margin, valuation hurdles despite robust demand",
-      "description": "Cummins India's Q1 margin disappointed despite healthy revenue growth. Pricing actions, export recovery and rising data centre demand will be key to restoring profitability.",
-      "url": "https://www.livemint.com/market/mark-to-market/cummins-india-q1fy27-ebitda-margins-data-centres-exports-pricing-raw-material-costs-engine-manufacturer-11786085501676.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/cummins-kIYD--621x414LiveMint_1786087535158_1786087535306_1148d39c-62cd-4ad1-bf1c-ce7ae38e75b3.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-08-07T07:49:11+00:00",
-      "category": "India",
-      "simple_explanation": "Cummins India's Q1 margin disappointed despite healthy revenue growth. Pricing actions, export recovery and rising data centre demand will be key to restoring profitability."
-    },
-    {
-      "title": "Aegeus Technologies IPO allotment to be finalised today. Here's GMP, how to check status online",
-      "description": "The GMP of Aegeus Technologies IPO ahead of allotment is  ₹12, according to Investorgain.",
-      "url": "https://www.livemint.com/market/ipo/aegeus-technologies-ipo-allotment-to-be-finalised-today-heres-gmp-how-to-check-status-online-11786082575292.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/IPO_1786088595418_1786088595559_c177cdaa-ffe2-4a01-8d3f-f3f66c56e271.jpeg",
-      "source": "LiveMint",
-      "published_at": "2026-08-07T07:43:46+00:00",
-      "category": "India",
-      "simple_explanation": "The GMP of Aegeus Technologies IPO ahead of allotment is  ₹12, according to Investorgain."
-    },
-    {
-      "title": "Amrize stock tumbles on Q2 profit miss, EBITDA guide cut",
-      "description": "Investing.com -- Amrize (SIX:AMRZ) (NYSE:AMRZ) shares tumbled more than 9% in Swiss trading Friday after the building materials company reported second-quarter earnings that missed expectations and cut its full-year adjusted EBITDA outlook, citing oil price-driven cost inflation.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amrize-slides-extended-trading-q2-072235726.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T07:22:35+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Investing.com -- Amrize (SIX:AMRZ) (NYSE:AMRZ) shares tumbled more than 9% in Swiss trading Friday after the building materials company reported second-quarter earnings that missed expectations and cu"
-    },
-    {
-      "title": "Is McEwen (MUX) Undervalued Following Its 2026 Production Guidance Update?",
-      "description": "McEwen (MUX) has just updated its full year 2026 production guidance, now expecting consolidated output of 109,000 to 120,000 gold equivalent ounces. This provides investors with fresh context for assessing the stock. See our latest analysis for McEwen. McEwen’s latest production guidance and recent",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mcewen-mux-undervalued-following-2026-071136890.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T07:11:36+00:00",
-      "category": "Commodities",
-      "simple_explanation": "McEwen (MUX) has just updated its full year 2026 production guidance, now expecting consolidated output of 109,000 to 120,000 gold equivalent ounces. This provides investors with fresh context for ass"
-    },
-    {
-      "title": "PU Prime Expands Gold Trading with the Launch of XAUUSD247",
-      "description": "EBENE, Mauritius, Aug. 07, 2026 (GLOBE NEWSWIRE) -- PU Prime has launched XAUUSD247, a new offering that enables clients to trade gold 24 hours a day, seven days a week on MT5. Gold remains one of the world’s most actively traded safe-haven assets, with prices responding rapidly to geopolitical even",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/pu-prime-expands-gold-trading-064100669.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T06:41:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "EBENE, Mauritius, Aug. 07, 2026 (GLOBE NEWSWIRE) -- PU Prime has launched XAUUSD247, a new offering that enables clients to trade gold 24 hours a day, seven days a week on MT5. Gold remains one of the"
-    },
-    {
-      "title": "World shares are mixed after US stocks fall back, while oil rebounds",
-      "description": "World shares were mixed Friday after a modest retreat on Wall Street, while the price of Brent crude gained more than 1%.  In early European trading, Germany's DAX rose 0.4% to 26,253.77, while the CAC 40 in Paris edged 0.2% higher to 8,715.47.  Selling of computer chipmakers and other stocks linked",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-us-stocks-062902244.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T06:29:02+00:00",
-      "category": "USA",
-      "simple_explanation": "World shares were mixed Friday after a modest retreat on Wall Street, while the price of Brent crude gained more than 1%.  In early European trading, Germany's DAX rose 0.4% to 26,253.77, while the CA"
     }
   ]
 }
