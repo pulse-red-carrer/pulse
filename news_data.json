@@ -1,36 +1,246 @@
 {
-  "last_updated": "2026-08-07T03:11:21.384400+00:00",
+  "last_updated": "2026-08-07T05:39:55.368015+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "China's exports jump 23% in July, beating estimates; imports cool",
+      "title": "Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz",
+      "description": "News of Iran's restrictive draft plan for the Strait of Hormuz sent oil prices higher, renewing concerns over supply disruptions.",
+      "url": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-07T05:27:03+00:00",
+      "category": "USA",
+      "simple_explanation": "News of Iran's restrictive draft plan for the Strait of Hormuz sent oil prices higher, renewing concerns over supply disruptions."
+    },
+    {
+      "title": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
+      "description": "Japanese authorities called for address registration, customer-specific limits and stronger authentication as part of a broader push to curb misuse of exchange accounts.",
+      "url": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/skjapan-1.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-07T05:24:38+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Japanese authorities called for address registration, customer-specific limits and stronger authentication as part of a broader push to curb misuse of exchange accounts."
+    },
+    {
+      "title": "Global Market: Japan reveals record $40 billion yen-buying intervention as currency pressure persists",
+      "description": "Japan carried out its largest-ever single-day currency intervention, deploying nearly $40 billion to support the yen amid sharp depreciation. Detailed data from the Ministry of Finance showed authorities intervened multiple times during the Golden Week holidays, while markets remain alert for furthe",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-reveals-record-40-billion-yen-buying-intervention-as-currency-pressure-persists/articleshow/133021238.cms",
+      "image": "https://img.etimg.com/photo/msid-133021238,imgsize-128458.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T05:23:57+00:00",
+      "category": "India",
+      "simple_explanation": "Japan carried out its largest-ever single-day currency intervention, deploying nearly $40 billion to support the yen amid sharp depreciation. Detailed data from the Ministry of Finance showed authorit"
+    },
+    {
+      "title": "Indraprastha Medical Corporation shares surge 9% after Q1FY27 profit rises 9%, revenue grows 11%",
+      "description": "Indraprastha Medical Corporation shares surged over 8.5% to Rs 392.90 following strong Q1FY27 earnings. The healthcare operator reported a 9% YoY increase in consolidated net profit to Rs 56 crore and an 11% rise in revenue to Rs 406 crore. The company also fixed September 18 as the dividend record ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indraprastha-medical-corporation-shares-surge-9-after-q1fy27-profit-rises-9-revenue-grows-11/articleshow/133022396.cms",
+      "image": "https://img.etimg.com/photo/msid-133022396,imgsize-1807936.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T05:17:59+00:00",
+      "category": "India",
+      "simple_explanation": "Indraprastha Medical Corporation shares surged over 8.5% to Rs 392.90 following strong Q1FY27 earnings. The healthcare operator reported a 9% YoY increase in consolidated net profit to Rs 56 crore and"
+    },
+    {
+      "title": "Newmont (NEM) Stock Stays Reasonable Following Its 183% Three Year Run",
+      "description": "Newmont stock has delivered a very strong 182.7% return over the past three years, while both the Discounted Cash Flow (DCF) intrinsic value estimate and earnings-based multiples currently point to the shares trading at a discount to that intrinsic value. The 182.7% three-year return highlights how ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/newmont-nem-stock-stays-reasonable-051420877.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T05:14:20+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Newmont stock has delivered a very strong 182.7% return over the past three years, while both the Discounted Cash Flow (DCF) intrinsic value estimate and earnings-based multiples currently point to th"
+    },
+    {
+      "title": "Tata Investment, Tata Chemicals rally up to 7% after RBI classifies Tata Sons as upper-layer NBFC",
+      "description": "Tata Investment Corp and Tata Chemicals shares rallied up to 7% after the RBI classified Tata Sons among the 16 upper-layer NBFCs, reviving focus on the holding company's potential listing. The central bank is also examining Tata Sons' application to surrender its core investment company registratio",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-investment-tata-chemicals-rally-up-to-7-after-rbi-classifies-tata-sons-as-upper-layer-nbfc/articleshow/133022291.cms",
+      "image": "https://img.etimg.com/photo/msid-133022291,imgsize-1618433.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T05:11:59+00:00",
+      "category": "India",
+      "simple_explanation": "Tata Investment Corp and Tata Chemicals shares rallied up to 7% after the RBI classified Tata Sons among the 16 upper-layer NBFCs, reviving focus on the holding company's potential listing. The centra"
+    },
+    {
+      "title": "Hero MotoCorp shares jump 3% as Q1 profit rises 29% YoY, beats estimates. What's ahead?",
+      "description": "Hero MotoCorp shares jumped over 3% to Rs 5,739 following strong Q1 FY27 results. The two-wheeler giant reported a 29% YoY rise in standalone net profit to Rs 1,454 crore and a 36% surge in revenue to Rs 12,999 crore, beating market estimates on operational margin performance. Brokerages maintain a ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hero-motocorp-shares-jump-3-as-q1-profit-rises-29-yoy-beats-estimates-whats-ahead/articleshow/133022247.cms",
+      "image": "https://img.etimg.com/photo/msid-133022247,imgsize-1983927.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T05:08:06+00:00",
+      "category": "India",
+      "simple_explanation": "Hero MotoCorp shares jumped over 3% to Rs 5,739 following strong Q1 FY27 results. The two-wheeler giant reported a 29% YoY rise in standalone net profit to Rs 1,454 crore and a 36% surge in revenue to"
+    },
+    {
+      "title": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
+      "description": "The latest bipartisan ethics proposal would reportedly require Trump to divest crypto businesses while allowing him to defer capital gains taxes on those sales.",
+      "url": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-trump.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-07T05:04:22+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The latest bipartisan ethics proposal would reportedly require Trump to divest crypto businesses while allowing him to defer capital gains taxes on those sales."
+    },
+    {
+      "title": "Behari Lal Engineering IPO: Price band set at  ₹271-285 per share; check key dates, issue details",
+      "description": "Behari Lal Engineering Limited sets its IPO price band at  ₹271 to  ₹285. Subscription runs from 12 to 14 August, with anchor allocation on 11 August. The IPO reserves shares for QIBs, NIIs, and retail investors, with allotment expected by 17 August and listing on 19 August.",
+      "url": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-price-band-set-at-rs-271-285-per-share-check-key-dates-issue-details-11786076883395.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/metalRoll_1786078619341_1786078625270_50a86bc7-fd9b-41e0-ade4-89c22349e17d.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-07T04:59:27+00:00",
+      "category": "India",
+      "simple_explanation": "Behari Lal Engineering Limited sets its IPO price band at  ₹271 to  ₹285. Subscription runs from 12 to 14 August, with anchor allocation on 11 August. The IPO reserves shares for QIBs, NIIs, and retai"
+    },
+    {
+      "title": "Vikram Solar shares crash 11% to fresh lifetime low. What's spooking investors?",
+      "description": "Vikram Solar shares fell sharply to a record low on Friday after the company reported an 85% year-on-year drop in Q1 profit, with margins shrinking sharply. Investor sentiment was also dented by US President Donald Trump's new 15% tariff on polysilicon products, adding to concerns over the solar sec",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vikram-solar-shares-crash-11-to-fresh-lifetime-low-whats-spooking-investors/articleshow/133021945.cms",
+      "image": "https://img.etimg.com/photo/msid-133021945,imgsize-1879640.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T04:55:07+00:00",
+      "category": "India",
+      "simple_explanation": "Vikram Solar shares fell sharply to a record low on Friday after the company reported an 85% year-on-year drop in Q1 profit, with margins shrinking sharply. Investor sentiment was also dented by US Pr"
+    },
+    {
+      "title": "Trent shares slide 3% after Q1. What Morgan Stanley, four other brokerages recommend",
+      "description": "Trent shares fell 3% after the Tata Group retailer reported a 21% year-on-year rise in Q1 consolidated net profit to Rs 519 crore. Revenue from operations grew 18% to Rs 5,755 crore. On a sequential basis, net profit increased 25% and revenue rose 14%, although the stock came under pressure despite ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/trent-shares-slide-3-after-q1-what-morgan-stanley-four-other-brokerages-recommend/articleshow/133021617.cms",
+      "image": "https://img.etimg.com/photo/msid-133021617,imgsize-59211.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-07T04:45:58+00:00",
+      "category": "India",
+      "simple_explanation": "Trent shares fell 3% after the Tata Group retailer reported a 21% year-on-year rise in Q1 consolidated net profit to Rs 519 crore. Revenue from operations grew 18% to Rs 5,755 crore. On a sequential b"
+    },
+    {
+      "title": "China's exports growth beats estimates in July, as AI-driven shipments surge",
       "description": "China's exports rose more than expected in July, as global demand for high-tech components continues to absorb the country's manufactured goods.",
       "url": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-08-07T03:04:54+00:00",
+      "published_at": "2026-08-07T04:44:17+00:00",
       "category": "USA",
       "simple_explanation": "China's exports rose more than expected in July, as global demand for high-tech components continues to absorb the country's manufactured goods."
     },
     {
-      "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 7 August 2026",
-      "description": "The Indian stock market is set to open lower on August 7, influenced by rising crude oil prices. The Nifty 50 and Sensex indices show weak trends, with analysts suggesting key support and resistance levels for trading.",
-      "url": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-7-august-2026-11786070755187.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/Chandan_Taparia_1715614105669_1786071059844_daf1d8ed-c32d-4fe0-abc4-fc8f7df8f6d8.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-08-07T02:54:14+00:00",
+      "title": "Siemens Energy India shares jump 7% after strong Q1 results. Should you buy, sell or hold?",
+      "description": "Siemens Energy India shares surged over 7% after the company posted a robust June 2026 quarter, with net profit jumping 68% year-on-year and revenue rising nearly 40%. Encouraged by strong execution, a healthy order backlog and long-term growth prospects, Motilal Oswal retained its 'Buy' rating and ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/siemens-energy-india-shares-jump-7-after-strong-q1-results-should-you-buy-sell-or-hold/articleshow/133021477.cms",
+      "image": "https://img.etimg.com/photo/msid-133021477,imgsize-1936665.cms",
+      "source": "ET Markets",
+      "published_at": "2026-08-07T04:42:20+00:00",
       "category": "India",
-      "simple_explanation": "The Indian stock market is set to open lower on August 7, influenced by rising crude oil prices. The Nifty 50 and Sensex indices show weak trends, with analysts suggesting key support and resistance l"
+      "simple_explanation": "Siemens Energy India shares surged over 7% after the company posted a robust June 2026 quarter, with net profit jumping 68% year-on-year and revenue rising nearly 40%. Encouraged by strong execution, "
     },
     {
-      "title": "US Senate pushes CLARITY Act vote to September: Report",
-      "description": "Senate Majority Leader John Thune reportedly confirmed that the chamber was “punting” the vote until September.",
-      "url": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-civil-war.jpg",
+      "title": "Gold ETFs Add $3 Billion in July Reversing Two-Month Outflow Streak",
+      "description": "Gold ETFs pulled in $3 billion in July as European funds led the rebound and prices ended a four-month slide.",
+      "url": "https://beincrypto.com/gold-etf-inflows-july-2026-rebound/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T04:35:51+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold ETFs pulled in $3 billion in July as European funds led the rebound and prices ended a four-month slide."
+    },
+    {
+      "title": "Ardee Industries IPO Day 3 LIVE: GMP, subscription status to review. Apply or not?",
+      "description": "Ardee Industries IPO GMP today: According to Investorgain, the company shares are available at a premium of  ₹15 in the grey market today",
+      "url": "https://www.livemint.com/market/ipo/ardee-industries-ipo-day-3-live-gmp-subscription-status-to-review-apply-or-not-11786073729808.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/Ardee_Industries_IPO_GMP_Subscription_Status_1786076436553_1786077001270_1db49c87-514e-4c4b-8153-9724c5a1a6f2.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-07T04:35:48+00:00",
+      "category": "India",
+      "simple_explanation": "Ardee Industries IPO GMP today: According to Investorgain, the company shares are available at a premium of  ₹15 in the grey market today"
+    },
+    {
+      "title": "Triple Flag Precious Metals (TSX:TFPM) On Strong Q2 Results And A New Gold Stream Value Trap Or Opportunity",
+      "description": "Triple Flag Precious Metals (TSX:TFPM) is back in focus after Q2 2026 results showed higher sales and net income, along with a larger dividend, a new gold stream acquisition, and reaffirmed production guidance. See our latest analysis for Triple Flag Precious Metals. Triple Flag Precious Metals’ rec",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/triple-flag-precious-metals-tsx-043027100.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T04:30:27+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Triple Flag Precious Metals (TSX:TFPM) is back in focus after Q2 2026 results showed higher sales and net income, along with a larger dividend, a new gold stream acquisition, and reaffirmed production"
+    },
+    {
+      "title": "Fusion Klassroom Edutech IPO listing: Shares list at 7% premium over the IPO price",
+      "description": "Fusion Klassroom Edutech share price listed at 7% premium over the IPO price of  ₹159. The stock opened at  ₹170 apiece on BSE SME.",
+      "url": "https://www.livemint.com/market/stock-market-news/fusion-klassroom-edutech-ipo-listing-shares-list-at-7-premium-over-the-ipo-price-11786074396067.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/stock_1786076169909_1786076170064_c7b736f1-6174-4c2c-a79c-9b6df7e15468.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-07T04:29:29+00:00",
+      "category": "India",
+      "simple_explanation": "Fusion Klassroom Edutech share price listed at 7% premium over the IPO price of  ₹159. The stock opened at  ₹170 apiece on BSE SME."
+    },
+    {
+      "title": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection",
+      "description": "U.S. social media giant Meta is facing increasing pressure from Indian regulators, including demands to revoke the firm's safe harbor immunity in the country.",
+      "url": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-07T04:11:09+00:00",
+      "category": "USA",
+      "simple_explanation": "U.S. social media giant Meta is facing increasing pressure from Indian regulators, including demands to revoke the firm's safe harbor immunity in the country."
+    },
+    {
+      "title": "Cathie Wood sells $17 million of popular AI stock",
+      "description": "Cathie Wood, head of Ark Investment Management, often trades around earnings, taking advantage of sharp moves in some of her favorite tech stocks. That's exactly what she's doing with Palantir, trimming her position after the stock rallied following its latest earnings report. In 2025, the flagship ",
+      "url": "https://www.thestreet.com/investing/stocks/cathie-wood-sells-17-million-of-popular-ai-stock-palantir-pltr?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T04:06:38+00:00",
+      "category": "USA",
+      "simple_explanation": "Cathie Wood, head of Ark Investment Management, often trades around earnings, taking advantage of sharp moves in some of her favorite tech stocks. That's exactly what she's doing with Palantir, trimmi"
+    },
+    {
+      "title": "Rupee opens 6 paise lower at 95.28 against US dollar amid spike in crude oil prices",
+      "description": "The rupee opened lower at 95.28 against the US dollar, impacted by rising crude oil prices and expectations of a hawkish Fed. Market watchers await the US jobs report for insights into monetary policy and currency direction, amid geopolitical tensions affecting oil supply.",
+      "url": "https://www.livemint.com/market/stock-market-news/rupee-opens-6-paise-lower-at-95-28-against-us-dollar-amid-spike-in-crude-oil-prices-11786073687343.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/8th_pay_commission_faq_money_da_salary_hikes_17523_1786073821809_1786073822052_c2e95e74-c4a4-4bd4-9163-0a7d574e7e9f.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-07T03:37:38+00:00",
+      "category": "India",
+      "simple_explanation": "The rupee opened lower at 95.28 against the US dollar, impacted by rising crude oil prices and expectations of a hawkish Fed. Market watchers await the US jobs report for insights into monetary policy"
+    },
+    {
+      "title": "Nikkei, Kospi to US stocks: Global equity heatmap before opening bell of Indian stock market on Friday — 7 August 2026",
+      "description": "Global markets today: The US stock market ended lower overnight as investors booked profits following the recent rally",
+      "url": "https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-stocks-us-stock-market-global-markets-equity-heatmap-before-opening-bell-indian-stock-market-11786069670487.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/Global_Asian_markets_today_Sensex_today_Gift_Nifty_1786071992176_1786071992301_4819784b-9ba0-48ee-a014-4817620c370c.png",
+      "source": "LiveMint",
+      "published_at": "2026-08-07T03:31:47+00:00",
+      "category": "India",
+      "simple_explanation": "Global markets today: The US stock market ended lower overnight as investors booked profits following the recent rally"
+    },
+    {
+      "title": "Three monopoly stocks where FIIs increased their stake in June quarter",
+      "description": "Despite heavy FII selling, these three monopoly and near-monopoly stocks saw increased foreign institutional ownership in the June 2026 quarter.",
+      "url": "https://www.livemint.com/market/stock-market-news/three-monopoly-stocks-where-fiis-increased-their-stake-in-june-quarter-11786016489334.html",
+      "image": "https://www.livemint.com/lm-img/static/1yr/newmintdefault-120.png",
+      "source": "LiveMint",
+      "published_at": "2026-08-07T03:30:37+00:00",
+      "category": "India",
+      "simple_explanation": "Despite heavy FII selling, these three monopoly and near-monopoly stocks saw increased foreign institutional ownership in the June 2026 quarter."
+    },
+    {
+      "title": "Bitget explores licensed crypto presence in Bhutan",
+      "description": "Crypto exchange Bitget has signed an agreement with Gelephu Mindfulness City Authority to pursue a regulated local presence.",
+      "url": "https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/building-bitcoin-investment-bhutan.jpg",
       "source": "CoinTelegraph",
-      "published_at": "2026-08-07T02:49:53+00:00",
+      "published_at": "2026-08-07T03:22:26+00:00",
       "category": "Crypto",
-      "simple_explanation": "Senate Majority Leader John Thune reportedly confirmed that the chamber was “punting” the vote until September."
+      "simple_explanation": "Crypto exchange Bitget has signed an agreement with Gelephu Mindfulness City Authority to pursue a regulated local presence."
+    },
+    {
+      "title": "What Does Newmont’s Conflicting NEM Ratings Reveal About Its Underlying Earnings Story?",
+      "description": "Recently, investors learned that Newmont holds an average brokerage recommendation of 1.33, signaling a broadly positive view from Wall Street firms, while Zacks assigned the stock a Rank #4 (Sell) based on weaker earnings estimate revisions. This unusual split between bullish brokerage ratings and ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-newmont-conflicting-nem-ratings-031837982.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T03:18:37+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Recently, investors learned that Newmont holds an average brokerage recommendation of 1.33, signaling a broadly positive view from Wall Street firms, while Zacks assigned the stock a Rank #4 (Sell) ba"
     },
     {
       "title": "Dow Jones Futures: Cloudflare Leads 5 Software Earnings Winners Late; Jobs Report On Tap",
@@ -38,9 +248,19 @@
       "url": "https://finance.yahoo.com/m/316189c0-0208-3a52-907e-8f1448ccd2e8/dow-jones-futures%3A-cloudflare.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-07T02:49:17+00:00",
+      "published_at": "2026-08-07T03:05:45+00:00",
       "category": "USA",
       "simple_explanation": "Dow Jones futures: The market pauses, but what happens next? Don't buy these AI stocks yet. Cloudflare, Sezzle lead big earnings movers late."
+    },
+    {
+      "title": "US Senate pushes CLARITY Act vote to September",
+      "description": "Senate Majority Leader John Thune confirmed that the chamber was “punting” the vote until September.",
+      "url": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-civil-war.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-07T02:49:53+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Senate Majority Leader John Thune confirmed that the chamber was “punting” the vote until September."
     },
     {
       "title": "Oil extends gains and stocks fall on fresh Hormuz worries",
@@ -63,106 +283,6 @@
       "simple_explanation": "Brazil’s state-controlled oil giant posted a sharp increase in second-quarter profit as higher production and stronger crude prices boosted cash generation."
     },
     {
-      "title": "Stock market today: Gift Nifty hints a gap-down start; eight day trading stocks to buy on Friday, 7 August",
-      "description": "Indian stock market indices Sensex and Nifty 50 are expected to open lower on 7 August due to rising crude oil prices and Middle East tensions. Brent crude has surged, raising concerns over energy supplies and inflation. The Gift Nifty suggests a cautious start for domestic equities.",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-gap-down-start-eight-day-trading-stocks-to-buy-on-friday-7-august-11786068461100.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/3-0-86449917-iStock-1167137273-0_1679793048835_1786070445367_f4b2f986-4036-40fe-b66a-d06e74ca3e05.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-08-07T02:44:51+00:00",
-      "category": "India",
-      "simple_explanation": "Indian stock market indices Sensex and Nifty 50 are expected to open lower on 7 August due to rising crude oil prices and Middle East tensions. Brent crude has surged, raising concerns over energy sup"
-    },
-    {
-      "title": "ETMarkets Management Talk| North America, AI adoption and recurring revenues to fuel Newgen's next leg of growth: Tarun Nadwani",
-      "description": "What is particularly encouraging is the shift in customer priorities. Enterprises are moving beyond automating individual processes and are looking to embed AI across core business operations to improve productivity, decision-making, customer experience, and operational resilience.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-management-talk-north-america-ai-adoption-and-recurring-revenues-to-fuel-newgens-next-leg-of-growth-tarun-nadwani/articleshow/133019456.cms",
-      "image": "https://img.etimg.com/photo/msid-133019456,imgsize-28250.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-07T02:40:59+00:00",
-      "category": "India",
-      "simple_explanation": "What is particularly encouraging is the shift in customer priorities. Enterprises are moving beyond automating individual processes and are looking to embed AI across core business operations to impro"
-    },
-    {
-      "title": "Stocks to buy in 2026 for long term: Bharti Airtel, Clean Max among 5 stocks that could give 10-50% return",
-      "description": "We have collated a list of recommendations from top brokerage firms from ETNow and other sources.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-bharti-airtel-clean-max-among-5-stocks-that-could-give-10-50-return/slideshow/133019488.cms",
-      "image": "https://img.etimg.com/photo/msid-133019428,imgsize-19696.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-07T02:32:01+00:00",
-      "category": "India",
-      "simple_explanation": "We have collated a list of recommendations from top brokerage firms from ETNow and other sources."
-    },
-    {
-      "title": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz",
-      "description": "News of Iran's restrictive draft plan for the Strait of Hormuz sent oil prices higher, renewing concerns over supply disruptions.",
-      "url": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-07T02:30:49+00:00",
-      "category": "USA",
-      "simple_explanation": "News of Iran's restrictive draft plan for the Strait of Hormuz sent oil prices higher, renewing concerns over supply disruptions."
-    },
-    {
-      "title": "Dividend alert! Last day to buy Jio Financial, Indus Towers among 9 stocks for dividend payouts. Do you own any?",
-      "description": "Jio Financial Services fixed August 10 as the record date for its final dividend of Rs 0.60 per share for the financial year which ended on March 31, 2026. This comes after the company paid a dividend of Rs 0.5 per share to its shareholders last year.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-jio-financial-indus-towers-among-9-stocks-for-dividend-payouts-do-you-own-any/articleshow/133019342.cms",
-      "image": "https://img.etimg.com/photo/msid-133019342,imgsize-55094.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-07T02:30:29+00:00",
-      "category": "India",
-      "simple_explanation": "Jio Financial Services fixed August 10 as the record date for its final dividend of Rs 0.60 per share for the financial year which ended on March 31, 2026. This comes after the company paid a dividend"
-    },
-    {
-      "title": "Dollar drifts higher as traders eye Iran talks ahead of US jobs data",
-      "description": "The dollar surged on Friday, gaining strength over the yen and euro as uncertainties regarding a peace deal in Iran heightened demand for safe-haven assets. Support for the dollar was also found in increasing Treasury yields due to expectations of forthcoming rate increases. Market participants are ",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-drifts-higher-as-traders-eye-iran-talks-ahead-of-us-jobs-data/articleshow/133019285.cms",
-      "image": "https://img.etimg.com/photo/msid-133019285,imgsize-126140.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-07T02:26:46+00:00",
-      "category": "India",
-      "simple_explanation": "The dollar surged on Friday, gaining strength over the yen and euro as uncertainties regarding a peace deal in Iran heightened demand for safe-haven assets. Support for the dollar was also found in in"
-    },
-    {
-      "title": "India’s market rally is just getting started: Emkay strategist on IT, smallcaps and sectors to buy",
-      "description": "We believe the market is in the early stages of a broader rally. Recent resilience suggests a durable bottom is forming, supported by two key drivers: a broad-based earnings recovery across sectors and the return of FPI inflows (Rs 202bn in Jul-26), which should sustain market momentum.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/indias-market-rally-is-just-getting-started-emkay-strategist-on-it-smallcaps-and-sectors-to-buy/articleshow/133019085.cms",
-      "image": "https://img.etimg.com/photo/msid-133019085,imgsize-35914.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-07T02:24:57+00:00",
-      "category": "India",
-      "simple_explanation": "We believe the market is in the early stages of a broader rally. Recent resilience suggests a durable bottom is forming, supported by two key drivers: a broad-based earnings recovery across sectors an"
-    },
-    {
-      "title": "Ardee Industries IPO Day 3: GMP at 27%; issue subscribed over 14 times so far. Should you subscribe?",
-      "description": "By the close of the second day, the public issue had been subscribed 14.16 times, with bids received for significantly more than the 5.84 crore shares available. Retail investors remained particularly enthusiastic, subscribing to their reserved portion 14.33 times against the 2.93 crore shares alloc",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-day-3-gmp-at-27-issue-subscribed-over-14-times-so-far-should-you-subscribe/articleshow/133019197.cms",
-      "image": "https://img.etimg.com/photo/msid-133019197,imgsize-297062.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-07T02:24:05+00:00",
-      "category": "India",
-      "simple_explanation": "By the close of the second day, the public issue had been subscribed 14.16 times, with bids received for significantly more than the 5.84 crore shares available. Retail investors remained particularly"
-    },
-    {
-      "title": "Q1 results 2026: SBI to Ola Electric among companies to declare Q1 results today; full list here",
-      "description": "State Bank of India (SBI), Titan Company, Ola Electric Mobility, Hindalco Industries, Power Finance Corporation, Oil India are among the companies to report their Q1 results FY27 today.",
-      "url": "https://www.livemint.com/market/stock-market-news/q1-results-2026-sbi-to-ola-electric-among-companies-to-declare-q1-results-today-full-list-here-11786068204299.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/stock_1786068957731_1786068957848_aaf52705-a8ad-45b1-8738-a1797cac0352.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-08-07T02:21:52+00:00",
-      "category": "India",
-      "simple_explanation": "State Bank of India (SBI), Titan Company, Ola Electric Mobility, Hindalco Industries, Power Finance Corporation, Oil India are among the companies to report their Q1 results FY27 today."
-    },
-    {
-      "title": "ARKQ vs BOTZ: Which Robotics ETF Is the Better Buy in 2026?",
-      "description": "ARKQ has outperformed BOTZ, but the latter offers more pure-play exposure to companies developing robotics technology.",
-      "url": "https://www.fool.com/coverage/etfs/2026/08/06/arkq-vs-botz-which-robotics-etf-is-the-better-buy-in-2026/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T02:20:01+00:00",
-      "category": "USA",
-      "simple_explanation": "ARKQ has outperformed BOTZ, but the latter offers more pure-play exposure to companies developing robotics technology."
-    },
-    {
       "title": "MARA swings to Q2 loss as Bitcoin’s slump masks higher output",
       "description": "Bitcoin miner MARA posted its highest quarterly Bitcoin production in over a year, but was overshadowed by a 28% decline in the average price of Bitcoin.",
       "url": "https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -171,26 +291,6 @@
       "published_at": "2026-08-07T02:17:07+00:00",
       "category": "Crypto",
       "simple_explanation": "Bitcoin miner MARA posted its highest quarterly Bitcoin production in over a year, but was overshadowed by a 28% decline in the average price of Bitcoin."
-    },
-    {
-      "title": "Own TEL Stock? Here Is How To Collect 12% A Year On It",
-      "description": "Here is a way to get paid a meaningful income now on TE Connectivity shares you already own, an income you keep no matter what, in exchange for capping your gains at a higher price.",
-      "url": "https://www.trefis.com/articles/610354/own-tel-stock-here-is-how-to-collect-12-a-year-on-it/2026-08-06?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T02:09:29+00:00",
-      "category": "USA",
-      "simple_explanation": "Here is a way to get paid a meaningful income now on TE Connectivity shares you already own, an income you keep no matter what, in exchange for capping your gains at a higher price."
-    },
-    {
-      "title": "Buy or sell: Gift Nifty trades flat! Vaishali Parekh recommends three intraday stocks to buy today — 7 August 2026",
-      "description": "Buy or sell stocks, 7 August 2026: Vaishali Parekh recommends three intraday stocks to buy today — Shriram Finance, BEL, and Bharat Dynamics",
-      "url": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-trades-flat-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-7-august-2026-11786065965698.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/Buy_or_sell_stocks_to_buy_today_stock_market_today_1698023021624_1786066220877_6fdf908f-3e7e-4a07-853e-db67db428969.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-08-07T02:08:43+00:00",
-      "category": "India",
-      "simple_explanation": "Buy or sell stocks, 7 August 2026: Vaishali Parekh recommends three intraday stocks to buy today — Shriram Finance, BEL, and Bharat Dynamics"
     },
     {
       "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
@@ -203,36 +303,6 @@
       "simple_explanation": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping chokepoints under renewed threat."
     },
     {
-      "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals a negative start; Asian shares trade mixed",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-lic-trent-share-price-07-august-2026/liveblog/133019031.cms",
-      "image": "https://img.etimg.com/photo/msid-133019031,imgsize-1048787.cms",
-      "source": "ET Markets",
-      "published_at": "2026-08-07T02:07:49+00:00",
-      "category": "India",
-      "simple_explanation": ""
-    },
-    {
-      "title": "Positive Breakout: These 7 stocks cross above their 200 DMAs",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-7-stocks-cross-above-their-200-dmas/slideshow/133019067.cms",
-      "image": "https://img.etimg.com/photo/msid-133019027,imgsize-314522.cms",
-      "source": "ET Markets",
-      "published_at": "2026-08-07T02:07:00+00:00",
-      "category": "India",
-      "simple_explanation": ""
-    },
-    {
-      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 7 August",
-      "description": "The Indian stock market may open weak on August 7 due to rising Brent crude oil prices, which rose over 1% to $83.45. The Gift Nifty indicates a negative start, despite the market ending positively on Thursday with the Nifty 50 closing above 24,630.",
-      "url": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-7-august-11786066836775.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/INDIA-FUNDS-ABSL-AMC-0_1742379066038_1786068186336_7dc5c2d4-69be-4605-a9aa-3b114654bc1c.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-08-07T02:05:48+00:00",
-      "category": "India",
-      "simple_explanation": "The Indian stock market may open weak on August 7 due to rising Brent crude oil prices, which rose over 1% to $83.45. The Gift Nifty indicates a negative start, despite the market ending positively on"
-    },
-    {
       "title": "Veteran manager buys 2 ETFs as market shifts",
       "description": "The S&P 500 has had a strong 2026. Most of the gains have come from the same group of technology and AI stocks that have been driving the market for two years. One portfolio manager just decided to look somewhere else. Chris Versace, portfolio manager of the TheStreet Pro Portfolio, initiated ...",
       "url": "https://www.thestreet.com/investing/stocks/chris-versace-buys-etfs-xlv-robo?.tsrc=rss",
@@ -241,16 +311,6 @@
       "published_at": "2026-08-07T02:03:00+00:00",
       "category": "USA",
       "simple_explanation": "The S&P 500 has had a strong 2026. Most of the gains have come from the same group of technology and AI stocks that have been driving the market for two years. One portfolio manager just decided to lo"
-    },
-    {
-      "title": "Stocks to watch: SBI, Ola Electric, LIC among shares in focus today; check list here",
-      "description": "Stock market today: Gift Nifty was trading near the 24,657 mark, down over 82 points from the previous close of Nifty futures.",
-      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-sbi-ola-electric-lic-among-shares-in-focus-today-check-list-here-11786066835314.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/stock_1786067868388_1786067868637_20127d47-6e3b-4211-acbf-3350d1a1f78c.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-08-07T02:02:06+00:00",
-      "category": "India",
-      "simple_explanation": "Stock market today: Gift Nifty was trading near the 24,657 mark, down over 82 points from the previous close of Nifty futures."
     },
     {
       "title": "PU Prime Expands Gold Trading with the Launch of XAUUSD247",
@@ -271,36 +331,6 @@
       "published_at": "2026-08-07T01:52:05+00:00",
       "category": "USA",
       "simple_explanation": "WTI crude crossed $78 as uncertainty over an Iran-Oman shipping agreement fueled inflation concerns."
-    },
-    {
-      "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
-      "description": "A judge in New Mexico ordered Meta to pay $567 million into an abatement fund after a jury ruled the company violated the state’s unfair practices act.",
-      "url": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-07T01:28:57+00:00",
-      "category": "USA",
-      "simple_explanation": "A judge in New Mexico ordered Meta to pay $567 million into an abatement fund after a jury ruled the company violated the state’s unfair practices act."
-    },
-    {
-      "title": "LIC Q1 profit surges 23% on growth in value of new business",
-      "description": "Life Insurance Corporation of India reported a twenty-three percent net profit rise. Value of new business jumped sixty-one percent, boosting profitability margins significantly. Diversification into non-participating savings and protection products aided this strong performance. The insurer's solve",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lic-q1-profit-surges-23-on-growth-in-value-of-new-business/articleshow/133018657.cms",
-      "image": "https://img.etimg.com/photo/msid-133018657,imgsize-51392.cms",
-      "source": "ET Markets",
-      "published_at": "2026-08-07T01:25:18+00:00",
-      "category": "India",
-      "simple_explanation": "Life Insurance Corporation of India reported a twenty-three percent net profit rise. Value of new business jumped sixty-one percent, boosting profitability margins significantly. Diversification into "
-    },
-    {
-      "title": "Indian rupee weakens slightly against dollar amid importer demand, oil prices cool",
-      "description": "The Indian rupee weakened slightly against the dollar on Thursday as importers continued to push for dollar purchases. Although oil prices showed signs of easing, this did not provide enough support for the rupee. Throughout the session, the currency was observed trading in a range of 95.10 to 95.24",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-rupee-weakens-slightly-against-dollar-amid-importer-demand-oil-prices-cool/articleshow/133018623.cms",
-      "image": "https://img.etimg.com/photo/msid-133018623,imgsize-60772.cms",
-      "source": "ET Markets",
-      "published_at": "2026-08-07T01:13:52+00:00",
-      "category": "India",
-      "simple_explanation": "The Indian rupee weakened slightly against the dollar on Thursday as importers continued to push for dollar purchases. Although oil prices showed signs of easing, this did not provide enough support f"
     },
     {
       "title": "BP (LSE:BP.) Sells North Sea Assets, Is The Stock Fully Priced?",
@@ -363,44 +393,14 @@
       "simple_explanation": "The Dow broke a five-day winning streak on Thursday, while the S&P 500 and Nasdaq Composite tripped on a selloff in software stocks."
     },
     {
-      "title": "Fortuna Mining Corp (FSM) (Q2 2026) Earnings Call Highlights: Strong Cash Flow and Strategic ...",
-      "description": "Fortuna Mining Corp (FSM) delivers robust Q2 results with record free cash flow, while navigating one-time costs and advancing its path to 500,000 ounces of annual gold production.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fortuna-mining-corp-fsm-q2-232037311.html?.tsrc=rss",
+      "title": "Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader",
+      "description": "Fundstrat's Tom Lee targets S&P 500 at 8,000 in August and names Ethereum as one of three leaders of the next leg higher.",
+      "url": "https://beincrypto.com/tom-lee-ethereum-magnificent-seven-rally/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-06T23:20:37+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Fortuna Mining Corp (FSM) delivers robust Q2 results with record free cash flow, while navigating one-time costs and advancing its path to 500,000 ounces of annual gold production."
-    },
-    {
-      "title": "Artemis Gold Inc (ARGTF) (Q2 2026) Earnings Call Highlights: Record Revenue and Dividend ...",
-      "description": "Artemis Gold Inc (ARGTF) delivers record gold sales and cash flow while advancing Phase 1A expansion and declaring its first dividend.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/artemis-gold-inc-argtf-q2-231949334.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-06T23:19:49+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Artemis Gold Inc (ARGTF) delivers record gold sales and cash flow while advancing Phase 1A expansion and declaring its first dividend."
-    },
-    {
-      "title": "McEwen Inc (MUX) (Q2 2026) Earnings Call Highlights: Navigating Operational Headwinds at Gold ...",
-      "description": "Management tackles carbonaceous ore challenges with strategic initiatives, while Los Azules progresses toward a potential world-class copper project with a robust $4 billion financing plan.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/mcewen-inc-mux-q2-2026-230335152.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-06T23:03:35+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Management tackles carbonaceous ore challenges with strategic initiatives, while Los Azules progresses toward a potential world-class copper project with a robust $4 billion financing plan."
-    },
-    {
-      "title": "Gold Royalty Corp (GROY) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic ...",
-      "description": "Gold Royalty Corp (GROY) reports a 116% surge in first-half revenue to $17.3 million, driven by record GEO production and a robust pipeline of organic growth catalysts.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-royalty-corp-groy-q2-230112688.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-06T23:01:12+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold Royalty Corp (GROY) reports a 116% surge in first-half revenue to $17.3 million, driven by record GEO production and a robust pipeline of organic growth catalysts."
+      "published_at": "2026-08-06T23:43:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Fundstrat's Tom Lee targets S&P 500 at 8,000 in August and names Ethereum as one of three leaders of the next leg higher."
     }
   ]
 }
