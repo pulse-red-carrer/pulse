@@ -1,26 +1,116 @@
 {
-  "last_updated": "2026-08-07T16:55:13.892573+00:00",
+  "last_updated": "2026-08-07T17:49:55.466298+00:00",
   "total": 40,
   "articles": [
-    {
-      "title": "Stocks Rise After Cooler-Than-Expected July Jobs Data",
-      "description": "U.S. stocks rose after the July jobs report came in much cooler than expected, with the U.S. economy losing 23,000 jobs last month.",
-      "url": "https://www.wsj.com/finance/stocks/oil-ticks-higher-u-s-futures-steady-ahead-of-jobs-report-67178ce5?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T16:43:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "U.S. stocks rose after the July jobs report came in much cooler than expected, with the U.S. economy losing 23,000 jobs last month."
-    },
     {
       "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
       "description": "As oil reserves and munitions stockpiles reportedly dwindle, analysts wonder how much longer markets will pounce when the Trump admin. dangles an Iran deal.",
       "url": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-08-07T16:40:08+00:00",
+      "published_at": "2026-08-07T17:46:34+00:00",
       "category": "USA",
       "simple_explanation": "As oil reserves and munitions stockpiles reportedly dwindle, analysts wonder how much longer markets will pounce when the Trump admin. dangles an Iran deal."
+    },
+    {
+      "title": "Circle expands USDC to OKX ecosystem with X Layer launch",
+      "description": "The rollout gives X Layer users access to Circle-issued USDC and crosschain transfers as the stablecoin expands across major blockchain ecosystems.",
+      "url": "https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/token-for-ads-polymarket-usdc.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-07T17:36:45+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The rollout gives X Layer users access to Circle-issued USDC and crosschain transfers as the stablecoin expands across major blockchain ecosystems."
+    },
+    {
+      "title": "Citi raises Q3 2026 Brent crude oil forecast to $80 a barrel",
+      "description": "The bank kept its fourth-quarter and full-year 2027 Brent forecasts unchanged at $70 and $65 a barrel, respectively",
+      "url": "https://qz.com/citi-oil-price-forecast-iran-nuclear-talks-080726?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T17:25:42+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The bank kept its fourth-quarter and full-year 2027 Brent forecasts unchanged at $70 and $65 a barrel, respectively"
+    },
+    {
+      "title": "Sebi to cut routine checks by two-thirds, focus on high-risk players",
+      "description": "The revamped framework emphasizes efficiency and will cut inspections to one-third of last year's volume.",
+      "url": "https://www.livemint.com/market/sebi-inspections-high-risk-intermediaries-brokers-equity-market-11786108148578.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/INDIA-REGULATIONS-TRADING-0_1786123144239_1786123156443_f084d9fc-bd9b-4000-bfec-57bdd55fb0cd.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-08-07T17:21:17+00:00",
+      "category": "India",
+      "simple_explanation": "The revamped framework emphasizes efficiency and will cut inspections to one-third of last year's volume."
+    },
+    {
+      "title": "Weekly Winner: Ujaas Energy jumps 68% this week as upbeat Q1 earnings fuel buying",
+      "description": "Ujaas Energy's shares surged 68% this week, reaching  ₹257.80 after strong June quarter results. Net profit rose 31% YoY, driven by increased revenue from solar power systems.",
+      "url": "https://www.livemint.com/market/stock-market-news/weekly-winner-ujaas-energy-jumps-68-this-week-as-upbeat-q1-earnings-fuel-buying-11786120993442.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/ge3df9b46e6b1f0442f0b4f15a4b1fd1473b38ec0f863cbf76_1725517601376_1786122904858_40104ee2-53b3-4ca1-8134-28c54cadfb75.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-07T17:17:40+00:00",
+      "category": "India",
+      "simple_explanation": "Ujaas Energy's shares surged 68% this week, reaching  ₹257.80 after strong June quarter results. Net profit rose 31% YoY, driven by increased revenue from solar power systems."
+    },
+    {
+      "title": "Update: US Equity Indexes Advance as Fed Policy-Pause Bets Rise Amid Unexpected Decline in Nonfarm Payrolls",
+      "description": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-advance-fed-171728340.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T17:17:28+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par"
+    },
+    {
+      "title": "Sen. Martin Heinrich bill to end oil company overseas tax breaks",
+      "description": "The legislation targets preferential tax treatment for overseas oil and gas extraction income as U.S. pump prices top $4 a gallon",
+      "url": "https://qz.com/martin-heinrich-bill-oil-overseas-tax-breaks-080726?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T17:13:32+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The legislation targets preferential tax treatment for overseas oil and gas extraction income as U.S. pump prices top $4 a gallon"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Pops As July Jobs Miss Dampens Rates View; Gold Stocks Shine (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index falls Friday on a surprise reading in the July jobs report. AI name Cloudflare stock soars on earnings.",
+      "url": "https://finance.yahoo.com/m/f31b7dd5-5905-3ff6-bb6f-3918f4e33295/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T17:04:37+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index falls Friday on a surprise reading in the July jobs report. AI name Cloudflare stock soars on earnings."
+    },
+    {
+      "title": "Reform UK chair calls for probe into SBF-linked donation: Report",
+      "description": "As the chairman of the Reform UK calls for an investigation into a FTX-linked political donation, the party’s leader prepares to face voters amid his own crypto-related scandal.",
+      "url": "https://cointelegraph.com/news/reform-uk-probe-ftx-sam-bankman-fried-donation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/sam-bankman-fried-portrait-uk.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-07T17:03:50+00:00",
+      "category": "Crypto",
+      "simple_explanation": "As the chairman of the Reform UK calls for an investigation into a FTX-linked political donation, the party’s leader prepares to face voters amid his own crypto-related scandal."
+    },
+    {
+      "title": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
+      "description": "Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
+      "url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-07T16:55:42+00:00",
+      "category": "USA",
+      "simple_explanation": "Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee."
+    },
+    {
+      "title": "Consumer Confidence Continues to Dip: 3 Utility Funds to Take Refuge in",
+      "description": "FKUTX, FSUTX and BULIX emerge as utility fund picks as falling consumer confidence, inflation concerns and market volatility drive investors toward defensive options.",
+      "url": "https://finance.yahoo.com/economy/articles/consumer-confidence-continues-dip-3-163700503.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T16:37:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "FKUTX, FSUTX and BULIX emerge as utility fund picks as falling consumer confidence, inflation concerns and market volatility drive investors toward defensive options."
     },
     {
       "title": "S&P 500 Touches All-Time High After Jobs Report Surprise",
@@ -33,16 +123,6 @@
       "simple_explanation": "Tech Powers S&P 500 to New High While Dow Stumbles After Jobs Data"
     },
     {
-      "title": "Stock Market Rally Powers Ahead; SpaceX, Palantir, Sandisk Are Key Earnings Movers: Weekly Review",
-      "description": "The S&P 500 and Dow Jones hit highs while the Nasdaq raced above key levels as oil prices and yields fell. Palantir, Cloudflare and SpaceX were big movers amid earings.",
-      "url": "https://finance.yahoo.com/m/4bbd3b4d-594f-317e-abf8-1e6e0fda7e15/stock-market-rally-powers.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T16:35:07+00:00",
-      "category": "USA",
-      "simple_explanation": "The S&P 500 and Dow Jones hit highs while the Nasdaq raced above key levels as oil prices and yields fell. Palantir, Cloudflare and SpaceX were big movers amid earings."
-    },
-    {
       "title": "Here are three key takeaways from the disappointing July jobs report",
       "description": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.",
       "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
@@ -51,6 +131,26 @@
       "published_at": "2026-08-07T16:34:09+00:00",
       "category": "USA",
       "simple_explanation": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals."
+    },
+    {
+      "title": "Should Investors Buy CRH as Infrastructure Growth Meets Housing Risks?",
+      "description": "CRH's earnings beat, infrastructure exposure and discounted valuation support the case, but housing weakness, costs and deal demands favor patience.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-crh-infrastructure-growth-163400348.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T16:34:00+00:00",
+      "category": "USA",
+      "simple_explanation": "CRH's earnings beat, infrastructure exposure and discounted valuation support the case, but housing weakness, costs and deal demands favor patience."
+    },
+    {
+      "title": "Is Gartner Stock a Buy as Low Valuation Meets Uneven Earnings Growth?",
+      "description": "IT's discounted valuation, rising earnings outlook and strong cash flow offer appeal, but uneven revenue growth and Consulting weakness add risk.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gartner-stock-buy-low-valuation-163000681.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T16:30:00+00:00",
+      "category": "USA",
+      "simple_explanation": "IT's discounted valuation, rising earnings outlook and strong cash flow offer appeal, but uneven revenue growth and Consulting weakness add risk."
     },
     {
       "title": "Cupid net profit jumps 194% YoY to  ₹44 crore in Q1 as margins expand sharply; raises FY27 guidance",
@@ -83,6 +183,16 @@
       "simple_explanation": "With options premiums still elevated due to the military conflict in the Gulf, selling puts on an energy major posting record free cash flow offers a rare opportunity."
     },
     {
+      "title": "Whirlpool Stock Faces a Buy, Hold or Wait Decision Amid Mixed Signals",
+      "description": "Whirlpool's recovery hinges on pricing gains, cost cuts and balance-sheet moves as weak demand and leverage keep investors cautious.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/whirlpool-stock-faces-buy-hold-162500745.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T16:25:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Whirlpool's recovery hinges on pricing gains, cost cuts and balance-sheet moves as weak demand and leverage keep investors cautious."
+    },
+    {
       "title": "Update: US Equity Indexes Rise as Fed Pause Odds Jump Amid Surprise Drop in Nonfarm Payrolls",
       "description": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par",
       "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-rise-fed-162155460.html?.tsrc=rss",
@@ -103,46 +213,6 @@
       "simple_explanation": "Investing.com - Citadel Securities' Scott Rubner has started advocating for adding structural exposure to gold for the first time in 2026, calling the current precious metals setup \"one of the more co"
     },
     {
-      "title": "CME Group (CME) Stock Looks Stretched As Its 56% Five Year Run Continues",
-      "description": "CME Group stock is coming off a solid 56.5% gain over the past five years, yet the latest valuation checks suggest it is not a clear bargain at its recent US$264.32 close. The intrinsic value estimate from the Excess Returns model points to a price that is broadly in line with the current market lev",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cme-group-cme-stock-looks-161833812.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T16:18:33+00:00",
-      "category": "Commodities",
-      "simple_explanation": "CME Group stock is coming off a solid 56.5% gain over the past five years, yet the latest valuation checks suggest it is not a clear bargain at its recent US$264.32 close. The intrinsic value estimate"
-    },
-    {
-      "title": "First Solar Diversifies The Source Of Your Risk, Not Its Size",
-      "description": "Its five-year correlation to the market is low, and that buys a different kind of risk rather than less of it.",
-      "url": "https://www.trefis.com/articles/610601/first-solar-diversifies-the-source-of-your-risk-not-its-size/2026-08-07?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T16:16:38+00:00",
-      "category": "USA",
-      "simple_explanation": "Its five-year correlation to the market is low, and that buys a different kind of risk rather than less of it."
-    },
-    {
-      "title": "What Lumentum Stock Adds To A Portfolio Is Not Safety",
-      "description": "This optical supplier retains behavior of its own next to the broad market, and its swings run far wider than the index's.",
-      "url": "https://www.trefis.com/articles/610600/what-lumentum-stock-adds-to-a-portfolio-is-not-safety/2026-08-07?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T16:05:50+00:00",
-      "category": "USA",
-      "simple_explanation": "This optical supplier retains behavior of its own next to the broad market, and its swings run far wider than the index's."
-    },
-    {
-      "title": "Plains All American Pipeline Q2 Earnings Call Highlights",
-      "description": "Plains All American Pipeline (NASDAQ:PAA) reported second-quarter adjusted EBITDA attributable to Plains of $738 million and said it remains on track to meet its full-year 2026 adjusted EBITDA guidance of $2.88 billion, plus or minus $75 million. Chairman, CEO and President Willie Chiang said the c",
-      "url": "https://www.marketbeat.com/instant-alerts/plains-all-american-pipeline-q2-earnings-call-highlights-2026-08-07/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T16:04:23+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Plains All American Pipeline (NASDAQ:PAA) reported second-quarter adjusted EBITDA attributable to Plains of $738 million and said it remains on track to meet its full-year 2026 adjusted EBITDA guidanc"
-    },
-    {
       "title": "Top Democrat proposes killing tax breaks for overseas oil production",
       "description": "Gas prices in the U.S. averaged $4.06 per gallon on Thursday — a major source of voter discontent heading into November's midterm elections.",
       "url": "https://www.cnbc.com/2026/08/07/martin-heinrich-tax-breaks-overseas-oil-production.html",
@@ -151,16 +221,6 @@
       "published_at": "2026-08-07T16:00:01+00:00",
       "category": "USA",
       "simple_explanation": "Gas prices in the U.S. averaged $4.06 per gallon on Thursday — a major source of voter discontent heading into November's midterm elections."
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Rallies After Surprise July Jobs Reading; SpaceX Soars (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index falls Friday on a surprise reading in the July jobs report. AI name Cloudflare stock soars on earnings.",
-      "url": "https://finance.yahoo.com/m/f31b7dd5-5905-3ff6-bb6f-3918f4e33295/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T15:58:27+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index falls Friday on a surprise reading in the July jobs report. AI name Cloudflare stock soars on earnings."
     },
     {
       "title": "Raymond Realty Q1 net profit falls 19 pc to Rs 13.43 cr on higher expenses",
@@ -183,26 +243,6 @@
       "simple_explanation": "Gold prices reached a seven-week high on Friday owing to surprising job losses in the United States that lowered the likelihood of upcoming rate hikes. This trend puts gold on track for its best weekl"
     },
     {
-      "title": "Dollar drops, stocks climb as weak US jobs data eases rate fears",
-      "description": "The dollar fell sharply Friday after the US economy shed thousands of jobs in July, an economic blow that lowered the risk of an interest rate hike by the Federal Reserve that could slow growth in the world's biggest economy.Combined with steep downward revisions to US jobs readings in May and June,",
-      "url": "https://finance.yahoo.com/energy/articles/oil-extends-gains-stocks-fall-024841858.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T15:54:55+00:00",
-      "category": "USA",
-      "simple_explanation": "The dollar fell sharply Friday after the US economy shed thousands of jobs in July, an economic blow that lowered the risk of an interest rate hike by the Federal Reserve that could slow growth in the"
-    },
-    {
-      "title": "History Says This Is the Single Best Strategy for Investors if a Market Crash Is Imminent",
-      "description": "This group of stocks tends to hold up well in downturns and keep up with the market during upswings.",
-      "url": "https://www.fool.com/investing/2026/08/07/history-says-single-best-strategy-for-market-crash/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T15:52:00+00:00",
-      "category": "USA",
-      "simple_explanation": "This group of stocks tends to hold up well in downturns and keep up with the market during upswings."
-    },
-    {
       "title": "The U.S. Didn’t Buy a Drop of Saudi Oil in July — the First Time in 41 Years",
       "description": "A 40-year streak just snapped, and it happened fast enough that most investors missed it entirely. The forces reshaping U.S. crude imports in 2026 point to a handful of refiners and one major sitting at the center of a political and commodity storm.",
       "url": "https://247wallst.com/investing/2026/08/07/the-u-s-didnt-buy-a-drop-of-saudi-oil-in-july-the-first-time-in-41-years/?.tsrc=rss",
@@ -223,16 +263,6 @@
       "simple_explanation": "Bitcoin’s climb to $65,000 failed to lift Bitcoin mining stocks, even as MSTR, CRCL, and other crypto-linked equities moved higher."
     },
     {
-      "title": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
-      "description": "Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
-      "url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-07T15:27:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee."
-    },
-    {
       "title": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets",
       "description": "Bitcoin hit month-to-date highs above $65,000 as risk-assets gained on low US nonfarm payrolls data.",
       "url": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -243,16 +273,6 @@
       "simple_explanation": "Bitcoin hit month-to-date highs above $65,000 as risk-assets gained on low US nonfarm payrolls data."
     },
     {
-      "title": "How Will These 3 Energy Stocks Perform This Earnings Season?",
-      "description": "Here is what to expect from CRC, SDRL and INR stocks ahead of their quarterly earnings reports, which are set to be released on Aug. 10, 2026.",
-      "url": "https://finance.yahoo.com/energy/articles/3-energy-stocks-perform-earnings-151600684.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T15:16:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Here is what to expect from CRC, SDRL and INR stocks ahead of their quarterly earnings reports, which are set to be released on Aug. 10, 2026."
-    },
-    {
       "title": "Crypto Biz: Crypto’s biggest business is starting to look a lot like banking",
       "description": "Crypto business is converging with banking as stablecoin reserves, tokenized funds, Treasury income and balance sheet management become key profit drivers.",
       "url": "https://cointelegraph.com/news/crypto-biz-crypto-business-converges-traditional-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -261,6 +281,16 @@
       "published_at": "2026-08-07T15:07:49+00:00",
       "category": "Crypto",
       "simple_explanation": "Crypto business is converging with banking as stablecoin reserves, tokenized funds, Treasury income and balance sheet management become key profit drivers."
+    },
+    {
+      "title": "Opinion - The US should invest in light crude refining before the next chokepoint closes",
+      "description": "America should invest in light crude refining for three reasons.",
+      "url": "https://thehill.com/opinion/energy-environment/6014954-us-light-crude-refining-investment/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T15:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "America should invest in light crude refining for three reasons."
     },
     {
       "title": "Airbnb shares surge 16% to 4-year high on Q2 beat; full-year outlook raised for second time",
@@ -281,6 +311,16 @@
       "published_at": "2026-08-07T14:37:50+00:00",
       "category": "India",
       "simple_explanation": "Airbnb shares surged nearly 15% after the company raised its annual revenue growth forecast, citing resilient global travel demand and AI-driven efficiency. Better-than-expected quarterly revenue and "
+    },
+    {
+      "title": "5 High ROE Stocks to Buy as Oil Price Surge Hits Short-Term Rally",
+      "description": "Oil-price fears ended a five-day market rally, spotlighting MU, ANET, AVGO, IT and AME stocks with ROE above their industries and solid earnings growth.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-roe-stocks-buy-143200449.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T14:32:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil-price fears ended a five-day market rally, spotlighting MU, ANET, AVGO, IT and AME stocks with ROE above their industries and solid earnings growth."
     },
     {
       "title": "US Economy Loses 23,000 Jobs, Gold Jumps 3%: What Do Prediction Markets Say About Rate Hikes?",
@@ -333,16 +373,6 @@
       "simple_explanation": "Coeur Mining (CDE) has come into focus after a sector wide rally in precious metals stocks linked to rising gold prices, alongside the company’s record quarterly revenue, new buyback plan, and first d"
     },
     {
-      "title": "Royal Gold (RGLD) Is Up 7.4% After Strong Q2 2026 Results And Higher Full-Year Volume Guidance",
-      "description": "Royal Gold, Inc. reported past second-quarter 2026 earnings with sales rising to US$450.54 million and net income to US$236.39 million, alongside stronger earnings per share versus a year earlier, and similarly higher sales and profit for the first half of 2026. Alongside these results, Royal Gold i",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-rgld-7-4-141730467.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T14:17:30+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Royal Gold, Inc. reported past second-quarter 2026 earnings with sales rising to US$450.54 million and net income to US$236.39 million, alongside stronger earnings per share versus a year earlier, and"
-    },
-    {
       "title": "Pulse of the Street: Small-caps steal the show as equities extend gains",
       "description": "The benchmarks gained 0.51% and 0.76%, respectively, during the week.",
       "url": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-small-caps-steal-the-show-as-equities-extend-gains-11786106174324.html",
@@ -371,36 +401,6 @@
       "published_at": "2026-08-07T13:56:34+00:00",
       "category": "India",
       "simple_explanation": "As of 9:55 a.m. Eastern Time, the S&amp;P 500 rose 0.4%, the Dow Jones Industrial Average rose 0.2%, and the Nasdaq Composite rose 1%."
-    },
-    {
-      "title": "SBI Q1 profit beats estimates on strong loan growth, asset quality",
-      "description": "SBI reported a 10% rise in Q1 net profit to Rs 21,121 crore, beating estimates on robust loan growth and higher net interest income. Improved asset quality, lower bad-loan provisions and strong credit demand offset weaker treasury income and slightly lower margins.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q1-profit-beats-estimates-on-strong-loan-growth-asset-quality/articleshow/133035822.cms",
-      "image": "https://img.etimg.com/photo/msid-133035822,imgsize-56742.cms",
-      "source": "ET Markets",
-      "published_at": "2026-08-07T13:53:19+00:00",
-      "category": "India",
-      "simple_explanation": "SBI reported a 10% rise in Q1 net profit to Rs 21,121 crore, beating estimates on robust loan growth and higher net interest income. Improved asset quality, lower bad-loan provisions and strong credit"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-07T13:49:35+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "Odds the Fed will hike in September tumble following big July jobs miss",
-      "description": "A weaker labor market would weaken the case for raising rates, which some members of the central bank have called for amid higher energy prices.",
-      "url": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-08-07T13:34:44+00:00",
-      "category": "Global",
-      "simple_explanation": "A weaker labor market would weaken the case for raising rates, which some members of the central bank have called for amid higher energy prices."
     }
   ]
 }
