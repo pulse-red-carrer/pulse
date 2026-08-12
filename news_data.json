@@ -1,16 +1,126 @@
 {
-  "last_updated": "2026-08-12T14:56:34.310550+00:00",
+  "last_updated": "2026-08-12T16:00:49.316019+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Stock Market Today: Nasdaq Leads Charge As Super Micro Jumps Higher (Live Coverage)",
+      "title": "Trump sued over Truth Social advance access sale",
+      "description": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
+      "url": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-12T15:57:45+00:00",
+      "category": "USA",
+      "simple_explanation": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets."
+    },
+    {
+      "title": "‘Successor… not Warren’: Michael Burry says ‘Berkshire is no longer attractive’ over $400 billon cash pile concerns",
+      "description": "Berkshire Hathaway, once a market leader, has struggled since Warren Buffett's departure. New CEO Greg Abel is starting to utilise the company's $400 billion cash pile, but scepticism remains",
+      "url": "https://www.livemint.com/market/stock-market-news/successor-not-warren-michael-burry-says-berkshire-is-no-longer-attractive-over-400-billon-cash-pile-concerns-11786546125231.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/2-0-103969983-Warren-Buffet-3C--0_1681387710704_1786549583454_c06e3f4e-3f58-46c7-bb83-2604503af89a.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-12T15:50:51+00:00",
+      "category": "India",
+      "simple_explanation": "Berkshire Hathaway, once a market leader, has struggled since Warren Buffett's departure. New CEO Greg Abel is starting to utilise the company's $400 billion cash pile, but scepticism remains"
+    },
+    {
+      "title": "Top Midday Stories: Consumer Prices Rise 3.4% YoY in July; CoreWeave Q2 Loss Narrower Than Expectations",
+      "description": "The S&P 500 Index and Nasdaq Composite were up slightly, while the Dow Jones Industrial Average was",
+      "url": "https://finance.yahoo.com/economy/articles/top-midday-stories-consumer-prices-154913304.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-12T15:49:13+00:00",
+      "category": "USA",
+      "simple_explanation": "The S&P 500 Index and Nasdaq Composite were up slightly, while the Dow Jones Industrial Average was"
+    },
+    {
+      "title": "European Stocks Close Lower in Wednesday Trading; German Inflation Accelerates",
+      "description": "After tracking moderately higher earlier in the trading session, European stock markets closed lower",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-lower-wednesday-154652982.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-12T15:46:52+00:00",
+      "category": "Commodities",
+      "simple_explanation": "After tracking moderately higher earlier in the trading session, European stock markets closed lower"
+    },
+    {
+      "title": "How Internal AI Efficiency Unlocks Guidewire Software’s (GWRE) Profitability?",
+      "description": "Baron Capital, an investment management company, released its Q2 2026 investor letter for the “Baron Opportunity Fund”. A copy of the letter is available to download here. During the second quarter, the Baron Opportunity Fund increased 27.07% (Institutional Shares), outperforming both the Russell 30",
+      "url": "https://finance.yahoo.com/technology/ai/articles/internal-ai-efficiency-unlocks-guidewire-154603970.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-12T15:46:03+00:00",
+      "category": "USA",
+      "simple_explanation": "Baron Capital, an investment management company, released its Q2 2026 investor letter for the “Baron Opportunity Fund”. A copy of the letter is available to download here. During the second quarter, t"
+    },
+    {
+      "title": "Apollo Hospitals Q1 Results: Net profit jumps 38% YoY to Rs 610 crore; revenue rises 21%",
+      "description": "Apollo Hospitals reported a 38.4% year-on-year rise in Q1FY27 net profit to ₹610 crore, while revenue grew 20.6% to ₹7,044 crore. EBITDA increased 28.2%, supported by higher healthcare volumes, complex procedures, capacity expansion and strong international patient growth.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/apollo-hospitals-q1-results-net-profit-jumps-38-yoy-to-rs-610-crore-revenue-rises-21/articleshow/133187109.cms",
+      "image": "https://img.etimg.com/photo/msid-133187109,imgsize-22734.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-12T15:43:31+00:00",
+      "category": "India",
+      "simple_explanation": "Apollo Hospitals reported a 38.4% year-on-year rise in Q1FY27 net profit to ₹610 crore, while revenue grew 20.6% to ₹7,044 crore. EBITDA increased 28.2%, supported by higher healthcare volumes, comple"
+    },
+    {
+      "title": "Trump officials float cut to capital gains tax on home sales. What it could mean for homeowners",
+      "description": "Trump officials may be considering a tax break for homeowners selling their primary residence in the lead up to the midterm elections.",
+      "url": "https://www.cnbc.com/2026/08/12/trump-officials-float-cut-to-capital-gains-tax-on-home-sales.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-12T15:41:24+00:00",
+      "category": "USA",
+      "simple_explanation": "Trump officials may be considering a tax break for homeowners selling their primary residence in the lead up to the midterm elections."
+    },
+    {
+      "title": "Tech just got cheaper - what it means for the bull market",
+      "description": "In today's Chart of the Day, Yahoo Finance Markets & Data Editor Jared Blikre breaks down the tech market’s latest reset, why valuations are becoming more attractive even as earnings remain strong, and what it could mean for the broader bull market heading into the end of the year.",
+      "url": "https://finance.yahoo.com/video/tech-just-got-cheaper-means-154100291.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-12T15:41:00+00:00",
+      "category": "USA",
+      "simple_explanation": "In today's Chart of the Day, Yahoo Finance Markets & Data Editor Jared Blikre breaks down the tech market’s latest reset, why valuations are becoming more attractive even as earnings remain strong, an"
+    },
+    {
+      "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
+      "description": "Retail investors' access to information could take a hit at a time when they are more important than ever in financial markets.",
+      "url": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-12T15:37:25+00:00",
+      "category": "USA",
+      "simple_explanation": "Retail investors' access to information could take a hit at a time when they are more important than ever in financial markets."
+    },
+    {
+      "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
+      "description": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
+      "url": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-12T15:37:19+00:00",
+      "category": "USA",
+      "simple_explanation": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion."
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Advances As Lumentum Soars On AI Demand, Earnings Beat (Live Coverage)",
       "description": "Stock Market Today: The Dow Jones index rises on a key CPI inflation report. Nvidia partner CoreWeave soars on earnings.",
       "url": "https://finance.yahoo.com/m/14192882-2d0d-3020-8314-bc5352b1fdcf/stock-market-today%3A-nasdaq.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-12T14:43:52+00:00",
+      "published_at": "2026-08-12T15:19:11+00:00",
       "category": "USA",
       "simple_explanation": "Stock Market Today: The Dow Jones index rises on a key CPI inflation report. Nvidia partner CoreWeave soars on earnings."
+    },
+    {
+      "title": "Red Metal Leases its Irene and Margarita Copper-Gold Concessions to Local Artisanal Miner",
+      "description": "RED METAL RESOURCES LTD. (\"Red Metal\" or the \"Company\") (CSE: RMES) (OTCPINK: RMESF) (FSE: I660) is pleased to announce that its wholly owned Chilean subsidiary, Minera Polymet SpA (\"Polymet\"), has entered into a renewable five-year lease agreement with Construcción Minería y Servicios Catalina Ltda",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/red-metal-leases-irene-margarita-151500503.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-12T15:15:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "RED METAL RESOURCES LTD. (\"Red Metal\" or the \"Company\") (CSE: RMES) (OTCPINK: RMESF) (FSE: I660) is pleased to announce that its wholly owned Chilean subsidiary, Minera Polymet SpA (\"Polymet\"), has en"
     },
     {
       "title": "Here's the inflation breakdown for July 2026 — in one chart",
@@ -18,59 +128,89 @@
       "url": "https://www.cnbc.com/2026/08/12/inflation-breakdown-for-july-2026-cpi-in-one-chart.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-08-12T14:41:44+00:00",
+      "published_at": "2026-08-12T15:13:18+00:00",
       "category": "USA",
       "simple_explanation": "Costs remain elevated for consumers, however inflation is showing some signs of easing, economists say."
     },
     {
-      "title": "Micron Technology’s (MU) Competitive Edge in a Rapidly Evolving Industry",
-      "description": "aron Capital, an investment management company, released its Q2 2026 investor letter for the “Baron Opportunity Fund”. A copy of the letter is available to download here. During the second quarter, the Baron Opportunity Fund increased 27.07% (Institutional Shares), outperforming both the Russell 300",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-competitive-edge-143850791.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-12T14:38:50+00:00",
-      "category": "USA",
-      "simple_explanation": "aron Capital, an investment management company, released its Q2 2026 investor letter for the “Baron Opportunity Fund”. A copy of the letter is available to download here. During the second quarter, th"
+      "title": "From Trent to Titan: Over 15 Tata Group stocks more than doubled investors' wealth during Chandrasekaran's tenure",
+      "description": "Under N Chandrasekaran, Tata Group stocks significantly increased in value, with many achieving over 1,000% gains. Chandrasekaran has announced that he will not seek reappointment as chairman when his term ends in February 2027, marking the end of a notable 40-year tenure.",
+      "url": "https://www.livemint.com/market/stock-market-news/over-15-tata-group-stocks-more-than-doubled-investors-wealth-under-chandras-tenure-as-chairman-of-tata-sons-11786543718013.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/ANI-20260526316-0_1786016372858_1786016380084_acadaea8-1bb7-4ac1-82ab-ebfc010428da_1786543715363_291cbc5c-d8f7-410e-858c-47ae88ea85aa.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-12T15:08:20+00:00",
+      "category": "India",
+      "simple_explanation": "Under N Chandrasekaran, Tata Group stocks significantly increased in value, with many achieving over 1,000% gains. Chandrasekaran has announced that he will not seek reappointment as chairman when his"
     },
     {
-      "title": "Space Exploration Technologies Corp (SPCX) Leads Fund’s Performance Following Historic Initial Public Offering",
+      "title": "Cerebras Systems (CBRS) Is Uniquely Positioned to Own the Fast Inference Market",
       "description": "Baron Capital, an investment management company, released its Q2 2026 investor letter for the “Baron Opportunity Fund”. A copy of the letter is available to download here. During the second quarter, the Baron Opportunity Fund increased 27.07% (Institutional Shares), outperforming both the Russell 30",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-corp-spcx-143556597.html?.tsrc=rss",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-cbrs-uniquely-positioned-150720824.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-12T14:35:56+00:00",
+      "published_at": "2026-08-12T15:07:20+00:00",
       "category": "USA",
       "simple_explanation": "Baron Capital, an investment management company, released its Q2 2026 investor letter for the “Baron Opportunity Fund”. A copy of the letter is available to download here. During the second quarter, t"
     },
     {
-      "title": "1 Vanguard ETF That Outperforms the S&P 500 and Still Has Room to Run",
-      "description": "It has proven to be a market-beater in more years than not.",
-      "url": "https://www.fool.com/investing/2026/08/12/1-vanguard-etf-that-outperforms-the-sp-500-and-has/?.tsrc=rss",
+      "title": "Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%",
+      "description": "Bitcoin price action did not reflect relief in US CPI inflation numbers matching expectations amid a warning over $63,000 failing as support.",
+      "url": "https://cointelegraph.com/markets/bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/us-inflation-2.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-12T15:00:10+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin price action did not reflect relief in US CPI inflation numbers matching expectations amid a warning over $63,000 failing as support."
+    },
+    {
+      "title": "Baron Opportunity Fund Trimmed Datadog (DDOG) After Rally",
+      "description": "Baron Capital, an investment management company, released its Q2 2026 investor letter for the “Baron Opportunity Fund”. A copy of the letter is available to download here. During the second quarter, the Baron Opportunity Fund increased 27.07% (Institutional Shares), outperforming both the Russell 30",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/baron-opportunity-fund-trimmed-datadog-145853537.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-12T14:35:00+00:00",
+      "published_at": "2026-08-12T14:58:53+00:00",
       "category": "USA",
-      "simple_explanation": "It has proven to be a market-beater in more years than not."
+      "simple_explanation": "Baron Capital, an investment management company, released its Q2 2026 investor letter for the “Baron Opportunity Fund”. A copy of the letter is available to download here. During the second quarter, t"
     },
     {
-      "title": "Mortgage rates finally stop rising, causing demand to trickle back",
-      "description": "Mortgage rates finally eased a tiny bit, but it was enough to bring some demand back to a very beleaguered mortgage market.",
-      "url": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
+      "title": "IEA and OPEC split on global oil demand estimates as Strait of Hormuz closure drags",
+      "description": "The world's two most watched oil forecasters published sharply conflicting views of 2026 on Wednesday, with the IEA deepening its call for the first annual demand decline since the pandemic while OPEC still sees consumption growing, as the closure of the Strait of Hormuz drags on.View on euronews",
+      "url": "https://www.euronews.com/2026/08/12/iea-and-opec-split-on-global-oil-demand-estimates-as-strait-of-hormuz-closure-drags?.tsrc=rss",
       "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-12T14:28:39+00:00",
-      "category": "USA",
-      "simple_explanation": "Mortgage rates finally eased a tiny bit, but it was enough to bring some demand back to a very beleaguered mortgage market."
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-12T14:50:10+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The world's two most watched oil forecasters published sharply conflicting views of 2026 on Wednesday, with the IEA deepening its call for the first annual demand decline since the pandemic while OPEC"
     },
     {
-      "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
-      "description": "The consumer price index was expected to increase 0.1% in July, with an annual rate of 3.4%.",
-      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+      "title": "Shein's slowing growth tests investor appetite ahead of Hong Kong IPO",
+      "description": "Shein’s upcoming IPO faces skepticism from investors due to a notable decline in growth rates. The fast-fashion giant is grappling with rising costs and evolving market dynamics that challenge its established business model. Concerns are mounting regarding whether Shein can replicate its previous gr",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/sheins-slowing-growth-tests-investor-appetite-ahead-of-hong-kong-ipo/articleshow/133185999.cms",
+      "image": "https://img.etimg.com/photo/msid-133185999,imgsize-47234.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-12T14:46:13+00:00",
+      "category": "India",
+      "simple_explanation": "Shein’s upcoming IPO faces skepticism from investors due to a notable decline in growth rates. The fast-fashion giant is grappling with rising costs and evolving market dynamics that challenge its est"
+    },
+    {
+      "title": "IndiQube Spaces Q1 revenue jumps 37% to record Rs 428 crore",
+      "description": "IndiQube Spaces reported record Q1FY27 revenue of ₹428 crore, up 37% year-on-year. EBITDA rose 34%, while PAT surged 91% to ₹35 crore. Area under management and seat capacity expanded, alongside stronger occupancy and rapidly growing value-added services.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/indiqube-spaces-q1-revenue-jumps-37-to-record-rs-428-crore/articleshow/133185923.cms",
+      "image": "https://img.etimg.com/photo/msid-133185923,imgsize-22744.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-12T14:42:19+00:00",
+      "category": "India",
+      "simple_explanation": "IndiQube Spaces reported record Q1FY27 revenue of ₹428 crore, up 37% year-on-year. EBITDA rose 34%, while PAT surged 91% to ₹35 crore. Area under management and seat capacity expanded, alongside stron"
+    },
+    {
+      "title": "EIA Sees Massive Uptick in US Crude Oil Inventories",
+      "description": "Crude oil inventories in the United States saw a massive increase of 17.4 million barrels during the week ending August 7, according to new data from the U.S. Energy Information Administration (EIA) released on Wednesday",
+      "url": "https://finance.yahoo.com/energy/articles/eia-sees-massive-uptick-us-143818347.html?.tsrc=rss",
       "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-12T14:27:35+00:00",
-      "category": "USA",
-      "simple_explanation": "The consumer price index was expected to increase 0.1% in July, with an annual rate of 3.4%."
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-12T14:38:18+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Crude oil inventories in the United States saw a massive increase of 17.4 million barrels during the week ending August 7, according to new data from the U.S. Energy Information Administration (EIA) r"
     },
     {
       "title": "Nvidia, Apple, Google fuel record $185 billion gain for Norway’s wealth fund, but CEO say, ‘We are really cautious’",
@@ -83,16 +223,6 @@
       "simple_explanation": "Norway's $2.3 trillion sovereign wealth fund reported a record $185 billion in investment returns for the first half of the year, recovering from losses in early 2023."
     },
     {
-      "title": "Home Depot CEO Decker Is Taking a Medical Leave of Absence. It’s One Reason Why the Stock Is Falling.",
-      "description": "Two senior executives including Home Depot’s chief financial officer will oversee operations in CEO Ted Decker’s absence.",
-      "url": "https://finance.yahoo.com/m/d7d4f956-cb9e-34f0-bf35-53bbf4c5644d/home-depot-ceo-decker-is.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-12T14:17:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Two senior executives including Home Depot’s chief financial officer will oversee operations in CEO Ted Decker’s absence."
-    },
-    {
       "title": "Canada Commodities: Oil Prices Fall Despite Attacks on Ships in The Red Sea, Gulf of Oman; Gold Rises",
       "description": "Oil prices edged down Wednesday morning, shrugging off reports of vessel attacks in the Red Sea and",
       "url": "https://finance.yahoo.com/markets/commodities/articles/canada-commodities-oil-prices-fall-141628678.html?.tsrc=rss",
@@ -101,16 +231,6 @@
       "published_at": "2026-08-12T14:16:28+00:00",
       "category": "Commodities",
       "simple_explanation": "Oil prices edged down Wednesday morning, shrugging off reports of vessel attacks in the Red Sea and"
-    },
-    {
-      "title": "Signia Small Cap Value Strategy Sold Hudbay Minerals (HBM) at Valuation Target",
-      "description": "Signia Capital Management, a boutique money management firm focusing on Small-Micro Cap and Small Cap Value investing, released its second-quarter 2026 investor letter for “Signia Small Cap Value Strategy”. A copy of the letter can be downloaded here. The Small Cap Value approach targets high-qualit",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/signia-small-cap-value-strategy-141534643.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-12T14:15:34+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Signia Capital Management, a boutique money management firm focusing on Small-Micro Cap and Small Cap Value investing, released its second-quarter 2026 investor letter for “Signia Small Cap Value Stra"
     },
     {
       "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
@@ -123,16 +243,6 @@
       "simple_explanation": "The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review."
     },
     {
-      "title": "Navigating Liberty Energy’s (LBRT) Journey From Oilfield Services to Data Center Power",
-      "description": "Signia Capital Management, a boutique money management firm focusing on Small-Micro Cap and Small Cap Value investing, released its second-quarter 2026 investor letter for “Signia Small Cap Value Strategy”. A copy of the letter can be downloaded here. The Small Cap Value approach targets high-qualit",
-      "url": "https://finance.yahoo.com/energy/articles/navigating-liberty-energy-lbrt-journey-141347774.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-12T14:13:47+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Signia Capital Management, a boutique money management firm focusing on Small-Micro Cap and Small Cap Value investing, released its second-quarter 2026 investor letter for “Signia Small Cap Value Stra"
-    },
-    {
       "title": "Pilani Investment to sell 1.7 million UltraTech Cement shares for ₹1,908 crore",
       "description": "Pilani Investment plans to sell 1.7 million UltraTech Cement shares valued at ₹1,908 crore on August 13, 2026, at a 3% discount. Separately, UltraTech Cement is acquiring a 26% stake in Solaris Horizon Energy to support its green energy initiatives.",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/pilani-investment-to-sell-1-7-million-ultratech-cement-shares-for-1908-crore/articleshow/133185360.cms",
@@ -143,24 +253,14 @@
       "simple_explanation": "Pilani Investment plans to sell 1.7 million UltraTech Cement shares valued at ₹1,908 crore on August 13, 2026, at a 3% discount. Separately, UltraTech Cement is acquiring a 26% stake in Solaris Horizo"
     },
     {
-      "title": "Wall Street rises after in-line consumer inflation data",
-      "description": "In early trading, the Dow Jones Industrial Average was up 0.2% at 53,872.05. The broad-based S&amp;P 500 rose 0.4% to 7,756.22, while the tech-rich Nasdaq Composite Index jumped 0.7% to 26,641.91",
+      "title": "Wall Street rises after in-line consumer inflation data, AI and chip stocks jump",
+      "description": "As of 10:30 a.m. Eastern Time, the S&amp;P 500 added 0.3%, the Dow Jones Industrial Average was up 0.1%, and the Nasdaq Composite was 0.7% higher.",
       "url": "https://www.livemint.com/market/stock-market-news/wall-street-rises-after-in-line-consumer-inflation-data-11786543193377.html",
       "image": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/nyse_1784814697415_1784814697581_650666e6-068a-4d72-80c4-0030fce2fed5_1786543309444_652a262a-ece2-4240-a23a-33dfa1439392.jpg",
       "source": "LiveMint",
       "published_at": "2026-08-12T14:10:32+00:00",
       "category": "India",
-      "simple_explanation": "In early trading, the Dow Jones Industrial Average was up 0.2% at 53,872.05. The broad-based S&amp;P 500 rose 0.4% to 7,756.22, while the tech-rich Nasdaq Composite Index jumped 0.7% to 26,641.91"
-    },
-    {
-      "title": "Fidelity Drops Sharp Take On Stock Market",
-      "description": "One crucial difference separates today's rally from dot-com era",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fidelity-drops-sharp-stock-market-140634929.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-12T14:06:34+00:00",
-      "category": "USA",
-      "simple_explanation": "One crucial difference separates today's rally from dot-com era"
+      "simple_explanation": "As of 10:30 a.m. Eastern Time, the S&amp;P 500 added 0.3%, the Dow Jones Industrial Average was up 0.1%, and the Nasdaq Composite was 0.7% higher."
     },
     {
       "title": "Sebi lowers stress testing limit for commodity derivatives",
@@ -193,16 +293,6 @@
       "simple_explanation": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models."
     },
     {
-      "title": "Trust, but hedge: Quietly violent summer lingers as bulls buy crash protection",
-      "description": "It's been a wild summer for stocks, even if it may not feel like it at surface level.",
-      "url": "https://www.cnbc.com/2026/08/12/trust-but-hedge-quietly-violent-summer-lingers-as-bulls-buy-crash-protection.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-12T13:59:17+00:00",
-      "category": "USA",
-      "simple_explanation": "It's been a wild summer for stocks, even if it may not feel like it at surface level."
-    },
-    {
       "title": "Kalshi launches sports and crypto perps data feed on DoubleZero",
       "description": "Kalshi launched access to its sports and crypto perpetual data feed through DoubleZero’s dedicated fiber network to bolster institutional data access.",
       "url": "https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -221,26 +311,6 @@
       "published_at": "2026-08-12T13:58:27+00:00",
       "category": "India",
       "simple_explanation": "NHC Foods shares rose 5% to  ₹1.30 after a strong Q1 FY27, with revenue up 234.54% YoY. The company reported an EBITDA growth of 512.43% and a profit increase of 919.81%. Plans include a strategic inv"
-    },
-    {
-      "title": "The International Dividend Trade Keeps Working: These 3 ETFs Outyield SCHD by 2 Points and Beat the S&P 500 Too",
-      "description": "A weaker dollar and shifting global policy have put three international dividend funds on a collision course with SCHD, and the results challenge everything US-focused income investors thought they knew about yield and total return.",
-      "url": "https://247wallst.com/investing/2026/08/12/the-international-dividend-trade-keeps-working-these-3-etfs-outyield-schd-by-2-points-and-beat-the-sp-500-too/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-12T13:57:02+00:00",
-      "category": "USA",
-      "simple_explanation": "A weaker dollar and shifting global policy have put three international dividend funds on a collision course with SCHD, and the results challenge everything US-focused income investors thought they kn"
-    },
-    {
-      "title": "IEA Forecasts Sharper Decline in 2026 Oil Demand Amid Hormuz Closure",
-      "description": "The International Energy Agency on Wednesday projected a larger decline in global oil demand this ye",
-      "url": "https://finance.yahoo.com/energy/articles/iea-forecasts-sharper-decline-2026-135554491.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-12T13:55:54+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The International Energy Agency on Wednesday projected a larger decline in global oil demand this ye"
     },
     {
       "title": "S&P 500 hits record high after July CPI data; CoreWeave stock jumps 21%",
@@ -263,24 +333,14 @@
       "simple_explanation": "Horizon Industrial Parks plans to expand in existing markets, enter more ier 2 cities and diversify its customer base as institutional capital reshapes India’s industrial and warehousing sector."
     },
     {
-      "title": "CPI Inflation Data Cools As Expected, May Keep Fed Rate Hikes On Hold (Live Coverage)",
-      "description": "CPI inflation data for July cooled as expected. That could ease odds of a Fed rate hike next month. S&P 500 futures are higher.",
-      "url": "https://finance.yahoo.com/m/fc381ce1-32d1-3e4b-b42f-7d39e2664a53/cpi-inflation-data-cools-as.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-12T13:45:11+00:00",
-      "category": "USA",
-      "simple_explanation": "CPI inflation data for July cooled as expected. That could ease odds of a Fed rate hike next month. S&P 500 futures are higher."
-    },
-    {
-      "title": "US STOCKS SNAPSHOT-S&P 500, Nasdaq open higher after inflation data, earnings boost",
-      "description": "Major stock indexes opened higher on Wednesday morning. Investors assessed largely in-line inflation data released today. Upbeat earnings from some AI infrastructure companies provided additional support. The Dow Jones Industrial Average rose slightly at the open. The S&P 500 and Nasdaq Composite al",
+      "title": "US stocks: Nasdaq leads Wall Street higher as AI stocks rally, inflation supports Fed pause",
+      "description": "US stock markets rallied on Wednesday, with the Nasdaq taking the lead in gains. Encouraging earnings reports from AI infrastructure companies provided a notable boost to technology stocks. Inflation data matched expectations, fostering confidence that the Federal Reserve may opt to maintain current",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-snapshot-sp-500-nasdaq-open-higher-after-inflation-data-earnings-boost/articleshow/133184708.cms",
       "image": "https://img.etimg.com/photo/msid-133184708,imgsize-53588.cms",
       "source": "Economic Times",
       "published_at": "2026-08-12T13:45:08+00:00",
       "category": "India",
-      "simple_explanation": "Major stock indexes opened higher on Wednesday morning. Investors assessed largely in-line inflation data released today. Upbeat earnings from some AI infrastructure companies provided additional supp"
+      "simple_explanation": "US stock markets rallied on Wednesday, with the Nasdaq taking the lead in gains. Encouraging earnings reports from AI infrastructure companies provided a notable boost to technology stocks. Inflation "
     },
     {
       "title": "Tech leads sectors higher in early trading as chip stocks gain: AlphaCheck",
@@ -297,7 +357,7 @@
       "description": "MCX and NISM have signed an MoU to establish the MCX-NISM Centre for Commodity Markets, focusing on professional training, research, investor awareness and academic engagement. The initiative aims to strengthen expertise in commodity derivatives, risk management, compliance and responsible participa",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-nism-launch-centre-to-strengthen-indias-commodity-market-skills/articleshow/133184654.cms",
       "image": "https://img.etimg.com/photo/msid-133184654,imgsize-52114.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-08-12T13:39:27+00:00",
       "category": "India",
       "simple_explanation": "MCX and NISM have signed an MoU to establish the MCX-NISM Centre for Commodity Markets, focusing on professional training, research, investor awareness and academic engagement. The initiative aims to "
@@ -307,30 +367,10 @@
       "description": "Gokaldas Exports reported a 7% year-on-year rise in Q1FY27 net profit to ₹44 crore, while income climbed 21% to ₹1,180 crore. Recovery followed tariff disruptions, supported by stronger India order execution, Africa volumes and productivity initiatives.",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/gokaldas-exports-q1-profit-jumps-7-as-us-tariff-pressure-eases/articleshow/133184564.cms",
       "image": "https://img.etimg.com/photo/msid-133184564,imgsize-27480.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-08-12T13:36:35+00:00",
       "category": "India",
       "simple_explanation": "Gokaldas Exports reported a 7% year-on-year rise in Q1FY27 net profit to ₹44 crore, while income climbed 21% to ₹1,180 crore. Recovery followed tariff disruptions, supported by stronger India order ex"
-    },
-    {
-      "title": "Nasdaq Rallies After In-Line Inflation Report",
-      "description": "Stocks were rallying out of the gate on Wednesday after Wall Street shrugged off the latest inflation report. The Dow Jones Industrial Average rose 101 points, or 0.2%. The S&P 500 was up 0.5%. The Nasdaq Composite gained 0.",
-      "url": "https://finance.yahoo.com/m/4c0fcaa1-19bf-3021-837b-7c7f65336644/nasdaq-rallies-after-in-line.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-12T13:34:19+00:00",
-      "category": "USA",
-      "simple_explanation": "Stocks were rallying out of the gate on Wednesday after Wall Street shrugged off the latest inflation report. The Dow Jones Industrial Average rose 101 points, or 0.2%. The S&P 500 was up 0.5%. The Na"
-    },
-    {
-      "title": "4 Value Stocks to Buy Amid Tech Sell-Off and Rising Geopolitical Risks",
-      "description": "AVT joins three value stocks highlighted for low P/CF ratios as investors seek resilience amid a tech sell-off and rising geopolitical risks.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/4-value-stocks-buy-amid-133300203.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-12T13:33:00+00:00",
-      "category": "USA",
-      "simple_explanation": "AVT joins three value stocks highlighted for low P/CF ratios as investors seek resilience amid a tech sell-off and rising geopolitical risks."
     },
     {
       "title": "Slovenia joins EU’s MiCA stablecoin register with first issuer",
@@ -361,46 +401,6 @@
       "published_at": "2026-08-12T13:23:57+00:00",
       "category": "Crypto",
       "simple_explanation": "Wintermute will reportedly invest $1 billion in AI infrastructure and high-frequency trading as part of its expansion into traditional finance."
-    },
-    {
-      "title": "US inflation eases to 3.4% in July as the Fed's September call stays on a knife edge",
-      "description": "US inflation eased for a second month in July, with consumer prices rising 3.4% from a year earlier, down from 3.5% in June, exactly as economists had forecast, a reading that hands neither side of a divided Federal Reserve fresh ammunition before next month's rate decision.View on euronews",
-      "url": "https://www.euronews.com/2026/08/12/us-inflation-eases-to-34-in-july-as-the-feds-september-call-stays-on-a-knife-edge?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-12T13:21:47+00:00",
-      "category": "USA",
-      "simple_explanation": "US inflation eased for a second month in July, with consumer prices rising 3.4% from a year earlier, down from 3.5% in June, exactly as economists had forecast, a reading that hands neither side of a "
-    },
-    {
-      "title": "Motilal Oswal bullish on jewellery stocks; picks Titan, Kalyan Jewellers as top bets, sees up to 34% upside",
-      "description": "Motilal Oswal identifies Titan and Kalyan Jewellers as top picks in India's jewelry sector, benefiting from favorable trends such as formalization and premiumization. The brokerage anticipates further consolidation of market share as leading retailers enhance their competitive positions.",
-      "url": "https://www.livemint.com/market/stock-market-news/motilal-oswal-bullish-on-jewellery-stocks-picks-titan-kalyan-jewellers-as-top-bets-sees-up-to-34-upside-11786537736445.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/3-0-81176192-gold2-0_1679795319376_1786538722494_c2d7a4ae-031c-4f72-a5d0-c1cfc464ff66.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-08-12T13:20:27+00:00",
-      "category": "India",
-      "simple_explanation": "Motilal Oswal identifies Titan and Kalyan Jewellers as top picks in India's jewelry sector, benefiting from favorable trends such as formalization and premiumization. The brokerage anticipates further"
-    },
-    {
-      "title": "Which Precious Metals ETF Is the Better Buy: Global X's Silver Miners SIL or iShares' Gold Trust IAU?",
-      "description": "SIL delivered 68% returns over one year but faced steeper drawdowns, while IAU's lower volatility and 0.25% expense ratio appeal to conservative investors seeking precious metals exposure.",
-      "url": "https://www.fool.com/coverage/etfs/2026/08/12/which-precious-metals-etf-is-the-better-buy-global-x-s-silver-miners-sil-or-ishares-gold-trust-iau/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-12T13:00:51+00:00",
-      "category": "Commodities",
-      "simple_explanation": "SIL delivered 68% returns over one year but faced steeper drawdowns, while IAU's lower volatility and 0.25% expense ratio appeal to conservative investors seeking precious metals exposure."
-    },
-    {
-      "title": "Fidelity files with SEC to add staking to Ethereum ETF",
-      "description": "Fidelity plans to add staking to its Ether fund, with 85% of rewards retained by FETH and quarterly cash distributions planned for investors.",
-      "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/option-1-bold-white-montserrat.jpeg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-12T12:42:58+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Fidelity plans to add staking to its Ether fund, with 85% of rewards retained by FETH and quarterly cash distributions planned for investors."
     }
   ]
 }
