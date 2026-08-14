@@ -1,7 +1,177 @@
 {
-  "last_updated": "2026-08-14T16:52:40.349326+00:00",
+  "last_updated": "2026-08-14T17:52:28.865078+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+      "description": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
+      "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-14T17:51:39+00:00",
+      "category": "USA",
+      "simple_explanation": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO."
+    },
+    {
+      "title": "How a $900 million bet on SpaceX turned 100x into $94 billion for Alphabet",
+      "description": "Alphabet's initial $900 million SpaceX investment is now worth approximately $94 billion.  This significant return makes Alphabet the largest institutional shareholder in the rocket company.  Other early backers like Fidelity Investments and Saudi Arabia's PIF also hold substantial stakes.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-a-900-million-bet-on-spacex-turned-100x-into-94-billion-for-alphabet/articleshow/133248581.cms",
+      "image": "https://img.etimg.com/photo/msid-133248581,imgsize-50132.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-14T17:46:57+00:00",
+      "category": "India",
+      "simple_explanation": "Alphabet's initial $900 million SpaceX investment is now worth approximately $94 billion.  This significant return makes Alphabet the largest institutional shareholder in the rocket company.  Other ea"
+    },
+    {
+      "title": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy",
+      "description": "Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.",
+      "url": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-14T17:46:06+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied."
+    },
+    {
+      "title": "Riot Platforms sold 4,300 bitcoin in Q2 2026 earnings",
+      "description": "The crypto miner's total cost to mine one bitcoin reached $90,631, topping the $71,667 average production value during the quarter",
+      "url": "https://qz.com/riot-platforms-bitcoin-sales-data-center-expansion-081426?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-14T17:40:18+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The crypto miner's total cost to mine one bitcoin reached $90,631, topping the $71,667 average production value during the quarter"
+    },
+    {
+      "title": "S&P 500 Reaches Rare Milestone With More To Come",
+      "description": "Decades of market history suggest this rally has room",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-reaches-rare-milestone-172756576.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-14T17:27:56+00:00",
+      "category": "USA",
+      "simple_explanation": "Decades of market history suggest this rally has room"
+    },
+    {
+      "title": "Patanjali Foods shares to be in focus on Monday as Q1 net profit jumps 86%; revenue hits record",
+      "description": "Patanjali Foods reported a robust June-quarter performance, with net profit increasing by 86% YoY to  ₹335.73 crore and the highest-ever revenue of  ₹11,337.45 crore. A 40% interim dividend has also been declared for FY27.",
+      "url": "https://www.livemint.com/market/stock-market-news/patanjali-foods-shares-to-be-in-focus-on-monday-as-q1-net-profit-jumps-86-revenue-hits-record-11786727877953.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/PATANJALI-FOODS-RESULTS--0_1720521572421_1786727871844_b0ee6d34-a99a-405d-be93-e495dff003eb.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-08-14T17:27:47+00:00",
+      "category": "India",
+      "simple_explanation": "Patanjali Foods reported a robust June-quarter performance, with net profit increasing by 86% YoY to  ₹335.73 crore and the highest-ever revenue of  ₹11,337.45 crore. A 40% interim dividend has also b"
+    },
+    {
+      "title": "MicroStrategy sends harsh response to fresh MSCI delisting threat",
+      "description": "Strategy (Nasdaq: MSTR), the world's leading Bitcoin (BTC) treasury company led by billionaire Michael Saylor, faces another MSCI (formerly Morgan Stanley Capital International) delisting threat as the index provider opened a new consultation on the eligibility of non-operating ...",
+      "url": "https://www.thestreet.com/crypto/markets/microstrategy-sends-harsh-response-to-fresh-msci-delisting-threat?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-14T17:27:33+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Strategy (Nasdaq: MSTR), the world's leading Bitcoin (BTC) treasury company led by billionaire Michael Saylor, faces another MSCI (formerly Morgan Stanley Capital International) delisting threat as th"
+    },
+    {
+      "title": "Update: Equities Lower Intraday After Retail Sales, Consumer Sentiment Reports",
+      "description": "(Updates with latest market prices and developments.) US benchmark equity indexes fell intraday a",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-lower-intraday-retail-sales-172249377.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-14T17:22:49+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with latest market prices and developments.) US benchmark equity indexes fell intraday a"
+    },
+    {
+      "title": "Exchange-Traded Funds Mixed, US Equities Fall After Midday",
+      "description": "Broad Market Indicators Broad-market exchange-traded fund IWM rose and IVV edged lower. Active",
+      "url": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-mixed-us-172121860.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-14T17:21:21+00:00",
+      "category": "USA",
+      "simple_explanation": "Broad Market Indicators Broad-market exchange-traded fund IWM rose and IVV edged lower. Active"
+    },
+    {
+      "title": "Update: US Equity Indexes Decline as Retail Sales Drop Most in 14 Months, Crude Oil Advances on Worsening Iran Geopolitics",
+      "description": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
+      "url": "https://finance.yahoo.com/economy/articles/us-equity-indexes-decline-retail-171604945.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-14T17:16:04+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa"
+    },
+    {
+      "title": "S&P 500 Eases Off Its Record as the Consumer Finally Blinks",
+      "description": "Retail sales just fell for the first time in nine months, and consumer confidence dropped to 51. Here's what a tired shopper means for the stock market.",
+      "url": "https://www.fool.com/investing/2026/08/14/sp-500-eases-off-its-record-as-the-consumer-blinks/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-14T17:14:50+00:00",
+      "category": "USA",
+      "simple_explanation": "Retail sales just fell for the first time in nine months, and consumer confidence dropped to 51. Here's what a tired shopper means for the stock market."
+    },
+    {
+      "title": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
+      "description": "Bank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy's custody stack now give it another shot in early 2027.",
+      "url": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-14T17:14:02+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy's custody stack now give it another shot in early 2027."
+    },
+    {
+      "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
+      "description": "Mangione's lawyers immediately argued his federal plea means he cannot be prosecuted in state court for Brian Thompson's slaying due to double jeopardy.",
+      "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-14T17:11:52+00:00",
+      "category": "USA",
+      "simple_explanation": "Mangione's lawyers immediately argued his federal plea means he cannot be prosecuted in state court for Brian Thompson's slaying due to double jeopardy."
+    },
+    {
+      "title": "UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win",
+      "description": "The UK lawmaker declared victory following a by-election, triggering a resumption of an investigation from the parliamentary commissioner for standards into his crypto donations.",
+      "url": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-j-crypto-donations-in-politics-uk.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-14T17:03:38+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The UK lawmaker declared victory following a by-election, triggering a resumption of an investigation from the parliamentary commissioner for standards into his crypto donations."
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Lags After Soft Retail Sales; Trump Tariff News Lifts These Defense Firms (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index falls Friday after surprise retail sales data. AI chip giant Applied Materials dives on earnings.",
+      "url": "https://finance.yahoo.com/m/00339b32-5e9a-331a-9223-dd02518723a7/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-14T16:57:42+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index falls Friday after surprise retail sales data. AI chip giant Applied Materials dives on earnings."
+    },
+    {
+      "title": "S&P Slips Back From Records",
+      "description": "Stocks were slipping, but the S 500 was still on track to end the week near records after a boost from slowing inflation and some AI-related stocks.",
+      "url": "https://www.wsj.com/finance/stocks/u-s-futures-fall-gold-on-track-for-weekly-loss-54d90885?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-14T16:44:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Stocks were slipping, but the S 500 was still on track to end the week near records after a boost from slowing inflation and some AI-related stocks."
+    },
+    {
+      "title": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most",
+      "description": "Fed Chair Kevin Warsh has limited what he says to public audiences.",
+      "url": "https://www.fool.com/investing/2026/08/14/wall-street-is-obsessing-over-every-word-from-fed/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-14T16:43:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Fed Chair Kevin Warsh has limited what he says to public audiences."
+    },
     {
       "title": "Alphabet's $900 million SpaceX bet soars to $94 billion after rocket firm's IPO, filings show",
       "description": "Alphabet's $900 million investment in SpaceX is now worth about $94 billion, making it the rocket firm's largest reported institutional holder after its IPO, filings show.",
@@ -21,36 +191,6 @@
       "published_at": "2026-08-14T16:35:37+00:00",
       "category": "USA",
       "simple_explanation": "Consumer spending fell in July while Middle East hostilities weigh on risk appetite, today, Aug. 14, 2026."
-    },
-    {
-      "title": "Robinhood Exec Says AI Boom Could Keep Stocks Ripping Higher but Bonds Could Crash the Party",
-      "description": "Robinhood Market (NASDAQ:HOOD) CIO Stephanie Guild says the artificial intelligence boom may keep driving stocks to fresh records, but its enormous appetite for capital is creating a new threat to the rally: a 10-year Treasury yield above 5%. Speaking to...",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61218069/robinhood-cio-ai-boom-stocks?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-14T16:30:51+00:00",
-      "category": "USA",
-      "simple_explanation": "Robinhood Market (NASDAQ:HOOD) CIO Stephanie Guild says the artificial intelligence boom may keep driving stocks to fresh records, but its enormous appetite for capital is creating a new threat to the"
-    },
-    {
-      "title": "Update: US Equity Indexes Decline as Retail Sales Drop Most in 14 Months",
-      "description": "(Updates with index/price moves, macroeconomic data, and geopolitical news from the first paragraph.",
-      "url": "https://finance.yahoo.com/economy/articles/us-equity-indexes-decline-retail-162954610.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-14T16:29:54+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with index/price moves, macroeconomic data, and geopolitical news from the first paragraph."
-    },
-    {
-      "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-      "description": "Mangione's lawyers immediately argued his federal plea means he cannot be prosecuted in state court for Brian Thompson's slaying due to double jeopardy.",
-      "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-14T16:27:45+00:00",
-      "category": "USA",
-      "simple_explanation": "Mangione's lawyers immediately argued his federal plea means he cannot be prosecuted in state court for Brian Thompson's slaying due to double jeopardy."
     },
     {
       "title": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
@@ -83,14 +223,14 @@
       "simple_explanation": "Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases."
     },
     {
-      "title": "Bitcoin to $1M If CLARITY Act Passes? Citi CEO Says Bill Still ‘Excellent for the System’ Despite Challenges",
-      "description": "Citigroup CEO Jane Fraser said a strong version of the CLARITY Act would be “excellent for the system,” despite unresolved concerns for banks. Citi recently ...",
-      "url": "https://www.ccn.com/news/crypto/bitcoin-price-1m-clarity-act-passes-citi-ceo-bill-excellent/?.tsrc=rss",
+      "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build",
+      "description": "Brent heads toward a 5% weekly gain as stalled US-Iran talks and Hormuz attacks push oil prices toward $100.",
+      "url": "https://finance.yahoo.com/energy/articles/hormuz-attacks-push-oil-toward-162121010.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-14T16:22:12+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Citigroup CEO Jane Fraser said a strong version of the CLARITY Act would be “excellent for the system,” despite unresolved concerns for banks. Citi recently ..."
+      "published_at": "2026-08-14T16:21:21+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Brent heads toward a 5% weekly gain as stalled US-Iran talks and Hormuz attacks push oil prices toward $100."
     },
     {
       "title": "Sebi proposes overhaul of settlement rules to cut amounts, speed enforcement",
@@ -103,26 +243,6 @@
       "simple_explanation": "A proposed formula could halve the gap between settlement amounts and final penalties, while fast-track rules aim to resolve cases sooner"
     },
     {
-      "title": "Coeur Mining Stock Is Priced On Its Margin",
-      "description": "Cheaper than the market on earnings and nearly double it on sales, the miner's valuation rests on how much of each revenue dollar it keeps.",
-      "url": "https://www.trefis.com/articles/611544/coeur-mining-stock-is-priced-on-its-margin/2026-08-14?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-14T16:18:52+00:00",
-      "category": "USA",
-      "simple_explanation": "Cheaper than the market on earnings and nearly double it on sales, the miner's valuation rests on how much of each revenue dollar it keeps."
-    },
-    {
-      "title": "Stock Market Today: Dow Sinks After Surprise Retail Sales; Applied Materials Dives On Earnings (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index falls Friday after surprise retail sales data. AI chip giant Applied Materials dives on earnings.",
-      "url": "https://finance.yahoo.com/m/00339b32-5e9a-331a-9223-dd02518723a7/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-14T16:17:28+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index falls Friday after surprise retail sales data. AI chip giant Applied Materials dives on earnings."
-    },
-    {
       "title": "Gold jumps 9% in August as weaker dollar, easing Fed bets boost demand",
       "description": "Gold prices are on a winning streak as US Fed rate hike expectations ease and a weaker dollar boosts overseas demand. Spot gold reached $4,397 an ounce, marking a 9% monthly gain in August, while remaining below January's all-time high of $5,602.",
       "url": "https://www.livemint.com/market/commodities/gold-jumps-9-in-august-as-weaker-dollar-easing-fed-bets-boost-demand-11786716604532.html",
@@ -133,34 +253,14 @@
       "simple_explanation": "Gold prices are on a winning streak as US Fed rate hike expectations ease and a weaker dollar boosts overseas demand. Spot gold reached $4,397 an ounce, marking a 9% monthly gain in August, while rema"
     },
     {
-      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-      "description": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
-      "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-14T16:14:45+00:00",
-      "category": "USA",
-      "simple_explanation": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO."
-    },
-    {
       "title": "Stocks slip in cautious trading, oil turns higher",
       "description": "Stock markets retreated in sparse summer trading Friday, with the uncertain outlook for the Middle East war and the US economy arguing for caution ahead of the weekend.Energy prices have swung between big gains and losses in recent weeks as resurgent strikes in the Middle East give way to hopes of a",
       "url": "https://finance.yahoo.com/markets/world-indices/articles/most-asian-stocks-track-wall-024850728.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-08-14T16:11:38+00:00",
-      "category": "USA",
+      "category": "Commodities",
       "simple_explanation": "Stock markets retreated in sparse summer trading Friday, with the uncertain outlook for the Middle East war and the US economy arguing for caution ahead of the weekend.Energy prices have swung between"
-    },
-    {
-      "title": "China Injected $52 Billion and Bitcoin Fell, Three More Days Are Scheduled",
-      "description": "China injected $52 billion and Bitcoin dropped 1.7%. Three more injection days open Monday, each capped at $88 billion.",
-      "url": "https://beincrypto.com/china-liquidity-injection-bitcoin-four-days/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-14T16:01:40+00:00",
-      "category": "Crypto",
-      "simple_explanation": "China injected $52 billion and Bitcoin dropped 1.7%. Three more injection days open Monday, each capped at $88 billion."
     },
     {
       "title": "Patanjali Foods Q1 Results: Gross profit rises 35% YoY to Rs 1,521 crore",
@@ -171,16 +271,6 @@
       "published_at": "2026-08-14T15:50:21+00:00",
       "category": "India",
       "simple_explanation": "Patanjali Foods posted strong Q1FY27 growth, with revenue rising 29.33% to ₹11,337 crore and operating EBITDA climbing 69.2%. Gross profit increased 35.22%, while the company declared two interim divi"
-    },
-    {
-      "title": "Online forum Reddit will join the influential and closely tracked S&P 500 index",
-      "description": "Reddit will join the S&P 500 next week, giving the wide-ranging online forum a boost in prestige and investments.  Joining the S&P 500 is considered an achievement for a company because the index is a widely followed measure of the broader U.S. stock market’s health.  Reddit's stock surged nearly 14",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/online-forum-reddit-join-influential-154835946.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-14T15:48:35+00:00",
-      "category": "USA",
-      "simple_explanation": "Reddit will join the S&P 500 next week, giving the wide-ranging online forum a boost in prestige and investments.  Joining the S&P 500 is considered an achievement for a company because the index is a"
     },
     {
       "title": "MSTR, BMNR, COIN, CRCL Stocks Slide After Bitcoin Falls Below $63K",
@@ -203,26 +293,6 @@
       "simple_explanation": "Gold just posted a 10% surge in a single month and fund flows into miners are hitting year-long highs, but one overlooked metal has quietly tripled gold's returns over the same period and has a demand"
     },
     {
-      "title": "Nasdaq Falls 0.5% After Chip Stocks Slip",
-      "description": "The stock market’s early gains evaporated. The Nasdaq Composite was down 0.5% after opening higher. The S&P 500 was down 0.2%. The Dow Jones Industrial Average fell 110 points, or 0.2%. The market’s spill followed a sudden drop in chip stocks: The iShares Semiconductor ETF was down 1.",
-      "url": "https://finance.yahoo.com/m/292a2a4a-114e-3d8d-ad05-ac13ac8cc2ec/nasdaq-falls-0.5%25-after-chip.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-14T15:44:54+00:00",
-      "category": "USA",
-      "simple_explanation": "The stock market’s early gains evaporated. The Nasdaq Composite was down 0.5% after opening higher. The S&P 500 was down 0.2%. The Dow Jones Industrial Average fell 110 points, or 0.2%. The market’s s"
-    },
-    {
-      "title": "SEC Delays Meeting On Crypto Rules Proposal. Bitcoin Price, Crypto Stocks Fall.",
-      "description": "The SEC postponed its Friday meeting, which would consider whether to propose new crypto rules amid the Clarity Act limbo.",
-      "url": "https://finance.yahoo.com/m/898124d0-52a1-33be-ab91-ea573626ed4f/sec-delays-meeting-on-crypto.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-14T15:42:29+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The SEC postponed its Friday meeting, which would consider whether to propose new crypto rules amid the Clarity Act limbo."
-    },
-    {
       "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
       "description": "Bank Leumi customers will be able to buy, hold and sell three major cryptocurrencies directly through the bank’s investment app beginning in early 2027.",
       "url": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -241,16 +311,6 @@
       "published_at": "2026-08-14T15:32:01+00:00",
       "category": "India",
       "simple_explanation": "The heatwaves pummelling Europe this summer will have costly impacts on industries ranging from agriculture to tourism -- but that hasn't stopped stock markets from hitting all-time highs. The Paris, "
-    },
-    {
-      "title": "Morgan Stanley, JPMorgan Increase Crypto ETF Holdings in Q2",
-      "description": "Major US banks Morgan Stanley (NYSE: $MS) and JPMorgan (NYSE: $JPM) increased their holdings of cryptoinvestment pr...",
-      "url": "https://www.cryptoprowl.com/releases/morgan-stanley-jpmorgan-increase-crypto-etf-holdings-in-q2-6429?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-14T15:31:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Major US banks Morgan Stanley (NYSE: $MS) and JPMorgan (NYSE: $JPM) increased their holdings of cryptoinvestment pr..."
     },
     {
       "title": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call",
@@ -297,7 +357,7 @@
       "description": "India's market regulator has introduced an updated framework for addressing securities law violations, designed to streamline processes and decrease litigation. This proposed method may lead to reduced average settlement amounts for infractions. Individuals who faced prior rejections can submit new ",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-to-rationalise-penalties-for-settling-ongoing-cases/articleshow/133245779.cms",
       "image": "https://img.etimg.com/photo/msid-133245779,imgsize-455410.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-08-14T15:20:27+00:00",
       "category": "India",
       "simple_explanation": "India's market regulator has introduced an updated framework for addressing securities law violations, designed to streamline processes and decrease litigation. This proposed method may lead to reduce"
@@ -341,66 +401,6 @@
       "published_at": "2026-08-14T14:54:00+00:00",
       "category": "Commodities",
       "simple_explanation": "Oil above $80 is boosting the outlook for Patterson-UTI and Cactus as Middle East tensions support crude prices and upstream activity."
-    },
-    {
-      "title": "Treasury Yields, Dollar Fall as Data Support Fed Hold",
-      "description": "Treasury yields are on pace for a weekly decline following signs of cooling inflation that bolster odds of a Fed hold, not hike, next month. Oil prices edge higher as the supply chain remains choked in the Middle East and the White House threatens Iran with more economic isolation.",
-      "url": "https://finance.yahoo.com/m/47158cc1-5e20-3b52-9c3e-bab0fae53bd5/treasury-yields%2C-dollar-fall.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-14T14:52:31+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Treasury yields are on pace for a weekly decline following signs of cooling inflation that bolster odds of a Fed hold, not hike, next month. Oil prices edge higher as the supply chain remains choked i"
-    },
-    {
-      "title": "The Gold “Income” Fund That Turned a 6% Gold Dip Into a 30% Loss",
-      "description": "GOLY promised gold exposure with a monthly paycheck, solving the one thing bullion investors always complained about. But the structure hiding behind that attractive yield has quietly done something gold itself never did to its holders this year.",
-      "url": "https://247wallst.com/investing/2026/08/14/the-gold-income-fund-that-turned-a-6-gold-dip-into-a-30-loss/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-14T14:50:36+00:00",
-      "category": "Commodities",
-      "simple_explanation": "GOLY promised gold exposure with a monthly paycheck, solving the one thing bullion investors always complained about. But the structure hiding behind that attractive yield has quietly done something g"
-    },
-    {
-      "title": "Cooling Inflation Likely to Aid These ETF Areas",
-      "description": "Cooling inflation and weaker job data ease Fed hike bets, but Hormuz tensions increase oil risks. See how QQQ, IWM and TLT may respond.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/cooling-inflation-likely-aid-etf-144100361.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-14T14:41:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Cooling inflation and weaker job data ease Fed hike bets, but Hormuz tensions increase oil risks. See how QQQ, IWM and TLT may respond."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-14T14:40:24+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses",
-      "description": "Bitcoin falls further toward new August lows, ignoring positive US inflation trends while US stocks continue to circle all-time highs.",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-trader-warns-weekly-close-may-spark-more-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/bungee-jumping-bitcoin-2.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-14T14:38:27+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin falls further toward new August lows, ignoring positive US inflation trends while US stocks continue to circle all-time highs."
-    },
-    {
-      "title": "Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2",
-      "description": "Morgan Stanley’s reported IBIT holdings rose to 16.5 million shares in Q2, while Ether ETF positions and several crypto-linked stocks also increased.",
-      "url": "https://cointelegraph.com/news/morgan-stanley-buys-blackrock-bitcoin-etf-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-central-bank-issued-digital-currency-the-new-bank-account-morgan-stanley.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-14T14:22:57+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Morgan Stanley’s reported IBIT holdings rose to 16.5 million shares in Q2, while Ether ETF positions and several crypto-linked stocks also increased."
     }
   ]
 }
