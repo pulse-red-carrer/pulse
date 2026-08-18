@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-08-18T19:27:19.001283+00:00",
+  "last_updated": "2026-08-18T20:23:26.230183+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods",
+      "description": "Trump has already imposed a variety of tariffs on Canada and its specific exports, including metals, lumber and auto parts.",
+      "url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-18T20:20:24+00:00",
+      "category": "USA",
+      "simple_explanation": "Trump has already imposed a variety of tariffs on Canada and its specific exports, including metals, lumber and auto parts."
+    },
+    {
+      "title": "Bitcoin selling pressure is mounting, analyst warns of $54,000 if key support breaks",
+      "description": "Ali Martinez flags miners, ETFs, and Strategy all selling simultaneously as exchange balances swell by $1.59 billion in ten days.",
+      "url": "https://www.thestreet.com/crypto/markets/bitcoin-selling-pressure-is-mounting-analyst-warns-of-54000-if-key-support-breaks?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T20:10:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Ali Martinez flags miners, ETFs, and Strategy all selling simultaneously as exchange balances swell by $1.59 billion in ten days."
+    },
+    {
+      "title": "Exxon Stock Surges 2.3% as Oil Breaks Above $91",
+      "description": "Exxon gains as crude prices rise amid Iran tensions while record production and $17.2 billion free cash flow support results.",
+      "url": "https://finance.yahoo.com/energy/articles/exxon-stock-surges-2-3-200008899.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T20:00:08+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Exxon gains as crude prices rise amid Iran tensions while record production and $17.2 billion free cash flow support results."
+    },
+    {
+      "title": "Bitcoin Whales Add 43,000 Bitcoin in 60 Days",
+      "description": "Bitcoin whales have added about 43,000 Bitcoin over the past 60 days, worth roughly $2.75 billion at current prices, according to CryptoQuant. Kavita Gupta, founder & general partner of the Delta Blockchain Fund, says she sees a movement of Bitcoin, rather than buying of Bitcoin. She joins \"Bloomber",
+      "url": "https://finance.yahoo.com/video/bitcoin-whales-add-43-000-195850260.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T19:58:50+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin whales have added about 43,000 Bitcoin over the past 60 days, worth roughly $2.75 billion at current prices, according to CryptoQuant. Kavita Gupta, founder & general partner of the Delta Bloc"
+    },
+    {
+      "title": "Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto",
+      "description": "A Florida representative not running for reelection who voted against the GENIUS and CLARITY Acts has endorsed a Democratic candidate, possibly leading to PAC-funded negative ads.",
+      "url": "https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us-1.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-18T19:54:16+00:00",
+      "category": "Crypto",
+      "simple_explanation": "A Florida representative not running for reelection who voted against the GENIUS and CLARITY Acts has endorsed a Democratic candidate, possibly leading to PAC-funded negative ads."
+    },
+    {
+      "title": "Update: US Equity Indexes Fall as 30-Year Yield Hits 19-Year High, Crude Oil Advances",
+      "description": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-30-195215372.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T19:52:15+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe"
+    },
+    {
+      "title": "BlackRock updates its Bitcoin outlook after historic selloff",
+      "description": "The world’s largest asset manager takes a fresh look at Bitcoin after its biggest test in months.",
+      "url": "https://www.thestreet.com/crypto/markets/blackrock-updates-its-bitcoin-outlook-after-historic-selloff?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T19:42:47+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The world’s largest asset manager takes a fresh look at Bitcoin after its biggest test in months."
+    },
+    {
+      "title": "Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate",
+      "description": "The $33.3 million Winklevoss Capital deal expands Cypherpunk’s ZEC strategy as it targets 5% ownership of the cryptocurrency’s circulating supply.",
+      "url": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-top-5-biggest-mining-farms-zcash-1.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-18T19:31:16+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The $33.3 million Winklevoss Capital deal expands Cypherpunk’s ZEC strategy as it targets 5% ownership of the cryptocurrency’s circulating supply."
+    },
+    {
+      "title": "Stocks often fade in midterm election years. Here's why.",
+      "description": "Yahoo Finance Markets and Data Editor Jared Blikre takes a look at how equal-weighted stocks historically perform in midterm election years.",
+      "url": "https://finance.yahoo.com/video/stocks-often-fade-midterm-election-192737817.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T19:27:37+00:00",
+      "category": "USA",
+      "simple_explanation": "Yahoo Finance Markets and Data Editor Jared Blikre takes a look at how equal-weighted stocks historically perform in midterm election years."
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Hit Hard By Chip Names; Sandisk, Micron Slide As Biotech Soars (Live Coverage)",
+      "description": "Stock Market Today: The Nasdaq sinks Tuesday as Treasury yields rise. Nvidia stock, Micron and Sandisk skid.",
+      "url": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T19:25:46+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Nasdaq sinks Tuesday as Treasury yields rise. Nvidia stock, Micron and Sandisk skid."
+    },
     {
       "title": "Bank of America Says $5,000 Gold Is Within Reach",
       "description": "Wall Street sees more upside after the latest rally.",
@@ -24,13 +124,13 @@
     },
     {
       "title": "Bitcoin bought at $14 moves after massive 461,981% gain",
-      "description": "A Bitcoin address that had sat completely untouched since the network's early days has suddenly come to life. According to blockchain-tracking firm Galaxy Research, the wallet held 8.54 BTC and moved the entire balance on Aug. 16, its first activity in more than 15 years. The coins were ...",
+      "description": "A Bitcoin wallet moves its coins after 15 years of silence, worth about $538,000 at today’s prices.",
       "url": "https://www.thestreet.com/crypto/latest-news/bitcoin-bought-at-14-moves-after-massive-461981-gain?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-08-18T19:12:29+00:00",
       "category": "Crypto",
-      "simple_explanation": "A Bitcoin address that had sat completely untouched since the network's early days has suddenly come to life. According to blockchain-tracking firm Galaxy Research, the wallet held 8.54 BTC and moved "
+      "simple_explanation": "A Bitcoin wallet moves its coins after 15 years of silence, worth about $538,000 at today’s prices."
     },
     {
       "title": "Meet the Dividend King Stock That Yields More Than Quadruple the S&P 500. Here's Why It's a Buy in August.",
@@ -41,16 +141,6 @@
       "published_at": "2026-08-18T19:04:00+00:00",
       "category": "USA",
       "simple_explanation": "PepsiCo has a strong commitment to paying dividends."
-    },
-    {
-      "title": "Most of the SPYI ETF’s 12% Payout Is Your Own Money Coming Back. The IRS Waits Until You Sell.",
-      "description": "SPYI's eye-catching monthly payouts hide a tax mechanic that quietly rewrites your cost basis every single distribution, and investors who spend the checks without tracking the paperwork could face a surprise reckoning the year they finally sell.",
-      "url": "https://247wallst.com/investing/etf/2026/08/18/most-of-the-spyi-etfs-12-payout-is-your-own-money-coming-back-the-irs-waits-until-you-sell/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T18:55:53+00:00",
-      "category": "USA",
-      "simple_explanation": "SPYI's eye-catching monthly payouts hide a tax mechanic that quietly rewrites your cost basis every single distribution, and investors who spend the checks without tracking the paperwork could face a "
     },
     {
       "title": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
@@ -71,26 +161,6 @@
       "published_at": "2026-08-18T18:53:33+00:00",
       "category": "USA",
       "simple_explanation": "Sportsman's Warehouse has been treading water for the past six months, recording a small loss of 2.9% while holding steady at $1.17. The stock also fell short of the S&P 500’s 13.1% gain during that p"
-    },
-    {
-      "title": "3 Big Reasons to Love Carvana (CVNA)",
-      "description": "Since February 2026, Carvana has been in a holding pattern, posting a small loss of 3% while floating around $70.14. The stock also fell short of the S&P 500’s 13.1% gain during that period.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-big-reasons-love-carvana-184533642.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T18:45:33+00:00",
-      "category": "USA",
-      "simple_explanation": "Since February 2026, Carvana has been in a holding pattern, posting a small loss of 3% while floating around $70.14. The stock also fell short of the S&P 500’s 13.1% gain during that period."
-    },
-    {
-      "title": "Get Paid 11% To Cap Your BKNG Stock At 15% Higher",
-      "description": "Here is a way to get paid a meaningful income now on your Booking shares, income you keep no matter what the stock does, in exchange for capping your gains above a higher price.",
-      "url": "https://www.trefis.com/articles/611861/get-paid-11-to-cap-your-bkng-stock-at-15-higher/2026-08-18?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T18:36:55+00:00",
-      "category": "USA",
-      "simple_explanation": "Here is a way to get paid a meaningful income now on your Booking shares, income you keep no matter what the stock does, in exchange for capping your gains above a higher price."
     },
     {
       "title": "Trump says no talks scheduled with Iran as he teases action in Hormuz Strait",
@@ -123,36 +193,6 @@
       "simple_explanation": "Caterpillar alone stripped 255 points off the Dow. Most other stocks had a perfectly ordinary day."
     },
     {
-      "title": "IREN Gains 11.7% in the Past Month as AI Cloud Momentum Accelerates",
-      "description": "IREN shares gained 11.7% in a month as $2.8B in new AI cloud contracts and Horizon 1 acceptance sharpen visibility on its cloud transition.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/iren-gains-11-7-past-180900994.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T18:09:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "IREN shares gained 11.7% in a month as $2.8B in new AI cloud contracts and Horizon 1 acceptance sharpen visibility on its cloud transition."
-    },
-    {
-      "title": "Michael Saylor has one big rule before you buy Bitcoin",
-      "description": "Michael Saylor has spent six years telling the world to buy Bitcoin. In a recent investor Q&A, he said something that sounded like the opposite, and meant every word of it. \"If your time horizon is less than four months, you probably should own a money market,\" Saylor told investors ...",
-      "url": "https://www.thestreet.com/crypto/markets/michael-saylor-has-one-big-rule-before-you-buy-bitcoin?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T18:06:28+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Michael Saylor has spent six years telling the world to buy Bitcoin. In a recent investor Q&A, he said something that sounded like the opposite, and meant every word of it. \"If your time horizon is le"
-    },
-    {
-      "title": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods",
-      "description": "Trump has already imposed a variety of tariffs on Canada and its specific exports, including metals, lumber and auto parts.",
-      "url": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-18T18:05:05+00:00",
-      "category": "USA",
-      "simple_explanation": "Trump has already imposed a variety of tariffs on Canada and its specific exports, including metals, lumber and auto parts."
-    },
-    {
       "title": "The Stealth AI Stocks Are Dragging Down the Dow Again",
       "description": "Caterpillar and Goldman Sachs are two of the biggest stocks in the Dow.  The Dow Jones Industrial Average was down 100 points, or 0.2%, on a day when 18 of its 30 members were actually rising.  Chip stocks were getting hammered after a big run, fitting into a pattern of two-way volatility that’s cha",
       "url": "https://finance.yahoo.com/m/70ee5684-073f-3d64-8670-b3e01f36a0ae/the-stealth-ai-stocks-are.html?.tsrc=rss",
@@ -173,16 +213,6 @@
       "simple_explanation": "(Updates with latest market prices and developments.) US stocks were lower intraday and oil price"
     },
     {
-      "title": "Kraken launches US stock trading in Europe. Here's what you need to know.",
-      "description": "Scott Melker outlines the details of Kraken's (KRAK.PVT) newly launched US stock trading for European investors.",
-      "url": "https://finance.yahoo.com/video/kraken-launches-us-stock-trading-180000187.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T18:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Scott Melker outlines the details of Kraken's (KRAK.PVT) newly launched US stock trading for European investors."
-    },
-    {
       "title": "Sector Update: Energy Stocks Higher Tuesday Afternoon",
       "description": "Energy stocks gained Tuesday afternoon, with the NYSE Energy Sector Index rising 1% and the State St",
       "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-tuesday-174915554.html?.tsrc=rss",
@@ -193,23 +223,13 @@
       "simple_explanation": "Energy stocks gained Tuesday afternoon, with the NYSE Energy Sector Index rising 1% and the State St"
     },
     {
-      "title": "Sector Update: Financial Stocks Mixed Tuesday Afternoon",
-      "description": "Financial stocks were mixed in Tuesday afternoon trading, with the NYSE Financial Index fractionally",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-tuesday-174741395.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T17:47:41+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Financial stocks were mixed in Tuesday afternoon trading, with the NYSE Financial Index fractionally"
-    },
-    {
       "title": "Update: Technology Pushes US Equity Indexes Lower as 30-Year Yield Touches 19-Year High, Crude Oil Rises",
       "description": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par",
       "url": "https://finance.yahoo.com/markets/stocks/articles/technology-pushes-us-equity-indexes-174511216.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-08-18T17:45:11+00:00",
-      "category": "USA",
+      "category": "Commodities",
       "simple_explanation": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par"
     },
     {
@@ -233,26 +253,6 @@
       "simple_explanation": "The multi-asset card lets US customers spend crypto and fiat and earn cashback as Kraken’s parent company expands across financial services."
     },
     {
-      "title": "Stock Market Today: Nasdaq Weighed Down By Chip Names; Credo Plunges With Micron, Sandisk (Live Coverage)",
-      "description": "Stock Market Today: The Nasdaq falls Tuesday as Treasury yields rise. Nvidia stock, Micron and Sandisk see red.",
-      "url": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T17:35:06+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Stock Market Today: The Nasdaq falls Tuesday as Treasury yields rise. Nvidia stock, Micron and Sandisk see red."
-    },
-    {
-      "title": "3 Utility Funds to Play Safe as Oil Prices Surge on Geopolitical Tensions",
-      "description": "FSUTX, FKUTX and BULIX offer utility fund exposure as geopolitical tensions, rising oil prices and Fed uncertainty weigh on markets.",
-      "url": "https://finance.yahoo.com/energy/articles/3-utility-funds-play-safe-172400377.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T17:24:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "FSUTX, FKUTX and BULIX offer utility fund exposure as geopolitical tensions, rising oil prices and Fed uncertainty weigh on markets."
-    },
-    {
       "title": "Jubilant Ingrevia shares to be in focus on Wednesday as company to acquire 40% stake in EDMS firm",
       "description": "Jubilant Ingrevia's shares are expected to draw interest as it announced a 40% acquisition of Zettaone Technologies for  ₹189.2 crore. This partnership aims to strengthen capabilities in the electronics and semiconductor sectors, enhancing long-term value creation.",
       "url": "https://www.livemint.com/market/stock-market-news/jubilant-ingrevia-shares-to-be-in-focus-on-wednesday-as-company-to-acquire-40-stake-in-edms-firm-11787072580697.html",
@@ -261,16 +261,6 @@
       "published_at": "2026-08-18T17:16:30+00:00",
       "category": "India",
       "simple_explanation": "Jubilant Ingrevia's shares are expected to draw interest as it announced a 40% acquisition of Zettaone Technologies for  ₹189.2 crore. This partnership aims to strengthen capabilities in the electroni"
-    },
-    {
-      "title": "Diesel Margins Soar to Record High. Valero and Marathon Stocks Are Winning.",
-      "description": "Diesel demand is likely to spike more in the next several weeks as harvest season accelerates, one analyst notes.",
-      "url": "https://finance.yahoo.com/m/a5cfcf07-08a8-37f4-8f63-d6bc0cad0522/diesel-margins-soar-to-record.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T17:07:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Diesel demand is likely to spike more in the next several weeks as harvest season accelerates, one analyst notes."
     },
     {
       "title": "Bond yields are climbing. Here’s what that means for mortgages and other consumer borrowing",
@@ -294,13 +284,13 @@
     },
     {
       "title": "Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’",
-      "description": "Despite already serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius.",
+      "description": "Currently serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius.",
       "url": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://s3-images.ctmedia.io/media/article-covers/interviewalex-mashinsky2-1.jpg",
       "source": "CoinTelegraph",
       "published_at": "2026-08-18T16:49:58+00:00",
       "category": "Crypto",
-      "simple_explanation": "Despite already serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius."
+      "simple_explanation": "Currently serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius."
     },
     {
       "title": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf",
@@ -384,13 +374,13 @@
     },
     {
       "title": "Wells Fargo revamps gold price target for the rest of 2026",
-      "description": "Earlier this year, one of Wall Street's most closely watched research arms made a bold commodity price call, the boldest any large institution had made in years. The forecast turned heads. It implied the kind of return that usually only shows up in speculative assets. And for a few months, the ...",
+      "description": "Wells Fargo notes how U.S. interest rates and the dollar have impacted the precious metal.",
       "url": "https://www.thestreet.com/investing/wells-fargo-lowers-gold-price-target-for-rest-of-2026-downgrade?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-08-18T16:03:00+00:00",
       "category": "Commodities",
-      "simple_explanation": "Earlier this year, one of Wall Street's most closely watched research arms made a bold commodity price call, the boldest any large institution had made in years. The forecast turned heads. It implied "
+      "simple_explanation": "Wells Fargo notes how U.S. interest rates and the dollar have impacted the precious metal."
     },
     {
       "title": "US single-family housing starts slide in July",
@@ -401,6 +391,16 @@
       "published_at": "2026-08-18T16:01:04+00:00",
       "category": "India",
       "simple_explanation": "The U.S. witnessed a notable decline in single-family homebuilding last month, primarily due to elevated mortgage rates. An increase in unsold new homes exacerbated this downturn. However, there was a"
+    },
+    {
+      "title": "Gold can be a great inflation hedge, but sometimes it's not: AlphaSpace breakdown",
+      "description": "Gold (GC=F) prices are edging below $4,500 as traders weigh the outlook for interest rates and inflation. Bob Iaccino, co-founder and chief investment officer of the Unfiltered Investor Newsletter, sits down with Yahoo Finance's Julie Hyman to explain when gold is a good inflation hedge and when it'",
+      "url": "https://finance.yahoo.com/video/gold-great-inflation-hedge-sometimes-160000950.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T16:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold (GC=F) prices are edging below $4,500 as traders weigh the outlook for interest rates and inflation. Bob Iaccino, co-founder and chief investment officer of the Unfiltered Investor Newsletter, si"
     }
   ]
 }
