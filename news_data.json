@@ -1,16 +1,286 @@
 {
-  "last_updated": "2026-08-18T15:31:26.311638+00:00",
+  "last_updated": "2026-08-18T16:31:13.626195+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "HIVE maps out its AI expansion plans on earnings call",
-      "description": "On its fiscal first-quarter 2027 earnings call on Aug. 17, HIVE Digital Technologies (Nasdaq: HIVE) used the spotlight to press a single message: the company is no longer just a Bitcoin miner. President and CEO Aydin Kilic told analysts the company's GPU cloud business had reached ...",
-      "url": "https://www.thestreet.com/crypto/markets/hive-maps-out-its-ai-expansion-plans-on-earnings-call?.tsrc=rss",
+      "title": "Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play",
+      "description": "The proposed deal with Nasdaq-listed Super League Enterprise would give the Tokyo-based company a foothold in US capital markets while using existing Bitcoin rather than additional purchases.",
+      "url": "https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-wont-last-long-without-unlocking-bitcoins-treasure-chest-metaplanet-3.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-18T16:21:58+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The proposed deal with Nasdaq-listed Super League Enterprise would give the Tokyo-based company a foothold in US capital markets while using existing Bitcoin rather than additional purchases."
+    },
+    {
+      "title": "The S&P 500 Is Flashing a Warning Not Seen Since the Dot-Com Bubble; History Suggests This Could Happen Next",
+      "description": "History doesn't repeat, but it tends to rhyme.",
+      "url": "https://www.fool.com/investing/2026/08/18/the-sp-500-is-flashing-a-warning-not-seen-since/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-18T15:30:00+00:00",
+      "published_at": "2026-08-18T16:20:00+00:00",
+      "category": "USA",
+      "simple_explanation": "History doesn't repeat, but it tends to rhyme."
+    },
+    {
+      "title": "Atlanta Electricals secures  ₹194 crore order for 12 high-capacity transformers",
+      "description": "Atlanta Electricals has received a Letter of Intent from APTRANSCO for 12 units of 160 MVA transformers valued at  ₹193.92 crore. The order enhances its presence in the power transmission market and showcases its manufacturing capabilities in critical infrastructure.",
+      "url": "https://www.livemint.com/market/stock-market-news/atlanta-electricals-secures-rs-194-crore-order-for-12-high-capacity-transformers-11787068277430.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/gef07ab7b3371a3242342a8b0cba0308efcec1496b6ef49c5a_1737349257013_1787068343558_171f0106-9c15-4319-9918-c362b624f69d.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-18T16:19:18+00:00",
+      "category": "India",
+      "simple_explanation": "Atlanta Electricals has received a Letter of Intent from APTRANSCO for 12 units of 160 MVA transformers valued at  ₹193.92 crore. The order enhances its presence in the power transmission market and s"
+    },
+    {
+      "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
+      "description": "Long-dated fixed income hit their highest level in almost two decades amid a worsening U.S. fiscal situation and persistently higher inflation.",
+      "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-18T16:13:23+00:00",
+      "category": "USA",
+      "simple_explanation": "Long-dated fixed income hit their highest level in almost two decades amid a worsening U.S. fiscal situation and persistently higher inflation."
+    },
+    {
+      "title": "Kotak Mahindra Bank raises $650 million in debut dollar bond sale",
+      "description": "Kotak Mahindra Bank raised $650 million through its debut five-year dollar bond, pricing notes at 108 basis points over US Treasuries. Strong demand from Asian and European investors helped tighten pricing from initial guidance, with orders reaching $2.1 billion.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/kotak-mahindra-bank-raises-650-million-in-debut-dollar-bond-sale/articleshow/133327166.cms",
+      "image": "https://img.etimg.com/photo/msid-133327166,imgsize-79648.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-18T16:10:42+00:00",
+      "category": "India",
+      "simple_explanation": "Kotak Mahindra Bank raised $650 million through its debut five-year dollar bond, pricing notes at 108 basis points over US Treasuries. Strong demand from Asian and European investors helped tighten pr"
+    },
+    {
+      "title": "Sebi to soon float consultation paper on distribution framework for corporate bonds",
+      "description": "Sebi is preparing to unveil a consultation paper focused on the distribution of corporate bonds. This initiative aims to refine the framework governing corporate bond sales and is evaluating additional distributor categories to broaden debt market participation. With the rise of online platforms, re",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/sebi-to-soon-float-consultation-paper-on-distribution-framework-for-corporate-bonds/articleshow/133327145.cms",
+      "image": "https://img.etimg.com/photo/msid-133327145,imgsize-197890.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-18T16:08:36+00:00",
+      "category": "India",
+      "simple_explanation": "Sebi is preparing to unveil a consultation paper focused on the distribution of corporate bonds. This initiative aims to refine the framework governing corporate bond sales and is evaluating additiona"
+    },
+    {
+      "title": "Sakarni Plaster to invest Rs 450 cr on expansion; to set up 2 building material plants",
+      "description": "Sakarni Plaster has announced an ambitious plan to invest Rs 450 crore over the next two years. This investment will focus on establishing new manufacturing facilities for gypsum boards and paints, while also expanding the capacities of existing plants to cater to rising demand. The funding will be ",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sakarni-plaster-to-invest-rs-450-cr-on-expansion-to-set-up-2-building-material-plants/articleshow/133327030.cms",
+      "image": "https://img.etimg.com/photo/msid-133327030,imgsize-184090.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-18T16:07:04+00:00",
+      "category": "India",
+      "simple_explanation": "Sakarni Plaster has announced an ambitious plan to invest Rs 450 crore over the next two years. This investment will focus on establishing new manufacturing facilities for gypsum boards and paints, wh"
+    },
+    {
+      "title": "3 Reasons We Love Allison Transmission (ALSN)",
+      "description": "Even though Allison Transmission (currently trading at $125.25 per share) has gained 7.1% over the last six months, it has lagged the S&P 500’s 13.1% return during that period. This might have investors contemplating their next move.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-love-allison-transmission-160533105.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T16:05:33+00:00",
+      "category": "USA",
+      "simple_explanation": "Even though Allison Transmission (currently trading at $125.25 per share) has gained 7.1% over the last six months, it has lagged the S&P 500’s 13.1% return during that period. This might have investo"
+    },
+    {
+      "title": "The Third-Largest Corporate Holder Of Bitcoin Wants To Enter The US Market By Investing 2,100 BTC In Super League",
+      "description": "Metaplanet will control 95.7% of Superplanet's common shares and appoint a majority of its board, including Chairman Simon Gerovich.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/mtplf-bitcoin-super-league-bitcoin-treasury-us-market/cZYcLPURJj1?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T16:04:21+00:00",
       "category": "Crypto",
-      "simple_explanation": "On its fiscal first-quarter 2027 earnings call on Aug. 17, HIVE Digital Technologies (Nasdaq: HIVE) used the spotlight to press a single message: the company is no longer just a Bitcoin miner. Preside"
+      "simple_explanation": "Metaplanet will control 95.7% of Superplanet's common shares and appoint a majority of its board, including Chairman Simon Gerovich."
+    },
+    {
+      "title": "Wells Fargo revamps gold price target for the rest of 2026",
+      "description": "Earlier this year, one of Wall Street's most closely watched research arms made a bold commodity price call, the boldest any large institution had made in years. The forecast turned heads. It implied the kind of return that usually only shows up in speculative assets. And for a few months, the ...",
+      "url": "https://www.thestreet.com/investing/wells-fargo-lowers-gold-price-target-for-rest-of-2026-downgrade?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T16:03:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Earlier this year, one of Wall Street's most closely watched research arms made a bold commodity price call, the boldest any large institution had made in years. The forecast turned heads. It implied "
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Retreats As Chipmakers Sell Off; Micron, Sandisk And A Fintech Fall (Live Coverage)",
+      "description": "Stock Market Today: The Nasdaq tumbles Tuesday as Treasury yields rise. Nvidia stock, Micron and Sandisk fall Tuesday morning.",
+      "url": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T16:02:47+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Nasdaq tumbles Tuesday as Treasury yields rise. Nvidia stock, Micron and Sandisk fall Tuesday morning."
+    },
+    {
+      "title": "US single-family housing starts slide in July",
+      "description": "The U.S. witnessed a notable decline in single-family homebuilding last month, primarily due to elevated mortgage rates. An increase in unsold new homes exacerbated this downturn. However, there was a slight uptick in permits for future construction of single-family homes. The overall new residentia",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-single-family-housing-starts-slide-in-july/articleshow/133326995.cms",
+      "image": "https://img.etimg.com/photo/msid-133326995,imgsize-123798.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-18T16:01:04+00:00",
+      "category": "India",
+      "simple_explanation": "The U.S. witnessed a notable decline in single-family homebuilding last month, primarily due to elevated mortgage rates. An increase in unsold new homes exacerbated this downturn. However, there was a"
+    },
+    {
+      "title": "Gold can be a great inflation hedge, but sometimes it's not: AlphaSpace breakdown",
+      "description": "Gold (GC=F) prices are edging below $4,500 as traders weigh the outlook for interest rates and inflation. Bob Iaccino, co-founder and chief investment officer of the Unfiltered Investor Newsletter, sits down with Yahoo Finance's Julie Hyman to explain when gold is a good inflation hedge and when it'",
+      "url": "https://finance.yahoo.com/video/gold-great-inflation-hedge-sometimes-160000950.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T16:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold (GC=F) prices are edging below $4,500 as traders weigh the outlook for interest rates and inflation. Bob Iaccino, co-founder and chief investment officer of the Unfiltered Investor Newsletter, si"
+    },
+    {
+      "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
+      "description": "The $613 billion asset manager will subadvise a high-yield fund tokenized across Ethereum, Solana, Avalanche and Sui.",
+      "url": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sbuidl-blackrocks-tokenized-treasury-fund.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-18T15:59:54+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The $613 billion asset manager will subadvise a high-yield fund tokenized across Ethereum, Solana, Avalanche and Sui."
+    },
+    {
+      "title": "Keralam Govt to lease land to CSL for Rs 5,000 cr ship block building project, says CM Satheesan",
+      "description": "The Kerala government has made a significant move by leasing 18.16 acres of land to Cochin Shipyard. This new land allocation will facilitate a ship block building project with an impressive investment of Rs 5,000 crore. The initiative is anticipated to generate around 2,000 direct jobs, enhancing t",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/keralam-govt-to-lease-land-to-csl-for-rs-5000-cr-ship-block-building-project-says-cm-satheesan/articleshow/133326951.cms",
+      "image": "https://img.etimg.com/photo/msid-133326951,imgsize-69868.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-18T15:58:14+00:00",
+      "category": "India",
+      "simple_explanation": "The Kerala government has made a significant move by leasing 18.16 acres of land to Cochin Shipyard. This new land allocation will facilitate a ship block building project with an impressive investmen"
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Tuesday, August 18, 2026: Crypto prices mixed as Iran stalemate continues",
+      "description": "Bitcoin (BTC-USD) opened at $64,487.65 on Tuesday, August 18, 2026, 2.7% higher than Monday's opening price. Ethereum (ETH-USD) opened at $1,911.89 on Tuesday, August 18, 2026, up 2% from Monday's opening price.",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-18-2026-crypto-prices-mixed-as-iran-stalemate-continues-155702632.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T15:57:02+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin (BTC-USD) opened at $64,487.65 on Tuesday, August 18, 2026, 2.7% higher than Monday's opening price. Ethereum (ETH-USD) opened at $1,911.89 on Tuesday, August 18, 2026, up 2% from Monday's ope"
+    },
+    {
+      "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+      "description": "The banking giant plans to let institutional clients hold Bitcoin and traditional assets through the same custody framework.",
+      "url": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T15:56:05+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The banking giant plans to let institutional clients hold Bitcoin and traditional assets through the same custody framework."
+    },
+    {
+      "title": "German apartment building permits rise 14% in June as sector recovers",
+      "description": "Germany's property sector demonstrated a positive trajectory in June, marked by a nearly fourteen percent rise in apartment building permits. The tally reached twenty-one thousand six hundred units, showcasing a robust recovery compared to last year's statistics. However, experts highlight an ongoin",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/german-apartment-building-permits-rise-14-in-june-as-sector-recovers/articleshow/133326801.cms",
+      "image": "https://img.etimg.com/photo/msid-133326801,imgsize-189348.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-18T15:55:30+00:00",
+      "category": "India",
+      "simple_explanation": "Germany's property sector demonstrated a positive trajectory in June, marked by a nearly fourteen percent rise in apartment building permits. The tally reached twenty-one thousand six hundred units, s"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+      "description": "Indian equities extended losses as fading Middle East peace hopes, elevated crude prices, rising US yields and weak global cues intensified risk-off sentiment. Sensex fell 493 points and Nifty 133 points, while technical indicators pointed to further downside.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/133326718.cms",
+      "image": "https://img.etimg.com/photo/msid-133326718,imgsize-111150.cms",
+      "source": "ET Markets",
+      "published_at": "2026-08-18T15:50:45+00:00",
+      "category": "India",
+      "simple_explanation": "Indian equities extended losses as fading Middle East peace hopes, elevated crude prices, rising US yields and weak global cues intensified risk-off sentiment. Sensex fell 493 points and Nifty 133 poi"
+    },
+    {
+      "title": "Gold prices today, Tuesday, August 18, 2026: Gold falters as U.S. Treasury yields rise",
+      "description": "Gold (GC=F) December futures opened at $4,473.40 per troy ounce on Tuesday, August 18, 2026, nearly flat with Monday's closing price.",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-18-2026-gold-falters-as-us-treasury-yields-rise-154856224.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T15:48:56+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold (GC=F) December futures opened at $4,473.40 per troy ounce on Tuesday, August 18, 2026, nearly flat with Monday's closing price."
+    },
+    {
+      "title": "Bitcoin’s Price Crosses $65K, But Anthony Scaramucci Says $100K Catalyst Could Be 20 Months Away",
+      "description": "In an interview with CNBC, SkyBridge Capital founder and former White House Communications Director said Bitcoin was in “a clear bear market.”",
+      "url": "https://stocktwits.com/news-articles/markets/equity/bitcoin-price-65k-anthony-scaramucci-says-100k-catalyst-20-months-away/cZYcWmDRJjK?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T15:45:29+00:00",
+      "category": "Crypto",
+      "simple_explanation": "In an interview with CNBC, SkyBridge Capital founder and former White House Communications Director said Bitcoin was in “a clear bear market.”"
+    },
+    {
+      "title": "Stocks mostly drop as Mideast hopes dim, interest rates rise",
+      "description": "Stock markets mostly fell on Tuesday after a US-Iran truce expired with no progress towards reopening the Strait of Hormuz, adding to fears that higher energy prices will drive up inflation. Washington and Tehran both appear content to play a long game, which investors fear could mean prices will st",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/crude-extends-gains-most-stocks-082408030.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T15:44:58+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Stock markets mostly fell on Tuesday after a US-Iran truce expired with no progress towards reopening the Strait of Hormuz, adding to fears that higher energy prices will drive up inflation. Washingto"
+    },
+    {
+      "title": "Trump says no talks scheduled with Iran as he teases action in Hormuz Strait",
+      "description": "Trump insists the U.S., not Iran, is in control of the strait, even though transiting vessels continue to come under attack and few attempt the crossing.",
+      "url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-18T15:39:34+00:00",
+      "category": "USA",
+      "simple_explanation": "Trump insists the U.S., not Iran, is in control of the strait, even though transiting vessels continue to come under attack and few attempt the crossing."
+    },
+    {
+      "title": "The Stealth AI Stocks Are Dragging Down the Dow Again",
+      "description": "Caterpillar and Goldman Sachs are two of the biggest stocks in the Dow.  The Dow Jones Industrial Average was down 50 points, or 0.1%, on a day when 22 of its 30 members were actually rising.  Chip stocks were getting hammered after a big run, fitting into a pattern of two-way volatility that’s char",
+      "url": "https://finance.yahoo.com/m/70ee5684-073f-3d64-8670-b3e01f36a0ae/the-stealth-ai-stocks-are.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T15:38:09+00:00",
+      "category": "USA",
+      "simple_explanation": "Caterpillar and Goldman Sachs are two of the biggest stocks in the Dow.  The Dow Jones Industrial Average was down 50 points, or 0.1%, on a day when 22 of its 30 members were actually rising.  Chip st"
+    },
+    {
+      "title": "Italy’s Largest Bank Switched From Bitcoin to SpaceX Stock",
+      "description": "Italy's largest bank Intesa Sanpaolo revealed a $966 million SpaceX stake after cutting its Bitcoin ETF holdings by 94%.",
+      "url": "https://beincrypto.com/intesa-sanpaolo-italy-spacex-stake-bitcoin-etf/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T15:36:47+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Italy's largest bank Intesa Sanpaolo revealed a $966 million SpaceX stake after cutting its Bitcoin ETF holdings by 94%."
+    },
+    {
+      "title": "Diesel Prices Are Breaking Records: 3 Refiners Turning the Crisis Into Record Profits",
+      "description": "Crude oil looks calm, but diesel tells a completely different story, and the gap between those two markets is quietly reshaping who profits and who pays at every level of the supply chain.",
+      "url": "https://247wallst.com/investing/2026/08/18/diesel-prices-are-breaking-records-3-refiners-turning-the-crisis-into-record-profits/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T15:35:38+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Crude oil looks calm, but diesel tells a completely different story, and the gap between those two markets is quietly reshaping who profits and who pays at every level of the supply chain."
+    },
+    {
+      "title": "Is UPS a Good Stock for Passive Income Investors?",
+      "description": "UPS is a reminder that dividend investors can't afford to focus on yield or past payout hikes.",
+      "url": "https://www.fool.com/investing/2026/08/18/is-ups-a-good-stock-for-income-investors/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T15:35:00+00:00",
+      "category": "USA",
+      "simple_explanation": "UPS is a reminder that dividend investors can't afford to focus on yield or past payout hikes."
+    },
+    {
+      "title": "2 Reasons to Like BPOP (and 1 Not So Much)",
+      "description": "Since August 2021, the S&P 500 has delivered a total return of 76.8%. But one standout stock has nearly doubled the market - over the past five years, Popular has surged 137% to $176.88 per share. Its momentum hasn’t stopped as it’s also gained 21.2% in the last six months, beating the S&P by 8.1%.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-bpop-1-not-153333396.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T15:33:33+00:00",
+      "category": "USA",
+      "simple_explanation": "Since August 2021, the S&P 500 has delivered a total return of 76.8%. But one standout stock has nearly doubled the market - over the past five years, Popular has surged 137% to $176.88 per share. Its"
     },
     {
       "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
@@ -23,31 +293,21 @@
       "simple_explanation": "Disney's ABC has sued the FCC claiming its investigation and early broadcast licenses renewal are a 'retaliatory campaign' due to its programming."
     },
     {
-      "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
-      "description": "Long-dated fixed income hit their highest level in almost two decades amid a worsening U.S. fiscal situation and persistently higher inflation.",
-      "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-18T15:23:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Long-dated fixed income hit their highest level in almost two decades amid a worsening U.S. fiscal situation and persistently higher inflation."
-    },
-    {
-      "title": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
-      "description": "The Tokyo-listed firm will seed gaming media company Super League—to be renamed Superplanet and trade as SUPA—with 2,100 BTC.",
-      "url": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T15:19:45+00:00",
+      "title": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
+      "description": "Bitcoin returned to $65,000 for the first time in a week as fresh BTC price volatility accompanied US claims that the Strait of Hormuz was “open and operating.”",
+      "url": "https://cointelegraph.com/markets/bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoins-are-flash-green.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-18T15:27:13+00:00",
       "category": "Crypto",
-      "simple_explanation": "The Tokyo-listed firm will seed gaming media company Super League—to be renamed Superplanet and trade as SUPA—with 2,100 BTC."
+      "simple_explanation": "Bitcoin returned to $65,000 for the first time in a week as fresh BTC price volatility accompanied US claims that the Strait of Hormuz was “open and operating.”"
     },
     {
       "title": "Market Trading Guide: Aeroflex Industries among 2 stock recommendations for Wednesday",
       "description": "Crude prices, rising US yields and weak global cues kept Indian equities under pressure. Analysts remain bullish on Aeroflex Industries and JG Chemical, citing strong technical setups, key support levels and potential upside targets despite near-term market risks.",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-aeroflex-industries-among-2-stock-recommendations-for-wednesday/articleshow/133326175.cms",
       "image": "https://img.etimg.com/photo/msid-133326175,imgsize-56096.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-08-18T15:14:01+00:00",
       "category": "India",
       "simple_explanation": "Crude prices, rising US yields and weak global cues kept Indian equities under pressure. Analysts remain bullish on Aeroflex Industries and JG Chemical, citing strong technical setups, key support lev"
@@ -57,80 +317,20 @@
       "description": "Ashok Leyland's June-quarter has an unusual contradiction. The company sold 48,763 commercial vehicles, its highest-ever first-quarter volume, and revenue from operations rose 10.43% to Rs. 9,634 crore. Yet, the operating EBITDA was Rs. 970 crore, almost the same as a year earlier. The Q1 FY 27 resu",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/ashok-leyland-just-had-a-record-june-quarter-so-why-did-the-margin-fall-a-full-point/articleshow/133325764.cms",
       "image": "https://img.etimg.com/photo/msid-133325764,imgsize-59264.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-08-18T15:05:43+00:00",
       "category": "India",
       "simple_explanation": "Ashok Leyland's June-quarter has an unusual contradiction. The company sold 48,763 commercial vehicles, its highest-ever first-quarter volume, and revenue from operations rose 10.43% to Rs. 9,634 cror"
     },
     {
-      "title": "Bitcoin’s 21M Cap Under Fire as Peter Todd Makes the Case for a Gold-Like Supply",
-      "description": "Bitcoin developer Peter Todd has revived his argument for tail emissions, which would keep issuing a small amount of BTC after the current block subsidy ...",
-      "url": "https://www.ccn.com/news/crypto/bitcoin-21-million-supply-cap-peter-todd-tail-emissions/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T14:50:02+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin developer Peter Todd has revived his argument for tail emissions, which would keep issuing a small amount of BTC after the current block subsidy ..."
-    },
-    {
-      "title": "CLARITY Act's delay is 'depressing': Coinbase exec. discusses",
-      "description": "Coinbase's (COIN) head of institutional strategy, John D'Agostino, joins Yahoo Executive Editor Brian Sozzi on Opening Bid to discuss the stalled CLARITY Act, why the legislation matters for the crypto industry, and the growing role of stablecoins. D'Agostino also states that political stalling is h",
-      "url": "https://finance.yahoo.com/video/clarity-acts-delay-is-depressing-coinbase-exec-discusses-144900997.html?.tsrc=rss",
+      "title": "Jeff Currie: Forget $91 Brent, The Real Crisis Is $170 Diesel",
+      "description": "Jeff Currie says $91 Brent is masking the real shock: European diesel near $170 a barrel and pump prices rising far faster than crude.",
+      "url": "https://finance.yahoo.com/energy/articles/jeff-currie-forget-91-brent-144900181.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-08-18T14:49:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Coinbase's (COIN) head of institutional strategy, John D'Agostino, joins Yahoo Executive Editor Brian Sozzi on Opening Bid to discuss the stalled CLARITY Act, why the legislation matters for the crypt"
-    },
-    {
-      "title": "10-Year Treasury Yield Near Breakout; What You Need To Know",
-      "description": "Higher oil prices risk stoking inflation pressures at a bad time for the S&P 500 bull market, which has been fueled in part by a wave of debt issuance to finance the AI data center buildout.  Higher yields on government debt also push up rates for corporate debt and suggest that the bond market's ap",
-      "url": "https://finance.yahoo.com/m/87a1a761-b4a8-3387-bdcb-5547b0a1e789/10-year-treasury-yield-near.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T14:45:49+00:00",
-      "category": "USA",
-      "simple_explanation": "Higher oil prices risk stoking inflation pressures at a bad time for the S&P 500 bull market, which has been fueled in part by a wave of debt issuance to finance the AI data center buildout.  Higher y"
-    },
-    {
-      "title": "US yields rise amid Iran worries, broader selloff",
-      "description": "U.S. Treasury yields surged for a third day on Tuesday, with the 30-year yield reaching its highest mark since 2007. The benchmark 10-year yields also increased, getting close to their recent highs. Inflation expectations remained heightened, as shown by breakeven rates. Moreover, an ongoing global ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-rise-amid-iran-worries-broader-selloff/articleshow/133325609.cms",
-      "image": "https://img.etimg.com/photo/msid-133325609,imgsize-84850.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-18T14:45:46+00:00",
-      "category": "India",
-      "simple_explanation": "U.S. Treasury yields surged for a third day on Tuesday, with the 30-year yield reaching its highest mark since 2007. The benchmark 10-year yields also increased, getting close to their recent highs. I"
-    },
-    {
-      "title": "Dodgers owner Mark Walter's insurer to cut $6.5 billion in investments amid probe",
-      "description": "Mark Walter's insurance company is adjusting its investment strategy as it faces increased regulatory examination. Both the prosecutors and the SEC are delving into his business activities over concerns of potential fraud. The firm is collaborating with regulators to rectify the issues with its inve",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dodgers-owner-mark-walters-insurer-to-cut-6-5-billion-in-investments-amid-probe/articleshow/133325542.cms",
-      "image": "https://img.etimg.com/photo/msid-133325542,imgsize-55688.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-18T14:43:22+00:00",
-      "category": "India",
-      "simple_explanation": "Mark Walter's insurance company is adjusting its investment strategy as it faces increased regulatory examination. Both the prosecutors and the SEC are delving into his business activities over concer"
-    },
-    {
-      "title": "Nvidia Is on Track to Beat the S&P 500 for the 4th Straight Year. Should Its $500 Billion AI Infrastructure Financing Plan Give Investors Pause?",
-      "description": "The chipmaker's partnership with six financial institutions will help diversify its customer base beyond hyperscalers and neoclouds.",
-      "url": "https://www.fool.com/investing/2026/08/18/nvidia-is-on-track-to-beat-the-sp-500-for-the-4th/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T14:40:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The chipmaker's partnership with six financial institutions will help diversify its customer base beyond hyperscalers and neoclouds."
-    },
-    {
-      "title": "Bitcoin’s Rebound to $64K a ‘Liquidity Illusion’ as Trading Volume Falls",
-      "description": "Bitcoin (CRYPTO: $BTC) has climbed above $64,000, but the rebound is taking place in thin trading conditions, raisi...",
-      "url": "https://www.cryptoprowl.com/releases/bitcoins-rebound-to-64k-a-liquidity-illusion-as-trading-volume-falls-6457?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T14:37:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin (CRYPTO: $BTC) has climbed above $64,000, but the rebound is taking place in thin trading conditions, raisi..."
+      "category": "Commodities",
+      "simple_explanation": "Jeff Currie says $91 Brent is masking the real shock: European diesel near $170 a barrel and pump prices rising far faster than crude."
     },
     {
       "title": "Hindustan Copper shares rebound 20% in 15 sessions. What’s driving the rally?",
@@ -153,16 +353,6 @@
       "simple_explanation": "The company is seeking to launch a \"US500\" perp tied to the MerQube U.S. Large Cap Index, according to a regulatory filing."
     },
     {
-      "title": "Stock Market Today: Nasdaq Falls As Treasury Yields Rise; Micron, Sandisk And Fabrinet All Slide (Live Coverage)",
-      "description": "Stock Market Today: The Nasdaq tumbles Tuesday as Treasury yields jump. Nvidia stock, Micron and Sandisk fall Tuesday morning.",
-      "url": "https://finance.yahoo.com/m/fdb8b55e-c80b-38c5-bab0-70133d76c05f/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T14:21:08+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Nasdaq tumbles Tuesday as Treasury yields jump. Nvidia stock, Micron and Sandisk fall Tuesday morning."
-    },
-    {
       "title": "Hims & Hers CEO says FTC lawsuit misunderstands how the company works",
       "description": "Hims & Hers CEO Andrew Dudum spoke to CNBC about the FTC's lawsuit against the company, compounded GLP-1 drugs and AI.",
       "url": "https://www.cnbc.com/2026/08/18/hims-hers-ceo-andrew-dudum-ftc-lawsuit-glp-1s-ai.html",
@@ -183,24 +373,14 @@
       "simple_explanation": "Oil prices continued to climb Tuesday morning as hopes of any sort of peace deal between the US and"
     },
     {
-      "title": "NL Q2 Earnings Rise Y/Y as CompX & Kronos Results Improve",
-      "description": "NLI Holdings' Q2 earnings rise y/y as CompX margins improve and Kronos returns to profit, supporting an upbeat 2026 outlook despite cost pressures.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nl-q2-earnings-rise-y-135700334.html?.tsrc=rss",
+      "title": "30-Year Yield Rises to Highest Level Since 2007 as Oil and Treasury Supply Bite Bonds",
+      "description": "In addition to oil, another bearish driver for bonds could be supply. Investors had to digest $125 billion in medium- and long-term Treasury debt last week.",
+      "url": "https://finance.yahoo.com/m/05087d5a-0c2c-3cfb-ad1a-888a8617c91b/30-year-yield-rises-to.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-18T13:57:00+00:00",
-      "category": "USA",
-      "simple_explanation": "NLI Holdings' Q2 earnings rise y/y as CompX margins improve and Kronos returns to profit, supporting an upbeat 2026 outlook despite cost pressures."
-    },
-    {
-      "title": "VATE Q2 Earnings Improve Y/Y as Infrastructure Revenues Surge",
-      "description": "INNOVATE swings to a Q2 profit as revenues surge 74.2% y/y, fueled by DBM Global's growth, wider margins and backlog gains, while debt and liquidity remain in focus.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vate-q2-earnings-improve-y-135300740.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T13:53:00+00:00",
-      "category": "USA",
-      "simple_explanation": "INNOVATE swings to a Q2 profit as revenues surge 74.2% y/y, fueled by DBM Global's growth, wider margins and backlog gains, while debt and liquidity remain in focus."
+      "published_at": "2026-08-18T14:03:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "In addition to oil, another bearish driver for bonds could be supply. Investors had to digest $125 billion in medium- and long-term Treasury debt last week."
     },
     {
       "title": "Global bond sell-off pressures stocks: AlphaCheck",
@@ -213,36 +393,6 @@
       "simple_explanation": "Tech stocks took a leg lower amid concerns about rising borrowing costs."
     },
     {
-      "title": "US Stocks: US market opens lower as Iran stalemate lifts oil, yields",
-      "description": "On Tuesday morning, major indexes on Wall Street experienced a downward trend as oil prices remained high due to falling hopes for a peace agreement between the U.S. and Iran. Additionally, government bond yields lingered near multi-year highs. The Dow Jones Industrial Average registered a drop of 1",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-opens-lower-as-iran-stalemate-lifts-oil-yields/articleshow/133324329.cms",
-      "image": "https://img.etimg.com/photo/msid-133324329,imgsize-193144.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-18T13:49:55+00:00",
-      "category": "India",
-      "simple_explanation": "On Tuesday morning, major indexes on Wall Street experienced a downward trend as oil prices remained high due to falling hopes for a peace agreement between the U.S. and Iran. Additionally, government"
-    },
-    {
-      "title": "Reddit Stock Joins the S&P 500 but Its Boost Is Already Fading",
-      "description": "The social-media platform becomes a member of the benchmark index, but that isn’t helping its shares.",
-      "url": "https://finance.yahoo.com/m/82e217aa-ad6e-3340-ba50-40d3bf835012/reddit-stock-joins-the-s%26p.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T13:49:00+00:00",
-      "category": "USA",
-      "simple_explanation": "The social-media platform becomes a member of the benchmark index, but that isn’t helping its shares."
-    },
-    {
-      "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
-      "description": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.",
-      "url": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-18T13:43:28+00:00",
-      "category": "USA",
-      "simple_explanation": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines."
-    },
-    {
       "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
       "description": "Retail investors can apply to buy the 1 billion yen bond without a securities account and receive perks through Toyota’s payment app.",
       "url": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -251,156 +401,6 @@
       "published_at": "2026-08-18T13:41:56+00:00",
       "category": "Crypto",
       "simple_explanation": "Retail investors can apply to buy the 1 billion yen bond without a securities account and receive perks through Toyota’s payment app."
-    },
-    {
-      "title": "Nasdaq Falls 1.1%. The Chip Stock Rally Is Reversing.",
-      "description": "After pushing chip stocks into a bull market, traders were taking profits in key AI stocks on Tuesday. The Nasdaq Composite fell 1.1%. The Dow Jones Industrial Average fell 200 points, or 0.4%. The S&P 500 dropped 0.",
-      "url": "https://finance.yahoo.com/m/ab9f6510-d693-3e57-8cc7-f5dafaf84649/nasdaq-falls-1.1%25.-the-chip.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T13:33:01+00:00",
-      "category": "USA",
-      "simple_explanation": "After pushing chip stocks into a bull market, traders were taking profits in key AI stocks on Tuesday. The Nasdaq Composite fell 1.1%. The Dow Jones Industrial Average fell 200 points, or 0.4%. The S&"
-    },
-    {
-      "title": "Sector Update: Energy Stocks Rise Pre-Bell Tuesday",
-      "description": "Energy stocks were rising pre-bell Tuesday, with the State Street Energy Select Sector SPDR ETF (XLE",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-pre-132606759.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T13:26:06+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Energy stocks were rising pre-bell Tuesday, with the State Street Energy Select Sector SPDR ETF (XLE"
-    },
-    {
-      "title": "Stock Market News for Aug 18, 2026",
-      "description": "Wall Street closed lower on Monday, dragged down by retail and communications stocks.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-18-132600845.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T13:26:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Wall Street closed lower on Monday, dragged down by retail and communications stocks."
-    },
-    {
-      "title": "Rising Treasury Yields and Oil Prices Put Wall Street Under Fresh Pressure: Dow Jones, S&P, Nasdaq, Futures",
-      "description": "U. S. stocks were set for another weaker start on Tuesday, with major index futures pointing lower after Wall Street retreated during the previous two sessions.",
-      "url": "https://investorshub.advfn.com/market-news/article/34526/rising-treasury-yields-and-oil-prices-put-wall-street-under-fresh-pressure-dow-jones-sp-nasdaq-futures?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T13:13:29+00:00",
-      "category": "Commodities",
-      "simple_explanation": "U. S. stocks were set for another weaker start on Tuesday, with major index futures pointing lower after Wall Street retreated during the previous two sessions."
-    },
-    {
-      "title": "Trump Trolls, Calls Strait of Hormuz “New U.S. Territory.” Here’s Why Oil Investors Should Still Pay Attention",
-      "description": "Trump just claimed the Strait of Hormuz as U.S. territory on Truth Social, and while international law has something to say about that, oil investors may be missing the far more dangerous scenario hiding behind the headline.",
-      "url": "https://247wallst.com/investing/2026/08/18/trump-trolls-calls-strait-of-hormuz-new-u-s-territory-heres-why-oil-investors-should-still-pay-attention/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T13:11:49+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Trump just claimed the Strait of Hormuz as U.S. territory on Truth Social, and while international law has something to say about that, oil investors may be missing the far more dangerous scenario hid"
-    },
-    {
-      "title": "Sebi bars merchant banker Corporate Capital Ventures from new assignments for one month",
-      "description": "Sebi has barred merchant banker Corporate Capital Ventures from taking new assignments for one month due to multiple compliance lapses, including failing to update IPO track records, misleading office location disclosures, and neglecting mandatory NISM certifications for key management personnel.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-merchant-banker-corporate-capital-ventures-from-new-assignments-for-one-month/articleshow/133323604.cms",
-      "image": "https://img.etimg.com/photo/msid-133323604,imgsize-197890.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-18T13:10:19+00:00",
-      "category": "India",
-      "simple_explanation": "Sebi has barred merchant banker Corporate Capital Ventures from taking new assignments for one month due to multiple compliance lapses, including failing to update IPO track records, misleading office"
-    },
-    {
-      "title": "US stock market today: S&P 500, Nasdaq futures down up to 1% amid surging oil and bond yields",
-      "description": "US stock futures suggest a negative opening as technology stocks decline, amid rising bond yields and oil prices, raising inflation concerns. The S&amp;P 500 is expected to post its third consecutive day of losses, with individual stocks like Nvidia falling sharply.",
-      "url": "https://www.livemint.com/market/us-stock-market-today-s-p-500-nasdaq-futures-down-up-to-1-amid-surging-oil-and-bond-yields-11787054644462.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/US-ECONOMY-MARKETS-NYSE-4_1750940643064_1787056462059_cdbdb76f-8f03-4419-96a9-be4feda92985.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-08-18T13:06:19+00:00",
-      "category": "India",
-      "simple_explanation": "US stock futures suggest a negative opening as technology stocks decline, amid rising bond yields and oil prices, raising inflation concerns. The S&amp;P 500 is expected to post its third consecutive "
-    },
-    {
-      "title": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United",
-      "description": "American is trying to add more premium seating and passenger perks after falling behind rivals Delta and United.",
-      "url": "https://www.cnbc.com/2026/08/18/american-airlines-seatback-screens.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-18T13:00:01+00:00",
-      "category": "USA",
-      "simple_explanation": "American is trying to add more premium seating and passenger perks after falling behind rivals Delta and United."
-    },
-    {
-      "title": "MoonPay adds Cash App Pay for crypto purchases by US customers",
-      "description": "Eligible US users can fund MoonPay crypto purchases with Cash App balances as the payments firm expands beyond its core onramp business.",
-      "url": "https://cointelegraph.com/news/moonpay-cash-app-pay-crypto-purchases-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-stablecoin-has-been-listed-an-exchange-traded-note-in-europe-moonpay.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-18T13:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Eligible US users can fund MoonPay crypto purchases with Cash App balances as the payments firm expands beyond its core onramp business."
-    },
-    {
-      "title": "Pinnacle Silver and Gold reports high-grade gold and silver results from Potrero drilling",
-      "description": "Pinnacle Silver & Gold Corp (TSX-V:PINN, OTCQB:PSGCF, FRA:P9J) has reported assay results from its ongoing underground drilling program at the Potrero gold-silver property in Durango, Mexico, with drilling at the historic Pinos Cuates mine extending the known strike length of mineralization...",
-      "url": "https://www.proactiveinvestors.com/companies/news/1097205/pinnacle-silver-and-gold-reports-high-grade-gold-and-silver-results-from-potrero-drilling-1097205.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T12:59:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Pinnacle Silver & Gold Corp (TSX-V:PINN, OTCQB:PSGCF, FRA:P9J) has reported assay results from its ongoing underground drilling program at the Potrero gold-silver property in Durango, Mexico, with dri"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-18T12:53:39+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "Crude oil stays above $90 per barrel as West Asia war drags on",
-      "description": "Persistent uncertainty around the US–Iran war and the Strait of Hormuz continued to underpin the geopolitical risk premium in oil prices, keeping investors wary of renewed inflationary pressures, experts said.",
-      "url": "https://www.livemint.com/market/commodities/crude-oil-price-90-per-barrel-west-asia-war-india-oil-imports-11787052374538.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/NIGERIA-DANGOTE-IPO-7_1787056822532_1787056838841_4df47678-65e0-4dd6-810d-2e972c8e5463.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-08-18T12:41:21+00:00",
-      "category": "India",
-      "simple_explanation": "Persistent uncertainty around the US–Iran war and the Strait of Hormuz continued to underpin the geopolitical risk premium in oil prices, keeping investors wary of renewed inflationary pressures, expe"
-    },
-    {
-      "title": "Regulatory tailwinds to boost growth for MCX, says HDFC Securities, retains Buy for 18% gains",
-      "description": "HDFC Securities retained its Buy rating on MCX with a Rs 3,600 target, citing regulatory easing, FPI participation and new bullion and metals index options. The brokerage expects these changes to boost options premiums, volumes and earnings while improving capital efficiency.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/regulatory-tailwinds-to-boost-growth-for-mcx-says-hdfc-securities-retains-buy-for-18-gains/articleshow/133322360.cms",
-      "image": "https://img.etimg.com/photo/msid-133322360,imgsize-167178.cms",
-      "source": "ET Markets",
-      "published_at": "2026-08-18T12:26:33+00:00",
-      "category": "India",
-      "simple_explanation": "HDFC Securities retained its Buy rating on MCX with a Rs 3,600 target, citing regulatory easing, FPI participation and new bullion and metals index options. The brokerage expects these changes to boos"
-    },
-    {
-      "title": "Stocks Fall Pre-Bell as Hopes for Near-Term US-Iran Peace Deal Fade",
-      "description": "US equity futures were tracking in the red on Tuesday amid fading hopes for a US-Iran peace deal, as",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-pre-bell-hopes-120919583.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T12:09:19+00:00",
-      "category": "USA",
-      "simple_explanation": "US equity futures were tracking in the red on Tuesday amid fading hopes for a US-Iran peace deal, as"
-    },
-    {
-      "title": "Skull Ridge Gold Acquires 17,225-Hectare Strategic Land Position Along Emerging Crippleback–Stony Lake Gold-Copper Corridor",
-      "description": "VANCOUVER, British Columbia, Aug. 18, 2026 (GLOBE NEWSWIRE) -- Skull Ridge Gold Corp. (CSE: SKUL) (“Skull Ridge” or the “Company”) is pleased to announce that it has acquired, through an arm’s-length Newfoundland prospector 689 mineral claims covering approximately 17,225 hectares in Central Newfoun",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/skull-ridge-gold-acquires-17-120400619.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T12:04:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "VANCOUVER, British Columbia, Aug. 18, 2026 (GLOBE NEWSWIRE) -- Skull Ridge Gold Corp. (CSE: SKUL) (“Skull Ridge” or the “Company”) is pleased to announce that it has acquired, through an arm’s-length "
     }
   ]
 }
