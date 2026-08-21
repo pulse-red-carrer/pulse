@@ -1,14 +1,204 @@
 {
-  "last_updated": "2026-08-21T09:36:11.527625+00:00",
+  "last_updated": "2026-08-21T10:30:15.746462+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Longer-dated Treasury yields steady as Bessent's bond buyback rally fizzles out",
+      "title": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
+      "description": "It comes weeks after Romania’s Air Force destroyed a Russian drone in its airspace.",
+      "url": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-21T10:15:18+00:00",
+      "category": "USA",
+      "simple_explanation": "It comes weeks after Romania’s Air Force destroyed a Russian drone in its airspace."
+    },
+    {
+      "title": "Bank of America strategist warns market just flashed a 2000 dot-com bubble signal. Here’s how to protect your portfolio",
+      "description": "Analysts warn narrow market breadth hints ay underlying market vulnerability.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-strategist-warns-market-101500180.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-21T10:15:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Analysts warn narrow market breadth hints ay underlying market vulnerability."
+    },
+    {
+      "title": "Bitcoin Heads for Best Week Since 2024 as Trump-Fueled Crypto Rally Rages On",
+      "description": "It’s been a stellar week for cryptos—and it’s about more than just President Donald Trump calling for Congress to pass the Clarity Act.",
+      "url": "https://finance.yahoo.com/m/d66935d1-6d51-3f6a-9468-43d81576b770/bitcoin-heads-for-best-week.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-21T10:14:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "It’s been a stellar week for cryptos—and it’s about more than just President Donald Trump calling for Congress to pass the Clarity Act."
+    },
+    {
+      "title": "Coldcard strengthens seed generation with firmware update",
+      "description": "Coinkite urged Coldcard users to generate new seed phrases, warning that existing vulnerable seeds remain unsafe despite the security upgrade.",
+      "url": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-hack-hacker-red-wallet-1.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-21T10:13:23+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Coinkite urged Coldcard users to generate new seed phrases, warning that existing vulnerable seeds remain unsafe despite the security upgrade."
+    },
+    {
+      "title": "Commerzbank Says Oil Prices Rangebound, US Equity Futures Stable, Euro Stronger",
+      "description": "Oil prices remained rangebound on lack of updates in the Middle East conflict, according to Commerzb",
+      "url": "https://finance.yahoo.com/economy/policy/articles/commerzbank-says-oil-prices-rangebound-101236460.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-21T10:12:36+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil prices remained rangebound on lack of updates in the Middle East conflict, according to Commerzb"
+    },
+    {
+      "title": "Top Gainers & Losers on 21 Aug: Welspun Corp, Jindal Saw, Urban Company, Vedanta, CarTrade Tech among top gainers",
+      "description": "Indian stock markets concluded Friday's session subdued, impacted by high crude oil prices and rising global bond yields. The Nifty 50 and Sensex remained largely unchanged, marking their second consecutive week of losses amidst geopolitical tensions and fluctuating investor sentiment.",
+      "url": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-21-aug-welspun-corp-jindal-saw-urban-company-vedanta-cartrade-tech-among-top-gainers-11787305625058.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/PTI02-01-2023-000222B-0_1680087728609_1680087728609_1787306923044_e26548de-d1c4-411e-99c9-12ddf26719bc.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-21T10:09:14+00:00",
+      "category": "India",
+      "simple_explanation": "Indian stock markets concluded Friday's session subdued, impacted by high crude oil prices and rising global bond yields. The Nifty 50 and Sensex remained largely unchanged, marking their second conse"
+    },
+    {
+      "title": "Bitwise’s Bullish XRP Prediction in Focus as It Teases Billboard, Traders Eye ‘Institutional Flood’",
+      "description": "Bitwise teased another Times Square XRP billboard after XRP ETFs surpassed $120 million in daily trading volume. XRP bulls linked the activity to a wave ...",
+      "url": "https://www.ccn.com/news/crypto/xrp-100-bitwise-xrp-billboard-institutional-flood-trump-meeting/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-21T10:04:21+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitwise teased another Times Square XRP billboard after XRP ETFs surpassed $120 million in daily trading volume. XRP bulls linked the activity to a wave ..."
+    },
+    {
+      "title": "Stock Futures Rebound After Bond Market Selloff",
+      "description": "Stock futures were rising Friday, putting the market on track to claw back some of its losses after bond yields’ move higher sparked a selloff the previous session.  Nasdaq 100 futures gained 0.6%.  Dow Jones Industrial Average futures added 165 points, or 0.3%.",
+      "url": "https://finance.yahoo.com/m/82b02cf6-4fe0-33c4-8bd4-45671cc7df51/stock-futures-rebound-after.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-21T10:01:40+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock futures were rising Friday, putting the market on track to claw back some of its losses after bond yields’ move higher sparked a selloff the previous session.  Nasdaq 100 futures gained 0.6%.  D"
+    },
+    {
+      "title": "Sensex, Nifty 50 end flat amid elevated oil prices, US-Iran stalled talks; Infosys, SBI among top drags",
+      "description": "The Sensex ended 3 points up at 77,540.83, while the Nifty 50 settled 20 points, or 0.08%, higher at 24,252. For the week, the 30-share pack slipped 0.60%, while the Nifty 50 declined 0.50%.",
+      "url": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-flat-amid-elevated-oil-prices-us-iran-stalled-talks-infosys-sbi-among-top-drags-11787305978312.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/bulls_bears_1733613022703_1787306136649_91c9ea0f-3925-483b-a85a-73a92317f035.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-21T10:01:29+00:00",
+      "category": "India",
+      "simple_explanation": "The Sensex ended 3 points up at 77,540.83, while the Nifty 50 settled 20 points, or 0.08%, higher at 24,252. For the week, the 30-share pack slipped 0.60%, while the Nifty 50 declined 0.50%."
+    },
+    {
+      "title": "Global Market: European shares little changed as bond yields rise and gulf tensions lift oil",
+      "description": "European shares were little changed on Friday, with the STOXX 600 heading for a second straight weekly decline as rising bond yields and higher oil prices weighed on sentiment. Renewed Gulf tensions pushed Brent crude to a one-month high, reviving inflation concerns and complicating the outlook for ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-little-changed-as-bond-yields-rise-and-gulf-tensions-lift-oil/articleshow/133399383.cms",
+      "image": "https://img.etimg.com/photo/msid-133399383,imgsize-40988.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-21T10:01:20+00:00",
+      "category": "India",
+      "simple_explanation": "European shares were little changed on Friday, with the STOXX 600 heading for a second straight weekly decline as rising bond yields and higher oil prices weighed on sentiment. Renewed Gulf tensions p"
+    },
+    {
+      "title": "Crypto stocks extend rally as Bitcoin jumps on US regulatory momentum",
+      "description": "Cryptocurrency-linked shares continued their advance on Friday as Bitcoin (COIN:BTCUSD) climbed to its highest levels since late May, supported by renewed optimism over US digital asset regulation and improving appetite for risk. The latest gains followed President Donald Trump’s call for lawmakers ",
+      "url": "https://investorshub.advfn.com/market-news/article/34774/crypto-stocks-extend-rally-as-bitcoin-jumps-on-us-regulatory-momentum?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-21T09:56:33+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Cryptocurrency-linked shares continued their advance on Friday as Bitcoin (COIN:BTCUSD) climbed to its highest levels since late May, supported by renewed optimism over US digital asset regulation and"
+    },
+    {
+      "title": "Crypto Just Triggered $3.5 Billion in Liquidations After Its Biggest Single-Day Gain Since March",
+      "description": "Bitcoin traded near $77,500 on Aug. 21, 2026, after rising nearly 8% at one point the previous day, reaching around $78,000 and breaking a months-long consolidation range. The move was Bitcoin’s largest single-day gain since March. The Kobeissi Letter data cited in that report showed total crypto li",
+      "url": "https://www.coinspeaker.com/bitcoin-short-squeeze-crypto-liquidations-rally/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-21T09:54:47+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin traded near $77,500 on Aug. 21, 2026, after rising nearly 8% at one point the previous day, reaching around $78,000 and breaking a months-long consolidation range. The move was Bitcoin’s large"
+    },
+    {
+      "title": "US Treasury intervention gives Japanese bonds temporary relief as 3% yield looms",
+      "description": "Japanese government bond yields received temporary relief after U.S. Treasury intervention, but analysts warn the 10-year JGB yield could surpass 3%. Persistent inflation, a weak yen, expansive fiscal policy, rising oil prices and expectations of Bank of Japan tightening continue to pressure Japanes",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-intervention-gives-japanese-bonds-temporary-relief-as-3-yield-looms/articleshow/133400257.cms",
+      "image": "https://img.etimg.com/photo/msid-133400257,imgsize-140448.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-21T09:53:21+00:00",
+      "category": "India",
+      "simple_explanation": "Japanese government bond yields received temporary relief after U.S. Treasury intervention, but analysts warn the 10-year JGB yield could surpass 3%. Persistent inflation, a weak yen, expansive fiscal"
+    },
+    {
+      "title": "Global Market: Eurozone bond yields edge lower after turbulent week in global debt markets",
+      "description": "Eurozone bond yields eased Friday but remained set for weekly gains amid global bond-market stress, persistent inflation and fiscal concerns. Germany’s 10-year yield stood at 3.2445%. Rising oil prices and stronger ECB rate-hike expectations added pressure, with markets pricing over 90% odds of a Se",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-edge-lower-after-turbulent-week-in-global-debt-markets/articleshow/133400209.cms",
+      "image": "https://img.etimg.com/photo/msid-133400209,imgsize-40988.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-21T09:50:32+00:00",
+      "category": "India",
+      "simple_explanation": "Eurozone bond yields eased Friday but remained set for weekly gains amid global bond-market stress, persistent inflation and fiscal concerns. Germany’s 10-year yield stood at 3.2445%. Rising oil price"
+    },
+    {
+      "title": "A $1,000 Investment With Bill Ackman in 2004 Would Be Worth Over $25,000 Today. Here's the Strategy Behind His Two-Decade Track Record.",
+      "description": "You may not be able to copy Ackman's activist playbook, but the principles behind his two-decade track record are available to any investor.",
+      "url": "https://www.fool.com/investing/2026/08/21/a-1000-investment-with-bill-ackman-in-2004-would-b/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-21T09:50:00+00:00",
+      "category": "USA",
+      "simple_explanation": "You may not be able to copy Ackman's activist playbook, but the principles behind his two-decade track record are available to any investor."
+    },
+    {
+      "title": "Maharatna PSU stock SAIL declares record date for final dividend in FY26",
+      "description": "SAIL dividend 2026: Maharatha PSU stock had declared  ₹2.35 per share final dividend payable in the financial year 2025-26",
+      "url": "https://www.livemint.com/market/stock-market-news/maharatna-psu-stock-sail-declares-record-date-for-final-dividend-in-fy26-11787303082467.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/Maharatna_PSU_companies_in_India_SAIL_dividend_1787303405008_1787303405196_32f96ead-b43d-4e97-b17b-3444d0336f0c.JPG",
+      "source": "LiveMint",
+      "published_at": "2026-08-21T09:47:09+00:00",
+      "category": "India",
+      "simple_explanation": "SAIL dividend 2026: Maharatha PSU stock had declared  ₹2.35 per share final dividend payable in the financial year 2025-26"
+    },
+    {
+      "title": "Kalshi’s Crypto Perpetual Futures Reach $17.98 Million Open Interest",
+      "description": "Kalshi daily crypto perpetual-futures open interest reached a record $17.98 million. The reading puts attention on Kalshi’s CFTC-regulated perpetual futures, which allow traders to take leveraged positions on crypto prices without buying the underlying assets.Perpetual futures, or perps, are derivat",
+      "url": "https://cryptonews.com/news/crypto-perpetual-futures-kalshi-record/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-21T09:46:43+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Kalshi daily crypto perpetual-futures open interest reached a record $17.98 million. The reading puts attention on Kalshi’s CFTC-regulated perpetual futures, which allow traders to take leveraged posi"
+    },
+    {
+      "title": "Why bitcoin prices are suddenly rallying big-time",
+      "description": "Bitcoin is back on the hot list.",
+      "url": "https://finance.yahoo.com/markets/article/why-bitcoin-prices-are-suddenly-rallying-big-time-094451450.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-21T09:44:51+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin is back on the hot list."
+    },
+    {
+      "title": "Ethereum records highest buy-to-sell ratio among top 5 cryptos by investor participation in Q2 2026: Report",
+      "description": "CoinSwitch Q2 2026 report reveals broad-based investor demand with top five cryptocurrencies maintaining buy-to-sell ratios above one. Ethereum led the market with the highest ratio of 1.39, followed by Shiba Inu, Solana, Bitcoin, and PEPE, reflecting strong accumulation across major digital assets ",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/ethereum-records-highest-buy-to-sell-ratio-among-top-5-cryptos-by-investor-participation-in-q2-2026-report/slideshow/133400200.cms",
+      "image": "https://img.etimg.com/photo/msid-133400131,imgsize-66104.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-21T09:44:05+00:00",
+      "category": "India",
+      "simple_explanation": "CoinSwitch Q2 2026 report reveals broad-based investor demand with top five cryptocurrencies maintaining buy-to-sell ratios above one. Ethereum led the market with the highest ratio of 1.39, followed "
+    },
+    {
+      "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
       "description": "Concerns over the Treasury Department's debt repurchase program continue to weigh on markets.",
       "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-08-21T09:34:26+00:00",
+      "published_at": "2026-08-21T09:36:46+00:00",
       "category": "USA",
       "simple_explanation": "Concerns over the Treasury Department's debt repurchase program continue to weigh on markets."
     },
@@ -83,14 +273,24 @@
       "simple_explanation": "Samsung Electronics plans shareholder returns totaling 90 trillion won to 110 trillion won, including about 30 trillion won in third-quarter cash dividends."
     },
     {
-      "title": "Hyperliquid Lands on Coinbase Base App With 50x Leverage and 290+ Markets",
-      "description": "Coinbase has added Hyperliquid perpetual futures to Base App, covering more than 290 cryptos, tokenized stocks, and commodity markets. Eligible self-custody users can trade ...",
-      "url": "https://www.ccn.com/news/crypto/coinbase-base-app-hyperliquid-perps-50x-leverage/?.tsrc=rss",
+      "title": "Gold Headed for Big Weekly Gain Amid Concern Over Government Debt",
+      "description": "Gold prices rose above $4,600 a troy ounce and are headed for a weekly gain of 4%, buoyed by concerns over the U.S. government debt and borrowing costs.  \"Gold is on track for a third consecutive weekly gain,\" analysts at Saxo Bank said.  In early European trading, New York futures were up 1.1% to $",
+      "url": "https://finance.yahoo.com/m/bdb94f14-de11-3174-86d5-de88a3446b9c/gold-headed-for-big-weekly.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-21T08:57:36+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Coinbase has added Hyperliquid perpetual futures to Base App, covering more than 290 cryptos, tokenized stocks, and commodity markets. Eligible self-custody users can trade ..."
+      "published_at": "2026-08-21T09:08:11+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Gold prices rose above $4,600 a troy ounce and are headed for a weekly gain of 4%, buoyed by concerns over the U.S. government debt and borrowing costs.  \"Gold is on track for a third consecutive week"
+    },
+    {
+      "title": "Stock Market News for Aug 21, 2026",
+      "description": "Wall Street closed lower on Thursday as tensions between the United States and Iran rose, heightening geopolitical concerns. Investors assessed economic data.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-21-090400012.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-21T09:04:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Wall Street closed lower on Thursday as tensions between the United States and Iran rose, heightening geopolitical concerns. Investors assessed economic data."
     },
     {
       "title": "STARTRADER Launches XAUUSD247, Extending Gold CFD Access Across the Full Week",
@@ -113,16 +313,6 @@
       "simple_explanation": "Retail sentiment on Stocktwits remained ‘neutral’ on SPY and turned ‘bearish’ on QQQ."
     },
     {
-      "title": "Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran",
-      "description": "Oil prices eased Friday but remained on track for a second straight weekly gain as hopes of a swift reopening of the Strait of Hormuz faded to near-zero.",
-      "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-21T08:55:28+00:00",
-      "category": "USA",
-      "simple_explanation": "Oil prices eased Friday but remained on track for a second straight weekly gain as hopes of a swift reopening of the Strait of Hormuz faded to near-zero."
-    },
-    {
       "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
       "description": "Bitcoin gains 20% in two days as Strategy sees its BTC treasury climb out of the red.",
       "url": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -133,16 +323,6 @@
       "simple_explanation": "Bitcoin gains 20% in two days as Strategy sees its BTC treasury climb out of the red."
     },
     {
-      "title": "Missed the AI rally? After bumper 600% market debut, Chinese robot maker Unitree's CEO still feels a software leap is years away",
-      "description": "Chinese humanoid robot maker Unitree made a spectacular stock market debut in Shanghai, with shares soaring 600% over the IPO price. However, CEO Wang Xingxing cautioned that a major software breakthrough for humanoid robots could still be years away, despite growing optimism around embodied AI and ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/missed-the-ai-rally-after-bumper-600-market-debut-chinese-robot-maker-unitrees-ceo-still-feels-a-software-leap-is-years-away/articleshow/133398647.cms",
-      "image": "https://img.etimg.com/photo/msid-133398647,imgsize-86928.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-21T08:45:35+00:00",
-      "category": "India",
-      "simple_explanation": "Chinese humanoid robot maker Unitree made a spectacular stock market debut in Shanghai, with shares soaring 600% over the IPO price. However, CEO Wang Xingxing cautioned that a major software breakthr"
-    },
-    {
       "title": "Gold stays above $4,500 as weaker dollar and Treasury action fuel gains",
       "description": "Gold remained firmly above $4,500 an ounce on Friday, extending its advance as a softer US dollar and measures from the US Treasury aimed at easing longer-term borrowing costs continued to support demand for the precious metal. Bullion has gained around 4% this week, putting it on course for a third",
       "url": "https://investorshub.advfn.com/market-news/article/34766/gold-stays-above-4500-as-weaker-dollar-and-treasury-action-fuel-gains?.tsrc=rss",
@@ -151,16 +331,6 @@
       "published_at": "2026-08-21T08:44:03+00:00",
       "category": "Commodities",
       "simple_explanation": "Gold remained firmly above $4,500 an ounce on Friday, extending its advance as a softer US dollar and measures from the US Treasury aimed at easing longer-term borrowing costs continued to support dem"
-    },
-    {
-      "title": "Global Market: BOJ's July 2027 meeting could shape Japan's rate path",
-      "description": "The Bank of Japan’s July 2027 policy meeting is drawing attention after being scheduled for July 21-22, allowing hawkish board members Naoki Tamura and Hajime Takata to vote just before their terms expire on July 23. The timing could prove important for the BOJ’s rate-hike path as inflation pressure",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bojs-july-2027-meeting-could-shape-japans-rate-path/articleshow/133398585.cms",
-      "image": "https://img.etimg.com/photo/msid-133398585,imgsize-81226.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-21T08:40:35+00:00",
-      "category": "India",
-      "simple_explanation": "The Bank of Japan’s July 2027 policy meeting is drawing attention after being scheduled for July 21-22, allowing hawkish board members Naoki Tamura and Hajime Takata to vote just before their terms ex"
     },
     {
       "title": "Oil prices ease from one-month highs but remain set for strong weekly gains",
@@ -193,26 +363,6 @@
       "simple_explanation": "Fully Franked 2.0cps Final Dividend DeclaredPERTH, Australia, Aug. 21, 2026 (GLOBE NEWSWIRE) -- Alkane Resources Limited (ASX: ALK, TSX: ALK, OTCQX: ALKRY) (‘Alkane’ or ‘the Company’) is pleased to re"
     },
     {
-      "title": "Benjamin Cowen’s Midterm Cycle Thesis Proved Right After Bitcoin’s July Low",
-      "description": "Bitcoin's July low confirms Benjamin Cowen's midterm cycle thesis is in an accumulation stage, as the price of Bitcoin rallies upwards.",
-      "url": "https://beincrypto.com/cowen-bitcoin-cycle-accumulation-stage/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-21T08:20:04+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin's July low confirms Benjamin Cowen's midterm cycle thesis is in an accumulation stage, as the price of Bitcoin rallies upwards."
-    },
-    {
-      "title": "Penny stock under Re 1 hits 5% upper circuit despite muted trends on Dalal Street",
-      "description": "Penny stock under Re 1 has been hitting upper circuit for the last 12 straight sessions",
-      "url": "https://www.livemint.com/market/stock-market-news/penny-stock-under-re-1-hits-5-upper-circuit-despite-muted-trends-on-dalal-street-11787297269886.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/Penny_stock_under_Rs_1_Upper_circuit_stocks_1787297501779_1787297501936_44878892-e7bb-43bb-a22b-0d975a6f140c.png",
-      "source": "LiveMint",
-      "published_at": "2026-08-21T08:13:10+00:00",
-      "category": "India",
-      "simple_explanation": "Penny stock under Re 1 has been hitting upper circuit for the last 12 straight sessions"
-    },
-    {
       "title": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
       "description": "Vance said \"what has been true over the last couple of weeks is they felt a lot more pressure than we have.\"",
       "url": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
@@ -233,174 +383,24 @@
       "simple_explanation": "The Morning Bull - US Market Morning Update Friday, Aug, 21 2026 US stock futures are slightly softer this morning, with E-mini S&P 500 contracts edging down about 0.1%, as investors digest a fresh mi"
     },
     {
+      "title": "U.S. Treasury Yields Rise as Budget, Oil Price Fears Prevail",
+      "description": "U.S. Treasury yields were higher in early trade as investors remained cautious despite the Treasury's announcement Wednesday of an increase in securities buybacks. \"Concerns about large budget deficits and extensive borrowing from tech companies seem to be back in focus,\" SEB's Pia Fromlet said in a",
+      "url": "https://finance.yahoo.com/m/41265afc-05e3-3a7b-b30c-669f62fed33c/u.s.-treasury-yields-rise-as.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-21T08:07:50+00:00",
+      "category": "Commodities",
+      "simple_explanation": "U.S. Treasury yields were higher in early trade as investors remained cautious despite the Treasury's announcement Wednesday of an increase in securities buybacks. \"Concerns about large budget deficit"
+    },
+    {
       "title": "ICICI Bank, Federal Bank among top bank picks by Axis Direct after Q1 earnings season",
       "description": "",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-federal-bank-among-top-bank-picks-by-axis-direct-after-q1-earnings-season/slideshow/133398012.cms",
       "image": "https://img.etimg.com/photo/msid-133397936,imgsize-13384.cms",
-      "source": "Economic Times",
+      "source": "ET Markets",
       "published_at": "2026-08-21T08:07:07+00:00",
       "category": "India",
       "simple_explanation": ""
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures drift higher despite Treasury yield pressures persisting",
-      "description": "Stocks were headed for weekly losses after a bond sell-off this week put pressure on tech and AI stocks.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-21T08:05:33+00:00",
-      "category": "USA",
-      "simple_explanation": "Stocks were headed for weekly losses after a bond sell-off this week put pressure on tech and AI stocks."
-    },
-    {
-      "title": "Jefferies retains Buy on Crompton Greaves; sees up to 29% upside",
-      "description": "Jefferies retained its Buy rating on Crompton Greaves Consumer Electricals with a Rs 330 target, implying nearly 29% upside. The brokerage expects the company’s premiumisation strategy, market share gains, new product categories and margin expansion to drive a 12% revenue CAGR and 18% EPS CAGR throu",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-retains-buy-on-crompton-greaves-sees-up-to-29-upside/articleshow/133397789.cms",
-      "image": "https://img.etimg.com/photo/msid-133397789,imgsize-137834.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-21T08:02:17+00:00",
-      "category": "India",
-      "simple_explanation": "Jefferies retained its Buy rating on Crompton Greaves Consumer Electricals with a Rs 330 target, implying nearly 29% upside. The brokerage expects the company’s premiumisation strategy, market share g"
-    },
-    {
-      "title": "Bhutan Government Transfers 490 BTC as Bitcoin Rallies Over $75K",
-      "description": "The Royal Government of Bhutan has once again sparked discussions among crypto market participants, with its latest transfer of over 490 BTC. This transfer off the wallet comes amid a sudden Bitcoin price rally above $75K. Ad Ad Bhutan Govt Moves Over 490 BTC, Sparking Selloff Concerns According to ",
-      "url": "https://coingape.com/bhutan-government-transfers-490-btc-as-bitcoin-rallies-over-76k/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-21T07:58:06+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The Royal Government of Bhutan has once again sparked discussions among crypto market participants, with its latest transfer of over 490 BTC. This transfer off the wallet comes amid a sudden Bitcoin p"
-    },
-    {
-      "title": "80% rally in YTD! Ratnaveer Precision Engineering declares rights issue worth  ₹330 crore",
-      "description": "Ratnaveer Precision Engineering approved a  ₹330 crore rights issue with 1,24,99,669 equity shares at  ₹264 each. The funds will support growth initiatives, including a key Copper Clad Laminate project aimed for commercial production by November 2026.",
-      "url": "https://www.livemint.com/market/stock-market-news/80-rally-in-ytd-ratnaveer-precision-engineering-declares-rights-issue-worth-rs-330-crore-11787296981659.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/Q4_results_earning_today_April_21_Tata_Indraprasta_1745202511548_1787298781033_80a6ae8a-2531-40b1-b289-0077e4ce8ce9.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-08-21T07:57:30+00:00",
-      "category": "India",
-      "simple_explanation": "Ratnaveer Precision Engineering approved a  ₹330 crore rights issue with 1,24,99,669 equity shares at  ₹264 each. The funds will support growth initiatives, including a key Copper Clad Laminate projec"
-    },
-    {
-      "title": "Tata Steel, Adani Ports among top 10 stocks downgraded by Motilal Oswal after Q1 results",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-adani-ports-among-top-10-stocks-downgraded-by-motilal-oswal-after-q1-results/slideshow/133397759.cms",
-      "image": "https://img.etimg.com/photo/msid-133397413,imgsize-32066.cms",
-      "source": "ET Markets",
-      "published_at": "2026-08-21T07:50:32+00:00",
-      "category": "India",
-      "simple_explanation": ""
-    },
-    {
-      "title": "Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October",
-      "description": "Bitcoin ETF inflows pushed August’s total to a 2026 high of $2.07 billion as Bitcoin traded above $75,000 and Ether climbed to $2,357.",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-ether-etfs-largest-inflow-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-3.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-21T07:50:01+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin ETF inflows pushed August’s total to a 2026 high of $2.07 billion as Bitcoin traded above $75,000 and Ether climbed to $2,357."
-    },
-    {
-      "title": "2 Mold-Tek Group companies to consider bonus issues on August 26. Do you own?",
-      "description": "Mold-Tek Packaging and Mold-Tek Technologies will consider bonus issues and dividends at their August 26 board meetings. While investors await the announcements, both stocks have delivered strong gains over the longer term, with Mold-Tek Packaging also featuring among Axis Securities’ top midcap pic",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/2-mold-tek-group-companies-to-consider-bonus-issues-on-august-26-do-you-own/articleshow/133397271.cms",
-      "image": "https://img.etimg.com/photo/msid-133397271,imgsize-103268.cms",
-      "source": "ET Markets",
-      "published_at": "2026-08-21T07:47:44+00:00",
-      "category": "India",
-      "simple_explanation": "Mold-Tek Packaging and Mold-Tek Technologies will consider bonus issues and dividends at their August 26 board meetings. While investors await the announcements, both stocks have delivered strong gain"
-    },
-    {
-      "title": "Bharat Coking Coal shares jump over 7%. What's behind the sharp surge?",
-      "description": "Bharat Coking Coal shares surged over 7% to Rs 37.70 as global coking coal prices soared 18%. The rally follows supply disruptions and strong long-term demand forecasts, offsetting the company's weak Q1 FY27 results where it posted a net loss of Rs 68 crore amid falling production.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-coking-coal-shares-jump-over-7-whats-behind-the-sharp-surge/articleshow/133397234.cms",
-      "image": "https://img.etimg.com/photo/msid-133397234,imgsize-69766.cms",
-      "source": "ET Markets",
-      "published_at": "2026-08-21T07:46:26+00:00",
-      "category": "India",
-      "simple_explanation": "Bharat Coking Coal shares surged over 7% to Rs 37.70 as global coking coal prices soared 18%. The rally follows supply disruptions and strong long-term demand forecasts, offsetting the company's weak "
-    },
-    {
-      "title": "Trump bans children from ethical investing",
-      "description": "Donald Trump will ban a government-backed children’s savings account from investing in environmental, social and governance (ESG) funds.",
-      "url": "https://www.telegraph.co.uk/business/2026/08/21/trump-bans-children-from-investing-in-esg/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-21T07:45:30+00:00",
-      "category": "USA",
-      "simple_explanation": "Donald Trump will ban a government-backed children’s savings account from investing in environmental, social and governance (ESG) funds."
-    },
-    {
-      "title": "For city gas distributors, policy support is short-term relief, at best",
-      "description": "A new government scheme could lift margins for city gas distributors, but the benefit is one-off as high gas costs and policy uncertainty continue to weigh on the sector.",
-      "url": "https://www.livemint.com/market/mark-to-market/for-city-gas-distributors-policy-support-is-short-term-relief-at-best-11787289999889.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/Mahanagar-Gas-benefited-from-lower-feedstock-costs_1683700570017_1787297499967_a52b37fc-c4ed-43d3-9e04-cebe09fde4b1.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-08-21T07:43:27+00:00",
-      "category": "India",
-      "simple_explanation": "A new government scheme could lift margins for city gas distributors, but the benefit is one-off as high gas costs and policy uncertainty continue to weigh on the sector."
-    },
-    {
-      "title": "AI's Bar Mitzvah moment: Aswath Damodaran explains what AI means for businesses",
-      "description": "Aswath Damodaran says AI’s investment debate should shift from hype and skepticism toward evaluating it as a business. He argues revolutionary technologies follow four stages: hype, investment, business building and recalibration. AI is entering the business-building phase, with revenues emerging bu",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ais-bar-mitzvah-moment-aswath-damodaran-explains-what-ai-means-for-businesses/articleshow/133397085.cms",
-      "image": "https://img.etimg.com/photo/msid-133397085,imgsize-51357.cms",
-      "source": "ET Markets",
-      "published_at": "2026-08-21T07:37:32+00:00",
-      "category": "India",
-      "simple_explanation": "Aswath Damodaran says AI’s investment debate should shift from hype and skepticism toward evaluating it as a business. He argues revolutionary technologies follow four stages: hype, investment, busine"
-    },
-    {
-      "title": "Bitcoin News Today: Reserve Rules Set Scope for Government Demand",
-      "description": "The U.S. Strategic Bitcoin Reserve made news on March 6, 2025, with an executive order that sets out how government-held Bitcoin may be managed and permits the development of budget-neutral strategies for acquiring additional Bitcoin. The order does not establish an open-market purchasing program or",
-      "url": "https://cryptonews.com/news/strategic-bitcoin-reserve-news-rules/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-21T07:32:29+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The U.S. Strategic Bitcoin Reserve made news on March 6, 2025, with an executive order that sets out how government-held Bitcoin may be managed and permits the development of budget-neutral strategies"
-    },
-    {
-      "title": "How Investing in This Altcoin Could Help to Make You a Millionaire",
-      "description": "Hyperliquid may be up big for the year, but does it have the long-term staying power required to generate life-changing wealth?",
-      "url": "https://www.fool.com/investing/2026/08/21/how-investing-in-this-altcoin-could-help-to-make-y/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-21T07:31:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Hyperliquid may be up big for the year, but does it have the long-term staying power required to generate life-changing wealth?"
-    },
-    {
-      "title": "Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target",
-      "description": "Pop Mart shares fall after announcing first-half earnings.",
-      "url": "https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-08-21T07:18:33+00:00",
-      "category": "Global",
-      "simple_explanation": "Pop Mart shares fall after announcing first-half earnings."
-    },
-    {
-      "title": "Why Oil Refiner Stocks Can Keep Gaining",
-      "description": "While crude oil is up about 50% in 2026, gasoline and diesel have risen more sharply. And the refiners are along for the ride.",
-      "url": "https://finance.yahoo.com/m/47ad45b5-ed42-3326-8a0b-7b882997bb01/why-oil-refiner-stocks-can.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-21T06:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "While crude oil is up about 50% in 2026, gasoline and diesel have risen more sharply. And the refiners are along for the ride."
-    },
-    {
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "description": "U.S. stock futures are posting slight gains heading into Friday morning as investors weigh rising geopolitical risks against a backdrop of manageable domestic inflation and resilient financial conditions. The Polymarket (CRYPTO: POL) crowd is leaning bullish for the Aug. 21...",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61348722/stock-market-will-sp-500-open-up-or-down-today-21?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-21T05:55:20+00:00",
-      "category": "USA",
-      "simple_explanation": "U.S. stock futures are posting slight gains heading into Friday morning as investors weigh rising geopolitical risks against a backdrop of manageable domestic inflation and resilient financial conditi"
     }
   ]
 }
