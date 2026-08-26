@@ -1,216 +1,166 @@
 {
-  "last_updated": "2026-08-26T19:01:16.821591+00:00",
+  "last_updated": "2026-08-26T22:47:42.629681+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
-      "description": "The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach.",
-      "url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
+      "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
+      "description": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
+      "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-08-26T19:00:01+00:00",
+      "published_at": "2026-08-26T22:39:49+00:00",
       "category": "USA",
-      "simple_explanation": "The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach."
+      "simple_explanation": "Salesforce's Anthropic stake led to higher profit in the latest quarter."
     },
     {
-      "title": "There Are Only a Handful of S&P 500 Stocks That Yield Over 5%. Here's My Top Pick to Buy Before the End of August.",
-      "description": "If you are looking for a reliable dividend stock with a fat yield, this boring and reliable industry giant is the way to go.",
-      "url": "https://www.fool.com/investing/2026/08/26/there-are-only-a-handful-of-sp-500-stocks-that-yie/?.tsrc=rss",
+      "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
+      "description": "Nvidia wavered late while CrowdStrike, Okta, Salesforce are big earnings winners. Is the market setting up or a setup?",
+      "url": "https://finance.yahoo.com/m/c03ae35d-d27e-3caf-a89c-0c33467ec9c9/dow-jones-futures-rise%3B.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-26T18:35:00+00:00",
+      "published_at": "2026-08-26T22:35:56+00:00",
       "category": "USA",
-      "simple_explanation": "If you are looking for a reliable dividend stock with a fat yield, this boring and reliable industry giant is the way to go."
+      "simple_explanation": "Nvidia wavered late while CrowdStrike, Okta, Salesforce are big earnings winners. Is the market setting up or a setup?"
     },
     {
-      "title": "Nvidia faces a $280 billion test Wall Street sees differently",
-      "description": "Investors will be watching Nvidia’s Vera Rubin platform as the company squares off against competitors.",
-      "url": "https://www.thestreet.com/investing/nvidia-earnings-report-280-billion-test-wall-street-sees-differently?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-26T18:32:41+00:00",
-      "category": "USA",
-      "simple_explanation": "Investors will be watching Nvidia’s Vera Rubin platform as the company squares off against competitors."
-    },
-    {
-      "title": "Strategy's dollar liquidity nearly matches its debt",
-      "description": "Strategy (MSTR) reported that its $6.69 billion in dollar liquidity nearly matches its outstanding convertible debt obligations. Scott Melker explains how Executive Chairman Michael Saylor appears to be shifting focus toward stockpiling cash to pay off old debt.",
-      "url": "https://finance.yahoo.com/video/strategys-dollar-liquidity-nearly-matches-183000755.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-26T18:30:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Strategy (MSTR) reported that its $6.69 billion in dollar liquidity nearly matches its outstanding convertible debt obligations. Scott Melker explains how Executive Chairman Michael Saylor appears to "
-    },
-    {
-      "title": "Stock Market Today: Dow Slides On Inflation Data; Nvidia Slumps Before Earnings As Smucker Rallies (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones retreats Wednesday after key inflation data. Nvidia retreats ahead of earnings.",
-      "url": "https://finance.yahoo.com/m/d7f80b14-8dc7-32d8-aa94-5ee0dea18bdb/stock-market-today%3A-dow.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-26T18:29:11+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones retreats Wednesday after key inflation data. Nvidia retreats ahead of earnings."
-    },
-    {
-      "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
-      "description": "The rule in question would require election officials to give USPS voter information and use federally reviewed, uniquely barcoded ballot envelopes.",
-      "url": "https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html",
+      "title": "CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave",
+      "description": "CrowdStrike shares have surged 61% this year to new highs as the threat from frontier AI has fueled demand for advanced security tools.",
+      "url": "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-08-26T18:21:06+00:00",
+      "published_at": "2026-08-26T22:20:20+00:00",
       "category": "USA",
-      "simple_explanation": "The rule in question would require election officials to give USPS voter information and use federally reviewed, uniquely barcoded ballot envelopes."
+      "simple_explanation": "CrowdStrike shares have surged 61% this year to new highs as the threat from frontier AI has fueled demand for advanced security tools."
     },
     {
-      "title": "US corporate profit margins widen to highest on record",
-      "description": "US corporate profit margins reached a record 19.4% in the second quarter, up from 18.2%, as profits jumped nearly 10%. Strong consumer spending and companies passing higher prices on to customers supported earnings. Business investment also remained robust, with nonresidential fixed investment risin",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-corporate-profit-margins-widen-to-highest-on-record/articleshow/133548769.cms",
-      "image": "https://img.etimg.com/photo/msid-133548769,imgsize-8784.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-26T18:18:45+00:00",
-      "category": "India",
-      "simple_explanation": "US corporate profit margins reached a record 19.4% in the second quarter, up from 18.2%, as profits jumped nearly 10%. Strong consumer spending and companies passing higher prices on to customers supp"
-    },
-    {
-      "title": "IREN Slides 6% as Traders De-Risk Before Q4 Earnings, Core Scientific Declines 4%",
-      "description": "IREN stock is shedding 6% ahead of back-to-back reports from NVIDIA tonight and IREN itself Thursday, putting traders who bought yesterday's rally in an uncomfortable spot before two of the most consequential prints in AI infrastructure.",
-      "url": "https://247wallst.com/investing/2026/08/26/iren-slides-6-as-traders-de-risk-before-q4-earnings-core-scientific-declines-4/?.tsrc=rss",
+      "title": "Halliburton (HAL) Rises As Market Takes a Dip: Key Facts",
+      "description": "In the most recent trading session, Halliburton (HAL) closed at $34.44, indicating a +1.89% shift from the previous trading day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/halliburton-hal-rises-market-takes-221502728.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-26T18:09:51+00:00",
-      "category": "Crypto",
-      "simple_explanation": "IREN stock is shedding 6% ahead of back-to-back reports from NVIDIA tonight and IREN itself Thursday, putting traders who bought yesterday's rally in an uncomfortable spot before two of the most conse"
+      "published_at": "2026-08-26T22:15:02+00:00",
+      "category": "USA",
+      "simple_explanation": "In the most recent trading session, Halliburton (HAL) closed at $34.44, indicating a +1.89% shift from the previous trading day."
     },
     {
-      "title": "Anthropic and Nscale strike $45 billion cloud deal, sources say",
-      "description": "Anthropic will rent around 460 megawatts of compute capacity at an Nscale data center development in West Virgina, according to sources.",
-      "url": "https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html",
+      "title": "Copart, Inc. (CPRT) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "description": "Copart, Inc. (CPRT) closed at $32.67 in the latest trading session, marking a -1.98% move from the prior day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/copart-inc-cprt-falls-more-221502354.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T22:15:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Copart, Inc. (CPRT) closed at $32.67 in the latest trading session, marking a -1.98% move from the prior day."
+    },
+    {
+      "title": "European Central Bank says the digital euro will be more private than bank transfers",
+      "description": "The European Central Bank said that its planned digital euro will offer maximum privacy to users. Scott Melker reacts to the question of whether central bankers can be fair with financial privacy and surveillance.",
+      "url": "https://finance.yahoo.com/video/european-central-bank-says-digital-220000908.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T22:00:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The European Central Bank said that its planned digital euro will offer maximum privacy to users. Scott Melker reacts to the question of whether central bankers can be fair with financial privacy and "
+    },
+    {
+      "title": "Governments Can See Just 14% of the $457 Billion Crypto Tax",
+      "description": "Chainalysis data puts crypto taxable activity at $457 billion in 2025, with only 14% visible under CARF reporting rules.",
+      "url": "https://beincrypto.com/crypto-taxable-activity-457-billion-chainalysis/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T22:00:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Chainalysis data puts crypto taxable activity at $457 billion in 2025, with only 14% visible under CARF reporting rules."
+    },
+    {
+      "title": "Analyst reveals timeline for Bitcoin to hit $1 million",
+      "description": "Bernstein analyst Gautam Chhugani makes a bullish call on Bitcoin.",
+      "url": "https://www.thestreet.com/crypto/markets/analyst-reveals-timeline-for-bitcoin-to-hit-1-million?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T21:54:01+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bernstein analyst Gautam Chhugani makes a bullish call on Bitcoin."
+    },
+    {
+      "title": "Lockheed Martin (LMT) Rises As Market Takes a Dip: Key Facts",
+      "description": "Lockheed Martin (LMT) concluded the recent trading session at $565.62, signifying a +1.64% move from its prior day's close.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-rises-market-215003622.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T21:50:03+00:00",
+      "category": "USA",
+      "simple_explanation": "Lockheed Martin (LMT) concluded the recent trading session at $565.62, signifying a +1.64% move from its prior day's close."
+    },
+    {
+      "title": "AZZ (AZZ) Advances While Market Declines: Some Information for Investors",
+      "description": "AZZ (AZZ) reached $140.71 at the closing of the latest trading day, reflecting a +1.59% change compared to its last close.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/azz-azz-advances-while-market-215002279.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T21:50:02+00:00",
+      "category": "USA",
+      "simple_explanation": "AZZ (AZZ) reached $140.71 at the closing of the latest trading day, reflecting a +1.59% change compared to its last close."
+    },
+    {
+      "title": "Johnson & Johnson (JNJ) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "description": "In the closing of the recent trading day, Johnson & Johnson (JNJ) stood at $270.27, denoting a -1.05% move from the preceding trading day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-sees-more-214503349.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T21:45:03+00:00",
+      "category": "USA",
+      "simple_explanation": "In the closing of the recent trading day, Johnson & Johnson (JNJ) stood at $270.27, denoting a -1.05% move from the preceding trading day."
+    },
+    {
+      "title": "Zscaler (ZS) Ascends While Market Falls: Some Facts to Note",
+      "description": "Zscaler (ZS) concluded the recent trading session at $170.31, signifying a +1.12% move from its prior day's close.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-zs-ascends-while-market-214503554.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T21:45:03+00:00",
+      "category": "USA",
+      "simple_explanation": "Zscaler (ZS) concluded the recent trading session at $170.31, signifying a +1.12% move from its prior day's close."
+    },
+    {
+      "title": "Crypto IRAs are expanding what you can actually own in retirement",
+      "description": "IRAs once meant stocks and funds. Platforms like Unchained and Retired.com now let you hold Bitcoin, gold, real estate, and private deals directly.",
+      "url": "https://www.thestreet.com/crypto/innovation/crypto-iras-are-expanding-what-you-can-actually-own-in-retirement?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T21:33:20+00:00",
+      "category": "Crypto",
+      "simple_explanation": "IRAs once meant stocks and funds. Platforms like Unchained and Retired.com now let you hold Bitcoin, gold, real estate, and private deals directly."
+    },
+    {
+      "title": "Okta pops 20% after topping estimates as AI threat spikes demand for identity security",
+      "description": "New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period",
+      "url": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-08-26T18:07:15+00:00",
+      "published_at": "2026-08-26T21:27:53+00:00",
       "category": "USA",
-      "simple_explanation": "Anthropic will rent around 460 megawatts of compute capacity at an Nscale data center development in West Virgina, according to sources."
+      "simple_explanation": "New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period"
     },
     {
-      "title": "Sector Update: Financial Stocks Mixed Wednesday Afternoon",
-      "description": "Financial stocks were mixed in Wednesday afternoon trading, with the NYSE Financial Index fractional",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-wednesday-175702775.html?.tsrc=rss",
+      "title": "Record ETF flows show the ‘debasement trade’ is overtaking AI, analyst says",
+      "description": "Analyst says fears over a weaker dollar are overtaking the AI mania.",
+      "url": "https://www.thestreet.com/crypto/markets/record-etf-flows-show-the-debasement-trade-is-overtaking-ai-analyst-says?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-26T17:57:02+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Financial stocks were mixed in Wednesday afternoon trading, with the NYSE Financial Index fractional"
-    },
-    {
-      "title": "Better Opens Crypto-Backed Mortgages to Coinbase One Members",
-      "description": "Better Mortgage and Coinbase (NASDAQ: $COIN) have moved their token-backed conforming mortgage into general availab...",
-      "url": "https://www.cryptoprowl.com/releases/better-opens-crypto-backed-mortgages-to-coinbase-one-members-6546?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-26T17:57:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Better Mortgage and Coinbase (NASDAQ: $COIN) have moved their token-backed conforming mortgage into general availab..."
-    },
-    {
-      "title": "Core Scientific (CORZ) Just Spent $444 Million on More Power. Here’s Why It Keeps Buying",
-      "description": "On August 14, 2026, Core Scientific, Inc. (NASDAQ:CORZ) completed its acquisition of Polaris DS for roughly $444 million in cash. It is adding about 440 megawatts of grid-connected power capacity in Oklahoma as part of its push to expand its Muskogee campus to 1.5 gigawatts of gross power. Why This ",
-      "url": "https://finance.yahoo.com/technology/ai/articles/core-scientific-corz-just-spent-175658444.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-26T17:56:58+00:00",
-      "category": "Crypto",
-      "simple_explanation": "On August 14, 2026, Core Scientific, Inc. (NASDAQ:CORZ) completed its acquisition of Polaris DS for roughly $444 million in cash. It is adding about 440 megawatts of grid-connected power capacity in O"
-    },
-    {
-      "title": "Berkshire Lags Industry, Trades at a Premium: How to Play the Stock",
-      "description": "Berkshire Hathaway trades at a slight industry premium as strong liquidity and diversified earnings offset weak capital returns and recent underperformance.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-lags-industry-trades-premium-174900794.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-26T17:49:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Berkshire Hathaway trades at a slight industry premium as strong liquidity and diversified earnings offset weak capital returns and recent underperformance."
-    },
-    {
-      "title": "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
-      "description": "The blockchain analytics firm said just 14% of the onchain activity it identified is covered by the OECD’s international crypto tax-reporting framework.",
-      "url": "https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-taxes-on-restricted-crypto-and-options-can-be-confusing.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-26T17:48:34+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The blockchain analytics firm said just 14% of the onchain activity it identified is covered by the OECD’s international crypto tax-reporting framework."
-    },
-    {
-      "title": "Market Indexes Hold Flat as Wall Street Waits on Nvidia",
-      "description": "Why are stocks stuck in neutral? Wall Street is holding its breath until Nvidia opens its books after the close.",
-      "url": "https://www.fool.com/investing/2026/08/26/market-indexes-flat-as-wall-street-waits-on-nvidia/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-26T17:40:53+00:00",
-      "category": "USA",
-      "simple_explanation": "Why are stocks stuck in neutral? Wall Street is holding its breath until Nvidia opens its books after the close."
-    },
-    {
-      "title": "Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus",
-      "description": "Analysts expect the company to launch new iPhones and Apple Watches at the event, including the company's first folding phone",
-      "url": "https://www.cnbc.com/2026/08/26/apple-iphone-launch-date-john-ternus.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-26T17:40:28+00:00",
-      "category": "USA",
-      "simple_explanation": "Analysts expect the company to launch new iPhones and Apple Watches at the event, including the company's first folding phone"
-    },
-    {
-      "title": "Trump says the US doesn’t need Canada. America’s economy says otherwise.",
-      "description": "U.S. President Donald Trump says his country does not need Canada.  Canada also supplies aluminum, potash to U.S. farms and parts for an auto industry built on both sides of the border.  “WE DON’T NEED CANADA, THEY NEED US!” Trump posted this week, repeating his long-running claim.",
-      "url": "https://finance.yahoo.com/energy/articles/trump-says-us-doesn-t-173746854.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-26T17:37:46+00:00",
+      "published_at": "2026-08-26T21:26:45+00:00",
       "category": "Commodities",
-      "simple_explanation": "U.S. President Donald Trump says his country does not need Canada.  Canada also supplies aluminum, potash to U.S. farms and parts for an auto industry built on both sides of the border.  “WE DON’T NEE"
+      "simple_explanation": "Analyst says fears over a weaker dollar are overtaking the AI mania."
     },
     {
-      "title": "Update: US Equity Indexes Slip as Investors Await Nvidia's Earnings After July's PCE Inflation Rate Accelerates",
-      "description": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
-      "url": "https://finance.yahoo.com/economy/articles/us-equity-indexes-slip-investors-173315371.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-26T17:33:15+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa"
-    },
-    {
-      "title": "Economists want Warsh to share more on his view of the economy at Jackson Hole, says CNBC survey",
-      "description": "Eighty percent of CNBC Fed Survey respondents say the Federal Reserve Chairman Warsh should provide more insight into his economic views.",
-      "url": "https://www.cnbc.com/2026/08/26/fed-survey-warsh-economy-view.html",
+      "title": "Republicans are dismissing affordability. That could be a problem in November",
+      "description": "President Donald Trump quipped that affordability was \"devised\" by Democrats, while Vice President JD Vance said groceries \"cost what they cost.\"",
+      "url": "https://www.cnbc.com/2026/08/26/election-republicans-dismissing-affordability.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-08-26T17:02:24+00:00",
+      "published_at": "2026-08-26T21:26:06+00:00",
       "category": "USA",
-      "simple_explanation": "Eighty percent of CNBC Fed Survey respondents say the Federal Reserve Chairman Warsh should provide more insight into his economic views."
-    },
-    {
-      "title": "Stock market prediction tomorrow, 27 August: What will happen to Sensex, Nifty, Hang Seng, KOSPI, Nikkei on Thursday",
-      "description": "On August 26, Asian stocks rose overall, except for India's market, as crude oil prices declined and chip stocks revived. Japan's Nikkei 225 rose 0.5%, while India's Nifty fell 0.52%. Investors are hopeful for renewed talks between Iran and the US.",
-      "url": "https://www.livemint.com/market/stock-market-prediction-tomorrow-27-august-what-will-happen-to-sensex-nifty-hang-seng-kospi-nikkei-on-thursday-11787743788377.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/26/1600x900/logo/pexels-photo-11798250_1777636710635_1777636726766_1787762292150_9cd0760c-fd7e-495d-8a7d-c203397a541f.jpeg",
-      "source": "LiveMint",
-      "published_at": "2026-08-26T17:00:56+00:00",
-      "category": "India",
-      "simple_explanation": "On August 26, Asian stocks rose overall, except for India's market, as crude oil prices declined and chip stocks revived. Japan's Nikkei 225 rose 0.5%, while India's Nifty fell 0.52%. Investors are ho"
-    },
-    {
-      "title": "Update: US Equity Indexes Decline After July PCE Inflation Rate Rises",
-      "description": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
-      "url": "https://finance.yahoo.com/economy/articles/us-equity-indexes-decline-july-164608339.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-26T16:46:08+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa"
+      "simple_explanation": "President Donald Trump quipped that affordability was \"devised\" by Democrats, while Vice President JD Vance said groceries \"cost what they cost.\""
     },
     {
       "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
@@ -218,189 +168,239 @@
       "url": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-08-26T16:33:06+00:00",
+      "published_at": "2026-08-26T21:17:46+00:00",
       "category": "USA",
       "simple_explanation": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms."
     },
     {
-      "title": "If a Stock Market Crash Is Coming, Here's the 1 Thing You Shouldn't Do, According to History",
-      "description": "Many investors say this was their biggest mistake.",
-      "url": "https://www.fool.com/investing/2026/08/26/stock-market-crash-coming-1-thing-you-shouldnt-do/?.tsrc=rss",
+      "title": "Oil Dips as Traders Assess Hormuz Talks, Ukraine War Escalation",
+      "description": "Oil eased in a choppy session as traders weighed progress on diplomatic efforts to resume shipping through the Strait of Hormuz against fresh risks of a global supply squeeze.",
+      "url": "https://www.livemint.com/market/oil-dips-as-traders-assess-hormuz-talks-ukraine-war-escalation-11787778798554.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-26T21:13:18+00:00",
+      "category": "India",
+      "simple_explanation": "Oil eased in a choppy session as traders weighed progress on diplomatic efforts to resume shipping through the Strait of Hormuz against fresh risks of a global supply squeeze."
+    },
+    {
+      "title": "Update: US Equity Indexes Slip After Fed's Preferred Inflation Gauge Accelerates in July",
+      "description": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-slip-fed-211156808.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-26T16:20:00+00:00",
+      "published_at": "2026-08-26T21:11:56+00:00",
       "category": "USA",
-      "simple_explanation": "Many investors say this was their biggest mistake."
+      "simple_explanation": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe"
     },
     {
-      "title": "Textile stock under  ₹100 hits 10% upper circuit after declaration of final dividend move | Details here",
-      "description": "Aastha Spintex shares surged to  ₹80, hitting the 10% upper circuit. The rise follows the announcement of a dividend and a 1:1 bonus issue. The company plans to increase authorized share capital and expand into value-added textiles post-acquisition of Falcon Yarns.",
-      "url": "https://www.livemint.com/market/stock-market-news/textile-stock-under-rs-100-hits-10-upper-circuit-after-declaration-of-final-dividend-move-details-here-11787759576516.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/26/1600x900/logo/g8afb05c17da83511f631d72c53c342b9b2fbe88824dd3bb16_1787759614747_1787759614914_b1ff5e76-9986-4b59-9eaf-542240a145ba.jpg",
+      "title": "Dollar Gains Most in Over Two Weeks as PCE Backs Fed Hike",
+      "description": "The dollar rose by the most in over two weeks, recovering about half of the losses triggered by Treasury Secretary Scott Bessent’s surprise move last week to prop up the bond market, as inflation data bolstered bets that the Federal Reserve will start raising interest rates by year end.",
+      "url": "https://www.livemint.com/market/dollar-gains-most-in-over-two-weeks-as-pce-backs-fed-hike-11787778441174.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
       "source": "LiveMint",
-      "published_at": "2026-08-26T16:19:48+00:00",
+      "published_at": "2026-08-26T21:07:20+00:00",
       "category": "India",
-      "simple_explanation": "Aastha Spintex shares surged to  ₹80, hitting the 10% upper circuit. The rise follows the announcement of a dividend and a 1:1 bonus issue. The company plans to increase authorized share capital and e"
+      "simple_explanation": "The dollar rose by the most in over two weeks, recovering about half of the losses triggered by Treasury Secretary Scott Bessent’s surprise move last week to prop up the bond market, as inflation data"
     },
     {
-      "title": "SEC sends crypto custody rule overhaul to White House for review",
-      "description": "The securities regulator’s crypto custody overhaul could clarify how investment advisers and funds hold digital assets for clients as the proposal moves through review.",
-      "url": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/political-tokens-into-the-white-house-sec-1.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-26T16:19:09+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The securities regulator’s crypto custody overhaul could clarify how investment advisers and funds hold digital assets for clients as the proposal moves through review."
+      "title": "Hochschild Mining PLC (HCHDF) (H1 2026) Earnings Call Highlights: Record Revenue and EBITDA ...",
+      "description": "Strong operational performance and strategic projects drive exceptional first-half results, with net cash position achieved.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hochschild-mining-plc-hchdf-h1-210123714.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T21:01:23+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Strong operational performance and strategic projects drive exceptional first-half results, with net cash position achieved."
     },
     {
-      "title": "77% of Americans see crypto in retirement plans as risky: Survey",
-      "description": "A new survey finds broad skepticism toward crypto in workplace retirement plans as US policymakers move to expand access to alternative assets.",
-      "url": "https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-trumps-9t-executive-order-could-let-you-add-bitcoin-to-your-retirement-plan.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-26T16:10:56+00:00",
-      "category": "Crypto",
-      "simple_explanation": "A new survey finds broad skepticism toward crypto in workplace retirement plans as US policymakers move to expand access to alternative assets."
+      "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns",
+      "description": "\"We're delivering a dynamic interface that thinks, reasons, and acts,\" Salesforce CEO Marc Benioff said in a statement.",
+      "url": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-26T20:50:45+00:00",
+      "category": "USA",
+      "simple_explanation": "\"We're delivering a dynamic interface that thinks, reasons, and acts,\" Salesforce CEO Marc Benioff said in a statement."
     },
     {
-      "title": "Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data",
-      "description": "Bitcoin stayed away from challenging $80,000 after July US PCE inflation data came in slightly higher than anticipated, pressuring gold and risk assets.",
-      "url": "https://cointelegraph.com/markets/bitcoin-dips-below-78k-as-stocks-gold-fall-on-higher-us-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/us-inflation-3.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-26T15:58:55+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin stayed away from challenging $80,000 after July US PCE inflation data came in slightly higher than anticipated, pressuring gold and risk assets."
+      "title": "TSX Closer: Index Falls From Record High As Base Metals and Information Technology Shares Drop",
+      "description": "The S&P/TSX Composite Index fell from its record high as it turned lower on Wednesday, pressured by",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-falls-record-204249085.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T20:42:49+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The S&P/TSX Composite Index fell from its record high as it turned lower on Wednesday, pressured by"
     },
     {
-      "title": "Next market winners: Jefferies sees potential in data centers as hyperscalers race for AI capacity",
-      "description": "Hyperscalers are accelerating data-centre leasing as power constraints and lengthy development timelines limit supply. North American non-commenced leases reached 25.5 GW in Q2 2026, up sharply year-on-year, with third-party operators expected to deliver an increasing share of future capacity.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/next-market-winners-jefferies-sees-potential-in-hyperscalers-race-for-ai-capacity-via-data-centers/articleshow/133545549.cms",
-      "image": "https://img.etimg.com/photo/msid-133545549,imgsize-139078.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-26T15:58:02+00:00",
-      "category": "India",
-      "simple_explanation": "Hyperscalers are accelerating data-centre leasing as power constraints and lengthy development timelines limit supply. North American non-commenced leases reached 25.5 GW in Q2 2026, up sharply year-o"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-      "description": "Indian equities reversed morning gains to close sharply lower, with Sensex falling 183 points and Nifty declining 0.52%. IT stocks weakened on visa concerns, offsetting gains in banks and metals. Technical signals pointed to continued range-bound trading and caution.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/133545509.cms",
-      "image": "https://img.etimg.com/photo/msid-133545509,imgsize-110642.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-26T15:55:03+00:00",
-      "category": "India",
-      "simple_explanation": "Indian equities reversed morning gains to close sharply lower, with Sensex falling 183 points and Nifty declining 0.52%. IT stocks weakened on visa concerns, offsetting gains in banks and metals. Tech"
-    },
-    {
-      "title": "Stocks mixed as oil drops, inflation stays high",
-      "description": "Lower oil prices helped lift European stock markets on Wednesday, but continued high US inflation weighed on Wall Street.\"Lower energy prices are providing a supportive environment for European markets,\" said Fawad Razaqzada, market analyst at FOREX.com.",
+      "title": "Stocks mixed as oil drops, US inflation stays high",
+      "description": "Wall Street stocks finished lower Wednesday after US inflation came in steady but elevated as markets traded cautiously ahead of earnings from Nvidia and a widely anticipated Federal Reserve speech.\"The data still gives the Federal Reserve time to wait and see,\" she said.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-edge-higher-oil-drops-023953523.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-26T15:53:39+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Lower oil prices helped lift European stock markets on Wednesday, but continued high US inflation weighed on Wall Street.\"Lower energy prices are providing a supportive environment for European market"
-    },
-    {
-      "title": "Market Trading Guide: Ashok Leyland among 2 stock recommendations for Thursday",
-      "description": "Indian markets ended marginally lower as sectoral divergence offset gains in banks and metals. IT stocks weakened on visa appointment concerns, while easing bond yields supported financials. Analysts recommended Ashok Leyland and NMDC, citing strong breakouts and improving technical momentum.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ashok-leyland-among-2-stock-recommendations-for-thursday/articleshow/133545484.cms",
-      "image": "https://img.etimg.com/photo/msid-133545484,imgsize-56096.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-26T15:52:36+00:00",
-      "category": "India",
-      "simple_explanation": "Indian markets ended marginally lower as sectoral divergence offset gains in banks and metals. IT stocks weakened on visa appointment concerns, while easing bond yields supported financials. Analysts "
-    },
-    {
-      "title": "Stocks Waver After PCE Report. Nvidia Is the Market's Real Test.",
-      "description": "Stocks were wobbling after another hot inflation report, but the real event for markets on Wednesday is yet to come.  The Nasdaq Composite was down 0.2%.  Nvidia is set to report results after the close.",
-      "url": "https://finance.yahoo.com/m/7ce1d15a-4c8f-3269-bb78-5792c1305551/stocks-waver-after-pce.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-26T15:45:25+00:00",
+      "published_at": "2026-08-26T20:41:49+00:00",
       "category": "USA",
-      "simple_explanation": "Stocks were wobbling after another hot inflation report, but the real event for markets on Wednesday is yet to come.  The Nasdaq Composite was down 0.2%.  Nvidia is set to report results after the clo"
+      "simple_explanation": "Wall Street stocks finished lower Wednesday after US inflation came in steady but elevated as markets traded cautiously ahead of earnings from Nvidia and a widely anticipated Federal Reserve speech.\"T"
     },
     {
-      "title": "Gold Makes a Powerful New Move",
-      "description": "Big ETF inflows suggest this rally may have deeper support",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-makes-powerful-move-154010992.html?.tsrc=rss",
+      "title": "Should You Go 'All In' on Bitcoin? Binance Founder Changpeng Zhao Has the Answer",
+      "description": "Binance co-founder Changpeng \"CZ\" Zhao remains bullish on Bitcoin and crypto over the long term, but warned investors against going “all-in.” Not “All-In,” But Dollar Cost Averaging Speaking during the Bali Clubhouse 2026 AMA on Sunday, Zhao was asked what...",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-binance-founder-changpeng-zhao-203113132.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-26T15:40:10+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Big ETF inflows suggest this rally may have deeper support"
-    },
-    {
-      "title": "Gold Has Soared to $4,600. Is It Too Late to Buy This ETF?",
-      "description": "Fiscal uncertainty and geopolitical risks continue to make gold an attractive investment.",
-      "url": "https://www.fool.com/investing/2026/08/26/gold-soared-4600-is-it-too-late-buy-this-etf-gld/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-26T15:35:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Fiscal uncertainty and geopolitical risks continue to make gold an attractive investment."
-    },
-    {
-      "title": "Your 60/40 Portfolio May Be 100% Exposed to a Dying Dollar, Bitwise Says",
-      "description": "Gold and Bitcoin ETFs drew a record $7 billion as Matt Hougan warns 60/40 portfolios are fully exposed to fiat risk.",
-      "url": "https://beincrypto.com/60-40-portfolio-dying-dollar/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-26T15:34:42+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold and Bitcoin ETFs drew a record $7 billion as Matt Hougan warns 60/40 portfolios are fully exposed to fiat risk."
-    },
-    {
-      "title": "Anthropic gears up for Wall Street debut: Five things investors need to know",
-      "description": "Anthropic is preparing for a potential major Wall Street debut, fueled by rapid growth in AI coding through Claude Code. However, massive cash requirements, heavy losses, political tensions and fierce competition could test investor confidence in its long-term business model.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-gears-up-for-wall-street-debut-five-things-investors-need-to-know/slideshow/133545308.cms",
-      "image": "https://img.etimg.com/photo/msid-133545219,imgsize-27632.cms",
-      "source": "Economic Times",
-      "published_at": "2026-08-26T15:30:49+00:00",
-      "category": "India",
-      "simple_explanation": "Anthropic is preparing for a potential major Wall Street debut, fueled by rapid growth in AI coding through Claude Code. However, massive cash requirements, heavy losses, political tensions and fierce"
-    },
-    {
-      "title": "Meta shares jump 4% as Facebook parent settles major teen addiction lawsuit",
-      "description": "Meta Platforms' shares rose 0.65% after settling a federal case for $16.68 billion, addressing claims of teen social media addiction. The agreement includes new child-safety measures for Facebook and Instagram, amid ongoing lawsuits concerning youth mental health.",
-      "url": "https://www.livemint.com/market/meta-shares-jump-4-as-facebook-parent-settles-major-teen-addiction-lawsuit-11787754449421.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/26/1600x900/logo/META-TRIAL-TENNESSEE-0_1786793389211_1786793400228_909972e4-315f-4d83-aca3-bd3ec31f18ad_1787754482263_f93b9645-5188-45ac-b432-58cdf2fe927a.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-08-26T15:29:54+00:00",
-      "category": "India",
-      "simple_explanation": "Meta Platforms' shares rose 0.65% after settling a federal case for $16.68 billion, addressing claims of teen social media addiction. The agreement includes new child-safety measures for Facebook and "
-    },
-    {
-      "title": "Protocol upgrade decouples consensus from execution to solve scaling bottlenecks",
-      "description": "CTDG Dev Hub participant’s protocol upgrade decouples consensus from execution, allowing network nodes to reach agreement on blocks before transaction execution completes.",
-      "url": "https://cointelegraph.com/ecosystem/protocol-upgrade-decouples-consensus-from-execution-to-solve-scaling-bottlenecks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/cover-multiversx-v1-1.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-08-26T15:04:32+00:00",
+      "published_at": "2026-08-26T20:31:13+00:00",
       "category": "Crypto",
-      "simple_explanation": "CTDG Dev Hub participant’s protocol upgrade decouples consensus from execution, allowing network nodes to reach agreement on blocks before transaction execution completes."
+      "simple_explanation": "Binance co-founder Changpeng \"CZ\" Zhao remains bullish on Bitcoin and crypto over the long term, but warned investors against going “all-in.” Not “All-In,” But Dollar Cost Averaging Speaking during th"
     },
     {
-      "title": "PNRG Stock Gains as Q2 Earnings Double Y/Y on Higher Oil Prices",
-      "description": "PrimeEnergy's Q2 net income more than doubles as higher oil prices offset negative Permian gas pricing, while drilling advances on 24 wells.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pnrg-stock-gains-q2-earnings-145600959.html?.tsrc=rss",
+      "title": "How major US stock indexes fared Wednesday 8/26/2026",
+      "description": "The U.S. stock market drifted through a quiet day of trading after a report said inflation last month was a touch worse than economists expected.  The Dow Jones Industrial Average dipped 0.2%, and the Nasdaq composite slipped 0.1%.  Treasury yields ticked higher following the update on inflation, wh",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-203110131.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-08-26T14:56:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "PrimeEnergy's Q2 net income more than doubles as higher oil prices offset negative Permian gas pricing, while drilling advances on 24 wells."
+      "published_at": "2026-08-26T20:31:10+00:00",
+      "category": "USA",
+      "simple_explanation": "The U.S. stock market drifted through a quiet day of trading after a report said inflation last month was a touch worse than economists expected.  The Dow Jones Industrial Average dipped 0.2%, and the"
     },
     {
-      "title": "Meta shares hit 5% intraday high after $16.68 billion settlement over alleged harm to young users",
-      "description": "Meta shares hit a 4.96% intraday high after the company agreed to pay up to $16.68 billion to settle claims that Facebook and Instagram harmed young users. The settlement covers claims by 29 US states and requires Meta to introduce usage limits and stronger safeguards for children on its platforms.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-shares-hit-5-intraday-high-after-16-68-billion-settlement-over-alleged-harm-to-young-users/articleshow/133544340.cms",
-      "image": "https://img.etimg.com/photo/msid-133544340,imgsize-103810.cms",
+      "title": "Salesforce raises annual revenue forecasts on AI product momentum",
+      "description": "Salesforce raised its fiscal 2027 revenue and adjusted earnings forecasts, signaling stronger demand for its AI-powered autonomous agents. The company expects revenue of $46.1 billion to $46.4 billion, while annual adjusted EPS guidance also increased. Salesforce shares jumped 7% in extended trading",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/salesforce-raises-annual-revenue-forecasts-on-ai-product-momentum/articleshow/133550791.cms",
+      "image": "https://img.etimg.com/photo/msid-133550791,imgsize-33926.cms",
       "source": "Economic Times",
-      "published_at": "2026-08-26T14:47:47+00:00",
+      "published_at": "2026-08-26T20:30:39+00:00",
       "category": "India",
-      "simple_explanation": "Meta shares hit a 4.96% intraday high after the company agreed to pay up to $16.68 billion to settle claims that Facebook and Instagram harmed young users. The settlement covers claims by 29 US states"
+      "simple_explanation": "Salesforce raised its fiscal 2027 revenue and adjusted earnings forecasts, signaling stronger demand for its AI-powered autonomous agents. The company expects revenue of $46.1 billion to $46.4 billion"
+    },
+    {
+      "title": "Update: Equities Fall as Traders Assess Inflation Data",
+      "description": "(Updates with market moves at the end of the day, and other changes, if any.) US stocks declined",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-traders-assess-inflation-202946351.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T20:29:46+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with market moves at the end of the day, and other changes, if any.) US stocks declined"
+    },
+    {
+      "title": "Nvidia earnings: Chipmaker forecasts Q3 revenue at $108 billion, above analysts' estimates as Q2 profit, revenue double YoY",
+      "description": "Nvidia earnings: Nvidia forecasts strong third quarter revenue, exceeding analyst expectations significantly.  The company sees a trillion-dollar market opportunity for its AI chips through 2027.   Nvidia's operating expenses and future spending plans have also increased.  Competition is growing, bu",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-earnings-chipmaker-forecasts-quarterly-revenue-at-108-billion-well-above-analysts-estimates/articleshow/133550767.cms",
+      "image": "https://img.etimg.com/photo/msid-133550767,imgsize-37956.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-26T20:27:29+00:00",
+      "category": "India",
+      "simple_explanation": "Nvidia earnings: Nvidia forecasts strong third quarter revenue, exceeding analyst expectations significantly.  The company sees a trillion-dollar market opportunity for its AI chips through 2027.   Nv"
+    },
+    {
+      "title": "HP forecasts strong fourth-quarter profit on price hikes, US tariff refunds",
+      "description": "HP forecast fourth-quarter profit above Wall Street estimates, helped by expected tariff refunds and higher prices for premium and AI-powered PCs. The company also raised its full-year adjusted earnings forecast. Strong demand for AI PCs lifted third-quarter revenue, while rising memory chip costs r",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/hp-forecasts-strong-fourth-quarter-profit-on-price-hikes-us-tariff-refunds/articleshow/133550766.cms",
+      "image": "https://img.etimg.com/photo/msid-133550766,imgsize-71838.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-26T20:23:26+00:00",
+      "category": "India",
+      "simple_explanation": "HP forecast fourth-quarter profit above Wall Street estimates, helped by expected tariff refunds and higher prices for premium and AI-powered PCs. The company also raised its full-year adjusted earnin"
+    },
+    {
+      "title": "US Equity Markets End Lower as Bond Yields Rise After July's Inflation Rate Accelerates",
+      "description": "US equity indexes ended lower Wednesday as most government bond yields rose after the Federal Reserv",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-202036115.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T20:20:36+00:00",
+      "category": "Commodities",
+      "simple_explanation": "US equity indexes ended lower Wednesday as most government bond yields rose after the Federal Reserv"
+    },
+    {
+      "title": "Gold Rally Eases as Traders Turn Focus to Fed Interest Rate Path",
+      "description": "Gold retreated from a three-month high, with investors turning their focus to the Federal Reserve’s interest-rate path ahead of the annual Jackson Hole gathering this week.",
+      "url": "https://www.livemint.com/market/gold-rally-eases-as-traders-turn-focus-to-fed-interest-rate-path-11787775547971.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "source": "LiveMint",
+      "published_at": "2026-08-26T20:19:07+00:00",
+      "category": "India",
+      "simple_explanation": "Gold retreated from a three-month high, with investors turning their focus to the Federal Reserve’s interest-rate path ahead of the annual Jackson Hole gathering this week."
+    },
+    {
+      "title": "US stocks today: US stocks end near flat as hot inflation data clouds Fed rate outlook",
+      "description": "Wall Street ended nearly flat as hotter-than-expected US inflation complicated the Federal Reserve’s interest-rate outlook. Investors turned cautious while resilient economic growth offered some support. Markets are also watching Fed Chair Kevin Warsh’s Jackson Hole speech for clues on September’s i",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-near-flat-as-hot-inflation-data-clouds-fed-rate-outlook/articleshow/133550754.cms",
+      "image": "https://img.etimg.com/photo/msid-133550754,imgsize-197968.cms",
+      "source": "Economic Times",
+      "published_at": "2026-08-26T20:18:34+00:00",
+      "category": "India",
+      "simple_explanation": "Wall Street ended nearly flat as hotter-than-expected US inflation complicated the Federal Reserve’s interest-rate outlook. Investors turned cautious while resilient economic growth offered some suppo"
+    },
+    {
+      "title": "Better launches Bitcoin-backed mortgages powered by Coinbase",
+      "description": "Better and Coinbase have launched a crypto-backed mortgage product that lets US homebuyers pledge Bitcoin as collateral for a down payment without having to sell it.",
+      "url": "https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-what-is-a-housing-loan2.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-08-26T20:09:23+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Better and Coinbase have launched a crypto-backed mortgage product that lets US homebuyers pledge Bitcoin as collateral for a down payment without having to sell it."
+    },
+    {
+      "title": "Sector Update: Energy Stocks Rise Wednesday",
+      "description": "Energy stocks rose Wednesday with the NYSE Energy Sector Index gaining 0.2% and the State Street Ene",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-wednesday-200642126.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T20:06:42+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Energy stocks rose Wednesday with the NYSE Energy Sector Index gaining 0.2% and the State Street Ene"
+    },
+    {
+      "title": "Indexes end close to flat after hot inflation data ahead of Nvidia earnings",
+      "description": "USA-STOCKS/ (UPDATE 6, GRAPHIC):US STOCKS-Indexes end close to flat after hot inflation data ahead of Nvidia earnings",
+      "url": "https://www.livemint.com/market/indexes-end-close-to-flat-after-hot-inflation-data-ahead-of-nvidia-earnings-11787774565346.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "source": "LiveMint",
+      "published_at": "2026-08-26T20:02:44+00:00",
+      "category": "India",
+      "simple_explanation": "USA-STOCKS/ (UPDATE 6, GRAPHIC):US STOCKS-Indexes end close to flat after hot inflation data ahead of Nvidia earnings"
+    },
+    {
+      "title": "Shell Slips as Hormuz Hope Removes Oil's War Premium",
+      "description": "The energy giant's cash machine remains powerful, but today's diplomacy threatens the pricing that supercharged it.",
+      "url": "https://finance.yahoo.com/energy/articles/shell-slips-hormuz-hope-removes-195628972.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T19:56:28+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The energy giant's cash machine remains powerful, but today's diplomacy threatens the pricing that supercharged it."
+    },
+    {
+      "title": "Oil Futures Settle Lower in Choppy Trade",
+      "description": "Crude futures extend losses to three sessions on cautious expectations that the U.S. economic isolation of Iran, rather than military action, could bring about a reopening of the Strait of Hormuz. \"The de-escalation and fears of tighter global supplies are easing, which is tripping some long liquida",
+      "url": "https://finance.yahoo.com/m/9098fc54-2981-3dcf-98a5-dcedc529de72/oil-futures-settle-lower-in.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T19:53:31+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Crude futures extend losses to three sessions on cautious expectations that the U.S. economic isolation of Iran, rather than military action, could bring about a reopening of the Strait of Hormuz. \"Th"
+    },
+    {
+      "title": "Gold Sends Powerful New Market Signal",
+      "description": "Momentum remains strong, but the setup is getting crowded",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-sends-powerful-market-signal-195108715.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-26T19:51:08+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Momentum remains strong, but the setup is getting crowded"
+    },
+    {
+      "title": "Wheat soars to daily limit on Black Sea export worries, corn at lifetime highs",
+      "description": "GLOBAL-GRAINS/ (UPDATE 4):GRAINS-Wheat soars to daily limit on Black Sea export worries, corn at lifetime highs",
+      "url": "https://www.livemint.com/market/wheat-soars-to-daily-limit-on-black-sea-export-worries-corn-at-lifetime-highs-11787773711563.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-08-26T19:48:31+00:00",
+      "category": "India",
+      "simple_explanation": "GLOBAL-GRAINS/ (UPDATE 4):GRAINS-Wheat soars to daily limit on Black Sea export worries, corn at lifetime highs"
     }
   ]
 }
