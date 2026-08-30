@@ -1,16 +1,96 @@
 {
-  "last_updated": "2026-08-30T20:51:58.313394+00:00",
+  "last_updated": "2026-08-30T23:14:19.571462+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Aon nears $17 billion deal to buy insurance broker USI, WSJ reports",
+      "title": "Billionaire hedge fund manager bets on ex-Bitcoin miners",
+      "description": "Billionaire Dan Loeb’s hedge fund invests in Bitcoin miners turning to AI.",
+      "url": "https://www.thestreet.com/crypto/markets/billionaire-hedge-fund-manager-bets-on-ex-bitcoin-miners?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-30T23:00:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Billionaire Dan Loeb’s hedge fund invests in Bitcoin miners turning to AI."
+    },
+    {
+      "title": "Dow Jones Futures Fall, Oil Prices Jump As U.S. Strikes Iran",
+      "description": "Dow Jones futures fell slightly while oil prices bounced as the U.S. struck Iran publicly for the first time in a month.",
+      "url": "https://finance.yahoo.com/m/5851be5e-4456-36df-acc2-e391c82c51f8/dow-jones-futures-fall%2C-oil.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-30T22:48:41+00:00",
+      "category": "USA",
+      "simple_explanation": "Dow Jones futures fell slightly while oil prices bounced as the U.S. struck Iran publicly for the first time in a month."
+    },
+    {
+      "title": "Stock Futures Drift Lower, Oil Rises Ahead of Jobs Data, Tech Earnings",
+      "description": "This week features earnings from Nvidia rival Broadcom plus reports from Dell and Hewlett Packard Enterprise.",
+      "url": "https://finance.yahoo.com/m/f2abac1b-c525-31ba-9e2e-f1bf9ebaa4ae/stock-futures-drift-lower%2C.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-30T22:13:00+00:00",
+      "category": "USA",
+      "simple_explanation": "This week features earnings from Nvidia rival Broadcom plus reports from Dell and Hewlett Packard Enterprise."
+    },
+    {
+      "title": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports",
       "description": "Aon is nearing a roughly $17 billion deal, including debt, to acquire insurance brokerage USI from KKR, the Journal reported.",
       "url": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-08-30T20:46:12+00:00",
+      "published_at": "2026-08-30T22:05:32+00:00",
       "category": "USA",
       "simple_explanation": "Aon is nearing a roughly $17 billion deal, including debt, to acquire insurance brokerage USI from KKR, the Journal reported."
+    },
+    {
+      "title": "U.S. strikes Iranian rocket launchers near Strait of Hormuz",
+      "description": "The last major U.S. strikes on Iran were carried out in late July.",
+      "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-30T21:32:59+00:00",
+      "category": "USA",
+      "simple_explanation": "The last major U.S. strikes on Iran were carried out in late July."
+    },
+    {
+      "title": "BlackRock's Exec Says CLARITY Act Is 'Less Critical' for Bitcoin Other Cryptos",
+      "description": "BlackRock’s head of digital assets Robert Mitchnick told CNBC Wednesday that the CLARITY Act is “less critical” for Bitcoin than for the rest of crypto. What Mitchnick Said About Bitcoin and Regulation Bitcoin has already achieved a level of regulatory...",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrocks-exec-says-clarity-act-213130929.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-30T21:31:30+00:00",
+      "category": "Crypto",
+      "simple_explanation": "BlackRock’s head of digital assets Robert Mitchnick told CNBC Wednesday that the CLARITY Act is “less critical” for Bitcoin than for the rest of crypto. What Mitchnick Said About Bitcoin and Regulatio"
+    },
+    {
+      "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+      "description": "Spot Bitcoin ETFs shed $201.9 million on Aug. 28, ending a nine-day inflow run, even as Ethereum funds extended a 10-day streak with fresh cash.",
+      "url": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-30T21:31:04+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Spot Bitcoin ETFs shed $201.9 million on Aug. 28, ending a nine-day inflow run, even as Ethereum funds extended a 10-day streak with fresh cash."
+    },
+    {
+      "title": "Japan’s Yen Falls Again Despite $97 Billion Aid. Risk For Bitcoin?",
+      "description": "Japan’s yen weakened despite a $97 billion rescue. Here’s why the gains are fading and how a sharp yen rebound could put pressure on Bitcoin.",
+      "url": "https://beincrypto.com/japan-yen-slide-bitcoin-impact/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-30T21:28:57+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Japan’s yen weakened despite a $97 billion rescue. Here’s why the gains are fading and how a sharp yen rebound could put pressure on Bitcoin."
+    },
+    {
+      "title": "S&P 500 Is Up 12% in 2026 But a 1907 Crash Signal Is Back",
+      "description": "The S&P 500 is up 12.65% in 2026, yet record options and margin debt echo the leverage that broke 1907. What happens next?",
+      "url": "https://beincrypto.com/sp500-2026-rally-1907-crash-warning/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-30T21:04:01+00:00",
+      "category": "USA",
+      "simple_explanation": "The S&P 500 is up 12.65% in 2026, yet record options and margin debt echo the leverage that broke 1907. What happens next?"
     },
     {
       "title": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
@@ -33,36 +113,6 @@
       "simple_explanation": "A Bitcoin rally to around $79,000 lifted the company's 840,447 BTC roughly $2.8 billion above its cost basis, as Saylor's \"We're Back\" post fueled speculation that Strategy may resume buying."
     },
     {
-      "title": "Russia’s Largest Bank Wants Bitcoin and Ethereum as Collateral",
-      "description": "Sberbank plans bitcoin, ether and USDT loan collateral as Russia's crypto law starts, but domestic payments stay banned.",
-      "url": "https://beincrypto.com/sberbank-crypto-loan-collateral-russia/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-30T18:59:35+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Sberbank plans bitcoin, ether and USDT loan collateral as Russia's crypto law starts, but domestic payments stay banned."
-    },
-    {
-      "title": "XRP Price Prediction for September: Will XRP Hit $2?",
-      "description": "XRP rallied 70% in August but still sits nearly 43% below a price it last touched in January, and three converging forces in September could either push it over the edge or prove that barrier unbreakable.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/08/30/xrp-price-prediction-for-september-will-xrp-hit-2/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-30T18:21:43+00:00",
-      "category": "Crypto",
-      "simple_explanation": "XRP rallied 70% in August but still sits nearly 43% below a price it last touched in January, and three converging forces in September could either push it over the edge or prove that barrier unbreaka"
-    },
-    {
-      "title": "Michael Saylor Says ‘We're Back': 3 Reasons MicroStrategy May Resume Buying Bitcoin",
-      "description": "Saylor says MicroStrategy is back. Debt is covered, STRC nears par, and the Bitcoin buying pause may finally end.",
-      "url": "https://beincrypto.com/microstrategy-resume-buying-bitcoin-saylor-back/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-30T18:17:38+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Saylor says MicroStrategy is back. Debt is covered, STRC nears par, and the Bitcoin buying pause may finally end."
-    },
-    {
       "title": "SBI, arm to dilute up to 1% stake in NSE via public offer",
       "description": "The bank is participating in the NSE IPO and will dilute a 0.65% stake in the exchange, SBI Chairman CS Setty said",
       "url": "https://www.livemint.com/market/stock-market-news/sbi-arm-to-dilute-up-to-1-stake-in-nse-via-public-offer-11788112931213.html",
@@ -71,6 +121,16 @@
       "published_at": "2026-08-30T18:08:19+00:00",
       "category": "India",
       "simple_explanation": "The bank is participating in the NSE IPO and will dilute a 0.65% stake in the exchange, SBI Chairman CS Setty said"
+    },
+    {
+      "title": "Trump-promoted Freedom Fuel stations sold gas a distributor says went unpaid for",
+      "description": "A federal lawsuit claims that fuel distributor KRSM failed to pay for $4 million worth of fuel, some of which the company sold to the Freedom Fuel network.",
+      "url": "https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-08-30T18:06:41+00:00",
+      "category": "USA",
+      "simple_explanation": "A federal lawsuit claims that fuel distributor KRSM failed to pay for $4 million worth of fuel, some of which the company sold to the Freedom Fuel network."
     },
     {
       "title": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
@@ -91,36 +151,6 @@
       "published_at": "2026-08-30T17:50:00+00:00",
       "category": "India",
       "simple_explanation": "The employment data could offer fresh clues on the health of the US labour market and influence expectations around the central bank's interest-rate decisions"
-    },
-    {
-      "title": "Elon Musk Backs the Physics Behind a Claim Quantum Computers Can't Break Bitcoin",
-      "description": "Elon Musk backs a discrete universe theory that traders say proves quantum computers can never break Bitcoin.",
-      "url": "https://beincrypto.com/elon-musk-quantum-limit-bitcoin-claim/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-30T17:37:32+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Elon Musk backs a discrete universe theory that traders say proves quantum computers can never break Bitcoin."
-    },
-    {
-      "title": "XRP Is Still Up 31% in August After Losing 5% in a Week",
-      "description": "XRP surged to its best monthly performance in over a year, then gave back a chunk of those gains in just seven days. With 48 hours left in August, two forces are now battling over whether the coin holds its ground or crumbles further.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/08/30/xrp-is-still-up-31-in-august-after-losing-5-in-a-week/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-30T17:25:20+00:00",
-      "category": "Crypto",
-      "simple_explanation": "XRP surged to its best monthly performance in over a year, then gave back a chunk of those gains in just seven days. With 48 hours left in August, two forces are now battling over whether the coin hol"
-    },
-    {
-      "title": "Futures Set to Trade Ahead of Jobs Data, Tech Earnings",
-      "description": "This week features earnings from Nvidia rival Broadcom plus reports from Dell and Hewlett Packard Enterprise.",
-      "url": "https://finance.yahoo.com/m/f2abac1b-c525-31ba-9e2e-f1bf9ebaa4ae/futures-set-to-trade-ahead-of.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-30T16:55:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "This week features earnings from Nvidia rival Broadcom plus reports from Dell and Hewlett Packard Enterprise."
     },
     {
       "title": "Trump Says Venezuelan Oil Will Refill the U.S.’s Strategic Reserves. Reality Says Don’t Count On It",
@@ -213,36 +243,6 @@
       "simple_explanation": "How does a total return of nearly 600% sound?"
     },
     {
-      "title": "Dow Jones Futures Due Amid Bullish, Bearish Market Signals. What To Do Now.",
-      "description": "Microsoft and other titans lifted the major indexes for the week, masking declines for small caps and many sectors as yields jump.",
-      "url": "https://finance.yahoo.com/m/5851be5e-4456-36df-acc2-e391c82c51f8/dow-jones-futures-due-amid.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-30T13:28:30+00:00",
-      "category": "USA",
-      "simple_explanation": "Microsoft and other titans lifted the major indexes for the week, masking declines for small caps and many sectors as yields jump."
-    },
-    {
-      "title": "This 2 ETF Portfolio Historically Outperforms the S&P 500 With Less Volatility",
-      "description": "Combining two factors that produce strong returns may be all you need.",
-      "url": "https://www.fool.com/investing/2026/08/30/2-etf-portfolio-historically-outperforms-sp-500/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-30T13:15:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Combining two factors that produce strong returns may be all you need."
-    },
-    {
-      "title": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals",
-      "description": "When the U.S.-Canada trade war erupted, the market repriced metals and materials stocks and ETFs, but longer-term investors should be wary.",
-      "url": "https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-30T13:00:01+00:00",
-      "category": "USA",
-      "simple_explanation": "When the U.S.-Canada trade war erupted, the market repriced metals and materials stocks and ETFs, but longer-term investors should be wary."
-    },
-    {
       "title": "Here’s what happened in crypto today",
       "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -273,16 +273,6 @@
       "simple_explanation": "As Advanced Micro Devices has outperformed relative to the Dow over the past year, Wall Street analysts maintain a bullish outlook on the stock’s prospects."
     },
     {
-      "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
-      "description": "Retailers have diverged on how they've reported tariff refunds in their earnings this quarter, with some choosing to lower prices and others boosting margins.",
-      "url": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-08-30T12:00:02+00:00",
-      "category": "USA",
-      "simple_explanation": "Retailers have diverged on how they've reported tariff refunds in their earnings this quarter, with some choosing to lower prices and others boosting margins."
-    },
-    {
       "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
       "description": "Indian equities rebounded on Friday, with strong gains in heavyweight IT stocks lifting the Sensex and Nifty after two consecutive sessions of losses. Analysts expect range-bound trading amid mixed global cues and geopolitical tensions, while Nifty faces resistance near 24,200 and support around 23,",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/133628353.cms",
@@ -291,16 +281,6 @@
       "published_at": "2026-08-30T11:26:00+00:00",
       "category": "India",
       "simple_explanation": "Indian equities rebounded on Friday, with strong gains in heavyweight IT stocks lifting the Sensex and Nifty after two consecutive sessions of losses. Analysts expect range-bound trading amid mixed gl"
-    },
-    {
-      "title": "Why Okta Stock Skyrocketed This Week",
-      "description": "Cybersecurity has never been more important, and Okta stock is surging.",
-      "url": "https://www.fool.com/investing/2026/08/30/why-okta-stock-skyrocketed-this-week/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-30T11:20:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Cybersecurity has never been more important, and Okta stock is surging."
     },
     {
       "title": "What will happen to HDFC Bank share price on Monday in the wake of management level developments?",
@@ -401,6 +381,26 @@
       "published_at": "2026-08-30T08:31:41+00:00",
       "category": "India",
       "simple_explanation": "MSCI’s latest rebalancing is set to drive heightened trading activity in several Indian stocks on Monday, with revised weights taking effect from September 1. The final 30 minutes of Monday’s session "
+    },
+    {
+      "title": "Is a Stock Market Crash Imminent Under President Donald Trump? More Than 85 Years of Historical Precedent Offers an Answer.",
+      "description": "One scenario makes stock market crashes likelier, and Trump is overseeing it right now.",
+      "url": "https://www.fool.com/investing/2026/08/30/stock-market-crash-imminent-president-donald-trump-85-years-history-offers-answer/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-30T08:26:01+00:00",
+      "category": "USA",
+      "simple_explanation": "One scenario makes stock market crashes likelier, and Trump is overseeing it right now."
+    },
+    {
+      "title": "Temasek-backed Country Delight scouts investment banks for potential $300 million IPO",
+      "description": "The dairy and fresh-produce delivery platform plans to pitch investment bankers in the coming days and is weighing a pre-IPO fundraise to establish a valuation benchmark.",
+      "url": "https://www.livemint.com/market/ipo/country-delight-ipo-200-300-million-india-listing-11788068529581.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/30/1600x900/logo/cd_1788077210682_1788077210808_38e3ac4e-fc9f-49ea-8fb0-7396f218e6ee.png",
+      "source": "LiveMint",
+      "published_at": "2026-08-30T08:13:33+00:00",
+      "category": "India",
+      "simple_explanation": "The dairy and fresh-produce delivery platform plans to pitch investment bankers in the coming days and is weighing a pre-IPO fundraise to establish a valuation benchmark."
     }
   ]
 }
