@@ -1,26 +1,266 @@
 {
-  "last_updated": "2026-09-01T23:49:46.795125+00:00",
+  "last_updated": "2026-09-02T03:14:46.734897+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Australia posts second-quarter growth of 2.1%, beating expectations",
+      "description": "The GDP print will allow the Reserve Bank of Australia room to go ahead with its policy tightening as it seeks to curb inflation.",
+      "url": "https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-02T03:05:14+00:00",
+      "category": "USA",
+      "simple_explanation": "The GDP print will allow the Reserve Bank of Australia room to go ahead with its policy tightening as it seeks to curb inflation."
+    },
+    {
+      "title": "Bajaj Auto to Info Edge - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
+      "description": "Indian equity indices are set to open muted on September 2, influenced by high crude oil prices and weak global cues. Nifty 50 ended below 24,100, with technical indicators suggesting cautious trading ahead. Analysts recommend specific stocks for futures trading based on recent market trends.",
+      "url": "https://www.livemint.com/market/stock-market-news/bajaj-auto-to-info-edge-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11788316113751.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/02/1600x900/logo/DSC02469_1737528551670_1788317531703_cdec0b05-1ddf-4e7f-a5e6-a85989fde896.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-09-02T02:55:22+00:00",
+      "category": "India",
+      "simple_explanation": "Indian equity indices are set to open muted on September 2, influenced by high crude oil prices and weak global cues. Nifty 50 ended below 24,100, with technical indicators suggesting cautious trading"
+    },
+    {
+      "title": "Vardhman Textiles among 4 stocks showing bullish RSI upswing",
+      "description": "On September 1, four Nifty500 stocks that gained over 3% were highlighted in the RSI Trending Up scan, based on data from StockEdge.com. An uptrend signal is generated when the RSI value crosses above 50 from below, indicating strengthening price momentum and potential upward movement in the stocks.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vardhman-textiles-among-4-stocks-showing-bullish-rsi-upswing/slideshow/133696009.cms",
+      "image": "https://img.etimg.com/photo/msid-133695955,imgsize-312344.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-02T02:47:57+00:00",
+      "category": "India",
+      "simple_explanation": "On September 1, four Nifty500 stocks that gained over 3% were highlighted in the RSI Trending Up scan, based on data from StockEdge.com. An uptrend signal is generated when the RSI value crosses above"
+    },
+    {
+      "title": "Stocks sink, yields at multi-decade highs and oil spikes on Mideast flare-up",
+      "description": "Stocks fell and bond yields held at multi-decade highs as investors ramp up rate hike bets amid a fresh flare-up in Middle East tensions that has sparked another surge in oil prices.\"Bond yields were already rising and the renewed US-Iran attacks and their impact on oil prices have made investors mo",
+      "url": "https://finance.yahoo.com/markets/articles/stocks-sink-yields-multi-decade-024500420.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-02T02:45:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Stocks fell and bond yields held at multi-decade highs as investors ramp up rate hike bets amid a fresh flare-up in Middle East tensions that has sparked another surge in oil prices.\"Bond yields were "
+    },
+    {
+      "title": "Dow, S&P 500, Nasdaq Futures Decline As Iran Jitters Spook Markets: DJT, USO, DELL, CRDO Stocks In Focus",
+      "description": "The September trading session started with escalating tensions with Iran after the U.S. launched fresh attacks on the Middle Eastern country near Hormuz.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-decline-as-iran-jitters-spook-markets-djt-uso-dell-crdo-stocks-in-focus/cZsAaxCRJu2?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-02T02:42:28+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The September trading session started with escalating tensions with Iran after the U.S. launched fresh attacks on the Middle Eastern country near Hormuz."
+    },
+    {
+      "title": "Priority Jewels IPO allotment in focus today: GMP signals 15% listing pop | How to check share allotment status online?",
+      "description": "As the Priority Jewels IPO reaches a 100-times subscription, shareholders eagerly await their allotment status. With grey market premiums signalling a potential 15% listing pop, learn how to check your allotment online seamlessly.",
+      "url": "https://www.livemint.com/market/ipo/priority-jewels-ipo-allotment-in-focus-today-gmp-signals-15-listing-pop-how-to-check-share-allotment-status-online-11788313939239.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/02/1600x900/logo/Priority_Jewels_IPO_share_allotment_1788314477572_1788314484352_188c3850-4b40-4f56-9552-34279510dd18.png",
+      "source": "LiveMint",
+      "published_at": "2026-09-02T02:28:37+00:00",
+      "category": "India",
+      "simple_explanation": "As the Priority Jewels IPO reaches a 100-times subscription, shareholders eagerly await their allotment status. With grey market premiums signalling a potential 15% listing pop, learn how to check you"
+    },
+    {
+      "title": "Asian markets today: South Korea’s Kospi, Japan's Nikkei 225 fall up to 3% amid fresh concerns around US-Iran war",
+      "description": "Asian markets today: Japan’s Nikkei 225 declined 1.60%, while the Topix slipped 1.44%. South Korea’s Kospi dropped 2.87% at the open, while the small-cap Kosdaq fell 2.51%.",
+      "url": "https://www.livemint.com/market/stock-market-news/asian-markets-today-south-korea-s-kospi-japans-nikkei-225-fall-up-to-3-amid-fresh-concerns-around-us-iran-war-11788314788109.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/02/1600x900/logo/asian_markets_today_1788316029345_1788316033694_f552f247-9a59-4f11-8ca1-f0d1a51d9494.png",
+      "source": "LiveMint",
+      "published_at": "2026-09-02T02:27:34+00:00",
+      "category": "India",
+      "simple_explanation": "Asian markets today: Japan’s Nikkei 225 declined 1.60%, while the Topix slipped 1.44%. South Korea’s Kospi dropped 2.87% at the open, while the small-cap Kosdaq fell 2.51%."
+    },
+    {
+      "title": "Sumax Engineering shares to list today; 22% GMP signals strong debut",
+      "description": "The Rs 53.40 crore IPO, which opened for subscription on August 25, 2026, received an overwhelming response from investors. The issue was subscribed 162.94 times overall, reflecting strong demand across investor categories.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sumax-engineering-shares-to-list-today-22-gmp-signals-strong-debut/articleshow/133695361.cms",
+      "image": "https://img.etimg.com/photo/msid-133695361,imgsize-12151.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-02T02:27:21+00:00",
+      "category": "India",
+      "simple_explanation": "The Rs 53.40 crore IPO, which opened for subscription on August 25, 2026, received an overwhelming response from investors. The issue was subscribed 162.94 times overall, reflecting strong demand acro"
+    },
+    {
+      "title": "Deepa Jewellers IPO Day 2: GMP hints 25% listing gain. Check subscription, review, key dates. Apply or skip?",
+      "description": "Deepa Jewellers IPO opened on 1 September and will close on 3 September, with a price band of  ₹168-177 per share. It aims to raise  ₹250 crore, with allocations for different investor categories and a potential listing price of  ₹221.",
+      "url": "https://www.livemint.com/market/ipo/deepa-jewellers-ipo-day-2-gmp-hints-25-listing-gain-check-subscription-review-key-dates-apply-or-skip-11788313439516.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/02/1600x900/logo/9946-Website_Banner-1_1788315722191_1788315729141_f3b16a15-8c9b-4067-a609-bc0323489860.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-09-02T02:26:29+00:00",
+      "category": "India",
+      "simple_explanation": "Deepa Jewellers IPO opened on 1 September and will close on 3 September, with a price band of  ₹168-177 per share. It aims to raise  ₹250 crore, with allocations for different investor categories and "
+    },
+    {
+      "title": "Annu Projects IPO listing today: GMP signals caution ahead of market debut",
+      "description": "The IPO opened for subscription on August 25 and closed on August 28, attracting an overall subscription of 2.93 times. Retail investors bid for 2.68 times the shares reserved for them, while the Qualified Institutional Buyers (QIB) category was subscribed 1.72 times. The Non-Institutional Investors",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/annu-projects-ipo-listing-today-gmp-signals-caution-ahead-of-market-debut/articleshow/133695261.cms",
+      "image": "https://img.etimg.com/photo/msid-133695261,imgsize-1949287.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-02T02:21:12+00:00",
+      "category": "India",
+      "simple_explanation": "The IPO opened for subscription on August 25 and closed on August 28, attracting an overall subscription of 2.93 times. Retail investors bid for 2.68 times the shares reserved for them, while the Qual"
+    },
+    {
+      "title": "Dow Jones Futures Fall, Oil Prices Keep Rising; Dell, Credo, Palo Alto Are Earnings Movers Late",
+      "description": "The Dow Jones and Nasdaq 100 fell below their 50-day lines as oil prices jumped. Dell, Palo Alto and Credo were earnings movers late.",
+      "url": "https://finance.yahoo.com/m/3c8f786a-671c-3fb9-bb03-81fc8be4d3f0/dow-jones-futures-fall%2C-oil.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-02T02:19:07+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dow Jones and Nasdaq 100 fell below their 50-day lines as oil prices jumped. Dell, Palo Alto and Credo were earnings movers late."
+    },
+    {
+      "title": "Oil Price Today (September 2): Crude oil nears $97 as war tensions escalate. Will it hit $100 again?",
+      "description": "The United States said it carried out a series of airstrikes against targets in Iran overnight, drawing a response from Tehran in what was described as the most serious escalation in the conflict between the two countries in weeks.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-2-crude-oil-nears-97-as-war-tensions-escalate-will-it-hit-100-again/articleshow/133695425.cms",
+      "image": "https://img.etimg.com/photo/msid-133695425,imgsize-76304.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-02T02:14:01+00:00",
+      "category": "India",
+      "simple_explanation": "The United States said it carried out a series of airstrikes against targets in Iran overnight, drawing a response from Tehran in what was described as the most serious escalation in the conflict betw"
+    },
+    {
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade lower",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-wipro-share-price-02-september-2026/liveblog/133695430.cms",
+      "image": "https://img.etimg.com/photo/msid-133695430,imgsize-197893.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-02T02:12:25+00:00",
+      "category": "India",
+      "simple_explanation": ""
+    },
+    {
+      "title": "Buy or sell: Gift Nifty signals tepid start | Vaishali Parekh recommends three stocks to buy today —2 September 2026",
+      "description": "Buy or sell indicator: Vaishali Parekh recommends three stocks to buy today — Mphasis, Jindal Stainless, and Rain Industries",
+      "url": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-tepid-start-vaishali-parekh-recommends-three-stocks-to-buy-today-2-september-2026-11788311936863.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/02/1600x900/logo/Vaishali_Parekh_stock_recommendations_for_today_1788313111257_1788313111370_beaa9ef4-9344-426c-b6fb-a24a93d7bd3e.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-09-02T02:09:32+00:00",
+      "category": "India",
+      "simple_explanation": "Buy or sell indicator: Vaishali Parekh recommends three stocks to buy today — Mphasis, Jindal Stainless, and Rain Industries"
+    },
+    {
+      "title": "Stocks in news: Reliance Industries, Wipro, Tata Motors, among 9 stocks that will be in focus today",
+      "description": "The BSE Sensex ended at 76,944.28, lower by 12.99 points or 0.02%, as gains in IT, FMCG and select heavyweights helped limit the fall.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-wipro-tata-motors-among-9-stocks-that-will-be-in-focus-today/articleshow/133695276.cms",
+      "image": "https://img.etimg.com/photo/msid-133695276,imgsize-199112.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-02T02:04:49+00:00",
+      "category": "India",
+      "simple_explanation": "The BSE Sensex ended at 76,944.28, lower by 12.99 points or 0.02%, as gains in IT, FMCG and select heavyweights helped limit the fall."
+    },
+    {
+      "title": "Welspun Corp, Perma-Pipe to invest Rs 1500 crore in Jordan pipe manufacturing JV",
+      "description": "Welspun Corp and Perma-Pipe International Holdings are set to create a joint venture for pipe manufacturing in Jordan with an investment around ₹1500 crore. This collaboration is designed to tackle key water and energy projects in the Levant region, integrating advanced steel pipe production alongsi",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/welspun-corp-perma-pipe-to-invest-rs-1500-crore-in-jordan-pipe-manufacturing-jv/articleshow/133695216.cms",
+      "image": "https://img.etimg.com/photo/msid-133695216,imgsize-67794.cms",
+      "source": "ET Markets",
+      "published_at": "2026-09-02T02:01:08+00:00",
+      "category": "India",
+      "simple_explanation": "Welspun Corp and Perma-Pipe International Holdings are set to create a joint venture for pipe manufacturing in Jordan with an investment around ₹1500 crore. This collaboration is designed to tackle ke"
+    },
+    {
+      "title": "Crude oil price ascends after fresh US strikes, WTI above $91/bbl, Brent above $96/bbl",
+      "description": "US-Iran war: Brent crude futures rose 87 cents, or 0.92%, to $95.52 a barrel, after jumping 4.6% on Tuesday and moving above the $95-a-barrel mark.",
+      "url": "https://www.livemint.com/market/commodities/crude-oil-price-ascends-after-fresh-us-strikes-wti-above-91-bbl-brent-above-96bbl-11788313107096.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/02/1600x900/logo/crude_oil_1788313895371_1788313895500_1a07e4de-8012-4a5f-9567-bbac506e8ec4.png",
+      "source": "LiveMint",
+      "published_at": "2026-09-02T01:57:24+00:00",
+      "category": "India",
+      "simple_explanation": "US-Iran war: Brent crude futures rose 87 cents, or 0.92%, to $95.52 a barrel, after jumping 4.6% on Tuesday and moving above the $95-a-barrel mark."
+    },
+    {
+      "title": "Strategy's CEO Says Bitcoin Buys Come Down to Capital Costs, Not Price",
+      "description": "Strategy CEO Phong Le explains why Bitcoin buying decisions come down to capital costs, not price, amid a bull market bet.",
+      "url": "https://beincrypto.com/strategy-phong-le-bitcoin-buying-logic/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-02T01:39:51+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Strategy CEO Phong Le explains why Bitcoin buying decisions come down to capital costs, not price, amid a bull market bet."
+    },
+    {
+      "title": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes",
+      "description": "U.S. forces completed another wave of strikes against Iran on Tuesday stateside, hitting multiple Islamic Revolutionary Guard Corps sites across the country.",
+      "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-02T01:34:27+00:00",
+      "category": "USA",
+      "simple_explanation": "U.S. forces completed another wave of strikes against Iran on Tuesday stateside, hitting multiple Islamic Revolutionary Guard Corps sites across the country."
+    },
+    {
+      "title": "The 3 Best Artificial Intelligence (AI) Stocks for September",
+      "description": "Nvidia, Amazon, and Micron still look like genius buys.",
+      "url": "https://www.fool.com/investing/2026/09/01/the-3-best-artificial-intelligence-ai-stocks-for-s/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-02T01:27:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Nvidia, Amazon, and Micron still look like genius buys."
+    },
+    {
+      "title": "These 3 Factors Are Whipsawing Wall Street and Bitcoin",
+      "description": "Jim Cramer says oil, a hawkish Fed and Iran strikes are whipsawing Wall Street, and Bitcoin isn't escaping the pressure.",
+      "url": "https://beincrypto.com/oil-fed-iran-wall-street-bitcoin/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-02T01:21:43+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Jim Cramer says oil, a hawkish Fed and Iran strikes are whipsawing Wall Street, and Bitcoin isn't escaping the pressure."
+    },
+    {
+      "title": "DMG Blockchain Solutions Inc (DMGGF) (Q3 2026) Earnings Call Highlights: AI Data Center ...",
+      "description": "Despite a 13% sequential revenue decline, DMG advances its 50-megawatt AI colocation project with key infrastructure milestones and financing exploration.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/dmg-blockchain-solutions-inc-dmggf-010103970.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-02T01:01:03+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Despite a 13% sequential revenue decline, DMG advances its 50-megawatt AI colocation project with key infrastructure milestones and financing exploration."
+    },
+    {
+      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+      "description": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.",
+      "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-09-02T00:11:14+00:00",
+      "category": "Global",
+      "simple_explanation": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday."
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq Futures Flat After Indices End Lower On US-Iran Stalemate — DELL, PANW, FRVO, AAPL, TTWO In Focus",
+      "description": "The ‌U.S. military on Tuesday said it began striking Islamic Revolutionary Guard Corps (IRGC) targets in ⁠Iran.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-flat/cZsAInURJMx?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-02T00:01:07+00:00",
+      "category": "USA",
+      "simple_explanation": "The ‌U.S. military on Tuesday said it began striking Islamic Revolutionary Guard Corps (IRGC) targets in ⁠Iran."
+    },
+    {
+      "title": "Review & Preview: September Blues",
+      "description": "REVIEW PREVIEW NEWSLETTER Feeling the Chill. It’s a new month, and suddenly investors have fresh worries about old problems like interest rates, the bond market, and the Iran War. The Dow Jones Industrial Average lost 0.",
+      "url": "https://finance.yahoo.com/m/3963021d-c9a4-386a-b7a7-98000b963beb/review-%26-preview%3A-september.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-01T23:55:00+00:00",
+      "category": "USA",
+      "simple_explanation": "REVIEW PREVIEW NEWSLETTER Feeling the Chill. It’s a new month, and suddenly investors have fresh worries about old problems like interest rates, the bond market, and the Iran War. The Dow Jones Indust"
+    },
     {
       "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
       "description": "Bessent is leading the Trump administration's plan to choke off Iran's economy by threatening its business partners with secondary sanctions.",
       "url": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-09-01T23:33:42+00:00",
+      "published_at": "2026-09-01T23:52:21+00:00",
       "category": "USA",
       "simple_explanation": "Bessent is leading the Trump administration's plan to choke off Iran's economy by threatening its business partners with secondary sanctions."
-    },
-    {
-      "title": "Dow Jones Futures: Market Breaks Key Levels As Oil Prices Jump; Dell, Credo, Palo Alto Are Earnings Movers",
-      "description": "The Dow Jones and Nasdaq 100 fell below their 50-day lines as oil prices jumped. Dell, Palo Alto and Credo were earnings movers late.",
-      "url": "https://finance.yahoo.com/m/3c8f786a-671c-3fb9-bb03-81fc8be4d3f0/dow-jones-futures%3A-market.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-01T23:23:53+00:00",
-      "category": "USA",
-      "simple_explanation": "The Dow Jones and Nasdaq 100 fell below their 50-day lines as oil prices jumped. Dell, Palo Alto and Credo were earnings movers late."
     },
     {
       "title": "HubSpot, Intuit, Asana, Snowflake, and Atlassian Shares Are Falling, What You Need To Know",
@@ -73,16 +313,6 @@
       "simple_explanation": "In the closing of the recent trading day, Core & Main (CNM) stood at $42.07, denoting a -2.07% move from the preceding trading day."
     },
     {
-      "title": "Signet (SIG) Declines More Than Market: Some Information for Investors",
-      "description": "Signet (SIG) closed at $81.26 in the latest trading session, marking a -1.24% move from the prior day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/signet-sig-declines-more-market-220002294.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-01T22:00:02+00:00",
-      "category": "USA",
-      "simple_explanation": "Signet (SIG) closed at $81.26 in the latest trading session, marking a -1.24% move from the prior day."
-    },
-    {
       "title": "Chevron Will Grow Venezuelan Oil Production. It’s Different Than Trump’s Big Bet.",
       "description": "Chevron already produces about 280,000 barrels of oil a day in Venezuela through joint ventures. The company has said it can expand by another 50% over the next two years,",
       "url": "https://finance.yahoo.com/m/ffba5d10-cca9-3035-99c9-7c86bc2439ed/chevron-will-grow-venezuelan.html?.tsrc=rss",
@@ -93,36 +323,6 @@
       "simple_explanation": "Chevron already produces about 280,000 barrels of oil a day in Venezuela through joint ventures. The company has said it can expand by another 50% over the next two years,"
     },
     {
-      "title": "Why Morgan Stanley (MS) Dipped More Than Broader Market Today",
-      "description": "The latest trading day saw Morgan Stanley (MS) settling at $211.04, representing a -1.07% change from its previous close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-morgan-stanley-ms-dipped-215002851.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-01T21:50:02+00:00",
-      "category": "USA",
-      "simple_explanation": "The latest trading day saw Morgan Stanley (MS) settling at $211.04, representing a -1.07% change from its previous close."
-    },
-    {
-      "title": "SLB (SLB) Declines More Than Market: Some Information for Investors",
-      "description": "SLB (SLB) concluded the recent trading session at $57.15, signifying a -4.91% move from its prior day's close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-declines-more-market-215002329.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-01T21:50:02+00:00",
-      "category": "USA",
-      "simple_explanation": "SLB (SLB) concluded the recent trading session at $57.15, signifying a -4.91% move from its prior day's close."
-    },
-    {
-      "title": "Cadence Design Systems (CDNS) Falls More Steeply Than Broader Market: What Investors Need to Know",
-      "description": "Cadence Design Systems (CDNS) concluded the recent trading session at $313.04, signifying a -7.6% move from its prior day's close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-cdns-falls-215002693.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-01T21:50:02+00:00",
-      "category": "USA",
-      "simple_explanation": "Cadence Design Systems (CDNS) concluded the recent trading session at $313.04, signifying a -7.6% move from its prior day's close."
-    },
-    {
       "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
       "description": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double.",
       "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
@@ -131,26 +331,6 @@
       "published_at": "2026-09-01T21:40:18+00:00",
       "category": "USA",
       "simple_explanation": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double."
-    },
-    {
-      "title": "Floor And Decor, Williams-Sonoma, Ollie's, and Petco Shares Are Falling, What You Need To Know",
-      "description": "A number of stocks fell in the afternoon session after surging crude oil prices and a sharp jump in benchmark Treasury yields stoked renewed concerns over inflation and demand destruction. WTI crude rose to about $90 a barrel after renewed U.S.-Iran strikes disrupted shipping near Hormuz, according ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/floor-decor-williams-sonoma-ollies-213820039.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-01T21:38:20+00:00",
-      "category": "Commodities",
-      "simple_explanation": "A number of stocks fell in the afternoon session after surging crude oil prices and a sharp jump in benchmark Treasury yields stoked renewed concerns over inflation and demand destruction. WTI crude r"
-    },
-    {
-      "title": "Varonis Systems, Qualys, BlackLine, and Workiva Shares Plummet, What You Need To Know",
-      "description": "A number of stocks fell in the afternoon session after a sharp jump in benchmark Treasury yields and surging crude oil prices stoked renewed concerns over inflation.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/varonis-systems-qualys-blackline-workiva-213020251.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-01T21:30:20+00:00",
-      "category": "Commodities",
-      "simple_explanation": "A number of stocks fell in the afternoon session after a sharp jump in benchmark Treasury yields and surging crude oil prices stoked renewed concerns over inflation."
     },
     {
       "title": "Most Investors Fear Bear Markets. My 7-Year Track Record Shows They Should Welcome Them.",
@@ -173,16 +353,6 @@
       "simple_explanation": "The $189,000 in media spending to support Representative Jake Auchincloss marked Fairshake’s latest attempt to influence the 2026 elections with funds from the crypto industry."
     },
     {
-      "title": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
-      "description": "A number of stocks fell in the afternoon session after a surge in crude oil prices offered a near-term lift, but broader market volatility and a sharp jump in benchmark Treasury yields ultimately outweighed that tailwind.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-tetra-technologies-212220800.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-01T21:22:20+00:00",
-      "category": "Commodities",
-      "simple_explanation": "A number of stocks fell in the afternoon session after a surge in crude oil prices offered a near-term lift, but broader market volatility and a sharp jump in benchmark Treasury yields ultimately outw"
-    },
-    {
       "title": "Why Strategy (MSTR) Stock Is Trading Lower Today",
       "description": "Shares of bitcoin development company Strategy (NASDAQ:MSTR) fell 5.6% in the afternoon session after a sharp jump in benchmark Treasury yields and surging crude oil prices stoked renewed concerns over inflation.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-strategy-mstr-stock-trading-211420124.html?.tsrc=rss",
@@ -191,46 +361,6 @@
       "published_at": "2026-09-01T21:14:20+00:00",
       "category": "Crypto",
       "simple_explanation": "Shares of bitcoin development company Strategy (NASDAQ:MSTR) fell 5.6% in the afternoon session after a sharp jump in benchmark Treasury yields and surging crude oil prices stoked renewed concerns ove"
-    },
-    {
-      "title": "Musk once called Bitcoin his biggest crypto bet, here's what $1 billion invested would be worth today",
-      "description": "At The B-Word conference in July 2021, Musk confirmed Bitcoin was his largest crypto holding and said he had no plans to sell. Here is what that conviction looks like at $77,000.",
-      "url": "https://www.thestreet.com/crypto/markets/musk-once-called-bitcoin-his-biggest-crypto-bet-heres-what-1-billion-invested-would-be-worth-today?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-01T21:10:20+00:00",
-      "category": "Crypto",
-      "simple_explanation": "At The B-Word conference in July 2021, Musk confirmed Bitcoin was his largest crypto holding and said he had no plans to sell. Here is what that conviction looks like at $77,000."
-    },
-    {
-      "title": "Robert Kiyosaki Is $1.2 Billion in Debt: Is His Bitcoin at Risk?",
-      "description": "Robert Kiyosaki says he owes $1.2 billion. The loans sit on apartments, not on the Bitcoin and gold he promotes.",
-      "url": "https://beincrypto.com/robert-kiyosaki-debt-bitcoin-real-estate/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-01T21:06:51+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Robert Kiyosaki says he owes $1.2 billion. The loans sit on apartments, not on the Bitcoin and gold he promotes."
-    },
-    {
-      "title": "Japan Rate Shock Is Hitting Markets. How Will Bitcoin React?",
-      "description": "Japan's rate shock lifts bond yields to multi-decade highs. A stronger yen could test Bitcoin and the carry trade.",
-      "url": "https://beincrypto.com/japan-rate-shock-bitcoin-test/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-01T21:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Japan's rate shock lifts bond yields to multi-decade highs. A stronger yen could test Bitcoin and the carry trade."
-    },
-    {
-      "title": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
-      "description": "U.S. Central Command announced new strikes around the Strait of Hormuz following Iranian attacks on ships and U.S. military personnel. Iran said it retaliated.",
-      "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-01T20:56:50+00:00",
-      "category": "USA",
-      "simple_explanation": "U.S. Central Command announced new strikes around the Strait of Hormuz following Iranian attacks on ships and U.S. military personnel. Iran said it retaliated."
     },
     {
       "title": "Binance expands TradFi push with options on 1,000 US stocks, ETFs",
@@ -253,16 +383,6 @@
       "simple_explanation": "The U.S. House on Tuesday voted in favor of a short-term spending measure that would avoid a government shutdown until after November's midterm election."
     },
     {
-      "title": "US stocks today: US stocks end lower as oil, yields raise September jitters",
-      "description": "US stocks started September lower as rising oil prices and Treasury yields heightened inflation and rate concerns. Renewed U.S. strikes on Iranian targets pushed crude higher, while a global bond selloff lifted yields. Markets now price a 68.2% chance of a Fed hike this month.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-lower-as-oil-yields-raise-september-jitters/articleshow/133691517.cms",
-      "image": "https://img.etimg.com/photo/msid-133691517,imgsize-174532.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-01T20:18:02+00:00",
-      "category": "India",
-      "simple_explanation": "US stocks started September lower as rising oil prices and Treasury yields heightened inflation and rate concerns. Renewed U.S. strikes on Iranian targets pushed crude higher, while a global bond sell"
-    },
-    {
       "title": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
       "description": "UK authorities froze $13.5 million in cash following a January 2025 order from the Westminster Magistrates’ Court as part of an investigation into Sorare.",
       "url": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -281,126 +401,6 @@
       "published_at": "2026-09-01T20:00:17+00:00",
       "category": "Crypto",
       "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "U.S. Lithium Miners Finally Have a Shot at Cashing In",
-      "description": "Lithium prices are climbing and U.S. producers are moving to cash in, but analysts warn the rally may not survive past 2027.",
-      "url": "https://finance.yahoo.com/energy/articles/u-lithium-miners-finally-shot-200000010.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-01T20:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Lithium prices are climbing and U.S. producers are moving to cash in, but analysts warn the rally may not survive past 2027."
-    },
-    {
-      "title": "US Oil Tops $90 for First Time Since July Amid Fresh Strikes",
-      "description": "US oil prices topped $90 a barrel for the first time since late July as fresh American strikes on Iran raised concerns about prolonged disruptions to energy flows through the Strait of Hormuz.",
-      "url": "https://www.livemint.com/market/us-oil-tops-90-for-first-time-since-july-amid-fresh-strikes-11788290702226.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-09-01T19:25:01+00:00",
-      "category": "India",
-      "simple_explanation": "US oil prices topped $90 a barrel for the first time since late July as fresh American strikes on Iran raised concerns about prolonged disruptions to energy flows through the Strait of Hormuz."
-    },
-    {
-      "title": "Gold's Powerful Rally Runs Into a New Wall",
-      "description": "Safe-haven demand is losing ground to rising rate expectations",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/golds-powerful-rally-runs-wall-190359442.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-01T19:03:59+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Safe-haven demand is losing ground to rising rate expectations"
-    },
-    {
-      "title": "Cattle futures lower as screwworm restrictions lift",
-      "description": "USA-LIVESTOCK/:LIVESTOCK-Cattle futures lower as screwworm restrictions lift",
-      "url": "https://www.livemint.com/market/cattle-futures-lower-as-screwworm-restrictions-lift-11788289167412.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-      "source": "LiveMint",
-      "published_at": "2026-09-01T18:59:27+00:00",
-      "category": "India",
-      "simple_explanation": "USA-LIVESTOCK/:LIVESTOCK-Cattle futures lower as screwworm restrictions lift"
-    },
-    {
-      "title": "Prediction market traders think job creation rebounded in August",
-      "description": "Traders see 50-50 odds that the U.S. economy added more than 50,000 jobs last month.",
-      "url": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-09-01T18:57:14+00:00",
-      "category": "Global",
-      "simple_explanation": "Traders see 50-50 odds that the U.S. economy added more than 50,000 jobs last month."
-    },
-    {
-      "title": "S&P Global weighs multibillion-dollar spinout of Capital IQ Pro: Report",
-      "description": "S&P Global is considering spinning off Capital IQ Pro into a standalone company that could be valued in the high single-digit billions of dollars, Bloomberg reported. The move could unlock value from its financial data platform as demand for proprietary data grows with artificial intelligence and re",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/sp-global-weighs-multibillion-dollar-spinout-of-capital-iq-pro/articleshow/133690470.cms",
-      "image": "https://img.etimg.com/photo/msid-133690470,imgsize-110642.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-01T18:55:10+00:00",
-      "category": "India",
-      "simple_explanation": "S&P Global is considering spinning off Capital IQ Pro into a standalone company that could be valued in the high single-digit billions of dollars, Bloomberg reported. The move could unlock value from "
-    },
-    {
-      "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
-      "description": "Canadian Prime Minister Mark Carney said \"It's beneath their office' when asked about Trump Cabinet secretaries insulting his nation's military.",
-      "url": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-01T18:52:11+00:00",
-      "category": "USA",
-      "simple_explanation": "Canadian Prime Minister Mark Carney said \"It's beneath their office' when asked about Trump Cabinet secretaries insulting his nation's military."
-    },
-    {
-      "title": "Gold falls to two-week low as rising Treasury yields, dollar weigh",
-      "description": "GLOBAL-PRECIOUS:Gold falls to two-week low as rising Treasury yields, dollar weigh",
-      "url": "https://www.livemint.com/market/gold-falls-to-two-week-low-as-rising-treasury-yields-dollar-weigh-11788288241495.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-09-01T18:44:01+00:00",
-      "category": "India",
-      "simple_explanation": "GLOBAL-PRECIOUS:Gold falls to two-week low as rising Treasury yields, dollar weigh"
-    },
-    {
-      "title": "Wall Street dips as higher yields, rising oil prices mark shaky start to September",
-      "description": "USA-STOCKS/ (UPDATE 5, GRAPHIC):US STOCKS-Wall Street dips as higher yields, rising oil prices mark shaky start to September",
-      "url": "https://www.livemint.com/market/wall-street-dips-as-higher-yields-rising-oil-prices-mark-shaky-start-to-september-11788287811841.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-09-01T18:36:51+00:00",
-      "category": "India",
-      "simple_explanation": "USA-STOCKS/ (UPDATE 5, GRAPHIC):US STOCKS-Wall Street dips as higher yields, rising oil prices mark shaky start to September"
-    },
-    {
-      "title": "SB Energy heads for IPO after Nvidia backs $105 billion OpenAI data-centre project",
-      "description": "SB Energy files for an IPO as Nvidia backs its $105 billion OpenAI data-centre project, despite $3.2 billion losses.",
-      "url": "https://www.livemint.com/market/ipo/sb-energy-heads-for-ipo-after-nvidia-backs-105-billion-openai-data-centre-project-11788283009834.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/01/1600x900/logo/Gemini_Generated_Image_hxz1y8hxz1y8hxz1_1788285099528_1788285106426_bb02f0ea-dadb-4833-bf5b-be67ae5c8d66.png",
-      "source": "LiveMint",
-      "published_at": "2026-09-01T17:58:07+00:00",
-      "category": "India",
-      "simple_explanation": "SB Energy files for an IPO as Nvidia backs its $105 billion OpenAI data-centre project, despite $3.2 billion losses."
-    },
-    {
-      "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
-      "description": "The proposal would modernize rules largely unchanged since the 1980s, addressing blockchain-based recordkeeping, tokenized securities and increasingly automated market infrastructure.",
-      "url": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1EXXYQ2VJS2X4FWYBFN0RBX/sec-v-ripple.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-09-01T17:52:51+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The proposal would modernize rules largely unchanged since the 1980s, addressing blockchain-based recordkeeping, tokenized securities and increasingly automated market infrastructure."
-    },
-    {
-      "title": "Sycamine Capital Management Tracks Gold Three-Month High",
-      "description": "Bullion reaches a three-month high as the conflict involving Iran, a hawkish Federal Reserve, escalating tariffs and record central bank accumulation reshape safe-haven demand, portfolio allocation and long-term precious metals investment strategy.SINGAPORE / ACCESS Newswire / September 1, 2026 / Go",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/sycamine-capital-management-tracks-gold-175000157.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-01T17:50:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Bullion reaches a three-month high as the conflict involving Iran, a hawkish Federal Reserve, escalating tariffs and record central bank accumulation reshape safe-haven demand, portfolio allocation an"
     }
   ]
 }
