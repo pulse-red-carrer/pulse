@@ -1,26 +1,206 @@
 {
-  "last_updated": "2026-09-03T20:35:40.722783+00:00",
+  "last_updated": "2026-09-03T22:59:49.759577+00:00",
   "total": 40,
   "articles": [
+    {
+      "title": "Dow Jones Futures: Stocks Jump On Fed's Waller; Tesla Cybercab Event Private, Jobs Report Looms",
+      "description": "The stock market jumped above key levels Thursday, buoyed by Snowflake and dovish Fed comments. Tesla held a private Cybercab event. The jobs report is on tap.",
+      "url": "https://finance.yahoo.com/m/dd97f557-8162-348b-8996-795ae7092089/dow-jones-futures%3A-stocks.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T22:46:54+00:00",
+      "category": "USA",
+      "simple_explanation": "The stock market jumped above key levels Thursday, buoyed by Snowflake and dovish Fed comments. Tesla held a private Cybercab event. The jobs report is on tap."
+    },
+    {
+      "title": "S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane — SPCX, VSXY, NVDA, TSLA In Focus",
+      "description": "Federal Reserve Governor Christopher Waller advocated leaving rates unchanged, provided inflation showed signs of cooling off.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-best-day-in-a-month/cZsufnBRJvu?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T22:24:58+00:00",
+      "category": "USA",
+      "simple_explanation": "Federal Reserve Governor Christopher Waller advocated leaving rates unchanged, provided inflation showed signs of cooling off."
+    },
+    {
+      "title": "Hemisphere Energy Provides Further Update on Atlee Buffalo Operations",
+      "description": "Vancouver, British Columbia--(Newsfile Corp. - September 3, 2026) - Hemisphere Energy Corporation (TSXV: HME) (OTCQX: HMENF) (\"Hemisphere\" or the \"Company\") is providing a further update on the fire incident at the Company's largest oil battery at its Atlee Buffalo property, previously announced on ",
+      "url": "https://finance.yahoo.com/energy/articles/hemisphere-energy-provides-further-atlee-221600636.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T22:16:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - September 3, 2026) - Hemisphere Energy Corporation (TSXV: HME) (OTCQX: HMENF) (\"Hemisphere\" or the \"Company\") is providing a further update on the fire i"
+    },
+    {
+      "title": "Waste Management (WM) Exceeds Market Returns: Some Facts to Consider",
+      "description": "Waste Management (WM) concluded the recent trading session at $221.72, signifying a +1.22% move from its prior day's close.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/waste-management-wm-exceeds-market-221501351.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T22:15:01+00:00",
+      "category": "USA",
+      "simple_explanation": "Waste Management (WM) concluded the recent trading session at $221.72, signifying a +1.22% move from its prior day's close."
+    },
+    {
+      "title": "Valero Energy (VLO) Laps the Stock Market: Here's Why",
+      "description": "Valero Energy (VLO) reached $370.69 at the closing of the latest trading day, reflecting a +1.26% change compared to its last close.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/valero-energy-vlo-laps-stock-220003359.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T22:00:03+00:00",
+      "category": "USA",
+      "simple_explanation": "Valero Energy (VLO) reached $370.69 at the closing of the latest trading day, reflecting a +1.26% change compared to its last close."
+    },
+    {
+      "title": "Arch Capital Group (ACGL) Outpaces Stock Market Gains: What You Should Know",
+      "description": "Arch Capital Group (ACGL) reached $99.83 at the closing of the latest trading day, reflecting a +1.65% change compared to its last close.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arch-capital-group-acgl-outpaces-220003744.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T22:00:03+00:00",
+      "category": "USA",
+      "simple_explanation": "Arch Capital Group (ACGL) reached $99.83 at the closing of the latest trading day, reflecting a +1.65% change compared to its last close."
+    },
+    {
+      "title": "Boston Scientific (BSX) Stock Declines While Market Improves: Some Information for Investors",
+      "description": "In the most recent trading session, Boston Scientific (BSX) closed at $46.95, indicating a -2.94% shift from the previous trading day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/boston-scientific-bsx-stock-declines-220002935.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T22:00:02+00:00",
+      "category": "USA",
+      "simple_explanation": "In the most recent trading session, Boston Scientific (BSX) closed at $46.95, indicating a -2.94% shift from the previous trading day."
+    },
+    {
+      "title": "Trip.com (TCOM) Stock Declines While Market Improves: Some Information for Investors",
+      "description": "In the latest trading session, Trip.com (TCOM) closed at $41.4, marking a -5.11% move from the previous day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trip-com-tcom-stock-declines-220002256.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T22:00:02+00:00",
+      "category": "USA",
+      "simple_explanation": "In the latest trading session, Trip.com (TCOM) closed at $41.4, marking a -5.11% move from the previous day."
+    },
     {
       "title": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
       "description": "Adobe announced Anil Chakravarthy as its next CEO, replacing Shantanu Narayen, who announced his departure last March.",
       "url": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-09-03T20:32:26+00:00",
+      "published_at": "2026-09-03T21:59:29+00:00",
       "category": "USA",
       "simple_explanation": "Adobe announced Anil Chakravarthy as its next CEO, replacing Shantanu Narayen, who announced his departure last March."
     },
     {
-      "title": "Zscaler stock rises on earnings beat, upbeat guidance",
-      "description": "CEO Jay Chaudhry said he's \"very bullish\" on Zscaler's agentic Zero Trust offering, which is gaining early momentum",
-      "url": "https://www.cnbc.com/2026/09/03/zscaler-zs-q4-earnings-2026.html",
+      "title": "Bitcoin Reclaimed $80,000 After Falling Below $78,000. Can It Hold?",
+      "description": "Bitcoin clawed back above $80,000 on a wave of forced buybacks and easing Iran tensions, but the same combination lifted the price in late August before it collapsed within three days. One jobs report and a Senate procedural vote now stand between Bitcoin and its next move.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/03/bitcoin-reclaimed-80000-after-falling-below-78000-can-it-hold/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T21:48:41+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin clawed back above $80,000 on a wave of forced buybacks and easing Iran tensions, but the same combination lifted the price in late August before it collapsed within three days. One jobs report"
+    },
+    {
+      "title": "Analyst says Bitcoin adoption just surpassed gold and the S&P 500",
+      "description": "Bitcoin has crossed a historic threshold, more people worldwide now own it than hold gold or the S&P 500, according to analyst Willy Woo.",
+      "url": "https://www.thestreet.com/crypto/markets/analyst-says-bitcoin-adoption-just-surpassed-gold-and-the-s-p-500?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T21:40:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin has crossed a historic threshold, more people worldwide now own it than hold gold or the S&P 500, according to analyst Willy Woo."
+    },
+    {
+      "title": "Bitcoin Rally Accelerates After Surprise Fed Signal",
+      "description": "A sudden rate shift just changed crypto's near-term setup",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-accelerates-surprise-fed-213646143.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T21:36:46+00:00",
+      "category": "Crypto",
+      "simple_explanation": "A sudden rate shift just changed crypto's near-term setup"
+    },
+    {
+      "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
+      "description": "The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion.",
+      "url": "https://decrypt.co/377363/bitcoin-mine-ai-deal-1-2-billion?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T21:31:05+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion."
+    },
+    {
+      "title": "Crypto Market Today, Sept. 3: Bitcoin Reclaims $81,000 on Fed Rate Pause Signals",
+      "description": "On Sept. 3, 2026, Fed Governor Waller said he may support holding rates steady, boosting crypto prices.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/03/crypto-market-today-sept-3-bitcoin-reclaims-usd81-000-on-fed-rate-pause-signals/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T21:26:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "On Sept. 3, 2026, Fed Governor Waller said he may support holding rates steady, boosting crypto prices."
+    },
+    {
+      "title": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
+      "description": "The CFTC’s lawyers called the lawsuit “much ado about nothing,“ claiming that the CME Group lacked standing to file and argued against its claims over crypto perpetual futures.",
+      "url": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1MD85WHZ0X0XYT5WKK8H3PD/man-documents-cftc-1.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-09-03T21:09:13+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The CFTC’s lawyers called the lawsuit “much ado about nothing,“ claiming that the CME Group lacked standing to file and argued against its claims over crypto perpetual futures."
+    },
+    {
+      "title": "Trump admin targets tax-exempt status at private colleges — threatening a key tax break for donations",
+      "description": "The Treasury has proposed regulations that would strip thousands of private schools of their tax-exempt status and threaten a valuable tax break for donations.",
+      "url": "https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-09-03T20:31:09+00:00",
+      "published_at": "2026-09-03T21:00:21+00:00",
       "category": "USA",
-      "simple_explanation": "CEO Jay Chaudhry said he's \"very bullish\" on Zscaler's agentic Zero Trust offering, which is gaining early momentum"
+      "simple_explanation": "The Treasury has proposed regulations that would strip thousands of private schools of their tax-exempt status and threaten a valuable tax break for donations."
+    },
+    {
+      "title": "Lululemon stock plunges 15% on disappointing earnings and outlook",
+      "description": "Lululemon posted another quarter of disappointing results and a sales slowdown as the company struggles to turn its business around.",
+      "url": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-03T20:52:03+00:00",
+      "category": "USA",
+      "simple_explanation": "Lululemon posted another quarter of disappointing results and a sales slowdown as the company struggles to turn its business around."
+    },
+    {
+      "title": "Canadas TSX rises, markets assess rate-hike bets",
+      "description": "CANADA-STOCKS/ (UPDATE 1):CANADA STOCKS-Canada's TSX rises, markets assess rate-hike bets",
+      "url": "https://www.livemint.com/market/canadas-tsx-rises-markets-assess-rate-hike-bets-11788468361918.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+      "source": "LiveMint",
+      "published_at": "2026-09-03T20:46:01+00:00",
+      "category": "India",
+      "simple_explanation": "CANADA-STOCKS/ (UPDATE 1):CANADA STOCKS-Canada's TSX rises, markets assess rate-hike bets"
+    },
+    {
+      "title": "Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'",
+      "description": "Canada has retaliated against President Donald Trump's 50% tariffs with \"dollar for dollar\" duties on U.S. goods, which are set to take effect next week.",
+      "url": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-03T20:42:29+00:00",
+      "category": "USA",
+      "simple_explanation": "Canada has retaliated against President Donald Trump's 50% tariffs with \"dollar for dollar\" duties on U.S. goods, which are set to take effect next week."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-09-03T20:30:14+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "title": "US Equity Markets End Higher as Expectations Build for Fed to Keep Rates Steady",
@@ -43,26 +223,6 @@
       "simple_explanation": "The S&P/TSX Composite Index closed sharply higher on Thursday as steep gains in technology stocks ou"
     },
     {
-      "title": "HIVE stock pops 14% as crypto market heats up",
-      "description": "HIVE stock surges nearly 14% on a broader crypto rally.",
-      "url": "https://www.thestreet.com/crypto/markets/hive-stock-pops-13-as-crypto-market-heats-up?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T20:25:28+00:00",
-      "category": "Crypto",
-      "simple_explanation": "HIVE stock surges nearly 14% on a broader crypto rally."
-    },
-    {
-      "title": "Why Did Applied Materials Stock Nearly Triple On Single-Digit Trailing Revenue Growth?",
-      "description": "Applied Materials (AMAT) stock has returned about 180% over the past year, against roughly a fifth for the S&P 500. Nothing in the trailing revenue looks like that. Revenue over the trailing twelve months grew 7.8%. What re-rated the shares was a forecast management raised twice between February and",
-      "url": "https://www.trefis.com/articles/614235/why-did-applied-materials-stock-nearly-triple-on-single-digit-trailing-revenue-growth/2026-09-03?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T20:14:53+00:00",
-      "category": "USA",
-      "simple_explanation": "Applied Materials (AMAT) stock has returned about 180% over the past year, against roughly a fifth for the S&P 500. Nothing in the trailing revenue looks like that. Revenue over the trailing twelve mo"
-    },
-    {
       "title": "US stocks today: Dow soars 600 pts, S&P, Nasdaq over 1% as Fed governor Waller's remarks ease rate hike fears",
       "description": "US stocks rallied over 1% on Thursday as Fed Governor Christopher Waller's comments eased rate hike fears ahead of the US jobs report. The S&P 500, Nasdaq and Dow Jones all gained, while Nvidia and software stocks rose. Broadcom fell after its revenue forecast failed to meet high AI expectations.",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-jump-as-waller-comments-ease-rate-hike-fears/articleshow/133745833.cms",
@@ -71,16 +231,6 @@
       "published_at": "2026-09-03T20:13:46+00:00",
       "category": "India",
       "simple_explanation": "US stocks rallied over 1% on Thursday as Fed Governor Christopher Waller's comments eased rate hike fears ahead of the US jobs report. The S&P 500, Nasdaq and Dow Jones all gained, while Nvidia and so"
-    },
-    {
-      "title": "Fed Rate Comments Spark Powerful Bitcoin, Crypto Rally. Bitcoin ETFs Near Entries.",
-      "description": "Federal Reserve Gov. Christopher Waller sparked a crypto rally Thursday with his interest rate game plan. Several stocks or ETFs surged above key levels.",
-      "url": "https://finance.yahoo.com/m/b261db74-1768-338a-a32a-1eb5542767ee/fed-rate-comments-spark.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T20:12:36+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Federal Reserve Gov. Christopher Waller sparked a crypto rally Thursday with his interest rate game plan. Several stocks or ETFs surged above key levels."
     },
     {
       "title": "Wall Street ends sharply higher as Waller remarks ease rate hike fears",
@@ -93,16 +243,6 @@
       "simple_explanation": "USA-STOCKS/ (UPDATE 6):US STOCKS-Wall Street ends sharply higher as Waller remarks ease rate hike fears"
     },
     {
-      "title": "Sector Update: Financial Stocks Gain Late Afternoon",
-      "description": "Financial stocks were advancing in late Thursday afternoon trading, with the NYSE Financial Index ri",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-gain-afternoon-195745734.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T19:57:45+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Financial stocks were advancing in late Thursday afternoon trading, with the NYSE Financial Index ri"
-    },
-    {
       "title": "Sector Update: Energy Stocks Decline Late Afternoon",
       "description": "Energy stocks were lower late Thursday afternoon, with the NYSE Energy Sector Index decreasing 0.4%",
       "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-195350875.html?.tsrc=rss",
@@ -113,34 +253,14 @@
       "simple_explanation": "Energy stocks were lower late Thursday afternoon, with the NYSE Energy Sector Index decreasing 0.4%"
     },
     {
-      "title": "Update: US Equity Indexes Rise as Plunging Fed Policy Tightening Odds Send Treasury Yields Lower",
-      "description": "(Updates with index/price moves and company news from the first paragraph.) US equity indexes ros",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-plunging-194711218.html?.tsrc=rss",
+      "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
+      "description": "August nonfarm payrolls are expected to rise by 53,000 as a subdued labor market keeps Fed attention focused on inflation.",
+      "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
       "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T19:47:11+00:00",
+      "source": "CNBC",
+      "published_at": "2026-09-03T19:38:09+00:00",
       "category": "USA",
-      "simple_explanation": "(Updates with index/price moves and company news from the first paragraph.) US equity indexes ros"
-    },
-    {
-      "title": "Down almost 80%, is Nike stock undervalued or a value trap?",
-      "description": "Nike stock has crashed nearly 80% from its peak. Here is what stabilizing margins and fresh price targets say about its next move.",
-      "url": "https://www.thestreet.com/investing/stocks/nke-nike-stock-undervalued-or-value-trap?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T19:47:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Nike stock has crashed nearly 80% from its peak. Here is what stabilizing margins and fresh price targets say about its next move."
-    },
-    {
-      "title": "Fidelity flags a long-term threat hiding in Bitcoin's code",
-      "description": "Fidelity Digital Assets published a report on how Bitcoin could adapt to quantum computing through new signature schemes.",
-      "url": "https://www.thestreet.com/crypto/markets/fidelity-flags-a-long-term-threat-hiding-in-bitcoins-code?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T19:46:07+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Fidelity Digital Assets published a report on how Bitcoin could adapt to quantum computing through new signature schemes."
+      "simple_explanation": "August nonfarm payrolls are expected to rise by 53,000 as a subdued labor market keeps Fed attention focused on inflation."
     },
     {
       "title": "Divide over yields: Fed officials see a stronger economy, Wall Street frets over oil prices and deficits.",
@@ -163,26 +283,6 @@
       "simple_explanation": "Mantle has added Paxos-issued USDG as a natively minted stablecoin while joining the network’s reward-sharing structure."
     },
     {
-      "title": "Fed's bar to hike rates is higher than the bar to hold steady: Strategist",
-      "description": "US stocks (^DJI, ^IXIC, ^GSPC) are gaining while bond yields (^TYX, ^TNX, ^FVX) ease. This comes after Federal Reserve governor Christopher Waller's latest remarks signaled officials' willingness to hold interest rates steady rather than rush into hiking rates. Carson Group chief macro strategist So",
-      "url": "https://finance.yahoo.com/video/feds-bar-to-hike-rates-is-higher-than-the-bar-to-hold-steady-strategist-193100056.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T19:31:00+00:00",
-      "category": "USA",
-      "simple_explanation": "US stocks (^DJI, ^IXIC, ^GSPC) are gaining while bond yields (^TYX, ^TNX, ^FVX) ease. This comes after Federal Reserve governor Christopher Waller's latest remarks signaled officials' willingness to h"
-    },
-    {
-      "title": "Why Is Bitcoin Up Today?",
-      "description": "A Federal Reserve governor signaled that interest rates may stay where they are, helping Bitcoin recover from its slide earlier in the week.",
-      "url": "https://www.fool.com/investing/2026/09/03/why-is-bitcoin-up-today/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T19:23:01+00:00",
-      "category": "Crypto",
-      "simple_explanation": "A Federal Reserve governor signaled that interest rates may stay where they are, helping Bitcoin recover from its slide earlier in the week."
-    },
-    {
       "title": "Vance says Fed should lower interest rates: 'Would be nice to have some help'",
       "description": "Vice President J.D. Vance's remarks came less than two weeks before the Federal Open Market Committee is set to convene and decide whether to adjust rates.",
       "url": "https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html",
@@ -193,26 +293,6 @@
       "simple_explanation": "Vice President J.D. Vance's remarks came less than two weeks before the Federal Open Market Committee is set to convene and decide whether to adjust rates."
     },
     {
-      "title": "Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'",
-      "description": "Canada has retaliated against President Donald Trump's 50% tariffs with \"dollar for dollar\" duties on U.S. goods, which are set to take effect next week.",
-      "url": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-03T19:16:10+00:00",
-      "category": "USA",
-      "simple_explanation": "Canada has retaliated against President Donald Trump's 50% tariffs with \"dollar for dollar\" duties on U.S. goods, which are set to take effect next week."
-    },
-    {
-      "title": "The Market Marked ZM Down. The Numbers Push Back",
-      "description": "The video platform that defined an era now trades at a fraction of the market's price, forcing investors to decide if the markdown is a miscalculation or a final verdict.",
-      "url": "https://www.trefis.com/articles/614044/the-market-marked-zm-down-the-numbers-push-back-2/2026-09-03?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T19:14:58+00:00",
-      "category": "USA",
-      "simple_explanation": "The video platform that defined an era now trades at a fraction of the market's price, forcing investors to decide if the markdown is a miscalculation or a final verdict."
-    },
-    {
       "title": "Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms",
       "description": "Kalshi previously said it had been placed in an “impossible position” after federal authorities directed the company to ignore a Michigan restraining order issued in June.",
       "url": "https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -221,26 +301,6 @@
       "published_at": "2026-09-03T19:11:46+00:00",
       "category": "Crypto",
       "simple_explanation": "Kalshi previously said it had been placed in an “impossible position” after federal authorities directed the company to ignore a Michigan restraining order issued in June."
-    },
-    {
-      "title": "Bitcoin Climbs to Highest Intraday Level Since May as Risk Assets Get Boost From Waller’s Comments",
-      "description": "The price of the world’s most well-known cryptocurrency surged along with major stock indexes Thursday.",
-      "url": "https://www.investopedia.com/bitcoin-sets-fresh-intraday-high-since-august-breakout-hood-mstr-coin-12102940?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T19:03:42+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The price of the world’s most well-known cryptocurrency surged along with major stock indexes Thursday."
-    },
-    {
-      "title": "VZ Keeps Climbing. Should You Climb On?",
-      "description": "This telecom giant is on a tear, but for investors arriving at the high, the real question is whether the engine has enough fuel left for another lap.",
-      "url": "https://www.trefis.com/articles/614046/vz-keeps-climbing-should-you-climb-on/2026-09-03?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T19:02:46+00:00",
-      "category": "USA",
-      "simple_explanation": "This telecom giant is on a tear, but for investors arriving at the high, the real question is whether the engine has enough fuel left for another lap."
     },
     {
       "title": "US yields decline as Waller comments dent rate hike expectations",
@@ -283,16 +343,6 @@
       "simple_explanation": "Polymarket has launched perpetual futures contracts tied to oil, stepping into a market that rival Kalshi Inc. is also seeking to enter as trading venues compete to offer round-the-clock access to the"
     },
     {
-      "title": "3 P&C Insurers to Add for Better Returns in Sluggish September",
-      "description": "Allstate, Heritage Insurance and American Integrity stand out as value picks, backed by premium growth, underwriting discipline and portfolio gains.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-p-c-insurers-add-181600648.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T18:16:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Allstate, Heritage Insurance and American Integrity stand out as value picks, backed by premium growth, underwriting discipline and portfolio gains."
-    },
-    {
       "title": "Fed's Waller says safety premium for Treasuries is gone, pushing neutral rate higher",
       "description": "Fed Governor Christopher Waller said the loss of the traditional safety premium on US Treasuries is pushing the neutral interest rate higher, potentially keeping borrowing costs elevated. He also warned that the US cannot simply grow its way out of its $40 trillion debt burden without bringing struc",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-waller-says-safety-premium-for-treasuries-is-gone-pushing-neutral-rate-higher/articleshow/133743982.cms",
@@ -301,26 +351,6 @@
       "published_at": "2026-09-03T18:11:55+00:00",
       "category": "India",
       "simple_explanation": "Fed Governor Christopher Waller said the loss of the traditional safety premium on US Treasuries is pushing the neutral interest rate higher, potentially keeping borrowing costs elevated. He also warn"
-    },
-    {
-      "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
-      "description": "OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra.",
-      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-03T18:00:02+00:00",
-      "category": "USA",
-      "simple_explanation": "OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra."
-    },
-    {
-      "title": "Sector Update: Energy Stocks Decline Thursday Afternoon",
-      "description": "Energy stocks were lower Thursday afternoon, with the NYSE Energy Sector Index down 0.1% and the Sta",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-thursday-175851840.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T17:58:51+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Energy stocks were lower Thursday afternoon, with the NYSE Energy Sector Index down 0.1% and the Sta"
     },
     {
       "title": "Top stocks to watch tomorrow, Sept 4 and reasons why they are in focus for Friday’s trading session",
@@ -343,16 +373,6 @@
       "simple_explanation": "US 30-year mortgage rates have climbed to their highest level in more than a year, adding to affordability pressures for homebuyers. The rise comes as Treasury yields remain elevated amid inflation co"
     },
     {
-      "title": "Fidelity 401(k) balances hit record high in Q2 2026",
-      "description": "The rebound follows a market sell-off earlier in the year, though a rising share of workers also tapped their accounts for emergency cash",
-      "url": "https://qz.com/fidelity-401k-ira-retirement-balances-record-q2-2026-090326?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T17:19:14+00:00",
-      "category": "USA",
-      "simple_explanation": "The rebound follows a market sell-off earlier in the year, though a rising share of workers also tapped their accounts for emergency cash"
-    },
-    {
       "title": "Bybit Pay integrates with Mesh to expand crypto payments",
       "description": "The integration lets Bybit users spend digital assets directly from their exchange balances across Mesh-powered platforms.",
       "url": "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -361,26 +381,6 @@
       "published_at": "2026-09-03T17:13:04+00:00",
       "category": "Crypto",
       "simple_explanation": "The integration lets Bybit users spend digital assets directly from their exchange balances across Mesh-powered platforms."
-    },
-    {
-      "title": "Dow rises 635 points on Fed rate-hold hopes, Sep. 3, 2026",
-      "description": "Federal Reserve Governor Christopher Waller said he would support holding rates steady if upcoming inflation data is supportive",
-      "url": "https://qz.com/dow-sp500-nasdaq-rally-fed-waller-rates-090326?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T17:08:55+00:00",
-      "category": "USA",
-      "simple_explanation": "Federal Reserve Governor Christopher Waller said he would support holding rates steady if upcoming inflation data is supportive"
-    },
-    {
-      "title": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026",
-      "description": "The UK political party and its leader, Nigel Farage, have accepted contributions from figures tied to the crypto industry, raising questions about potential influence on policies.",
-      "url": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KWG2BF4FVCFASCKG2BAG5D/peace-and-friendship-uk-1.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-09-03T17:06:28+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The UK political party and its leader, Nigel Farage, have accepted contributions from figures tied to the crypto industry, raising questions about potential influence on policies."
     },
     {
       "title": "NSE pre-open session rules to change from September 7: Here's how the new system will work",
