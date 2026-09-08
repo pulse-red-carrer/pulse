@@ -1,56 +1,206 @@
 {
-  "last_updated": "2026-09-08T21:36:44.645568+00:00",
+  "last_updated": "2026-09-08T23:52:25.576413+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "LIV Golf files for Chapter 11 bankruptcy",
-      "description": "As part of the proposed bankruptcy deal, the upstart golf venture is expected to be majority owned by its players.",
-      "url": "https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-08T21:28:49+00:00",
-      "category": "USA",
-      "simple_explanation": "As part of the proposed bankruptcy deal, the upstart golf venture is expected to be majority owned by its players."
-    },
-    {
-      "title": "Bitcoin Volatility Is Near Historic Lows With 71% of Supply in Profit. What That Actually Describes",
-      "description": "Bitcoin is sitting in an unusually calm stretch with a large share of its supply quietly turning profitable, but that combination carries a hidden tension that could flip the market in either direction before September ends.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/08/bitcoin-volatility-is-near-historic-lows-with-71-of-supply-in-profit-what-that-actually-describes/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T21:25:05+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin is sitting in an unusually calm stretch with a large share of its supply quietly turning profitable, but that combination carries a hidden tension that could flip the market in either directio"
-    },
-    {
-      "title": "Dow Jones Futures: Dow Breaks Support But AMD, HPE Are New Buys; Apple iPhone Event Due",
-      "description": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap.",
-      "url": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures%3A-dow-breaks.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T21:24:25+00:00",
-      "category": "USA",
-      "simple_explanation": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap."
-    },
-    {
-      "title": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait",
+      "title": "U.S. military destroys five Iranian oil tankers after attempted attack on American warship, Centcom says",
       "description": "The U.S. and Iran traded new attacks around the Strait of Hormuz, as President Donald Trump insists oil prices will drop fast once the Iran war ends.",
       "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-09-08T21:06:31+00:00",
+      "published_at": "2026-09-08T23:36:53+00:00",
       "category": "USA",
       "simple_explanation": "The U.S. and Iran traded new attacks around the Strait of Hormuz, as President Donald Trump insists oil prices will drop fast once the Iran war ends."
     },
     {
-      "title": "Goldman Is Paying $2.25 Billion for the Firm Behind This Bitcoin Income Fund",
-      "description": "Goldman Sachs just agreed to pay $2.25 billion for the firm behind a popular Bitcoin income ETF, and now shareholders face a question that cuts to the heart of why they bought in: does this fund still belong in their portfolio?",
-      "url": "https://247wallst.com/investing/etf/2026/09/08/goldman-is-paying-2-25-billion-for-the-firm-behind-this-bitcoin-income-fund/?.tsrc=rss",
+      "title": "Trump’s Bombardier warning triggers $80 million jet listing",
+      "description": "As Trump warns Bombardier to either build in the U.S. or face exit, a 2024 Global 7500 jet gets listed for sale.",
+      "url": "https://www.thestreet.com/crypto/markets/trumps-bombardier-warning-triggers-80-million-jet-listing?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-08T21:05:57+00:00",
+      "published_at": "2026-09-08T23:30:00+00:00",
       "category": "Crypto",
-      "simple_explanation": "Goldman Sachs just agreed to pay $2.25 billion for the firm behind a popular Bitcoin income ETF, and now shareholders face a question that cuts to the heart of why they bought in: does this fund still"
+      "simple_explanation": "As Trump warns Bombardier to either build in the U.S. or face exit, a 2024 Global 7500 jet gets listed for sale."
+    },
+    {
+      "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
+      "description": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap.",
+      "url": "https://finance.yahoo.com/m/61edb329-2f31-3e10-8832-6860b7819ab2/dow-jones-futures%3A-dow-skids.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T23:27:54+00:00",
+      "category": "USA",
+      "simple_explanation": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap."
+    },
+    {
+      "title": "1 S&P 500 Stock with Exciting Potential and 2 We Ignore",
+      "description": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-exciting-232718587.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T23:27:18+00:00",
+      "category": "USA",
+      "simple_explanation": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headw"
+    },
+    {
+      "title": "Strategy just dropped $250 'Bitcoin' Jordans with one big catch",
+      "description": "The company holding 845,050 Bitcoin just sold out a limited sneaker drop. It only took cash.",
+      "url": "https://www.thestreet.com/crypto/lifestyle/strategy-just-dropped-250-bitcoin-jordans-with-one-big-catch?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T23:00:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The company holding 845,050 Bitcoin just sold out a limited sneaker drop. It only took cash."
+    },
+    {
+      "title": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data — META, QCOM, BE, AMZN, AVGO In Focus",
+      "description": "The U.S. struck targets near Kharg Island and the port city of Jask, Fox News reported.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-middle-east-tensions-spur-oil-rally/cZtEOUNRJyE?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T22:46:39+00:00",
+      "category": "USA",
+      "simple_explanation": "The U.S. struck targets near Kharg Island and the port city of Jask, Fox News reported."
+    },
+    {
+      "title": "Strategy doubles STRC buyback to $2 billion as Bitcoin treasury grows",
+      "description": "Michael Saylor announces expanded repurchase program alongside $6.5 billion in USD assets, signaling renewed balance sheet confidence.",
+      "url": "https://www.thestreet.com/crypto/markets/strategy-doubles-strc-buyback-to-2-billion-as-bitcoin-holdings-hit-845050-btc?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T22:30:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Michael Saylor announces expanded repurchase program alongside $6.5 billion in USD assets, signaling renewed balance sheet confidence."
+    },
+    {
+      "title": "Why M/I Homes (MHO) Dipped More Than Broader Market Today",
+      "description": "M/I Homes (MHO) closed the most recent trading day at $143.29, moving 3.35% from the previous trading session.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-m-homes-mho-dipped-221504635.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T22:15:04+00:00",
+      "category": "USA",
+      "simple_explanation": "M/I Homes (MHO) closed the most recent trading day at $143.29, moving 3.35% from the previous trading session."
+    },
+    {
+      "title": "Rithm (RITM) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "description": "The latest trading day saw Rithm (RITM) settling at $9.95, representing a -1.29% change from its previous close.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rithm-ritm-registers-bigger-fall-221504843.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T22:15:04+00:00",
+      "category": "USA",
+      "simple_explanation": "The latest trading day saw Rithm (RITM) settling at $9.95, representing a -1.29% change from its previous close."
+    },
+    {
+      "title": "Why the Market Dipped But Oneok Inc. (OKE) Gained Today",
+      "description": "Oneok Inc. (OKE) closed at $97.51 in the latest trading session, marking a +2.18% move from the prior day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-oneok-inc-221504683.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T22:15:04+00:00",
+      "category": "USA",
+      "simple_explanation": "Oneok Inc. (OKE) closed at $97.51 in the latest trading session, marking a +2.18% move from the prior day."
+    },
+    {
+      "title": "BlackRock (BLK) Declines More Than Market: Some Information for Investors",
+      "description": "BlackRock (BLK) concluded the recent trading session at $1, signifying a -2.4% move from its prior day's close.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-declines-more-market-221503106.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T22:15:03+00:00",
+      "category": "USA",
+      "simple_explanation": "BlackRock (BLK) concluded the recent trading session at $1, signifying a -2.4% move from its prior day's close."
+    },
+    {
+      "title": "Lennar (LEN) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "description": "In the closing of the recent trading day, Lennar (LEN) stood at $80.37, denoting a -3.84% move from the preceding trading day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lennar-len-registers-bigger-fall-221503816.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T22:15:03+00:00",
+      "category": "USA",
+      "simple_explanation": "In the closing of the recent trading day, Lennar (LEN) stood at $80.37, denoting a -3.84% move from the preceding trading day."
+    },
+    {
+      "title": "Block applies for OCC charter to launch digital asset trust bank",
+      "description": "Investing.com -- Block Inc (NYSE:XYZ) has filed an application with the Office of the Comptroller of the Currency to charter Builders Bank & Trust, N.A., a specialized national trust bank focused on providing digital asset custody and fiduciary services. If approved, the uninsured, non-deposit-takin",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/block-applies-occ-charter-launch-220414824.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T22:04:14+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Investing.com -- Block Inc (NYSE:XYZ) has filed an application with the Office of the Comptroller of the Currency to charter Builders Bank & Trust, N.A., a specialized national trust bank focused on p"
+    },
+    {
+      "title": "AI infrastructure stocks rally on deal announcements from Qualcomm, Corning",
+      "description": "Shares of Qualcom, Corning, Intel, Advanced Micro Devices and others tied to the AI infrastructure trade popped on Tuesday.",
+      "url": "https://www.cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-08T22:02:53+00:00",
+      "category": "USA",
+      "simple_explanation": "Shares of Qualcom, Corning, Intel, Advanced Micro Devices and others tied to the AI infrastructure trade popped on Tuesday."
+    },
+    {
+      "title": "Marjorie Taylor Greene Says California Diesel Will Top $8/Gallon, Slams Trump Over His Iran War Victory Claim as Fuel Costs Surpass $100 Billion: ‘So Much Winning’",
+      "description": "Former Congresswoman Marjorie Taylor Greene has criticized President Donald Trump as gas prices continue to hit record highs amid escalating tensions between Washington and Tehran. $8 Diesel in California Greene delivered sharp criticism of Trump via a post on the...",
+      "url": "https://finance.yahoo.com/energy/articles/marjorie-taylor-greene-says-california-220014565.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T22:00:14+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Former Congresswoman Marjorie Taylor Greene has criticized President Donald Trump as gas prices continue to hit record highs amid escalating tensions between Washington and Tehran. $8 Diesel in Califo"
+    },
+    {
+      "title": "Hunter Biden's laptop now has its own meme coin",
+      "description": "Scott Melker discusses Hunter Biden launching a meme coin based on his laptop that caused controversy during the 2020 presidential election. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's n",
+      "url": "https://finance.yahoo.com/video/hunter-bidens-laptop-now-own-220000336.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T22:00:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Scott Melker discusses Hunter Biden launching a meme coin based on his laptop that caused controversy during the 2020 presidential election. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 "
+    },
+    {
+      "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
+      "description": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
+      "url": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-09-08T21:59:13+00:00",
+      "category": "Global",
+      "simple_explanation": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees."
+    },
+    {
+      "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
+      "description": "In a letter to Ford CEO Jim Farley, U.S. DOT Secretary Sean Duffy questioned the automaker's strategic trajectory involving Chinese companies.",
+      "url": "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-08T21:37:12+00:00",
+      "category": "USA",
+      "simple_explanation": "In a letter to Ford CEO Jim Farley, U.S. DOT Secretary Sean Duffy questioned the automaker's strategic trajectory involving Chinese companies."
+    },
+    {
+      "title": "New York town weighs crypto mining and AI data center ban",
+      "description": "One of the first towns in the US to ban Bitcoin mining for 18 months is considering another temporary moratorium extending to data centers and other crypto mining operations.",
+      "url": "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M21D11KB4BXD9GBM5H39S2WK/hi-anti-dumping-policy-in-crypto-bitcoin-miner.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-09-08T21:33:49+00:00",
+      "category": "Crypto",
+      "simple_explanation": "One of the first towns in the US to ban Bitcoin mining for 18 months is considering another temporary moratorium extending to data centers and other crypto mining operations."
+    },
+    {
+      "title": "Crypto Market Today, Sept. 8: Bitcoin Slides as Fed Hike Odds Pass 60%",
+      "description": "On Sept. 8, 2026, macro caution and a Bitcoin Liquid Network exploit weighed on sentiment, while Ethereum's push for quantum resistance and corporate accumulation helped it pare losses.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/08/crypto-market-today-sept-8-bitcoin-slides-as-fed-hike-odds-pass-60/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T21:32:22+00:00",
+      "category": "Crypto",
+      "simple_explanation": "On Sept. 8, 2026, macro caution and a Bitcoin Liquid Network exploit weighed on sentiment, while Ethereum's push for quantum resistance and corporate accumulation helped it pare losses."
     },
     {
       "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
@@ -89,58 +239,8 @@
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-09-08T20:56:51+00:00",
-      "category": "USA",
+      "category": "Commodities",
       "simple_explanation": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par"
-    },
-    {
-      "title": "Stock Market Today: Dow Dives, Qualcomm Clears Key Level On Amazon Deal; Fertilizer Leader Rises (Live Coverage)",
-      "description": "The Dow Jones index falls on the stock market today as Amgen plummets. Fertilizer stocks rose amid more U.S.-Iran tensions. SK Hynix shines.",
-      "url": "https://finance.yahoo.com/m/e8996bc1-197c-3547-a5f4-23a6a4308b86/stock-market-today%3A-dow.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T20:51:53+00:00",
-      "category": "USA",
-      "simple_explanation": "The Dow Jones index falls on the stock market today as Amgen plummets. Fertilizer stocks rose amid more U.S.-Iran tensions. SK Hynix shines."
-    },
-    {
-      "title": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'",
-      "description": "The hackers have returned 3,400 of the roughly 4,000 BTC drained from the sidechain, but about 600 BTC remains outstanding—and some doubt the actors' \"white hat\" claims.",
-      "url": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T20:46:34+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The hackers have returned 3,400 of the roughly 4,000 BTC drained from the sidechain, but about 600 BTC remains outstanding—and some doubt the actors' \"white hat\" claims."
-    },
-    {
-      "title": "HSBC Revamps S&P 500 Target for Rest of 2026",
-      "description": "One of Wall Street's biggest banks just turned more bullish",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-revamps-p-500-target-204551735.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T20:45:51+00:00",
-      "category": "USA",
-      "simple_explanation": "One of Wall Street's biggest banks just turned more bullish"
-    },
-    {
-      "title": "Metaplanet Froze a 319 Million Share Insider Pool It Admits Amplified Dilution",
-      "description": "Metaplanet froze a 319 million share insider pool after admitting the mechanism amplified shareholder dilution.",
-      "url": "https://beincrypto.com/metaplanet-319m-insider-share-pool-dilution/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T20:42:57+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Metaplanet froze a 319 million share insider pool after admitting the mechanism amplified shareholder dilution."
-    },
-    {
-      "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
-      "description": "In a letter to Ford CEO Jim Farley, U.S. DOT Secretary Sean Duffy questioned the automaker's strategic trajectory involving Chinese companies.",
-      "url": "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-08T20:40:44+00:00",
-      "category": "USA",
-      "simple_explanation": "In a letter to Ford CEO Jim Farley, U.S. DOT Secretary Sean Duffy questioned the automaker's strategic trajectory involving Chinese companies."
     },
     {
       "title": "Oil prices jump, stocks drop as Mideast war flares",
@@ -149,7 +249,7 @@
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-09-08T20:37:07+00:00",
-      "category": "USA",
+      "category": "Commodities",
       "simple_explanation": "World oil prices climbed Tuesday, once more closing in on $100 a barrel, and stock markets mostly retreated owing to a flare-up in the Middle East war.A note from Eurasia Group said oil \"will likely r"
     },
     {
@@ -183,26 +283,6 @@
       "simple_explanation": "The S&P/TSX Composite Index closed sharply lower on Tuesday as weakness in base metals and energy st"
     },
     {
-      "title": "Trump is now a Bitcoin billionaire, here's how big he'd get if he went all in",
-      "description": "Donald Trump didn’t set out to become a crypto mogul, but the numbers say he already is one, and his Bitcoin footprint is only growing.",
-      "url": "https://www.thestreet.com/crypto/markets/trump-is-now-a-bitcoin-billionaire-heres-how-big-hed-get-if-he-went-all-in?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T20:17:15+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Donald Trump didn’t set out to become a crypto mogul, but the numbers say he already is one, and his Bitcoin footprint is only growing."
-    },
-    {
-      "title": "FOMC September 2026 Odds for a Rate Hike Surpass 50%",
-      "description": "Traders using the CME’s FedWatch tool put the FOMC September 2026 odds of a 25-basis-point rate hike at the Federal Reserve’s September 16 meeting at nearly 56%, CNBC reported. The change followed Federal Reserve Chairman Kevin Warsh’s keynote speech at the central bank’s Jackson Hole symposium and ",
-      "url": "https://cryptonews.com/news/cme-fedwatch-fomc-september-2026-odds-rate-hike-50/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T20:16:18+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Traders using the CME’s FedWatch tool put the FOMC September 2026 odds of a 25-basis-point rate hike at the Federal Reserve’s September 16 meeting at nearly 56%, CNBC reported. The change followed Fed"
-    },
-    {
       "title": "US stocks today: US stocks slip as AI fears weigh on software, while oil and rate bets add pressure",
       "description": "US stocks fell as renewed AI disruption fears hit software shares, while rising oil prices and shifting Federal Reserve rate expectations added pressure to markets. The S&P 500, Nasdaq and Dow declined as investors awaited inflation data, weighed Middle East tensions and reassessed the outlook for i",
       "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-slip-as-ai-fears-weigh-on-software-while-oil-and-rate-bets-add-pressure/articleshow/133940798.cms",
@@ -223,26 +303,6 @@
       "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Oil Rise Deepens Inflation Fears, Sending Dow Down 1%",
-      "description": "Oil futures neared $100 a barrel as the war in Iran dragged on, weighing on stocks. The Dow Jones Industrial Average slipped 1.2%, or 626 points. The S&P 500 dropped 0.6%. The Nasdaq Composite dipped 0.",
-      "url": "https://finance.yahoo.com/m/957d968d-3178-3890-8e73-94f3c915e5b2/oil-rise-deepens-inflation.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T20:02:25+00:00",
-      "category": "USA",
-      "simple_explanation": "Oil futures neared $100 a barrel as the war in Iran dragged on, weighing on stocks. The Dow Jones Industrial Average slipped 1.2%, or 626 points. The S&P 500 dropped 0.6%. The Nasdaq Composite dipped "
-    },
-    {
-      "title": "1 Restaurant Stock to Consider Right Now and 2 That Underwhelm",
-      "description": "From fast food to fine dining, restaurants play a vital societal role. Still, their demand can ebb and flow with the broader economy because consumers can always cook meals at home when times are tough. This makes spending somewhat unpredictable and has held back the industry over the past six month",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-restaurant-stock-consider-now-195918710.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T19:59:18+00:00",
-      "category": "USA",
-      "simple_explanation": "From fast food to fine dining, restaurants play a vital societal role. Still, their demand can ebb and flow with the broader economy because consumers can always cook meals at home when times are toug"
-    },
-    {
       "title": "Yen holds near seven-month high as US dollar steadies",
       "description": "GLOBAL-FOREX/ (UPDATE 2):FOREX-Yen holds near seven-month high as US dollar steadies",
       "url": "https://www.livemint.com/market/yen-holds-near-seven-month-high-as-us-dollar-steadies-11788897469720.html",
@@ -251,16 +311,6 @@
       "published_at": "2026-09-08T19:57:49+00:00",
       "category": "India",
       "simple_explanation": "GLOBAL-FOREX/ (UPDATE 2):FOREX-Yen holds near seven-month high as US dollar steadies"
-    },
-    {
-      "title": "Update: US Equity Indexes Retreat as Houthi Strikes on Saudi Arabian Energy Facilities Lift Crude Oil, Treasury Yields",
-      "description": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-retreat-houthi-195634509.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T19:56:34+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe"
     },
     {
       "title": "Bessent’s ‘Fever’-Quelling Debt Buybacks Put Wall Street on Edge",
@@ -283,56 +333,6 @@
       "simple_explanation": "The growing list of US credit busts, from subprime auto lender Tricolor Holdings to Broadband Telecom Inc., raises a troubling question: If such “cockroaches” proliferate — if many more enterprises co"
     },
     {
-      "title": "Labor Day weekend 2026 saw the most expesnive gas prices ever",
-      "description": "GasBuddy Head of Petroleum Analysis Patrick De Haan joins Market Domination host Josh Lipton to talk about national gas prices hitting an all-time high for a Labor Day weekend in 2026 and what would happen if prices hit an average of $5 per gallon.",
-      "url": "https://finance.yahoo.com/video/labor-day-weekend-2026-saw-192942400.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T19:29:42+00:00",
-      "category": "Commodities",
-      "simple_explanation": "GasBuddy Head of Petroleum Analysis Patrick De Haan joins Market Domination host Josh Lipton to talk about national gas prices hitting an all-time high for a Labor Day weekend in 2026 and what would h"
-    },
-    {
-      "title": "3 S&P 500 Stocks That Fall Short",
-      "description": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, heavy debt, or disruptive new competitors.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-fall-192718950.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T19:27:18+00:00",
-      "category": "USA",
-      "simple_explanation": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, h"
-    },
-    {
-      "title": "New Hampshire goes to the polls in primary for key open Senate seat",
-      "description": "Incumbent Sen. Jeanne Shaheen, D-N.H., will retire when her term ends in January.",
-      "url": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-08T19:25:59+00:00",
-      "category": "USA",
-      "simple_explanation": "Incumbent Sen. Jeanne Shaheen, D-N.H., will retire when her term ends in January."
-    },
-    {
-      "title": "Oil prices rise as Iran, Oman near Strait of Hormuz agreement",
-      "description": "Oil prices (CL=F, BZ=F) are creeping closer to $100 per barrel as Iran nears a deal with Oman to manage shipping traffic through the Strait of Hormuz. Yahoo Finance Breaking Business News Reporter Jake Conley comes on Market Domination to discuss the latest geopolitical tensions coming from the Midd",
-      "url": "https://finance.yahoo.com/video/oil-prices-rise-as-iran-oman-near-strait-of-hormuz-agreement-192316641.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T19:23:16+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil prices (CL=F, BZ=F) are creeping closer to $100 per barrel as Iran nears a deal with Oman to manage shipping traffic through the Strait of Hormuz. Yahoo Finance Breaking Business News Reporter Jak"
-    },
-    {
-      "title": "Everpure to Join the S&P 500",
-      "description": "Everpure (NYSE: P), the company revolutionizing storage and data management, today announced it will join the S&P 500, effective prior to the open of trading on Monday, September 21, 2026.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/everpure-join-p-500-190000378.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T19:00:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Everpure (NYSE: P), the company revolutionizing storage and data management, today announced it will join the S&P 500, effective prior to the open of trading on Monday, September 21, 2026."
-    },
-    {
       "title": "China Adds 650,000 Ounces of Gold in Biggest Monthly Buy Since 2023",
       "description": "China's central bank added 650,000 ounces of gold in August, its biggest monthly buy since 2023, even as rate-hike bets pressure bullion.",
       "url": "https://finance.yahoo.com/markets/commodities/articles/china-adds-650-000-ounces-190000241.html?.tsrc=rss",
@@ -341,16 +341,6 @@
       "published_at": "2026-09-08T19:00:00+00:00",
       "category": "Commodities",
       "simple_explanation": "China's central bank added 650,000 ounces of gold in August, its biggest monthly buy since 2023, even as rate-hike bets pressure bullion."
-    },
-    {
-      "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
-      "description": "Bitcoin is defending its golden zone support while the S&P 500 grinds inside its tightest range yet, both waiting on Friday's inflation report before the Fed's September 16 rate call.",
-      "url": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-08T18:59:35+00:00",
-      "category": "USA",
-      "simple_explanation": "Bitcoin is defending its golden zone support while the S&P 500 grinds inside its tightest range yet, both waiting on Friday's inflation report before the Fed's September 16 rate call."
     },
     {
       "title": "Yields edge up as traders await inflation data",
@@ -401,6 +391,16 @@
       "published_at": "2026-09-08T17:57:32+00:00",
       "category": "India",
       "simple_explanation": "Asset Reconstruction Company India has raised Rs 220 crore from anchor investors ahead of its IPO, which opens on September 9. The company allotted 1.58 crore shares to 21 investors at Rs 139 each. Go"
+    },
+    {
+      "title": "NSE likely to price IPO at Rs 1,700-1,785 per share after a cut, say sources",
+      "description": "National Stock Exchange of India is likely to price its long-awaited IPO at Rs 1,700-1,785 a share, below its earlier range of Rs 2,000-2,100. The exchange may also reduce the stake on offer to 5.5%, valuing NSE at up to 4.42 trillion rupees.",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-set-to-price-india-ipo-at-rs-1700-to-rs-1785-a-share/articleshow/133935920.cms",
+      "image": "https://img.etimg.com/photo/msid-133935920,imgsize-43030.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-08T17:40:59+00:00",
+      "category": "India",
+      "simple_explanation": "National Stock Exchange of India is likely to price its long-awaited IPO at Rs 1,700-1,785 a share, below its earlier range of Rs 2,000-2,100. The exchange may also reduce the stake on offer to 5.5%, "
     }
   ]
 }
