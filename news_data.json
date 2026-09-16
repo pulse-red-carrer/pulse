@@ -1,16 +1,136 @@
 {
-  "last_updated": "2026-09-16T09:42:37.889020+00:00",
+  "last_updated": "2026-09-16T14:39:03.052454+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Bitcoin, COIN, CRCL Under Pressure After CLARITY Act Vote Stalls: Here’s What Crypto Traders Are Watching",
-      "description": "The failed vote leaves regulatory rulemaking in greater focus as lawmakers remain divided over the crypto market structure bill.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/coin-crcl-in-focus-industry-eyes-plan-b-after-clarity-act-fails/cZtYfu5RB2n?.tsrc=rss",
+      "title": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market",
+      "description": "New Zealand's $54 billion pension fund returned 14.2% in the year to June.",
+      "url": "https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-16T14:31:24+00:00",
+      "category": "USA",
+      "simple_explanation": "New Zealand's $54 billion pension fund returned 14.2% in the year to June."
+    },
+    {
+      "title": "Anthropic, OpenAI's proposed AI risk evaluators may not have enough power to prevent disasters",
+      "description": "Anthropic and OpenAI are proposing embedded AI evaluators to help manage risk of models causing catastrophic harm to society, but the idea has some issues.",
+      "url": "https://www.cnbc.com/2026/09/16/anthropic-open-ai-model-safety-risks.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-16T14:31:08+00:00",
+      "category": "USA",
+      "simple_explanation": "Anthropic and OpenAI are proposing embedded AI evaluators to help manage risk of models causing catastrophic harm to society, but the idea has some issues."
+    },
+    {
+      "title": "G&A Releases 15th Edition of Sustainability Reporting Trends",
+      "description": "Companies Stacking New Standards and Assuring More Data, Even as Reporting EbbsNEW YORK CITY, NY / ACCESS Newswire / September 16, 2026 / , Inc. (G&A), a leading corporate sustainability consulting and research firm, today released the 2026 edition of its annual Sustainability Reporting in Focus rep",
+      "url": "https://finance.yahoo.com/media-advertising/articles/g-releases-15th-edition-sustainability-143000470.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-16T09:29:05+00:00",
+      "published_at": "2026-09-16T14:30:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Companies Stacking New Standards and Assuring More Data, Even as Reporting EbbsNEW YORK CITY, NY / ACCESS Newswire / September 16, 2026 / , Inc. (G&A), a leading corporate sustainability consulting an"
+    },
+    {
+      "title": "Why investors should start hedging portfolios if Fed hikes",
+      "description": "Yahoo Finance Executive Editor Brian Sozzi welcomes Senior Business Reporter Ines Ferre to the Opening Bid to discuss whether the latest Fed rate decision could mark the start of a tightening cycle, which has historically pressured markets. Robinhood (HOOD) chief investment officer Stephanie Guild a",
+      "url": "https://finance.yahoo.com/video/why-investors-start-hedging-portfolios-142900558.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T14:29:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Yahoo Finance Executive Editor Brian Sozzi welcomes Senior Business Reporter Ines Ferre to the Opening Bid to discuss whether the latest Fed rate decision could mark the start of a tightening cycle, w"
+    },
+    {
+      "title": "3 Reasons to Sell WEN and 1 Stock to Buy Instead",
+      "description": "Even though Wendy's (currently trading at $7.49 per share) has gained 6.3% over the last six months, it has lagged the S&P 500’s 13.7% return during that period. This might have investors contemplating their next move.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-wen-1-142852688.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T14:28:52+00:00",
+      "category": "USA",
+      "simple_explanation": "Even though Wendy's (currently trading at $7.49 per share) has gained 6.3% over the last six months, it has lagged the S&P 500’s 13.7% return during that period. This might have investors contemplatin"
+    },
+    {
+      "title": "NESR Stock Trades at a Premium: Still an Attractive Opportunity?",
+      "description": "National Energy Services' premium valuation is backed by strong oil prices, major contract wins, technology expansion and higher earnings-growth expectations.",
+      "url": "https://finance.yahoo.com/energy/articles/nesr-stock-trades-premium-still-141900886.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T14:19:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "National Energy Services' premium valuation is backed by strong oil prices, major contract wins, technology expansion and higher earnings-growth expectations."
+    },
+    {
+      "title": "OpenAI investors have approached the company about a new funding round",
+      "description": "OpenAI is gearing up for what is widely expected to be a blockbuster IPO next year, after it confidentially filed its prospectus in June.",
+      "url": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-16T14:16:55+00:00",
+      "category": "USA",
+      "simple_explanation": "OpenAI is gearing up for what is widely expected to be a blockbuster IPO next year, after it confidentially filed its prospectus in June."
+    },
+    {
+      "title": "IQVIA Stock Rises 60% in 6 Months: Here's What You Should Know",
+      "description": "IQV's accelerating organic growth, robust R&DS bookings and expanding AI adoption are strengthening demand visibility and business momentum.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/iqvia-stock-rises-60-6-141600888.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T14:16:00+00:00",
+      "category": "USA",
+      "simple_explanation": "IQV's accelerating organic growth, robust R&DS bookings and expanding AI adoption are strengthening demand visibility and business momentum."
+    },
+    {
+      "title": "Forget the Rate Hike! The Fed’s Dot Plot Could Trigger a Massive Crypto Shock Today",
+      "description": "Markets are pricing a roughly 93% chance that the Federal Reserve raises interest rates by 25 basis points to 3.75%–4.00%. Bitcoin is trading around $76,000 ...",
+      "url": "https://www.ccn.com/news/crypto/fed-rate-decision-crypto-dot-plot-bitcoin-impact/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T14:13:52+00:00",
       "category": "Crypto",
-      "simple_explanation": "The failed vote leaves regulatory rulemaking in greater focus as lawmakers remain divided over the crypto market structure bill."
+      "simple_explanation": "Markets are pricing a roughly 93% chance that the Federal Reserve raises interest rates by 25 basis points to 3.75%–4.00%. Bitcoin is trading around $76,000 ..."
+    },
+    {
+      "title": "Stock Market Today: Nasdaq, S&P 500 Up Ahead Of Likely Fed Rate Increase; AI Leader Dell Jams (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index wavers ahead of a likely Fed rate hike and Warsh's comments. Nvidia, Intel and SK Hynix jump.",
+      "url": "https://finance.yahoo.com/m/127b3c0b-f974-36dd-8852-5793b5347c93/stock-market-today%3A-nasdaq%2C.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T14:07:08+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Market Today: The Dow Jones index wavers ahead of a likely Fed rate hike and Warsh's comments. Nvidia, Intel and SK Hynix jump."
+    },
+    {
+      "title": "Inside Ron Baron's $66 billion portfolio: A SpaceX problem and a Tesla cushion",
+      "description": "Ron Baron’s portfolio, valued at about $66 billion, is led by SpaceX, Tesla, MSCI, Arch Capital and Gartner. The holdings reflect a focus on long-term growth across space, electric vehicles, financial infrastructure, insurance and data-driven services, alongside substantial positions in technology c",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/inside-ron-barons-66-billion-portfolio-a-spacex-problem-and-a-tesla-cushion/articleshow/134289955.cms",
+      "image": "https://img.etimg.com/photo/msid-134289955,imgsize-49028.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-16T14:06:16+00:00",
+      "category": "India",
+      "simple_explanation": "Ron Baron’s portfolio, valued at about $66 billion, is led by SpaceX, Tesla, MSCI, Arch Capital and Gartner. The holdings reflect a focus on long-term growth across space, electric vehicles, financial"
+    },
+    {
+      "title": "10-year Treasury sits below 5% as market awaits Fed decision: AlphaCheck",
+      "description": "Here's a check of the markets in the first few minutes of trading.",
+      "url": "https://finance.yahoo.com/markets/article/10-year-treasury-sits-below-5-as-market-awaits-fed-decision-alphacheck-140528141.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T14:05:28+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Here's a check of the markets in the first few minutes of trading."
+    },
+    {
+      "title": "Fewer and Fewer S&P 500 Stocks Yield Over 4%. Here's My Top Pick to Buy Now.",
+      "description": "This beauty yields 5.5% at the moment.",
+      "url": "https://www.fool.com/investing/2026/09/16/fewer-and-fewer-sp-500-stocks-yield-over-4-heres/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T14:05:00+00:00",
+      "category": "USA",
+      "simple_explanation": "This beauty yields 5.5% at the moment."
     },
     {
       "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
@@ -18,389 +138,269 @@
       "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-09-16T09:19:05+00:00",
+      "published_at": "2026-09-16T14:03:35+00:00",
       "category": "USA",
       "simple_explanation": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties."
     },
     {
-      "title": "Patanjali Foods share price rises 5% today. What is driving the rally in the FMCG stock?",
-      "description": "FMCG stock Patanjali Foods opened at  ₹339.05 apiece today, as compared to previous close of  ₹338.55 on Tuesday and hit an intraday high of  ₹360.50.",
-      "url": "https://www.livemint.com/market/stock-market-news/patanjali-foods-share-price-rises-5-today-what-is-driving-the-rally-in-the-fmcg-stock-11789544526204.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/patanji_1789549344541_Ny5V_1789549344731_ICu0_58393693-5a8f-4508-8613-640397c1c2a0_xO6x.png",
+      "title": "Wall Street edges higher ahead of Federal Reserve's rate decision",
+      "description": "The Dow Jones Industrial Average rose 0.04%, the S&amp;P 500 rose 0.20%, the Nasdaq Composite rose 0.49%",
+      "url": "https://www.livemint.com/market/stock-market-news/wall-street-edges-higher-ahead-of-federal-reserves-rate-decision-11789566757056.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/nyse2_1789566916597_zFVj_1789566937904_zH7L_4ae86d5b-f0c8-403b-b514-2abf2f9b931b_xab3.jpg",
       "source": "LiveMint",
-      "published_at": "2026-09-16T09:19:01+00:00",
+      "published_at": "2026-09-16T14:03:29+00:00",
       "category": "India",
-      "simple_explanation": "FMCG stock Patanjali Foods opened at  ₹339.05 apiece today, as compared to previous close of  ₹338.55 on Tuesday and hit an intraday high of  ₹360.50."
+      "simple_explanation": "The Dow Jones Industrial Average rose 0.04%, the S&amp;P 500 rose 0.20%, the Nasdaq Composite rose 0.49%"
     },
     {
-      "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
-      "description": "The deal could be a big win for Intel which has been looking to gain marquee customers for its manufacturing, or foundry, business.",
-      "url": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
+      "title": "The S&P 500 Rose Nearly 40% in Two Years as the 55+ Workforce Rate Shrunk. At 63, Selling Investments to Retire Early Isn’t Social Security Earnings.",
+      "description": "At 63, a strong brokerage account can make leaving the office feel like a real plan, but the rules connecting investment sales, Social Security claims, and taxes create a set of traps that catch retirees who assume the math is simple.",
+      "url": "https://247wallst.com/personal-finance/social-security/2026/09/16/the-sp-500-rose-nearly-40-in-two-years-as-the-55-workforce-rate-shrunk-at-63-selling-investments-to-retire-early-isnt-social-security-earnings/?.tsrc=rss",
       "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-16T09:15:13+00:00",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T14:03:12+00:00",
       "category": "USA",
-      "simple_explanation": "The deal could be a big win for Intel which has been looking to gain marquee customers for its manufacturing, or foundry, business."
+      "simple_explanation": "At 63, a strong brokerage account can make leaving the office feel like a real plan, but the rules connecting investment sales, Social Security claims, and taxes create a set of traps that catch retir"
     },
     {
-      "title": "Fortis Healthcare shares outlook by Nomura: Rating neutral and target price remains  ₹1030 - check rationale",
-      "description": "Fortis Healthcare’s share price has remained under pressure in the near term, declining 4.61% over the past week and 6.04% over the last month",
-      "url": "https://www.livemint.com/market/stock-market-news/fortis-healthcare-shares-outlook-by-nomura-rating-neutral-and-target-price-remains-1030-check-rationale-11789547534184.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/Fortis_1789549630297_8spO_1789549630485_aBTF_0942a288-f224-42b9-b61d-ef020244cc84_yS6K.jfif",
-      "source": "LiveMint",
-      "published_at": "2026-09-16T09:14:28+00:00",
-      "category": "India",
-      "simple_explanation": "Fortis Healthcare’s share price has remained under pressure in the near term, declining 4.61% over the past week and 6.04% over the last month"
-    },
-    {
-      "title": "Fed and BOJ Decisions Put Rate Gaps in Focus for Bitcoin",
-      "description": "Traders are preparing for a closely timed pair of monetary-policy decisions, with the Federal Reserve due to announce its decision on Wednesday afternoon. According to futures markets, Fed rate odds favored a quarter-point hike, at over 80%. The compressed schedule puts attention on how expectations",
-      "url": "https://www.coinspeaker.com/fed-rate-odds-bitcoin-volatility-boj/?.tsrc=rss",
+      "title": "Cipher Digital Surges 9% on Conditional ERCOT Status for 3.2 GW of Texas Capacity; Core Scientific Rises 4%, IREN Nudges Higher",
+      "description": "A Texas grid operator quietly disclosed something about Cipher Mining that sent the stock surging 9% before the company said a word, and the ripple moved two of its rivals in the same direction.",
+      "url": "https://247wallst.com/investing/2026/09/16/cipher-digital-surges-9-on-conditional-ercot-status-for-3-2-gw-of-texas-capacity-core-scientific-rises-4-iren-nudges-higher/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-16T09:14:12+00:00",
+      "published_at": "2026-09-16T14:00:43+00:00",
       "category": "Crypto",
-      "simple_explanation": "Traders are preparing for a closely timed pair of monetary-policy decisions, with the Federal Reserve due to announce its decision on Wednesday afternoon. According to futures markets, Fed rate odds f"
+      "simple_explanation": "A Texas grid operator quietly disclosed something about Cipher Mining that sent the stock surging 9% before the company said a word, and the ripple moved two of its rivals in the same direction."
     },
     {
-      "title": "Murphy Oil (MUR) Could Be 4% Undervalued Following The Crude Price Spike",
-      "description": "Murphy Oil (MUR) grabbed attention after Middle East supply disruptions and missile strikes on Saudi facilities pushed crude higher, a backdrop that can support producers with stronger margins and healthier cash generation. Murphy Oil’s share price has gained 16.9% over the past month and 24.4% year",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/murphy-oil-mur-could-4-091305608.html?.tsrc=rss",
+      "title": "4 Dividend ETFs That Let You Own Hundreds of Payers in 1 Trade",
+      "description": "Screening dividend stocks for payout ratios, cut risks, and ex-dividend dates turns into a second job fast. Four ETFs bundle hundreds of payers into a single ticker, but the methodology each one uses determines whether you actually get income or just the illusion of it.",
+      "url": "https://247wallst.com/investing/etf/2026/09/16/4-dividend-etfs-that-let-you-own-hundreds-of-payers-in-1-trade/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-16T09:13:05+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Murphy Oil (MUR) grabbed attention after Middle East supply disruptions and missile strikes on Saudi facilities pushed crude higher, a backdrop that can support producers with stronger margins and hea"
-    },
-    {
-      "title": "Global Market: European shares recover as oil rally pauses ahead of Fed decision",
-      "description": "European shares recovered after two sessions of losses as a pause in oil prices eased pressure on risk assets ahead of the Federal Reserve's policy decision. Banks led gains, while investors tracked bond yields, inflation concerns and geopolitical developments.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-recover-as-oil-rally-pauses-ahead-of-fed-decision/articleshow/134283464.cms",
-      "image": "https://img.etimg.com/photo/msid-134283464,imgsize-2293508.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-16T09:09:55+00:00",
-      "category": "India",
-      "simple_explanation": "European shares recovered after two sessions of losses as a pause in oil prices eased pressure on risk assets ahead of the Federal Reserve's policy decision. Banks led gains, while investors tracked b"
-    },
-    {
-      "title": "JM Financial sees up to 28% upside in Dr Reddy’s and Aurobindo Pharma. Should you buy?",
-      "description": "JM Financial retained Buy ratings on Dr Reddy’s Laboratories and Aurobindo Pharma, seeing up to 28% upside over the next 12 months. The brokerage expects stronger earnings growth, business diversification and new product launches to support both drugmakers.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jm-financial-sees-up-to-28-upside-in-dr-reddys-and-aurobindo-pharma-should-you-buy/articleshow/134283456.cms",
-      "image": "https://img.etimg.com/photo/msid-134283456,imgsize-192172.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-16T09:09:55+00:00",
-      "category": "India",
-      "simple_explanation": "JM Financial retained Buy ratings on Dr Reddy’s Laboratories and Aurobindo Pharma, seeing up to 28% upside over the next 12 months. The brokerage expects stronger earnings growth, business diversifica"
-    },
-    {
-      "title": "Rentomojo IPO listing tomorrow: GMP hints 27% listing pop | Expert view on share price ahead of NSE, BSE debut",
-      "description": "Rentomojo IPO is set to list on 17 September at 10:00 IST, with an estimated opening price of  ₹511, a 26.49% premium to the IPO price. The IPO was highly subscribed, achieving 72.88 times overall demand, with strong interest from QIBs.",
-      "url": "https://www.livemint.com/market/ipo/rentomojo-ipo-listing-tomorrow-gmp-hints-27-listing-pop-expert-view-on-share-price-ahead-of-nse-bse-debut-11789547366858.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/Rentomojo_IPO_gmp_1789549611442_inyb_1789549617146_8uPY_5babc63c-1df5-4cc0-80d8-3396b5824dc6_z5rB.png",
-      "source": "LiveMint",
-      "published_at": "2026-09-16T09:08:36+00:00",
-      "category": "India",
-      "simple_explanation": "Rentomojo IPO is set to list on 17 September at 10:00 IST, with an estimated opening price of  ₹511, a 26.49% premium to the IPO price. The IPO was highly subscribed, achieving 72.88 times overall dem"
-    },
-    {
-      "title": "The Stock Market Is Repeating a Pattern Not Seen in Decades: History Says This Will Come Next",
-      "description": "The AI boom looks increasingly similar to the dot-com bubble.",
-      "url": "https://www.fool.com/investing/2026/09/16/the-stock-market-is-repeating-a-pattern-not-seen-i/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-16T09:05:00+00:00",
+      "published_at": "2026-09-16T14:00:09+00:00",
       "category": "USA",
-      "simple_explanation": "The AI boom looks increasingly similar to the dot-com bubble."
+      "simple_explanation": "Screening dividend stocks for payout ratios, cut risks, and ex-dividend dates turns into a second job fast. Four ETFs bundle hundreds of payers into a single ticker, but the methodology each one uses "
     },
     {
-      "title": "US House to Discuss Steil Amendment and Advance Strategic Bitcoin Reserve Bill Today",
-      "description": "The US House’s Strategic Bitcoin Reserve bill is in focus today after the CLARITY Act fails to pass in the Senate. A House committee will debate the crypto bill, consider amendments, and vote on whether to advance the bill to the full House of Representatives. Ad Ad Will House Financial Services Com",
-      "url": "https://coingape.com/us-house-to-discuss-steil-amendment-and-advance-strategic-bitcoin-reserve-bill-today/?.tsrc=rss",
+      "title": "ZEC Outpaces Bitcoin As Zcash Holders Vote To Keep BTC-Style Halvings",
+      "description": "The Zcash token was the only gainer among the top ten cryptocurrencies on Wednesday.",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/zec-outpaces-bitcoin-as-zcash-holders-vote-to-keep-btc-style-halvings/cZtYSxIRBPc?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-16T09:03:52+00:00",
+      "published_at": "2026-09-16T13:55:04+00:00",
       "category": "Crypto",
-      "simple_explanation": "The US House’s Strategic Bitcoin Reserve bill is in focus today after the CLARITY Act fails to pass in the Senate. A House committee will debate the crypto bill, consider amendments, and vote on wheth"
+      "simple_explanation": "The Zcash token was the only gainer among the top ten cryptocurrencies on Wednesday."
     },
     {
-      "title": "Bitcoin drops after US Senate blocks landmark crypto bill",
-      "description": "Bitcoin has fallen almost 4% over the past 24 hours to below $76,000 after the US Senate blocked the CLARITY Act late on Tuesday, derailing more than a year of bipartisan negotiations and leaving the crypto industry without the federal rulebook it has spent years pursuing.View on euronews",
-      "url": "https://www.euronews.com/2026/09/16/bitcoin-drops-after-us-senate-blocks-landmark-crypto-bill?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-16T09:03:39+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin has fallen almost 4% over the past 24 hours to below $76,000 after the US Senate blocked the CLARITY Act late on Tuesday, derailing more than a year of bipartisan negotiations and leaving the "
-    },
-    {
-      "title": "Yield on 10-year Treasury hovers above 5% as investors await Fed decision",
-      "description": "The Federal Reserve is widely expected to hike interest rates on Wednesday.",
-      "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-16T08:58:16+00:00",
-      "category": "USA",
-      "simple_explanation": "The Federal Reserve is widely expected to hike interest rates on Wednesday."
-    },
-    {
-      "title": "Ongwe Minerals begins drilling at Nguni gold prospect in Namibia",
-      "description": "The Nguni prospect hosts a gold-in-soil anomaly of more than 6km, discovered by Ongwe Minerals in May 2026 during sampling.",
-      "url": "https://www.mining-technology.com/news/ongwe-minerals-drilling-nguni-gold-prospect/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-16T08:49:11+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The Nguni prospect hosts a gold-in-soil anomaly of more than 6km, discovered by Ongwe Minerals in May 2026 during sampling."
-    },
-    {
-      "title": "Water distribution stocks in trouble? Concord Enviro, EMS to VA Tech under pressure- reason behind sell-off, outlook",
-      "description": "Water distribution and recycling stocks saw significant declines on Wednesday, with shares dropping up to 5.6%. Check potential reason behind the sell-off and sector outlook",
-      "url": "https://www.livemint.com/market/water-distribution-stocks-in-trouble-concord-enviro-ems-to-va-tech-under-pressure-reason-behind-sell-off-outlook-11789546535154.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/water_stocks_1789548142240_aEh7_1789548192556_Tgn9_a122cf21-afbe-480f-87e1-51ad7de0b1c8_tuBA.png",
-      "source": "LiveMint",
-      "published_at": "2026-09-16T08:46:29+00:00",
-      "category": "India",
-      "simple_explanation": "Water distribution and recycling stocks saw significant declines on Wednesday, with shares dropping up to 5.6%. Check potential reason behind the sell-off and sector outlook"
-    },
-    {
-      "title": "Paytm share price jumps 7% to 52-week high on UPI MDR move - should you buy?",
-      "description": "Shares of One 97 Communications surged over 7% following the government’s introduction of a Merchant Discount Rate on high-value UPI transactions. Analysts anticipate significant revenue generation for Paytm, prompting brokerages to raise their price targets for the stock.",
-      "url": "https://www.livemint.com/market/stock-market-news/paytm-share-price-jumps-7-to-52-week-high-on-upi-mdr-move-should-you-buy-11789546548269.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/paytm_upi_1789548129324_AFjq_1789548135501_cyxy_d1e4ce0d-7298-40af-adb8-9564ddb2e25a_zKGG.png",
-      "source": "LiveMint",
-      "published_at": "2026-09-16T08:43:46+00:00",
-      "category": "India",
-      "simple_explanation": "Shares of One 97 Communications surged over 7% following the government’s introduction of a Merchant Discount Rate on high-value UPI transactions. Analysts anticipate significant revenue generation fo"
-    },
-    {
-      "title": "Global Market | China’s slower loan growth is becoming the new normal: PBOC Governor Pan Gongsheng",
-      "description": "China’s slower loan growth is emerging as a new normal as weakening property and local government sectors reduce credit demand faster than emerging industries can make up for it, PBOC Governor Pan Gongsheng said. Although new bank lending recovered in August from July’s record contraction, it remain",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-slower-loan-growth-is-becoming-the-new-normal-pboc-governor-pan-gongsheng/articleshow/134282959.cms",
-      "image": "https://img.etimg.com/photo/msid-134282959,imgsize-76614.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-16T08:43:04+00:00",
-      "category": "India",
-      "simple_explanation": "China’s slower loan growth is emerging as a new normal as weakening property and local government sectors reduce credit demand faster than emerging industries can make up for it, PBOC Governor Pan Gon"
-    },
-    {
-      "title": "ECB seeks online merchants for 2027 digital euro pilot",
-      "description": "Euro-area online and mobile merchants can apply until Oct. 27 to test beta digital euro payments in a 12-month pilot.",
-      "url": "https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MM52JKJD0W2B0RMKWYF0RK/euro-pilot.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-09-16T08:36:44+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Euro-area online and mobile merchants can apply until Oct. 27 to test beta digital euro payments in a 12-month pilot."
-    },
-    {
-      "title": "LCC Projects IPO listing tomorrow: GMP at  ₹44; Share price prediction ahead of NSE, BSE debut",
-      "description": "LCC Projects IPO will list on the BSE and NSE on 17 September at 10:00 IST, with an estimated share price of  ₹190. The IPO was 48.51 times subscribed, raising up to  ₹427 crore for company growth and debt repayment.",
-      "url": "https://www.livemint.com/market/ipo/lcc-projects-ipo-listing-tomorrow-gmp-at-rs-44-share-price-prediction-ahead-of-nse-bse-debut-11789545685859.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/LCC_projects_ipo_1789547570433_0IGG_1789547582954_tJw2_a491cec9-c050-41b0-a336-dae55d5e65ff_Z9Jz.png",
-      "source": "LiveMint",
-      "published_at": "2026-09-16T08:35:53+00:00",
-      "category": "India",
-      "simple_explanation": "LCC Projects IPO will list on the BSE and NSE on 17 September at 10:00 IST, with an estimated share price of  ₹190. The IPO was 48.51 times subscribed, raising up to  ₹427 crore for company growth and"
-    },
-    {
-      "title": "Volume Shocker: MFs added 1 crore+ shares to 8 stocks in August '26; rally up to 30%",
-      "description": "Mutual funds raised holdings in several stocks in August, with eight companies combining strong institutional accumulation and gains of up to 30% since the beginning of the month.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-added-1-crore-shares-to-8-stocks-in-august-26-rally-up-to-30/slideshow/134282897.cms",
-      "image": "https://img.etimg.com/photo/msid-134282750,imgsize-37962.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-16T08:32:07+00:00",
-      "category": "India",
-      "simple_explanation": "Mutual funds raised holdings in several stocks in August, with eight companies combining strong institutional accumulation and gains of up to 30% since the beginning of the month."
-    },
-    {
-      "title": "News Flash: 70% of Wall Street Institutions Are Calling for at Least a 50-Basis-Point Fed Rate Hike in 2026",
-      "description": "Trumpflation and the artificial intelligence (AI) infrastructure build-out are expected to force Kevin Warsh and the Federal Open Market Committee (FOMC) into action.",
-      "url": "https://www.fool.com/investing/2026/09/16/news-flash-70-wall-street-institutions-calling-for-at-least-50-basis-point-fed-rate-hike-in-2026/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-16T08:26:01+00:00",
-      "category": "USA",
-      "simple_explanation": "Trumpflation and the artificial intelligence (AI) infrastructure build-out are expected to force Kevin Warsh and the Federal Open Market Committee (FOMC) into action."
-    },
-    {
-      "title": "Stocks head higher as traders prepare for Fed decision",
-      "description": "Equity markets climbed on Wednesday as investors geared up for an expected interest rate hike by the Federal Reserve later in the day, with sentiment boosted by a drop in oil prices following their recent run-up.- Japan tipped to hike - The drop in oil prices on Wednesday provided some optimism afte",
+      "title": "Stocks edge higher ahead of US Fed rate call",
+      "description": "Global stock markets rose as oil prices slipped on Wednesday ahead of the Federal Reserve's decision on US interest rates, with policymakers debating how to tame surging inflation in the world's largest economy.Global stock markets were given a lift Wednesday as oil prices dropped after a US industr",
       "url": "https://finance.yahoo.com/economy/policy/articles/asian-stocks-stutter-traders-prepare-024656301.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-16T08:20:00+00:00",
+      "published_at": "2026-09-16T13:54:36+00:00",
       "category": "Commodities",
-      "simple_explanation": "Equity markets climbed on Wednesday as investors geared up for an expected interest rate hike by the Federal Reserve later in the day, with sentiment boosted by a drop in oil prices following their re"
+      "simple_explanation": "Global stock markets rose as oil prices slipped on Wednesday ahead of the Federal Reserve's decision on US interest rates, with policymakers debating how to tame surging inflation in the world's large"
     },
     {
-      "title": "How much of the current market movement is linked to the CLARITY Act vote?",
-      "description": "Crypto markets weakened after the US Senate failed to advance the CLARITY Act, but the selloff came amid a broader risk-off environment. Bitcoin fell around 3-4%, while crypto-linked equities saw sharper declines. The regulatory setback added pressure, but elevated bond yields, oil prices and macroe",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/how-much-of-the-current-market-movement-is-linked-to-the-clarity-act-vote/articleshow/134282320.cms",
-      "image": "https://img.etimg.com/photo/msid-134282320,imgsize-2328504.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-16T08:19:44+00:00",
-      "category": "India",
-      "simple_explanation": "Crypto markets weakened after the US Senate failed to advance the CLARITY Act, but the selloff came amid a broader risk-off environment. Bitcoin fell around 3-4%, while crypto-linked equities saw shar"
-    },
-    {
-      "title": "Inevitable inching closer: US Fed may raise rates after 3 years. What it means for Indian stock market",
-      "description": "The US Federal Reserve is widely expected to raise interest rates for the first time in three years, as persistent inflation, higher oil prices and rising bond yields add to pressure on policymakers. The move could have implications for Indian equities, the rupee, bond yields, gold and foreign inves",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/inevitable-inching-closer-us-fed-may-raise-rates-after-3-years-what-it-means-for-indian-stock-market/articleshow/134282239.cms",
-      "image": "https://img.etimg.com/photo/msid-134282239,imgsize-2388193.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-16T08:16:57+00:00",
-      "category": "India",
-      "simple_explanation": "The US Federal Reserve is widely expected to raise interest rates for the first time in three years, as persistent inflation, higher oil prices and rising bond yields add to pressure on policymakers. "
-    },
-    {
-      "title": "Japan’s Oil Import Bill Soars 59% as Trade Deficit Deepens",
-      "description": "Japan’s oil import costs surged as high crude prices and supply diversification widened the country’s trade deficit.",
-      "url": "https://finance.yahoo.com/energy/articles/japan-oil-import-bill-soars-081500303.html?.tsrc=rss",
+      "title": "Why Is Bitcoin Dropping Today?",
+      "description": "A Saudi pipeline shutdown, a 19-year high in U.S. borrowing costs, and a failed Senate vote all landed in the same week, and Bitcoin absorbed each hit differently than anyone expected.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/16/why-is-bitcoin-dropping-today-2/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-16T08:15:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Japan’s oil import costs surged as high crude prices and supply diversification widened the country’s trade deficit."
-    },
-    {
-      "title": "Bitcoin Miners Own Something AI Developers Can't Build Fast Enough",
-      "description": "CoinShares says data center curbs and five-year grid waits are repricing energized Bitcoin mining sites as scarce power.",
-      "url": "https://beincrypto.com/bitcoin-mining-sites-data-center-moratoriums/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-16T08:11:17+00:00",
+      "published_at": "2026-09-16T13:51:13+00:00",
       "category": "Crypto",
-      "simple_explanation": "CoinShares says data center curbs and five-year grid waits are repricing energized Bitcoin mining sites as scarce power."
+      "simple_explanation": "A Saudi pipeline shutdown, a 19-year high in U.S. borrowing costs, and a failed Senate vote all landed in the same week, and Bitcoin absorbed each hit differently than anyone expected."
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise ahead of crucial Fed interest rate decision",
-      "description": "Stocks braced for an expected Fed rate hike as oil prices and Treasurys continued to exert pressure.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html?.tsrc=rss",
+      "title": "Ahead of US Fed rate hike impact on gold rates prediction: How FOMC outcome will effect yellow metal",
+      "description": "Gold prices gained on September 16, supported by a weaker US dollar as traders awaited the Federal Reserve's policy decision. Spot gold rose 1.3% to $4,347.91 per ounce, while US gold futures up 1.3% to $4,388.80 amid rising inflation and expectations of interest rate hikes.",
+      "url": "https://www.livemint.com/market/stock-market-news/ahead-of-us-fed-rate-hike-impact-on-gold-rates-prediction-how-fomc-outcome-will-effect-yellow-metal-11789562656223.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/Gold_1_1789566322971_dwq7_1789566327693_yj2B_22370fa1-b3a6-4fbe-9797-c864e2f7f0d2_BueE.png",
+      "source": "LiveMint",
+      "published_at": "2026-09-16T13:48:31+00:00",
+      "category": "India",
+      "simple_explanation": "Gold prices gained on September 16, supported by a weaker US dollar as traders awaited the Federal Reserve's policy decision. Spot gold rose 1.3% to $4,347.91 per ounce, while US gold futures up 1.3% "
+    },
+    {
+      "title": "Weekly Mortgage Applications Drop as 30-Year Interest Rate Hits Highest Since May 2025",
+      "description": "Mortgage applications in the US declined last week as the 30-year fixed rate reached its highest lev",
+      "url": "https://finance.yahoo.com/real-estate/articles/weekly-mortgage-applications-drop-30-134810239.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-16T08:03:56+00:00",
-      "category": "USA",
-      "simple_explanation": "Stocks braced for an expected Fed rate hike as oil prices and Treasurys continued to exert pressure."
+      "published_at": "2026-09-16T13:48:10+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Mortgage applications in the US declined last week as the 30-year fixed rate reached its highest lev"
     },
     {
-      "title": "Ukraine's message to Asian nations: your chips are turning up in Russian missiles",
-      "description": "Ukraine's sanctions envoy said Russia could be forced to retreat from the war within six months if its oil revenues are halved.",
-      "url": "https://www.cnbc.com/2026/09/16/russia-ukraine-war-sanction-oil-missile-weapons-.html",
+      "title": "Markets Steady as Investors Await Rate Decision",
+      "description": "Markets were largely calm ahead of the Fed‘s 2 p.m. ET policy announcement.",
+      "url": "https://www.wsj.com/finance/stocks/oil-pares-gains-stock-futures-steady-as-cautious-optimism-heralds-fed-day-65090da0?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T13:48:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Markets were largely calm ahead of the Fed‘s 2 p.m. ET policy announcement."
+    },
+    {
+      "title": "Stocks Bounce Back Ahead of a Big Day for the Fed",
+      "description": "Stocks were staging a modest rebound from yesterday's slide ahead of the highly-anticipated Federal Reserve interest-rate decision. The Nasdaq Composite gained 0.4%, and the S&P 500 rose 0.2%. The Dow Jones Industrial Average was down 0.",
+      "url": "https://finance.yahoo.com/m/cad86be8-3bad-3394-8ec6-1e2cfac903d0/stocks-bounce-back-ahead-of-a.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T13:40:46+00:00",
+      "category": "USA",
+      "simple_explanation": "Stocks were staging a modest rebound from yesterday's slide ahead of the highly-anticipated Federal Reserve interest-rate decision. The Nasdaq Composite gained 0.4%, and the S&P 500 rose 0.2%. The Dow"
+    },
+    {
+      "title": "US stocks today: US stocks open higher ahead of much-anticipated Fed rate decision",
+      "description": "US stocks open higher on Wednesday after a two-day slide, helped by easing oil prices as investors await the Federal Reserve’s interest-rate decision. The Dow, S&P 500 and Nasdaq gain at the open, with markets closely watching the Fed’s policy signal for clues on the direction of borrowing costs.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-ahead-of-much-anticipated-fed-decision/articleshow/134289410.cms",
+      "image": "https://img.etimg.com/photo/msid-134289410,imgsize-131976.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-16T13:39:46+00:00",
+      "category": "India",
+      "simple_explanation": "US stocks open higher on Wednesday after a two-day slide, helped by easing oil prices as investors await the Federal Reserve’s interest-rate decision. The Dow, S&P 500 and Nasdaq gain at the open, wit"
+    },
+    {
+      "title": "Revolut ID thefts highlight KYC’s dangers: Here’s how to fix it",
+      "description": "Zero-knowledge technology could let companies verify who you are without storing your identity documents. So why isn’t it already standard practice?",
+      "url": "https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27YNMN0B998XM580ZT1ETJS/magazine-pinkdrainer.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-09-16T13:30:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Zero-knowledge technology could let companies verify who you are without storing your identity documents. So why isn’t it already standard practice?"
+    },
+    {
+      "title": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
+      "description": "Shares of J.B. Hunt plunged more than 10% Wednesday after the company warned of an earnings drop between 5% and 10%.",
+      "url": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-09-16T08:00:27+00:00",
+      "published_at": "2026-09-16T13:17:09+00:00",
       "category": "USA",
-      "simple_explanation": "Ukraine's sanctions envoy said Russia could be forced to retreat from the war within six months if its oil revenues are halved."
+      "simple_explanation": "Shares of J.B. Hunt plunged more than 10% Wednesday after the company warned of an earnings drop between 5% and 10%."
     },
     {
-      "title": "GE Vernova, CG Power, other power capex stocks tumble up to 16% in 2 days amid global AI caution. What's ahead?",
-      "description": "Power capex stocks such as GE Vernova T&D India, CG Power, Hitachi Energy and TD Power Systems fell up to 16% over two sessions amid growing caution around AI development. The stocks had rallied sharply in 2026 on expectations of rising power demand from India’s data centre boom, making them vulnera",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ge-vernova-cg-power-other-power-capex-stocks-tumble-up-to-16-in-2-days-amid-global-ai-caution-whats-ahead/articleshow/134281372.cms",
-      "image": "https://img.etimg.com/photo/msid-134281372,imgsize-2174033.cms",
-      "source": "ET Markets",
-      "published_at": "2026-09-16T07:40:52+00:00",
-      "category": "India",
-      "simple_explanation": "Power capex stocks such as GE Vernova T&D India, CG Power, Hitachi Energy and TD Power Systems fell up to 16% over two sessions amid growing caution around AI development. The stocks had rallied sharp"
-    },
-    {
-      "title": "Fundstrat’s Tom Lee Sees S&P 500 Above 8,200 By Year-End, But This Analyst Just Slashed The Target For 2026",
-      "description": "Yardeni Research lowered its year-end target to 7,900 from 8,400, while increasing its odds of a bearish outcome from 20% to 30%.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/fundstrat-s-tom-lee-sees-s-and-p-500-above-8-200-by-year-end-but-this-analyst-just-slashed-the-target-for-2026/cZtYJYfRB2L?.tsrc=rss",
+      "title": "Stock Market News for Sep 16, 2026",
+      "description": "Wall Street closed lower on Tuesday, dragged down by discretionary and utilities stocks.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-16-131000619.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-16T07:32:02+00:00",
+      "published_at": "2026-09-16T13:10:00+00:00",
       "category": "USA",
-      "simple_explanation": "Yardeni Research lowered its year-end target to 7,900 from 8,400, while increasing its odds of a bearish outcome from 20% to 30%."
+      "simple_explanation": "Wall Street closed lower on Tuesday, dragged down by discretionary and utilities stocks."
     },
     {
-      "title": "Tata Group stocks fall up to 7% after Tuesday’s IPO-buzz rally. Which stocks led the losses?",
-      "description": "Tata Group stocks tumbled on Wednesday as investors likely booked profits after the previous session’s sharp rally, which was driven by renewed expectations of a potential Tata Sons IPO.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-group-stocks-fall-up-to-7-after-tuesdays-ipo-buzz-rally-which-stocks-led-the-losses/articleshow/134281314.cms",
-      "image": "https://img.etimg.com/photo/msid-134281314,imgsize-2463252.cms",
-      "source": "ET Markets",
-      "published_at": "2026-09-16T07:29:24+00:00",
-      "category": "India",
-      "simple_explanation": "Tata Group stocks tumbled on Wednesday as investors likely booked profits after the previous session’s sharp rally, which was driven by renewed expectations of a potential Tata Sons IPO."
-    },
-    {
-      "title": "2 S&P 500 Stocks for Long-Term Investors and 1 Facing Challenges",
-      "description": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, heavy debt, or disruptive new competitors.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-long-072437037.html?.tsrc=rss",
+      "title": "4 Stocks With Strong Interest Coverage to Buy as Yields Rise",
+      "description": "DiamondRock Hospitality, Vertiv, Mueller Water Products and Phibro Animal Health stand out for strong interest coverage as Treasury yields rise.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/4-stocks-strong-interest-coverage-125000967.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-16T07:24:37+00:00",
+      "published_at": "2026-09-16T12:50:00+00:00",
       "category": "USA",
-      "simple_explanation": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, h"
+      "simple_explanation": "DiamondRock Hospitality, Vertiv, Mueller Water Products and Phibro Animal Health stand out for strong interest coverage as Treasury yields rise."
     },
     {
-      "title": "2 Healthcare Stocks to Research Further and 1 We Find Risky",
-      "description": "Healthcare companies are pushing the status quo by innovating in areas like drug development and digital health. Shareholders who bet on the industry have been rewarded lately as healthcare stocks have returned 31.6% over the past six months, topping the S&P 500 by 17.9 percentage points.",
-      "url": "https://finance.yahoo.com/healthcare/articles/2-healthcare-stocks-research-further-070037567.html?.tsrc=rss",
+      "title": "Seattle single-income mom homeschooling her kids discovers she owns $18M in one stock. What Dave Ramsey says to do next",
+      "description": "Raiding your couch for change is so 1995.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/seattle-single-income-mom-homeschooling-124500141.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-16T07:00:37+00:00",
-      "category": "USA",
-      "simple_explanation": "Healthcare companies are pushing the status quo by innovating in areas like drug development and digital health. Shareholders who bet on the industry have been rewarded lately as healthcare stocks hav"
+      "published_at": "2026-09-16T12:45:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Raiding your couch for change is so 1995."
     },
     {
-      "title": "Nithin Kamath says new UPI charges on investing, broking don’t make sense: 'I don't see how we can absorb this indefinitely'",
-      "description": "Zerodha CEO Nithin Kamath said the new UPI MDR framework may not make economic sense for investing and broking, where customers can transfer funds without trading. He said brokers may struggle to absorb the costs indefinitely, particularly under quarterly settlement rules, and suggested a lower MDR ",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-says-new-upi-charges-on-investing-broking-dont-make-sense-i-dont-see-how-we-can-absorb-this-indefinitely/articleshow/134280407.cms",
-      "image": "https://img.etimg.com/photo/msid-134280407,imgsize-2442136.cms",
-      "source": "ET Markets",
-      "published_at": "2026-09-16T06:53:46+00:00",
-      "category": "India",
-      "simple_explanation": "Zerodha CEO Nithin Kamath said the new UPI MDR framework may not make economic sense for investing and broking, where customers can transfer funds without trading. He said brokers may struggle to abso"
+      "title": "Star Gold Corp. Launches Regulation A Offering, Inviting Public to Invest in Its Nevada Gold-Silver Project",
+      "description": "Estimated 213,000 gold-equivalent ounces, key permits in hand, and a “clear” path toward production — now open to everyday investors, with bonus shares and physical gold and silver available COEUR D'ALENE, Idaho, Sept. 16, 2026 (GLOBE NEWSWIRE) -- Star Gold Corp. (OTCQB: SRGZ) (“Star Gold” or the “C",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/star-gold-corp-launches-regulation-124500084.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T12:45:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Estimated 213,000 gold-equivalent ounces, key permits in hand, and a “clear” path toward production — now open to everyday investors, with bonus shares and physical gold and silver available COEUR D'A"
     },
     {
-      "title": "AI has been a ‘net negative’ for crypto: Phemex CEO",
-      "description": "Federico Variola says AI has diverted capital from crypto and is empowering attackers, while rising cybersecurity costs could push the industry toward greater centralization.",
-      "url": "https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MEY4H050WZYJEZA2JY1JK2/ai-1.jpg",
+      "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
+      "description": "Bernstein said the federal agencies will publish new regulations to compensate for the time lost negotiating the CLARITY Act, after its cloture vote failed on Tuesday.",
+      "url": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2N0MK84B62M60XV8Q5G8MYA/hi-trumps-strategic-reserve-and-clarity-act-1.jpg",
       "source": "CoinTelegraph",
-      "published_at": "2026-09-16T06:38:48+00:00",
+      "published_at": "2026-09-16T12:36:20+00:00",
       "category": "Crypto",
-      "simple_explanation": "Federico Variola says AI has diverted capital from crypto and is empowering attackers, while rising cybersecurity costs could push the industry toward greater centralization."
+      "simple_explanation": "Bernstein said the federal agencies will publish new regulations to compensate for the time lost negotiating the CLARITY Act, after its cloture vote failed on Tuesday."
     },
     {
-      "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
-      "description": "The Organization of Islamic Cooperation condemned the strike as a \"heinous\" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage.",
-      "url": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
+      "title": "FED Meeting Live | Dow Jones Futures | US Stock Market Live: US stocks open higher ahead of much-anticipated Fed rate decision",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-meeting-live-updates-dow-jones-nasdaq-sp-500-us-stock-market-today-kevin-warsh-fomc-meet-rate-hike-iran-war-inflation-brent-crude-oil-intel-conocophillips-chevron-ai-chip-energy-stock-price-news-16th-sep/liveblog/134287797.cms",
+      "image": "https://img.etimg.com/photo/msid-134287797,imgsize-2184048.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-16T12:18:05+00:00",
+      "category": "India",
+      "simple_explanation": ""
+    },
+    {
+      "title": "Indian bonds rise on short covering before Fed decision",
+      "description": "Indian government bonds saw gains as crude oil prices retreated from recent highs. Traders squared short positions before the Federal Reserve's anticipated policy decision later today. Global debt markets stabilized after Saudi Arabia offered additional oil cargoes through Oman. The Indian central b",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rise-on-short-covering-before-fed-decision/articleshow/134287734.cms",
+      "image": "https://img.etimg.com/photo/msid-134287734,imgsize-121028.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-16T12:16:13+00:00",
+      "category": "India",
+      "simple_explanation": "Indian government bonds saw gains as crude oil prices retreated from recent highs. Traders squared short positions before the Federal Reserve's anticipated policy decision later today. Global debt mar"
+    },
+    {
+      "title": "Bizarre volatility bet in the options pits is a head scratcher ahead of Fed rate decision",
+      "description": "The biggest trade in options on the Cboe VIX Index Tuesday was an unusual $6 million purchase of deep, deep in-the-money-puts.",
+      "url": "https://www.cnbc.com/2026/09/16/bizarre-volatility-bet-in-the-options-pits-is-a-head-scratcher-ahead-of-fed-rate-decision.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-09-16T06:38:40+00:00",
+      "published_at": "2026-09-16T12:14:21+00:00",
       "category": "USA",
-      "simple_explanation": "The Organization of Islamic Cooperation condemned the strike as a \"heinous\" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage."
+      "simple_explanation": "The biggest trade in options on the Cboe VIX Index Tuesday was an unusual $6 million purchase of deep, deep in-the-money-puts."
     },
     {
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "description": "U.S. stock futures are trending higher early Wednesday as investors await the Federal Reserve’s highly anticipated interest rate decision and weigh cooling fears over an AI slowdown against the massive economic costs of the U.S.-Iran conflict. The Polymarket (CRYPTO: POL)...",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61808033/stock-market-will-sp-500-open-up-or-down-today-38?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "title": "US Fed rate hike after 3 years? Here’s what it could mean for Indian stock markets",
+      "description": "Amid rising inflation, the US Federal Reserve is likely to raise rates by 25 basis points today. Investors are eager for insights on future monetary policy, as this decision influences both global markets and Indian assets like stocks and currency stability.",
+      "url": "https://www.livemint.com/market/stock-market-news/us-fed-rate-hike-after-3-years-here-s-what-it-could-mean-for-indian-stock-markets-11789558809596.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/Fed_1789560732985_uPuW_1789560740567_1nq2_33a4660d-f6c0-407c-ae14-1e73936e4ba6_quCF.png",
+      "source": "LiveMint",
+      "published_at": "2026-09-16T12:13:30+00:00",
+      "category": "India",
+      "simple_explanation": "Amid rising inflation, the US Federal Reserve is likely to raise rates by 25 basis points today. Investors are eager for insights on future monetary policy, as this decision influences both global mar"
+    },
+    {
+      "title": "ASF Group rents 4 lakh sq ft office space to Genpact in Gurugram",
+      "description": "ASF Group has struck a major leasing agreement, providing Genpact with four lakh square feet at the prestigious ASF Insignia in Gurugram. This move marks a significant milestone, as Genpact will occupy an entire commercial tower, contributing to one of Delhi-NCR's largest office space deals. Notably",
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/asf-group-rents-4-lakh-sq-ft-office-space-to-genpact-in-gurugram/articleshow/134287641.cms",
+      "image": "https://img.etimg.com/photo/msid-134287641,imgsize-50802.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-16T12:12:08+00:00",
+      "category": "India",
+      "simple_explanation": "ASF Group has struck a major leasing agreement, providing Genpact with four lakh square feet at the prestigious ASF Insignia in Gurugram. This move marks a significant milestone, as Genpact will occup"
+    },
+    {
+      "title": "Ahead of US Fed rate hike impact prediction on American Treasuries: FOMC outcome likely effects decoded",
+      "description": "US Treasuries remained stable as traders awaited the Federal Reserve's interest-rate decision. The 10-year yield held at 5.004%, while the 2-year yield remained at 5.409%. Rising oil prices and inflation concerns contributed to market pressures ahead of the Fed's update on monetary policy.",
+      "url": "https://www.livemint.com/market/stock-market-news/ahead-of-us-fed-rate-hike-impact-prediction-on-american-treasuries-fomc-outcome-likely-effects-decoded-11789558513675.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/FOMC_1789560843614_UZIy_1789560849432_gG43_13ff23e5-6ca8-4ab7-bf32-9ce2942daa12_d8w2.png",
+      "source": "LiveMint",
+      "published_at": "2026-09-16T12:07:55+00:00",
+      "category": "India",
+      "simple_explanation": "US Treasuries remained stable as traders awaited the Federal Reserve's interest-rate decision. The 10-year yield held at 5.004%, while the 2-year yield remained at 5.409%. Rising oil prices and inflat"
+    },
+    {
+      "title": "Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage?",
+      "description": "The S&P 500 and Nasdaq undercut key support as oil prices and Treasury yields jumped. How will bonds react to the Federal Reserve decision?",
+      "url": "https://finance.yahoo.com/m/10d3ce21-753d-3a1d-b088-1aa8059410a8/dow-jones-futures-rise-as-oil.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-16T06:29:37+00:00",
+      "published_at": "2026-09-16T12:07:50+00:00",
       "category": "USA",
-      "simple_explanation": "U.S. stock futures are trending higher early Wednesday as investors await the Federal Reserve’s highly anticipated interest rate decision and weigh cooling fears over an AI slowdown against the massiv"
-    },
-    {
-      "title": "Top \"Magnificent Seven\" Picks for Patient Long-Term Investors",
-      "description": "Both stocks have been underwhelming recently, but the long-term appeal is strong.",
-      "url": "https://www.fool.com/investing/2026/09/16/top-magnificent-seven-picks-for-patient-long-term/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-16T06:20:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Both stocks have been underwhelming recently, but the long-term appeal is strong."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-09-16T05:52:31+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "simple_explanation": "The S&P 500 and Nasdaq undercut key support as oil prices and Treasury yields jumped. How will bonds react to the Federal Reserve decision?"
     }
   ]
 }
