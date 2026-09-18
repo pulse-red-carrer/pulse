@@ -1,56 +1,366 @@
 {
-  "last_updated": "2026-09-18T17:32:06.964258+00:00",
+  "last_updated": "2026-09-18T20:30:36.848858+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "3 Reasons BG is Risky and 1 Stock to Buy Instead",
-      "description": "Bunge Global currently trades at $119.30 per share and has shown little upside over the past six months, posting a small loss of 3.8%. The stock also fell short of the S&P 500’s 14% gain during that period.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-bg-risky-1-172040808.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-18T17:20:40+00:00",
-      "category": "USA",
-      "simple_explanation": "Bunge Global currently trades at $119.30 per share and has shown little upside over the past six months, posting a small loss of 3.8%. The stock also fell short of the S&P 500’s 14% gain during that p"
+      "title": "US stocks today: US stocks slip as higher Treasury yields weigh on sentiment",
+      "description": "US stocks ended mixed on Friday as Treasury yields topped 5% and crude oil stayed above $100 a barrel, keeping inflation worries alive. The Nasdaq gained as semiconductor stocks rallied, while the Dow slipped. Investors also assessed the Fed's rate outlook, triple witching volatility and fresh corpo",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-mixed-as-oil-takes-a-pause/articleshow/134343677.cms",
+      "image": "https://img.etimg.com/photo/msid-134343677,imgsize-129196.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-18T20:15:38+00:00",
+      "category": "India",
+      "simple_explanation": "US stocks ended mixed on Friday as Treasury yields topped 5% and crude oil stayed above $100 a barrel, keeping inflation worries alive. The Nasdaq gained as semiconductor stocks rallied, while the Dow"
     },
     {
-      "title": "US Inflation Progress Hampered by Higher Oil Prices, Morgan Stanley Says",
-      "description": "Higher oil prices have slowed the progress of US inflation toward the Federal Reserve's 2% target, M",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-inflation-progress-hampered-higher-171531523.html?.tsrc=rss",
+      "title": "US Equity Markets Mixed After Government Bond Yields Rise, Crude Oil Prices Fall",
+      "description": "US equity indexes were mixed Friday as government bond yields rebounded, with the 10-year hovering n",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-mixed-government-201257029.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-18T17:15:31+00:00",
+      "published_at": "2026-09-18T20:12:57+00:00",
       "category": "Commodities",
-      "simple_explanation": "Higher oil prices have slowed the progress of US inflation toward the Federal Reserve's 2% target, M"
+      "simple_explanation": "US equity indexes were mixed Friday as government bond yields rebounded, with the 10-year hovering n"
     },
     {
-      "title": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
-      "description": "Leaders of six major auto trade groups joined to sign a letter to the president.",
-      "url": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html",
+      "title": "Sector Update: Financial Stocks Mixed Late Afternoon",
+      "description": "Financial stocks were mixed in late Friday afternoon trading, with the NYSE Financial Index declinin",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-afternoon-200641566.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T20:06:41+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Financial stocks were mixed in late Friday afternoon trading, with the NYSE Financial Index declinin"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Fall Late Afternoon",
+      "description": "Energy stocks fell late Friday afternoon with the NYSE Energy Sector Index declining 0.7% and the St",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-200621416.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T20:06:21+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Energy stocks fell late Friday afternoon with the NYSE Energy Sector Index declining 0.7% and the St"
+    },
+    {
+      "title": "Trump says he's banning MS NOW, CNN and Politico from White House",
+      "description": "Trump, who often accuses mainstream media outlets of writing \"fake news,\" said on Truth Social that those outlets shouldn't be allowed to \"FICTION and LIES.\"",
+      "url": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-09-18T17:11:39+00:00",
+      "published_at": "2026-09-18T20:04:38+00:00",
       "category": "USA",
-      "simple_explanation": "Leaders of six major auto trade groups joined to sign a letter to the president."
+      "simple_explanation": "Trump, who often accuses mainstream media outlets of writing \"fake news,\" said on Truth Social that those outlets shouldn't be allowed to \"FICTION and LIES.\""
     },
     {
-      "title": "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+      "title": "Red Flags Emerge for Oil Prices in Europe and China",
+      "description": "For much of the Iran war, China has helped balance the market by reducing imports of oil. That appears to be changing.",
+      "url": "https://finance.yahoo.com/m/dd3466de-e979-3e6e-aeb0-004c62550ce8/red-flags-emerge-for-oil.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T20:03:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "For much of the Iran war, China has helped balance the market by reducing imports of oil. That appears to be changing."
+    },
+    {
+      "title": "Coinbase files to bring single-stock perpetual futures to US market",
+      "description": "Coinbase wants to bring 24/5 perpetual futures trading to individual US stocks, with its proposed contracts now awaiting regulatory approval.",
+      "url": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2V02EPZ2W43H6167S8HZBPZ/hi-uk-compliance-deadline-is-upcoming-coinbase.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-09-18T19:53:54+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Coinbase wants to bring 24/5 perpetual futures trading to individual US stocks, with its proposed contracts now awaiting regulatory approval."
+    },
+    {
+      "title": "Kuku Technologies gets SEBI nod for IPO launch: Top things to know about the issue",
+      "description": "SEBI has approved Kuku Technologies' IPO plans, following the company’s confidential draft IPO filing in June. The IPO aims to raise  ₹2,500 crore to  ₹3,500 crore and will use proceeds for technology and geographic expansion.",
+      "url": "https://www.livemint.com/market/stock-market-news/kuku-technologies-gets-sebi-nod-for-ipo-launch-top-things-to-know-about-the-issue-11789760078236.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/logo/KUKU_1789760343837_0cNz_1789760351271_HHOZ_db3b4e50-ac56-4bd2-9dfb-5cd31cdcdd8f_ZvUi.png",
+      "source": "LiveMint",
+      "published_at": "2026-09-18T19:46:38+00:00",
+      "category": "India",
+      "simple_explanation": "SEBI has approved Kuku Technologies' IPO plans, following the company’s confidential draft IPO filing in June. The IPO aims to raise  ₹2,500 crore to  ₹3,500 crore and will use proceeds for technology"
+    },
+    {
+      "title": "Warren Buffett sends a strong warning to stock market investors",
+      "description": "Warren Buffett has a playbook for moments like this one.",
+      "url": "https://www.thestreet.com/investing/stocks/warren-buffett-sends-a-strong-warning-to-stock-market-investors?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T19:37:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Warren Buffett has a playbook for moments like this one."
+    },
+    {
+      "title": "Why XRP Is Up Today",
+      "description": "XRP rose on Friday as oil prices eased and the SEC offered limited relief for tokenized-stock trading.",
+      "url": "https://www.fool.com/investing/2026/09/18/why-xrp-is-up-today/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T19:24:12+00:00",
+      "category": "USA",
+      "simple_explanation": "XRP rose on Friday as oil prices eased and the SEC offered limited relief for tokenized-stock trading."
+    },
+    {
+      "title": "3 Reasons RNR is Risky and 1 Stock to Buy Instead",
+      "description": "RenaissanceRe trades at $328.71 per share and has stayed right on track with the overall market, gaining 11.2% over the last six months. At the same time, the S&P 500 has returned 14%.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-rnr-risky-1-192040649.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T19:20:40+00:00",
+      "category": "USA",
+      "simple_explanation": "RenaissanceRe trades at $328.71 per share and has stayed right on track with the overall market, gaining 11.2% over the last six months. At the same time, the S&P 500 has returned 14%."
+    },
+    {
+      "title": "New SEC, CFTC rules after CLARITY setback fuel Bitcoin rally",
+      "description": "Fresh developments helped offset two of crypto’s biggest headwinds.",
+      "url": "https://www.thestreet.com/crypto/markets/sec-cftc-new-rules-after-clarity-setback-send-bitcoin-higher?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T19:19:24+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Fresh developments helped offset two of crypto’s biggest headwinds."
+    },
+    {
+      "title": "Why Bitcoin Is Up Today",
+      "description": "Bitcoin is higher Friday as oil prices retreat and the SEC offers limited relief for tokenized-stock trading.",
+      "url": "https://www.fool.com/investing/2026/09/18/why-bitcoin-is-up-today/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T19:18:21+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Bitcoin is higher Friday as oil prices retreat and the SEC offers limited relief for tokenized-stock trading."
+    },
+    {
+      "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
+      "description": "In the past week, Musk has agreed with the CEOs of Anthropic and OpenAI, while getting contradicted by President Trump and Nvidia's Jensen Huang.",
+      "url": "https://www.cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-18T19:15:24+00:00",
+      "category": "USA",
+      "simple_explanation": "In the past week, Musk has agreed with the CEOs of Anthropic and OpenAI, while getting contradicted by President Trump and Nvidia's Jensen Huang."
+    },
+    {
+      "title": "Dollar advances vs yen as BOJ dissent clouds rate-hike outlook",
+      "description": "GLOBAL-FOREX/ (UPDATE 6):FOREX-Dollar advances vs yen as BOJ dissent clouds rate-hike outlook",
+      "url": "https://www.livemint.com/market/dollar-advances-vs-yen-as-boj-dissent-clouds-rate-hike-outlook-11789758851837.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-09-18T19:14:11+00:00",
+      "category": "India",
+      "simple_explanation": "GLOBAL-FOREX/ (UPDATE 6):FOREX-Dollar advances vs yen as BOJ dissent clouds rate-hike outlook"
+    },
+    {
+      "title": "3M (MMM): Buy, Sell, or Hold Post Q2 Earnings?",
+      "description": "3M trades at $164.70 and has moved in lockstep with the market. Its shares have returned 13.5% over the last six months while the S&P 500 has gained 14%.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3m-mmm-buy-sell-hold-191240996.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T19:12:40+00:00",
+      "category": "USA",
+      "simple_explanation": "3M trades at $164.70 and has moved in lockstep with the market. Its shares have returned 13.5% over the last six months while the S&P 500 has gained 14%."
+    },
+    {
+      "title": "North Sea Oil Premiums Soar to Records After Saudis Cut Sales",
+      "description": "Europe’s oil refiners are paying eyewatering premiums for cargoes, as the shutdown of Saudi Arabia’s East-West pipeline forces the region’s buyers to scramble for alternatives with fuel prices soaring.",
+      "url": "https://www.livemint.com/market/north-sea-oil-premiums-soar-to-records-after-saudis-cut-sales-11789758731398.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "source": "LiveMint",
+      "published_at": "2026-09-18T19:12:10+00:00",
+      "category": "India",
+      "simple_explanation": "Europe’s oil refiners are paying eyewatering premiums for cargoes, as the shutdown of Saudi Arabia’s East-West pipeline forces the region’s buyers to scramble for alternatives with fuel prices soaring"
+    },
+    {
+      "title": "Binance launches 24/7 FX perps with weekend pricing system",
+      "description": "Binance is joining a growing number of crypto exchanges offering around-the-clock exposure to foreign exchange markets through perpetual futures.",
+      "url": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TWPXVTDCGSQ1MYSQ30VK2W/man-office-screen-computer02-2.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-09-18T19:06:30+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Binance is joining a growing number of crypto exchanges offering around-the-clock exposure to foreign exchange markets through perpetual futures."
+    },
+    {
+      "title": "XRP News: 16-Cross History Complicates the Golden Cross Signal",
+      "description": "XRP should be in every news headline as its 50-day moving average sits about 2% below its 200-day average, the closest the gap has been since the token’s last golden cross in August 2024. The setup is emerging as bitcoin dominance, or bitcoin’s share of total crypto market capitalization, has ...",
+      "url": "https://cryptonews.com/news/xrp-news-golden-cross-history/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T19:06:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "XRP should be in every news headline as its 50-day moving average sits about 2% below its 200-day average, the closest the gap has been since the token’s last golden cross in August 2024. The setup is"
+    },
+    {
+      "title": "Stock Market Today: Dow Wavers; Two Healthcare Names Shine In IBD 50 (Live Coverage)",
       "description": "Stock Market Today: The Dow Jones index falls Friday as oil prices reverse higher. Apple, AMD, Micron and Sandisk are key movers.",
       "url": "https://finance.yahoo.com/m/a79cf87c-d3f5-3e16-8ee6-e536ba767ccf/stock-market-today%3A-dow.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-18T17:09:47+00:00",
-      "category": "Commodities",
+      "published_at": "2026-09-18T18:58:32+00:00",
+      "category": "USA",
       "simple_explanation": "Stock Market Today: The Dow Jones index falls Friday as oil prices reverse higher. Apple, AMD, Micron and Sandisk are key movers."
     },
     {
-      "title": "ExxonMobil's Advantaged Assets and Refining Strength Drive Outlook",
-      "description": "XOM's advantaged assets, strong crude prices and elevated refining margins support its production and refining outlook.",
-      "url": "https://finance.yahoo.com/energy/articles/exxonmobils-advantaged-assets-refining-strength-170800286.html?.tsrc=rss",
+      "title": "Watsco (WSO): Buy, Sell, or Hold Post Q2 Earnings?",
+      "description": "Over the last six months, Watsco’s shares have sunk to $305.50, producing a disappointing 19.2% loss - a stark contrast to the S&P 500’s 14% gain. This was partly driven by its softer quarterly results and may have investors wondering how to approach the situation.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/watsco-wso-buy-sell-hold-185640089.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-18T17:08:00+00:00",
+      "published_at": "2026-09-18T18:56:40+00:00",
+      "category": "USA",
+      "simple_explanation": "Over the last six months, Watsco’s shares have sunk to $305.50, producing a disappointing 19.2% loss - a stark contrast to the S&P 500’s 14% gain. This was partly driven by its softer quarterly result"
+    },
+    {
+      "title": "Investor sentiment plunges to 16-month low, AAII survey shows",
+      "description": "Investor sentiment fell to its lowest level since May 2025, according to the latest AAII survey. Bearish investors rose to 53.3%, while bullish sentiment dropped to 28.8%. The bull-bear spread fell to -24.5%, as elevated oil prices, a Fed rate hike and market volatility fuelled caution among individ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/investor-sentiment-plunges-to-16-month-low-aaii-survey-shows/articleshow/134342784.cms",
+      "image": "https://img.etimg.com/photo/msid-134342784,imgsize-92302.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-18T18:48:28+00:00",
+      "category": "India",
+      "simple_explanation": "Investor sentiment fell to its lowest level since May 2025, according to the latest AAII survey. Bearish investors rose to 53.3%, while bullish sentiment dropped to 28.8%. The bull-bear spread fell to"
+    },
+    {
+      "title": "Blockchain Developers Are Racing to Protect Against the Quantum Threat. Here's What It Means for Bitcoin and Ethereum Investors.",
+      "description": "Google says breaking Bitcoin's signatures needs fewer than 500,000 qubits. The best machines running today have about 2,500.",
+      "url": "https://www.fool.com/investing/2026/09/18/blockchain-protection-against-quantum/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T18:41:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Google says breaking Bitcoin's signatures needs fewer than 500,000 qubits. The best machines running today have about 2,500."
+    },
+    {
+      "title": "Diesel margins hold near records as supply tightens",
+      "description": "Key takeawaysEuropean diesel refining margins remained at $85. 34 per barrel above Brent crude, approximately 7 per cent below their recent record.",
+      "url": "https://investorshub.advfn.com/market-news/article/36559/diesel-margins-near-record-supply-shortage?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T18:39:26+00:00",
       "category": "Commodities",
-      "simple_explanation": "XOM's advantaged assets, strong crude prices and elevated refining margins support its production and refining outlook."
+      "simple_explanation": "Key takeawaysEuropean diesel refining margins remained at $85. 34 per barrel above Brent crude, approximately 7 per cent below their recent record."
+    },
+    {
+      "title": "Investors Pull $1.8 Billion From Muni Market as Return Slump Extends",
+      "description": "Investors pulled about $1.8 billion out of the municipal bond market this week with returns for state and local government debt on track to tumble for the third consecutive month.",
+      "url": "https://www.livemint.com/market/investors-pull-1-8-billion-from-muni-market-as-return-slump-extends-11789756712011.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+      "source": "LiveMint",
+      "published_at": "2026-09-18T18:38:31+00:00",
+      "category": "India",
+      "simple_explanation": "Investors pulled about $1.8 billion out of the municipal bond market this week with returns for state and local government debt on track to tumble for the third consecutive month."
+    },
+    {
+      "title": "2 Stocks to Buy if You Think $100 Oil Will Last",
+      "description": "Occidental Petroleum and Chevron are still reliable plays on higher oil prices.",
+      "url": "https://www.fool.com/investing/2026/09/18/2-stocks-to-buy-if-you-think-100-oil-will-or-wont/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T18:35:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Occidental Petroleum and Chevron are still reliable plays on higher oil prices."
+    },
+    {
+      "title": "Gold rises to one-week high, heads for weekly gain on easing oil prices",
+      "description": "GLOBAL-PRECIOUS:Gold rises to one-week high, heads for weekly gain on easing oil prices",
+      "url": "https://www.livemint.com/market/gold-rises-to-one-week-high-heads-for-weekly-gain-on-easing-oil-prices-11789756221619.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-09-18T18:30:21+00:00",
+      "category": "India",
+      "simple_explanation": "GLOBAL-PRECIOUS:Gold rises to one-week high, heads for weekly gain on easing oil prices"
+    },
+    {
+      "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+      "description": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
+      "url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-18T18:28:31+00:00",
+      "category": "USA",
+      "simple_explanation": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next"
+    },
+    {
+      "title": "Fed Hike Jolts Gold Before Oil Retreat Fuels a Sharp Rebound",
+      "description": "Happy Friday, traders. Welcome to our weekly market wrap, where we take a look back at these last five trading days with a focus on the market news, economic data, and headlines that had the most impact on gold prices and other key correlated assets—and may continue to in the future.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/fed-hike-jolts-gold-oil-175938582.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T17:59:38+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Happy Friday, traders. Welcome to our weekly market wrap, where we take a look back at these last five trading days with a focus on the market news, economic data, and headlines that had the most impa"
+    },
+    {
+      "title": "Crypto stocks rebound after CLARITY Act selloff",
+      "description": "Coinbase, Strategy and other crypto-linked stocks rallied Friday as the CFTC and SEC moved ahead with crypto-related actions under existing authority.",
+      "url": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TRCGEVT9CNFA3RQBK4NDTE/hi-japan-ipo-stocks-explained2.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-09-18T17:55:57+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Coinbase, Strategy and other crypto-linked stocks rallied Friday as the CFTC and SEC moved ahead with crypto-related actions under existing authority."
+    },
+    {
+      "title": "Update: US Equity Indexes Decline as Benchmark Treasury Yield Heads Back Toward Highest in Almost 19 Years",
+      "description": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-decline-benchmark-175248158.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T17:52:48+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit"
+    },
+    {
+      "title": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS",
+      "description": "SpaceX is getting an extension to an existing contract that will allow three additional crewed Dragon flights to the International Space Station.",
+      "url": "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-18T17:41:45+00:00",
+      "category": "USA",
+      "simple_explanation": "SpaceX is getting an extension to an existing contract that will allow three additional crewed Dragon flights to the International Space Station."
+    },
+    {
+      "title": "IPO Tracker: 19 stocks debut this week, raise  ₹7,550 crore despite market volatility",
+      "description": "The Indian stock market faced pressure, yet 19 companies launched IPOs, raising  ₹7,550 crore. Mainboard firms, including Rentomojo and Kanohar Electricals, contributed significantly, though listing premiums varied, highlighting strong demand amid a declining secondary market.",
+      "url": "https://www.livemint.com/market/stock-market-news/ipo-tracker-19-stocks-debut-this-week-raise-rs-7-550-crore-despite-market-volatility-11789751470266.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/logo/IPOS_this_week_1789751978177_qlsY_1789751987712_iAPy_f990380c-1523-44bf-b2e9-74fa27fdedef_c48G.png",
+      "source": "LiveMint",
+      "published_at": "2026-09-18T17:38:10+00:00",
+      "category": "India",
+      "simple_explanation": "The Indian stock market faced pressure, yet 19 companies launched IPOs, raising  ₹7,550 crore. Mainboard firms, including Rentomojo and Kanohar Electricals, contributed significantly, though listing p"
+    },
+    {
+      "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+      "description": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+      "url": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-18T17:34:49+00:00",
+      "category": "USA",
+      "simple_explanation": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner."
+    },
+    {
+      "title": "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
+      "description": "The Dow is down 2% this week. The Nasdaq is up. One of the indexes is reading the Fed policy wrong.",
+      "url": "https://www.fool.com/investing/2026/09/18/the-dow-is-down-for-a-third-straight-week/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-18T17:25:17+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dow is down 2% this week. The Nasdaq is up. One of the indexes is reading the Fed policy wrong."
+    },
+    {
+      "title": "Howard Buffett to take charge as Berkshire Hathaway chairman: Who is he?",
+      "description": "Howard Buffett is set to become Berkshire Hathaway's new chairman, succeeding his father Warren Buffett, who will become chairman emeritus. The 71-year-old has served on Berkshire's board for 33 years and is expected to focus on preserving its culture. His career spans business, farming, conservatio",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/howard-buffett-to-take-charge-as-berkshire-hathaway-chairman-who-is-he/articleshow/134340490.cms",
+      "image": "https://img.etimg.com/photo/msid-134340490,imgsize-86710.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-18T17:21:55+00:00",
+      "category": "India",
+      "simple_explanation": "Howard Buffett is set to become Berkshire Hathaway's new chairman, succeeding his father Warren Buffett, who will become chairman emeritus. The 71-year-old has served on Berkshire's board for 33 years"
     },
     {
       "title": "JPMorgan Values Bitcoin at $266,000 Against Gold. Why It’s Trading Below $81,000?",
@@ -63,64 +373,14 @@
       "simple_explanation": "JPMorgan's analysts put a staggering price tag on Bitcoin that dwarfs every other bank's forecast, yet the coin keeps trading at a fraction of that figure. Understanding why reveals something uncomfor"
     },
     {
-      "title": "Nifty posts sixth straight weekly loss: Why is Indian stock market under pressure? Explained",
-      "description": "The Nifty 50 ended the week down 0.22%, continuing its six-week losing streak amid volatility. Despite a modest recovery, the index remains below 23,500 as global tensions and rising crude oil prices weigh heavily on investor sentiment and market stability.",
-      "url": "https://www.livemint.com/market/stock-market-news/nifty-posts-sixth-straight-weekly-loss-why-is-indian-stock-market-under-pressure-explained-11789746305019.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/logo/Dalal_S_1789748442238_KK6d_1789748448997_MtvJ_c5779a7c-f6b0-4c1c-b336-79530b496bd5_Ab5b.png",
-      "source": "LiveMint",
-      "published_at": "2026-09-18T16:52:07+00:00",
-      "category": "India",
-      "simple_explanation": "The Nifty 50 ended the week down 0.22%, continuing its six-week losing streak amid volatility. Despite a modest recovery, the index remains below 23,500 as global tensions and rising crude oil prices "
-    },
-    {
       "title": "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
       "description": "On Sept. 18, 2026, Netflix fell on a downgrade, and broader markets digested the possibility of further rate hikes.",
       "url": "https://www.fool.com/coverage/stock-market-today/2026/09/18/stock-market-midday-sept-18-stocks-slip-crypto-gains/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-09-18T16:51:01+00:00",
-      "category": "USA",
+      "category": "Commodities",
       "simple_explanation": "On Sept. 18, 2026, Netflix fell on a downgrade, and broader markets digested the possibility of further rate hikes."
-    },
-    {
-      "title": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
-      "description": "Democratic Senate candidates entered summer with a cash edge, while Trump-linked groups now pour money into increasingly crowded and costly ad markets.",
-      "url": "https://www.cnbc.com/2026/09/18/trump-election-ad-spend-maga-inc.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-18T16:49:03+00:00",
-      "category": "USA",
-      "simple_explanation": "Democratic Senate candidates entered summer with a cash edge, while Trump-linked groups now pour money into increasingly crowded and costly ad markets."
-    },
-    {
-      "title": "Bitcoin Never Sleeps but BITI Does: The Hidden Cost of Weekday-Only Hedging",
-      "description": "Bitcoin printed new lows on a Sunday while BITI traders sat frozen on the sidelines, and that gap between a market that never closes and a hedge that does creates a structural problem most investors only discover after the damage is done.",
-      "url": "https://247wallst.com/investing/etf/2026/09/18/bitcoin-never-sleeps-but-biti-does-the-hidden-cost-of-weekday-only-hedging/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-18T16:43:28+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin printed new lows on a Sunday while BITI traders sat frozen on the sidelines, and that gap between a market that never closes and a hedge that does creates a structural problem most investors o"
-    },
-    {
-      "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
-      "description": "XRP is roaring back as Bitcoin claws its way above $800,000 again, but the charts continue to give traders mixed signals.",
-      "url": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-18T16:42:32+00:00",
-      "category": "Crypto",
-      "simple_explanation": "XRP is roaring back as Bitcoin claws its way above $800,000 again, but the charts continue to give traders mixed signals."
-    },
-    {
-      "title": "Nike parts ways with Kylian Mbappé, soccer superstar signs with On",
-      "description": "Mbappe had been signed with Nike for roughly two decades, and his agreement with On is the first it has made with a soccer player.",
-      "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-18T16:42:14+00:00",
-      "category": "USA",
-      "simple_explanation": "Mbappe had been signed with Nike for roughly two decades, and his agreement with On is the first it has made with a soccer player."
     },
     {
       "title": "Kevin O’Leary Is Buying Crypto Again — His Gold Theory Points to $760K Bitcoin",
@@ -133,26 +393,6 @@
       "simple_explanation": "Kevin O’Leary has started buying new crypto positions ahead of what he believes will be the market’s next cycle. He said Bitcoin could eventually attract ..."
     },
     {
-      "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
-      "description": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
-      "url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-18T16:33:43+00:00",
-      "category": "USA",
-      "simple_explanation": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next"
-    },
-    {
-      "title": "IREN Shares Rise as Northland Targets $99",
-      "description": "The target implies more than 100% upside from the prior close",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/iren-shares-rise-northland-targets-162451738.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-18T16:24:51+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The target implies more than 100% upside from the prior close"
-    },
-    {
       "title": "The Bond Market Will Keep Driving Stocks—At Least Until Earnings Season",
       "description": "If you want to know what's going on in the stock market any given day, the answer of late has overwhelmingly been: the bond market.  The Nasdaq Composite was down 0.1%.  All three major indexes were faring far better until bond yields and oil prices took a chunk out of stocks.",
       "url": "https://finance.yahoo.com/m/914513f0-9d76-3611-96aa-c74ae18fb838/the-bond-market-will-keep.html?.tsrc=rss",
@@ -161,246 +401,6 @@
       "published_at": "2026-09-18T16:22:43+00:00",
       "category": "USA",
       "simple_explanation": "If you want to know what's going on in the stock market any given day, the answer of late has overwhelmingly been: the bond market.  The Nasdaq Composite was down 0.1%.  All three major indexes were f"
-    },
-    {
-      "title": "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%",
-      "description": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-benchmark-162230543.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-18T16:22:30+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit"
-    },
-    {
-      "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
-      "description": "Dimon joins OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-      "url": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-18T16:21:20+00:00",
-      "category": "USA",
-      "simple_explanation": "Dimon joins OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner."
-    },
-    {
-      "title": "JPMorgan says one asset class could soon beat gold",
-      "description": "JPMorgan says stubborn investor caution could create an opportunity in a major macro trade.",
-      "url": "https://www.thestreet.com/crypto/markets/jpmorgan-says-one-asset-class-could-soon-beat-gold?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-18T16:18:36+00:00",
-      "category": "Commodities",
-      "simple_explanation": "JPMorgan says stubborn investor caution could create an opportunity in a major macro trade."
-    },
-    {
-      "title": "Goldman Sachs Delivers Surprising Verdict on Big Tech Stocks",
-      "description": "AI spending is reshaping how investors value tech giants",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-delivers-surprising-verdict-161802068.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-18T16:18:02+00:00",
-      "category": "USA",
-      "simple_explanation": "AI spending is reshaping how investors value tech giants"
-    },
-    {
-      "title": "Saudi Export Pivot Sends Brent Below $105",
-      "description": "Saudi Aramco shifts crude exports to the Persian Gulf, easing supply fears and pushing Brent below $105.",
-      "url": "https://finance.yahoo.com/energy/articles/saudi-export-pivot-sends-brent-161500900.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-18T16:15:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Saudi Aramco shifts crude exports to the Persian Gulf, easing supply fears and pushing Brent below $105."
-    },
-    {
-      "title": "CFTC submits crypto market regulation plan for White House review",
-      "description": "The US commodities regulator submitted a new crypto market regulatory action for White House review days after the Senate failed to advance the CLARITY Act.",
-      "url": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-09-18T16:04:22+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The US commodities regulator submitted a new crypto market regulatory action for White House review days after the Senate failed to advance the CLARITY Act."
-    },
-    {
-      "title": "Global Markets: French bond spread at highest since 2012 as default insurance spikes",
-      "description": "Amid rising investor concerns surrounding France's fiscal health leading up to next year's elections, risk premiums on French government bonds have surged to levels not seen since the euro zone debt crisis. The country grapples with a tough budget situation, prompting plans for a substantial savings",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-french-bond-spread-at-highest-since-2012-as-default-insurance-spikes/articleshow/134338977.cms",
-      "image": "https://img.etimg.com/photo/msid-134338977,imgsize-20004.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-18T15:53:10+00:00",
-      "category": "India",
-      "simple_explanation": "Amid rising investor concerns surrounding France's fiscal health leading up to next year's elections, risk premiums on French government bonds have surged to levels not seen since the euro zone debt c"
-    },
-    {
-      "title": "US Treasury yields rise as investors weigh outlook for rate hikes",
-      "description": "As investors analyze the economic landscape, US Treasury yields have seen an uptick, fueled by discussions around future rate hikes by the Federal Reserve. The Bank of Japan has also joined the trend, elevating interest rates to their highest point in thirty-one years. Meanwhile, global inflation pr",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-yields-rise-as-investors-weigh-outlook-for-rate-hikes/articleshow/134338963.cms",
-      "image": "https://img.etimg.com/photo/msid-134338963,imgsize-24948.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-18T15:50:58+00:00",
-      "category": "India",
-      "simple_explanation": "As investors analyze the economic landscape, US Treasury yields have seen an uptick, fueled by discussions around future rate hikes by the Federal Reserve. The Bank of Japan has also joined the trend,"
-    },
-    {
-      "title": "This Nation's Stock Market Is Outperforming All Others This Year. Should You Invest?",
-      "description": "South Korea's stock market is outperforming all other nations this year.",
-      "url": "https://www.fool.com/investing/2026/09/18/this-nations-stock-market-is-outperforming-others/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-18T15:43:16+00:00",
-      "category": "USA",
-      "simple_explanation": "South Korea's stock market is outperforming all other nations this year."
-    },
-    {
-      "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
-      "description": "Bitcoin price action made swift gains at the start of Friday’s Wall Street trading session as US 30-year bond yields began rising again.",
-      "url": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJDKWQFE5TAXZVRTNBSB4T/oil-bitcoin-coin-stablecoin-blockchain-sky-platform-production-iran.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-09-18T15:35:59+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin price action made swift gains at the start of Friday’s Wall Street trading session as US 30-year bond yields began rising again."
-    },
-    {
-      "title": "Dow Slides as Treasury Yields Near 5% After Fed Rate Hike",
-      "description": "Wall Street Wobbles as Treasury Yields Spike Following Fed Move",
-      "url": "https://finance.yahoo.com/economy/policy/articles/dow-slides-treasury-yields-near-153350275.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-18T15:33:50+00:00",
-      "category": "USA",
-      "simple_explanation": "Wall Street Wobbles as Treasury Yields Spike Following Fed Move"
-    },
-    {
-      "title": "Could high gas prices start shocking company earnings?",
-      "description": "PNC Asset Management Group CIO Amanda Agati and Yahoo Finance Senior Business Reporter Ines Ferré join Yahoo Finance Executive Editor Brian Sozzi to talk about diesel prices at an all-time high and gasoline prices nearing its high from May and whether it could start affecting the bottom line of comp",
-      "url": "https://finance.yahoo.com/video/could-high-gas-prices-start-153233689.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-18T15:32:33+00:00",
-      "category": "Commodities",
-      "simple_explanation": "PNC Asset Management Group CIO Amanda Agati and Yahoo Finance Senior Business Reporter Ines Ferré join Yahoo Finance Executive Editor Brian Sozzi to talk about diesel prices at an all-time high and ga"
-    },
-    {
-      "title": "Netflix sell-off deepens as stock drops another 7% to hit two-month low. What is spooking investors?",
-      "description": "Netflix shares fell 7% to $70.11 after Wells Fargo downgraded the stock to Underweight due to user engagement concerns. Despite being the largest paid streaming platform, Netflix faced revenue growth challenges and weakened content.",
-      "url": "https://www.livemint.com/market/stock-market-news/netflix-sell-off-deepens-as-stock-drops-another-7-to-hit-two-month-low-what-is-spooking-investors-11789741143715.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/logo/Netflix_1789743757892_tLHa_1789743767774_vsqD_8e905442-2918-4fe1-a318-69a53b1c76c8_PV1m.png",
-      "source": "LiveMint",
-      "published_at": "2026-09-18T15:23:39+00:00",
-      "category": "India",
-      "simple_explanation": "Netflix shares fell 7% to $70.11 after Wells Fargo downgraded the stock to Underweight due to user engagement concerns. Despite being the largest paid streaming platform, Netflix faced revenue growth "
-    },
-    {
-      "title": "HDFC Mutual Fund buys 13.9 lakh Entero Healthcare shares from Prasid Uno Family Trust in Rs 236 crore block deal",
-      "description": "HDFC Mutual Fund bought 13.90 lakh Entero Healthcare Solutions shares worth Rs 235.6 crore through a block deal at Rs 1,695 apiece. Prasid Uno Family Trust sold the shares, representing about 3.19% of the company’s equity, amid recent stock gains.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-mutual-fund-buys-13-9-lakh-entero-healthcare-shares-from-prasid-uno-family-trust-in-rs-236-crore-block-deal/articleshow/134338556.cms",
-      "image": "https://img.etimg.com/photo/msid-134338556,imgsize-17700.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-18T15:15:11+00:00",
-      "category": "India",
-      "simple_explanation": "HDFC Mutual Fund bought 13.90 lakh Entero Healthcare Solutions shares worth Rs 235.6 crore through a block deal at Rs 1,695 apiece. Prasid Uno Family Trust sold the shares, representing about 3.19% of"
-    },
-    {
-      "title": "Tata feud wipes  ₹52,154 crore off listed companies’ market value",
-      "description": "Investors reassess Tata stocks as the Tata Sons-Tata Trusts standoff raises concerns over leadership and capital allocation.",
-      "url": "https://www.livemint.com/market/stock-market-news/tata-feud-wipes-52-154-crore-off-listed-companies-market-value-11789737927529.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/logo/tata_sons_1789621534902_5XN4_1789621551174_zyTq_95_1789743434121_j2ep_1789743434268_mapG_f8609759-c13c-4063-95eb-d2a114e7f17c_27MW.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-09-18T15:00:15+00:00",
-      "category": "India",
-      "simple_explanation": "Investors reassess Tata stocks as the Tata Sons-Tata Trusts standoff raises concerns over leadership and capital allocation."
-    },
-    {
-      "title": "Pulse of the Street: Crude retreats, but markets extend losing streak",
-      "description": "Indian equities extend their losing streak to six weeks as crude volatility, Tata Group concerns and IPO fund flows weighed on sentiments.",
-      "url": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-crude-retreats-but-markets-fail-to-break-losing-streak-11789739627282.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/logo/3-0-64268220-bse--3--0_1679804518242_1789743243820_PKPv_096b510d-d000-4a6a-8487-fcf55e1867fe_QyPb.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-09-18T14:55:45+00:00",
-      "category": "India",
-      "simple_explanation": "Indian equities extend their losing streak to six weeks as crude volatility, Tata Group concerns and IPO fund flows weighed on sentiments."
-    },
-    {
-      "title": "Lenskart block deal: Rs 2,047 crore stake sale likely; Platinum Jasmine may offload 1.7% holding",
-      "description": "Bitcoin has gained 61.7% over five years, outperforming Ethereum and Solana, which declined 26.2% and 27.9%. Analysts attribute Bitcoin’s lead to institutional adoption, ETF flows, liquidity and scarcity, while Ethereum and Solana remain more sensitive to network activity and crypto narratives.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-block-deal-rs-2047-crore-stake-sale-likely-platinum-jasmine-may-offload-1-7-holding/articleshow/134338290.cms",
-      "image": "https://img.etimg.com/photo/msid-134338290,imgsize-456316.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-18T14:53:33+00:00",
-      "category": "India",
-      "simple_explanation": "Bitcoin has gained 61.7% over five years, outperforming Ethereum and Solana, which declined 26.2% and 27.9%. Analysts attribute Bitcoin’s lead to institutional adoption, ETF flows, liquidity and scarc"
-    },
-    {
-      "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
-      "description": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week.",
-      "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-18T14:36:55+00:00",
-      "category": "USA",
-      "simple_explanation": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week."
-    },
-    {
-      "title": "Stocks Slip After Rising Oil and Yields Take Away Early Morning Gains",
-      "description": "Higher oil prices and bond yields continued to be the enemy of modest stock market gains.  The Nasdaq Composite was down 0.1%.  \"Today is 'triple witching' day, when options and futures expire for various traded products, possibly fueling increased trading activity and volatility,\" writes Joe Mazzol",
-      "url": "https://finance.yahoo.com/m/27e943e1-8d71-3566-9851-0922e791f5c8/stocks-slip-after-rising-oil.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-18T14:22:55+00:00",
-      "category": "USA",
-      "simple_explanation": "Higher oil prices and bond yields continued to be the enemy of modest stock market gains.  The Nasdaq Composite was down 0.1%.  \"Today is 'triple witching' day, when options and futures expire for var"
-    },
-    {
-      "title": "US Federal Reserve's Michelle Bowman says changes to bank stress test coming soon",
-      "description": "The Federal Reserve will soon vote on revamped bank stress tests.  These changes aim for greater transparency and predictability for lenders.  More details about testing models will be disclosed to the public.  Results from two recent tests will determine capital buffer requirements.  This overhaul ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserves-michelle-bowman-says-changes-to-bank-stress-test-coming-soon/articleshow/134337833.cms",
-      "image": "https://img.etimg.com/photo/msid-134337833,imgsize-58266.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-18T14:22:11+00:00",
-      "category": "India",
-      "simple_explanation": "The Federal Reserve will soon vote on revamped bank stress tests.  These changes aim for greater transparency and predictability for lenders.  More details about testing models will be disclosed to th"
-    },
-    {
-      "title": "Wall Street falls amid volatile oil prices and higher Treasury yields, Nucor slips 4.1%, Xenon tanks 27%",
-      "description": "At 10:17 a.m. ET, the Dow Jones Industrial Average fell 0.38%, the S&amp;P 500 lost 0.22%, the Nasdaq Composite was down 0.16%",
-      "url": "https://www.livemint.com/market/stock-market-news/wall-street-mixed-amid-lower-oil-prices-and-higher-treasury-yields-11789740109962.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/nyse2_1789740338762_OPen_1789740358839_cB33_b845c00b-20e9-44c9-a342-97c656802e19_5qTy.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-09-18T14:15:02+00:00",
-      "category": "India",
-      "simple_explanation": "At 10:17 a.m. ET, the Dow Jones Industrial Average fell 0.38%, the S&amp;P 500 lost 0.22%, the Nasdaq Composite was down 0.16%"
-    },
-    {
-      "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
-      "description": "Banks now represent nearly one in four providers on ESMA’s MiCA register after roughly doubling their presence since late June.",
-      "url": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T9WY6ZEBREY64C7KQFFW2D/2222222.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-09-18T14:04:43+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Banks now represent nearly one in four providers on ESMA’s MiCA register after roughly doubling their presence since late June."
-    },
-    {
-      "title": "Lenskart Solutions block deal: ADIA-backed investor likely to offload 1.7% stake: Report",
-      "description": "Platinum Jasmine A 2018 Trust is set to divest its 1.7% stake in Lenskart Solutions, valued at  ₹2,047.4 crore. The block deal pricing is a 3.5% discount from the recent closing price.",
-      "url": "https://www.livemint.com/market/stock-market-news/lenskart-solutions-block-deal-adia-backed-investor-likely-to-offload-1-7-stake-report-11789738853707.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/LENSKART-IPO--5_1761632068943_1761632084325_1789738966586_lBHb_e5b54c7b-2f46-4fc9-917a-2a916bde269a_T3hu.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-09-18T13:45:02+00:00",
-      "category": "India",
-      "simple_explanation": "Platinum Jasmine A 2018 Trust is set to divest its 1.7% stake in Lenskart Solutions, valued at  ₹2,047.4 crore. The block deal pricing is a 3.5% discount from the recent closing price."
-    },
-    {
-      "title": "US stocks today: US stocks slip as Treasury yields rise, investors weigh Fed outlook",
-      "description": "US stocks fell on Friday as higher Treasury yields, volatile oil prices and uncertainty over the Federal Reserve’s rate path weighed on sentiment. The Dow, S&P 500 and Nasdaq declined, while investors also tracked AI demand concerns, triple witching volatility and corporate developments involving Wa",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-oil-prices-fall/articleshow/134337081.cms",
-      "image": "https://img.etimg.com/photo/msid-134337081,imgsize-123896.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-18T13:41:28+00:00",
-      "category": "India",
-      "simple_explanation": "US stocks fell on Friday as higher Treasury yields, volatile oil prices and uncertainty over the Federal Reserve’s rate path weighed on sentiment. The Dow, S&P 500 and Nasdaq declined, while investors"
     }
   ]
 }
