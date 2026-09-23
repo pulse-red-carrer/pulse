@@ -1,26 +1,366 @@
 {
-  "last_updated": "2026-09-23T19:29:22.624400+00:00",
+  "last_updated": "2026-09-23T22:44:12.081403+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "S&P 500 Enters Historically Strong Midterm Stretch",
-      "description": "A powerful seasonal pattern is coming back into focus",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-enters-historically-strong-192728409.html?.tsrc=rss",
+      "title": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir, Palo Alto Flash Buy Signals",
+      "description": "The stock market fell as Treasury yields skyrocketed and oil prices rose, but Palantir and Palo Alto flashed buy signals.",
+      "url": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures%3A-stocks.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-23T19:27:28+00:00",
+      "published_at": "2026-09-23T22:26:01+00:00",
       "category": "USA",
-      "simple_explanation": "A powerful seasonal pattern is coming back into focus"
+      "simple_explanation": "The stock market fell as Treasury yields skyrocketed and oil prices rose, but Palantir and Palo Alto flashed buy signals."
     },
     {
-      "title": "10-year Treasury yield rockets to 19-year high. Here's what's driving the spike",
-      "description": "Treasury yields traded higher on Wednesday as new services and manufacturing sector data increased worry of further Federal Reserve rate hikes.",
-      "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
+      "title": "Here's Why AngloGold Ashanti (AU) Fell More Than Broader Market",
+      "description": "AngloGold Ashanti (AU) closed the most recent trading day at $98.74, moving 5.6% from the previous trading session.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-anglogold-ashanti-au-221505588.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T22:15:05+00:00",
+      "category": "USA",
+      "simple_explanation": "AngloGold Ashanti (AU) closed the most recent trading day at $98.74, moving 5.6% from the previous trading session."
+    },
+    {
+      "title": "United Airlines (UAL) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "description": "In the closing of the recent trading day, United Airlines (UAL) stood at $110.66, denoting a -3.95% move from the preceding trading day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-ual-registers-bigger-221504843.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T22:15:04+00:00",
+      "category": "USA",
+      "simple_explanation": "In the closing of the recent trading day, United Airlines (UAL) stood at $110.66, denoting a -3.95% move from the preceding trading day."
+    },
+    {
+      "title": "Sunrun (RUN) Dips More Than Broader Market: What You Should Know",
+      "description": "Sunrun (RUN) closed at $8.35 in the latest trading session, marking a -5.01% move from the prior day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-dips-more-broader-221504959.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T22:15:04+00:00",
+      "category": "USA",
+      "simple_explanation": "Sunrun (RUN) closed at $8.35 in the latest trading session, marking a -5.01% move from the prior day."
+    },
+    {
+      "title": "Here's Why Hercules Capital (HTGC) Fell More Than Broader Market",
+      "description": "Hercules Capital (HTGC) closed at $16.97 in the latest trading session, marking a -1.45% move from the prior day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-hercules-capital-htgc-221503912.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T22:15:03+00:00",
+      "category": "USA",
+      "simple_explanation": "Hercules Capital (HTGC) closed at $16.97 in the latest trading session, marking a -1.45% move from the prior day."
+    },
+    {
+      "title": "Ouster, Inc. (OUST) Suffers a Larger Drop Than the General Market: Key Insights",
+      "description": "In the closing of the recent trading day, Ouster, Inc. (OUST) stood at $39.38, denoting a -2.16% move from the preceding trading day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ouster-inc-oust-suffers-larger-221503726.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T22:15:03+00:00",
+      "category": "USA",
+      "simple_explanation": "In the closing of the recent trading day, Ouster, Inc. (OUST) stood at $39.38, denoting a -2.16% move from the preceding trading day."
+    },
+    {
+      "title": "Fiverr International (FVRR) Declines More Than Market: Some Information for Investors",
+      "description": "In the latest trading session, Fiverr International (FVRR) closed at $8.52, marking a -1.73% move from the previous day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fiverr-international-fvrr-declines-more-221503141.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T22:15:03+00:00",
+      "category": "USA",
+      "simple_explanation": "In the latest trading session, Fiverr International (FVRR) closed at $8.52, marking a -1.73% move from the previous day."
+    },
+    {
+      "title": "BitMEX Has Shut Down: Where Do Its Traders Go Now?",
+      "description": "After 11 years, the exchange that invented the perpetual swap contract has gone dark, leaving its remaining traders scrambling and a $495 million lawsuit from Celsius's bankruptcy estate casting a long shadow over its founders.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/23/bitmex-has-shut-down-where-do-its-traders-go-now/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T21:59:48+00:00",
+      "category": "Crypto",
+      "simple_explanation": "After 11 years, the exchange that invented the perpetual swap contract has gone dark, leaving its remaining traders scrambling and a $495 million lawsuit from Celsius's bankruptcy estate casting a lon"
+    },
+    {
+      "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
+      "description": "SEC Commissioner Mark Uyeda said that the agency dropped many cases against crypto companies in early 2025 to avoid potential credibility problems in court.",
+      "url": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M380MX1W92VXBB79W6WPSWR1/hi-sec-vs-us-court-follow-up.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-09-23T21:47:52+00:00",
+      "category": "Crypto",
+      "simple_explanation": "SEC Commissioner Mark Uyeda said that the agency dropped many cases against crypto companies in early 2025 to avoid potential credibility problems in court."
+    },
+    {
+      "title": "Bank of America resets its oil price target with strong warning",
+      "description": "A new note from Bank of America just changed what Wall Street expects from oil prices for the rest of 2026.",
+      "url": "https://www.thestreet.com/investing/bank-of-america-raises-oil-price-target-with-strong-warning?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T21:47:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "A new note from Bank of America just changed what Wall Street expects from oil prices for the rest of 2026."
+    },
+    {
+      "title": "Will XRP or Avalanche Keep Their Gains in October?",
+      "description": "XRP and Avalanche both crushed Bitcoin's gains last week, but each coin now faces a very different set of obstacles heading into October that could either cement those gains or erase them fast.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/23/will-xrp-or-avalanche-keep-their-gains-in-october/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T21:47:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "XRP and Avalanche both crushed Bitcoin's gains last week, but each coin now faces a very different set of obstacles heading into October that could either cement those gains or erase them fast."
+    },
+    {
+      "title": "The end of an era for BitMEX, the OG perpetual swap exchange",
+      "description": "Scott Melker breaks down the closure of BitMEX (BMEX-USD), the crypto exchange that pioneered perpetual swaps, after 11 years in operation. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's ne",
+      "url": "https://finance.yahoo.com/video/end-era-bitmex-og-perpetual-214600744.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T21:46:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Scott Melker breaks down the closure of BitMEX (BMEX-USD), the crypto exchange that pioneered perpetual swaps, after 11 years in operation. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p"
+    },
+    {
+      "title": "Economist drops warning on Michael Saylor’s next Bitcoin move",
+      "description": "Peter Schiff is once again taking aim at Strategy chairman Michael Saylor, this time questioning the logic behind his firm’s latest Bitcoin buy.",
+      "url": "https://www.thestreet.com/crypto/markets/economist-drops-warning-on-michael-saylors-next-bitcoin-move?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T21:36:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Peter Schiff is once again taking aim at Strategy chairman Michael Saylor, this time questioning the logic behind his firm’s latest Bitcoin buy."
+    },
+    {
+      "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
+      "description": "Persistent growth of Chinese exports to the U.S. is helping the world's second-largest economy ride out ongoing domestic challenges.",
+      "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-09-23T21:26:36+00:00",
+      "category": "Global",
+      "simple_explanation": "Persistent growth of Chinese exports to the U.S. is helping the world's second-largest economy ride out ongoing domestic challenges."
+    },
+    {
+      "title": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
+      "description": "Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.",
+      "url": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-09-23T19:20:36+00:00",
+      "published_at": "2026-09-23T21:25:01+00:00",
       "category": "USA",
-      "simple_explanation": "Treasury yields traded higher on Wednesday as new services and manufacturing sector data increased worry of further Federal Reserve rate hikes."
+      "simple_explanation": "Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers."
+    },
+    {
+      "title": "Bitcoin Set for Its First Q3 Winning Streak Since 2012: What Can History Teach Us?",
+      "description": "Bitcoin is chasing a Q3 winning streak it has not achieved since it traded for pocket change in 2012, and the aftermath of that last streak holds a surprising lesson for anyone betting on history to repeat.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/23/bitcoin-set-for-its-first-q3-winning-streak-since-2012-what-can-history-teach-us/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T21:24:07+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin is chasing a Q3 winning streak it has not achieved since it traded for pocket change in 2012, and the aftermath of that last streak holds a surprising lesson for anyone betting on history to r"
+    },
+    {
+      "title": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
+      "description": "The DOJ on Tuesday night cited national security concerns in justifying President Trump's ban of MS NOW, CNN and Politico from the White House.",
+      "url": "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-23T21:22:30+00:00",
+      "category": "USA",
+      "simple_explanation": "The DOJ on Tuesday night cited national security concerns in justifying President Trump's ban of MS NOW, CNN and Politico from the White House."
+    },
+    {
+      "title": "Here's what happens to the economy when Treasury yields soar like they are now",
+      "description": "Government debt costs leaped higher Wednesday, the product of multiple factors.",
+      "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-23T21:11:28+00:00",
+      "category": "USA",
+      "simple_explanation": "Government debt costs leaped higher Wednesday, the product of multiple factors."
+    },
+    {
+      "title": "Meta's standoff with Amazon over Muse could be a sign of things to come",
+      "description": "Meta's new Muse AI personal agent is garnering excitement and shows signs of becoming a hit, but Amazon has blocked the app from its site.",
+      "url": "https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-23T21:04:47+00:00",
+      "category": "USA",
+      "simple_explanation": "Meta's new Muse AI personal agent is garnering excitement and shows signs of becoming a hit, but Amazon has blocked the app from its site."
+    },
+    {
+      "title": "The 10-Year Treasury Is Back Above 5%. Here Comes the Pain.",
+      "description": "The 10-year Treasury is back above 5%, its highest level since July 2007. And we all know what happened shortly after.",
+      "url": "https://app.moby.co/home/news/news-the-10-year-treasury-is-back-above-5-here-comes-the-pain?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T20:59:09+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The 10-year Treasury is back above 5%, its highest level since July 2007. And we all know what happened shortly after."
+    },
+    {
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
+      "description": "The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC.",
+      "url": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3805C8FH8HWMHMANF3VXJW2/investigation-search.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-09-23T20:43:56+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC."
+    },
+    {
+      "title": "Stocks fall on soaring bond yields, higher oil prices",
+      "description": "Stock markets fell Wednesday as oil prices rose sharply and US bond yields jumped on inflation fears, with world leaders at the UN General Assembly offering little to suggest progress in ending turmoil in the Middle East.Hopes for a deal to get Gulf oil and gas flowing freely through the Strait of H",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-fall-trump-hails-025236730.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T20:40:14+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Stock markets fell Wednesday as oil prices rose sharply and US bond yields jumped on inflation fears, with world leaders at the UN General Assembly offering little to suggest progress in ending turmoi"
+    },
+    {
+      "title": "US stocks fall as 10-year Treasury yield hits highest since 2007",
+      "description": "GLOBAL-MARKETS:US stocks fall as 10-year Treasury yield hits highest since 2007",
+      "url": "https://www.livemint.com/market/us-stocks-fall-as-10-year-treasury-yield-hits-highest-since-2007-11790195978698.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-09-23T20:39:38+00:00",
+      "category": "India",
+      "simple_explanation": "GLOBAL-MARKETS:US stocks fall as 10-year Treasury yield hits highest since 2007"
+    },
+    {
+      "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
+      "description": "Altman is one of several tech executives who's argued that AI companies should temper the pace of AI development in order to manage potential risks.",
+      "url": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-23T20:29:20+00:00",
+      "category": "USA",
+      "simple_explanation": "Altman is one of several tech executives who's argued that AI companies should temper the pace of AI development in order to manage potential risks."
+    },
+    {
+      "title": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
+      "description": "The case between New Jersey authorities and a prediction market company, if accepted by the Supreme Court, could result in clarity for state and federal officials over sports bets.",
+      "url": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37S1XC5MZ8AHXAWMABJV243/hi-a-supreme-court-case-kalshi.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-09-23T20:28:34+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The case between New Jersey authorities and a prediction market company, if accepted by the Supreme Court, could result in clarity for state and federal officials over sports bets."
+    },
+    {
+      "title": "US Equity Markets End Lower as Strong PMI Data Lifts October Rate-Increase Odds",
+      "description": "US equity indexes ended lower Wednesday after a surge in private-sector output growth lifted expecta",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-202648216.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T20:26:48+00:00",
+      "category": "Commodities",
+      "simple_explanation": "US equity indexes ended lower Wednesday after a surge in private-sector output growth lifted expecta"
+    },
+    {
+      "title": "Gary Cardone made $750K without chasing Bitcoin, here's what he bought",
+      "description": "The investor put his money into Strategy’s STRC preferred stock instead of Bitcoin, and says he is now waiting for a dip into the $70,000s.",
+      "url": "https://www.thestreet.com/crypto/markets/gary-cardone-made-750k-without-chasing-bitcoin-heres-what-he-bought?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T20:23:13+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The investor put his money into Strategy’s STRC preferred stock instead of Bitcoin, and says he is now waiting for a dip into the $70,000s."
+    },
+    {
+      "title": "TSX Closer: Index Falls 1.6% as Base Metals, Financials Drag; Oil Rises on US-Iran Tensions",
+      "description": "The S&P/TSX Composite Index closed sharply lower on Wednesday as weakness in base metal and financia",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-falls-1-202226244.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T20:22:26+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The S&P/TSX Composite Index closed sharply lower on Wednesday as weakness in base metal and financia"
+    },
+    {
+      "title": "US stocks: US market ends down as oil prices, Treasury yields rise",
+      "description": "In a turbulent day for Wall Street, the markets faced declines primarily driven by disappointing performances from Alphabet and Amazon, compounded by increasing Treasury yields. Meanwhile, a spike in oil prices ensued following Iran's President's remarks at the UN, impacting overall market sentiment",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-as-oil-prices-treasury-yields-rise/articleshow/134445625.cms",
+      "image": "https://img.etimg.com/photo/msid-134445625,imgsize-118216.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-23T20:19:17+00:00",
+      "category": "India",
+      "simple_explanation": "In a turbulent day for Wall Street, the markets faced declines primarily driven by disappointing performances from Alphabet and Amazon, compounded by increasing Treasury yields. Meanwhile, a spike in "
+    },
+    {
+      "title": "Pipelines Are Pumping AI’s Power. 2 Winning Stocks to Buy.",
+      "description": "Pipelines that transport America’s energy sources are increasingly linked to the buildout of AI infrastructure rather than black gold.  Artificial intelligence’s insatiable energy demand is well documented, for better or worse, and the number of power-hungry data centers looks likely to rise, despit",
+      "url": "https://finance.yahoo.com/m/0f86433f-36dd-3ff3-b8e6-cb284bea2c5c/pipelines-are-pumping-ai%E2%80%99s.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T20:07:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Pipelines that transport America’s energy sources are increasingly linked to the buildout of AI infrastructure rather than black gold.  Artificial intelligence’s insatiable energy demand is well docum"
+    },
+    {
+      "title": "Asset Portfolio Briefing: First Gold Production at Cuiú Cuiú, Imminent Gold Production at Amulsar, and Other Positive Updates",
+      "description": "MONTRÉAL, Sept. 23, 2026 (GLOBE NEWSWIRE) -- OR Royalties Inc. (“OR Royalties,” or the “Company”) (OR: TSX & NYSE) is pleased to provide the following select producing, development and exploration asset updates. Amounts presented are in United States dollars, except where otherwise noted. Select Pro",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/asset-portfolio-briefing-first-gold-200500063.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T20:05:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "MONTRÉAL, Sept. 23, 2026 (GLOBE NEWSWIRE) -- OR Royalties Inc. (“OR Royalties,” or the “Company”) (OR: TSX & NYSE) is pleased to provide the following select producing, development and exploration ass"
+    },
+    {
+      "title": "Gold Falls as Traders Weigh US-Iran Talk Progress, Fedspeak",
+      "description": "Gold fell as traders monitored progress in talks between the US and Iran and comments by Federal Reserve officials for clues on how energy costs will influence the path forward for interest rates.",
+      "url": "https://www.livemint.com/market/gold-falls-as-traders-weigh-us-iran-talk-progress-fedspeak-11790193438638.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "source": "LiveMint",
+      "published_at": "2026-09-23T19:57:18+00:00",
+      "category": "India",
+      "simple_explanation": "Gold fell as traders monitored progress in talks between the US and Iran and comments by Federal Reserve officials for clues on how energy costs will influence the path forward for interest rates."
+    },
+    {
+      "title": "Dollar jumps to near two-month high on Fed outlook, inflation concern",
+      "description": "GLOBAL-FOREX/ (UPDATE 5, GRAPHIC):FOR",
+      "url": "https://www.livemint.com/market/dollar-jumps-to-near-two-month-high-on-fed-outlook-inflation-concern-11790193013788.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "source": "LiveMint",
+      "published_at": "2026-09-23T19:50:13+00:00",
+      "category": "India",
+      "simple_explanation": "GLOBAL-FOREX/ (UPDATE 5, GRAPHIC):FOR"
+    },
+    {
+      "title": "NV Gold Identifies New Gold Zone at Slumber Gold Project in Nevada",
+      "description": "NV Gold (NVX.V), up 15% on last look, on Wednesday said it identified a new gold zone 1.4 kilometers",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/nv-gold-identifies-gold-zone-194822734.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T19:48:22+00:00",
+      "category": "Commodities",
+      "simple_explanation": "NV Gold (NVX.V), up 15% on last look, on Wednesday said it identified a new gold zone 1.4 kilometers"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-09-23T19:39:24+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Gold ETFs Just Had Their 2nd-Biggest Month Ever",
+      "description": "In August, investors poured roughly $18 billion into gold ETFs, the second-largest monthly inflow in history, driving global holdings to an all-time record. North American buying alone exploded from a sleepy $71 million in July to $7.7 billion in August, a 108-fold surge. Then, weeks later, the Fede",
+      "url": "http://www.etf.com/sections/news/gold-etfs-just-had-their-2nd-biggest-month-ever?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-23T19:32:40+00:00",
+      "category": "Commodities",
+      "simple_explanation": "In August, investors poured roughly $18 billion into gold ETFs, the second-largest monthly inflow in history, driving global holdings to an all-time record. North American buying alone exploded from a"
     },
     {
       "title": "Oil industry warns a diesel export ban will raise fuel prices as Trump weighs restrictions",
@@ -28,19 +368,9 @@
       "url": "https://www.cnbc.com/2026/09/23/trump-diesel-export-ban-gas-prices.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-09-23T19:18:35+00:00",
+      "published_at": "2026-09-23T19:30:54+00:00",
       "category": "USA",
       "simple_explanation": "A diesel export ban would provide only brief relief before prices start to rise again as refiners cut production, experts say."
-    },
-    {
-      "title": "How Kalshi is making Wall Street-style hedging available to small businesses",
-      "description": "Jennifer Sanasie and Renato Mariotti sit down with Andy Ross, Head of Institutional Business at Kalshi at the Avalanche Summit. They discuss how prediction markets are moving from retail curiosity to institutional infrastructure. Ross explains why he believes institutional volume will eventually top",
-      "url": "http://videos.coindesk.com/previews/CPoNyW5Y?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T19:16:39+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Jennifer Sanasie and Renato Mariotti sit down with Andy Ross, Head of Institutional Business at Kalshi at the Avalanche Summit. They discuss how prediction markets are moving from retail curiosity to "
     },
     {
       "title": "Trump reveals up to $100K Strategy stock purchase in ethics filing",
@@ -53,66 +383,6 @@
       "simple_explanation": "President Donald Trump disclosed a July purchase of Strategy shares as his administration continues to advance crypto policy through federal regulators and Congress."
     },
     {
-      "title": "Analyst who predicted 2021 crash admits he was wrong about Bitcoin",
-      "description": "The analyst who called the 2021 crypto collapse admits his bearish 2026 Bitcoin thesis was wrong.",
-      "url": "https://www.thestreet.com/crypto/markets/analyst-who-predicted-2021-crash-admits-he-was-wrong-about-bitcoin?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T19:04:57+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The analyst who called the 2021 crypto collapse admits his bearish 2026 Bitcoin thesis was wrong."
-    },
-    {
-      "title": "Prediction markets face questions over reported volume and fraud schemes",
-      "description": "Scott Melker discusses CoinDesk's reporting on possible volume anomalies at Kalshi and Polymarket's handling of fraud schemes. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub ",
-      "url": "https://finance.yahoo.com/video/prediction-markets-face-questions-over-190000595.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T19:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Scott Melker discusses CoinDesk's reporting on possible volume anomalies at Kalshi and Polymarket's handling of fraud schemes. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in f"
-    },
-    {
-      "title": "Update: US Equity Indexes Drop as Robust Output Growth Galvanizes Fed Rate-Increase Bets",
-      "description": "(Updates with index/price moves, macroeconomic data, and geopolitical news from the first paragraph.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-drop-robust-185251446.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T18:52:51+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with index/price moves, macroeconomic data, and geopolitical news from the first paragraph."
-    },
-    {
-      "title": "Tesla Roadster reveal is creating a unique options opportunity, says Mike Khouw",
-      "description": "Teslas are expensive cars, and the Roadster, which the company will reveal on October 1st, will likely be the its most expensive.",
-      "url": "https://www.cnbc.com/2026/09/23/tesla-roadster-reveal-is-creating-a-unique-options-opportunity-says-mike-khouw.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-23T18:52:11+00:00",
-      "category": "USA",
-      "simple_explanation": "Teslas are expensive cars, and the Roadster, which the company will reveal on October 1st, will likely be the its most expensive."
-    },
-    {
-      "title": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
-      "description": "Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.",
-      "url": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-23T18:47:29+00:00",
-      "category": "USA",
-      "simple_explanation": "Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers."
-    },
-    {
-      "title": "$15.6 Billion in Bitcoin Options Expire Friday—Here's What It Means",
-      "description": "Deribit's strike-by-strike data shows a book stacked with calls, and one price level drawing hedging pressure from both sides at once.",
-      "url": "https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T18:46:03+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Deribit's strike-by-strike data shows a book stacked with calls, and one price level drawing hedging pressure from both sides at once."
-    },
-    {
       "title": "Top 3 IPOs Performance Report Card: Ahead of NSE, know how Hyundai, LIC, Paytm fared on exchange debut day; data details",
       "description": "The National Stock Exchange's debut on September 24 has investors eager to compare it with previous major IPOs. Hyundai, LIC, and Paytm faced weak openings but saw varied recoveries, highlighting market volatility and valuation concerns impacting stock performance post-listing.",
       "url": "https://www.livemint.com/market/stock-market-news/top-3-ipos-performance-report-card-ahead-of-nse-know-how-hyundai-lic-paytm-fared-on-exchange-debut-day-data-details-11790181298264.html",
@@ -123,16 +393,6 @@
       "simple_explanation": "The National Stock Exchange's debut on September 24 has investors eager to compare it with previous major IPOs. Hyundai, LIC, and Paytm faced weak openings but saw varied recoveries, highlighting mark"
     },
     {
-      "title": "Why McDonald's is following Walmart and Amazon into the advertising business",
-      "description": "McDonald's is following the lead of Amazon and Walmart as it starts its own media network.",
-      "url": "https://www.cnbc.com/2026/09/23/why-mcdonalds-is-building-an-advertising-business.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-23T18:39:44+00:00",
-      "category": "USA",
-      "simple_explanation": "McDonald's is following the lead of Amazon and Walmart as it starts its own media network."
-    },
-    {
       "title": "Wall Street falls as oil prices, Treasury yields rise",
       "description": "USA-STOCKS/ (UPDATE 5, GRAPHIC):US STOCKS-Wall Street falls as oil prices, Treasury yields rise",
       "url": "https://www.livemint.com/market/wall-street-falls-as-oil-prices-treasury-yields-rise-11790188753276.html",
@@ -141,266 +401,6 @@
       "published_at": "2026-09-23T18:39:12+00:00",
       "category": "India",
       "simple_explanation": "USA-STOCKS/ (UPDATE 5, GRAPHIC):US STOCKS-Wall Street falls as oil prices, Treasury yields rise"
-    },
-    {
-      "title": "US diesel futures fall on report of export ban plan; White House calls it fake news",
-      "description": "US diesel futures fell significantly following reports of a potential 90-day export ban. President Donald Trump expressed his support for the ban to manage rising fuel prices. However, US Energy Secretary Chris Wright indicated that such a ban may not effectively resolve the price issues. Diesel pri",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-diesel-futures-fall-on-report-of-export-ban-plan-white-house-calls-it-fake-news/articleshow/134444376.cms",
-      "image": "https://img.etimg.com/photo/msid-134444376,imgsize-41344.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-23T18:38:14+00:00",
-      "category": "India",
-      "simple_explanation": "US diesel futures fell significantly following reports of a potential 90-day export ban. President Donald Trump expressed his support for the ban to manage rising fuel prices. However, US Energy Secre"
-    },
-    {
-      "title": "Stock Market Today; Small Caps Slapped, Biotech ETF Hit; Argenx Faces Test At 50-Day Average (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index falls Wednesday after the Nasdaq set new highs Tuesday. Micron and Sandisk drop.",
-      "url": "https://finance.yahoo.com/m/f0c95ea3-7b96-3a04-82c0-08260c90b7cc/stock-market-today%3B-small.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T18:35:51+00:00",
-      "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index falls Wednesday after the Nasdaq set new highs Tuesday. Micron and Sandisk drop."
-    },
-    {
-      "title": "Trump's stock accounts quietly loaded up on Strategy and Tesla, filing shows",
-      "description": "President Donald Trump’s latest ethics filing shows 1,156 trades in July.",
-      "url": "https://www.thestreet.com/crypto/markets/trumps-stock-accounts-quietly-loaded-up-on-strategy-and-tesla-filing-shows?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T18:35:27+00:00",
-      "category": "Crypto",
-      "simple_explanation": "President Donald Trump’s latest ethics filing shows 1,156 trades in July."
-    },
-    {
-      "title": "Carnival faces fuel, pricing headwinds ahead of third-quarter results",
-      "description": "Carnival Corp (NYSE:CCL), the cruise operator, faces higher fuel costs and softer pricing that have prompted Jefferies to cut its earnings estimates ahead of the company’s third-quarter results on September 29. Jefferies lowered its 2026 revenue estimate by 1% and cut its 2026 and 2027 EPS...",
-      "url": "https://www.proactiveinvestors.com/companies/news/1099005/carnival-faces-fuel-pricing-headwinds-ahead-of-third-quarter-results-1099005.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T18:27:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Carnival Corp (NYSE:CCL), the cruise operator, faces higher fuel costs and softer pricing that have prompted Jefferies to cut its earnings estimates ahead of the company’s third-quarter results on Sep"
-    },
-    {
-      "title": "Ledger Finally Adds Private Zcash Balances: Will It Extend ZEC Rally?",
-      "description": "Ledger adds private Zcash balances to its desktop app as ZEC holds an 84% monthly gain. Here is what changes for holders.",
-      "url": "https://beincrypto.com/ledger-private-zcash-balances-zec-rally/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T18:25:35+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Ledger adds private Zcash balances to its desktop app as ZEC holds an 84% monthly gain. Here is what changes for holders."
-    },
-    {
-      "title": "A Diesel Export Ban Isn’t a Good Idea",
-      "description": "The original management guru, Peter Drucker, famously warned: “There is nothing so useless as doing efficiently that which should not be done at all.”  Midterm elections, paired with inflation and the optics of an oil price surge tied to the war with Iran, is stoking the kind of response Drucker was",
-      "url": "https://finance.yahoo.com/m/b7b7fce3-bcfc-344b-b1f7-823f9442f41b/a-diesel-export-ban-isn%E2%80%99t-a.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T18:20:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The original management guru, Peter Drucker, famously warned: “There is nothing so useless as doing efficiently that which should not be done at all.”  Midterm elections, paired with inflation and the"
-    },
-    {
-      "title": "Expedia Stock Is Among Today’s Worst in the S&P 500. Blame Meta’s Muse.",
-      "description": "Meta’s Muse release has disrupted stocks of online travel booking platforms. Expedia was among those dropping on Wednesday.",
-      "url": "https://finance.yahoo.com/m/0ccd5160-67da-38b4-a8ec-b5b9c885e17b/expedia-stock-is-among.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T18:19:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Meta’s Muse release has disrupted stocks of online travel booking platforms. Expedia was among those dropping on Wednesday."
-    },
-    {
-      "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
-      "description": "The survey released by Visa posited that bank-like protections for stablecoins could increase adoption in the US as companies are preparing for the enactment of the GENIUS Act.",
-      "url": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37J1B2V73G566QY4TGVRJ04/hi-why-the-us-is-one-of-the-most-crypto-friendly-countries-in-the-world2.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-09-23T18:17:48+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The survey released by Visa posited that bank-like protections for stablecoins could increase adoption in the US as companies are preparing for the enactment of the GENIUS Act."
-    },
-    {
-      "title": "Sector Update: Energy Stocks Rise Wednesday Afternoon",
-      "description": "Energy stocks climbed Wednesday afternoon with the NYSE Energy Sector Index rising 1.2% and the Stat",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-wednesday-180336346.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T18:03:36+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Energy stocks climbed Wednesday afternoon with the NYSE Energy Sector Index rising 1.2% and the Stat"
-    },
-    {
-      "title": "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-      "description": "(Updates with latest market prices and developments.) US benchmark stock indexes fell intraday an",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-yields-surge-180218962.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T18:02:18+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with latest market prices and developments.) US benchmark stock indexes fell intraday an"
-    },
-    {
-      "title": "New Social Security bill would lower retirement age to 60 for some workers",
-      "description": "Rep. Haley Stevens introduced a bill that would let some workers in physically demanding jobs claim full Social Security retirement benefits at age 60.",
-      "url": "https://www.cnbc.com/2026/09/23/social-security-retirement-age-physical-jobs.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-23T17:58:47+00:00",
-      "category": "USA",
-      "simple_explanation": "Rep. Haley Stevens introduced a bill that would let some workers in physically demanding jobs claim full Social Security retirement benefits at age 60."
-    },
-    {
-      "title": "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-      "description": "(Updates with index/price moves, macroeconomic data, and comments from the first paragraph.) US",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-midday-175045108.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T17:50:45+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Updates with index/price moves, macroeconomic data, and comments from the first paragraph.) US"
-    },
-    {
-      "title": "Why Did On Holding Stock Jump If Its Near-Term Guidance Did Not Change?",
-      "description": "On Holding (ONON) stock rose 7.6% on Tuesday, September 22, 2026, while the S&P 500 finished flat. At its investor day in Zurich, the company unveiled its first share buyback and targets for 2029. What the market bought was a promise to keep choosing price over volume.",
-      "url": "https://www.trefis.com/articles/616301/why-did-on-holding-stock-jump-if-its-near-term-guidance-did-not-change/2026-09-23?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T17:40:24+00:00",
-      "category": "USA",
-      "simple_explanation": "On Holding (ONON) stock rose 7.6% on Tuesday, September 22, 2026, while the S&P 500 finished flat. At its investor day in Zurich, the company unveiled its first share buyback and targets for 2029. Wha"
-    },
-    {
-      "title": "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
-      "description": "Business activity just hit a five-year high. Treasury yields hit a 19-year high. Guess which one stocks cared about.",
-      "url": "https://www.fool.com/investing/2026/09/23/the-economy-is-booming-so-the-market-indexes-fell/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T17:40:20+00:00",
-      "category": "USA",
-      "simple_explanation": "Business activity just hit a five-year high. Treasury yields hit a 19-year high. Guess which one stocks cared about."
-    },
-    {
-      "title": "Looking for consumer and investor sentiment trends? Turn to social media.",
-      "description": "Jessica Inskip, StockBrokers.com director of Investor Research, explains to the Market Hang panel how social media algorithms are great for gauging investor sentiment and consumer demand.",
-      "url": "https://finance.yahoo.com/video/looking-consumer-investor-sentiment-trends-173227182.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T17:32:27+00:00",
-      "category": "USA",
-      "simple_explanation": "Jessica Inskip, StockBrokers.com director of Investor Research, explains to the Market Hang panel how social media algorithms are great for gauging investor sentiment and consumer demand."
-    },
-    {
-      "title": "Melania Trump rings New York Stock Exchange opening bell to launch new women's initiative Imperia",
-      "description": "On Wednesday, Melania Trump celebrated the launch of her initiative, Imperia, at the New York Stock Exchange, championing women's leadership and economic empowerment. She emphasized the significant impact women make on the global economy during her remarks. Furthermore, she brought attention to glob",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/melania-trump-rings-new-york-stock-exchange-opening-bell-to-launch-new-womens-initiative-imperia/articleshow/134443367.cms",
-      "image": "https://img.etimg.com/photo/msid-134443367,imgsize-.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-23T17:27:05+00:00",
-      "category": "India",
-      "simple_explanation": "On Wednesday, Melania Trump celebrated the launch of her initiative, Imperia, at the New York Stock Exchange, championing women's leadership and economic empowerment. She emphasized the significant im"
-    },
-    {
-      "title": "Nifty outlook, guide tomorrow: Why 23,600 matters; bullish candle formed, check resistance, support levels | Thu 24 Sep",
-      "description": "The Nifty 50 recovered on Wednesday, gaining 118 points and closing near 23,450. It formed a bullish candle despite previous bearish pressure, but resistance remains at 23,489–23,600. Support is noted at 23,350 and 23,285, while GNA Axles signals a potential uptrend following a recent breakout.",
-      "url": "https://www.livemint.com/market/stock-market-news/nifty-outlook-guide-tomorrow-why-23-600-matters-bullish-candle-formed-check-resistance-support-levels-thu-24-sep-11790181438414.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Dalal_Street_Investment_1789433297270_4qOt_1789433_1790181835722_bWvE_1790181835952_TfMZ_ffac8cec-acda-4ea7-9fb9-99c73daaf264_urhm.png",
-      "source": "LiveMint",
-      "published_at": "2026-09-23T17:24:27+00:00",
-      "category": "India",
-      "simple_explanation": "The Nifty 50 recovered on Wednesday, gaining 118 points and closing near 23,450. It formed a bullish candle despite previous bearish pressure, but resistance remains at 23,489–23,600. Support is noted"
-    },
-    {
-      "title": "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
-      "description": "Today, Sept. 23, 2026, bond yields and geopolitical tensions weigh on U.S. indexes, while cybersecurity stocks rally.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/23/stock-market-midday-sept-23-stocks-slip-as-treasury-yields-hit-19-year-high/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T16:54:23+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Today, Sept. 23, 2026, bond yields and geopolitical tensions weigh on U.S. indexes, while cybersecurity stocks rally."
-    },
-    {
-      "title": "NevGold Announces the Passing of Board Member Tim Dyhr",
-      "description": "Vancouver, British Columbia, Sept. 23, 2026 (GLOBE NEWSWIRE) -- It is with deep sadness that NevGold Corp. (“NevGold” or the “Company”) announces the passing of Tim Dyhr, a long-standing member of the Company’s Board of Directors and a valued friend and business colleague. On behalf of the Board of ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nevgold-announces-passing-board-member-164900125.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T16:49:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Vancouver, British Columbia, Sept. 23, 2026 (GLOBE NEWSWIRE) -- It is with deep sadness that NevGold Corp. (“NevGold” or the “Company”) announces the passing of Tim Dyhr, a long-standing member of the"
-    },
-    {
-      "title": "Top breakout stocks to buy today: Aptus, KRBL, Tata Steel, Radico, GNFC by Sumeet Bagadia | Targets",
-      "description": "Multiple stocks, including Aptus, KRBL, Tata Steel, Radico Khaitan, and GNFC, show potential for breakout as recommended by Sumeet Bagadia from Choice Broking, highlighting technical indicators such as bullish reversal signals and volume confirmation.",
-      "url": "https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-aptus-krbl-tata-steel-radico-gnfc-by-sumeet-bagadia-targets-11790178360010.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Sumet_1790179043714_vDje_1790179050859_qgIk_6137e822-7491-41ec-b0ab-cf3126ba415b_UDEa.png",
-      "source": "LiveMint",
-      "published_at": "2026-09-23T16:48:31+00:00",
-      "category": "India",
-      "simple_explanation": "Multiple stocks, including Aptus, KRBL, Tata Steel, Radico Khaitan, and GNFC, show potential for breakout as recommended by Sumeet Bagadia from Choice Broking, highlighting technical indicators such a"
-    },
-    {
-      "title": "Fed Governor Michael Barr signals more rate hikes needed to tame inflation",
-      "description": "Federal Reserve Governor Michael Barr announced that additional rate hikes may be necessary to manage inflation. He indicated that while economic growth is strong, inflation remains above the target of 2%. The central bank recently raised the policy rate to a range of 3.75%-4.00%. Barr's perspective",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-governor-michael-barr-signals-more-rate-hikes-needed-to-tame-inflation/articleshow/134442493.cms",
-      "image": "https://img.etimg.com/photo/msid-134442493,imgsize-97980.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-23T16:44:32+00:00",
-      "category": "India",
-      "simple_explanation": "Federal Reserve Governor Michael Barr announced that additional rate hikes may be necessary to manage inflation. He indicated that while economic growth is strong, inflation remains above the target o"
-    },
-    {
-      "title": "US Equity Indexes Fall in Midday Trading",
-      "description": "US equity indexes fell in midday trading on Wednesday as oil prices and bond yields gained while tra",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-midday-163741940.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T16:37:41+00:00",
-      "category": "Commodities",
-      "simple_explanation": "US equity indexes fell in midday trading on Wednesday as oil prices and bond yields gained while tra"
-    },
-    {
-      "title": "Stocks, Bonds Slip as Oil Jump Fuels Fed-Hike Bets",
-      "description": "Stocks joined bonds lower as higher oil prices stoked worries about inflationary pressures, which were further bolstered by data showing jump in US business activity at the fastest pace since 2021. Gargi Chaudhuri, Global Chief Investment Strategist at BlackRock, discusses the markets and how invest",
-      "url": "https://finance.yahoo.com/video/stocks-bonds-slip-oil-jump-163644793.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T16:36:44+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Stocks joined bonds lower as higher oil prices stoked worries about inflationary pressures, which were further bolstered by data showing jump in US business activity at the fastest pace since 2021. Ga"
-    },
-    {
-      "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
-      "description": "The product gives European investors brokerage access to the LIT token as Bitwise expands its lineup of products tied to decentralized derivatives platforms.",
-      "url": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37DHCMTV7JXT1KJHVV2D4BM/hi-dexs-closing-down-or-re-launching2.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-09-23T16:34:27+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The product gives European investors brokerage access to the LIT token as Bitwise expands its lineup of products tied to decentralized derivatives platforms."
-    },
-    {
-      "title": "Stocks Slump as Wall Street Shifts Risk-Off",
-      "description": "Stocks declined as the tone on Wall Street shifted away from risk amid mounting geopolitical uncertainties. The downturn marked a breather from the recent tech stock rally. The tech-heavy Nasdaq Composite dove 1%, pulling back from the record high it set the session prior.",
-      "url": "https://finance.yahoo.com/m/f5272d73-a59d-3183-95a6-b29eb3c33f44/stocks-slump-as-wall-street.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-23T16:16:40+00:00",
-      "category": "USA",
-      "simple_explanation": "Stocks declined as the tone on Wall Street shifted away from risk amid mounting geopolitical uncertainties. The downturn marked a breather from the recent tech stock rally. The tech-heavy Nasdaq Compo"
-    },
-    {
-      "title": "NSE IPO may see modest debut despite strong institutional demand",
-      "description": "The GMP for NSE IPO shares has decreased significantly, indicating a tepid retail appetite amid concerns over valuation, with a potential listing premium of 4.5%.",
-      "url": "https://www.livemint.com/market/stock-market-news/nse-ipo-share-price-market-cap-gmp-11790167142139.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/NSE_on_Train_1790187308882_vLwQ_1790187309043_EGKF_590ea82d-c751-428b-aec0-03464589ace8_nIse.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-09-23T16:03:40+00:00",
-      "category": "India",
-      "simple_explanation": "The GMP for NSE IPO shares has decreased significantly, indicating a tepid retail appetite amid concerns over valuation, with a potential listing premium of 4.5%."
     }
   ]
 }
