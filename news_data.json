@@ -1,226 +1,366 @@
 {
-  "last_updated": "2026-09-24T13:17:50.391765+00:00",
+  "last_updated": "2026-09-24T18:15:12.542765+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Oracle shares drop on report it sent 'force majeure' notice about data center project",
-      "description": "Oracle is looking to delay payment on Project Jupiter, if it fails to come online as expected in 2028",
+      "title": "Sector Update: Financial Stocks Decrease in Afternoon Trading",
+      "description": "Financial stocks were softer in Thursday afternoon trading, with the NYSE Financial Index and the St",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decrease-afternoon-181109505.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T18:11:09+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Financial stocks were softer in Thursday afternoon trading, with the NYSE Financial Index and the St"
+    },
+    {
+      "title": "Pete Hegseth reports at least $3.1 million in cash, investments and Bitcoin",
+      "description": "Defense Secretary Pete Hegseth reported at least $3.1 million in assets as he faces an impeachment push in Congress over his handling of the Iran war.",
+      "url": "https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-24T18:05:37+00:00",
+      "category": "USA",
+      "simple_explanation": "Defense Secretary Pete Hegseth reported at least $3.1 million in assets as he faces an impeachment push in Congress over his handling of the Iran war."
+    },
+    {
+      "title": "These S&P 500 Stocks Are Earning The Biggest EPS Upgrades",
+      "description": "Wall Street is revising assumptions about these S&P 500 stocks thanks to booming AI backlogs and transformed fundamentals.",
+      "url": "https://finance.yahoo.com/m/297b7387-d6e4-31fc-b9c6-a41434dada5e/these-s%26p-500-stocks-are.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T18:05:13+00:00",
+      "category": "USA",
+      "simple_explanation": "Wall Street is revising assumptions about these S&P 500 stocks thanks to booming AI backlogs and transformed fundamentals."
+    },
+    {
+      "title": "Update: US Equity Indexes Fall as 30-Year Treasury Yield Jumps to Highest in 2 Decades, Crude Oil Extends Gains",
+      "description": "(Updates with index/price moves, macroeconomic data, and geopolitical news from the first paragraph.",
+      "url": "https://finance.yahoo.com/markets/articles/us-equity-indexes-fall-30-175735784.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T17:57:35+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with index/price moves, macroeconomic data, and geopolitical news from the first paragraph."
+    },
+    {
+      "title": "Analysis: Higher Treasury yields deliver a reality check on a hot, inflation-prone economy",
+      "description": "Elevated Treasury yields will complicate both Federal Reserve policy and Treasury financing.",
+      "url": "https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-24T17:56:42+00:00",
+      "category": "USA",
+      "simple_explanation": "Elevated Treasury yields will complicate both Federal Reserve policy and Treasury financing."
+    },
+    {
+      "title": "An S&P 500 Index Fund Already Owns These Financial Stocks. Here's Whether to Own More.",
+      "description": "Do you really need more financial stocks?",
+      "url": "https://www.fool.com/investing/2026/09/24/an-sp-500-index-fund-already-owns-these-financial/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T17:50:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Do you really need more financial stocks?"
+    },
+    {
+      "title": "IRDAI commission proposals: Why does Nithin Kamath see regulatory risk as key?",
+      "description": "Zerodha CEO Nithin Kamath warned that regulatory risk is the biggest threat to financial businesses after IRDAI's proposed changes to insurance commission rules. The reforms aim to restructure insurance distribution expenses, which could affect commission rates and the economics of fintech models.",
+      "url": "https://www.livemint.com/market/stock-market-news/irdai-commission-proposals-why-does-nithin-kamath-see-regulatory-risk-as-key-11790271257779.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/Nithin_Kamath_1786807039173_1786807044957_354bfec4-b7b5-473d-a1c4-3a5c5c2693b4_1790271594352_9pgT_efc4494c-d927-4046-81c8-1b4655e72188_1Mtt.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-09-24T17:48:55+00:00",
+      "category": "India",
+      "simple_explanation": "Zerodha CEO Nithin Kamath warned that regulatory risk is the biggest threat to financial businesses after IRDAI's proposed changes to insurance commission rules. The reforms aim to restructure insuran"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Improves On U.S.-Iran News; MGM Resorts Plummets (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index drops Thursday on rising Treasury yields. Nvidia stock sold off in morning trading.",
+      "url": "https://finance.yahoo.com/m/a54a90ad-a14d-3ff8-9f09-e455a0eca8cf/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T17:45:55+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Stock Market Today: The Dow Jones index drops Thursday on rising Treasury yields. Nvidia stock sold off in morning trading."
+    },
+    {
+      "title": "U.S. Treasury yields hit multi-decade highs, sending Bitcoin lower",
+      "description": "The 30-year Treasury bond yield hit a 2004 peak of around 5.44% today.",
+      "url": "https://www.thestreet.com/crypto/markets/u-s-treasury-yields-hit-multi-decade-highs-sending-bitcoin-lower?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T17:45:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The 30-year Treasury bond yield hit a 2004 peak of around 5.44% today."
+    },
+    {
+      "title": "Snapdeal parent AceVector raises Rs 189 crore from anchors; Negen, Singularity among top investors",
+      "description": "In a significant move, AceVector, the owner of Snapdeal, has successfully garnered Rs 189 crore from anchor investors for its upcoming IPO, scheduled to open on September 25 with a set price range of Rs 30-32 per share. Major allocations were made to funds like Negen Undiscovered Value Fund and Sing",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/snapdeal-parent-acevector-raises-rs-189-crore-from-anchors-negen-singularity-among-top-investors/articleshow/134467815.cms",
+      "image": "https://img.etimg.com/photo/msid-134467815,imgsize-110396.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-24T17:44:58+00:00",
+      "category": "India",
+      "simple_explanation": "In a significant move, AceVector, the owner of Snapdeal, has successfully garnered Rs 189 crore from anchor investors for its upcoming IPO, scheduled to open on September 25 with a set price range of "
+    },
+    {
+      "title": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
+      "description": "State attorney general Letitia James claims Polymarket has violated the state's gambling laws.",
+      "url": "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-09-24T17:44:32+00:00",
+      "category": "USA",
+      "simple_explanation": "State attorney general Letitia James claims Polymarket has violated the state's gambling laws."
+    },
+    {
+      "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
+      "description": "Most DATs now trade below the value of their crypto holdings, weakening a financing model that once helped companies expand their balance sheets.",
+      "url": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3A24Y0DVXQSBK1VSJST05MZ/bear-bang-reg-falling-crypto.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-09-24T17:14:35+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Most DATs now trade below the value of their crypto holdings, weakening a financing model that once helped companies expand their balance sheets."
+    },
+    {
+      "title": "Oil Prices Jump on Houthi Attacks, U.S.-Iran Escalation Fears",
+      "description": "Oil prices rose amid renewed Middle East escalation concerns after Saudi Arabia said it intercepted six ballistic missiles launched at the kingdom, while U.S.-Iran talks showed little sign of progress.",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-on-optimism-around-u-s-iran-diplomacy-saudi-pipeline-restart-523fe9d3?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T17:14:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil prices rose amid renewed Middle East escalation concerns after Saudi Arabia said it intercepted six ballistic missiles launched at the kingdom, while U.S.-Iran talks showed little sign of progress"
+    },
+    {
+      "title": "Exchange-Traded Funds Mixed, US Equities Decline After Midday",
+      "description": "Broad Market Indicators Broad-market exchange-traded fund IWM fell and IVV edged higher. Activ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-mixed-us-171353361.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T17:13:53+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Broad Market Indicators Broad-market exchange-traded fund IWM fell and IVV edged higher. Activ"
+    },
+    {
+      "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
+      "description": "The France-based semiconductor company has fully unwound a Bitcoin treasury that once held more than 3,200 BTC as more firms scale back crypto holdings.",
+      "url": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3A44DGGE4E3FZMH613C6EH3/hi-limit-order-protocols-offer-more-flexibility-and-efficiency-to-traders.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-09-24T17:13:38+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The France-based semiconductor company has fully unwound a Bitcoin treasury that once held more than 3,200 BTC as more firms scale back crypto holdings."
+    },
+    {
+      "title": "What Coinbase's John D'Agostino thinks is behind crypto's rally",
+      "description": "Scott Melker talks with the head of strategy for Coinbase (COIN) Institutional, John D'Agostino, about what he sees in the market momentum moving behind crypto and bitcoin's (BTC-USD) recovery.  \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things",
+      "url": "https://finance.yahoo.com/video/coinbases-john-dagostino-thinks-behind-171246050.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T17:12:46+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Scott Melker talks with the head of strategy for Coinbase (COIN) Institutional, John D'Agostino, about what he sees in the market momentum moving behind crypto and bitcoin's (BTC-USD) recovery.  \"The "
+    },
+    {
+      "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
+      "description": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
+      "url": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-09-24T17:12:04+00:00",
+      "category": "Global",
+      "simple_explanation": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target."
+    },
+    {
+      "title": "Top stocks to buy tomorrow: Vaishali Parekh picks three stocks - GAIL, Texmaco Rail, HBL Engineering; market outlook",
+      "description": "Vaishali Parekh from Prabhudas Lilladher recommends GAIL, Texmaco Rail, and HBL Engineering for intraday trading today. Suggested buy levels, targets, and stop-loss levels are provided for each stock.",
+      "url": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-tomorrow-vaishali-parekh-picks-three-stocks-gail-texmaco-rail-hbl-engineering-market-outlook-11790267216221.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/Vaishali_33_1790269117438_VoXp_1790269161199_bDci_35e41c11-53af-4dc9-b7ad-55b45d3814c5_Sm1w.png",
+      "source": "LiveMint",
+      "published_at": "2026-09-24T17:02:09+00:00",
+      "category": "India",
+      "simple_explanation": "Vaishali Parekh from Prabhudas Lilladher recommends GAIL, Texmaco Rail, and HBL Engineering for intraday trading today. Suggested buy levels, targets, and stop-loss levels are provided for each stock."
+    },
+    {
+      "title": "Billionaire Bill Ackman’s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+      "description": "Is it a great long-term pick?",
+      "url": "https://www.fool.com/investing/2026/09/24/billionaire-bill-ackman-s-pershing-square-capital-management-has-12-7-of-its-portfolio-invested-in-this-beaten-down-stock/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T17:01:01+00:00",
+      "category": "USA",
+      "simple_explanation": "Is it a great long-term pick?"
+    },
+    {
+      "title": "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+      "description": "Stock market moves reversed directions midday on Thursday after reports signaled potential progress in talks between the U.S. and Iran.  The S&P 500 was up 0.1%, while the Nasdaq wobbled near the flatline.  Oil futures pulled back though both West Texas Intermediate and Brent futures were still high",
+      "url": "https://finance.yahoo.com/m/00e82fc7-4bf9-34b9-b7dd-075cf9527f1b/s%26p-500-turns-green-on.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T16:57:01+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock market moves reversed directions midday on Thursday after reports signaled potential progress in talks between the U.S. and Iran.  The S&P 500 was up 0.1%, while the Nasdaq wobbled near the flat"
+    },
+    {
+      "title": "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+      "description": "Trump and Xi met on Thursday. China wanted three years of trade peace and got two months.",
+      "url": "https://www.fool.com/investing/2026/09/24/market-indexes-fall-again-as-the-30-year-yield-hit/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T16:55:01+00:00",
+      "category": "USA",
+      "simple_explanation": "Trump and Xi met on Thursday. China wanted three years of trade peace and got two months."
+    },
+    {
+      "title": "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+      "description": "(Updates with index/price moves, macroeconomic data, and geopolitical news from the first paragraph.",
+      "url": "https://finance.yahoo.com/economy/articles/us-equity-indexes-drop-30-165333119.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T16:53:33+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with index/price moves, macroeconomic data, and geopolitical news from the first paragraph."
+    },
+    {
+      "title": "Oracle sends 'force majeure' notice about data center project — stock sinks 4%",
+      "description": "Oracle is reportedly looking to delay payment on Project Jupiter if it the data center fails to come online in 2028",
       "url": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-09-24T13:15:07+00:00",
+      "published_at": "2026-09-24T16:48:38+00:00",
       "category": "USA",
-      "simple_explanation": "Oracle is looking to delay payment on Project Jupiter, if it fails to come online as expected in 2028"
+      "simple_explanation": "Oracle is reportedly looking to delay payment on Project Jupiter if it the data center fails to come online in 2028"
     },
     {
-      "title": "Stock Market Today: Dow Falls On High Treasury Yields; Jobless Claims Come In Below Forecasts (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index drops Thursday on rising Treasury yields. Nvidia stock extends its losses in premarket trading.",
-      "url": "https://finance.yahoo.com/m/a54a90ad-a14d-3ff8-9f09-e455a0eca8cf/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+      "title": "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+      "description": "Bond sell-off pressures equities across all three major indices, while Meta gets a boost from its product launch, today, Sept. 24, 2026.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/24/stock-market-midday-sept-24-stocks-slide-as-treasury-yields-climb-oracle-declares-force-majeure/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-24T13:02:03+00:00",
+      "published_at": "2026-09-24T16:44:23+00:00",
       "category": "Commodities",
-      "simple_explanation": "Stock Market Today: The Dow Jones index drops Thursday on rising Treasury yields. Nvidia stock extends its losses in premarket trading."
+      "simple_explanation": "Bond sell-off pressures equities across all three major indices, while Meta gets a boost from its product launch, today, Sept. 24, 2026."
     },
     {
-      "title": "Update: Rising Treasury Yields, Oil Prices Drag Down US Equity Futures Pre-Bell",
-      "description": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rising-treasury-yields-oil-prices-130200426.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T13:02:00+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock"
-    },
-    {
-      "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
-      "description": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
-      "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-09-24T13:00:30+00:00",
-      "category": "Global",
-      "simple_explanation": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump."
-    },
-    {
-      "title": "Report: Equity Awards Drive Growth in S&P 500 CEO Compensation",
-      "description": "CEO compensation continues to climb across corporate America. In the S&P 500, median CEO pay reached $17.5 million in 2026, up 63% from $10.7 million in 2017. From 2025 to 2026, median pay rose 6%.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/report-equity-awards-drive-growth-130000330.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T13:00:00+00:00",
-      "category": "USA",
-      "simple_explanation": "CEO compensation continues to climb across corporate America. In the S&P 500, median CEO pay reached $17.5 million in 2026, up 63% from $10.7 million in 2017. From 2025 to 2026, median pay rose 6%."
-    },
-    {
-      "title": "Great Atlantic Identifies Gold Mineralization Along 135 Metre Corridor at Its 100% Owned Golden Promise Property",
-      "description": "Central NewfoundlandVancouver, British Columbia--(Newsfile Corp. - September 24, 2026) - GREAT ATLANTIC RESOURCES CORP. (TSXV: GR) (the \"Company\" or \"Great Atlantic\") is pleased to announce its wholly-owned subsidiary, Golden Promise Mines Inc. (\"Golden Promise Mines\"), has received gold assays for ",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/great-atlantic-identifies-gold-mineralization-130000327.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T13:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Central NewfoundlandVancouver, British Columbia--(Newsfile Corp. - September 24, 2026) - GREAT ATLANTIC RESOURCES CORP. (TSXV: GR) (the \"Company\" or \"Great Atlantic\") is pleased to announce its wholly"
-    },
-    {
-      "title": "Kevin O’Leary eyes a $1 million Bitcoin — why the Shark Tank star says he’s placing his bets on a crypto comeback",
-      "description": "A $1 million Bitcoin isn’t so far-fetched for one Shark Tank celeb. See why Kevin O’Leary is so sure that Bitcoin’s best days have yet to come.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/kevin-o-leary-eyes-1-130000378.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T13:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "A $1 million Bitcoin isn’t so far-fetched for one Shark Tank celeb. See why Kevin O’Leary is so sure that Bitcoin’s best days have yet to come."
-    },
-    {
-      "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-      "description": "Rachel Conlan will oversee institutional partnerships and ecosystem growth, while Jamal Raees will focus on stablecoins and tokenized deposits, following a wave of new partnerships.",
-      "url": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39JWHV7JJM2NSF9JN0CNNVM/hi-are-the-big-corporations-that-are-joining-the-crypto-market-now-still-early-adopters-solana.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-09-24T13:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Rachel Conlan will oversee institutional partnerships and ecosystem growth, while Jamal Raees will focus on stablecoins and tokenized deposits, following a wave of new partnerships."
-    },
-    {
-      "title": "Eastern Bank (EBC): Buy, Sell, or Hold Post Q2 Earnings?",
-      "description": "While the S&P 500 is up 18.4% since March 2026, Eastern Bank (currently trading at $21.15 per share) has lagged behind, posting a return of 10.5%. This might have investors contemplating their next move.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/eastern-bank-ebc-buy-sell-125658962.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T12:56:58+00:00",
-      "category": "USA",
-      "simple_explanation": "While the S&P 500 is up 18.4% since March 2026, Eastern Bank (currently trading at $21.15 per share) has lagged behind, posting a return of 10.5%. This might have investors contemplating their next mo"
-    },
-    {
-      "title": "Chainlink’s Infosys Deal: 1.7 Billion Bank Accounts, But Why Did LINK Drop 4%?",
-      "description": "Chainlink (CRYPTO: LINK) announced a partnership with Infosys (NYSE: INFY) on September 22, 2026, citing an impressive 1.7 billion customer accounts supported by Infosys’s banking software. Surprisingly, LINK fell 4.4% within 24 hours of the news. While the partnership sounds promising, it lacks key",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/24/chainlinks-infosys-deal-1-7-billion-bank-accounts-but-why-did-link-drop-4/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T12:55:18+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Chainlink (CRYPTO: LINK) announced a partnership with Infosys (NYSE: INFY) on September 22, 2026, citing an impressive 1.7 billion customer accounts supported by Infosys’s banking software. Surprising"
-    },
-    {
-      "title": "Update: Market Chatter: US Oil Executives Push Back Against Donald Trump's Potential Ban on Diesel Exports",
-      "description": "(Updates with Phillips 66's response in the last paragraph.) Chevron (CVX), Phillips 66 (PSX), Ex",
-      "url": "https://finance.yahoo.com/energy/articles/market-chatter-us-oil-executives-124058792.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T12:40:58+00:00",
-      "category": "Commodities",
-      "simple_explanation": "(Updates with Phillips 66's response in the last paragraph.) Chevron (CVX), Phillips 66 (PSX), Ex"
-    },
-    {
-      "title": "Starbucks to shutter about 250 stores in latest round of cafe closures",
-      "description": "Starbucks will close about 1% of its North American cafes in the latest stage of its turnaround.",
-      "url": "https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-24T12:40:27+00:00",
-      "category": "USA",
-      "simple_explanation": "Starbucks will close about 1% of its North American cafes in the latest stage of its turnaround."
-    },
-    {
-      "title": "Silver Range targets structurally controlled gold at Drum project",
-      "description": "Silver Range Resources Ltd (TSX-V:SNG, OTC:SLRRF, FRA:8SR) has identified new drill targets at its Drum gold project in central Utah after compiling decades of historic exploration data. The company completed analysis of historic data from the Drum Property, originally collected by...",
-      "url": "https://www.proactiveinvestors.com/companies/news/1099075/silver-range-targets-structurally-controlled-gold-at-drum-project-1099075.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T12:40:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Silver Range Resources Ltd (TSX-V:SNG, OTC:SLRRF, FRA:8SR) has identified new drill targets at its Drum gold project in central Utah after compiling decades of historic exploration data. The company c"
-    },
-    {
-      "title": "Market wrap: Cipla, ONGC, HDFC Life, Bajaj Finance top gainers and losers on Nifty and Sensex on Thursday",
-      "description": "Indian equities ended sharply lower, with the Nifty falling 1.64% and Sensex 1.67%, as rising bond yields and crude prices pressured sentiment. Broader indices declined, India VIX surged 22%, financial stocks led losses, and market breadth remained firmly negative.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-cipla-ongc-hdfc-life-bajaj-finance-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/134462526.cms",
-      "image": "https://img.etimg.com/photo/msid-134462526,imgsize-146002.cms",
+      "title": "Sebi revamps accredited investors framework; approves common ad code for mkt intermediaries",
+      "description": "Sebi has widened the definition of accredited investors by introducing new asset criteria for individuals and corporates. The board approved a common advertisement code that allows celebrity endorsements for brand promotions while restricting specific product advertisements. Furthermore, the agency ",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revamps-accredited-investors-framework-approves-common-ad-code-for-mkt-intermediaries/articleshow/134466743.cms",
+      "image": "https://img.etimg.com/photo/msid-134466743,imgsize-80672.cms",
       "source": "Economic Times",
-      "published_at": "2026-09-24T12:37:41+00:00",
+      "published_at": "2026-09-24T16:41:10+00:00",
       "category": "India",
-      "simple_explanation": "Indian equities ended sharply lower, with the Nifty falling 1.64% and Sensex 1.67%, as rising bond yields and crude prices pressured sentiment. Broader indices declined, India VIX surged 22%, financia"
+      "simple_explanation": "Sebi has widened the definition of accredited investors by introducing new asset criteria for individuals and corporates. The board approved a common advertisement code that allows celebrity endorseme"
     },
     {
-      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook for Friday | Kospi, Taiwan cues to watch | 25 Sept 2026",
-      "description": "The Indian stock market experienced heavy losses, with the Nifty 50 and Sensex plunging more than 1.5%, amid rising global bond yields and volatile crude prices. The proposed overhaul of insurance commission rules prompted widespread selling, exacerbating a downward trend for the year.",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-sensex-nifty-outlook-for-friday-kospi-taiwan-cues-to-watch-25-sept-2026-11790250994537.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/SM_red_1790253225577_ztAk_1790253230702_UPrR_e8a8f6a1-24c7-4b63-81e3-d3fad8b57bc5_fcT1.png",
+      "title": "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver",
+      "description": "The industrial sector isn't the highest-yielding group on the market, but it's home to some steady payout raisers, including Illinois Tool Works and Waste Management.",
+      "url": "https://www.fool.com/investing/2026/09/24/reliable-dividend-income-industrial-stocks/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T16:39:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The industrial sector isn't the highest-yielding group on the market, but it's home to some steady payout raisers, including Illinois Tool Works and Waste Management."
+    },
+    {
+      "title": "Why Historic Yields Aren't Hitting Stocks Even Harder",
+      "description": "Stocks were in the red on Thursday, but the losses weren't that severe considering the scale of the bond market weakness.  The S&P 500 was down 0.1% to 7696.12, just 1.3% from its record high closing price, according to Dow Jones Market Data.  The Nasdaq Composite dropped 0.3%, trading only 1.4% fro",
+      "url": "https://finance.yahoo.com/m/4b93e456-0b04-35bf-b4f8-6cb41fb3ed0d/why-historic-yields-aren%27t.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T16:38:45+00:00",
+      "category": "USA",
+      "simple_explanation": "Stocks were in the red on Thursday, but the losses weren't that severe considering the scale of the bond market weakness.  The S&P 500 was down 0.1% to 7696.12, just 1.3% from its record high closing "
+    },
+    {
+      "title": "‘I Don’t Trust Anybody Guaranteeing to Double My Money’: Ramsey Show Host to Couple Weeks From Retirement",
+      "description": "A couple weeks from retirement, a Rochester woman handed an advisor her seven-figure nest egg and walked away with a promise that set off alarm bells on national radio. What the pitch left out could have cost everything.",
+      "url": "https://247wallst.com/personal-finance/2026/09/24/i-dont-trust-anybody-guaranteeing-to-double-my-money-ramsey-show-host-to-couple-weeks-from-retirement/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-24T16:33:56+00:00",
+      "category": "USA",
+      "simple_explanation": "A couple weeks from retirement, a Rochester woman handed an advisor her seven-figure nest egg and walked away with a promise that set off alarm bells on national radio. What the pitch left out could h"
+    },
+    {
+      "title": "Stockbrokers approach Union government over proposed UPI charges",
+      "description": "Sebi chief Tuhin Kanta Pandey said capital markets face distinct challenges compared to standard merchants, adding that the regulator has already gathered feedback to evaluate potential regulatory solutions.",
+      "url": "https://www.livemint.com/market/stock-market-news/sebi-uip-mdr-upi-merchant-discount-rate-11790261342038.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/tuhin_1786966428153_1786966507542_84ee849a-f60b-4555-b90d-6f280c9c9ebc_1790265748869_GYk3_206a17b1-5a63-4669-aa61-2527e7172f27_8BM3.jpg",
       "source": "LiveMint",
-      "published_at": "2026-09-24T12:36:28+00:00",
+      "published_at": "2026-09-24T16:06:21+00:00",
       "category": "India",
-      "simple_explanation": "The Indian stock market experienced heavy losses, with the Nifty 50 and Sensex plunging more than 1.5%, amid rising global bond yields and volatile crude prices. The proposed overhaul of insurance com"
+      "simple_explanation": "Sebi chief Tuhin Kanta Pandey said capital markets face distinct challenges compared to standard merchants, adding that the regulator has already gathered feedback to evaluate potential regulatory sol"
     },
     {
-      "title": "Judge lifts Trump ban on CNN, MS NOW, Politico from White House",
-      "description": "District Judge Tim Kelly said the three outlets should have their access immediately restored from the ban that the president had announced on Sept. 18.",
-      "url": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-24T12:35:59+00:00",
-      "category": "USA",
-      "simple_explanation": "District Judge Tim Kelly said the three outlets should have their access immediately restored from the ban that the president had announced on Sept. 18."
-    },
-    {
-      "title": "Rupee falls 22 paise as crude, dollar demand rise",
-      "description": "The rupee weakened 22 paise to 95.96 per dollar as strong importer demand, rising crude prices and global bond yields pressured the currency. Traders said RBI intervened through state-owned banks, while US-Iran tensions raised inflation and rate-hike concerns.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-22-paise-as-crude-dollar-demand-rise/articleshow/134462424.cms",
-      "image": "https://img.etimg.com/photo/msid-134462424,imgsize-32366.cms",
+      "title": "Sebi clears PRIM route for PMS players to invest in mutual funds, SIFs; Rs 25 lakh minimum ticket",
+      "description": "Sebi’s board approved PRIM, allowing portfolio managers to invest client money in direct mutual fund plans, ETFs, index funds and SIFs. The new route carries a Rs 25 lakh minimum ticket size and expands PMS portfolio construction options beyond direct equities.",
+      "url": "https://economictimes.indiatimes.com/markets/aif-pms/sebi-clears-prim-route-for-pms-players-to-invest-in-mutual-funds-sifs-rs-25-lakh-minimum-ticket/articleshow/134466306.cms",
+      "image": "https://img.etimg.com/photo/msid-134466306,imgsize-53840.cms",
       "source": "Economic Times",
-      "published_at": "2026-09-24T12:32:05+00:00",
+      "published_at": "2026-09-24T16:04:31+00:00",
       "category": "India",
-      "simple_explanation": "The rupee weakened 22 paise to 95.96 per dollar as strong importer demand, rising crude prices and global bond yields pressured the currency. Traders said RBI intervened through state-owned banks, whi"
+      "simple_explanation": "Sebi’s board approved PRIM, allowing portfolio managers to invest client money in direct mutual fund plans, ETFs, index funds and SIFs. The new route carries a Rs 25 lakh minimum ticket size and expan"
     },
     {
-      "title": "Lion One Drills 4.6 m of 82.28 g/t Gold Near Underground Development at Tuvatu Gold Mine in Fiji",
-      "description": "North Vancouver, British Columbia--(Newsfile Corp. - September 24, 2026) - Lion One Metals Limited (TSXV: LIO) (OTCQX: LOMLF) (\"Lion One\" or the \"Company\") is pleased to report significant new high-grade gold results from 4,370.20 meters of underground infill and grade control drilling at its 100% o",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/lion-one-drills-4-6-123000732.html?.tsrc=rss",
+      "title": "Top breakout stocks to buy tomorrow: ITC Hotels, RR Kabel, MCX, Texrail, UBL by Sumeet Bagadia | Targets",
+      "description": "Sumeet Bagadia from Choice Broking has recommended ITC Hotels, RR Kabel, MCX, Texrail, and UBL. Each stock shows positive technical setups with potential price targets and risk levels, indicating strong upward momentum and renewed buying interest.",
+      "url": "https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-itc-hotels-rr-kabel-mcx-texrail-ubl-by-sumeet-bagadia-targets-11790262992516.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/Summet_2_1790264248765_KGc7_1790264259844_JoP3_911f8401-aaf9-4e64-a908-7d6838e70784_ZKun.png",
+      "source": "LiveMint",
+      "published_at": "2026-09-24T16:04:03+00:00",
+      "category": "India",
+      "simple_explanation": "Sumeet Bagadia from Choice Broking has recommended ITC Hotels, RR Kabel, MCX, Texrail, and UBL. Each stock shows positive technical setups with potential price targets and risk levels, indicating stro"
+    },
+    {
+      "title": "Bitcoin Breakout Cools as Fed Rate-Hike Bets Climb",
+      "description": "Bitcoin has slipped back below $85,000 after tagging an eight-month high near $87,400 last week, with rising odds of an October Fed hike taking some air out of the rally.",
+      "url": "https://decrypt.co/379189/bitcoins-breakout-cools-fed-rate-hike-bets-climb?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-24T12:30:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "North Vancouver, British Columbia--(Newsfile Corp. - September 24, 2026) - Lion One Metals Limited (TSXV: LIO) (OTCQX: LOMLF) (\"Lion One\" or the \"Company\") is pleased to report significant new high-gr"
+      "published_at": "2026-09-24T16:01:01+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin has slipped back below $85,000 after tagging an eight-month high near $87,400 last week, with rising odds of an October Fed hike taking some air out of the rally."
     },
     {
-      "title": "The S&P 500 has never been this concentrated in just 2 stocks",
-      "description": "Apple and Nvidia have truly become the straws that stir the stock market's drink.",
-      "url": "https://finance.yahoo.com/markets/article/the-sp-500-has-never-been-this-concentrated-in-just-2-stocks-122519280.html?.tsrc=rss",
+      "title": "MSTR Stock Has Become One of the Market’s Most Unusual Bets",
+      "description": "MicroStrategy abandoned its original software identity to become a leveraged Bitcoin holding company, and after a brutal 51% collapse over the past year, the question is whether that audacious bet is finally starting to pay off or setting up for something far worse.",
+      "url": "https://247wallst.com/investing/2026/09/24/mstr-stock-has-become-one-of-the-markets-most-unusual-bets/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-24T12:25:19+00:00",
-      "category": "USA",
-      "simple_explanation": "Apple and Nvidia have truly become the straws that stir the stock market's drink."
+      "published_at": "2026-09-24T16:00:47+00:00",
+      "category": "Crypto",
+      "simple_explanation": "MicroStrategy abandoned its original software identity to become a leveraged Bitcoin holding company, and after a brutal 51% collapse over the past year, the question is whether that audacious bet is "
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures retreat as oil gains on Mideast uncertainty; eyes on Trump-Xi talks",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-trump-xi-china-talks-iran-war-hormuz-brent-crude-oil-inflation-fed-rate-treasury-yields-meta-apple-tesla-amazon-ai-chip-stock-price-news-24th-september-2026/liveblog/134462304.cms",
-      "image": "https://img.etimg.com/photo/msid-134462304,imgsize-409802.cms",
+      "title": "HDFC MF bets on PB Fintech, buys stake worth Rs 321 crore as IRDAI reforms trigger 36% stock rout",
+      "description": "HDFC Mutual Fund bought 25 lakh PB Fintech shares worth about Rs 321 crore at Rs 1,282.30 each, even as the stock plunged 36% after IRDAI proposed renewed insurance commission caps, raising concerns over the company’s general insurance revenues.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-mf-bets-on-pb-fintech-buys-stake-worth-rs-321-crore-as-irdai-reforms-trigger-36-stock-rout/articleshow/134466281.cms",
+      "image": "https://img.etimg.com/photo/msid-134466281,imgsize-17700.cms",
       "source": "Economic Times",
-      "published_at": "2026-09-24T12:25:14+00:00",
+      "published_at": "2026-09-24T16:00:46+00:00",
       "category": "India",
-      "simple_explanation": ""
+      "simple_explanation": "HDFC Mutual Fund bought 25 lakh PB Fintech shares worth about Rs 321 crore at Rs 1,282.30 each, even as the stock plunged 36% after IRDAI proposed renewed insurance commission caps, raising concerns o"
     },
     {
-      "title": "Inflation Is Back: Why the S&P 500 Is Vulnerable",
-      "description": "If you thought the Federal Reserve was about to usher in an era of easy money and send the S&P 500 (SPY) on a smooth victory lap, think again. The market is walking straight into an uncomfortable reality check. Geopolitical headlines gave investors brief relief over the summer, but underlying price ",
-      "url": "https://www.trefis.com/articles/616466/inflation-is-back-why-the-sp-500-is-vulnerable/2026-09-24?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T12:23:47+00:00",
-      "category": "USA",
-      "simple_explanation": "If you thought the Federal Reserve was about to usher in an era of easy money and send the S&P 500 (SPY) on a smooth victory lap, think again. The market is walking straight into an uncomfortable real"
+      "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
+      "description": "SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its SoFiUSD stablecoin, with more than $25 billion in expected annualized volume.",
+      "url": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3518SYSJ7A5FP4GPX8VM1S8/hi-what-is-the-significance-of-the-statement-that-cbdc-and-stablecoins-can-co-exist.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-09-24T15:57:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its SoFiUSD stablecoin, with more than $25 billion in expected annualized volume."
     },
     {
-      "title": "LAKE VICTORIA GOLD IDENTIFIES PREFERRED PROCESSING ROUTE FOR IMWELO NEAR-SURFACE MINERALIZATION",
-      "description": "Lake Victoria Gold Ltd. (TSXV: LVG) (OTCQB: LVGLF) (FSE: E1K) (\"LVG\" or the \"Company\") is pleased to report results from metallurgical testwork on the shallow, highly weathered mineralization at Area C of its fully permitted Imwelo Gold Project (\"Imwelo\" or the \"Project\") in Tanzania's Lake Victoria",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/lake-victoria-gold-identifies-preferred-121800850.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T12:18:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Lake Victoria Gold Ltd. (TSXV: LVG) (OTCQB: LVGLF) (FSE: E1K) (\"LVG\" or the \"Company\") is pleased to report results from metallurgical testwork on the shallow, highly weathered mineralization at Area "
+      "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
+      "description": "Indian equities suffered a sharp selloff, with Sensex plunging 1,248 points and Nifty falling 1.6% as US Treasury yields hit 19-year highs, crude stayed above $100 and geopolitical concerns intensified. Financial stocks led losses, while market breadth remained heavily negative.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/134466210.cms",
+      "image": "https://img.etimg.com/photo/msid-134466210,imgsize-105340.cms",
+      "source": "Economic Times",
+      "published_at": "2026-09-24T15:53:54+00:00",
+      "category": "India",
+      "simple_explanation": "Indian equities suffered a sharp selloff, with Sensex plunging 1,248 points and Nifty falling 1.6% as US Treasury yields hit 19-year highs, crude stayed above $100 and geopolitical concerns intensifie"
     },
     {
       "title": "30-year Treasury yield hits highest level since 2004 as bond market rout continues",
@@ -228,179 +368,39 @@
       "url": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-09-24T12:17:39+00:00",
+      "published_at": "2026-09-24T15:41:37+00:00",
       "category": "USA",
       "simple_explanation": "U.S. Treasury yields continued their upward momentum after hitting a 19-year high on Wednesday."
     },
     {
-      "title": "What Would $1,000 in Bitcoin and Litecoin Be Worth in 2030?",
-      "description": "Litecoin crushed Bitcoin's returns over the past month, yet its five-year track record tells a completely different story. Before putting $1,000 into either coin, see how these two cryptocurrencies stack up heading into 2030.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/24/what-would-1000-in-bitcoin-and-litecoin-be-worth-in-2030/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T12:16:20+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Litecoin crushed Bitcoin's returns over the past month, yet its five-year track record tells a completely different story. Before putting $1,000 into either coin, see how these two cryptocurrencies st"
-    },
-    {
-      "title": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
-      "description": "Trump greeted China's Xi at Joint Base Andrews, his first time traveling to the facility to welcome a foreign leader.",
-      "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-24T12:10:07+00:00",
-      "category": "USA",
-      "simple_explanation": "Trump greeted China's Xi at Joint Base Andrews, his first time traveling to the facility to welcome a foreign leader."
-    },
-    {
-      "title": "Max Estates to form JV for Rs 3,000 cr housing project in Ghaziabad",
-      "description": "Max Estates Ltd has unveiled an exciting partnership aimed at creating a new housing complex in Ghaziabad. Spanning an expansive 9.76 acres in the bustling Indirapuram area, this project boasts a remarkable potential of 1.5 million sq. ft. in super built-up area. With projected revenues between Rs 2",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/max-estates-to-form-jv-for-rs-3000-cr-housing-project-in-ghaziabad/articleshow/134461968.cms",
-      "image": "https://img.etimg.com/photo/msid-134461968,imgsize-111544.cms",
+      "title": "Sebi expands bullion vaulting framework to ETFs, derivatives; vault manager net worth raised",
+      "description": "Sebi expanded its vault managers framework beyond Electronic Gold Receipts to cover bullion underlying specified ETFs and derivatives, while raising vault managers’ net-worth requirement to Rs 75 crore and strengthening security, segregation, compliance and governance requirements.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-expands-bullion-vaulting-framework-to-etfs-derivatives-vault-manager-net-worth-raised/articleshow/134466018.cms",
+      "image": "https://img.etimg.com/photo/msid-134466018,imgsize-120748.cms",
       "source": "Economic Times",
-      "published_at": "2026-09-24T12:09:52+00:00",
+      "published_at": "2026-09-24T15:41:25+00:00",
       "category": "India",
-      "simple_explanation": "Max Estates Ltd has unveiled an exciting partnership aimed at creating a new housing complex in Ghaziabad. Spanning an expansive 9.76 acres in the bustling Indirapuram area, this project boasts a rema"
+      "simple_explanation": "Sebi expanded its vault managers framework beyond Electronic Gold Receipts to cover bullion underlying specified ETFs and derivatives, while raising vault managers’ net-worth requirement to Rs 75 cror"
     },
     {
-      "title": "Treasury rout, oil spike bleed Indian bonds; 10-year yield jumps most in over 2 months",
-      "description": "Bond yields in India have surged following a notable uptick in US Treasury yields and escalating oil prices. With inflationary pressures mounting from higher oil costs, concerns regarding India’s economic stability have grown. Analysts predict that the Reserve Bank of India may enact a rate hike in ",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/treasury-rout-oil-spike-bleed-indian-bonds-10-year-yield-jumps-most-in-over-2-months/articleshow/134461900.cms",
-      "image": "https://img.etimg.com/photo/msid-134461900,imgsize-121028.cms",
-      "source": "Economic Times",
-      "published_at": "2026-09-24T12:07:21+00:00",
-      "category": "India",
-      "simple_explanation": "Bond yields in India have surged following a notable uptick in US Treasury yields and escalating oil prices. With inflationary pressures mounting from higher oil costs, concerns regarding India’s econ"
-    },
-    {
-      "title": "Oil prices rise above $106 as Iran-U.S. diplomacy stalls at UN",
-      "description": "Brent crude extended gains Thursday after Iranian President Masoud Pezeshkian clashed with U.S. positions at the UN General Assembly",
-      "url": "https://qz.com/oil-prices-iran-us-talks-un-general-assembly-092426?.tsrc=rss",
+      "title": "Oil prices swing as Houthis claim strike on Saudi Arabia, US said to be negotiating Hormuz deal with Iran",
+      "description": "Oil prices advanced on Friday, cutting into losses over the past several sessions.",
+      "url": "https://finance.yahoo.com/markets/article/oil-prices-swing-as-houthis-claim-strike-on-saudi-arabia-us-said-to-be-negotiating-hormuz-deal-with-iran-153248858.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-24T12:06:36+00:00",
+      "published_at": "2026-09-24T15:32:48+00:00",
       "category": "Commodities",
-      "simple_explanation": "Brent crude extended gains Thursday after Iranian President Masoud Pezeshkian clashed with U.S. positions at the UN General Assembly"
+      "simple_explanation": "Oil prices advanced on Friday, cutting into losses over the past several sessions."
     },
     {
-      "title": "Equity Futures Fall Pre-Bell Ahead of Trump-Xi Meeting",
-      "description": "US benchmark equity futures were tracking in the red before the opening bell Thursday as markets loo",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equity-futures-fall-pre-bell-120606139.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T12:06:06+00:00",
-      "category": "USA",
-      "simple_explanation": "US benchmark equity futures were tracking in the red before the opening bell Thursday as markets loo"
-    },
-    {
-      "title": "₹26 dividend paid in 2026 so far! PTC India to pay 55% dividend- Check record date, yield, stock performance",
-      "description": "PTC India shares fell slightly ahead of the dividend record date. The company will pay a final dividend of  ₹5.50 per share for FY26, with a total of  ₹26 dividends announced in the past year. The record date is set for October 7.",
-      "url": "https://www.livemint.com/market/stock-market-news/rs-26-dividend-paid-in-2026-so-far-ptc-india-to-pay-55-dividend-check-record-date-yield-stock-performance-11790248968840.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/ptc_india_1790251531315_vDX6_1790251531536_D12G_87b5055c-6096-4632-8ed0-73260a0f00b0_ylOC.png",
-      "source": "LiveMint",
-      "published_at": "2026-09-24T12:05:46+00:00",
-      "category": "India",
-      "simple_explanation": "PTC India shares fell slightly ahead of the dividend record date. The company will pay a final dividend of  ₹5.50 per share for FY26, with a total of  ₹26 dividends announced in the past year. The rec"
-    },
-    {
-      "title": "Rising Treasury Yields, Oil Prices Drag Down US Equity Futures Pre-Bell",
-      "description": "US equity futures were edging lower pre-bell Thursday as traders observed rising Treasury yields and",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rising-treasury-yields-oil-prices-120541848.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T12:05:41+00:00",
-      "category": "Commodities",
-      "simple_explanation": "US equity futures were edging lower pre-bell Thursday as traders observed rising Treasury yields and"
-    },
-    {
-      "title": "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers.",
-      "description": "Dow Jones futures fell early Thursday, along with S&P 500 futures and especially Nasdaq futures. The 30-year Treasury yield hit a fresh long-term high while oil prices rose again. The Trump-Xi summit is on tap.",
-      "url": "https://finance.yahoo.com/m/d54436eb-45f8-3808-b582-09ab7590f21b/dow-jones-futures-fall-as.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T12:04:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Dow Jones futures fell early Thursday, along with S&P 500 futures and especially Nasdaq futures. The 30-year Treasury yield hit a fresh long-term high while oil prices rose again. The Trump-Xi summit "
-    },
-    {
-      "title": "2 S&P 500 Stocks Worth Your Attention and 1 We Find Risky",
-      "description": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, heavy debt, or disruptive new competitors.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-worth-120054557.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T12:00:54+00:00",
-      "category": "USA",
-      "simple_explanation": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, h"
-    },
-    {
-      "title": "Lowe's is launching a drone delivery service in partnership with DoorDash, Alphabet",
-      "description": "Lowe's is launching a drone delivery service in a partnership with DoorDash and Alphabet's Wing, CNBC has learned exclusively.",
-      "url": "https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-09-24T12:00:01+00:00",
-      "category": "USA",
-      "simple_explanation": "Lowe's is launching a drone delivery service in a partnership with DoorDash and Alphabet's Wing, CNBC has learned exclusively."
-    },
-    {
-      "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
-      "description": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation.",
-      "url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M390ZDNMWGT7WNAEH74N5PN7/raise-37m.png",
+      "title": "New York sues Polymarket over alleged illegal gambling business",
+      "description": "The action filed by state lawmakers followed a similar lawsuit against prediction markets company Kalshi in July that alleged the platform was running an illegal gambling operation.",
+      "url": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39Y31J42742R275K5880DRD/hi-new-york-lawsuit.png",
       "source": "CoinTelegraph",
-      "published_at": "2026-09-24T12:00:00+00:00",
+      "published_at": "2026-09-24T15:27:29+00:00",
       "category": "Crypto",
-      "simple_explanation": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation."
-    },
-    {
-      "title": "New Sebi chairperson was turning point for NSE IPO: Ashishkumar Chauhan",
-      "description": "Sebi established a constructive dialogue to resolve regulatory inquiries and settle pending court cases, says CEO Ashishkumar Chauhan",
-      "url": "https://www.livemint.com/market/ipo/new-sebi-chairperson-was-turning-point-for-nse-ipo-ashishkumar-chauhan-11790244612345.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/INDIA-NSE-22_1789129292618_7aec6fa0-2356-4410-aaad-07a47c7e2cb7_1789129303516_a76616e0-92a1-45bf-bbb5-af5ae319864c_c0936d29-2b06-4a1d-a767-463aa5f3f905_112f4ac3-b66a-423d-bf3f-dd90ae7bb76c_1790250512093_lEgX_c86ed11b-38c3-4344-9aca-32f22b4528c6_T1VG.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-09-24T11:50:55+00:00",
-      "category": "India",
-      "simple_explanation": "Sebi established a constructive dialogue to resolve regulatory inquiries and settle pending court cases, says CEO Ashishkumar Chauhan"
-    },
-    {
-      "title": "Financial stock falls 18% in 3 months, Ventura sees 148% upside as ‘turnaround’ takes shape- Do you own? Target price",
-      "description": "Sammaan Capital Limited shares fell 6% over two weeks, reversing previous gains. Ventura Capital projects a 148% upside over two years, backed by aggressive growth and a forecasted increase in total advances",
-      "url": "https://www.livemint.com/market/stock-market-news/financial-stock-falls-18-in-3-months-ventura-sees-148-upside-as-turnaround-takes-shape-do-you-own-target-price-11790247483496.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/financial_stock_1790250331644_UiNE_1790250340198_llet_53bbae62-e962-48cd-ad6f-f9074fe388ca_eUd1.png",
-      "source": "LiveMint",
-      "published_at": "2026-09-24T11:48:15+00:00",
-      "category": "India",
-      "simple_explanation": "Sammaan Capital Limited shares fell 6% over two weeks, reversing previous gains. Ventura Capital projects a 148% upside over two years, backed by aggressive growth and a forecasted increase in total a"
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Thursday, September 24, 2026: Crypto prices lose ground as rate-hike expectations grow",
-      "description": "Bitcoin opened at $84,370.41 on Thursday, September 24, 2026, down 2.1% from Wednesday's open. As of 7:33 a.m. ET this morning, bitcoin fell further to $83,462.29. Ethereum opened at $2,684.09 on Thursday, September 24, 2026, down 2.5% from Wednesday's opening price. The price of ethereum moved down",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-24-2026-crypto-prices-lose-ground-as-rate-hike-expectations-grow-114459916.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T11:44:59+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin opened at $84,370.41 on Thursday, September 24, 2026, down 2.1% from Wednesday's open. As of 7:33 a.m. ET this morning, bitcoin fell further to $83,462.29. Ethereum opened at $2,684.09 on Thur"
-    },
-    {
-      "title": "5 Financial Layers Could Power the Next Crypto Bull Market",
-      "description": "BloFin Research says stablecoins, tokenized stocks, RWA perps and prediction markets could shape crypto's next bull market.",
-      "url": "https://beincrypto.com/new-crypto-bull-market-five-layers/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-24T11:37:29+00:00",
-      "category": "Crypto",
-      "simple_explanation": "BloFin Research says stablecoins, tokenized stocks, RWA perps and prediction markets could shape crypto's next bull market."
-    },
-    {
-      "title": "US stock market LIVE updates: Nasdaq, S&P 500 futures fall up to 1% as bond sell-off lifts Fed rate hike bets",
-      "description": "US stock market LIVE updates: US stock futures indicate a negative market opening, with the Nasdaq down 1%. Rising Treasury yields, following strong PMI data, heighten expectations for another Federal Reserve rate hike.",
-      "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-live-updates-nasdaq-s-p-500-futures-fall-up-to-1-as-bond-sell-off-lifts-fed-rate-hike-bets-11790246230298.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/US_1790249699846_AjFL_1790249705329_WS2h_7e540719-28a1-4af0-94a4-eea2ce74a440_8SGE.png",
-      "source": "LiveMint",
-      "published_at": "2026-09-24T11:36:52+00:00",
-      "category": "India",
-      "simple_explanation": "US stock market LIVE updates: US stock futures indicate a negative market opening, with the Nasdaq down 1%. Rising Treasury yields, following strong PMI data, heighten expectations for another Federal"
+      "simple_explanation": "The action filed by state lawmakers followed a similar lawsuit against prediction markets company Kalshi in July that alleged the platform was running an illegal gambling operation."
     }
   ]
 }
