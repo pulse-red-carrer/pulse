@@ -1,16 +1,76 @@
 {
-  "last_updated": "2026-10-10T20:29:05.514352+00:00",
+  "last_updated": "2026-10-11T00:06:52.652473+00:00",
   "total": 40,
   "articles": [
     {
+      "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
+      "description": "Aramco warns the global oil supply cushion is dangerously thin, with inventories potentially taking two years to replenish once Hormuz reopens, leaving markets vulnerable to further shocks.",
+      "url": "https://finance.yahoo.com/energy/articles/emergency-oil-releases-risk-draining-230000316.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-10T23:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Aramco warns the global oil supply cushion is dangerously thin, with inventories potentially taking two years to replenish once Hormuz reopens, leaving markets vulnerable to further shocks."
+    },
+    {
+      "title": "A COVID Vaccine Stock on the S&P 500 Is Up 600% This Year",
+      "description": "Moderna stock is up 663% in 2026, beating AI names for the S&P 500 lead. Full cancer vaccine data arrives October 24.",
+      "url": "https://beincrypto.com/moderna-stock-best-sp-500-2026/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-10T22:23:54+00:00",
+      "category": "USA",
+      "simple_explanation": "Moderna stock is up 663% in 2026, beating AI names for the S&P 500 lead. Full cancer vaccine data arrives October 24."
+    },
+    {
+      "title": "Solana Confirms a Transaction in 200 Milliseconds and Bitcoin Takes 10 Minutes. Does Speed Make a Coin Worth More?",
+      "description": "Solana just became 3,000 times faster than Bitcoin at producing blocks, yet its coin lost nearly 8% of its value the same week. The relationship between blockchain speed and price turns out to be far more complicated than it looks.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/10/solana-confirms-a-transaction-in-200-milliseconds-and-bitcoin-takes-10-minutes-does-speed-make-a-coin-worth-more/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-10T22:07:10+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Solana just became 3,000 times faster than Bitcoin at producing blocks, yet its coin lost nearly 8% of its value the same week. The relationship between blockchain speed and price turns out to be far "
+    },
+    {
+      "title": "Whales Bought 15,000 Bitcoin in Three Days While MARA Sold $81 Million. Who Has It Right?",
+      "description": "Bitcoin whales poured over a billion dollars into the market right after a sharp decline, while one of the biggest mining companies quietly cashed out. Their opposing moves point to very different views on where Bitcoin goes from here.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/10/whales-bought-15000-bitcoin-in-three-days-while-mara-sold-81-million-who-has-it-right/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-10T21:30:38+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin whales poured over a billion dollars into the market right after a sharp decline, while one of the biggest mining companies quietly cashed out. Their opposing moves point to very different vie"
+    },
+    {
+      "title": "3 Canadian Quality Stocks With ROE Over 29%",
+      "description": "High bond yields are pressuring weaker balance sheets, which puts well capitalised Canadian companies in a stronger position. When borrowing costs bite, businesses with healthy finances and solid returns can keep funding growth without relying heavily on expensive debt. That creates a window for inv",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-quality-stocks-roe-211307294.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-10T21:13:07+00:00",
+      "category": "Commodities",
+      "simple_explanation": "High bond yields are pressuring weaker balance sheets, which puts well capitalised Canadian companies in a stronger position. When borrowing costs bite, businesses with healthy finances and solid retu"
+    },
+    {
+      "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+      "description": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.",
+      "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-10-10T20:59:28+00:00",
+      "category": "USA",
+      "simple_explanation": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development."
+    },
+    {
       "title": "Eight Altcoins Have Surged Three Times More Than Bitcoin in 30 Days. Is Altcoin Season Here, or Is This Just a Momentary Uptick?",
-      "description": "Over the last 30 days, eight altcoins have seen returns at least three times greater than Bitcoin (CRYPTO:BTC). This impressive performance has led traders to wonder if we are entering an altcoin season. Leading the charge is NEAR Protocol (CRYPTO:NEAR), which has surged 121%, far outpacing Bitcoin’",
+      "description": "Eight altcoins are trouncing Bitcoin's returns over the past month, sparking talk of a long-awaited altcoin season. But a closer look at the weekly numbers and a key market index tells a very different story.",
       "url": "https://247wallst.com/investing/cryptocurrency/2026/10/10/eight-altcoins-have-surged-three-times-more-than-bitcoin-in-30-days-is-altcoin-season-here-or-is-this-just-a-momentary-uptick/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
       "published_at": "2026-10-10T20:15:19+00:00",
       "category": "Crypto",
-      "simple_explanation": "Over the last 30 days, eight altcoins have seen returns at least three times greater than Bitcoin (CRYPTO:BTC). This impressive performance has led traders to wonder if we are entering an altcoin seas"
+      "simple_explanation": "Eight altcoins are trouncing Bitcoin's returns over the past month, sparking talk of a long-awaited altcoin season. But a closer look at the weekly numbers and a key market index tells a very differen"
     },
     {
       "title": "2 Cryptocurrencies Poised to Surge 100% in the Coming Years That Savvy Investors Are Already Buying",
@@ -33,6 +93,16 @@
       "simple_explanation": "At one time, Bitcoin had 1,000x upside potential. But is that still the case?"
     },
     {
+      "title": "Veteran Trader Gives Critical Warning for Gold Price",
+      "description": "Peter Brandt flags a gold price head-and-shoulders pattern with a possible $2,890 target as China keeps buying.",
+      "url": "https://beincrypto.com/peter-brandt-gold-price-warning/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-10T18:37:35+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Peter Brandt flags a gold price head-and-shoulders pattern with a possible $2,890 target as China keeps buying."
+    },
+    {
       "title": "Wall Street split on pioneering S&P 500 stock's price target",
       "description": "Wall Street analysts are split on the outlook of a stock that joined the S&P 500 only last year.",
       "url": "https://www.thestreet.com/crypto/markets/wall-street-split-on-pioneering-s-p-500-stocks-price-target?.tsrc=rss",
@@ -53,14 +123,14 @@
       "simple_explanation": "September Consumer Price Index report in focus as investors assess prospects of Federal Reserve rate hike in December"
     },
     {
-      "title": "How NEAR Intents Used Coded Language to Let the Hacker Know He’d Been Fingered",
-      "description": "After a $3.8 million exploit, NEAR Intents told the suspect, “We have identified you, sir.” Alex Shevchenko walks through how the funds came back.",
-      "url": "https://unchainedcrypto.com/how-near-intents-used-coded-language-to-let-the-hacker-know-hed-been-fingered/?.tsrc=rss",
+      "title": "Wall Street Is Pulling Money From Ethereum as Traders Load Shorts",
+      "description": "Ethereum ETFs bled $56.1 million for a ninth straight day as $5 billion in ETH shorts stack up above the price.",
+      "url": "https://beincrypto.com/ethereum-etf-outflows-nine-days-shorts/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-10-10T18:00:40+00:00",
+      "published_at": "2026-10-10T18:12:52+00:00",
       "category": "Crypto",
-      "simple_explanation": "After a $3.8 million exploit, NEAR Intents told the suspect, “We have identified you, sir.” Alex Shevchenko walks through how the funds came back."
+      "simple_explanation": "Ethereum ETFs bled $56.1 million for a ninth straight day as $5 billion in ETH shorts stack up above the price."
     },
     {
       "title": "Dell (DELL) Has Outpaced the S&P 500 by a Wide Stretch. Will the AI-Fueled Run Continue?",
@@ -81,26 +151,6 @@
       "published_at": "2026-10-10T17:34:53+00:00",
       "category": "USA",
       "simple_explanation": "Warren Buffett has a name for what is happening in markets right now. Investors may want to hear it."
-    },
-    {
-      "title": "Bitcoin Tests Average Buyer’s Break-Even As ETF Outflows Clash With Wall Street Buying",
-      "description": "Darkfost said the market was oscillating around the $80,500 line in a pattern resembling late 2025 and early 2026, with the level holding as support for now.",
-      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-tests-average-buyer-break-even-etf-outflows-clash-wall-street/cZxc20vRBnC?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-10T17:34:25+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Darkfost said the market was oscillating around the $80,500 line in a pattern resembling late 2025 and early 2026, with the level holding as support for now."
-    },
-    {
-      "title": "Is CleanSpark (CLSK) A Bargain After Its Latest Bitcoin Production Update?",
-      "description": "CleanSpark (CLSK) has drawn fresh attention after reporting unaudited bitcoin production of 529 for September and 5,432 for the current year, giving investors new data on its mining output. CleanSpark’s bitcoin production update lands after a sharp pullback, with the share price down 20.97% over the",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/cleanspark-clsk-bargain-latest-bitcoin-171458241.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-10T17:14:58+00:00",
-      "category": "Crypto",
-      "simple_explanation": "CleanSpark (CLSK) has drawn fresh attention after reporting unaudited bitcoin production of 529 for September and 5,432 for the current year, giving investors new data on its mining output. CleanSpark"
     },
     {
       "title": "3 Gold Stocks To Own In October 2026",
@@ -181,16 +231,6 @@
       "published_at": "2026-10-10T14:55:00+00:00",
       "category": "USA",
       "simple_explanation": "How does $19,000 sound?"
-    },
-    {
-      "title": "A Battle of REIT ETFs: Which REIT ETF Offers Better Value for Income-Oriented Investors?",
-      "description": "State Street's fund charges just 0.08% annually versus iShares' 0.32%, but performance and yield tell a more nuanced story.",
-      "url": "https://www.fool.com/coverage/etfs/2026/10/10/xlre-vs-icf-which-reit-etf-offers-better-value-for-income-investors/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-10T14:30:02+00:00",
-      "category": "USA",
-      "simple_explanation": "State Street's fund charges just 0.08% annually versus iShares' 0.32%, but performance and yield tell a more nuanced story."
     },
     {
       "title": "Diamond Power, Finolex, Polycab: How cables and wire stocks will perform in Q2 results 2026 | Expectations, preview",
@@ -361,46 +401,6 @@
       "published_at": "2026-10-10T10:25:39+00:00",
       "category": "India",
       "simple_explanation": "Bitcoin reclaimed $82,500 on Saturday after hitting a nearly three-week low earlier in the week, as improved ETF flows supported sentiment. Experts flagged institutional outflows, US-Iran tensions and"
-    },
-    {
-      "title": "ConocoPhillips (COP) Stock Looks Like A Bargain On Earnings",
-      "description": "ConocoPhillips has delivered strong returns in recent years and attracted fresh attention as the share price moves higher, which raises a straightforward question for investors who care about fundamentals. Is the current US$134.10 price adequately supported by the earnings power that the business is",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-cop-stock-looks-bargain-101612467.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-10T10:16:12+00:00",
-      "category": "Commodities",
-      "simple_explanation": "ConocoPhillips has delivered strong returns in recent years and attracted fresh attention as the share price moves higher, which raises a straightforward question for investors who care about fundamen"
-    },
-    {
-      "title": "FIIs dump Indian stocks for eight straight weeks: Is a reversal on the cards or more pain ahead?",
-      "description": "FIIs sold Indian equities for an eighth consecutive week, offloading Rs 30,294 crore, while DIIs bought Rs 30,313 crore to cushion the outflows. The Nifty 50 ended marginally higher, snapping its losing streak. Elevated crude oil prices, rupee weakness and global bond yields remain key factors shapi",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-eight-straight-weeks-is-a-reversal-on-the-cards-or-more-pain-ahead/articleshow/134851502.cms",
-      "image": "https://img.etimg.com/photo/msid-134851502,imgsize-2251596.cms",
-      "source": "ET Markets",
-      "published_at": "2026-10-10T09:41:53+00:00",
-      "category": "India",
-      "simple_explanation": "FIIs sold Indian equities for an eighth consecutive week, offloading Rs 30,294 crore, while DIIs bought Rs 30,313 crore to cushion the outflows. The Nifty 50 ended marginally higher, snapping its losi"
-    },
-    {
-      "title": "Tech chief says EU can fend off rogue AI risk: Report",
-      "description": "There are global concerns following incidents at OpenAI ‌and Anthropic, and fears have arisen that rogue AI agents may venture beyond human control.",
-      "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JFDB4ND4321Z9KER496JAS/ai-machine-cyber-mind-google.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-10-10T08:41:06+00:00",
-      "category": "Crypto",
-      "simple_explanation": "There are global concerns following incidents at OpenAI ‌and Anthropic, and fears have arisen that rogue AI agents may venture beyond human control."
-    },
-    {
-      "title": "Tom Lee Says Stocks Are A ‘Coiled Spring’ As AI Skepticism Peaks — ‘Rates Are No Longer A Negative Story’",
-      "description": "During an interview with CNBC, Lee argued that the very factors weighing on stocks today, including AI pessimism and high borrowing costs, could eventually fuel a reversal.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/tom-lee-stocks-coiled-spring-ai-skepticism-rates-no-longer-negative/cZxTpTTRBns?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-10T08:34:13+00:00",
-      "category": "Commodities",
-      "simple_explanation": "During an interview with CNBC, Lee argued that the very factors weighing on stocks today, including AI pessimism and high borrowing costs, could eventually fuel a reversal."
     }
   ]
 }
