@@ -1,236 +1,316 @@
 {
-  "last_updated": "2026-10-19T19:03:57.624759+00:00",
+  "last_updated": "2026-10-19T23:22:04.719160+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "OpenAI bugging case: Saudi consulate offers to pay bail for suspect",
+      "title": "Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools — AMZN, BE, CRWV, AAPL, PLTR In Focus",
+      "description": "The Philadelphia Semiconductor Index added about 1.6%.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-sees-best-day-in-nearly-a-month-as-ai-rout-cools-amzn-be-crwv-aapl-pltr-in-focus/cZxo2SbRBu5?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T23:00:23+00:00",
+      "category": "USA",
+      "simple_explanation": "The Philadelphia Semiconductor Index added about 1.6%."
+    },
+    {
+      "title": "Forget GLD. Investors Sent $500 Million to the Cheaper SPDR Gold Fund",
+      "description": "Investors poured half a billion dollars into a gold fund that most people have never heard of, bypassing the world's most famous bullion ETF for a quiet reason buried in the fine print.",
+      "url": "https://247wallst.com/investing/etf/2026/10/19/forget-gld-investors-sent-500-million-to-the-cheaper-spdr-gold-fund/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T22:47:32+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Investors poured half a billion dollars into a gold fund that most people have never heard of, bypassing the world's most famous bullion ETF for a quiet reason buried in the fine print."
+    },
+    {
+      "title": "Bitcoin Volatility Hits 2.5-Year Low as Traders Brace for 30% Move",
+      "description": "Bitcoin's Bollinger Band squeeze hits a 2.5-year extreme. See the key BTC levels and how investors can prepare.",
+      "url": "https://beincrypto.com/bitcoin-price-30-percent-swing-volatility-low/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T22:20:51+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin's Bollinger Band squeeze hits a 2.5-year extreme. See the key BTC levels and how investors can prepare."
+    },
+    {
+      "title": "Worried About the Stock Market? This High-Yielding ETF Can Provide Stability and Generate Passive Income for Decades",
+      "description": "The Schwab U.S. Dividend Equity ETF pays 3.2% and is full of top dividend stocks.",
+      "url": "https://www.fool.com/investing/2026/10/19/worried-about-the-stock-market-this-high-yielding-etf-can-provide-stability-and-generate-passive-income-for-decades/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T22:20:02+00:00",
+      "category": "USA",
+      "simple_explanation": "The Schwab U.S. Dividend Equity ETF pays 3.2% and is full of top dividend stocks."
+    },
+    {
+      "title": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
+      "description": "Dow Jones Futures: AMD and Nvidia led the AI trade higher Monday following Friday's big losses. Meta, Netflix, SpaceX and Tesla have earnings due.",
+      "url": "https://finance.yahoo.com/m/fc8c5a2b-d77d-3107-a23a-2331f80e2b71/dow-jones-futures%3A-amd%2C.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T22:18:57+00:00",
+      "category": "USA",
+      "simple_explanation": "Dow Jones Futures: AMD and Nvidia led the AI trade higher Monday following Friday's big losses. Meta, Netflix, SpaceX and Tesla have earnings due."
+    },
+    {
+      "title": "Nasdaq Jumps Past 1 Percent as VIX Swings While Dow Dips Below Its 50-Day Line",
+      "description": "Stock Preachers News Commentary - Big tech drove a sharp rebound into the close, with the Nasdaq Composite up 1.11% and the S&P 500 up 0.66% on the session, while the Dow Jones Industrial Average slipped 0.07% and settled just under its 50-day EMA near 52,010. The Russell 2000 added 0.25% but stayed",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-jumps-past-1-percent-221100911.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T22:11:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Stock Preachers News Commentary - Big tech drove a sharp rebound into the close, with the Nasdaq Composite up 1.11% and the S&P 500 up 0.66% on the session, while the Dow Jones Industrial Average slip"
+    },
+    {
+      "title": "Stock Market Today, Oct. 19: IREN Rallies on AI Infrastructure Sentiment Rebound",
+      "description": "Today, Oct. 19, 2026, the AI data center stock bounced back after Goldman Sachs upgraded a key peer, lifting the entire sector.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-iren-rallies-on-ai-infrastructure-sentiment-rebound/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T22:05:13+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Today, Oct. 19, 2026, the AI data center stock bounced back after Goldman Sachs upgraded a key peer, lifting the entire sector."
+    },
+    {
+      "title": "Video - CEO Clips: Altamira Gold: Unlocking a Growing Porphyry Gold District in Brazil",
+      "description": "Vancouver, British Columbia--(Newsfile Corp. - October 19, 2026) - Altamira Gold Corp. (TSXV: ALTA) is exploring and developing gold projects in Brazil's highly prospective and under explored Alta Floresta Gold Belt. Its flagship Cajueiro Gold District hosts more than 2 million ounces* of gold acros",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/video-ceo-clips-altamira-gold-215500784.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T21:55:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - October 19, 2026) - Altamira Gold Corp. (TSXV: ALTA) is exploring and developing gold projects in Brazil's highly prospective and under explored Alta Flo"
+    },
+    {
+      "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
+      "description": "The Nasdaq-listed bitcoin holder bought as warrant holders exercised, bringing in $369 million, and it now plans a $630 million sale of 15% preferred stock.",
+      "url": "https://decrypt.co/381382/strive-buys-335-million-bitcoin?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T21:46:05+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Nasdaq-listed bitcoin holder bought as warrant holders exercised, bringing in $369 million, and it now plans a $630 million sale of 15% preferred stock."
+    },
+    {
+      "title": "Where Will VTI Be in 20 Years? Here's What History Suggests",
+      "description": "The Vanguard Morningstar Total Stock Market ETF delivered a steady 9.44% annualized return over the past 25 years.",
+      "url": "https://www.fool.com/investing/2026/10/19/where-history-says-vti-will-be-in-20-years/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T21:43:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The Vanguard Morningstar Total Stock Market ETF delivered a steady 9.44% annualized return over the past 25 years."
+    },
+    {
+      "title": "Gaming media stock surges on major stockholder approval",
+      "description": "Super League stockholders approve a strategic investment from Metaplanet.",
+      "url": "https://www.thestreet.com/crypto/investing/gaming-media-stock-surges-on-major-stockholder-approval?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T21:34:06+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Super League stockholders approve a strategic investment from Metaplanet."
+    },
+    {
+      "title": "Bitdeer stock jumps on $2.9B AI Cloud revenue backlog",
+      "description": "Investing.com -- Bitdeer Technologies Group (NASDAQ:BTDR) shares rose 6.5% in after-hours trading Monday following the company's September production update, which showed its AI Cloud revenue backlog reached approximately $2.9 billion.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bitdeer-stock-jumps-2-9b-213250169.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T21:32:50+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Investing.com -- Bitdeer Technologies Group (NASDAQ:BTDR) shares rose 6.5% in after-hours trading Monday following the company's September production update, which showed its AI Cloud revenue backlog "
+    },
+    {
+      "title": "Update: US Equity Indexes Close Mixed Amid Thin Trading Volumes as Consumer Discretionary, Technology Tops Sector Charts",
+      "description": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-close-mixed-213108305.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T21:31:08+00:00",
+      "category": "USA",
+      "simple_explanation": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)"
+    },
+    {
+      "title": "Treasuries Fall as Tech Shares Rebound, Denting Haven Demand",
+      "description": "Treasuries fell as a rebound in US technology shares sapped haven demand for US government debt.",
+      "url": "https://www.livemint.com/market/treasuries-fall-as-tech-shares-rebound-denting-haven-demand-11792444988693.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-10-19T21:23:08+00:00",
+      "category": "India",
+      "simple_explanation": "Treasuries fell as a rebound in US technology shares sapped haven demand for US government debt."
+    },
+    {
+      "title": "Whirlpool (WHR) Stock Sinks As Market Gains: What You Should Know",
+      "description": "Whirlpool (WHR) reached $26.46 at the closing of the latest trading day, reflecting a -5.13% change compared to its last close.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/whirlpool-whr-stock-sinks-market-211505696.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T21:15:05+00:00",
+      "category": "USA",
+      "simple_explanation": "Whirlpool (WHR) reached $26.46 at the closing of the latest trading day, reflecting a -5.13% change compared to its last close."
+    },
+    {
+      "title": "Why V.F. (VFC) Outpaced the Stock Market Today",
+      "description": "In the closing of the recent trading day, V.F. (VFC) stood at $17.14, denoting a +1.72% move from the preceding trading day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-v-f-vfc-outpaced-211505796.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T21:15:05+00:00",
+      "category": "USA",
+      "simple_explanation": "In the closing of the recent trading day, V.F. (VFC) stood at $17.14, denoting a +1.72% move from the preceding trading day."
+    },
+    {
+      "title": "Saudi Reinsurance Stock And Insurance Peers Tied To Saudi Security Risk",
+      "description": "Saudi Arabia postponing its flagship Future Investment Initiative has scrambled the usual script for global capital, with security risks, travel warnings and oil market questions now colliding in one story. Insurance and reinsurance stocks tied to war risk, political risk and energy infrastructure s",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/saudi-reinsurance-stock-insurance-peers-211206299.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T21:12:06+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Saudi Arabia postponing its flagship Future Investment Initiative has scrambled the usual script for global capital, with security risks, travel warnings and oil market questions now colliding in one "
+    },
+    {
+      "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+      "description": "The former medical device maker has liquidated its Solana treasury and is offering to repurchase shares and warrants using its $223.8 million cash holdings.",
+      "url": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AYKKWE9EN0JZE01QZ6T9SW/hi-how-to-swap-tokens-between-base-and-solana.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-10-19T21:04:34+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The former medical device maker has liquidated its Solana treasury and is offering to repurchase shares and warrants using its $223.8 million cash holdings."
+    },
+    {
+      "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
+      "description": "Tensions between Trump and Zelenskyy have steadily risen in recent weeks, while Russia, which invaded Ukraine, has received multiple breaks from the U.S.",
+      "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-10-19T21:00:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Tensions between Trump and Zelenskyy have steadily risen in recent weeks, while Russia, which invaded Ukraine, has received multiple breaks from the U.S."
+    },
+    {
+      "title": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
+      "description": "Investors are hopeful that last week's pullback was a clearing event for equities, but lingering concerns remain.",
+      "url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-10-19T20:57:14+00:00",
+      "category": "USA",
+      "simple_explanation": "Investors are hopeful that last week's pullback was a clearing event for equities, but lingering concerns remain."
+    },
+    {
+      "title": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
       "description": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
       "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-10-19T19:02:23+00:00",
+      "published_at": "2026-10-19T20:54:40+00:00",
       "category": "USA",
       "simple_explanation": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco."
     },
     {
-      "title": "Chevron Just Hit a Record High. Is the Stock Still a Buy?",
-      "description": "The company has much more going for it than elevated oil prices.",
-      "url": "https://www.fool.com/investing/2026/10/19/chevron-just-hit-a-record-high-is-the-stock-still/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T18:50:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The company has much more going for it than elevated oil prices."
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Hits Resistance As Oil Jumps; CoreWeave Falls Despite This (Live Coverage)",
-      "description": "The Dow Jones index is steady as techs jump on stock market today. Amazon and Nvidia climb while a biotech stock tests a buy point.",
-      "url": "https://finance.yahoo.com/m/ee2fc04a-d21b-3b33-b9d2-0baa749bd849/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T18:42:10+00:00",
-      "category": "USA",
-      "simple_explanation": "The Dow Jones index is steady as techs jump on stock market today. Amazon and Nvidia climb while a biotech stock tests a buy point."
-    },
-    {
-      "title": "Jio Platforms IPO listing: Can Reliance overtake Tata Group as India’s largest conglomerate by market cap? Details",
-      "description": "A potential Jio Platforms IPO, valued at about  ₹10.3 lakh crore, could lift Reliance Group’s combined market capitalisation to  ₹28.35 lakh crore, overtaking Tata Group’s  ₹25.92 lakh crore. Adani ranks third at  ₹17.23 lakh crore, followed by HDFC Group at nearly  ₹13.9 lakh crore.",
-      "url": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-can-reliance-overtake-tata-group-as-india-s-largest-conglomerate-by-market-cap-details-11792431816751.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/19/1600x900/logo/RIL_and_tata_1792434812424_49bv_1792434824428_UvWx_10c9e409-efaa-425c-939f-a73aedddccba_g7Ws.png",
+      "title": "TSX pulls back from three-week high as financials, metal miners fall",
+      "description": "CANADA-STOCKS/ (UPDATE 2):CANADA STOCKS-TSX pulls back from three-week high as financials, metal miners fall",
+      "url": "https://www.livemint.com/market/tsx-pulls-back-from-three-week-high-as-financials-metal-minersfall-11792441989054.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
       "source": "LiveMint",
-      "published_at": "2026-10-19T18:36:35+00:00",
+      "published_at": "2026-10-19T20:33:08+00:00",
       "category": "India",
-      "simple_explanation": "A potential Jio Platforms IPO, valued at about  ₹10.3 lakh crore, could lift Reliance Group’s combined market capitalisation to  ₹28.35 lakh crore, overtaking Tata Group’s  ₹25.92 lakh crore. Adani ra"
+      "simple_explanation": "CANADA-STOCKS/ (UPDATE 2):CANADA STOCKS-TSX pulls back from three-week high as financials, metal miners fall"
     },
     {
-      "title": "Jio Platforms IPO draws  ₹8,110 crore in anchor investor bids",
-      "description": "Investment bankers working on the Jio Platforms IPO allocated 7.247 crore shares to anchor investors at  ₹1,119 apiece.",
-      "url": "https://www.livemint.com/market/ipo/jio-platforms-ipo-draws-rs-8-110-crore-in-anchor-investor-bids-11792433576473.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/19/1600x900/logo/Jio_1792434199780_djM7_1792434200023_zK8X_7ba99a93-5810-4766-8ccf-086d50644bfd_8v6P.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-10-19T18:24:44+00:00",
-      "category": "India",
-      "simple_explanation": "Investment bankers working on the Jio Platforms IPO allocated 7.247 crore shares to anchor investors at  ₹1,119 apiece."
-    },
-    {
-      "title": "Gold Slips, Dollar Gains, Yields Edge Up",
-      "description": "Gold futures settled lower as the U.S. dollar firmed, yields rose, and oil prices pared early losses.",
-      "url": "https://finance.yahoo.com/m/08a6cbbd-7f5d-3517-9903-6a3029e89705/gold-slips%2C-dollar-gains%2C.html?.tsrc=rss",
+      "title": "TSX Closer: Index Drops Nearly 250 Points as Telecom, Utilities and Industrials Weigh",
+      "description": "The S&P/TSX Composite Index, which closed near a four-week high on Friday, dropped nearly 250 points",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-drops-nearly-203249841.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-10-19T18:18:02+00:00",
+      "published_at": "2026-10-19T20:32:49+00:00",
       "category": "Commodities",
-      "simple_explanation": "Gold futures settled lower as the U.S. dollar firmed, yields rose, and oil prices pared early losses."
+      "simple_explanation": "The S&P/TSX Composite Index, which closed near a four-week high on Friday, dropped nearly 250 points"
     },
     {
-      "title": "Already a hit? Reliance's Jio Platforms gets  ₹8,110 cr from anchor investors; LIC, New World Fund among top investors",
-      "description": "Jio Platforms allotted shares worth  ₹8,110 crore to 212 anchor investors at  ₹1,119 per share ahead of its October 21 IPO. LIC received the largest allocation. The company aims to raise about  ₹30,213 crore, valuing it at approximately $108 billion at the top of its price band.",
-      "url": "https://www.livemint.com/market/stock-market-news/jio-platforms-raises-rs-8-110-crore-from-212-anchor-investors-ahead-ipo-lic-new-world-fund-among-top-investors-11792432643541.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/19/1600x900/logo/Allotment_1792433451973_lzNL_1792433457192_lpBY_f1bae19d-c18e-4cc5-a70c-f57645c1fc72_pWIZ.png",
-      "source": "LiveMint",
-      "published_at": "2026-10-19T18:12:20+00:00",
-      "category": "India",
-      "simple_explanation": "Jio Platforms allotted shares worth  ₹8,110 crore to 212 anchor investors at  ₹1,119 per share ahead of its October 21 IPO. LIC received the largest allocation. The company aims to raise about  ₹30,21"
-    },
-    {
-      "title": "Applied Industrial (AIT): Buy, Sell, or Hold Post Q2 Earnings?",
-      "description": "Applied Industrial has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 12.4% to $330.48 per share while the index has gained 8.9%.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-industrial-ait-buy-sell-180855459.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T18:08:55+00:00",
-      "category": "USA",
-      "simple_explanation": "Applied Industrial has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 12.4% to $330.48 per share while the index has gai"
-    },
-    {
-      "title": "What Just Happened To Marvell Stock?",
-      "description": "Shares of Marvell Technology (MRVL) fell 17.2% over the five trading days from October 9 to October 16, 2026. The broader market saw far less movement during that window, with the S&P 500 losing 1.9%. The stock first slipped the day after its October 6 Investor Day, an event where management actuall",
-      "url": "https://www.trefis.com/articles/619152/what-just-happened-to-marvell-stock/2026-10-19?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T18:06:20+00:00",
-      "category": "USA",
-      "simple_explanation": "Shares of Marvell Technology (MRVL) fell 17.2% over the five trading days from October 9 to October 16, 2026. The broader market saw far less movement during that window, with the S&P 500 losing 1.9%."
-    },
-    {
-      "title": "The AI Bull Market Has Gained 117% in Four Years. His $200,000 Stock Profit Won’t Cut Social Security but Could Make 85% of His Benefits Taxable",
-      "description": "Cashing out a six-figure stock gain in retirement triggers two separate government mechanisms, and the one most retirees worry about turns out to be the wrong one to fear.",
-      "url": "https://247wallst.com/personal-finance/social-security/2026/10/19/the-ai-bull-market-has-gained-117-in-four-years-and-his-200000-stock-profit-wont-cut-social-security-but-could-make-85-of-his-benefits-taxable/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T18:00:15+00:00",
-      "category": "USA",
-      "simple_explanation": "Cashing out a six-figure stock gain in retirement triggers two separate government mechanisms, and the one most retirees worry about turns out to be the wrong one to fear."
-    },
-    {
-      "title": "Eyes on Wall Street: General Motors shares in focus ahead of 3rd quarter results - Key factors investors should watch",
-      "description": "General Motors shares fall 1.86% ahead of October 20 earnings announcement; analysts forecast Q3 revenue at $48.76 billion",
-      "url": "https://www.livemint.com/market/stock-market-news/eyes-on-wall-street-general-motors-shares-in-focus-ahead-of-3rd-quarter-results-key-factors-investors-should-watch-11792427935997.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/19/1600x900/logo/USA-AUTO-SALES-0_1792428010180_AiVB_1792428035503_dXkm_8078e611-098e-403d-8c6d-f52004faac1c_4rT9.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-10-19T17:56:49+00:00",
-      "category": "India",
-      "simple_explanation": "General Motors shares fall 1.86% ahead of October 20 earnings announcement; analysts forecast Q3 revenue at $48.76 billion"
-    },
-    {
-      "title": "Citi reveals top crypto stock picks ahead of Q3 earnings",
-      "description": "On this episode of CoinDesk’s Public Keys from the New York Stock Exchange, host Jennifer Sanasie is joined by Peter Christiansen, Director of Digital Assets Equity Research at Citi, who explains why the bank is turning more bullish on crypto equities ahead of Q3 earnings — breaking down its upgrade",
-      "url": "http://videos.coindesk.com/previews/V5fLMVEB?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T17:52:21+00:00",
+      "title": "Crypto PAC pours $362K into California race voters essentially decided in August",
+      "description": "A Fairshake affiliate is supporting incumbent Aisha Wahab through ads in November, but the congresswoman already won a special election in the district.",
+      "url": "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ABCKS2FMK83350383BZ19K/hi-the-great-tech-exodus-california-san-francisco.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-10-19T20:22:41+00:00",
       "category": "Crypto",
-      "simple_explanation": "On this episode of CoinDesk’s Public Keys from the New York Stock Exchange, host Jennifer Sanasie is joined by Peter Christiansen, Director of Digital Assets Equity Research at Citi, who explains why "
+      "simple_explanation": "A Fairshake affiliate is supporting incumbent Aisha Wahab through ads in November, but the congresswoman already won a special election in the district."
     },
     {
-      "title": "Sector Update: Financial Stocks Lower in Afternoon Trading",
-      "description": "Financial stocks declined in Monday afternoon trading, with the NYSE Financial Index decreasing 0.8%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-lower-afternoon-175033120.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T17:50:33+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Financial stocks declined in Monday afternoon trading, with the NYSE Financial Index decreasing 0.8%"
-    },
-    {
-      "title": "Mag 7 Pull Dow Back to Breakeven Line",
-      "description": "Thank the Mag 7 that the Dow isn't trading lower.",
-      "url": "https://finance.yahoo.com/m/21e12b96-681f-3fac-87c6-91ce89716d3d/mag-7-pull-dow-back-to.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T17:48:49+00:00",
-      "category": "USA",
-      "simple_explanation": "Thank the Mag 7 that the Dow isn't trading lower."
-    },
-    {
-      "title": "Mako Mining Reports Q3 Production Results From San Albino and Moss Mine",
-      "description": "Mako Mining (MKO.V) reported on Monday that its San Albino gold mine in northern Nicaragua processed",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/mako-mining-reports-q3-production-174212906.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T17:42:12+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Mako Mining (MKO.V) reported on Monday that its San Albino gold mine in northern Nicaragua processed"
-    },
-    {
-      "title": "2 Cryptocurrencies to Buy and Hold Through 2030",
-      "description": "Bitcoin and Ether are still promising long-term investments.",
-      "url": "https://www.fool.com/investing/2026/10/19/x-cryptocurrencies-to-buy-and-hold-through-2030/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T17:40:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin and Ether are still promising long-term investments."
-    },
-    {
-      "title": "Sector Update: Energy Stocks Decline Monday Afternoon",
-      "description": "Energy stocks were lower Monday afternoon, with the NYSE Energy Sector Index decreasing 0.7% and the",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-monday-173905976.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T17:39:05+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Energy stocks were lower Monday afternoon, with the NYSE Energy Sector Index decreasing 0.7% and the"
-    },
-    {
-      "title": "The CFTC's Proposed Rules to Reshape U.S. Crypto Markets",
-      "description": "Chairman Selig's CTX and CAM proposals could bring retail margin onshore, put exchanges under one federal roof, and reshape the fight over prediction markets.",
-      "url": "https://www.bankless.com/read/the-cftc-s-proposed-rules-to-reshape-u-s-crypto-markets?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T17:36:57+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Chairman Selig's CTX and CAM proposals could bring retail margin onshore, put exchanges under one federal roof, and reshape the fight over prediction markets."
-    },
-    {
-      "title": "Update: Equities Rise Intraday as Busy Earnings Week Kicks Off",
-      "description": "(Updates with latest market prices and developments.) US benchmark equity indexes were mostly hig",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-busy-earnings-173555913.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T17:35:55+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with latest market prices and developments.) US benchmark equity indexes were mostly hig"
-    },
-    {
-      "title": "2 High-Flying Dividend Stocks to Buy and Hold for a Decade",
-      "description": "They may just be getting started.",
-      "url": "https://www.fool.com/investing/2026/10/19/2-high-flying-dividend-stocks-to-buy-and-hold-for-a-decade/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T17:35:01+00:00",
-      "category": "USA",
-      "simple_explanation": "They may just be getting started."
-    },
-    {
-      "title": "Warren Buffett Loves This Low-Cost Vanguard Fund. If You Invest Just $200 Each Month, History Says It Will Be Worth This Much in 30 Years.",
-      "description": "Warren Buffett may be known for picking individual stocks, but he also loves investing in low-cost ETFs.",
-      "url": "https://www.fool.com/investing/2026/10/19/warren-buffett-loves-this-low-cost-vanguard-fund-i/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T17:35:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Warren Buffett may be known for picking individual stocks, but he also loves investing in low-cost ETFs."
-    },
-    {
-      "title": "Jio IPO: LIC, BlackRock, Fidelity, GIC among 212 anchor investors to pour Rs 8,110 crore",
-      "description": "Jio Platforms successfully raised approximately Rs 8,110 crore from 212 anchor investors before its upcoming IPO. The company allotted shares to well-known investors such as LIC, BlackRock, and Fidelity. These allocations indicate strong interest from both domestic and global institutional investors",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-lic-blackrock-fidelity-gic-among-212-anchor-investors-pour-rs-8110-crore/articleshow/135053762.cms",
-      "image": "https://img.etimg.com/photo/msid-135053762,imgsize-175206.cms",
+      "title": "US stocks today: Nasdaq leads Wall Street gains as chip, AI stocks rebound",
+      "description": "US stocks ended mixed on Monday, with the Nasdaq leading gains as chip and AI-linked stocks bounced back after last week’s sharp selloff. Investors also tracked corporate earnings and fresh stock-specific moves, while concerns over AI spending and financing remained in focus.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-gains-as-chip-ai-stocks-rebound/articleshow/135056194.cms",
+      "image": "https://img.etimg.com/photo/msid-135056194,imgsize-276698.cms",
       "source": "Economic Times",
-      "published_at": "2026-10-19T17:34:53+00:00",
+      "published_at": "2026-10-19T20:18:35+00:00",
       "category": "India",
-      "simple_explanation": "Jio Platforms successfully raised approximately Rs 8,110 crore from 212 anchor investors before its upcoming IPO. The company allotted shares to well-known investors such as LIC, BlackRock, and Fideli"
+      "simple_explanation": "US stocks ended mixed on Monday, with the Nasdaq leading gains as chip and AI-linked stocks bounced back after last week’s sharp selloff. Investors also tracked corporate earnings and fresh stock-spec"
     },
     {
-      "title": "Salazar Resources to Begin Drilling the Yumi Gold-Silver Veins at Tarqui, with Porphyry Drilling Planned at Monja, Ecuador",
-      "description": "Vancouver, British Columbia--(Newsfile Corp. - October 19, 2026) - Salazar Resources Limited (TSXV: SRL) (OTCQB: SRLZF) (FSE: CCG) (\"Salazar\" or the \"Company\") is pleased to announce its exploration plan following the closing of its $3,500,000 non-brokered private placement (the \"Financing\") announc",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/salazar-resources-begin-drilling-yumi-173100869.html?.tsrc=rss",
+      "title": "US Equity Markets Mixed Amid Gains in Technology, Consumer Discretionary Stocks",
+      "description": "US equity indexes were mixed Monday, with gains in consumer discretionary and technology stocks, whi",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-mixed-amid-201329359.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-10-19T17:31:00+00:00",
+      "published_at": "2026-10-19T20:13:29+00:00",
       "category": "Commodities",
-      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - October 19, 2026) - Salazar Resources Limited (TSXV: SRL) (OTCQB: SRLZF) (FSE: CCG) (\"Salazar\" or the \"Company\") is pleased to announce its exploration p"
+      "simple_explanation": "US equity indexes were mixed Monday, with gains in consumer discretionary and technology stocks, whi"
+    },
+    {
+      "title": "Should You Own Bitcoin in Your 401(k) After a 34% Drop From Its Record?",
+      "description": "Bitcoin has plunged 34% from its record high, and if you hold it inside a 401(k) near retirement, the math on a second drop gets uncomfortable fast. What fiduciaries, tax brackets, and Medicare thresholds reveal about crypto in a retirement account could reshape how you think about the risk.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/19/should-you-own-bitcoin-in-your-401k-after-a-34-drop-from-its-record/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T20:13:15+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin has plunged 34% from its record high, and if you hold it inside a 401(k) near retirement, the math on a second drop gets uncomfortable fast. What fiduciaries, tax brackets, and Medicare thresh"
+    },
+    {
+      "title": "Investors Should Sort Portfolios by Liquidity, Not Just Asset Class",
+      "description": "What matters most to clients is how fast they can get their cash back when they need it, writes this entrepreneur and family office executive.",
+      "url": "https://finance.yahoo.com/m/0b80de37-c84a-35e6-89cb-d25801dd6a63/investors-should-sort.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T20:13:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "What matters most to clients is how fast they can get their cash back when they need it, writes this entrepreneur and family office executive."
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-10-19T20:02:30+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Sector Update: Energy Stocks Softer Late Afternoon",
+      "description": "Energy stocks were lower late Monday afternoon, with the NYSE Energy Sector Index decreasing 0.5% an",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-softer-afternoon-195808265.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T19:58:08+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Energy stocks were lower late Monday afternoon, with the NYSE Energy Sector Index decreasing 0.5% an"
+    },
+    {
+      "title": "Market participants weigh in on SEC’s proposed crypto regulations",
+      "description": "The financial agency is scheduled to close public comments on its ‘Regulation Crypto Assets’ proposed in August.",
+      "url": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5APHDVZD1BGG3JK7KN10823/man-documents-sec.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-10-19T19:54:38+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The financial agency is scheduled to close public comments on its ‘Regulation Crypto Assets’ proposed in August."
     },
     {
       "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
@@ -238,19 +318,9 @@
       "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-10-19T17:25:57+00:00",
+      "published_at": "2026-10-19T19:46:07+00:00",
       "category": "USA",
       "simple_explanation": "Apple sent invitations for an event next week, calling it \"Pro and tell.\""
-    },
-    {
-      "title": "Revolut secures Gibraltar crypto license to support global expansion",
-      "description": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates.",
-      "url": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AJ2EGPXJENGSEWEZ0NCJ4J/hi-taking-a-closer-look-at-gibraltar-and-how-the-jurisdiction-fares-in-comparison-to-other-small-ones.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-10-19T17:24:49+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates."
     },
     {
       "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
@@ -258,149 +328,79 @@
       "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-10-19T17:01:26+00:00",
+      "published_at": "2026-10-19T19:37:51+00:00",
       "category": "USA",
       "simple_explanation": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month."
     },
     {
-      "title": "Why Canadian Oil Is Lagging Even As Global Crude Soars",
-      "description": "Large WCS discounts will persist in 2027 due to pipeline constraints and rising imports of competing heavy crudes into the U.S. Gulf Coast",
-      "url": "https://finance.yahoo.com/energy/articles/why-canadian-oil-lagging-even-170000798.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T17:00:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Large WCS discounts will persist in 2027 due to pipeline constraints and rising imports of competing heavy crudes into the U.S. Gulf Coast"
-    },
-    {
-      "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
-      "description": "The SpaceX boss said Monday that he'll give one of his company shares to every child in the U.S. next year. He didn't say how the share giveaway would happen.",
-      "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-10-19T16:58:20+00:00",
-      "category": "USA",
-      "simple_explanation": "The SpaceX boss said Monday that he'll give one of his company shares to every child in the U.S. next year. He didn't say how the share giveaway would happen."
-    },
-    {
-      "title": "Strategy buys back their bitcoin, closing in on 850K BTC",
-      "description": "Scott Melker discusses Strategy (MSTR) repurchasing bitcoin (BTC-USD), increasing his hold on Strategy (STRC), JPMorgan's (JPM) JPM Coin becoming available on ethereum (ETH-USD), and the pushback against tokenized stocks as companies opt out.\"The Daily Wolf with Scott Melker\" airs every day at 12:00",
-      "url": "https://finance.yahoo.com/video/strategy-buys-back-their-bitcoin-closing-in-on-850k-btc-165459060.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T16:54:59+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Scott Melker discusses Strategy (MSTR) repurchasing bitcoin (BTC-USD), increasing his hold on Strategy (STRC), JPMorgan's (JPM) JPM Coin becoming available on ethereum (ETH-USD), and the pushback agai"
-    },
-    {
-      "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
-      "description": "A Bitcoin address dormant since 2013 moved 411.45 BTC worth about $33.4 million, according to Galaxy Research, and it’s among the wallets named in the “Noah Doe” lawsuit.",
-      "url": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T16:46:05+00:00",
-      "category": "Crypto",
-      "simple_explanation": "A Bitcoin address dormant since 2013 moved 411.45 BTC worth about $33.4 million, according to Galaxy Research, and it’s among the wallets named in the “Noah Doe” lawsuit."
-    },
-    {
-      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-      "description": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
-      "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-10-19T16:42:14+00:00",
-      "category": "USA",
-      "simple_explanation": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too."
-    },
-    {
-      "title": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal",
-      "description": "The transaction would give Metaplanet access to US capital markets, where it plans to use preferred stock offerings to finance additional Bitcoin purchases.",
-      "url": "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AD2F6MT3YFMVZ52S5T2ARH/hi-defi-wont-last-long-without-unlocking-bitcoins-treasure-chest-metaplanet-4.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-10-19T16:41:55+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The transaction would give Metaplanet access to US capital markets, where it plans to use preferred stock offerings to finance additional Bitcoin purchases."
-    },
-    {
-      "title": "Stock Market Midday, Oct. 19: Tech Stocks Rebound as AI Confidence Returns",
-      "description": "Nasdaq climbs, lifted by semiconductor and cloud infrastructure plays ahead of mega-cap earnings, today, Oct. 19, 2026.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-midday-oct-19-tech-stocks-rebound-as-ai-confidence-returns/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T16:37:49+00:00",
-      "category": "USA",
-      "simple_explanation": "Nasdaq climbs, lifted by semiconductor and cloud infrastructure plays ahead of mega-cap earnings, today, Oct. 19, 2026."
-    },
-    {
-      "title": "TSX slips as hotter inflation revives rate concerns, oil prices retreat",
-      "description": "Investing.com - Canada’s main stock index fell on Monday as investors assessed a fresh acceleration in domestic inflation and its implications for Bank of Canada interest rates, while retreating oil prices added to uncertainty across commodity-linked markets.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/tsx-slips-hotter-inflation-revives-163408133.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T16:34:08+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Investing.com - Canada’s main stock index fell on Monday as investors assessed a fresh acceleration in domestic inflation and its implications for Bank of Canada interest rates, while retreating oil p"
-    },
-    {
-      "title": "Exxon just showed why gas prices didn't fall with oil",
-      "description": "Crude got cheaper last quarter. Pump prices barely moved, and Exxon’s new filing shows who kept the difference.",
-      "url": "https://www.thestreet.com/markets/exxon-just-showed-why-gas-prices-didnt-fall-with-oil?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T16:33:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Crude got cheaper last quarter. Pump prices barely moved, and Exxon’s new filing shows who kept the difference."
-    },
-    {
-      "title": "Renforth Resources CEO targets Parbec resource boost after new gold discoveries",
-      "description": "Renforth Resources Inc (CSE:RFR, OTCQB:RFHRF) CEO Nicole Brewster spoke with Proactive's Stephen Gunnion about new gold intersections at its Parbec deposit in Quebec, the planned resource review and next steps towards assessing development options. Two drillholes beneath recent surface discoveries i",
-      "url": "https://finance.yahoo.com/video/renforth-resources-ceo-targets-parbec-163213088.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-19T16:32:13+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Renforth Resources Inc (CSE:RFR, OTCQB:RFHRF) CEO Nicole Brewster spoke with Proactive's Stephen Gunnion about new gold intersections at its Parbec deposit in Quebec, the planned resource review and n"
-    },
-    {
-      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
-      "description": "The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing.",
-      "url": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AEENVMENSY40QKZBNFA626/crypto-bitcoin-storage.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-10-19T16:30:18+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing."
-    },
-    {
-      "title": "AI stocks rebound as CoreWeave jumps on Goldman Sachs upgrade",
-      "description": "AI stocks rebound after last week’s sharp selloff, with semiconductor stocks leading the recovery. CoreWeave gains after Goldman Sachs upgrades the stock to buy, while Intel, Nvidia, AMD and Broadcom also rise. Investors now turn to upcoming technology earnings for clues on AI spending, valuations, ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-rebound-as-coreweave-jumps-on-goldman-upgrade/articleshow/135052127.cms",
-      "image": "https://img.etimg.com/photo/msid-135052127,imgsize-273558.cms",
-      "source": "Economic Times",
-      "published_at": "2026-10-19T16:17:35+00:00",
-      "category": "India",
-      "simple_explanation": "AI stocks rebound after last week’s sharp selloff, with semiconductor stocks leading the recovery. CoreWeave gains after Goldman Sachs upgrades the stock to buy, while Intel, Nvidia, AMD and Broadcom "
-    },
-    {
-      "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
-      "description": "Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range.",
-      "url": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45MNAH6T9X0V6SRTWP10EC6/bitcoin-lazer-eyes-and-bull-run-graph-6.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-10-19T16:05:57+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range."
-    },
-    {
-      "title": "PhonePe rebrands stock broking platform Share.Market as PhonePe Invest, offers smart tools for investors",
-      "description": "The company launches Portfolio Optimiser to empower new-to-market investors to build, review and optimise their portfolios through actionable research insights.",
-      "url": "https://www.livemint.com/market/phonepe-rebrands-stock-broking-platform-share-market-as-phonepe-invest-offers-smart-tools-for-investors-11792406855628.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/19/1600x900/logo/phoneP_invest_1792425479590_qYMr_1792425500791_LQg1_b88b8b2e-623a-467c-ae12-1b758fc1db75_BK3H.jpeg",
+      "title": "Indonesia Was Finding Its Feet. Then Came MSCI",
+      "description": "The latest blow to Indonesia, from MSCI Inc.’s warning it’s considering removing the country from its global indexes, couldn’t have come at a worst time. Southeast Asia's largest economy appeared to be finding its feet after a rocky few years. Now, it faces an exodus of international capital.",
+      "url": "https://www.livemint.com/market/indonesia-was-finding-its-feet-then-came-msci-11792438179587.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
       "source": "LiveMint",
-      "published_at": "2026-10-19T16:03:34+00:00",
+      "published_at": "2026-10-19T19:29:39+00:00",
       "category": "India",
-      "simple_explanation": "The company launches Portfolio Optimiser to empower new-to-market investors to build, review and optimise their portfolios through actionable research insights."
+      "simple_explanation": "The latest blow to Indonesia, from MSCI Inc.’s warning it’s considering removing the country from its global indexes, couldn’t have come at a worst time. Southeast Asia's largest economy appeared to b"
+    },
+    {
+      "title": "U.S. Treasury Yields Turn Higher With Oil; French Bond Yields Rise on Protests",
+      "description": "U.S. Treasury yields moved higher as oil prices erased early declines, though long-dated yields still remain comfortably below recent multidecade highs.",
+      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-in-asian-trade-e5171539?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T19:27:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "U.S. Treasury yields moved higher as oil prices erased early declines, though long-dated yields still remain comfortably below recent multidecade highs."
+    },
+    {
+      "title": "Oil Approaches Longest Streak of Gains in a Month—With No Sign of Relief",
+      "description": "Oil prices keep on climbing.",
+      "url": "https://finance.yahoo.com/m/b83fdccf-d1ad-3d84-86ec-d30587ff3700/oil-approaches-longest-streak.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T19:17:52+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil prices keep on climbing."
+    },
+    {
+      "title": "Anthropic IPO, MANGOS ETFs and the Future of the AI Trade",
+      "description": "What should investors know about the Anthropic IPO and ETFs investing in private AI companies?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-mangos-etfs-future-191700701.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T19:17:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "What should investors know about the Anthropic IPO and ETFs investing in private AI companies?"
+    },
+    {
+      "title": "Hedge funds retreat from tech at fastest pace in a decade as AI trade weakens",
+      "description": "Hedge funds cut technology exposure at the fastest pace in at least a decade as the global AI trade weakened and tech stocks bore the brunt of last week’s selloff. Goldman Sachs data showed funds reduced risk sharply, although technology remained a major part of their portfolios.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/hedge-funds-retreat-from-tech-at-fastest-pace-in-a-decade-as-ai-trade-weakens/articleshow/135055531.cms",
+      "image": "https://img.etimg.com/photo/msid-135055531,imgsize-224074.cms",
+      "source": "Economic Times",
+      "published_at": "2026-10-19T19:16:29+00:00",
+      "category": "India",
+      "simple_explanation": "Hedge funds cut technology exposure at the fastest pace in at least a decade as the global AI trade weakened and tech stocks bore the brunt of last week’s selloff. Goldman Sachs data showed funds redu"
+    },
+    {
+      "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
+      "description": "Mesh will connect crypto and stablecoin wallets to Visa’s global payment network, allowing users to spend digital assets without a separate card.",
+      "url": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AQTAX4CZKP1822SBZZMSMC/hi-could-those-who-left-visa-come-back.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-10-19T19:16:19+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Mesh will connect crypto and stablecoin wallets to Visa’s global payment network, allowing users to spend digital assets without a separate card."
+    },
+    {
+      "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
+      "description": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.",
+      "url": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5APDAY3V814QCHNF8PWJB4F/hi-how-mastercard-plans-to-settle-card-payments-with-stablecoins.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-10-19T19:03:23+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement."
     }
   ]
 }
