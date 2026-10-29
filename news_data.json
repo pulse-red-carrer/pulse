@@ -1,26 +1,346 @@
 {
-  "last_updated": "2026-10-28T22:25:33.106649+00:00",
+  "last_updated": "2026-10-29T02:09:07.576347+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "3 Reasons to sell EE and 1 stock to buy instead",
-      "description": "Excelerate Energy currently trades at $33.29 per share and has shown little upside over the past six months, posting a small loss of 0.6%. The stock also fell short of the S&P 500’s 7.5% gain during that period.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-ee-1-221434134.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T22:14:34+00:00",
-      "category": "USA",
-      "simple_explanation": "Excelerate Energy currently trades at $33.29 per share and has shown little upside over the past six months, posting a small loss of 0.6%. The stock also fell short of the S&P 500’s 7.5% gain during t"
-    },
-    {
-      "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-      "description": "For the first time this year, low-income consumers during the quarter outperformed the high-income cohort at its restaurants, CEO Scott Boatwright said.",
-      "url": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "description": "Samsung Electronics reported third-quarter earnings on Thursday.",
+      "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-10-28T22:12:28+00:00",
+      "published_at": "2026-10-29T02:06:04+00:00",
       "category": "USA",
-      "simple_explanation": "For the first time this year, low-income consumers during the quarter outperformed the high-income cohort at its restaurants, CEO Scott Boatwright said."
+      "simple_explanation": "Samsung Electronics reported third-quarter earnings on Thursday."
+    },
+    {
+      "title": "Gold slips after Fed holds rates, PCE inflation data in focus",
+      "description": "Investing.com -- Gold prices fell on Wednesday after the U.S. Federal Reserve held interest rates steady but offered limited clarity on its next move, leaving investors uncertain about the prospect of further tightening before year-end as they awaited fresh inflation data.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-slips-fed-holds-rates-015115459.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-29T01:51:15+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Investing.com -- Gold prices fell on Wednesday after the U.S. Federal Reserve held interest rates steady but offered limited clarity on its next move, leaving investors uncertain about the prospect of"
+    },
+    {
+      "title": "Jio among world’s top five telcos, with a digital edge",
+      "description": "Jio Platforms made its public listing in India, achieving a market cap of $137.3 billion. This valuation positions it as the fifth-largest telecom company worldwide, surpassing Deutsche Telekom. Global competitors like China Mobile and Verizon continue to lead in market capitalization. Jio's valuati",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-among-worlds-top-five-telcos-with-a-digital-edge/articleshow/135285980.cms",
+      "image": "https://img.etimg.com/photo/msid-135285980,imgsize-1899050.cms",
+      "source": "Economic Times",
+      "published_at": "2026-10-29T01:50:41+00:00",
+      "category": "India",
+      "simple_explanation": "Jio Platforms made its public listing in India, achieving a market cap of $137.3 billion. This valuation positions it as the fifth-largest telecom company worldwide, surpassing Deutsche Telekom. Globa"
+    },
+    {
+      "title": "Top stocks to watch today: Jio Platforms, IndiGo, Coal India, Meesho shares in focus on Thursday, 29 Oct | Full list",
+      "description": "Top stocks to watch today: Jio Platforms, Coal India, IndiGo, Trent, Meesho, Hero Motocorp among shares in focus on Thursday.",
+      "url": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-jio-platforms-indigo-coal-india-meesho-shares-in-focus-on-thursday-29-oct-full-list-11793236670600.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/29/1600x900/logo/STW_on_Thu_1793238242950_Fp0N_1793238243086_vA3T_13b51419-db8b-4a8e-ae30-1b54f61641c8_KQr4.png",
+      "source": "LiveMint",
+      "published_at": "2026-10-29T01:49:12+00:00",
+      "category": "India",
+      "simple_explanation": "Top stocks to watch today: Jio Platforms, Coal India, IndiGo, Trent, Meesho, Hero Motocorp among shares in focus on Thursday."
+    },
+    {
+      "title": "Dow Jones Futures: Microsoft Rises, But Google, ServiceNow, Fortinet Dive On Earnings",
+      "description": "After the stock market rose for a third day, Microsoft rose late on strong earnings. But Google, ServiceNow and Fortinet dived.",
+      "url": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-29T01:45:25+00:00",
+      "category": "USA",
+      "simple_explanation": "After the stock market rose for a third day, Microsoft rose late on strong earnings. But Google, ServiceNow and Fortinet dived."
+    },
+    {
+      "title": "Jio Platforms draws bullish bets, analysts see up to 28% upside",
+      "description": "Four brokerages have begun coverage on Jio Platforms just before its upcoming listing with favorable ratings. Nomura, Motilal Oswal Securities, and Elara Capital issued 'Buy' ratings indicating significant upside potential. Dolat Capital provided an 'Accumulate' rating with a higher target price sug",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-bullish-on-jio-platforms-with-buy-and-accumulate/articleshow/135285530.cms",
+      "image": "https://img.etimg.com/photo/msid-135285530,imgsize-64872.cms",
+      "source": "Economic Times",
+      "published_at": "2026-10-29T01:44:34+00:00",
+      "category": "India",
+      "simple_explanation": "Four brokerages have begun coverage on Jio Platforms just before its upcoming listing with favorable ratings. Nomura, Motilal Oswal Securities, and Elara Capital issued 'Buy' ratings indicating signif"
+    },
+    {
+      "title": "Bitcoin Controls 59.5% of the Crypto Market. Is Altcoin Season Still Possible?",
+      "description": "Bitcoin now commands nearly 60% of the entire crypto market, and the reason why tells a very different story than most altcoin investors want to hear. Whether that spells opportunity or prolonged pain depends on a few key signals starting to shift.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/28/bitcoin-controls-59-5-of-the-crypto-market-is-altcoin-season-still-possible/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-29T01:41:42+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin now commands nearly 60% of the entire crypto market, and the reason why tells a very different story than most altcoin investors want to hear. Whether that spells opportunity or prolonged pain"
+    },
+    {
+      "title": "The Fed Holds Interest Rates in a 10–2 Vote. Here's What This Means for Artificial Intelligence (AI) Stocks.",
+      "description": "Ai investors like the Fed's rate pause, but it may not last long.",
+      "url": "https://www.fool.com/investing/2026/10/28/the-fed-holds-interest-rates-in-a-102-vote-heres-what-this-means-for-artificial-intelligence-ai-stocks/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-29T01:36:42+00:00",
+      "category": "USA",
+      "simple_explanation": "Ai investors like the Fed's rate pause, but it may not last long."
+    },
+    {
+      "title": "Are these low-P/E bluechip stocks really a bargain?",
+      "description": "A low P/E multiple may look attractive but doesn’t guarantee a good deal. Here is how to evaluate the earnings quality, margins, and growth risks behind SBI, Hindustan Zinc, and M&amp;M.",
+      "url": "https://www.livemint.com/market/stock-market-news/are-these-low-p-e-bluechip-stocks-really-a-bargain-11793187178454.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/28/1600x900/logo/pexels-photo-4960464_1779775477582_1779775487180_e4ad9a7d-15b2-49df-9fee-2262561af749_1793187910303_5cT1_bc181a53-25e7-4c4b-acd7-37ab510181d8_GWOP.jpeg",
+      "source": "LiveMint",
+      "published_at": "2026-10-29T01:30:13+00:00",
+      "category": "India",
+      "simple_explanation": "A low P/E multiple may look attractive but doesn’t guarantee a good deal. Here is how to evaluate the earnings quality, margins, and growth risks behind SBI, Hindustan Zinc, and M&amp;M."
+    },
+    {
+      "title": "What Is The One Risk Every Newmont Investor Should Know?",
+      "description": "For questions about this article or underlying research, email help@trefis.com.",
+      "url": "https://www.trefis.com/stock/nem/articles/620959/what-is-the-one-risk-every-newmont-investor-should-know/2026-10-28?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-29T01:21:43+00:00",
+      "category": "Commodities",
+      "simple_explanation": "For questions about this article or underlying research, email help@trefis.com."
+    },
+    {
+      "title": "If I Were Building an Investment Portfolio From Scratch Today, I'd Start With These 2 ETFs",
+      "description": "I'd stick to what has worked so well in the past decade while adding international exposure.",
+      "url": "https://www.fool.com/investing/2026/10/28/building-investment-portfolio-scratch-2-etfs/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-29T01:20:00+00:00",
+      "category": "USA",
+      "simple_explanation": "I'd stick to what has worked so well in the past decade while adding international exposure."
+    },
+    {
+      "title": "MSCI puts Polycab exit on hold amid insolvency case uncertainty",
+      "description": "MSCI has decided to delay the removal of Polycab India from its indices amid insolvency uncertainty. The company was placed on the Insolvency Resolution Process board on October 7. However, the National Company Law Appellate Tribunal stayed the company’s admission to the insolvency process on Octobe",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/msci-puts-polycab-india-removal-on-hold/articleshow/135285448.cms",
+      "image": "https://img.etimg.com/photo/msid-135285448,imgsize-93340.cms",
+      "source": "Economic Times",
+      "published_at": "2026-10-29T01:17:04+00:00",
+      "category": "India",
+      "simple_explanation": "MSCI has decided to delay the removal of Polycab India from its indices amid insolvency uncertainty. The company was placed on the Insolvency Resolution Process board on October 7. However, the Nation"
+    },
+    {
+      "title": "Stock market outlook today, 29 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+      "description": "Stock market prediction for Thursday, 29 October, 2026: Gift Nifty was trading around the 22,766 level, up nearly 33 points or 0.15% from the Nifty futures’ previous close, indicating a positive opening for the Indian stock market indices.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-29-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-11793234388585.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/29/1600x900/logo/prediction_today_1793236196938_PF7d_1793236197084_OQop_040d6826-e222-4947-a038-1d74fff950ea_pWGr.png",
+      "source": "LiveMint",
+      "published_at": "2026-10-29T01:15:36+00:00",
+      "category": "India",
+      "simple_explanation": "Stock market prediction for Thursday, 29 October, 2026: Gift Nifty was trading around the 22,766 level, up nearly 33 points or 0.15% from the Nifty futures’ previous close, indicating a positive openi"
+    },
+    {
+      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+      "description": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move.",
+      "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62K842329DANXYCBBC56CQQ/hi-5-tips-for-investing-during-a-global-recession.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-10-29T01:12:01+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move."
+    },
+    {
+      "title": "Persistent Systems to raise Rs 6,000 crore via NCDs for Nagarro deal",
+      "description": "Persistent Systems plans to raise more than ₹6,000 crore through non-convertible debentures for its Nagarro SE acquisition. The company successfully completed a QIP earlier this week, raising ₹4,264 crore. NCDs will range from one to five years, averaging three years in maturity. Persistent secured ",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/persistent-systems-to-raise-rs-6000-crore-via-ncds-for-nagarro-deal/articleshow/135285377.cms",
+      "image": "https://img.etimg.com/photo/msid-135285377,imgsize-179473.cms",
+      "source": "Economic Times",
+      "published_at": "2026-10-29T01:11:41+00:00",
+      "category": "India",
+      "simple_explanation": "Persistent Systems plans to raise more than ₹6,000 crore through non-convertible debentures for its Nagarro SE acquisition. The company successfully completed a QIP earlier this week, raising ₹4,264 c"
+    },
+    {
+      "title": "Patna to raise Rs 200 crore via municipal bonds",
+      "description": "The Patna Municipal Corporation is set to launch ₹200 crore worth of municipal bonds, with bids opening on October 30. This move marks Bihar's inaugural bond issuance, sparking renewed enthusiasm for municipal bonds. Meanwhile, Kanpur Nagar Nigam is also gearing up to issue ₹125 crore soon. Early in",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/patna-to-raise-rs-200-crore-via-municipal-bonds/articleshow/135285199.cms",
+      "image": "https://img.etimg.com/photo/msid-135285199,imgsize-54618.cms",
+      "source": "Economic Times",
+      "published_at": "2026-10-29T01:03:16+00:00",
+      "category": "India",
+      "simple_explanation": "The Patna Municipal Corporation is set to launch ₹200 crore worth of municipal bonds, with bids opening on October 30. This move marks Bihar's inaugural bond issuance, sparking renewed enthusiasm for "
+    },
+    {
+      "title": "Global Market Today: Asian shares edge higher as investors assess tech earnings, Fed outlook",
+      "description": "Nasdaq 100 Index futures dropped 0.9% and contracts for the S&P 500 slipped 0.4% as Alphabet slumped 10% in extended trading after the Google parent’s sales underwhelmed. MSCI Inc.’s Asia Pacific equities gauge climbed 0.3%, led by gains in Japan’s Nikkei 225 and South Korea’s Kospi indexes.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-edge-higher-as-investors-assess-tech-earnings-fed-outlook/articleshow/135285079.cms",
+      "image": "https://img.etimg.com/photo/msid-135285079,imgsize-178392.cms",
+      "source": "Economic Times",
+      "published_at": "2026-10-29T00:56:43+00:00",
+      "category": "India",
+      "simple_explanation": "Nasdaq 100 Index futures dropped 0.9% and contracts for the S&P 500 slipped 0.4% as Alphabet slumped 10% in extended trading after the Google parent’s sales underwhelmed. MSCI Inc.’s Asia Pacific equi"
+    },
+    {
+      "title": "Jio Platforms shares surge 21% on debut, overtake Airtel in market cap",
+      "description": "Jio Platforms made a remarkable entrance in the stock market, soaring 21.4% above its IPO price on the first day of trading. Closing at ₹1,417.35, the stock surpassed Bharti Airtel in market capitalization. With a staggering 22 times oversubscription, the IPO attracted considerable institutional bac",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-surges-21-on-debut-overtakes-bharti-airtel/articleshow/135285038.cms",
+      "image": "https://img.etimg.com/photo/msid-135285038,imgsize-848981.cms",
+      "source": "ET Markets",
+      "published_at": "2026-10-29T00:55:41+00:00",
+      "category": "India",
+      "simple_explanation": "Jio Platforms made a remarkable entrance in the stock market, soaring 21.4% above its IPO price on the first day of trading. Closing at ₹1,417.35, the stock surpassed Bharti Airtel in market capitaliz"
+    },
+    {
+      "title": "Raja Venkatraman recommends three stocks for 29 October",
+      "description": "Market expert Raja Venkatraman shares his top stock picks for today, 29 October. Here’s his technical outlook and trade strategy.",
+      "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-29-october-11793234294648.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/29/1600x900/maxresdefault_1793234334714_NoYK_1793234340971_Yfqu_717c6c18-7d34-4b71-929e-9bff8fc6ebac_nUeF.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-10-29T00:46:12+00:00",
+      "category": "India",
+      "simple_explanation": "Market expert Raja Venkatraman shares his top stock picks for today, 29 October. Here’s his technical outlook and trade strategy."
+    },
+    {
+      "title": "Oil's War Premium Could Vanish Fast Once a Hormuz Deal Lands, Analysts Warn",
+      "description": "The war premium leaves Brent $20 above JPMorgan's fair value, and BMI expects a steep sell-off after a Hormuz deal.",
+      "url": "https://beincrypto.com/oil-war-premium-hormuz-deal-analysts/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-29T00:40:13+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The war premium leaves Brent $20 above JPMorgan's fair value, and BMI expects a steep sell-off after a Hormuz deal."
+    },
+    {
+      "title": "Stock recommendations for 29 October from MarketSmith India",
+      "description": "MarketSmith India reveals its top stock recommendations for today, 29 October. Get expert insights into the best-performing stocks to guide your investment decisions.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-29-october-from-marketsmith-india-11793209356671.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/MS_1755693310577_1755693317448_1756904694597_1772627086309.png",
+      "source": "LiveMint",
+      "published_at": "2026-10-29T00:30:49+00:00",
+      "category": "India",
+      "simple_explanation": "MarketSmith India reveals its top stock recommendations for today, 29 October. Get expert insights into the best-performing stocks to guide your investment decisions."
+    },
+    {
+      "title": "D-Street poised for positive start as GIFT Nifty signals gains",
+      "description": "Benchmark Nifty experienced a marginal decline after recovering from a significant low during the trading session. Analysts believe Indian equities may remain range-bound ahead of the US Federal Reserve's upcoming policy decision. The rupee weakened against the US dollar due to rising crude oil pric",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135280739.cms",
+      "image": "https://img.etimg.com/photo/msid-135280739,imgsize-183124.cms",
+      "source": "ET Markets",
+      "published_at": "2026-10-29T00:30:00+00:00",
+      "category": "India",
+      "simple_explanation": "Benchmark Nifty experienced a marginal decline after recovering from a significant low during the trading session. Analysts believe Indian equities may remain range-bound ahead of the US Federal Reser"
+    },
+    {
+      "title": "Stocks in news: Jio Platforms, RIL, Hero MotoCorp, Meesho, TVS Motor, Vedanta Aluminium and Suzlon Energy",
+      "description": "Indian equities ended lower on Wednesday, primarily driven by selling in heavyweight stocks. Information technology and oil and gas shares experienced significant declines, falling more than 2%. The Nifty 50 index settled at 22,699, down 51 points, indicating ongoing resistance at 22,800. Several co",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-jio-platforms-ril-hero-motocorp-meesho-tvs-motor-vedanta-aluminium-and-suzlon-energy/articleshow/135273790.cms",
+      "image": "https://img.etimg.com/photo/msid-135273790,imgsize-167542.cms",
+      "source": "ET Markets",
+      "published_at": "2026-10-29T00:30:00+00:00",
+      "category": "India",
+      "simple_explanation": "Indian equities ended lower on Wednesday, primarily driven by selling in heavyweight stocks. Information technology and oil and gas shares experienced significant declines, falling more than 2%. The N"
+    },
+    {
+      "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+      "description": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity.",
+      "url": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-10-29T00:16:39+00:00",
+      "category": "USA",
+      "simple_explanation": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity."
+    },
+    {
+      "title": "What Is Going On With MARA Stock After Its Steep Fall?",
+      "description": "For questions about this article or underlying research, email help@trefis.com.",
+      "url": "https://www.trefis.com/stock/mara/articles/620984/what-is-going-on-with-mara-stock-after-its-steep-fall/2026-10-28?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-29T00:14:30+00:00",
+      "category": "Crypto",
+      "simple_explanation": "For questions about this article or underlying research, email help@trefis.com."
+    },
+    {
+      "title": "S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries —  GOOGL, MSFT, ORCL, NVDA, MRVL In Focus",
+      "description": "The Federal Reserve left interest rates unchanged in its October policy meeting.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-futures-dip-as-weaker-than-expected-alphabet-earnings-reignite-ai-spending-worries-googl-msft-orcl-nvda-mrvl-in-focus/cZUQ2gwR9Gq?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-29T00:10:28+00:00",
+      "category": "USA",
+      "simple_explanation": "The Federal Reserve left interest rates unchanged in its October policy meeting."
+    },
+    {
+      "title": "3 Reasons PGR has explosive upside potential",
+      "description": "Progressive trades at $225.20 and has moved in lockstep with the market. Its shares have returned 10.9% over the last six months while the S&P 500 has gained 7.5%.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-pgr-explosive-upside-234234706.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-28T23:42:34+00:00",
+      "category": "USA",
+      "simple_explanation": "Progressive trades at $225.20 and has moved in lockstep with the market. Its shares have returned 10.9% over the last six months while the S&P 500 has gained 7.5%."
+    },
+    {
+      "title": "Datavault AI Stock Jumps 31% Even as Its Bitcoin Sits Stuck at Biconomy",
+      "description": "Its restatement takes every reported bitcoin off the books, including 837 BTC Scilex agreed to buy in June. No definitive deal has been disclosed.",
+      "url": "https://unchainedcrypto.com/datavault-ai-stock-jumps-31-even-as-its-bitcoin-sits-stuck-at-biconomy/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-28T23:35:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Its restatement takes every reported bitcoin off the books, including 837 BTC Scilex agreed to buy in June. No definitive deal has been disclosed."
+    },
+    {
+      "title": "PCE Inflation Data Offers Key Insight Into December Rate Hike",
+      "description": "The reading comes just one day after the Federal Reserve voted to hold interest rates at 3.75%-4%, punting any increases to its December meeting.",
+      "url": "https://finance.yahoo.com/m/bed54cc9-1330-39de-a83f-d55edae31b32/pce-inflation-data-offers-key.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-28T23:33:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The reading comes just one day after the Federal Reserve voted to hold interest rates at 3.75%-4%, punting any increases to its December meeting."
+    },
+    {
+      "title": "Could Bitcoin Price Crash Like Silver? Warning Signs Are Showing",
+      "description": "Benjamin Cowen warns Bitcoin could follow silver's path after a fake-out, while Charles Edwards sees capped downside.",
+      "url": "https://beincrypto.com/bitcoin-price-warning-sign-silver-crash/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-28T23:32:47+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Benjamin Cowen warns Bitcoin could follow silver's path after a fake-out, while Charles Edwards sees capped downside."
+    },
+    {
+      "title": "3 Reasons Why Bitcoin Is Worth Buying Right Now",
+      "description": "Are you waiting for the perfect chart pattern before you finally buy Bitcoin? Find out why the real buy signal is coming from the blockchain's newest infrastructure upgrades.",
+      "url": "https://www.fool.com/investing/2026/10/28/3-reasons-why-bitcoin-is-worth-buying-right-now/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-28T23:29:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Are you waiting for the perfect chart pattern before you finally buy Bitcoin? Find out why the real buy signal is coming from the blockchain's newest infrastructure upgrades."
+    },
+    {
+      "title": "Perma-Fix (PESI): buy, sell, or hold post Q2 earnings?",
+      "description": "Since April 2026, Perma-Fix has been in a holding pattern, posting a small return of 1.9% while floating around $12.93. The stock also fell short of the S&P 500’s 7.5% gain during that period.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/perma-fix-pesi-buy-sell-232634777.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-28T23:26:34+00:00",
+      "category": "USA",
+      "simple_explanation": "Since April 2026, Perma-Fix has been in a holding pattern, posting a small return of 1.9% while floating around $12.93. The stock also fell short of the S&P 500’s 7.5% gain during that period."
+    },
+    {
+      "title": "Fed Holds Rates, but Warsh Is Shrinking Its Rate-Setting Calendar",
+      "description": "Warsh held rates at 3.75% to 4.00% and said the Fed rate-setting calendar will drop from eight meetings to seven in 2027.",
+      "url": "https://beincrypto.com/fed-rate-setting-calendar-warsh-2027/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-28T23:20:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Warsh held rates at 3.75% to 4.00% and said the Fed rate-setting calendar will drop from eight meetings to seven in 2027."
+    },
+    {
+      "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
+      "description": "Any button that can be clicked can also be touched.",
+      "url": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-10-28T22:38:41+00:00",
+      "category": "USA",
+      "simple_explanation": "Any button that can be clicked can also be touched."
     },
     {
       "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
@@ -28,19 +348,29 @@
       "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-10-28T22:09:11+00:00",
+      "published_at": "2026-10-28T22:34:56+00:00",
       "category": "USA",
       "simple_explanation": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue."
     },
     {
-      "title": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
-      "description": "After the stock market rose for a third day, Microsoft rose late on strong earnings. But Google, ServiceNow and Fortinet dived.",
-      "url": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html?.tsrc=rss",
+      "title": "Kinross Gold (KGC) Beats Q3 Earnings Estimates",
+      "description": "Kinross Gold (KGC) delivered earnings and revenue surprises of +8.70% and -14.71%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kinross-gold-kgc-beats-q3-223008585.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-10-28T22:09:01+00:00",
-      "category": "USA",
-      "simple_explanation": "After the stock market rose for a third day, Microsoft rose late on strong earnings. But Google, ServiceNow and Fortinet dived."
+      "published_at": "2026-10-28T22:30:08+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Kinross Gold (KGC) delivered earnings and revenue surprises of +8.70% and -14.71%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?"
+    },
+    {
+      "title": "Agnico Eagle Mines (AEM) Q3 Earnings and Revenues Beat Estimates",
+      "description": "Agnico (AEM) delivered earnings and revenue surprises of +5.67% and +0.89%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-q3-223003714.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-28T22:30:03+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Agnico (AEM) delivered earnings and revenue surprises of +5.67% and +0.89%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?"
     },
     {
       "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
@@ -51,66 +381,6 @@
       "published_at": "2026-10-28T22:07:17+00:00",
       "category": "USA",
       "simple_explanation": "Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years."
-    },
-    {
-      "title": "3 Reasons investors love Nubank (NU)",
-      "description": "Over the past six months, Nubank’s shares (currently trading at $12.43) have posted a disappointing 14.2% loss, well below the S&P 500’s 7.5% gain. This might have investors contemplating their next move.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-investors-love-nubank-220634124.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T22:06:34+00:00",
-      "category": "USA",
-      "simple_explanation": "Over the past six months, Nubank’s shares (currently trading at $12.43) have posted a disappointing 14.2% loss, well below the S&P 500’s 7.5% gain. This might have investors contemplating their next m"
-    },
-    {
-      "title": "Bitcoin Shrugs Off a Hawkish Fed as Volatility Bets Barely Budge",
-      "description": "Deribit’s bitcoin implied volatility index ended the afternoon where it started and bitcoin gained 0.33% on Coinbase, even as December hike odds rose after Kevin Warsh’s Fed held rates at 3.75% to 4%.",
-      "url": "https://unchainedcrypto.com/bitcoin-shrugs-off-a-hawkish-fed-as-volatility-bets-barely-budge/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T22:03:47+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Deribit’s bitcoin implied volatility index ended the afternoon where it started and bitcoin gained 0.33% on Coinbase, even as December hike odds rose after Kevin Warsh’s Fed held rates at 3.75% to 4%."
-    },
-    {
-      "title": "Stock Market Today, Oct. 28: Markets Edge Higher as Fed Holds Rates Steady",
-      "description": "Cloud and AI infrastructure demand remains robust despite tech spending concerns, today, Oct. 28, 2026.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/28/stock-market-today-oct-28-markets-edge-higher-as-fed-holds-rates-steady/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T22:03:17+00:00",
-      "category": "USA",
-      "simple_explanation": "Cloud and AI infrastructure demand remains robust despite tech spending concerns, today, Oct. 28, 2026."
-    },
-    {
-      "title": "Bitcoin’s ‘Uptober’ rally just fell apart as demand weakens",
-      "description": "Bitcoin is heading for its weakest October in years as US buyers step back, data shows.",
-      "url": "https://www.thestreet.com/crypto/markets/bitcoins-uptober-rally-just-fell-apart-as-demand-weakens?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T22:02:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin is heading for its weakest October in years as US buyers step back, data shows."
-    },
-    {
-      "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
-      "description": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
-      "url": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-10-28T21:47:47+00:00",
-      "category": "USA",
-      "simple_explanation": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion."
-    },
-    {
-      "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-      "description": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal.",
-      "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T21:46:02+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal."
     },
     {
       "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
@@ -131,276 +401,6 @@
       "published_at": "2026-10-28T21:31:46+00:00",
       "category": "USA",
       "simple_explanation": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting."
-    },
-    {
-      "title": "Crypto Market Today, Oct. 28: Bitcoin and Altcoins Gain as Fed Decision Clears the Way for Big Tech Earnings",
-      "description": "Bitcoin extended its recovery above $81,000 as the Fed held interest rates steady, with investors now turning their attention to major Big Tech earnings that could shape the market's next move.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/28/crypto-market-today-oct-28-bitcoin-and-altcoins-gain-as-fed-decision-clears-the-way-for-big-tech-earnings/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T21:30:01+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin extended its recovery above $81,000 as the Fed held interest rates steady, with investors now turning their attention to major Big Tech earnings that could shape the market's next move."
-    },
-    {
-      "title": "Alamos Gold: Q3 Earnings Snapshot",
-      "description": "TORONTO (AP) — TORONTO (AP) — Alamos Gold Inc. (AGI) on Wednesday reported third-quarter earnings of $165.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alamos-gold-q3-earnings-snapshot-211717225.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T21:17:17+00:00",
-      "category": "Commodities",
-      "simple_explanation": "TORONTO (AP) — TORONTO (AP) — Alamos Gold Inc. (AGI) on Wednesday reported third-quarter earnings of $165."
-    },
-    {
-      "title": "Update: S&P 500, Nasdaq Rise For Third Day Following Fed Pause",
-      "description": "(Updates with market moves at the end of the day, and other changes, if any.) The S&P 500 and the",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-rise-third-210857584.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T21:08:57+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with market moves at the end of the day, and other changes, if any.) The S&P 500 and the"
-    },
-    {
-      "title": "Brazil’s Largest Bank Registered to Trade XRP and 14 Other Cryptos. Which Other Big Banks Already Offer It?",
-      "description": "Brazil's largest private bank just registered to trade XRP and 14 other cryptos under sweeping new central bank rules, but whether this milestone actually means anything for XRP holders is a very different question.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/28/brazils-largest-bank-registered-to-trade-xrp-and-14-other-cryptos-which-other-big-banks-already-offer-it/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T21:07:57+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Brazil's largest private bank just registered to trade XRP and 14 other cryptos under sweeping new central bank rules, but whether this milestone actually means anything for XRP holders is a very diff"
-    },
-    {
-      "title": "Southern Co. (SO) Stock Sinks As Market Gains: What You Should Know",
-      "description": "Southern Co. (SO) concluded the recent trading session at $91.52, signifying a -1.22% move from its prior day's close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/southern-co-stock-sinks-market-210002595.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T21:00:02+00:00",
-      "category": "USA",
-      "simple_explanation": "Southern Co. (SO) concluded the recent trading session at $91.52, signifying a -1.22% move from its prior day's close."
-    },
-    {
-      "title": "Stock Market Today: Dow, Nasdaq Rise After No Fed Rate Hike; Labcorp Blasts Off",
-      "description": "The Dow Jones index trimmed its gain Wednesday after the Fed held its key interest rate steady. Robinhood slid on earnings.",
-      "url": "https://finance.yahoo.com/m/8aa305ef-cc61-37d7-bc76-82a4a4324c5b/stock-market-today%3A-dow%2C.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T20:59:51+00:00",
-      "category": "USA",
-      "simple_explanation": "The Dow Jones index trimmed its gain Wednesday after the Fed held its key interest rate steady. Robinhood slid on earnings."
-    },
-    {
-      "title": "Ecopetrol (EC) Laps the Stock Market: Here's Why",
-      "description": "In the latest trading session, Ecopetrol (EC) closed at $17.68, marking a +2.26% move from the previous day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ecopetrol-ec-laps-stock-market-205002120.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T20:50:02+00:00",
-      "category": "USA",
-      "simple_explanation": "In the latest trading session, Ecopetrol (EC) closed at $17.68, marking a +2.26% move from the previous day."
-    },
-    {
-      "title": "Vistra Corp. (VST) Stock Declines While Market Improves: Some Information for Investors",
-      "description": "Vistra Corp. (VST) concluded the recent trading session at $142.72, signifying a -2.69% move from its prior day's close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-stock-declines-204504598.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T20:45:04+00:00",
-      "category": "USA",
-      "simple_explanation": "Vistra Corp. (VST) concluded the recent trading session at $142.72, signifying a -2.69% move from its prior day's close."
-    },
-    {
-      "title": "US stocks eye big tech earnings as Fed holds rates steady",
-      "description": "Wall Street stocks finished higher Wednesday after a choppy session, digesting a status quo Federal Reserve decision as markets monitored the latest earnings from US tech giants.The AI trade enjoyed a broad lift earlier Wednesday from blockbuster earnings from the South Korean chip giant SK hynix, w",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-soar-sk-hynix-024123086.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T20:39:22+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Wall Street stocks finished higher Wednesday after a choppy session, digesting a status quo Federal Reserve decision as markets monitored the latest earnings from US tech giants.The AI trade enjoyed a"
-    },
-    {
-      "title": "Gold ETF vs. physical gold: Which investment is better for you?",
-      "description": "Compare gold ETFs and physical gold on costs, taxes, risks, liquidity and storage to decide which way to invest in gold fits your goals.",
-      "url": "https://www.usatoday.com/story/money/money-management/investing/2026/10/28/gold-etf-vs-physical-gold/92484213007/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T20:32:08+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Compare gold ETFs and physical gold on costs, taxes, risks, liquidity and storage to decide which way to invest in gold fits your goals."
-    },
-    {
-      "title": "Phillips 66: 3 Key Takeaways for Long-Term Investors",
-      "description": "Midstream fee growth of 5% annually provides a cushion against refining margin volatility, reshaping how investors should value long-term payouts.",
-      "url": "https://www.fool.com/earnings/takeaways/2026/10/28/phillips-66-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T20:27:01+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Midstream fee growth of 5% annually provides a cushion against refining margin volatility, reshaping how investors should value long-term payouts."
-    },
-    {
-      "title": "Kevin O’Leary says he still owns Bitcoin, but two risks have his attention",
-      "description": "The Shark Tank investor says regulatory uncertainty and quantum computing are weighing on Bitcoin, and he is looking at IBM as a way to play the shift.",
-      "url": "https://www.thestreet.com/crypto/markets/kevin-oleary-says-he-still-owns-bitcoin-but-two-risks-have-his-attention?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T20:15:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The Shark Tank investor says regulatory uncertainty and quantum computing are weighing on Bitcoin, and he is looking at IBM as a way to play the shift."
-    },
-    {
-      "title": "TSX Closer: The Index Closes Higher as Technology, Energy Stocks Gain Following Bank of Canada Rate Hike",
-      "description": "The S&P/TSX Composite Index edged higher on Wednesday, supported by gains in technology, energy and",
-      "url": "https://finance.yahoo.com/economy/policy/articles/tsx-closer-index-closes-higher-201457334.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T20:14:57+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The S&P/TSX Composite Index edged higher on Wednesday, supported by gains in technology, energy and"
-    },
-    {
-      "title": "US stocks today: US stocks end higher as Fed holds rates; focus turns to earnings",
-      "description": "US stock markets ended on a high note after the Federal Reserve opted to maintain current interest rates while gauging the economic landscape. A notable resurgence in chipmakers, fueled by strong results from SK Hynix, played a key role in this upward momentum. Analysts are now speculating a signifi",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-fed-holds-rates-earnings-in-focus/articleshow/135279631.cms",
-      "image": "https://img.etimg.com/photo/msid-135279631,imgsize-225704.cms",
-      "source": "Economic Times",
-      "published_at": "2026-10-28T20:14:51+00:00",
-      "category": "India",
-      "simple_explanation": "US stock markets ended on a high note after the Federal Reserve opted to maintain current interest rates while gauging the economic landscape. A notable resurgence in chipmakers, fueled by strong resu"
-    },
-    {
-      "title": "US Equity Markets End Higher After Federal Reserve Votes to Keep Policy Rate Unchanged",
-      "description": "US equity indexes ended higher Wednesday after the Federal Reserve decided to maintain policy rates",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-200727607.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T20:07:27+00:00",
-      "category": "Commodities",
-      "simple_explanation": "US equity indexes ended higher Wednesday after the Federal Reserve decided to maintain policy rates"
-    },
-    {
-      "title": "Canadian Oil Discount Exceeds $30 Amid Gulf Coast Pressures",
-      "description": "Heavy crude oil in Alberta has weakened to the lowest price relative to US futures in more than four years.",
-      "url": "https://www.livemint.com/market/canadian-oil-discount-exceeds-30-amid-gulf-coast-pressures-11793217749090.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-      "source": "LiveMint",
-      "published_at": "2026-10-28T20:02:28+00:00",
-      "category": "India",
-      "simple_explanation": "Heavy crude oil in Alberta has weakened to the lowest price relative to US futures in more than four years."
-    },
-    {
-      "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-      "description": "The DoubleLine founder spoke with CNBC's \"Closing Bell\" on Wednesday after the Fed held interest rates steady.",
-      "url": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-10-28T19:53:50+00:00",
-      "category": "USA",
-      "simple_explanation": "The DoubleLine founder spoke with CNBC's \"Closing Bell\" on Wednesday after the Fed held interest rates steady."
-    },
-    {
-      "title": "Sector Update: Energy Stocks Higher Late Afternoon",
-      "description": "Energy stocks advanced late Wednesday afternoon, with the NYSE Energy Sector Index rising 1% and the",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-afternoon-195335539.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T19:53:35+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Energy stocks advanced late Wednesday afternoon, with the NYSE Energy Sector Index rising 1% and the"
-    },
-    {
-      "title": "Fed's Kevin Warsh says US economy not running too hot from AI boom",
-      "description": "Federal Reserve Chairman Kevin Warsh said on Wednesday that the US economy is not running too hot despite some demand pressures from the boom in AI investment, adding",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-kevin-warsh-says-us-economy-not-running-too-hot-from-ai-boom/articleshow/135279091.cms",
-      "image": "https://img.etimg.com/photo/msid-135279091,imgsize-103.cms",
-      "source": "Economic Times",
-      "published_at": "2026-10-28T19:48:14+00:00",
-      "category": "India",
-      "simple_explanation": "Federal Reserve Chairman Kevin Warsh said on Wednesday that the US economy is not running too hot despite some demand pressures from the boom in AI investment, adding"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-10-28T19:46:45+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "Sector Update: Energy",
-      "description": "Energy stocks were higher late Wednesday afternoon, with the NYSE Energy Sector Index rising 1% and",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-193756902.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T19:37:56+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Energy stocks were higher late Wednesday afternoon, with the NYSE Energy Sector Index rising 1% and"
-    },
-    {
-      "title": "Explained: Why US Fed Reserve decided to not hike rate after FOMC meeting? What Chair Kevin Warsh said in press speech",
-      "description": "The Federal Reserve held interest rates at 3.75%–4% in a 10–2 vote, citing resilient economic activity and persistent inflation. Chair Kevin Warsh said policymakers remain focused on returning inflation to the 2% target and are prepared to act as conditions require.",
-      "url": "https://www.livemint.com/market/stock-market-news/explained-why-us-fed-reserve-decided-to-not-hike-rate-after-fomc-meeting-what-chair-kevin-warsh-said-in-press-speech-11793215854245.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/28/1600x900/logo/Fed_Rate_Decision_Explained_1793216159243_RBBm_1793216166026_zSST_58dba4f2-2b63-485f-a888-726432ed04e4_cnZA.png",
-      "source": "LiveMint",
-      "published_at": "2026-10-28T19:36:42+00:00",
-      "category": "India",
-      "simple_explanation": "The Federal Reserve held interest rates at 3.75%–4% in a 10–2 vote, citing resilient economic activity and persistent inflation. Chair Kevin Warsh said policymakers remain focused on returning inflati"
-    },
-    {
-      "title": "VanEck Wealth Builder ETF (WBMO): Active Multi-Asset Strategy for Growth and Income",
-      "description": "The VanEck Wealth Builder ETF (WBMO), launched on October 26, 2026, is an actively managed ETF-of-ETFs from VanEck that pursues both long-term capital appreciation and current income. Listed on NYSE Arca, the fund carries a net expense ratio of 0.26% after fee waivers.",
-      "url": "http://www.etf.com/sections/etf-launches/vaneck-wealth-builder-etf-wbmo-active-multi-asset-strategy-growth-and-income?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-28T19:32:58+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The VanEck Wealth Builder ETF (WBMO), launched on October 26, 2026, is an actively managed ETF-of-ETFs from VanEck that pursues both long-term capital appreciation and current income. Listed on NYSE A"
-    },
-    {
-      "title": "US Short-End Yields Fall After Warsh Signals Fewer Fed Meetings",
-      "description": "Short-dated US Treasury yields and the dollar fell after Federal Reserve Chairman Kevin Warsh said officials will have fewer interest-rate setting meetings starting next year.",
-      "url": "https://www.livemint.com/market/us-short-end-yields-fall-after-warsh-signals-fewer-fed-meetings-11793215570359.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-      "source": "LiveMint",
-      "published_at": "2026-10-28T19:26:09+00:00",
-      "category": "India",
-      "simple_explanation": "Short-dated US Treasury yields and the dollar fell after Federal Reserve Chairman Kevin Warsh said officials will have fewer interest-rate setting meetings starting next year."
-    },
-    {
-      "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
-      "description": "The former FTX CEO remains incarcerated as Irish actor Anthony Boyle portrays him in a series about the downfall of the crypto exchange and his relationship with Caroline Ellison.",
-      "url": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M61TQHACVDH0XJQJK1P5B22V/crypto-news-neutral-sbf-movie.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-10-28T19:10:40+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The former FTX CEO remains incarcerated as Irish actor Anthony Boyle portrays him in a series about the downfall of the crypto exchange and his relationship with Caroline Ellison."
-    },
-    {
-      "title": "Wendy’s draws buyout bid as beef costs and burger rivalry weigh on business",
-      "description": "Wendy’s shares jump after Nelson Peltz’s Trian Fund Management offers $7.35 per share to take the burger chain private, as the company faces high beef costs, weaker consumer demand, store closures and intensifying competition in the US fast-food market.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wendys-draws-buyout-bid-as-beef-costs-and-burger-rivalry-weigh-on-business/articleshow/135278283.cms",
-      "image": "https://img.etimg.com/photo/msid-135278283,imgsize-166712.cms",
-      "source": "Economic Times",
-      "published_at": "2026-10-28T19:01:05+00:00",
-      "category": "India",
-      "simple_explanation": "Wendy’s shares jump after Nelson Peltz’s Trian Fund Management offers $7.35 per share to take the burger chain private, as the company faces high beef costs, weaker consumer demand, store closures and"
-    },
-    {
-      "title": "Wall Street mostly rises as Fed holds key rate steady, deferring next likely hike to December",
-      "description": "USA-STOCKS/ (UPDATE 6, GRAPHIC):US STOCKS-Wall Street mostly rises as Fed holds key rate steady, deferring next likely hike to December",
-      "url": "https://www.livemint.com/market/wall-street-mostly-rises-as-fed-holds-key-rate-steady-deferring-next-likely-hike-to-december-11793213973901.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-10-28T18:59:33+00:00",
-      "category": "India",
-      "simple_explanation": "USA-STOCKS/ (UPDATE 6, GRAPHIC):US STOCKS-Wall Street mostly rises as Fed holds key rate steady, deferring next likely hike to December"
     }
   ]
 }
