@@ -1,76 +1,356 @@
 {
-  "last_updated": "2026-11-03T15:53:01.022727+00:00",
+  "last_updated": "2026-11-03T21:32:20.231911+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-      "description": "Disney expects to lay off several thousand employees in the latest round of job cuts for the entertainment giant.",
-      "url": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-03T15:51:30+00:00",
-      "category": "USA",
-      "simple_explanation": "Disney expects to lay off several thousand employees in the latest round of job cuts for the entertainment giant."
-    },
-    {
-      "title": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
-      "description": "The rebound in oil prices come a day after the U.S. and Iranian presidents signalled they are open to a diplomatic solution to Iran war.",
-      "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-03T15:46:45+00:00",
-      "category": "USA",
-      "simple_explanation": "The rebound in oil prices come a day after the U.S. and Iranian presidents signalled they are open to a diplomatic solution to Iran war."
-    },
-    {
-      "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
-      "description": "Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections.",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GYWTMJRC5WVDCDG7QCTRRJ/article-covers-180463-us-cpi-lower-expected-rate-cuts-coming-1280x853-960x640.webp",
-      "source": "CoinTelegraph",
-      "published_at": "2026-11-03T15:44:42+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections."
-    },
-    {
-      "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
-      "description": "The BLS reported job openings at 7.52 million, up 333,000 from August and well above the Dow Jones consensus outlook for 7.15 million",
-      "url": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-03T15:37:34+00:00",
-      "category": "USA",
-      "simple_explanation": "The BLS reported job openings at 7.52 million, up 333,000 from August and well above the Dow Jones consensus outlook for 7.15 million"
-    },
-    {
-      "title": "Strategy’s Bitcoin Bet Just Produced a Monster Quarter. Here’s the Bigger Question.",
-      "description": "Strategy Inc. just posted one of the most jaw-dropping earnings beats in recent memory, yet the stock is falling and bitcoin keeps sliding further from its peak. Whether the company's capital-raising machine can survive rising preferred dividends and dilution is the question every investor needs to ",
-      "url": "https://247wallst.com/investing/2026/11/03/strategys-bitcoin-bet-just-produced-a-monster-quarter-heres-the-bigger-question/?.tsrc=rss",
+      "title": "US stocks end mostly up as markets await election results",
+      "description": "Wall Street stocks finished mostly higher as oil prices continued to pull back while markets awaited results from US midterm elections that could reshape President Donald Trump's final two years in office.\"A sharp decline in crude oil prices -- triggered by remarks from US President Donald Trump reg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-ai-concerns-025549205.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-03T15:33:49+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Strategy Inc. just posted one of the most jaw-dropping earnings beats in recent memory, yet the stock is falling and bitcoin keeps sliding further from its peak. Whether the company's capital-raising "
-    },
-    {
-      "title": "Chip stocks are bouncing back from a fresh bear market as Wall Street's safe havens slip",
-      "description": "The chip sell-off is reversing as Apple, staples and utilities slide, with AMD earnings and the midterm elections up next.",
-      "url": "https://finance.yahoo.com/markets/article/chip-stocks-are-bouncing-back-from-a-fresh-bear-market-as-wall-streets-safe-havens-slip-152637092.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T15:26:37+00:00",
-      "category": "USA",
-      "simple_explanation": "The chip sell-off is reversing as Apple, staples and utilities slide, with AMD earnings and the midterm elections up next."
-    },
-    {
-      "title": "Stock Market Today: Dow Dips But Chip Stocks Pop On Election Day; Apple Slides On Earnings (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index drops on Election Day, as Apple stock and Palantir tumble on earnings. But chip stocks outperform.",
-      "url": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow-dips.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T15:20:23+00:00",
+      "published_at": "2026-11-03T21:26:07+00:00",
       "category": "Commodities",
-      "simple_explanation": "Stock Market Today: The Dow Jones index drops on Election Day, as Apple stock and Palantir tumble on earnings. But chip stocks outperform."
+      "simple_explanation": "Wall Street stocks finished mostly higher as oil prices continued to pull back while markets awaited results from US midterm elections that could reshape President Donald Trump's final two years in of"
+    },
+    {
+      "title": "US stocks today: Nasdaq rebounds as chipmakers rally, Apple slides ahead of US midterm results",
+      "description": "US stocks ended mixed as the Nasdaq rebounded on gains in chipmakers and AI linked heavyweights ahead of the midterm election results. Nvidia and Micron advanced, while Apple slipped over concerns about rising memory chip costs and holiday quarter margins. Investors also assessed AI spending concern",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-rebounds-as-chipmakers-rally-apple-slides-ahead-of-us-midterm-results/articleshow/135513181.cms",
+      "image": "https://img.etimg.com/photo/msid-135513181,imgsize-118428.cms",
+      "source": "Economic Times",
+      "published_at": "2026-11-03T21:20:14+00:00",
+      "category": "India",
+      "simple_explanation": "US stocks ended mixed as the Nasdaq rebounded on gains in chipmakers and AI linked heavyweights ahead of the midterm election results. Nvidia and Micron advanced, while Apple slipped over concerns abo"
+    },
+    {
+      "title": "AMD stock jumps 7% on earnings as data center revenue nearly doubles",
+      "description": "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips",
+      "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-11-03T21:20:14+00:00",
+      "category": "USA",
+      "simple_explanation": "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips"
+    },
+    {
+      "title": "US Equity Markets Mixed Ahead of US Midterm Election Results",
+      "description": "US equity indexes were mixed Tuesday ahead of US midterm election results and after underwhelming Ap",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-mixed-ahead-211924945.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T21:19:24+00:00",
+      "category": "Commodities",
+      "simple_explanation": "US equity indexes were mixed Tuesday ahead of US midterm election results and after underwhelming Ap"
+    },
+    {
+      "title": "Stocks Break Losing Streak as Chipmakers Rebound While Traders Brace For The First Midterm Results",
+      "description": "Investors are waiting for the midterm election results and weighing possible effects on AI infrastructure, health care policy and stalled U.S.-Iran negotiations.",
+      "url": "https://www.ibtimes.com/us-stocks-midterm-elections-ai-iran-talks-3809355?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T21:16:04+00:00",
+      "category": "USA",
+      "simple_explanation": "Investors are waiting for the midterm election results and weighing possible effects on AI infrastructure, health care policy and stalled U.S.-Iran negotiations."
+    },
+    {
+      "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
+      "description": "Crude oil futures fell about 1% to around $96 a barrel.",
+      "url": "https://finance.yahoo.com/m/8a60e112-9a70-3e41-b4d1-1e1a5147c1f0/oil-edges-lower-as-u.s.-bombs.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T21:07:20+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Crude oil futures fell about 1% to around $96 a barrel."
+    },
+    {
+      "title": "Sequans Communications SA (SQNS) Q3 2026 Earnings Call Highlights: Revenue Surges 183% Year ...",
+      "description": "Sequans Communications SA (SQNS) posted $9.1 million in Q3 2026 revenue, exited its Bitcoin treasury with a $6.2 million gain, and guided Q4 to $9.5--$11 million while flagging 2027 supply constraints",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sequans-communications-sa-sqns-q3-210515914.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T21:05:15+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Sequans Communications SA (SQNS) posted $9.1 million in Q3 2026 revenue, exited its Bitcoin treasury with a $6.2 million gain, and guided Q4 to $9.5--$11 million while flagging 2027 supply constraints"
+    },
+    {
+      "title": "Public Storage Declares Fourth Quarter 2026 Dividends",
+      "description": "FRISCO, Texas, November 03, 2026--Public Storage (NYSE: PSA) announced today that on November 3, 2026, our Board of Trustees declared a regular quarterly common dividend of $3.00 per common share. The Board also declared dividends with respect to our various series of preferred shares. The common di",
+      "url": "https://finance.yahoo.com/real-estate/articles/public-storage-declares-fourth-quarter-210500439.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T21:05:00+00:00",
+      "category": "USA",
+      "simple_explanation": "FRISCO, Texas, November 03, 2026--Public Storage (NYSE: PSA) announced today that on November 3, 2026, our Board of Trustees declared a regular quarterly common dividend of $3.00 per common share. The"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Fall Late Afternoon",
+      "description": "Energy stocks were lower late Tuesday afternoon, with the NYSE Energy Sector Index shedding 0.5% and",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-210314611.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T21:03:14+00:00",
+      "category": "USA",
+      "simple_explanation": "Energy stocks were lower late Tuesday afternoon, with the NYSE Energy Sector Index shedding 0.5% and"
+    },
+    {
+      "title": "Canadian crude discount with U.S. at widest level since 2018",
+      "description": "Investing.com -- Canadian heavy crude prices fell to their weakest level relative to US oil futures since 2018, when a pipeline bottleneck led Alberta's government to impose production limits on major producers.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/canadian-crude-discount-u-widest-210019110.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T21:00:19+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Investing.com -- Canadian heavy crude prices fell to their weakest level relative to US oil futures since 2018, when a pipeline bottleneck led Alberta's government to impose production limits on major"
+    },
+    {
+      "title": "Did The Market Read Cerebras Stock Right?",
+      "description": "For questions about this article or underlying research, email help@trefis.com.",
+      "url": "https://www.trefis.com/stock/cbrs/articles/622303/did-the-market-read-cerebras-stock-right/2026-11-03?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T20:48:45+00:00",
+      "category": "USA",
+      "simple_explanation": "For questions about this article or underlying research, email help@trefis.com."
+    },
+    {
+      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
+      "description": "Financial stocks were lower in late Tuesday afternoon trading, with the NYSE Financial Index and the",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-204808266.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T20:48:08+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Financial stocks were lower in late Tuesday afternoon trading, with the NYSE Financial Index and the"
+    },
+    {
+      "title": "AMD has been crushed into earnings. Here’s one way to trade it",
+      "description": "AMD has been crushed into earnings. Here’s one way to trade it",
+      "url": "https://www.cnbc.com/2026/11/03/amd-has-been-crushed-into-earnings-heres-one-way-to-trade-it.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-11-03T20:40:51+00:00",
+      "category": "USA",
+      "simple_explanation": "AMD has been crushed into earnings. Here’s one way to trade it"
+    },
+    {
+      "title": "S&P 500 after midterm elections: what history says and where the market stands",
+      "description": "Investing.com -- History gives midterm elections one of the cleanest records in market seasonality.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-midterm-elections-history-204037875.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T20:40:37+00:00",
+      "category": "USA",
+      "simple_explanation": "Investing.com -- History gives midterm elections one of the cleanest records in market seasonality."
+    },
+    {
+      "title": "Trump Says Iran “Wants a Settlement.” CEO Predicts Peace Sends Oil 40% Lower for Exxon, Chevron",
+      "description": "Key TakeawaysBrent crude fell 8% on Nov. 2 after Iran signaled it was open to peace talks and President Trump posted that Iran wants a settlement.",
+      "url": "https://www.tikr.com/blog/trump-says-iran-wants-a-settlement-ceo-predicts-peace-sends-oil-40-lower-for-exxon-chevron?ref=yahoofinance&tlnk=yf-261103-2rr8cfhm&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T20:36:27+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Key TakeawaysBrent crude fell 8% on Nov. 2 after Iran signaled it was open to peace talks and President Trump posted that Iran wants a settlement."
+    },
+    {
+      "title": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
+      "description": "\"There's no doubt that the threats are threats to our democracy,\" said John Cusick, assistant counsel at the Legal Defense Fund.",
+      "url": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-11-03T20:33:31+00:00",
+      "category": "USA",
+      "simple_explanation": "\"There's no doubt that the threats are threats to our democracy,\" said John Cusick, assistant counsel at the Legal Defense Fund."
+    },
+    {
+      "title": "S&P 500 Santa Claus rally: what history says and where the index stands",
+      "description": "Investing.com -- The Santa Claus rally window is still seven weeks away. It covers the final five trading days of December plus the first two of January. Thinking about it now isn’t premature, but there’s little signal in it yet. It’s a short seasonal pattern, not a forecast.",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/p-500-santa-claus-rally-203154609.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T20:31:54+00:00",
+      "category": "USA",
+      "simple_explanation": "Investing.com -- The Santa Claus rally window is still seven weeks away. It covers the final five trading days of December plus the first two of January. Thinking about it now isn’t premature, but the"
+    },
+    {
+      "title": "Jim Cramer sends cryptic four-word message on crypto",
+      "description": "The CNBC host’s latest post has investors guessing.",
+      "url": "https://www.thestreet.com/crypto/markets/jim-cramer-sends-cryptic-four-word-message-on-crypto?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T20:30:02+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The CNBC host’s latest post has investors guessing."
+    },
+    {
+      "title": "Byron Donalds Could Be Next Florida Governor: Here Are the Stocks He's Been Buying in 2026",
+      "description": "Congressman Byron Donalds (R-Fla.) is among the current members of Congress who are not running for re-election in the 2026 midterms. Instead, Donald has his eye set on a new political title: governor of Florida. As a member of Congress,...",
+      "url": "https://www.benzinga.com/news/politics/26/11/62839577/byron-donalds-could-be-next-florida-governor-here-are-the-stocks-hes-been-buying-in-2026?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T20:28:17+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Congressman Byron Donalds (R-Fla.) is among the current members of Congress who are not running for re-election in the 2026 midterms. Instead, Donald has his eye set on a new political title: governor"
+    },
+    {
+      "title": "CFTC clears stock perpetual futures for trading on US exchanges",
+      "description": "US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes.",
+      "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HED4AVHBSQQHY2NWN6WVHE/hi-prediction-market-cftc-rule-2.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-11-03T20:24:55+00:00",
+      "category": "Crypto",
+      "simple_explanation": "US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes."
+    },
+    {
+      "title": "3 Dirt Cheap Dividend Stocks to Buy in November 2026",
+      "description": "These high-yielding stocks pay up to 7.4% in dividends.",
+      "url": "https://www.fool.com/investing/2026/11/03/3-dirt-cheap-dividend-stocks-to-buy-in-november-2026/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T20:23:02+00:00",
+      "category": "USA",
+      "simple_explanation": "These high-yielding stocks pay up to 7.4% in dividends."
+    },
+    {
+      "title": "Binance breach puts custody at center of crypto infrastructure trade",
+      "description": "Lessons from the $6.3 billion Binance hack could help shape the next phase of the crypto infrastructure trade.",
+      "url": "https://www.cnbc.com/2026/11/03/binance-breach-puts-custody-at-center-of-crypto-infrastructure-trade.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-11-03T20:13:37+00:00",
+      "category": "USA",
+      "simple_explanation": "Lessons from the $6.3 billion Binance hack could help shape the next phase of the crypto infrastructure trade."
+    },
+    {
+      "title": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
+      "description": "Apple’s annual filing warns that AI agents could exceed permissions, resist instructions or take actions that are difficult to reverse.",
+      "url": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-11-03T20:10:41+00:00",
+      "category": "USA",
+      "simple_explanation": "Apple’s annual filing warns that AI agents could exceed permissions, resist instructions or take actions that are difficult to reverse."
+    },
+    {
+      "title": "If Bitcoin Falls Below $75,000, Which Drops Harder: Dogecoin, Cardano or Litecoin?",
+      "description": "Bitcoin is hovering just 3.5% above a price level that has historically triggered brutal altcoin selloffs, and not all three popular coins will suffer equally when that floor gives way.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/03/if-bitcoin-falls-below-75000-which-drops-harder-dogecoin-cardano-or-litecoin/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T20:09:48+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin is hovering just 3.5% above a price level that has historically triggered brutal altcoin selloffs, and not all three popular coins will suffer equally when that floor gives way."
+    },
+    {
+      "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
+      "description": "JetBlue raised baggage fees for the third time in a year as fuel costs continued to climb.",
+      "url": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-11-03T20:07:50+00:00",
+      "category": "USA",
+      "simple_explanation": "JetBlue raised baggage fees for the third time in a year as fuel costs continued to climb."
+    },
+    {
+      "title": "59% Upside for Strategy? Maxim Thinks So, and Here’s How",
+      "description": "Key TakeawaysMaxim Group kept its Buy rating and $215 target on Strategy on Nov. 3, 59% above the stock, which is down 49% from its high a year ago.",
+      "url": "https://www.tikr.com/blog/59-upside-for-strategy-maxim-thinks-so-and-heres-how?ref=yahoofinance&tlnk=yf-261103-x89j2224&.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T20:03:34+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Key TakeawaysMaxim Group kept its Buy rating and $215 target on Strategy on Nov. 3, 59% above the stock, which is down 49% from its high a year ago."
+    },
+    {
+      "title": "BC-Gold-Silver",
+      "description": "NEW YORK (AP) — Futures trading on the NY Merc Tuesday:Open High Low Settle Chg.'s open int 387,732 down 335  SILVER  5,000 troy oz.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/bc-gold-silver-200013056.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T20:00:13+00:00",
+      "category": "Commodities",
+      "simple_explanation": "NEW YORK (AP) — Futures trading on the NY Merc Tuesday:Open High Low Settle Chg.'s open int 387,732 down 335  SILVER  5,000 troy oz."
+    },
+    {
+      "title": "US midterms: Prediction markets favor Democrats in key crypto races",
+      "description": "Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil’s runoff.",
+      "url": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H9CTN1B9R5B132TBX8G36Y/crystal-ball-kalshi-logo.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-11-03T19:38:19+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil’s runoff."
+    },
+    {
+      "title": "Analyst sends big warning on gold and bitcoin amid U.S. midterms",
+      "description": "Analyst Mike McGlone warns of a stock market correction after the midterms, which could fuel a slump in Bitcoin and gold.",
+      "url": "https://www.thestreet.com/crypto/markets/analyst-sends-big-warning-on-gold-and-bitcoin-amid-u-s-midterms?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T19:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Analyst Mike McGlone warns of a stock market correction after the midterms, which could fuel a slump in Bitcoin and gold."
+    },
+    {
+      "title": "US Treasury yields climb as strong jobs data, midterm polls weigh; 10-year yield eyes 5% again",
+      "description": "US Treasury yields climbed as stronger than expected September jobs data pointed to a resilient labour market, while investors awaited the midterm election results. Falling oil prices briefly eased pressure on bonds, but the move reversed as economic data reinforced growth expectations and uncertain",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-climb-as-strong-jobs-data-and-midterm-uncertainty-weigh-on-bonds/articleshow/135511549.cms",
+      "image": "https://img.etimg.com/photo/msid-135511549,imgsize-149736.cms",
+      "source": "Economic Times",
+      "published_at": "2026-11-03T19:10:49+00:00",
+      "category": "India",
+      "simple_explanation": "US Treasury yields climbed as stronger than expected September jobs data pointed to a resilient labour market, while investors awaited the midterm election results. Falling oil prices briefly eased pr"
+    },
+    {
+      "title": "Corn futures hit four-month low on big US crop, export worries",
+      "description": "GLOBAL-GRAINS/ (UPDATE 3):GRAINS-Corn futures hit four-month low on big US crop, export worries",
+      "url": "https://www.livemint.com/market/commodities/corn-futures-hit-four-month-low-on-big-us-crop-export-worries-11793732932545.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "source": "LiveMint",
+      "published_at": "2026-11-03T19:08:52+00:00",
+      "category": "India",
+      "simple_explanation": "GLOBAL-GRAINS/ (UPDATE 3):GRAINS-Corn futures hit four-month low on big US crop, export worries"
+    },
+    {
+      "title": "Taco Bell sales fall more than expected on cyclosporiasis outbreak hit",
+      "description": "Yum Brands faced a setback in the third quarter as Taco Bell reported declining sales, primarily due to a cyclosporiasis outbreak that sparked customer concerns. While the outbreak severely impacted customer traffic, there was a notable recovery in sales during September and October. Although same-s",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/taco-bell-sales-fall-more-than-expected-on-cyclosporiasis-outbreak-hit/articleshow/135510804.cms",
+      "image": "https://img.etimg.com/photo/msid-135510804,imgsize-72688.cms",
+      "source": "Economic Times",
+      "published_at": "2026-11-03T19:02:54+00:00",
+      "category": "India",
+      "simple_explanation": "Yum Brands faced a setback in the third quarter as Taco Bell reported declining sales, primarily due to a cyclosporiasis outbreak that sparked customer concerns. While the outbreak severely impacted c"
+    },
+    {
+      "title": "Sugar Slides to Five-Week Low as High Indian Output Jolts Market",
+      "description": "Sugar slid after data showed Indian production is running well ahead of last season, deepening a slump that has futures down more than 13% from last month’s peak.",
+      "url": "https://www.livemint.com/market/sugar-slides-to-five-week-low-as-high-indian-output-jolts-market-11793731217079.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "source": "LiveMint",
+      "published_at": "2026-11-03T18:40:16+00:00",
+      "category": "India",
+      "simple_explanation": "Sugar slid after data showed Indian production is running well ahead of last season, deepening a slump that has futures down more than 13% from last month’s peak."
+    },
+    {
+      "title": "Polymarket unit gets US industry organization's approval to be futures broker",
+      "description": "Polymarket has received approval from the National Futures Association for PM Derivatives LLC to act as a broker. This approval allows the company to expand its operations if it obtains further approval from the Commodity Futures Trading Commission. The firm is actively under investigation by the CF",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/polymarket-unit-gets-us-industry-organizations-approval-to-be-futures-broker/articleshow/135510648.cms",
+      "image": "https://img.etimg.com/photo/msid-135510648,imgsize-117604.cms",
+      "source": "Economic Times",
+      "published_at": "2026-11-03T18:35:03+00:00",
+      "category": "India",
+      "simple_explanation": "Polymarket has received approval from the National Futures Association for PM Derivatives LLC to act as a broker. This approval allows the company to expand its operations if it obtains further approv"
+    },
+    {
+      "title": "Down 38% in 2026, Aditya Birla Real Estate gets Buy rating from Anand Rathi; 30% upside see",
+      "description": "Anand Rathi initiated coverage of Aditya Birla Real Estate with a Buy rating and a  ₹1,345 target, implying 30% upside. It expects pre-sales to recover from FY28, supported by a stronger launch pipeline, though the delayed Niyaara Tower C launch may weigh on FY27.",
+      "url": "https://www.livemint.com/market/stock-market-news/down-38-in-2026-aditya-birla-real-estate-gets-buy-rating-from-anand-rathi-30-upside-see-11793728248414.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/Stocks_to_buy_1793730278156_OHHJ_1793730286578_JHLy_50b7c7de-6053-4cad-8e48-a7bf2b3c4908_49iy.png",
+      "source": "LiveMint",
+      "published_at": "2026-11-03T18:26:21+00:00",
+      "category": "India",
+      "simple_explanation": "Anand Rathi initiated coverage of Aditya Birla Real Estate with a Buy rating and a  ₹1,345 target, implying 30% upside. It expects pre-sales to recover from FY28, supported by a stronger launch pipeli"
     },
     {
       "title": "Stock market after midterm elections: What S&P 500 history shows",
@@ -78,329 +358,49 @@
       "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
       "image": "",
       "source": "CNBC World",
-      "published_at": "2026-11-03T15:19:38+00:00",
+      "published_at": "2026-11-03T18:21:05+00:00",
       "category": "Global",
       "simple_explanation": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress"
     },
     {
-      "title": "LODE GOLD IDENTIFIES EXPLORATION POTENTIAL FOR ADDITIONAL HIGHER-GRADE GOLD WITHIN PREVIOUSLY DRILLED AREAS AT FREMONT GOLD MINE",
-      "description": "Lode Gold Resources Inc. (TSXV: LOD) (OTCQB: LODFF) (FSE: X27) (\"Lode Gold\" or the \"Company\") announced today that it has identified structural patterns controlling gold grade distribution at the Pine Tree–Josephine Mine within its Fremont Gold Mine in Mariposa County, USA. The interpretation is bas",
-      "url": "https://finance.yahoo.com/news/lode-gold-identifies-exploration-potential-151900248.html?.tsrc=rss",
+      "title": "Video - CEO Clips: Erdene Resource Development: Mongolia's Newest Gold Producer Sets Its Sights on Growth",
+      "description": "Vancouver, British Columbia--(Newsfile Corp. - November 3, 2026) - Erdene Resource Development (TSX: ERD) (OTCQX: ERDCF) is building its future as one of Mongolia's newest gold producers, achieving commercial production at the Bayan Khundii Gold Mine earlier this year. The company aims to produce ap",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/video-ceo-clips-erdene-development-181300181.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-03T15:19:00+00:00",
+      "published_at": "2026-11-03T18:13:00+00:00",
       "category": "Commodities",
-      "simple_explanation": "Lode Gold Resources Inc. (TSXV: LOD) (OTCQB: LODFF) (FSE: X27) (\"Lode Gold\" or the \"Company\") announced today that it has identified structural patterns controlling gold grade distribution at the Pine"
+      "simple_explanation": "Vancouver, British Columbia--(Newsfile Corp. - November 3, 2026) - Erdene Resource Development (TSX: ERD) (OTCQX: ERDCF) is building its future as one of Mongolia's newest gold producers, achieving co"
     },
     {
-      "title": "Bitcoin ETFs Lose $1 Billion as Midterms, Binance Hack Weigh on Sentiment",
-      "description": "Investors pulled over $1 billion from US-listed Bitcoin funds over two trading sessions, as the record Binance hack and uncertainty around the US midterm elections remain an overhang on sentiment.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-lose-1-billion-151858654.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T15:18:58+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Investors pulled over $1 billion from US-listed Bitcoin funds over two trading sessions, as the record Binance hack and uncertainty around the US midterm elections remain an overhang on sentiment."
-    },
-    {
-      "title": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
-      "description": "\"'We're back to the casino type markets when there was 95% leverage,\" said the founder of Pershing Square Capital Management.",
-      "url": "https://www.cnbc.com/2026/11/03/bill-ackman-casino-stock-market.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-03T15:16:08+00:00",
-      "category": "USA",
-      "simple_explanation": "\"'We're back to the casino type markets when there was 95% leverage,\" said the founder of Pershing Square Capital Management."
-    },
-    {
-      "title": "MCX Q2 Results: Profit rockets 130% YoY to Rs 455 crore, revenue jumps 114%",
-      "description": "Multi Commodity Exchange of India reported a 130% year-on-year jump in Q2FY26 consolidated net profit to Rs 454.57 crore, while revenue surged 114%. EBITDA rose 151%, margins expanded and shares touched a fresh 52-week high.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/mcx-q2-results-profit-rockets-130-yoy-to-rs-455-crore-revenue-jumps-114/articleshow/135504568.cms",
-      "image": "https://img.etimg.com/photo/msid-135504568,imgsize-107750.cms",
+      "title": "US midterms put Trump-era crypto boom and prediction markets at risk",
+      "description": "The US midterm elections could threaten the crypto friendly regulatory environment created under President Donald Trump. A potential Democratic takeover of Congress may bring tighter oversight of digital assets and prediction markets, putting companies such as Coinbase, Strategy and Bullish under pr",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-midterms-put-trump-era-crypto-boom-and-prediction-markets-at-risk/articleshow/135509801.cms",
+      "image": "https://img.etimg.com/photo/msid-135509801,imgsize-149424.cms",
       "source": "Economic Times",
-      "published_at": "2026-11-03T15:14:21+00:00",
+      "published_at": "2026-11-03T18:09:41+00:00",
       "category": "India",
-      "simple_explanation": "Multi Commodity Exchange of India reported a 130% year-on-year jump in Q2FY26 consolidated net profit to Rs 454.57 crore, while revenue surged 114%. EBITDA rose 151%, margins expanded and shares touch"
+      "simple_explanation": "The US midterm elections could threaten the crypto friendly regulatory environment created under President Donald Trump. A potential Democratic takeover of Congress may bring tighter oversight of digi"
     },
     {
-      "title": "US Midterm Election Results 2026 date today! What Trump's loss mean for gold, Sensex, Nifty, global markets, US bonds?",
-      "description": "US Midterm Election Results 2026 date: Experts belive a setback to Trump's Republic Party may trigger shift of smart money from US bonds, US dollar to equities, gold and other metals",
-      "url": "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-2026-date-today-what-trumps-loss-mean-for-gold-sensex-nifty-global-markets-us-bonds-11793715305962.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/US_Midterm_Election_Results_2026_Date_Gold_rate_1793715543693_hJNj_1793715543824_sGLq_0465599b-69ee-40c7-b636-ddf0a27b6640_ZgTU.png",
-      "source": "LiveMint",
-      "published_at": "2026-11-03T15:13:25+00:00",
-      "category": "India",
-      "simple_explanation": "US Midterm Election Results 2026 date: Experts belive a setback to Trump's Republic Party may trigger shift of smart money from US bonds, US dollar to equities, gold and other metals"
-    },
-    {
-      "title": "Motilal Oswal Financial Services announces leadership rejig; appoints new heads across businesses",
-      "description": "Motilal Oswal Financial Services announced major leadership changes across alternatives, retail broking and private wealth businesses. The reshuffle coincides with strong Q2 performance, with operating PAT rising 29% year-on-year to Rs 718 crore.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-financial-services-announces-leadership-rejig-appoints-new-heads-across-businesses/articleshow/135504517.cms",
-      "image": "https://img.etimg.com/photo/msid-135504517,imgsize-59262.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-03T15:12:23+00:00",
-      "category": "India",
-      "simple_explanation": "Motilal Oswal Financial Services announced major leadership changes across alternatives, retail broking and private wealth businesses. The reshuffle coincides with strong Q2 performance, with operatin"
-    },
-    {
-      "title": "Cipher Digital Soars 9%, IREN Up 8% as AI Data Center Stocks Rebound After Selloff",
-      "description": "Key TakeawaysCipher Digital shares jumped 9% today as AI data-center stocks, including IREN, Nebius, Riot Platforms and CleanSpark, rebounded from Monday’s selloff. The bounce looks like relief: Cipher had no news, and three firms cut their targets.",
-      "url": "https://www.tikr.com/blog/cipher-digital-soars-9-iren-up-8-as-ai-data-center-stocks-rebound-after-selloff?ref=yahoofinance&tlnk=yf-261103-2g4hjprv&.tsrc=rss",
+      "title": "Kinross Gold (TSX:K) Reported US$4,249 Realized Gold Prices In Q3 2026",
+      "description": "Kinross Gold (TSX:K) reported substantially higher realized gold prices year over year in its latest update. The miner poured first gold from the new Redbird 1 project at its Bald Mountain operation, confirming initial production on site. Management highlighted that improved realized pricing directl",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/kinross-gold-tsx-k-reported-180808907.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-03T15:01:49+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Key TakeawaysCipher Digital shares jumped 9% today as AI data-center stocks, including IREN, Nebius, Riot Platforms and CleanSpark, rebounded from Monday’s selloff. The bounce looks like relief: Ciphe"
-    },
-    {
-      "title": "Apple stock falls, chip stocks rebound as oil extends decline: AlphaCheck",
-      "description": "Stocks rebounded on Tuesday following a brutal sell-off in tech.",
-      "url": "https://finance.yahoo.com/markets/article/apple-stock-falls-chip-stocks-rebound-as-oil-extends-decline-alphacheck-150120677.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T15:01:20+00:00",
+      "published_at": "2026-11-03T18:08:08+00:00",
       "category": "Commodities",
-      "simple_explanation": "Stocks rebounded on Tuesday following a brutal sell-off in tech."
+      "simple_explanation": "Kinross Gold (TSX:K) reported substantially higher realized gold prices year over year in its latest update. The miner poured first gold from the new Redbird 1 project at its Bald Mountain operation, "
     },
     {
-      "title": "BC-Gold Futures",
-      "description": "NEW YORK (AP) — Prices as of 10:00:00 AM Tuesday, November 03.Contract Open High Low Last Change Today's Volume Monday's Volume  Nov 26 3920.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/bc-gold-futures-150040657.html?.tsrc=rss",
+      "title": "Update: US Equity Indexes Mixed as Apple's Results Underwhelm on Election Day",
+      "description": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-apple-175030319.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-03T15:00:40+00:00",
-      "category": "Commodities",
-      "simple_explanation": "NEW YORK (AP) — Prices as of 10:00:00 AM Tuesday, November 03.Contract Open High Low Last Change Today's Volume Monday's Volume  Nov 26 3920."
-    },
-    {
-      "title": "BC-Crude Oil Futures",
-      "description": "NEW YORK (AP) — Prices as of 10:00:00 AM Tuesday, November 03.Light Sweet Crude (NYMX)1,000 bbl.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/bc-crude-oil-futures-150023389.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T15:00:23+00:00",
-      "category": "Commodities",
-      "simple_explanation": "NEW YORK (AP) — Prices as of 10:00:00 AM Tuesday, November 03.Light Sweet Crude (NYMX)1,000 bbl."
-    },
-    {
-      "title": "Pfizer Beats And Raises — But 'The Real Test' Is Still Ahead",
-      "description": "Pfizer beat third-quarter expectations and hiked its guidance Tuesday, but a portfolio manager says \"the real test (is) still ahead.\"",
-      "url": "https://finance.yahoo.com/m/2669a520-a3a9-3b80-a556-c4ccdcb8d802/pfizer-beats-and-raises-%E2%80%94-but.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T14:59:36+00:00",
+      "published_at": "2026-11-03T17:50:30+00:00",
       "category": "USA",
-      "simple_explanation": "Pfizer beat third-quarter expectations and hiked its guidance Tuesday, but a portfolio manager says \"the real test (is) still ahead.\""
-    },
-    {
-      "title": "Apple shares fall 4% despite revenue beat in first earnings under CEO John Ternus; what's next for the iPhone maker?",
-      "description": "Apple shares fell 4% after quarterly revenue rose 12% to $114.5 billion and earnings beat estimates. Strong iPhone, Mac and services results were offset by a weaker gross-margin outlook and expected slowdown in services growth.",
-      "url": "https://www.livemint.com/market/stock-market-news/apple-shares-fall-4-despite-revenue-beat-in-first-earnings-under-ceo-john-ternus-whats-next-for-the-iphone-maker-11793716805295.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/APPLE-IPHONE-BRITAIN-7_1793171714427_7t4X_17931717_1793716898259_vrUM_1793716898390_I0Ig_32dcb49d-e0a6-451f-8698-824529f6e767_xm5n.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-11-03T14:59:24+00:00",
-      "category": "India",
-      "simple_explanation": "Apple shares fell 4% after quarterly revenue rose 12% to $114.5 billion and earnings beat estimates. Strong iPhone, Mac and services results were offset by a weaker gross-margin outlook and expected s"
-    },
-    {
-      "title": "Stocks are at their highest in two months; why are analysts flagging caution?",
-      "description": "The last time Nifty's put-call ratio reached a peak, the index lost 16% over several months. However, US mid-term election results and the trajectory of oil prices could also play a part in setting the mood for the market.",
-      "url": "https://www.livemint.com/market/stock-market-news/stocks-are-at-their-highest-in-two-months-analysts-flagging-caution-nifty-sensex-markets-11793706245094.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/ZETWERK-LISTING--0_1793716682661_vgFz_1793716693854_02uh_b188a926-ee47-4671-8a1d-fb868076e6c1_SEjC.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-11-03T14:52:00+00:00",
-      "category": "India",
-      "simple_explanation": "The last time Nifty's put-call ratio reached a peak, the index lost 16% over several months. However, US mid-term election results and the trajectory of oil prices could also play a part in setting th"
-    },
-    {
-      "title": "US Midterm Elections: Dow Falls Nearly 200 Points, S&P 500 And Nasdaq Edge Higher As Polls Begin",
-      "description": "Wall Street braces for election-driven uncertainty as strategists assess whether the outcome could trigger a relief rally or fresh selling.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/us-midterm-elections-dow-falls-nearly-200-points-s-and-p-500-and-nasdaq-edge-higher-as-polls-begin/cNGX48VR95x?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T14:52:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Wall Street braces for election-driven uncertainty as strategists assess whether the outcome could trigger a relief rally or fresh selling."
-    },
-    {
-      "title": "What Would Marvell's CEO Say Now?",
-      "description": "For questions about this article or underlying research, email help@trefis.com.",
-      "url": "https://www.trefis.com/stock/mrvl/articles/622165/what-would-marvells-ceo-say-now/2026-11-03?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T14:42:16+00:00",
-      "category": "USA",
-      "simple_explanation": "For questions about this article or underlying research, email help@trefis.com."
-    },
-    {
-      "title": "Brazil’s Largest Crypto Exchange Hit By $46 Million Theft",
-      "description": "Mercado Bitcoin, Brazil's largest cryptocurrency exchange, says it has been hit by a security incident that cos...",
-      "url": "https://www.cryptoprowl.com/releases/brazils-largest-crypto-exchange-hit-by-46-million-theft-7626?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T14:40:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Mercado Bitcoin, Brazil's largest cryptocurrency exchange, says it has been hit by a security incident that cos..."
-    },
-    {
-      "title": "US stocks today: S&P 500, Nasdaq open higher as oil prices extend declines, midterms on tap",
-      "description": "The S&P 500 and the Nasdaq opened higher on Tuesday as crude oil prices fell further heading into the US midterm elections, while Apple joined the list of Big Tech companies whose",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-oil-prices-extend-declines-midterms-on-tap/articleshow/135503356.cms",
-      "image": "https://img.etimg.com/photo/msid-135503356,imgsize-128722.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-03T14:38:54+00:00",
-      "category": "India",
-      "simple_explanation": "The S&P 500 and the Nasdaq opened higher on Tuesday as crude oil prices fell further heading into the US midterm elections, while Apple joined the list of Big Tech companies whose"
-    },
-    {
-      "title": "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test",
-      "description": "In John Ternus' first earnings report as CEO, Apple issued a gross margin forecast that disappointed Wall Street.",
-      "url": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-03T14:38:03+00:00",
-      "category": "USA",
-      "simple_explanation": "In John Ternus' first earnings report as CEO, Apple issued a gross margin forecast that disappointed Wall Street."
-    },
-    {
-      "title": "ExxonMobil Stock Trades at a Premium: Is It Still Worth Buying?",
-      "description": "XOM trades at a premium valuation, but strong oil prices, Permian drilling advancements and refinery upgrades support its investment appeal.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-stock-trades-premium-still-143800073.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T14:38:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "XOM trades at a premium valuation, but strong oil prices, Permian drilling advancements and refinery upgrades support its investment appeal."
-    },
-    {
-      "title": "Q3 Earnings & JOLTS Report on Midterm Voting Day",
-      "description": "Early voting has seen some 60+ million Americans take to the ballot this year -- far ahead of normal levels of midterm voting.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-jolts-report-midterm-143700208.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T14:37:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Early voting has seen some 60+ million Americans take to the ballot this year -- far ahead of normal levels of midterm voting."
-    },
-    {
-      "title": "Stocks Kick Off Election Day Slightly Higher. Wall Street Is On High Alert.",
-      "description": "The three major indexes were mixed, with investors assessing their positions ahead of the midterm election results.",
-      "url": "https://finance.yahoo.com/m/2ce0f230-79d2-37b2-b39a-4514f9334bde/stocks-kick-off-election-day.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T14:33:38+00:00",
-      "category": "USA",
-      "simple_explanation": "The three major indexes were mixed, with investors assessing their positions ahead of the midterm election results."
-    },
-    {
-      "title": "Veeva Systems (VEEV): Turning Industry Expertise into Growth",
-      "description": "Riverbridge Partners, an investment management company, released its Q3 2026 investor letter for “Riverbridge All Cap Growth Strategy.” The letter can be downloaded here. The Russell 3000 Growth Index was nearly flat in Q3 2026, masking a shift away from AI infrastructure and consumer stocks amid co",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/veeva-systems-veev-turning-industry-142825862.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T14:28:25+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Riverbridge Partners, an investment management company, released its Q3 2026 investor letter for “Riverbridge All Cap Growth Strategy.” The letter can be downloaded here. The Russell 3000 Growth Index"
-    },
-    {
-      "title": "Intuitive Surgical (ISRG) Drives Better Outcomes and Lower Care Costs",
-      "description": "Riverbridge Partners, an investment management company, released its Q3 2026 investor letter for “Riverbridge All Cap Growth Strategy.” The letter can be downloaded here. The Russell 3000 Growth Index was nearly flat in Q3 2026, masking a shift away from AI infrastructure and consumer stocks amid co",
-      "url": "https://finance.yahoo.com/healthcare/articles/intuitive-surgical-isrg-drives-better-142635109.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T14:26:35+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Riverbridge Partners, an investment management company, released its Q3 2026 investor letter for “Riverbridge All Cap Growth Strategy.” The letter can be downloaded here. The Russell 3000 Growth Index"
-    },
-    {
-      "title": "Tether Owns $11.5 Billion Worth Of Bitcoin",
-      "description": "Leading stablecoin provider Tether (CRYPTO: $USDT) has reported owning 150,000 Bitcoin (CRYPTO: $BTC) worth $1...",
-      "url": "https://www.cryptoprowl.com/releases/tether-owns-115-billion-worth-of-bitcoin-7625?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T14:19:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Leading stablecoin provider Tether (CRYPTO: $USDT) has reported owning 150,000 Bitcoin (CRYPTO: $BTC) worth $1..."
-    },
-    {
-      "title": "My Husband Secretly Put Our $40K House Down Payment In Bitcoin And Turned It Into $95K. Now He Says I Should Thank Him Instead Of Being Mad",
-      "description": "A decision can make money and still be a bad decision for a relationship. When one partner takes a financial risk that affects both people, a profitable outcome doesn’t necessarily settle the argument. Picture Sarah and Mike, a married couple...",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/husband-secretly-put-40k-house-141506912.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T14:15:06+00:00",
-      "category": "Crypto",
-      "simple_explanation": "A decision can make money and still be a bad decision for a relationship. When one partner takes a financial risk that affects both people, a profitable outcome doesn’t necessarily settle the argument"
-    },
-    {
-      "title": "DuPont raises annual profit forecasts on strong healthcare, aerospace demand",
-      "description": "DuPont has raised its full-year profit forecasts and projected fourth-quarter earnings exceed analyst estimates. The company experienced strong demand in healthcare, aerospace, and industrial water markets during the third quarter. DuPont's healthcare and water technologies segment reported nearly 4",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dupont-raises-annual-profit-forecasts-on-strong-healthcare-aerospace-demand/articleshow/135502681.cms",
-      "image": "https://img.etimg.com/photo/msid-135502681,imgsize-32020.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-03T14:14:08+00:00",
-      "category": "India",
-      "simple_explanation": "DuPont has raised its full-year profit forecasts and projected fourth-quarter earnings exceed analyst estimates. The company experienced strong demand in healthcare, aerospace, and industrial water ma"
-    },
-    {
-      "title": "Ferrari nudges up full-year forecasts after beating consensus in Q3",
-      "description": "Ferrari has revised its earnings outlook for 2026 due to impressive third-quarter performance that exceeded expectations. The company noted a 12% increase in adjusted EBITDA, greatly surpassing analyst forecasts. This growth stems from sales of high-margin vehicles and personalized customer requests",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ferrari-nudges-up-full-year-forecasts-after-beating-consensus-in-q3/articleshow/135502546.cms",
-      "image": "https://img.etimg.com/photo/msid-135502546,imgsize-146188.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-03T14:08:36+00:00",
-      "category": "India",
-      "simple_explanation": "Ferrari has revised its earnings outlook for 2026 due to impressive third-quarter performance that exceeded expectations. The company noted a 12% increase in adjusted EBITDA, greatly surpassing analys"
-    },
-    {
-      "title": "Prediction markets face US midterms test as election bets soar",
-      "description": "In the race towards the US midterm elections, over $1.48 billion has been wagered through prediction markets such as Kalshi and Polymarket, highlighting their role in shaping political discourse. Experts raise alarms about the potential fallout if market outcomes deviate from real election results, ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/prediction-markets-face-us-midterms-test-as-election-bets-soar/articleshow/135502488.cms",
-      "image": "https://img.etimg.com/photo/msid-135502488,imgsize-157616.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-03T14:03:21+00:00",
-      "category": "India",
-      "simple_explanation": "In the race towards the US midterm elections, over $1.48 billion has been wagered through prediction markets such as Kalshi and Polymarket, highlighting their role in shaping political discourse. Expe"
-    },
-    {
-      "title": "What’s at stake for crypto as the US votes in the 2026 midterms?",
-      "description": "Crypto groups spent about $176 million ahead of the US midterms, with control of Congress and the future of crypto legislation at stake.",
-      "url": "https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GJSJ59W2DHF2WQ7ED3NHF6/news-city-town-billboard-1-elections.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-11-03T13:53:07+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Crypto groups spent about $176 million ahead of the US midterms, with control of Congress and the future of crypto legislation at stake."
-    },
-    {
-      "title": "Bata India Q2 Results: Profit rises 30% at Rs 18 crore, revenue rises to Rs 862 crore",
-      "description": "Bata India Ltd achieved a 30.4% increase in net profit for the September quarter of FY27. Revenue from operations also rose by 7.54% to Rs 861.78 crore compared to the previous year. The company noted significant growth in profit after tax, driven by higher average selling prices. Bata India aims to",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bata-india-q2-results-profit-rises-30-at-rs-18-crore-revenue-rises-to-rs-862-crore/articleshow/135502156.cms",
-      "image": "https://img.etimg.com/photo/msid-135502156,imgsize-118088.cms",
-      "source": "ET Markets",
-      "published_at": "2026-11-03T13:51:08+00:00",
-      "category": "India",
-      "simple_explanation": "Bata India Ltd achieved a 30.4% increase in net profit for the September quarter of FY27. Revenue from operations also rose by 7.54% to Rs 861.78 crore compared to the previous year. The company noted"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-11-03T13:50:51+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "i-80 Gold Reports Wider Q3 Loss as Revenue Misses Forecasts Despite Higher Gold Prices",
-      "description": "i-80 Gold Corp. (AMEX:IAUX) reported third-quarter 2026 financial results below analyst expectations on Tuesday, as higher development and exploration expenses contributed to a wider net loss.",
-      "url": "https://investorshub.advfn.com/market-news/article/39158/i-80-gold-reports-wider-q3-loss-as-revenue-misses-forecasts-despite-higher-gold-prices?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-03T13:46:56+00:00",
-      "category": "Commodities",
-      "simple_explanation": "i-80 Gold Corp. (AMEX:IAUX) reported third-quarter 2026 financial results below analyst expectations on Tuesday, as higher development and exploration expenses contributed to a wider net loss."
+      "simple_explanation": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit"
     }
   ]
 }
