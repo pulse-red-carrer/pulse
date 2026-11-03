@@ -1,156 +1,186 @@
 {
-  "last_updated": "2026-11-02T17:53:39.192418+00:00",
+  "last_updated": "2026-11-03T00:37:30.950534+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
-      "description": "Anthropic unveiled its S-1 prospectus last week, but the initial filing only included the company's financials through the first half of the year.",
-      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-02T17:52:01+00:00",
-      "category": "USA",
-      "simple_explanation": "Anthropic unveiled its S-1 prospectus last week, but the initial filing only included the company's financials through the first half of the year."
+      "title": "Raja Venkatraman recommends three stocks for 3 November",
+      "description": "Market expert Raja Venkatraman shares his top stock picks for today, 3 November. Here’s his technical outlook and trade strategy.",
+      "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-3-november-11793636740461.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/logo/RAJA_IMG1_1733139557630_1773677587730_177845889149_1793579863426_Z5NW_1793579863624_kzgg_e513862f-2e0f-4de9-8f2b-4f440677488b_3jXg.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-11-03T00:30:46+00:00",
+      "category": "India",
+      "simple_explanation": "Market expert Raja Venkatraman shares his top stock picks for today, 3 November. Here’s his technical outlook and trade strategy."
     },
     {
-      "title": "ServiceNow Has Become The Canary In The Coal Mine For Agentic-AI Driven Software Implosion",
-      "description": "ServiceNow just shed a third of its value in a single week, and the reason has nothing to do with a bad quarter. It signals something far more threatening to every software company charging by the seat.",
-      "url": "https://247wallst.com/investing/2026/11/02/servicenow-has-become-the-canary-in-the-coal-mine-for-agentic-ai-driven-software-implosion/?.tsrc=rss",
+      "title": "Stocks in news: ITC, Marico, SBI, Yatra Online, NSE, Container Corp and Sun Pharma",
+      "description": "Indian equity benchmarks experienced gains, with Nifty nearing the 23,500 resistance level and strong corporate earnings reported. ITC faced a decline in consolidated net profit, impacted by the cigarette business, despite revenue growth. Marico saw a significant rise in net profit and expanding EBI",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-itc-marico-sbi-yatra-online-nse-container-corp-and-sun-pharma/articleshow/135474354.cms",
+      "image": "https://img.etimg.com/photo/msid-135474354,imgsize-138806.cms",
+      "source": "ET Markets",
+      "published_at": "2026-11-03T00:30:00+00:00",
+      "category": "India",
+      "simple_explanation": "Indian equity benchmarks experienced gains, with Nifty nearing the 23,500 resistance level and strong corporate earnings reported. ITC faced a decline in consolidated net profit, impacted by the cigar"
+    },
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "description": "Indian equity markets enjoyed a rally, spurred by robust buying in major stocks such as Reliance Industries. Analysts pegged immediate support for Nifty at 23,200, with resistance encountered at 23,500 and 23,700. Foreign portfolio investors were active buyers, netting Rs 3,115 crore, while domestic",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135468397.cms",
+      "image": "https://img.etimg.com/photo/msid-135468397,imgsize-347010.cms",
+      "source": "ET Markets",
+      "published_at": "2026-11-03T00:30:00+00:00",
+      "category": "India",
+      "simple_explanation": "Indian equity markets enjoyed a rally, spurred by robust buying in major stocks such as Reliance Industries. Analysts pegged immediate support for Nifty at 23,200, with resistance encountered at 23,50"
+    },
+    {
+      "title": "Reliance surges 11.6% as strong Q2 earnings add Rs 1.83 lakh crore in market value",
+      "description": "Reliance Industries has seen an impressive 11.6% surge in stock price, following quarterly earnings that exceeded expectations. This remarkable rise represents the company's most significant increase in over six years. Analysts are optimistic about future growth, crediting this success to strong per",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-surges-11-6-as-strong-q2-earnings-add-rs-1-83-lakh-crore-in-market-value/articleshow/135477257.cms",
+      "image": "https://img.etimg.com/photo/msid-135477257,imgsize-47556.cms",
+      "source": "ET Markets",
+      "published_at": "2026-11-03T00:28:18+00:00",
+      "category": "India",
+      "simple_explanation": "Reliance Industries has seen an impressive 11.6% surge in stock price, following quarterly earnings that exceeded expectations. This remarkable rise represents the company's most significant increase "
+    },
+    {
+      "title": "FPI holding hits multi-year lows in 70% of top 100 Indian companies",
+      "description": "Foreign investors have significantly reduced their holdings in nearly 70% of India's leading companies in recent years. Major firms, including banks and IT sectors, are seeing foreign ownership decline to multi-decade lows. This decrease in foreign investments mirrors diminished expectations for gro",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpi-holding-hits-multi-year-lows-in-70-of-top-100-indian-companies/articleshow/135477354.cms",
+      "image": "https://img.etimg.com/photo/msid-135477354,imgsize-30234.cms",
+      "source": "ET Markets",
+      "published_at": "2026-11-03T00:27:23+00:00",
+      "category": "India",
+      "simple_explanation": "Foreign investors have significantly reduced their holdings in nearly 70% of India's leading companies in recent years. Major firms, including banks and IT sectors, are seeing foreign ownership declin"
+    },
+    {
+      "title": "S&P 500, Nasdaq Drop As Capex Concerns Grip Tech Investors, Outweighing US-Iran Diplomacy Hope —  ORCL, META, PLTR, AAPL In Focus",
+      "description": "The U.S. midterm elections will be held on Tuesday.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-drop-as-capex-concerns-grip-tech-investors-outweighing-us-iran-diplomacy-hope/cNGQZKqR9PD?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-02T17:45:43+00:00",
+      "published_at": "2026-11-03T00:22:35+00:00",
       "category": "USA",
-      "simple_explanation": "ServiceNow just shed a third of its value in a single week, and the reason has nothing to do with a bad quarter. It signals something far more threatening to every software company charging by the sea"
+      "simple_explanation": "The U.S. midterm elections will be held on Tuesday."
     },
     {
-      "title": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
-      "description": "Judge Zia Faruqui suggested the prosecution of ex-officials Nikki Floris and Bradley Benavides was rushed to come out ahead of the midterm election.",
-      "url": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
+      "title": "Should Strong Earnings And Dividend Approval Require Action From Buenaventura Stock Investors?",
+      "description": "Compañía de Minas BuenaventuraA reported third quarter 2026 revenue of US$545.33 million and net income of US$245.09 million, alongside a board approved dividend of US$0.5508 per share or ADS. The combination of higher year on year earnings and a specific cash dividend per share reflects management’",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-earnings-dividend-approval-require-001621478.html?.tsrc=rss",
       "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-02T17:35:57+00:00",
-      "category": "USA",
-      "simple_explanation": "Judge Zia Faruqui suggested the prosecution of ex-officials Nikki Floris and Bradley Benavides was rushed to come out ahead of the midterm election."
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-03T00:16:21+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Compañía de Minas BuenaventuraA reported third quarter 2026 revenue of US$545.33 million and net income of US$245.09 million, alongside a board approved dividend of US$0.5508 per share or ADS. The com"
     },
     {
-      "title": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
-      "description": "The AI infrastructure deal is expected to close during the first half of 2028.",
-      "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-02T17:33:26+00:00",
-      "category": "USA",
-      "simple_explanation": "The AI infrastructure deal is expected to close during the first half of 2028."
+      "title": "FPIs are buying again. Why is their share of Indian stocks still falling?",
+      "description": "The decline in foreign ownership was more pronounced among largecaps. Mint analysis of 100 largecap companies showed that FPIs reduced their stakes in 57% of them sequentially in the September quarter, while increasing their holdings in 42%.",
+      "url": "https://www.livemint.com/market/stock-market-news/fii-fpi-outflows-from-india-large-cap-stocks-11793611054021.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/logo/3-0-86449917-iStock-1167137273-0_1679793048835_1793624082428_D0Gs_7c05e415-f299-46fe-a5ff-25d74027efb3_N5Cr.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-11-03T00:01:00+00:00",
+      "category": "India",
+      "simple_explanation": "The decline in foreign ownership was more pronounced among largecaps. Mint analysis of 100 largecap companies showed that FPIs reduced their stakes in 57% of them sequentially in the September quarter"
     },
     {
-      "title": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
-      "description": "The Department of Justice's request to the Supreme Court in the California case comes as it  appeals dismissal of a lawsuit over Alaska's Senate election.",
+      "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+      "description": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election.",
       "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-11-02T17:26:55+00:00",
+      "published_at": "2026-11-02T23:48:28+00:00",
       "category": "USA",
-      "simple_explanation": "The Department of Justice's request to the Supreme Court in the California case comes as it  appeals dismissal of a lawsuit over Alaska's Senate election."
+      "simple_explanation": "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election."
     },
     {
-      "title": "U.S. Stocks Rebound After Friday’s Selloff as Oil Slides",
-      "description": "U.S. stocks are recovering after Friday’s selloff, helped by a slide in oil prices.",
-      "url": "https://www.wsj.com/finance/stocks/stock-futures-higher-oil-lower-as-investors-return-to-risk-17e79294?.tsrc=rss",
+      "title": "Dow Jones Futures: AI Trade Dives As Marvell, Lumentum Plunge; Apple Tumbles On Earnings With Midterm Elections Next",
+      "description": "Dow Jones Futures: The AI trade dived Monday, while Apple stock dropped on earnings late. The midterm elections are Tuesday.",
+      "url": "https://finance.yahoo.com/m/4fe38c4f-79dc-38c4-99cf-7844e9e446ee/dow-jones-futures%3A-ai-trade.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-02T17:21:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "U.S. stocks are recovering after Friday’s selloff, helped by a slide in oil prices."
+      "published_at": "2026-11-02T23:40:43+00:00",
+      "category": "USA",
+      "simple_explanation": "Dow Jones Futures: The AI trade dived Monday, while Apple stock dropped on earnings late. The midterm elections are Tuesday."
     },
     {
-      "title": "Upcoming IPO: Coal India unit South Eastern Coalfields files papers – How much funds to be raised and other key facts",
-      "description": "The proposed listing will provide investors an opportunity to participate in one of India's largest coal-producing companies through the stock market",
-      "url": "https://www.livemint.com/market/ipo/upcoming-ipo-coal-india-unit-south-eastern-coalfields-files-papers-how-much-funds-to-be-raised-and-other-key-facts-11793636533876.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/logo/ipos_1793637189382_RnJX_1793637211543_xdfs_0419c8a1-c31b-41e0-85cc-dbed3713356f_kUWa.jpg",
+      "title": "Frantic Binance Hackers Created Windfall for Crypto Traders",
+      "description": "For most crypto investors, the theft of $6.3 billion from Binance was a reminder of the risks that still surround digital assets. For a small group of fast-moving trading firms and skilled investors, it was a chance to make a quick buck.",
+      "url": "https://www.livemint.com/market/frantic-binance-hackers-created-windfall-for-crypto-traders-11793662737400.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
       "source": "LiveMint",
-      "published_at": "2026-11-02T17:20:10+00:00",
+      "published_at": "2026-11-02T23:38:56+00:00",
       "category": "India",
-      "simple_explanation": "The proposed listing will provide investors an opportunity to participate in one of India's largest coal-producing companies through the stock market"
+      "simple_explanation": "For most crypto investors, the theft of $6.3 billion from Binance was a reminder of the risks that still surround digital assets. For a small group of fast-moving trading firms and skilled investors, "
     },
     {
-      "title": "Stock Market Midday, Nov. 2: Stocks Rally as Oil Prices Tumble on Diplomatic Hopes",
-      "description": "On Nov. 2, 2026, crude plummeted roughly 7% on Middle East ceasefire prospects, sparking broad risk-on sentiment across major indexes.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/02/stock-market-midday-nov-2-stocks-rally-as-oil-prices-tumble-on-diplomatic-hopes/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-02T17:12:55+00:00",
-      "category": "USA",
-      "simple_explanation": "On Nov. 2, 2026, crude plummeted roughly 7% on Middle East ceasefire prospects, sparking broad risk-on sentiment across major indexes."
+      "title": "North Korea Denies Role in $6.3 Billion Binance Crypto Heist",
+      "description": "North Korea rejected US claims that it was behind the theft of more than $6 billion in cryptocurrency from Binance, after the FBI blamed Pyongyang for the biggest crypto heist on record.",
+      "url": "https://www.livemint.com/market/north-korea-denies-role-in-6-3-billion-binance-crypto-heist-11793662674891.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-11-02T23:37:54+00:00",
+      "category": "India",
+      "simple_explanation": "North Korea rejected US claims that it was behind the theft of more than $6 billion in cryptocurrency from Binance, after the FBI blamed Pyongyang for the biggest crypto heist on record."
     },
     {
-      "title": "Gas prices likely to drop below $4 a gallon in the next week if oil prices keep declining, analyst says",
-      "description": "Gasoline prices are headed below $4 per gallon if oil keeps heading south, says GasBuddy's Patrick De Haan.",
-      "url": "https://finance.yahoo.com/markets/article/gasoline-could-fall-below-4-in-the-next-week-as-oil-prices-drop-says-analyst-171201913.html?.tsrc=rss",
+      "title": "Energy ETFs Returned More Than 62% Over the Past Year. These 3 Charge as Little as 0.08%",
+      "description": "Energy ETFs crushed the S&P 500 over the past year, but the path included a brutal crude oil collapse before prices surged past $100 a barrel. Three funds chasing the same rally charge wildly different fees, and that gap matters more than it seems.",
+      "url": "https://247wallst.com/investing/etf/2026/11/02/energy-etfs-returned-more-than-62-over-the-past-year-these-3-charge-as-little-as-0-08/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-02T17:12:01+00:00",
+      "published_at": "2026-11-02T23:33:09+00:00",
       "category": "Commodities",
-      "simple_explanation": "Gasoline prices are headed below $4 per gallon if oil keeps heading south, says GasBuddy's Patrick De Haan."
+      "simple_explanation": "Energy ETFs crushed the S&P 500 over the past year, but the path included a brutal crude oil collapse before prices surged past $100 a barrel. Three funds chasing the same rally charge wildly differen"
     },
     {
-      "title": "3 Canadian Blue Chip Stocks With ROE Over 22%",
-      "description": "Oil prices have stayed high as supply risks and shipping costs keep pressure on global energy markets. That kind of backdrop can rattle more fragile companies. It also makes solid Canadian businesses with strong balance sheets and lower risk profiles more appealing, because stability feels scarce wh",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-canadian-blue-chip-stocks-171141345.html?.tsrc=rss",
+      "title": "Could XRP Hit $5 Before Bitcoin Reaches $200,000? ChatGPT Weighs In",
+      "description": "XRP needs a 300% gain while Bitcoin needs less than half that, yet ChatGPT gives Bitcoin the edge on timing. The math behind which milestone gets hit first reveals a surprising tension between percentage gains, market caps, and institutional money.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/02/could-xrp-hit-5-before-bitcoin-reaches-200000-chatgpt-weighs-in/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-02T17:11:41+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Oil prices have stayed high as supply risks and shipping costs keep pressure on global energy markets. That kind of backdrop can rattle more fragile companies. It also makes solid Canadian businesses "
-    },
-    {
-      "title": "How Investors Are Reacting To ConocoPhillips Stock Ahead Of Earnings",
-      "description": "ConocoPhillips is set to report third quarter results on 5 November under new CEO Andy O'Brien, with the update arriving as crude prices remain elevated and the producer continues to focus on upstream oil and gas operations. The combination of anticipated earnings strength, a supportive oil pricing ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-conocophillips-stock-ahead-171023634.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-02T17:10:23+00:00",
-      "category": "Commodities",
-      "simple_explanation": "ConocoPhillips is set to report third quarter results on 5 November under new CEO Andy O'Brien, with the update arriving as crude prices remain elevated and the producer continues to focus on upstream"
-    },
-    {
-      "title": "Michael Saylor keeps buying bitcoin. Here's how Strategy funds it",
-      "description": "Scott Melker breaks down Michael Saylor's and Strategy's (MSTR) weekly purchase of bitcoin (BTC-USD) and its preferred stock, STRC (STRC), as the company continues its aggressive accumulation strategy. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all",
-      "url": "https://finance.yahoo.com/video/michael-saylor-keeps-buying-bitcoin-170000212.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-02T17:00:00+00:00",
+      "published_at": "2026-11-02T23:23:37+00:00",
       "category": "Crypto",
-      "simple_explanation": "Scott Melker breaks down Michael Saylor's and Strategy's (MSTR) weekly purchase of bitcoin (BTC-USD) and its preferred stock, STRC (STRC), as the company continues its aggressive accumulation strategy"
+      "simple_explanation": "XRP needs a 300% gain while Bitcoin needs less than half that, yet ChatGPT gives Bitcoin the edge on timing. The math behind which milestone gets hit first reveals a surprising tension between percent"
     },
     {
-      "title": "Binance reopens post-hack, and Strategy buys more bitcoin",
-      "description": "Scott Melker discusses Strategy (MSTR) buying bitcoin (BTC-USD) yet again, Binance reopening after getting hacked as users test their exit strategy, and BlackRock (BLK) leading the bitcoin ETF exit. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all th",
-      "url": "https://finance.yahoo.com/video/binance-reopens-post-hack-strategy-170000923.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-02T17:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Scott Melker discusses Strategy (MSTR) buying bitcoin (BTC-USD) yet again, Binance reopening after getting hacked as users test their exit strategy, and BlackRock (BLK) leading the bitcoin ETF exit. \""
+      "title": "China Boosts Use of Stock Support Tools to Stabilize Market",
+      "description": "China will encourage financial institutions to make fuller use of two stock support tools and optimize their terms, as authorities step up efforts to bolster market stability and confidence.",
+      "url": "https://www.livemint.com/market/china-boosts-use-of-stock-support-tools-to-stabilize-market-11793661498373.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-11-02T23:18:17+00:00",
+      "category": "India",
+      "simple_explanation": "China will encourage financial institutions to make fuller use of two stock support tools and optimize their terms, as authorities step up efforts to bolster market stability and confidence."
     },
     {
-      "title": "Oil prices plunge on US-Iran detente hopes ahead of midterms",
-      "description": "Oil prices sank around seven percent on Monday, the eve of crucial midterm elections in the United States, as signals that Tehran and Washington were renewing dialogue boosted hopes of ending the Middle East war. \"We believe the (Trump) signals may be tactical ahead of tomorrow's US midterm election",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mixed-tech-sector-024236684.html?.tsrc=rss",
+      "title": "Chevron & Exxon Mobil Stocks Retreat From 52-Week Highs: Buy the Dip?",
+      "description": "With Chevron and Exxon stock both up nearly 50% year to date, investors may be wondering whether the pullback presents a buying opportunity.",
+      "url": "https://finance.yahoo.com/energy/articles/chevron-exxon-mobil-stocks-retreat-231700413.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-02T16:59:30+00:00",
+      "published_at": "2026-11-02T23:17:00+00:00",
       "category": "Commodities",
-      "simple_explanation": "Oil prices sank around seven percent on Monday, the eve of crucial midterm elections in the United States, as signals that Tehran and Washington were renewing dialogue boosted hopes of ending the Midd"
+      "simple_explanation": "With Chevron and Exxon stock both up nearly 50% year to date, investors may be wondering whether the pullback presents a buying opportunity."
     },
     {
-      "title": "MARA Reports November 9 After Riot Fell 33% in a Month. Its Cash Flow Is the Test",
-      "description": "Key TakeawaysMARA reports on November 9, after Riot fell 33% in a month on fears about how miners fund their AI plans. Bitcoin rose about 43% in the third quarter, so expect a large markup gain that says little about whether MARA funds itself.",
-      "url": "https://www.tikr.com/blog/mara-reports-november-9-after-riot-fell-33-in-a-month-its-cash-flow-is-the-test?ref=yahoofinance&tlnk=yf-261102-3jmxjcpm&.tsrc=rss",
+      "title": "Top 3 Canadian Dividend Stocks To Watch In November 2026",
+      "description": "Oil market forecasts are back in focus after Goldman Sachs projected Brent crude at an average of $105 per barrel in December, with prices staying elevated next year. Higher energy costs can squeeze household budgets, so reliable cash payouts from Canadian dividend stocks become more attractive. Thi",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-canadian-dividend-stocks-231645464.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-02T16:53:09+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Key TakeawaysMARA reports on November 9, after Riot fell 33% in a month on fears about how miners fund their AI plans. Bitcoin rose about 43% in the third quarter, so expect a large markup gain that s"
+      "published_at": "2026-11-02T23:16:45+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Oil market forecasts are back in focus after Goldman Sachs projected Brent crude at an average of $105 per barrel in December, with prices staying elevated next year. Higher energy costs can squeeze h"
+    },
+    {
+      "title": "3 British Value Stocks To Own In November 2026",
+      "description": "Goldman Sachs now expects Brent crude to average $105 per barrel in December, which keeps pressure on inflation and interest rates and makes dependable cash generation more valuable for investors. When money is no longer cheap, solid free cash flow and a discounted share price can be a powerful comb",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-british-value-stocks-own-231535345.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-02T23:15:35+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Goldman Sachs now expects Brent crude to average $105 per barrel in December, which keeps pressure on inflation and interest rates and makes dependable cash generation more valuable for investors. Whe"
     },
     {
       "title": "Stock market after midterm elections: What S&P 500 history shows",
@@ -158,249 +188,219 @@
       "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-11-02T16:48:28+00:00",
+      "published_at": "2026-11-02T23:13:34+00:00",
       "category": "USA",
       "simple_explanation": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress"
     },
     {
-      "title": "Bitcoin Analysis: Holders Are Selling at a Loss for the Longest Stretch Since August. What Happened Last Time?",
-      "description": "Bitcoin holders are selling at a loss for the longest stretch in three months, and the last time this happened it marked a turning point. But the setup looks different now, and the difference matters.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/02/bitcoin-analysis-holders-are-selling-at-a-loss-for-the-longest-stretch-since-august-what-happened-last-time/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-02T16:47:50+00:00",
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "description": "Pyongyang has pushed back against the FBI’s attribution of the Binance attack, with Kim Yo Jong calling the US allegations politically motivated.",
+      "url": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F7B7K3T1C90EANET9800H1/north-korea.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-11-02T23:07:07+00:00",
       "category": "Crypto",
-      "simple_explanation": "Bitcoin holders are selling at a loss for the longest stretch in three months, and the last time this happened it marked a turning point. But the setup looks different now, and the difference matters."
+      "simple_explanation": "Pyongyang has pushed back against the FBI’s attribution of the Binance attack, with Kim Yo Jong calling the US allegations politically motivated."
     },
     {
-      "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
-      "description": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack.",
-      "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack?.tsrc=rss",
+      "title": "US Stock Market Fails To Recover as $700 Billion Comeback Collapses",
+      "description": "Jim Cramer called the biggest tech takeout. Stocks added $700 billion, then lost it as AI and chip shares slid.",
+      "url": "https://beincrypto.com/jim-cramer-tech-takeout-stocks-rally/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-02T16:46:03+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack."
-    },
-    {
-      "title": "Strategy Makes Its Largest Bitcoin Purchase Since September, Keeps Buying Back More STRC",
-      "description": "Strategy bought 811 Bitcoin for about $65.5 million over the past week, paying an average of $80,846 per coin.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/mstr-makes-its-largest-bitcoin-purchase-since-september-keeps-buying-back-more-strc/cNGacLWR9Pi?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-02T16:40:36+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Strategy bought 811 Bitcoin for about $65.5 million over the past week, paying an average of $80,846 per coin."
-    },
-    {
-      "title": "Gold, silver prices rebound from multi-month lows as crude oil retreats; what is driving the recovery?",
-      "description": "Gold and silver rebounded on Monday after hitting multi-month lows, supported by easing inflation concerns as oil prices fell and the US dollar weakened. Diplomatic efforts to resolve the US-Iran conflict helped ease supply concerns, though both metals remain far below record highs.",
-      "url": "https://www.livemint.com/market/stock-market-news/november-2-gold-silver-rates-gold-silver-prices-rebound-from-multi-month-lows-as-crude-oil-retreats-11793635178579.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/logo/Gold_and_silver_1793637165235_8gCq_1793637185118_mLME_4256dff2-c0e7-4508-b977-0c30a5a206da_898b.png",
-      "source": "LiveMint",
-      "published_at": "2026-11-02T16:38:06+00:00",
-      "category": "India",
-      "simple_explanation": "Gold and silver rebounded on Monday after hitting multi-month lows, supported by easing inflation concerns as oil prices fell and the US dollar weakened. Diplomatic efforts to resolve the US-Iran conf"
-    },
-    {
-      "title": "Sitharaman 'recognises the voice' of investors: Will FM slash equity taxes in next Budget amid heavy FPI outflows?",
-      "description": "Union Finance Minister Nirmala Sitharaman said attracting foreign investment required more than just changes in taxation.",
-      "url": "https://www.livemint.com/market/sitharaman-recognises-the-voice-of-investors-will-fm-slash-equity-taxes-in-next-budget-amid-heavy-fpi-outflows-11793631070177.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/fm2_1793633946892_zsgW_1793633972693_Feei_d68ee167-a4d2-4301-92f5-e67206c685ec_azSn.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-11-02T16:35:43+00:00",
-      "category": "India",
-      "simple_explanation": "Union Finance Minister Nirmala Sitharaman said attracting foreign investment required more than just changes in taxation."
-    },
-    {
-      "title": "Stock Market Today: Dow Rallies As Anthropic Shares Spending Plans; Steel Play Rolls Past Entry (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index rallies Monday as oil prices dive. Apple stock falls ahead of earnings but Amazon jumps. Steel stock Nucor clears an entry.",
-      "url": "https://finance.yahoo.com/m/d2c3bbee-4bc3-3931-9b35-8ffcd691e60c/stock-market-today%3A-dow.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-02T16:31:55+00:00",
+      "published_at": "2026-11-02T22:56:17+00:00",
       "category": "USA",
-      "simple_explanation": "Stock Market Today: The Dow Jones index rallies Monday as oil prices dive. Apple stock falls ahead of earnings but Amazon jumps. Steel stock Nucor clears an entry."
+      "simple_explanation": "Jim Cramer called the biggest tech takeout. Stocks added $700 billion, then lost it as AI and chip shares slid."
     },
     {
-      "title": "Market Trading Guide: Tata Steel among 5 stocks to buy on Tuesday for healthy returns",
-      "description": "Indian equities experienced a strong start to the week, bolstered by better than expected Q2 earnings. Improved domestic macro indicators contributed to the positive sentiment among investors and traders. Increased passenger vehicle sales and gross GST collections reflected resilience in domestic ec",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tata-steel-among-5-stocks-to-buy-on-tuesday-for-healthy-returns/articleshow/135467317.cms",
-      "image": "https://img.etimg.com/photo/msid-135467317,imgsize-112702.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-02T16:27:59+00:00",
-      "category": "India",
-      "simple_explanation": "Indian equities experienced a strong start to the week, bolstered by better than expected Q2 earnings. Improved domestic macro indicators contributed to the positive sentiment among investors and trad"
-    },
-    {
-      "title": "Monteoro Minerals Ltd. (MTAU) Opens the Market",
-      "description": "Toronto, Ontario--(Newsfile Corp. - November 2, 2026) - Robert Neill, Chief Executive Officer and Director, and Robert Shaw, Director and Technical Advisor, of Monteoro Minerals Ltd. (\"Monteoro\" or the \"Company\") (TSXV: MTAU), along with members of the Company's management team, joined Graham MacKen",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/monteoro-minerals-ltd-mtau-opens-161300715.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-02T16:13:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Toronto, Ontario--(Newsfile Corp. - November 2, 2026) - Robert Neill, Chief Executive Officer and Director, and Robert Shaw, Director and Technical Advisor, of Monteoro Minerals Ltd. (\"Monteoro\" or th"
-    },
-    {
-      "title": "Gold Rebounds as Investors Seek Cash",
-      "description": "Gold is trying to recover after its worst October since 2008, but market jitters are turning the metal into a source of liquidity, not a safe haven.  Suki Cooper,  Standard Chartered Global Head of Commodities Research explains the pressure near $4,000, where support may emerge, and why silver faces",
-      "url": "https://finance.yahoo.com/video/gold-rebounds-investors-seek-cash-160949855.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-02T16:09:49+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold is trying to recover after its worst October since 2008, but market jitters are turning the metal into a source of liquidity, not a safe haven.  Suki Cooper,  Standard Chartered Global Head of Co"
-    },
-    {
-      "title": "Oracle plans to raise $20 billion through bonds and stock sales",
-      "description": "Oracle has announced its ambitious plan to generate $20 billion through bond and share sales, focusing on both corporate needs and essential infrastructure development. The raised funds are earmarked for advancing initiatives in AI and cloud computing, projecting substantial growth soon. This fundra",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/oracle-plans-to-raise-20-billion-through-bonds-and-stock-sales/articleshow/135466960.cms",
-      "image": "https://img.etimg.com/photo/msid-135466960,imgsize-32782.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-02T15:51:46+00:00",
-      "category": "India",
-      "simple_explanation": "Oracle has announced its ambitious plan to generate $20 billion through bond and share sales, focusing on both corporate needs and essential infrastructure development. The raised funds are earmarked "
-    },
-    {
-      "title": "Marvell to buy Lumentum in $115 billion deal in AI data-center bet",
-      "description": "Marvell Technology is poised to acquire Lumentum in a groundbreaking all-stock transaction worth $115 billion. This strategic acquisition is intended to position Marvell more competitively against Broadcom in the rapidly growing AI sector. With this expansion, Marvell anticipates boosting its optica",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet/articleshow/135466901.cms",
-      "image": "https://img.etimg.com/photo/msid-135466901,imgsize-129718.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-02T15:50:07+00:00",
-      "category": "India",
-      "simple_explanation": "Marvell Technology is poised to acquire Lumentum in a groundbreaking all-stock transaction worth $115 billion. This strategic acquisition is intended to position Marvell more competitively against Bro"
-    },
-    {
-      "title": "Natural Health Stock Plunges Post Q3 Earnings Despite Margin Gains",
-      "description": "NHTC's third-quarter 2026 results reflect China market weakness, softer revenues and persistent losses despite margin gains and restructuring savings.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/natural-health-stock-plunges-post-155000874.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-02T15:50:00+00:00",
-      "category": "USA",
-      "simple_explanation": "NHTC's third-quarter 2026 results reflect China market weakness, softer revenues and persistent losses despite margin gains and restructuring savings."
-    },
-    {
-      "title": "C3 Metals hits highest-grade copper-gold-silver mineralization yet at Peru Project",
-      "description": "C3 Metals CEO Dan Symons joined Steve Darling from Proactive to announce the highest-grade copper-gold-silver mineralization intersected to date at the company's Khaleesi copper project in southern Peru. The latest results come from drill hole KHZ5790-005, which intersected a broad zone of intense c",
-      "url": "https://finance.yahoo.com/video/c3-metals-hits-highest-grade-154936353.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-02T15:49:36+00:00",
-      "category": "Commodities",
-      "simple_explanation": "C3 Metals CEO Dan Symons joined Steve Darling from Proactive to announce the highest-grade copper-gold-silver mineralization intersected to date at the company's Khaleesi copper project in southern Pe"
-    },
-    {
-      "title": "Apple Stock Is Expensive",
-      "description": "Apple is trading at a historically pricy valuation heading into earnings.",
-      "url": "https://finance.yahoo.com/m/2b9b0c79-f79a-37d8-8ff5-fa1c04d7a6de/apple-stock-is-expensive.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-02T15:48:53+00:00",
-      "category": "USA",
-      "simple_explanation": "Apple is trading at a historically pricy valuation heading into earnings."
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-      "description": "Indian stock markets surged nearly 2% on November 2, with Sensex gaining 1,233 points and Nifty rising 388 points. Falling crude oil prices, strong corporate earnings, positive global cues and foreign investor buying boosted sentiment.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/135466871.cms",
-      "image": "https://img.etimg.com/photo/msid-135466871,imgsize-110642.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-02T15:47:30+00:00",
-      "category": "India",
-      "simple_explanation": "Indian stock markets surged nearly 2% on November 2, with Sensex gaining 1,233 points and Nifty rising 388 points. Falling crude oil prices, strong corporate earnings, positive global cues and foreign"
-    },
-    {
-      "title": "Kenvue Is Leaving the S&P 500: Here’s What It Means for Investors",
-      "description": "Kimberly-Clark is absorbing one of the most recognizable brand portfolios in consumer health, and the deal reshapes what investors own across three different indexes at once. What happens to your dividend income and share value depends on a closing date nobody has announced yet.",
-      "url": "https://247wallst.com/investing/2026/11/02/kenvue-is-leaving-the-sp-500-heres-what-it-means-for-investors/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-02T15:47:19+00:00",
-      "category": "USA",
-      "simple_explanation": "Kimberly-Clark is absorbing one of the most recognizable brand portfolios in consumer health, and the deal reshapes what investors own across three different indexes at once. What happens to your divi"
-    },
-    {
-      "title": "AWRE Stock Up Post Q3 Earnings Despite Sales Dip, Recurring Revenues Up",
-      "description": "Aware's third-quarter 2026 results reflect growing recurring revenues, narrower losses and cost reductions despite weaker software licensing sales and overall revenues.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/awre-stock-post-q3-earnings-154600303.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-02T15:46:00+00:00",
-      "category": "USA",
-      "simple_explanation": "Aware's third-quarter 2026 results reflect growing recurring revenues, narrower losses and cost reductions despite weaker software licensing sales and overall revenues."
-    },
-    {
-      "title": "EAAA India draws HDFC MF, Carnelian Asset, and L&T in Rs 316 crore listing-day bulk deals",
-      "description": "EAAA India Alternatives attracted Rs 316.3 crore in listing-day bulk deals from HDFC Mutual Fund, Carnelian Asset Management and L&T. The stock listed at a marginal premium before gaining 3.8% over its IPO price.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/eaaa-india-draws-hdfc-mf-carnelian-asset-and-lt-in-rs-316-crore-listing-day-bulk-deals/articleshow/135466785.cms",
-      "image": "https://img.etimg.com/photo/msid-135466785,imgsize-16640.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-02T15:45:29+00:00",
-      "category": "India",
-      "simple_explanation": "EAAA India Alternatives attracted Rs 316.3 crore in listing-day bulk deals from HDFC Mutual Fund, Carnelian Asset Management and L&T. The stock listed at a marginal premium before gaining 3.8% over it"
-    },
-    {
-      "title": "ITC shares to be in focus on Tuesday as Q2 net profit drops 18.5% on higher cigarette taxes",
-      "description": "ITC’s September-quarter net profit fell 18.45% to  ₹4,229 crore as higher input costs and cigarette taxes pressured earnings, despite revenue rising 43.85%. Cigarette operating profit dropped over 27%, while FMCG, paperboards and packaging, agriculture, and food-tech reported growth.",
-      "url": "https://www.livemint.com/market/stock-market-news/itc-shares-to-be-in-focus-on-tuesday-as-q2-net-profit-drops-18-5-on-higher-cigarette-taxes-11793631186838.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/02/1600x900/logo/ITC-DEMERGER-SHAREHOLDERS-0_1721732084540_1793633684977_g8T0_b28927b7-f751-4af1-a54e-8c71a92af3d1_6zSZ.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-11-02T15:44:26+00:00",
-      "category": "India",
-      "simple_explanation": "ITC’s September-quarter net profit fell 18.45% to  ₹4,229 crore as higher input costs and cigarette taxes pressured earnings, despite revenue rising 43.85%. Cigarette operating profit dropped over 27%"
-    },
-    {
-      "title": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
-      "description": "VIX deemed \"unreactive\" by options traders",
-      "url": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
+      "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+      "description": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
+      "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-11-02T15:30:41+00:00",
+      "published_at": "2026-11-02T22:53:20+00:00",
       "category": "USA",
-      "simple_explanation": "VIX deemed \"unreactive\" by options traders"
+      "simple_explanation": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million."
     },
     {
-      "title": "JPMorgan's shocking capital expenditures estimates for Amazon, and worries for McDonald's ahead",
-      "description": "Yahoo Finance Executive Editor Brian Sozzi breaks down all the top headlines of the trading day, including how hyperscalers have gotten \"silly cheap,\" Nvidia's (NVDA) \"unbelievable\" valuation, and why McDonald's (MCD) earnings should have investors worried. Sozzi also sits down with the Founder & CE",
-      "url": "https://finance.yahoo.com/video/jpmorgans-shocking-capital-expenditures-estimates-for-amazon-and-worries-for-mcdonalds-ahead-151240797.html?.tsrc=rss",
+      "title": "Here’s what happened in crypto today",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-11-02T22:36:09+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "title": "Update: US Equity Indexes Mixed as Sell-Off in Technology Continues, Crude Oil Sinks Ahead of Midterm Elections",
+      "description": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-sell-223541461.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-02T15:12:40+00:00",
-      "category": "USA",
-      "simple_explanation": "Yahoo Finance Executive Editor Brian Sozzi breaks down all the top headlines of the trading day, including how hyperscalers have gotten \"silly cheap,\" Nvidia's (NVDA) \"unbelievable\" valuation, and why"
-    },
-    {
-      "title": "Why traders are moving away from equity F&O to commodities? Nithin Kamath explains",
-      "description": "Commodity derivatives traders in India surged nearly 62% to 21 lakh in FY26, while equity F&O participants fell 20% to 85 lakh. Zerodha's Nithin Kamath cited commodity volatility, options popularity and extended MCX trading hours.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-traders-are-moving-away-from-equity-fo-to-commodities-nithin-kamath-explains/articleshow/135466022.cms",
-      "image": "https://img.etimg.com/photo/msid-135466022,imgsize-91268.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-02T15:08:15+00:00",
-      "category": "India",
-      "simple_explanation": "Commodity derivatives traders in India surged nearly 62% to 21 lakh in FY26, while equity F&O participants fell 20% to 85 lakh. Zerodha's Nithin Kamath cited commodity volatility, options popularity a"
-    },
-    {
-      "title": "IPO-bound StockGro's profit jumps 3-fold to Rs 113 cr in FY26 on strong revenue growth",
-      "description": "In FY26, StockGro showcased substantial growth, achieving a profit after tax of Rs 112.96 crore while nearly doubling its revenue to Rs 226.14 crore, largely propelled by rising subscription fees. Operational costs increased, leading to higher total expenses. As the company gears up for an IPO, prel",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ipo-bound-stockgros-profit-jumps-3-fold-to-rs-113-cr-in-fy26-on-strong-revenue-growth/articleshow/135465910.cms",
-      "image": "https://img.etimg.com/photo/msid-135465910,imgsize-210463.cms",
-      "source": "ET Markets",
-      "published_at": "2026-11-02T15:04:47+00:00",
-      "category": "India",
-      "simple_explanation": "In FY26, StockGro showcased substantial growth, achieving a profit after tax of Rs 112.96 crore while nearly doubling its revenue to Rs 226.14 crore, largely propelled by rising subscription fees. Ope"
-    },
-    {
-      "title": "BC-Gold Futures",
-      "description": "NEW YORK (AP) — Prices as of 10:00:00 AM Monday, November 02.Contract Open High Low Last Change Today's Volume Friday's Volume  Nov 26 3884.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/bc-gold-futures-150031279.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-02T15:00:31+00:00",
+      "published_at": "2026-11-02T22:35:41+00:00",
       "category": "Commodities",
-      "simple_explanation": "NEW YORK (AP) — Prices as of 10:00:00 AM Monday, November 02.Contract Open High Low Last Change Today's Volume Friday's Volume  Nov 26 3884."
+      "simple_explanation": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit"
+    },
+    {
+      "title": "Crypto Market Today, Nov. 2: Crypto Market Today, Nov. 2: Bitcoin and Altcoins Retreat as Binance Withdrawals Spark Fresh Concerns",
+      "description": "On Nov. 2, 2026, withdrawals reopened at Binance after a $6.3 billion security breach, triggering mass outflows and FBI scrutiny.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/02/crypto-market-today-nov-2-crypto-market-today-nov-2-bitcoin-and-altcoins-retreat-as-binance-withdrawals-spark-fresh-concerns/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-02T22:35:01+00:00",
+      "category": "Crypto",
+      "simple_explanation": "On Nov. 2, 2026, withdrawals reopened at Binance after a $6.3 billion security breach, triggering mass outflows and FBI scrutiny."
+    },
+    {
+      "title": "Nasdaq 100 Enters Correction as Megacap Results Amplify AI Fears",
+      "description": "The Nasdaq 100 Index tumbled into a correction on Monday as investors turn increasingly pessimistic about Big Tech and the artificial intelligence trade.",
+      "url": "https://www.livemint.com/market/nasdaq-100-enters-correction-as-megacap-results-amplify-ai-fears-11793658450748.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-11-02T22:27:30+00:00",
+      "category": "India",
+      "simple_explanation": "The Nasdaq 100 Index tumbled into a correction on Monday as investors turn increasingly pessimistic about Big Tech and the artificial intelligence trade."
+    },
+    {
+      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
+      "description": "New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to restore staking access for users in the US state.",
+      "url": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F487G3J8FRTKB5QXJC6MD5/larger-brian-armstrong.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-11-02T22:22:30+00:00",
+      "category": "Crypto",
+      "simple_explanation": "New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to restore staking access for users in the US state."
+    },
+    {
+      "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
+      "description": "Strive added 124 Bitcoin for about $10 million and now trails Twenty One Capital by 390 BTC for third place among Treasury companies.",
+      "url": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-02T22:16:02+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Strive added 124 Bitcoin for about $10 million and now trails Twenty One Capital by 390 BTC for third place among Treasury companies."
+    },
+    {
+      "title": "AeroVironment (AVAV) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "description": "AeroVironment (AVAV) reached $123.08 at the closing of the latest trading day, reflecting a -2.4% change compared to its last close.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-sees-more-significant-221502591.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-02T22:15:02+00:00",
+      "category": "USA",
+      "simple_explanation": "AeroVironment (AVAV) reached $123.08 at the closing of the latest trading day, reflecting a -2.4% change compared to its last close."
+    },
+    {
+      "title": "M-tron Industries, Inc. (MPTI) Declines More Than Market: Some Information for Investors",
+      "description": "In the closing of the recent trading day, M-tron Industries, Inc. (MPTI) stood at $63.15, denoting a -4.59% move from the preceding trading day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/m-tron-industries-inc-mpti-221502355.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-02T22:15:02+00:00",
+      "category": "USA",
+      "simple_explanation": "In the closing of the recent trading day, M-tron Industries, Inc. (MPTI) stood at $63.15, denoting a -4.59% move from the preceding trading day."
+    },
+    {
+      "title": "Dollar General (DG) Advances While Market Declines: Some Information for Investors",
+      "description": "Dollar General (DG) closed at $135.78 in the latest trading session, marking a +2.63% move from the prior day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-dg-advances-while-221502498.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-02T22:15:02+00:00",
+      "category": "USA",
+      "simple_explanation": "Dollar General (DG) closed at $135.78 in the latest trading session, marking a +2.63% move from the prior day."
+    },
+    {
+      "title": "Intrusion Inc. (INTZ) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "description": "In the latest trading session, Intrusion Inc. (INTZ) closed at $0.56, marking a -3.62% move from the previous day.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intrusion-inc-intz-falls-more-221502874.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-02T22:15:02+00:00",
+      "category": "USA",
+      "simple_explanation": "In the latest trading session, Intrusion Inc. (INTZ) closed at $0.56, marking a -3.62% move from the previous day."
+    },
+    {
+      "title": "Musk warned America will go 1,000% bankrupt. Now U.S. debt tops $40 trillion and counting",
+      "description": "Every American now carries nearly $119,000 of Uncle Sam’s debt, and Elon Musk says only one thing can fix it.",
+      "url": "https://www.thestreet.com/crypto/markets/musk-warned-america-will-go-1000-bankrupt-now-u-s-debt-tops-40-trillion-and-counting?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-02T22:15:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Every American now carries nearly $119,000 of Uncle Sam’s debt, and Elon Musk says only one thing can fix it."
+    },
+    {
+      "title": "$1,000 in Bitcoin at the 2017 Peak: What Is It Worth Now?",
+      "description": "Buying Bitcoin at its 2017 all-time high meant watching a $1,000 investment collapse by 84% and staying underwater for three years. Whether that patience ultimately rewarded holders more than a simple index fund depends on where Bitcoin heads next.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/02/1000-in-bitcoin-at-the-2017-peak-what-is-it-worth-now/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-02T22:13:48+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Buying Bitcoin at its 2017 all-time high meant watching a $1,000 investment collapse by 84% and staying underwater for three years. Whether that patience ultimately rewarded holders more than a simple"
+    },
+    {
+      "title": "Wesdome Expands High-Grade Zones at Eagle River, Highlighting Growth Potential near Existing Infrastructure",
+      "description": "High-grade growth potential laterally and at depth: Drilling in the western extension of the 800 Zone, one of the mineralized zones at Eagle River, intersected high-grade gold over significant widths, including 8.3 g/t gold over 10.6 metres, highlighting the potential to expand the known high-grade ",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/wesdome-expands-high-grade-zones-220500133.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-02T22:05:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "High-grade growth potential laterally and at depth: Drilling in the western extension of the 800 Zone, one of the mineralized zones at Eagle River, intersected high-grade gold over significant widths,"
+    },
+    {
+      "title": "Ero Copper Reports Record Third Quarter 2026 Results",
+      "description": "(all amounts in US dollars, unless otherwise noted) VANCOUVER, British Columbia, Nov. 02, 2026 (GLOBE NEWSWIRE) -- Ero Copper Corp. (TSX: ERO, NYSE: ERO) (“Ero” or the “Company”) is pleased to announce its operating and financial results for the three and nine months ended September 30, 2026. Manage",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ero-copper-reports-record-third-220500641.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-02T22:05:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "(all amounts in US dollars, unless otherwise noted) VANCOUVER, British Columbia, Nov. 02, 2026 (GLOBE NEWSWIRE) -- Ero Copper Corp. (TSX: ERO, NYSE: ERO) (“Ero” or the “Company”) is pleased to announc"
+    },
+    {
+      "title": "NABEP Restarts Key Orinoco Belt Furnace in Continued Production Push",
+      "description": "North American Blue Energy Partners (NABEP) has restarted a key furnace at its Zuata 2 (Petrocedeño) facility in the Orinoco Belt after five years, a step the company expects to add 8,000 to 10,000 barrels of oil per day within the next few weeks. Over a full year, that's between 2.92 million and 3.",
+      "url": "https://finance.yahoo.com/energy/articles/nabep-restarts-key-orinoco-belt-220000037.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-02T22:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "North American Blue Energy Partners (NABEP) has restarted a key furnace at its Zuata 2 (Petrocedeño) facility in the Orinoco Belt after five years, a step the company expects to add 8,000 to 10,000 ba"
+    },
+    {
+      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+      "description": "The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts.",
+      "url": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F047PK32DP192ZJ19H5DWA/hi-who-are-bam2.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-11-02T21:54:41+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts."
+    },
+    {
+      "title": "Bonterra Congratulates Gold Fields on Securing Environmental Approval for the Windfall Project",
+      "description": "Val-d'Or, Quebec--(Newsfile Corp. - November 2, 2026) - Bonterra Resources Inc. (TSXV: BTR) (OTCQX: BONXF) (FSE: 9BR2) (\"Bonterra\" or the \"Company\") congratulates Gold Fields Limited (\"Gold Fields\") and its wholly owned subsidiary, Windfall Mining Group Inc. (\"Windfall Mining\"), on receiving the Cer",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/bonterra-congratulates-gold-fields-securing-213000922.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-02T21:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Val-d'Or, Quebec--(Newsfile Corp. - November 2, 2026) - Bonterra Resources Inc. (TSXV: BTR) (OTCQX: BONXF) (FSE: 9BR2) (\"Bonterra\" or the \"Company\") congratulates Gold Fields Limited (\"Gold Fields\") a"
+    },
+    {
+      "title": "US stocks today: Nasdaq ends over 1% lower as AI worries persist",
+      "description": "US stocks ended mixed on Monday, with the S&P 500 and Nasdaq closing lower as Apple shares slipped ahead of earnings and Oracle fell over plans to raise $20 billion. Falling oil prices amid US-Iran peace hopes offered some relief, while concerns over Big Tech's AI spending persisted.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-ends-over-1-lower-as-ai-worries-persist/articleshow/135474287.cms",
+      "image": "https://img.etimg.com/photo/msid-135474287,imgsize-225704.cms",
+      "source": "Economic Times",
+      "published_at": "2026-11-02T21:20:46+00:00",
+      "category": "India",
+      "simple_explanation": "US stocks ended mixed on Monday, with the S&P 500 and Nasdaq closing lower as Apple shares slipped ahead of earnings and Oracle fell over plans to raise $20 billion. Falling oil prices amid US-Iran pe"
     }
   ]
 }
