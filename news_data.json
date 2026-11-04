@@ -1,86 +1,186 @@
 {
-  "last_updated": "2026-11-04T16:53:37.460894+00:00",
+  "last_updated": "2026-11-04T22:27:01.330311+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Wall Street cheers US midterm results as Dow jones jumps 1300 points; Amazon, Apple, Microsoft among top gainers",
-      "description": "US stocks surged after Democratic midterm gains raised hopes of political gridlock, while falling oil prices and Treasury yields supported sentiment. The S&amp;P 500 rose 1.8%, with major technology stocks leading gains.",
-      "url": "https://www.livemint.com/market/stock-market-news/wall-street-cheers-us-midterm-results-as-dow-jones-jumps-1300-points-amazon-apple-microsoft-among-top-gainers-11793807617877.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/04/1600x900/logo/US_Markets_1793809794923_acRU_1793809800244_Gg8u_333bc02e-5b09-4f51-98ab-4ffcb0b65714_wdkG.png",
-      "source": "LiveMint",
-      "published_at": "2026-11-04T16:36:24+00:00",
-      "category": "India",
-      "simple_explanation": "US stocks surged after Democratic midterm gains raised hopes of political gridlock, while falling oil prices and Treasury yields supported sentiment. The S&amp;P 500 rose 1.8%, with major technology s"
+      "title": "Dow posts biggest gain of the year after Democrats sweep Congress",
+      "description": "The Dow soared nearly 1,600 points, as Wall Street analysts predicted that political gridlock would limit Congress's ability to pass major tax and spending packages.",
+      "url": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-04T22:18:39+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dow soared nearly 1,600 points, as Wall Street analysts predicted that political gridlock would limit Congress's ability to pass major tax and spending packages."
     },
     {
-      "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-      "description": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
-      "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+      "title": "Rich Dad Poor Dad author is waiting for Bitcoin’s next crash, and he plans to buy it",
+      "description": "The “Rich Dad Poor Dad” author says he bought more Bitcoin, gold and silver while others panicked, and he wants another dip.",
+      "url": "https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-is-waiting-for-bitcoins-next-crash-and-he-plans-to-buy-it?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-04T22:16:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The “Rich Dad Poor Dad” author says he bought more Bitcoin, gold and silver while others panicked, and he wants another dip."
+    },
+    {
+      "title": "Cigna Stock Has Gained Since Investor Day. Earnings Are Next.",
+      "description": "For the third quarter, analysts expect adjusted earnings per share of $7.52, compared with $7.83 a year ago.",
+      "url": "https://finance.yahoo.com/m/78b5629f-a3af-3f6c-ae54-1d01beab8c3c/cigna-stock-has-gained-since.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-04T22:14:00+00:00",
+      "category": "USA",
+      "simple_explanation": "For the third quarter, analysts expect adjusted earnings per share of $7.52, compared with $7.83 a year ago."
+    },
+    {
+      "title": "Stock Market Today, Nov. 4: Dow Surges 3% in Biggest Post-Midterm Rally in 44 Years",
+      "description": "Wall Street surged following the midterm elections, with the Dow posting its strongest post-election rally in decades as oil prices retreated and investors reassessed the market outlook.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/04/stock-market-today-nov-4-dow-surges-3-in-biggest-post-midterm-rally-in-44-years/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-04T22:10:01+00:00",
+      "category": "USA",
+      "simple_explanation": "Wall Street surged following the midterm elections, with the Dow posting its strongest post-election rally in decades as oil prices retreated and investors reassessed the market outlook."
+    },
+    {
+      "title": "Magnolia Oil & Gas soars on earnings beat, strong guidance",
+      "description": "Investing.com -- Magnolia Oil & Gas Corp (NYSE:MGY) reported third-quarter results that exceeded analyst expectations, with shares rising 3.8% in after-hours trading Wednesday as the company delivered strong earnings and revenue performance following its WildFire Energy acquisition.",
+      "url": "https://finance.yahoo.com/energy/articles/magnolia-oil-gas-soars-earnings-220955055.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-04T22:09:55+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Investing.com -- Magnolia Oil & Gas Corp (NYSE:MGY) reported third-quarter results that exceeded analyst expectations, with shares rising 3.8% in after-hours trading Wednesday as the company delivered"
+    },
+    {
+      "title": "Dow Jones Futures: Elections, Plunging Oil Fuel Big Rally; Apple, Microsoft, Amazon Flash Buy Signals. CoreWeave, SpaceX Skid.",
+      "description": "Elections and diving oil prices sparked a stock market surge. Stocks from many sectors flash buy signals, but avoid this area.",
+      "url": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures%3A-elections%2C.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-04T22:09:35+00:00",
+      "category": "USA",
+      "simple_explanation": "Elections and diving oil prices sparked a stock market surge. Stocks from many sectors flash buy signals, but avoid this area."
+    },
+    {
+      "title": "Qualcomm stock drops 6% on weak earnings forecast as memory shortage weighs on smartphone sales",
+      "description": "Qualcomm delivered better-than-expected results but issued a weak earnings forecast.",
+      "url": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-11-04T16:35:50+00:00",
+      "published_at": "2026-11-04T22:03:43+00:00",
       "category": "USA",
-      "simple_explanation": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018."
+      "simple_explanation": "Qualcomm delivered better-than-expected results but issued a weak earnings forecast."
     },
     {
-      "title": "RELX (RELX) Exit: Generative AI Headwinds Prompt Portfolio Sale",
-      "description": "Hennessy Fund released its Q3 2026 investor letter for the “Hennessy Focus Fund”. During the third quarter, U.S. equity markets were characterized by a concentration in mega-cap technology stocks, overshadowing broader market performance. The letter can be downloaded here. Rising long-term interest ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/relx-relx-exit-generative-ai-163500662.html?.tsrc=rss",
+      "title": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
+      "description": "Prediction markets projected election results well before media outlets in an effort to position themselves as fast, reliable news sources.",
+      "url": "https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-11-04T21:57:39+00:00",
+      "category": "USA",
+      "simple_explanation": "Prediction markets projected election results well before media outlets in an effort to position themselves as fast, reliable news sources."
+    },
+    {
+      "title": "Perpetua Announces New Gold Discovery at Stibnite Gold Project & Continued High Grades from Clark Tunnel Fault Zone",
+      "description": "Perpetua Resources Corp. (Nasdaq: PPTA) (TSX: PPTA) (\"Perpetua Resources,\" \"Perpetua,\" or the \"Company\") today provided an update on exploration activities at the Company's Stibnite Gold Project (the \"Project\") in central Idaho. The 2026 Exploration Drilling Program is now complete with over 16,000 ",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/perpetua-announces-gold-discovery-stibnite-215300207.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-04T16:35:00+00:00",
+      "published_at": "2026-11-04T21:53:00+00:00",
       "category": "Commodities",
-      "simple_explanation": "Hennessy Fund released its Q3 2026 investor letter for the “Hennessy Focus Fund”. During the third quarter, U.S. equity markets were characterized by a concentration in mega-cap technology stocks, ove"
+      "simple_explanation": "Perpetua Resources Corp. (Nasdaq: PPTA) (TSX: PPTA) (\"Perpetua Resources,\" \"Perpetua,\" or the \"Company\") today provided an update on exploration activities at the Company's Stibnite Gold Project (the "
     },
     {
-      "title": "AI data center stocks dip, renewables surge after Democrat sweep in US midterm elections",
-      "description": "AI data centre stocks declined while renewable energy and healthcare shares rallied after Democrats won control of Congress in the US midterm elections. Investors assessed the possibility of tighter AI oversight and continued clean energy support. Defence contractors and prison operators fell amid c",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-data-center-stocks-dip-renewables-surge-after-democrat-sweep-in-us-midterm-elections/articleshow/135545518.cms",
-      "image": "https://img.etimg.com/photo/msid-135545518,imgsize-176740.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-04T16:31:06+00:00",
-      "category": "India",
-      "simple_explanation": "AI data centre stocks declined while renewable energy and healthcare shares rallied after Democrats won control of Congress in the US midterm elections. Investors assessed the possibility of tighter A"
-    },
-    {
-      "title": "10-year Treasury yield is little changed as traders mull over Democrats' midterm victories",
-      "description": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
-      "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-11-04T16:23:53+00:00",
-      "category": "Global",
-      "simple_explanation": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections."
-    },
-    {
-      "title": "Beyond HAL, BEL: Apollo Micro Systems, MTAR, Data Patterns, Zen Tech, among 5 defence stocks on experts' radar | List",
-      "description": "India’s defence localisation push is drawing attention to private-sector companies alongside established public-sector firms. Analysts highlight MTAR Technologies, Zen Technologies, Astra Microwave, Data Patterns and Apollo Micro Systems",
-      "url": "https://www.livemint.com/market/stock-market-news/beyond-hal-bel-apollo-micro-systems-mtar-data-patterns-zen-tech-among-5-defence-stocks-on-experts-radar-list-11793804507584.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/04/1600x900/logo/Defence_Stocks_1793809025396_0wSr_1793809085644_CkEJ_ed5193f9-696c-488f-8e5b-254c4cc5b513_PpoW.png",
-      "source": "LiveMint",
-      "published_at": "2026-11-04T16:22:30+00:00",
-      "category": "India",
-      "simple_explanation": "India’s defence localisation push is drawing attention to private-sector companies alongside established public-sector firms. Analysts highlight MTAR Technologies, Zen Technologies, Astra Microwave, D"
-    },
-    {
-      "title": "Stock Market Today: Dow, Nasdaq Flex Strength As Military, Oil Stocks Take A Dive (Live Coverage)",
-      "description": "The Dow Jones index surged 1,300 points Wednesday on U.S. election results. Elon Musk-led SpaceX and Tesla dive.",
-      "url": "https://finance.yahoo.com/m/762d358c-ec5a-3821-a3f9-e47c4e4c3f0c/stock-market-today%3A-dow%2C.html?.tsrc=rss",
+      "title": "2 ETFs I'm Buying and Holding for Decades -- No Matter What the Market Does",
+      "description": "Instead of picking stocks, I buy all the stocks. These two ETFs seem like solid long-term choices for buy-and-hold investors.",
+      "url": "https://www.fool.com/investing/2026/11/04/2-etfs-im-buying-and-holding-for-decades-no-matter/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-04T16:12:32+00:00",
+      "published_at": "2026-11-04T21:50:00+00:00",
       "category": "USA",
-      "simple_explanation": "The Dow Jones index surged 1,300 points Wednesday on U.S. election results. Elon Musk-led SpaceX and Tesla dive."
+      "simple_explanation": "Instead of picking stocks, I buy all the stocks. These two ETFs seem like solid long-term choices for buy-and-hold investors."
     },
     {
-      "title": "RIOT Stock Heads For Biggest Weekly Gain In 5 Months After Signing Its Largest-Ever AI Data Center Lease",
-      "description": "Riot signed a 15-year lease covering 910 MW at its Corsicana campus in Texas, with an unnamed AI lab agreeing to pay about $28 billion over the initial term.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/riot-stock-heads-for-biggest-weekly-gain-in-5-months-after-signing-its-largest-ever-ai-data-center-lease/cNGLixuR93Y?.tsrc=rss",
+      "title": "Every stock that moved because of the election",
+      "description": "Some companies took at hit after the election, while others rallied. Here are the biggest names making moves on Wednesday.",
+      "url": "https://www.cnbc.com/2026/11/04/every-stock-thats-moving-as-a-result-of-the-election.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-11-04T21:48:51+00:00",
+      "category": "USA",
+      "simple_explanation": "Some companies took at hit after the election, while others rallied. Here are the biggest names making moves on Wednesday."
+    },
+    {
+      "title": "What Just Happened To MARA Stock?",
+      "description": "For questions about this article or underlying research, email help@trefis.com.",
+      "url": "https://www.trefis.com/stock/mara/articles/622541/what-just-happened-to-mara-stock/2026-11-04?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-04T16:09:59+00:00",
+      "published_at": "2026-11-04T21:47:15+00:00",
       "category": "Crypto",
-      "simple_explanation": "Riot signed a 15-year lease covering 910 MW at its Corsicana campus in Texas, with an unnamed AI lab agreeing to pay about $28 billion over the initial term."
+      "simple_explanation": "For questions about this article or underlying research, email help@trefis.com."
+    },
+    {
+      "title": "Could Buying Bitcoin Today Set You Up For Life?",
+      "description": "Bitcoin may have a difficult time delivering an encore performance over the next decade.",
+      "url": "https://www.fool.com/investing/2026/11/04/could-buying-bitcoin-today-set-you-up-for-life/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-04T21:35:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin may have a difficult time delivering an encore performance over the next decade."
+    },
+    {
+      "title": "What was really behind Wednesday's monster rally? Trump quickly making peace",
+      "description": "The stock market skyrocketed after a decisive sweep for Democrats in the 2026 midterm elections, a move that Trump's reaction added to.",
+      "url": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-11-04T21:32:01+00:00",
+      "category": "USA",
+      "simple_explanation": "The stock market skyrocketed after a decisive sweep for Democrats in the 2026 midterm elections, a move that Trump's reaction added to."
+    },
+    {
+      "title": "Riley Permian Reports Third Quarter 2026 Results",
+      "description": "Riley Exploration Permian, Inc. (NYSE American: REPX) (\"Riley Permian\" or the \"Company\"), today reported financial and operating results for the third quarter ended September 30, 2026.",
+      "url": "https://finance.yahoo.com/energy/articles/riley-permian-reports-third-quarter-213000111.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-04T21:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Riley Exploration Permian, Inc. (NYSE American: REPX) (\"Riley Permian\" or the \"Company\"), today reported financial and operating results for the third quarter ended September 30, 2026."
+    },
+    {
+      "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike: Part 1",
+      "description": "From setting up an SMSF or a company, to just leaving the country entirely, here are some strategies Australian Bitcoiners can employ to deal with 2027’s massive CGT hike.",
+      "url": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HX2638MZP3S4KEEQP3HSTS/fred-magazine-artwork.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-11-04T21:30:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "From setting up an SMSF or a company, to just leaving the country entirely, here are some strategies Australian Bitcoiners can employ to deal with 2027’s massive CGT hike."
+    },
+    {
+      "title": "Stocks surge, oil tumbles after Trump's election rout",
+      "description": "Wall Street stocks surged Wednesday as markets greeted the resolution of US midterm elections while oil prices tumbled on expectations the Democratic sweep could hasten a resolution to the US-Iran war.The drop in oil prices added momentum to Wall Street stocks, which opened higher following positive",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/stocks-dollar-drop-democrats-enjoy-024022576.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-04T21:27:31+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Wall Street stocks surged Wednesday as markets greeted the resolution of US midterm elections while oil prices tumbled on expectations the Democratic sweep could hasten a resolution to the US-Iran war"
+    },
+    {
+      "title": "How major US stock indexes fared Wednesday 11/4/2026",
+      "description": "stocks soared after President Donald Trump’s party lost its sole control of Washington in the midterm elections.Stocks generally do well in the months following any midterm U.",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-212456789.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-04T21:24:56+00:00",
+      "category": "USA",
+      "simple_explanation": "stocks soared after President Donald Trump’s party lost its sole control of Washington in the midterm elections.Stocks generally do well in the months following any midterm U."
     },
     {
       "title": "Bitcoin Rises, Crypto Miners Sharply Divided As Midterms Dampen AI Outlook",
@@ -88,319 +188,219 @@
       "url": "https://finance.yahoo.com/m/c5d0833e-fe1d-3e77-b792-4b103f8d64bf/bitcoin-rises%2C-crypto-miners.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-04T16:07:41+00:00",
+      "published_at": "2026-11-04T21:24:53+00:00",
       "category": "Crypto",
       "simple_explanation": "Bitcoin price rises. Miners diverge sharply after midterm elections on AI, data center slowdown fears. Riot Platforms spikes on $28bil deal."
     },
     {
-      "title": "Physical Oil Just Went From a Bidding War to a Fire Sale",
-      "description": "Refiners who were fighting over every available barrel a month ago are now turning down offers and leaving Nigerian cargoes unsold, yet futures keep pricing in a war that the physical market seems to be moving past.",
-      "url": "https://247wallst.com/investing/2026/11/04/physical-oil-just-went-from-a-bidding-war-to-a-fire-sale/?.tsrc=rss",
+      "title": "Blue wave sparks Wall Street rally after midterms",
+      "description": "Yahoo Finance Markets and Data Editor Jared Blikre joins Market Overtime to break down Wall Street's post-election rally as investors react to Democrats' strong showing in the midterm elections. Blikre examines what's driving gains in the S&P 500 (^GSPC) and Nasdaq Composite (^IXIC).",
+      "url": "https://finance.yahoo.com/video/blue-wave-sparks-wall-street-rally-after-midterms-212358122.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-04T16:04:10+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Refiners who were fighting over every available barrel a month ago are now turning down offers and leaving Nigerian cargoes unsold, yet futures keep pricing in a war that the physical market seems to "
-    },
-    {
-      "title": "Strategy CEO puts his Bitcoin firm alongside SpaceX, Alphabet",
-      "description": "Phong Le says Strategy is one of America’s biggest stock sellers this year. The difference is what it does with the cash.",
-      "url": "https://www.thestreet.com/crypto/markets/strategy-ceo-puts-his-bitcoin-firm-alongside-spacex-alphabet?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-04T16:03:03+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Phong Le says Strategy is one of America’s biggest stock sellers this year. The difference is what it does with the cash."
-    },
-    {
-      "title": "How will the midterms blue wave affect my 401(k)? Answers here",
-      "description": "How will the \"blue wave\" in the midterms affect the stock market and your 401(k)? History provides us some answers.",
-      "url": "https://www.usatoday.com/story/money/personal-finance/2026/11/04/stock-market-midterm-elections-bluenami-401k-trump/92608635007/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-04T15:59:55+00:00",
+      "published_at": "2026-11-04T21:23:58+00:00",
       "category": "USA",
-      "simple_explanation": "How will the \"blue wave\" in the midterms affect the stock market and your 401(k)? History provides us some answers."
+      "simple_explanation": "Yahoo Finance Markets and Data Editor Jared Blikre joins Market Overtime to break down Wall Street's post-election rally as investors react to Democrats' strong showing in the midterm elections. Blikr"
     },
     {
-      "title": "Micron Technology (MU) is Holding Firm on High-Bandwidth Memory (HBM)",
-      "description": "BUFFALO Funds, an actively managed mutual fund advised by Kornitzer Capital Management, released its third-quarter 2026 investor letter for “Buffalo Growth Fund”. The letter can be downloaded here. The Buffalo Growth Fund advanced 4.57% in Q3, significantly outperforming the Russell 3000® Growth Ind",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-holding-firm-154652561.html?.tsrc=rss",
+      "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+      "description": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
+      "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+      "image": "",
+      "source": "CNBC World",
+      "published_at": "2026-11-04T21:18:44+00:00",
+      "category": "Global",
+      "simple_explanation": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections."
+    },
+    {
+      "title": "US Equity Markets End Higher After Crude Oil Drops, Democrats Sweep Midterm Elections",
+      "description": "US equity indexes ended higher Wednesday after crude oil prices dropped and Democrats swept both cha",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-211811079.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-04T15:46:52+00:00",
+      "published_at": "2026-11-04T21:18:11+00:00",
       "category": "Commodities",
-      "simple_explanation": "BUFFALO Funds, an actively managed mutual fund advised by Kornitzer Capital Management, released its third-quarter 2026 investor letter for “Buffalo Growth Fund”. The letter can be downloaded here. Th"
+      "simple_explanation": "US equity indexes ended higher Wednesday after crude oil prices dropped and Democrats swept both cha"
     },
     {
-      "title": "Has the global oil market returned to surplus? JPMorgan thinks so",
-      "description": "Investing.com -- The global oil market has returned to a surplus after months of supply disruptions linked to the U.S.-Israeli war with Iran, with recovering Middle Eastern exports and rising production in Latin America bringing more crude back into circulation, JPMorgan said.",
-      "url": "https://finance.yahoo.com/energy/articles/global-oil-market-returned-surplus-154557322.html?.tsrc=rss",
+      "title": "TSX Closer: The Index Jumps More Than 800 Points as Telecom and Financial Stocks Rally",
+      "description": "The S&P/TSX Composite Index jumped more than 800 points on Wednesday as strong gains in financial, t",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/tsx-closer-index-jumps-more-211427951.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-04T15:45:57+00:00",
+      "published_at": "2026-11-04T21:14:27+00:00",
       "category": "Commodities",
-      "simple_explanation": "Investing.com -- The global oil market has returned to a surplus after months of supply disruptions linked to the U.S.-Israeli war with Iran, with recovering Middle Eastern exports and rising producti"
+      "simple_explanation": "The S&P/TSX Composite Index jumped more than 800 points on Wednesday as strong gains in financial, t"
     },
     {
-      "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
-      "description": "Trump is a frequent critic of media companies, especially broadcasters that he views as being biased against him.",
-      "url": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
+      "title": "Dow has best post-midterm elections day in 44 years as Democrats take control of Congress",
+      "description": "US stocks soared Wednesday as Wall Street digested the resounding Democrat sweep in the midterm elections and mulled what a divided government will mean for the war with Iran, President Donald Trump’s policy agenda and the AI trade.",
+      "url": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-04T21:14:10+00:00",
+      "category": "USA",
+      "simple_explanation": "US stocks soared Wednesday as Wall Street digested the resounding Democrat sweep in the midterm elections and mulled what a divided government will mean for the war with Iran, President Donald Trump’s"
+    },
+    {
+      "title": "Circle Earnings Show Stablecoins Have Arrived. A Crypto Payoff Could Take Longer.",
+      "description": "Circle Internet stock rises as usage of its stablecoin, USDC, increased 8% from a year ago.",
+      "url": "https://finance.yahoo.com/m/ba206994-8f6c-3504-a0ed-5f422d7c2b0d/circle-earnings-show.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-04T21:09:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Circle Internet stock rises as usage of its stablecoin, USDC, increased 8% from a year ago."
+    },
+    {
+      "title": "The Election Flipped Congress. It Also Flipped the Market.",
+      "description": "With the midterms in the review mirror, Wall Street let out a sigh of relief and sent stocks surging.",
+      "url": "https://finance.yahoo.com/m/57598f2b-0d05-3aec-aa41-ee01200617b4/the-election-flipped.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-04T21:04:15+00:00",
+      "category": "USA",
+      "simple_explanation": "With the midterms in the review mirror, Wall Street let out a sigh of relief and sent stocks surging."
+    },
+    {
+      "title": "Democrats' Resounding Win in the Midterms Removed Political Uncertainty. Stocks Soared.",
+      "description": "The Dow jumped 3.14%, while oil prices plunged as President Trump and Vice President Vance acknowledged the Iran war's role in the Republican defeat.",
+      "url": "https://www.ibtimes.com/stocks-rally-democratic-midterm-win-oil-prices-plunge-3809437?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-04T21:03:45+00:00",
+      "category": "USA",
+      "simple_explanation": "The Dow jumped 3.14%, while oil prices plunged as President Trump and Vice President Vance acknowledged the Iran war's role in the Republican defeat."
+    },
+    {
+      "title": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
+      "description": "In control of Congress, Democrats are preparing to pursue legislation to address affordability, while also trying to rein-in President Donald Trump",
+      "url": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-11-04T15:45:51+00:00",
+      "published_at": "2026-11-04T20:53:19+00:00",
       "category": "USA",
-      "simple_explanation": "Trump is a frequent critic of media companies, especially broadcasters that he views as being biased against him."
+      "simple_explanation": "In control of Congress, Democrats are preparing to pursue legislation to address affordability, while also trying to rein-in President Donald Trump"
     },
     {
-      "title": "Stocks shrugged off the blue wave overnight — history says don't trust the bounce yet",
-      "description": "Wall Street bought the blue wave by sunrise, but a broken midterm pattern and weak chip stocks say the bounce may not last.",
-      "url": "https://finance.yahoo.com/markets/article/stocks-shrugged-off-the-blue-wave-overnight--history-says-dont-trust-the-bounce-yet-153846605.html?.tsrc=rss",
+      "title": "Why the Gold Rush Is Back On—at Least for Now",
+      "description": "The precious metal got a big boost from the midterm elections. So did gold mining stocks. Can the rally last?",
+      "url": "https://finance.yahoo.com/m/fcd17d66-df4b-3f37-8549-fddc03fb2af5/why-the-gold-rush-is-back.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-04T15:38:46+00:00",
-      "category": "USA",
-      "simple_explanation": "Wall Street bought the blue wave by sunrise, but a broken midterm pattern and weak chip stocks say the bounce may not last."
+      "published_at": "2026-11-04T20:23:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The precious metal got a big boost from the midterm elections. So did gold mining stocks. Can the rally last?"
     },
     {
-      "title": "SEBI relaxes KYC rules for NRIs, OCIs: Can overseas investors now onboard digitally from abroad? Decoded",
-      "description": "SEBI has eased KYC rules for NRIs, OCIs and foreign nationals, allowing eligible investors living in FATF-compliant countries to complete onboarding remotely.",
-      "url": "https://www.livemint.com/market/stock-market-news/sebi-relaxes-kyc-rules-for-nris-ocis-can-overseas-investors-now-onboard-digitally-from-abroad-decoded-11793803371003.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/04/1600x900/logo/SEBI_1793771047881_QO36_1793771060382_RMqq_3c05f67_1793803801112_32NK_1793803801349_OeEP_a93da743-7368-44c5-b5f9-5b8b081cd53d_oLNV.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-11-04T15:37:17+00:00",
+      "title": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
+      "description": "Crude oil prices tumbled Wednesday after Vice President JD Vance blamed the Republicans' steep midterm election losses on the Iran war.",
+      "url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-11-04T20:14:52+00:00",
+      "category": "USA",
+      "simple_explanation": "Crude oil prices tumbled Wednesday after Vice President JD Vance blamed the Republicans' steep midterm election losses on the Iran war."
+    },
+    {
+      "title": "Alcohol stocks jump as blue wave boosts industry prospects",
+      "description": "As the midterm elections unfold, investors are directing their focus to the alcohol sector, anticipating positive impacts on companies such as Constellation Brands due to shifting immigration policies. Optimism surrounding decreasing trade tensions with Canada also seems to uplift brands like Brown-",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/alcohol-stocks-jump-as-blue-wave-boosts-industry-prospects/articleshow/135551002.cms",
+      "image": "https://img.etimg.com/photo/msid-135551002,imgsize-90886.cms",
+      "source": "Economic Times",
+      "published_at": "2026-11-04T20:04:38+00:00",
       "category": "India",
-      "simple_explanation": "SEBI has eased KYC rules for NRIs, OCIs and foreign nationals, allowing eligible investors living in FATF-compliant countries to complete onboarding remotely."
+      "simple_explanation": "As the midterm elections unfold, investors are directing their focus to the alcohol sector, anticipating positive impacts on companies such as Constellation Brands due to shifting immigration policies"
     },
     {
-      "title": "Stocks soar after Democrats take control of Congress",
-      "description": "The Dow surged more than 1,200 points, while other stock indexes jumped as investors digested the impact of the midterms.",
-      "url": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/?.tsrc=rss",
+      "title": "Agnico Eagle Soars 10%, Wheaton Precious Up 12% as Democratic Midterm Win Lifts Gold",
+      "description": "Key TakeawaysAgnico Eagle jumped 10% today, along with Wheaton Precious Metals, Newmont and Barrick Mining, as gold climbed 3% after the Democrats’ midterm win. At Agnico’s third-quarter costs, a 3% rise in gold adds about 5% to its margin per ounce, which is half the stock’s gain.",
+      "url": "https://www.tikr.com/blog/agnico-eagle-soars-10-wheaton-precious-up-12-as-democratic-midterm-win-lifts-gold?ref=yahoofinance&tlnk=yf-261104-c9r635jr&.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-04T15:35:07+00:00",
-      "category": "USA",
-      "simple_explanation": "The Dow surged more than 1,200 points, while other stock indexes jumped as investors digested the impact of the midterms."
+      "published_at": "2026-11-04T20:03:39+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Key TakeawaysAgnico Eagle jumped 10% today, along with Wheaton Precious Metals, Newmont and Barrick Mining, as gold climbed 3% after the Democrats’ midterm win. At Agnico’s third-quarter costs, a 3% r"
     },
     {
-      "title": "'All Roads Lead To Bitcoin,' Says Bitwise Exec Matt Hougan In Light of AI Bubble",
-      "description": "Bitcoin could benefit from an artificial intelligence boom, continued economic uncertainty or even an AI-driven market crash, according to Bitwise Chief Investment Officer Matt Hougan, who says the cryptocurrency is entering a more mature institutional growth phase. Don’t Miss: A...",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/roads-lead-bitcoin-says-bitwise-153017462.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-04T15:30:17+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin could benefit from an artificial intelligence boom, continued economic uncertainty or even an AI-driven market crash, according to Bitwise Chief Investment Officer Matt Hougan, who says the cr"
+      "title": "Musk stocks lose $120 billion as Democrats’ Texas win rattles investors",
+      "description": "Tesla and SpaceX lost more than $120 billion in combined market value after Democrats scored major election victories in Texas and across the US. Investors are concerned that a Democrat-controlled Congress could increase scrutiny of Elon Musk’s businesses, complicate a potential Tesla-SpaceX merger ",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/musk-stocks-lose-120-billion-as-democrats-texas-win-rattles-investors/articleshow/135550872.cms",
+      "image": "https://img.etimg.com/photo/msid-135550872,imgsize-31124.cms",
+      "source": "Economic Times",
+      "published_at": "2026-11-04T19:55:59+00:00",
+      "category": "India",
+      "simple_explanation": "Tesla and SpaceX lost more than $120 billion in combined market value after Democrats scored major election victories in Texas and across the US. Investors are concerned that a Democrat-controlled Con"
     },
     {
-      "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
-      "description": "Bitcoin climbed toward $80,500 as risk assets rallied on Democrats’ midterm election gains and oil prices fell.",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KGZKGX8HBQZ86GKFQW8S8B/bitcoin-lazer-eyes-and-bull-run-graph-5-960x640.webp",
+      "title": "Bitcoin rebounds with stocks despite threat to crypto agenda",
+      "description": "Bitcoin rebounds more than 4% to above $81,000, tracking a broader recovery in financial markets after the US midterm elections. However, Democratic control of Congress threatens to stall crypto-friendly legislation and increase regulatory scrutiny. Investors are also weighing the impact of politica",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bitcoin-rebounds-with-stocks-despite-threat-to-crypto-agenda/articleshow/135550638.cms",
+      "image": "https://img.etimg.com/photo/msid-135550638,imgsize-678715.cms",
+      "source": "Economic Times",
+      "published_at": "2026-11-04T19:32:16+00:00",
+      "category": "India",
+      "simple_explanation": "Bitcoin rebounds more than 4% to above $81,000, tracking a broader recovery in financial markets after the US midterm elections. However, Democratic control of Congress threatens to stall crypto-frien"
+    },
+    {
+      "title": "Who Keeps Crashing China’s Stock Market?",
+      "description": "China is scrambling to contain a stock-market rout only two years after the previous rescue.",
+      "url": "https://www.livemint.com/market/who-keeps-crashing-china-s-stock-market-11793820174602.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-11-04T19:22:54+00:00",
+      "category": "India",
+      "simple_explanation": "China is scrambling to contain a stock-market rout only two years after the previous rescue."
+    },
+    {
+      "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
+      "description": "The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday, even as Bitcoin and Ether rallied.",
+      "url": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KTGBVFHWKW3CZF0886CX5A/trumpcoinelections.png",
       "source": "CoinTelegraph",
-      "published_at": "2026-11-04T15:29:23+00:00",
+      "published_at": "2026-11-04T19:15:39+00:00",
       "category": "Crypto",
-      "simple_explanation": "Bitcoin climbed toward $80,500 as risk assets rallied on Democrats’ midterm election gains and oil prices fell."
+      "simple_explanation": "The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday, even as Bitcoin and Ether rallied."
     },
     {
-      "title": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck",
-      "description": "Stocks bounced on Wednesday after Democrats' sweeping mid-term elections.",
-      "url": "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-04T15:25:48+00:00",
-      "category": "USA",
-      "simple_explanation": "Stocks bounced on Wednesday after Democrats' sweeping mid-term elections."
-    },
-    {
-      "title": "Block's Q3 Earnings Beat Estimates on Cash App Lending & Square Growth",
-      "description": "XYZ's third-quarter earnings surge 109.3%, driven by Cash App lending growth, stronger Square payment volumes and record adjusted profitability.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blocks-q3-earnings-beat-estimates-152500708.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-04T15:25:00+00:00",
+      "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
+      "description": "Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income.",
+      "url": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KQ5FY3D9P23X31GYKTVT1C/hi-bitcoin-miners-unaffected-by-heat-waves-still-plan-to-establish-operations-in-texas-ai-2.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-11-04T18:47:56+00:00",
       "category": "Crypto",
-      "simple_explanation": "XYZ's third-quarter earnings surge 109.3%, driven by Cash App lending growth, stronger Square payment volumes and record adjusted profitability."
+      "simple_explanation": "Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income."
     },
     {
-      "title": "Three reasons stocks are moving higher after the midterms",
-      "description": "Yahoo Finance Executive Editor Brian Sozzi runs down three reasons why stocks are responding well to the midterm election results.",
-      "url": "https://finance.yahoo.com/video/three-reasons-stocks-are-moving-higher-after-the-midterms-152243298.html?.tsrc=rss",
+      "title": "This ETF Makes It Easy to Invest in Hard Assets",
+      "description": "The VanEck Real Assets ETF has delivered a stellar 11.5% five-year annualized return, versus the 7.5% average of its peers.",
+      "url": "https://finance.yahoo.com/m/1710f2fe-cdef-3cf4-8aab-f970b3b4f53e/this-etf-makes-it-easy-to.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-04T15:22:43+00:00",
-      "category": "USA",
-      "simple_explanation": "Yahoo Finance Executive Editor Brian Sozzi runs down three reasons why stocks are responding well to the midterm election results."
+      "published_at": "2026-11-04T18:39:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "The VanEck Real Assets ETF has delivered a stellar 11.5% five-year annualized return, versus the 7.5% average of its peers."
     },
     {
-      "title": "US Treasury shifts language, opening door to auction size changes",
-      "description": "The US Treasury Department has updated its regulations regarding upcoming auction sizes for treasury securities. This revision hints at a potential increase in the issuance of short- and intermediate-term debt. They also flagged a likely decrease in demand for longer-term 20- and 30-year auctions. F",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-shifts-language-opening-door-to-auction-size-changes/articleshow/135543878.cms",
-      "image": "https://img.etimg.com/photo/msid-135543878,imgsize-313762.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-04T15:21:43+00:00",
+      "title": "Will tighter AI regulation slow Big Tech spending? What the US midterm results mean for tech stocks - Explained",
+      "description": "Wall Street reacted unevenly to Democratic gains in Congress: Amazon, Meta, Alphabet, Microsoft and Apple rallied, while several AI-chip, memory and data-centre stocks fell. Investors weighed hopes of moderated spending against the possibility of tighter AI and data-centre oversight.",
+      "url": "https://www.livemint.com/market/stock-market-news/will-tighter-ai-regulation-slow-big-tech-spending-what-the-us-midterm-results-mean-for-tech-stocks-explained-11793813477058.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/04/1600x900/logo/AI_Market_1793815333089_bsRR_1793815337805_ul95_84bd0845-65b3-4f51-986a-fe761d337106_0aKv.png",
+      "source": "LiveMint",
+      "published_at": "2026-11-04T18:08:05+00:00",
       "category": "India",
-      "simple_explanation": "The US Treasury Department has updated its regulations regarding upcoming auction sizes for treasury securities. This revision hints at a potential increase in the issuance of short- and intermediate-"
+      "simple_explanation": "Wall Street reacted unevenly to Democratic gains in Congress: Amazon, Meta, Alphabet, Microsoft and Apple rallied, while several AI-chip, memory and data-centre stocks fell. Investors weighed hopes of"
     },
     {
-      "title": "Bitcoin Recovers Despite Democratic Midterm Gains",
-      "description": "Bitcoin recovered from overnight losses on Wednesday even as Democrats took control of both chambers of the US Cong...",
-      "url": "https://www.cryptoprowl.com/releases/bitcoin-recovers-despite-democratic-midterm-gains-7656?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-04T15:21:00+00:00",
+      "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
+      "description": "Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition.",
+      "url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KTPGZ3TZEHDDPCZNDADBR2/coin-crushing-stablecoin-2.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-11-04T18:02:42+00:00",
       "category": "Crypto",
-      "simple_explanation": "Bitcoin recovered from overnight losses on Wednesday even as Democrats took control of both chambers of the US Cong..."
-    },
-    {
-      "title": "Meta draws record orders for debut euro bond sale, Bloomberg News reports",
-      "description": "Meta Platforms has successfully garnered an impressive €53 billion in investor interest for its inaugural euro bond issuance. With an ambition to raise €9 billion divided into six distinct parts, this move follows their recent $15 billion bond offering in the US market. Citigroup and Morgan Stanley ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-draws-record-orders-for-debut-euro-bond-sale-bloomberg-news-reports/articleshow/135543860.cms",
-      "image": "https://img.etimg.com/photo/msid-135543860,imgsize-43616.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-04T15:20:06+00:00",
-      "category": "India",
-      "simple_explanation": "Meta Platforms has successfully garnered an impressive €53 billion in investor interest for its inaugural euro bond issuance. With an ambition to raise €9 billion divided into six distinct parts, this"
-    },
-    {
-      "title": "Gold is up over 100% in 5 years. Here's how to own it in an IRA",
-      "description": "Gold IRAs let investors hold physical precious metals in a tax-advantaged retirement account.",
-      "url": "https://www.thestreet.com/advisor/best-gold-ira-companies-2?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-04T15:19:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Gold IRAs let investors hold physical precious metals in a tax-advantaged retirement account."
-    },
-    {
-      "title": "Gold gains 3% as dollar slides after Democratic midterm gains",
-      "description": "On Wednesday, gold prices surged by 3%, reaching impressive new levels following the midterm elections, during which Democrats secured control of both the Senate and House. This political transformation, combined with a weaker dollar, heightened gold and precious metals demand. Investors are keenly ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-gains-3-as-dollar-slides-after-democratic-midterm-gains/articleshow/135543824.cms",
-      "image": "https://img.etimg.com/photo/msid-135543824,imgsize-88148.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-04T15:18:47+00:00",
-      "category": "India",
-      "simple_explanation": "On Wednesday, gold prices surged by 3%, reaching impressive new levels following the midterm elections, during which Democrats secured control of both the Senate and House. This political transformati"
-    },
-    {
-      "title": "Prediction markets get Democratic win right, with a few surprises",
-      "description": "Prediction markets provided insights during the US midterm elections, with $1.48 billion wagered on the outcomes. Democrats gained control of both the Senate and House of Representatives after delivering a rebuke to Donald Trump. Despite some accurate forecasts, notable surprises emerged, such as An",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/prediction-markets-get-democratic-win-right-with-a-few-surprises/articleshow/135543698.cms",
-      "image": "https://img.etimg.com/photo/msid-135543698,imgsize-36680.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-04T15:17:04+00:00",
-      "category": "India",
-      "simple_explanation": "Prediction markets provided insights during the US midterm elections, with $1.48 billion wagered on the outcomes. Democrats gained control of both the Senate and House of Representatives after deliver"
-    },
-    {
-      "title": "1 Main Capital Expands Limbach Holdings (LMB) Position Following Market Overreaction to Q2 Guidance",
-      "description": "1 Main Capital, a boutique investment firm, recently released its third-quarter 2026 investor letter. The Fund returned −9.1%, versus +2.3% for the S&P 500 and −7.2% for the Russell 2000. The letter can be downloaded here. The manager attributes the shortfall to weak share prices across several hold",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-main-capital-expands-limbach-151604124.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-04T15:16:04+00:00",
-      "category": "USA",
-      "simple_explanation": "1 Main Capital, a boutique investment firm, recently released its third-quarter 2026 investor letter. The Fund returned −9.1%, versus +2.3% for the S&P 500 and −7.2% for the Russell 2000. The letter c"
-    },
-    {
-      "title": "Indian bonds rally most since April as oil slides after US midterm verdict",
-      "description": "Indian government bonds experienced a significant rally influenced by falling oil prices after the US midterm elections. The benchmark bond yield dropped notably, reflecting a three-day decline in yields. Brent crude oil prices decreased, easing inflation and fiscal pressures on India. The Reserve B",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rally-most-since-april-as-oil-slides-after-us-midterm-verdict/articleshow/135543664.cms",
-      "image": "https://img.etimg.com/photo/msid-135543664,imgsize-152762.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-04T15:15:23+00:00",
-      "category": "India",
-      "simple_explanation": "Indian government bonds experienced a significant rally influenced by falling oil prices after the US midterm elections. The benchmark bond yield dropped notably, reflecting a three-day decline in yie"
-    },
-    {
-      "title": "US Markets: Why Qualcomm shares are in top focus today with quarterly earnings, growth outlook amid AI costs concerns",
-      "description": "Qualcomm’s dependence on the smartphone market is emerging as a key concern. While handset chips remain its biggest revenue contributor, Apple's efforts to develop its own cellular modem tech and softer demand for Android phones are creating additional challenges for its growth prospects",
-      "url": "https://www.livemint.com/market/stock-market-news/us-markets-why-qualcomm-shares-are-in-top-focus-today-with-quarterly-earnings-growth-outlook-amid-ai-costs-concerns-11793799657674.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/04/1600x900/logo/Amon_1793801065820_I8CB_1793801080271_6mxC_1122a89f-5f1f-4a0b-a22c-bf97539faee1_vfU6.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-11-04T15:11:53+00:00",
-      "category": "India",
-      "simple_explanation": "Qualcomm’s dependence on the smartphone market is emerging as a key concern. While handset chips remain its biggest revenue contributor, Apple's efforts to develop its own cellular modem tech and soft"
-    },
-    {
-      "title": "Here’s Why Hilton Grand Vacations (HGV) is Facing Temporary Sales Friction",
-      "description": "1 Main Capital, a boutique investment firm, recently released its third-quarter 2026 investor letter. The Fund returned −9.1%, versus +2.3% for the S&P 500 and −7.2% for the Russell 2000. The letter can be downloaded here. The manager attributes the shortfall to weak share prices across several hold",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-hilton-grand-vacations-hgv-150858866.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-04T15:08:58+00:00",
-      "category": "USA",
-      "simple_explanation": "1 Main Capital, a boutique investment firm, recently released its third-quarter 2026 investor letter. The Fund returned −9.1%, versus +2.3% for the S&P 500 and −7.2% for the Russell 2000. The letter c"
-    },
-    {
-      "title": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
-      "description": "McDonald's has leaned into discounts to attract budget-conscious diners over the last two years.",
-      "url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-04T15:05:28+00:00",
-      "category": "USA",
-      "simple_explanation": "McDonald's has leaned into discounts to attract budget-conscious diners over the last two years."
-    },
-    {
-      "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-      "description": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default.",
-      "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-04T15:05:19+00:00",
-      "category": "USA",
-      "simple_explanation": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default."
-    },
-    {
-      "title": "Nasdaq jumps 2%, Dow soars over 1,000 points after US midterm election results",
-      "description": "The S&amp;P 500 jumped 1.2% in early trading and was potentially on track for its best day in six weeks. The Dow Jones Industrial Average was up 1,178 points, or 2.3%.",
-      "url": "https://www.livemint.com/market/stock-market-news/us-market-nasdaq-dow-ai-stocks-after-us-midterm-election-results-11793804138598.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/04/1600x900/logo/USA-STOCKS_1793804474642_3ixO_1793804474777_KQ6Z_7dd98501-eb14-49ca-9baf-e0c577a431f1_m6GX.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-11-04T15:02:13+00:00",
-      "category": "India",
-      "simple_explanation": "The S&amp;P 500 jumped 1.2% in early trading and was potentially on track for its best day in six weeks. The Dow Jones Industrial Average was up 1,178 points, or 2.3%."
-    },
-    {
-      "title": "BC-Gold Futures",
-      "description": "NEW YORK (AP) — Prices as of 10:00:00 AM Wednesday, November 04.Contract Open High Low Last Change Today's Volume Tuesday's Volume  Nov 26 4017.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/bc-gold-futures-150022375.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-04T15:00:22+00:00",
-      "category": "Commodities",
-      "simple_explanation": "NEW YORK (AP) — Prices as of 10:00:00 AM Wednesday, November 04.Contract Open High Low Last Change Today's Volume Tuesday's Volume  Nov 26 4017."
-    },
-    {
-      "title": "Dow Surges 1,000 Points in Classic Post-Election Relief Rally",
-      "description": "The midterm elections delivered a blue wave and then some, sending the stock market climbing.",
-      "url": "https://finance.yahoo.com/m/af8f0d4a-62de-30ae-9b34-015e524b0c57/dow-surges-1%2C000-points-in.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-04T14:43:12+00:00",
-      "category": "USA",
-      "simple_explanation": "The midterm elections delivered a blue wave and then some, sending the stock market climbing."
-    },
-    {
-      "title": "High-Grade Gold Near Surface at Duquesne West Including 7.0 g/t over 24.8 m",
-      "description": "TORONTO, Nov. 04, 2026 (GLOBE NEWSWIRE) -- GLOBEX MINING ENTERPRISES INC. (GMX – Toronto Stock Exchange, G1MN – Frankfurt, Stuttgart, Berlin, Munich, Tradegate, Lang & Schwarz, LS Exchange, TTMzero, Düsseldorf and Quotrix Düsseldorf Stock Exchanges and GLBXF – OTCQX International in the US) is pleas",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/high-grade-gold-near-surface-144300048.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-04T14:43:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "TORONTO, Nov. 04, 2026 (GLOBE NEWSWIRE) -- GLOBEX MINING ENTERPRISES INC. (GMX – Toronto Stock Exchange, G1MN – Frankfurt, Stuttgart, Berlin, Munich, Tradegate, Lang & Schwarz, LS Exchange, TTMzero, D"
-    },
-    {
-      "title": "539% return in 5 years: GMDC share price rallies 10% - What’s fuelling the PSU stock rally? Decoded",
-      "description": "GMDC shares rose 10.15% to  ₹468.80 on Wednesday, extending a two-day rally and lifting their weekly gain to 7.51%. Trading volume surged more than 17-fold.",
-      "url": "https://www.livemint.com/market/stock-market-news/539-return-in-5-years-by-gmdc-gujarat-mineral-development-corporation-share-price-rallies-10-what-s-fuelling-the-psu-11793801117537.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/04/1600x900/logo/GMDC_Share_Price_Rally_at_the_Quarry_1793803261819_3LHb_1793803269516_1Iy2_16634042-ae3e-4041-9bb3-013b386c3e72_ce73.png",
-      "source": "LiveMint",
-      "published_at": "2026-11-04T14:42:23+00:00",
-      "category": "India",
-      "simple_explanation": "GMDC shares rose 10.15% to  ₹468.80 on Wednesday, extending a two-day rally and lifting their weekly gain to 7.51%. Trading volume surged more than 17-fold."
+      "simple_explanation": "Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition."
     }
   ]
 }
