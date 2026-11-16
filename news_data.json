@@ -1,46 +1,336 @@
 {
-  "last_updated": "2026-11-15T23:47:27.928406+00:00",
+  "last_updated": "2026-11-16T05:07:06.703619+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Dow Jones Futures Rise; How Will Nvidia React As Jensen Huang Mulls Return?",
-      "description": "Nvidia earnings are due as Jensen Huang reportedly mulls a return. The Anthropic IPO is ahead.",
-      "url": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures-rise%3B-how.html?.tsrc=rss",
+      "title": "Eicher Motors shares vroom like its Bullet, stock price jumps over 3%; what brokerages say post Q2; Buy or avoid? Target",
+      "description": "Eicher Motors shares rose over 3% after it reported 15% year-on-year profit growth and record quarterly revenue of  ₹7,422 crore. Royal Enfield motorcycle sales climbed 15% to a record 3.77 lakh units, while VECV sales increased 28.2%. Brokerages differed on valuation and near-term margin risks.",
+      "url": "https://www.livemint.com/market/stock-market-news/eicher-motors-shares-vroom-like-its-bullet-stock-price-jumps-over-3-what-brokerages-say-post-q2-buy-or-avoid-target-11794804317886.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/16/1600x900/logo/Eicher_Motors_Shares_Up_1794805098007_2mKs_1794805101906_vk2V_677350ac-1af4-40d3-bd52-4d017080e8b0_Pnhk.png",
+      "source": "LiveMint",
+      "published_at": "2026-11-16T05:00:54+00:00",
+      "category": "India",
+      "simple_explanation": "Eicher Motors shares rose over 3% after it reported 15% year-on-year profit growth and record quarterly revenue of  ₹7,422 crore. Royal Enfield motorcycle sales climbed 15% to a record 3.77 lakh units"
+    },
+    {
+      "title": "Inox Wind shares crash: Why energy stock price is falling today? Tanks 9.17% post Q2, down 60% in 1 year - Still a buy?",
+      "description": "Inox Wind shares fell nearly 9.17% in Monday intraday trading after results showed a 42% annual drop in second-quarter net profit to  ₹69 crore. Motilal Oswal cut its FY27 and FY28 EBITDA estimates and lowered its target price to  ₹74, while retaining a Buy rating.",
+      "url": "https://www.livemint.com/market/stock-market-news/inox-wind-shares-crash-why-energy-stock-price-is-falling-today-tanks-9-17-post-q2-down-60-in-1-year-still-a-buy-11794803945803.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/16/1600x900/logo/Inox_Wind_Share_Price_Drop_Graphic_1794805018979_2hxI_1794805026774_ORY6_a8a09241-2100-4546-8cef-9aa3bf4b5e93_acFC.png",
+      "source": "LiveMint",
+      "published_at": "2026-11-16T04:58:32+00:00",
+      "category": "India",
+      "simple_explanation": "Inox Wind shares fell nearly 9.17% in Monday intraday trading after results showed a 42% annual drop in second-quarter net profit to  ₹69 crore. Motilal Oswal cut its FY27 and FY28 EBITDA estimates an"
+    },
+    {
+      "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+      "description": "The weakness came amid a wider sell-off in regional equity markets, with Japan’s Nikkei 225 down 2% and South Korea’s Kospi losing 2.6%.",
+      "url": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HAG95YKRDAYZ26YFMBK4VQ/stocks-1.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-11-16T04:42:07+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The weakness came amid a wider sell-off in regional equity markets, with Japan’s Nikkei 225 down 2% and South Korea’s Kospi losing 2.6%."
+    },
+    {
+      "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+      "description": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
+      "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-11-16T04:34:00+00:00",
+      "category": "USA",
+      "simple_explanation": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war."
+    },
+    {
+      "title": "MCX gold, silver prices drop: What led to rates slide; multi-month lows ahead of wedding season - Details for investors",
+      "description": "MCX gold and silver prices fell to multi-month lows as expectations of a US Federal Reserve rate hike, a stronger dollar and higher Treasury yields pressured precious metals. Silver hit a one-year low, while analysts say Indian wedding demand and central bank buying may help limit gold’s downside.",
+      "url": "https://www.livemint.com/market/commodities/mcx-gold-silver-prices-drop-what-led-to-rates-slide-multi-month-lows-ahead-of-wedding-season-details-for-investors-11794801621038.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/16/1600x900/logo/MCX_Gold_and_Silver_Prices_Drop_1794803110199_Fx8z_1794803119259_e5Yd_3398ba69-d717-4be1-9cd6-aa31fe3af65a_tHkQ.png",
+      "source": "LiveMint",
+      "published_at": "2026-11-16T04:26:19+00:00",
+      "category": "India",
+      "simple_explanation": "MCX gold and silver prices fell to multi-month lows as expectations of a US Federal Reserve rate hike, a stronger dollar and higher Treasury yields pressured precious metals. Silver hit a one-year low"
+    },
+    {
+      "title": "Tata Motors PV shares crash: What led to auto stock 8% ramming, Nifty laggard; down 27% in 2026 - Buy, sell or hold?",
+      "description": "Tata Motors Passenger Vehicles shares fell more than 8% after the company reported a September-quarter consolidated loss of  ₹5,531 crore, despite revenue rising 34% year-on-year. Exceptional costs totalled  ₹6,738 crore, while brokerages differed on the stock’s outlook and target prices.",
+      "url": "https://www.livemint.com/market/stock-market-news/tata-motors-pv-shares-crash-what-led-to-auto-stock-8-ramming-nifty-laggard-down-27-in-2026-buy-sell-or-hold-11794801946841.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/16/1600x900/logo/Tata_Motors_Shares_Crash_8_1794802741603_gG1t_1794802746051_AXlJ_b9fe1d2e-4105-49a8-bf62-49ffc1588685_JHLw.png",
+      "source": "LiveMint",
+      "published_at": "2026-11-16T04:20:39+00:00",
+      "category": "India",
+      "simple_explanation": "Tata Motors Passenger Vehicles shares fell more than 8% after the company reported a September-quarter consolidated loss of  ₹5,531 crore, despite revenue rising 34% year-on-year. Exceptional costs to"
+    },
+    {
+      "title": "Did Binance Make Bitcoin’s Crash Worse? OKX CEO Revives Feud With CZ Over October Selloffs",
+      "description": "OKX CEO said that customer and community complaints were shrugged off, keeping the issues unaddressed.",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/binance-cz-okx-star-xu-bitcoin-crash-october-selloff/cNb7akaR9XE?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-15T23:36:46+00:00",
+      "published_at": "2026-11-16T04:13:04+00:00",
+      "category": "Crypto",
+      "simple_explanation": "OKX CEO said that customer and community complaints were shrugged off, keeping the issues unaddressed."
+    },
+    {
+      "title": "Dow Jones Futures: Techs Fall As Jensen Huang Mulls Nvidia Return; Anthropic IPO Looms",
+      "description": "Nvidia earnings are due as Jensen Huang reportedly mulls a return. The Anthropic IPO is ahead.",
+      "url": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures%3A-techs-fall.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T04:08:09+00:00",
       "category": "USA",
       "simple_explanation": "Nvidia earnings are due as Jensen Huang reportedly mulls a return. The Anthropic IPO is ahead."
     },
     {
-      "title": "The 1 Mistake Investors Make When the Market Stalls, and How to Avoid It",
-      "description": "Investors often focus on what’s happening at the moment.",
-      "url": "https://www.fool.com/investing/2026/11/15/the-1-mistake-investors-make-when-the-market-stalls-and-how-to-avoid-it/?.tsrc=rss",
+      "title": "Investors Return to JGBs as Rate Outlook Shifts, SMBC Nikko Says",
+      "description": "Investors both at home and abroad are adding to positions in Japanese government debt as the surge in bond yields shows signs of peaking and concerns over artificial intelligence grow, according to SMBC Nikko Securities Inc.",
+      "url": "https://www.livemint.com/market/investors-return-to-jgbs-as-rate-outlook-shifts-smbc-nikko-says-11794801634286.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+      "source": "LiveMint",
+      "published_at": "2026-11-16T04:00:33+00:00",
+      "category": "India",
+      "simple_explanation": "Investors both at home and abroad are adding to positions in Japanese government debt as the surge in bond yields shows signs of peaking and concerns over artificial intelligence grow, according to SM"
+    },
+    {
+      "title": "Goldman Sachs Predicts ‘Sizeable Surplus’ for Oil Market in 2027",
+      "description": "The oil market faces a “sizeable surplus” next year that’ll drag prices lower even as supply risks remain, Goldman Sachs Group Inc. said.",
+      "url": "https://www.livemint.com/market/goldman-sachs-predicts-sizeable-surplus-for-oil-market-in-2027-11794801634263.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-11-16T04:00:33+00:00",
+      "category": "India",
+      "simple_explanation": "The oil market faces a “sizeable surplus” next year that’ll drag prices lower even as supply risks remain, Goldman Sachs Group Inc. said."
+    },
+    {
+      "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+      "description": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+      "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
       "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T23:25:02+00:00",
+      "source": "CNBC",
+      "published_at": "2026-11-16T03:53:59+00:00",
       "category": "USA",
-      "simple_explanation": "Investors often focus on what’s happening at the moment."
+      "simple_explanation": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say."
     },
     {
-      "title": "Saylor Highlights 4 Rare and Extreme Metrics Bitcoin Has Just Hit to Explain Price",
-      "description": "Saylor spotlights four Bitcoin metrics to frame the price drop, but Binance co-founder CZ says correlation is not causation.",
-      "url": "https://beincrypto.com/saylor-rare-extreme-bitcoin-metrics-price/?.tsrc=rss",
+      "title": "KOSPI Falls Near 3% as Friday's Nvidia Selloff Reaches Seoul",
+      "description": "KOSPI falls 2.5% at midday as foreigners sell 852 billion won, carrying Friday's Nvidia-led Wall Street slide into Seoul.",
+      "url": "https://beincrypto.com/kospi-falls-nvidia-selloff-korean-chip-stocks/?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-15T23:07:38+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Saylor spotlights four Bitcoin metrics to frame the price drop, but Binance co-founder CZ says correlation is not causation."
+      "published_at": "2026-11-16T03:41:20+00:00",
+      "category": "USA",
+      "simple_explanation": "KOSPI falls 2.5% at midday as foreigners sell 852 billion won, carrying Friday's Nvidia-led Wall Street slide into Seoul."
     },
     {
-      "title": "US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest",
-      "description": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate NVIDIA boss Jensen Huang.",
+      "title": "The AI Trade Is Going To Change: Morgan Stanley Reportedly Says 2027 Will Be Increasingly About Returns For AI Adopters",
+      "description": "Morgan Stanley recommends “max overweight” on global stocks, noting an intact AI capital spending cycle that it sees extending to a resilient economic and earnings growth into next year, as per a Bloomberg report.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/the-ai-trade-is-going-to-change-morgan-stanley-reportedly-says-2027-will-be-increasingly-about-returns-for-ai-adopters/cNb7BlpR9Xd?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T03:37:04+00:00",
+      "category": "USA",
+      "simple_explanation": "Morgan Stanley recommends “max overweight” on global stocks, noting an intact AI capital spending cycle that it sees extending to a resilient economic and earnings growth into next year, as per a Bloo"
+    },
+    {
+      "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+      "description": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-11-16T03:35:09+00:00",
+      "category": "USA",
+      "simple_explanation": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation."
+    },
+    {
+      "title": "Bitcoin Rebounds From $62,000 But 3 Bearish Signals Hang Over the Market",
+      "description": "Bitcoin rebounded from $62,006, but shrinking stablecoin supply and corporate selling weigh on the crypto market.",
+      "url": "https://beincrypto.com/bitcoin-rebound-crypto-market-bearish-signals/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T03:24:23+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin rebounded from $62,006, but shrinking stablecoin supply and corporate selling weigh on the crypto market."
+    },
+    {
+      "title": "Coinbase Global (COIN) Is Upgrading Custody After 35% Of Bitcoin Was Flagged At Risk",
+      "description": "Coinbase Global (NasdaqGS:COIN) is overhauling its custody protocols after new data flagged quantum risks to a large Bitcoin pool. Researchers now estimate that more than 35% of Bitcoin’s total supply could be exposed to future quantum decryption attacks. A sizeable portion of this at-risk Bitcoin i",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-coin-upgrading-custody-031124707.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T03:11:24+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Coinbase Global (NasdaqGS:COIN) is overhauling its custody protocols after new data flagged quantum risks to a large Bitcoin pool. Researchers now estimate that more than 35% of Bitcoin’s total supply"
+    },
+    {
+      "title": "Sell Alert: 5 Stocks Analysts Downgraded on Thursday",
+      "description": "Chip stocks took the hardest hit on November 5, when the Philadelphia Semiconductor Index slumped 12.2%, its biggest one-day drop since April 2025. The S&P 500 slid 4.4% and the Nasdaq Composite dropped 5.5%, which put the tech-heavy index in correction territory. Weak results from a smartphone-chip",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sell-alert-5-stocks-analysts-030437408.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T03:04:37+00:00",
+      "category": "USA",
+      "simple_explanation": "Chip stocks took the hardest hit on November 5, when the Philadelphia Semiconductor Index slumped 12.2%, its biggest one-day drop since April 2025. The S&P 500 slid 4.4% and the Nasdaq Composite dropp"
+    },
+    {
+      "title": "Oil Traders Shrug Off Iranian Drones Over Bahrain as Gulf Barrels Flow Back",
+      "description": "Brent fell to $95 on Monday despite Iranian drone attacks on Bahrain, as IEA data points to an oil supply surplus.",
+      "url": "https://beincrypto.com/oil-prices-fall-iran-bahrain-attacks/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T03:04:21+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Brent fell to $95 on Monday despite Iranian drone attacks on Bahrain, as IEA data points to an oil supply surplus."
+    },
+    {
+      "title": "Bitcoin and the Dollar Meet Their 200-Week Averages From Opposite Sides",
+      "description": "The dollar index closed above its 200-week moving average as Fed rate hike bets lifted yields and pressured Bitcoin.",
+      "url": "https://beincrypto.com/dollar-bitcoin-200-week-moving-average/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T03:00:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The dollar index closed above its 200-week moving average as Fed rate hike bets lifted yields and pressured Bitcoin."
+    },
+    {
+      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+      "description": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+      "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-11-16T02:56:24+00:00",
+      "category": "USA",
+      "simple_explanation": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war."
+    },
+    {
+      "title": "Buy Alert: 5 Stocks Analysts Upgraded on Thursday",
+      "description": "Wall Street’s third-quarter earnings season is nearly over, and the profit numbers are large. With about 88% of S&P 500 companies reported as of November 10, earnings are tracking 31.4% above a year earlier, according to FactSet. That would be the third straight quarter of growth above 25%. On Novem",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-alert-5-stocks-analysts-025136531.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T02:51:36+00:00",
+      "category": "USA",
+      "simple_explanation": "Wall Street’s third-quarter earnings season is nearly over, and the profit numbers are large. With about 88% of S&P 500 companies reported as of November 10, earnings are tracking 31.4% above a year e"
+    },
+    {
+      "title": "Bitcoin Hopes Anthropic’s IPO Plays Out Like SpaceX. One Piece of That Story Is Missing",
+      "description": "Bitcoin’s post-SpaceX IPO rebound came with Treasury buybacks and ETF inflows. ETFs are now selling before the Anthropic IPO.",
+      "url": "https://beincrypto.com/bitcoin-anthropic-ipo-spacex-pattern/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T02:45:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin’s post-SpaceX IPO rebound came with Treasury buybacks and ETF inflows. ETFs are now selling before the Anthropic IPO."
+    },
+    {
+      "title": "Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack",
+      "description": "Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses.",
+      "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JT29BT8ARQ99J5C2455XSJ/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-1.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-11-16T02:33:07+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses."
+    },
+    {
+      "title": "Better Healthcare ETF: Invesco's PJP vs. Simplify's PINK",
+      "description": "Concentrated pharma exposure delivered 31% returns over one year, while active healthcare management achieved 18%.",
+      "url": "https://www.fool.com/coverage/etfs/2026/11/15/better-healthcare-etf-invesco-s-pjp-vs-simplify-s-pink/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T02:32:37+00:00",
+      "category": "USA",
+      "simple_explanation": "Concentrated pharma exposure delivered 31% returns over one year, while active healthcare management achieved 18%."
+    },
+    {
+      "title": "Bitcoin Recovers After $62K Rout: Michael Van De Poppe Sees ‘Mean-Reversion Play,’ But Warns Bottom Isn’t In",
+      "description": "Analyst Michael Van De Poppe was clear that a rebound would not mark the end of the sell-off.",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-btc-price-rebound-70000-target-van-de-poppe/cNb7eFyR9XT?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T02:25:58+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Analyst Michael Van De Poppe was clear that a rebound would not mark the end of the sell-off."
+    },
+    {
+      "title": "Gold falls below $3,900 as December Fed hike bets build, Warsh in focus",
+      "description": "Investing.com -- Gold prices slipped below $3,900 an ounce in early Asian trading on Monday, extending losses after a steep weekly decline as persistent inflation and increasingly hawkish Federal Reserve signals strengthened expectations of further interest-rate increases.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-below-3-900-021343440.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T02:13:43+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Investing.com -- Gold prices slipped below $3,900 an ounce in early Asian trading on Monday, extending losses after a steep weekly decline as persistent inflation and increasingly hawkish Federal Rese"
+    },
+    {
+      "title": "U.S. stock futures little changed as investors await Nvidia earnings",
+      "description": "Investing.com-- U.S. stock futures were steady on Sunday evening as investors looked ahead to Nvidia's quarterly results later this week for fresh clues on the strength of artificial intelligence demand, after Wall Street posted weekly gains despite a sharp decline in the chipmaker's shares.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-little-changed-020537465.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T02:05:37+00:00",
+      "category": "USA",
+      "simple_explanation": "Investing.com-- U.S. stock futures were steady on Sunday evening as investors looked ahead to Nvidia's quarterly results later this week for fresh clues on the strength of artificial intelligence dema"
+    },
+    {
+      "title": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes: SMMT, NBIS, HELP, MSTR In Focus",
+      "description": "Nvidia remains on track to post its third-quarter results under interim CEO Colette Kress on Nov. 17.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-lower-as-markets-brace-for-nvidia-earnings-anthropic-ipo-fed-minutes-smmt-nbis-help-mstr-in-focus/cNb7ePKR9Xb?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T02:04:21+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Nvidia remains on track to post its third-quarter results under interim CEO Colette Kress on Nov. 17."
+    },
+    {
+      "title": "Japan's economy contracts slightly in the latest quarter as oil prices remain high",
+      "description": "TOKYO (AP) — The Japanese economy contracted at an annualized rate of 0.1% for the July-September quarter, weighed down by slowing consumer spending and the rising cost of oil imports.",
+      "url": "https://finance.yahoo.com/economy/articles/japans-economy-contracts-slightly-latest-020258803.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T02:02:58+00:00",
+      "category": "Commodities",
+      "simple_explanation": "TOKYO (AP) — The Japanese economy contracted at an annualized rate of 0.1% for the July-September quarter, weighed down by slowing consumer spending and the rising cost of oil imports."
+    },
+    {
+      "title": "Treasury Secretary Bessent Urges Fed to Look Past Oil as Quarter-Point Hike Odds Reach 92%",
+      "description": "Treasury Secretary Scott Bessent urges the Fed to look past oil as markets price a 92% chance of a quarter-point hike.",
+      "url": "https://beincrypto.com/bessent-urges-fed-quarter-point-hike/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T01:58:42+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Treasury Secretary Scott Bessent urges the Fed to look past oil as markets price a 92% chance of a quarter-point hike."
+    },
+    {
+      "title": "Oil prices dip as markets look to recovering supplies, M.East tensions",
+      "description": "Investing.com-- Oil prices fell further in Asian trade on Monday amid growing bets on improving global supplies despite continued hostilities in the Middle East.",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-dip-markets-look-001533575.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-16T00:15:33+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Investing.com-- Oil prices fell further in Asian trade on Monday amid growing bets on improving global supplies despite continued hostilities in the Middle East."
+    },
+    {
+      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+      "description": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support.",
+      "url": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GS2G61SYB3FQX1TYFRT8TR/nvidia-knock.jpg",
+      "source": "CoinTelegraph",
+      "published_at": "2026-11-15T23:47:45+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support."
+    },
+    {
+      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+      "description": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
       "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GHDR0B3KQVHBYYPZ3528NV/jensen-in-flames.png",
       "source": "CoinTelegraph",
       "published_at": "2026-11-15T22:50:59+00:00",
       "category": "Crypto",
-      "simple_explanation": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate NVIDIA boss Jensen Huang."
+      "simple_explanation": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang."
     },
     {
       "title": "UBS sees Brent hitting $110 as tight supply buffers leave oil vulnerable",
@@ -53,56 +343,6 @@
       "simple_explanation": "Investing.com -- UBS’s Chief Investment Office expects Brent crude prices to reach $110 a barrel by year-end, saying limited supply buffers leave the market vulnerable despite recent price swings."
     },
     {
-      "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
-      "description": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-      "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-15T22:33:26+00:00",
-      "category": "USA",
-      "simple_explanation": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours."
-    },
-    {
-      "title": "Veteran trader warns Bitcoin's record may outlive him",
-      "description": "Peter Brandt says a possible bearish chart pattern could put another record high beyond his lifetime.",
-      "url": "https://www.thestreet.com/crypto/markets/veteran-trader-warns-bitcoins-record-may-outlive-him?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T22:31:15+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Peter Brandt says a possible bearish chart pattern could put another record high beyond his lifetime."
-    },
-    {
-      "title": "Retail Crowd Dump Vietnam Stocks for Near 10% Bank-Deposit Rates",
-      "description": "Vietnam’s retail investors are dumping equities and buying high-yielding notes from banks to capture interest rates nearing 10%, as locals and foreigners fall out of favor with the poor-performing stock market.",
-      "url": "https://www.livemint.com/market/retail-crowd-dump-vietnam-stocks-for-near-10-bank-deposit-rates-11794781837585.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-11-15T22:30:37+00:00",
-      "category": "India",
-      "simple_explanation": "Vietnam’s retail investors are dumping equities and buying high-yielding notes from banks to capture interest rates nearing 10%, as locals and foreigners fall out of favor with the poor-performing sto"
-    },
-    {
-      "title": "Emerging-Market Assets Dip as Chip Rout, Fed Rate Worries Linger",
-      "description": "Emerging-market assets fell on Friday as a rout in chipmakers weighed on equities and lingering concerns over the Federal Reserve’s rate path kept currencies under pressure.",
-      "url": "https://www.livemint.com/market/emergingmarket-assets-dip-as-chip-rout-fed-rate-worries-linger-11794781837535.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-      "source": "LiveMint",
-      "published_at": "2026-11-15T22:30:37+00:00",
-      "category": "India",
-      "simple_explanation": "Emerging-market assets fell on Friday as a rout in chipmakers weighed on equities and lingering concerns over the Federal Reserve’s rate path kept currencies under pressure."
-    },
-    {
-      "title": "How Much Bitcoin Do You Need to Be a Millionaire by 2030?",
-      "description": "Bitcoin sits nearly half off its peak, yet Wall Street's boldest forecasters still see seven figures per coin by 2030. Before you chase their math, check which stack size survives a stubborn bear market and a stalled ETF flow.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/15/how-much-bitcoin-do-you-need-to-be-a-millionaire-by-2030/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T22:23:10+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin sits nearly half off its peak, yet Wall Street's boldest forecasters still see seven figures per coin by 2030. Before you chase their math, check which stack size survives a stubborn bear mark"
-    },
-    {
       "title": "How the US Handed This Entire Industry to China",
       "description": "Rare Earth Elements are often called 21st-century gold. They power everything – from EVs and smartphones to F-35 jets and nuclear submarines – and a mine in Mountain Pass, California, once produced 60% of the world's rare earths, making the US the undisputed leader in rare earth production. But some",
       "url": "https://thehustle.videonest.co/videos/1786802/how-the-us-handed-this-entire-industry-to-china-3vEJirEY_s?.tsrc=rss",
@@ -111,36 +351,6 @@
       "published_at": "2026-11-15T21:32:56+00:00",
       "category": "Commodities",
       "simple_explanation": "Rare Earth Elements are often called 21st-century gold. They power everything – from EVs and smartphones to F-35 jets and nuclear submarines – and a mine in Mountain Pass, California, once produced 60"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang Resigns as Stock Tanks. Here Are the Next Steps for Investors.",
-      "description": "In a largely unprecedented development for one of the worldʻs largest companies, hereʻs what investors should do.",
-      "url": "https://www.fool.com/investing/2026/11/15/nvidia-ceo-jensen-huang-resigns-as-stock-tanks-here-are-the-next-steps-for-investors/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T21:20:02+00:00",
-      "category": "USA",
-      "simple_explanation": "In a largely unprecedented development for one of the worldʻs largest companies, hereʻs what investors should do."
-    },
-    {
-      "title": "XRP vs Stellar (XLM): Which Could Double First in 2027?",
-      "description": "Both coins just hit one-year lows, and both need a punishing climb to double. One has a key institutional launch looming in 2027, while the other leans on ETF money that has gone quiet. Which bet pays off first?",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/15/xrp-vs-stellar-xlm-which-could-double-first-in-2027/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T20:19:36+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Both coins just hit one-year lows, and both need a punishing climb to double. One has a key institutional launch looming in 2027, while the other leans on ETF money that has gone quiet. Which bet pays"
-    },
-    {
-      "title": "3 Magnificent Stocks to Buy Before 2027 and Hold for a Decade",
-      "description": "These stocks are all down, but they have incredible long-term potential.",
-      "url": "https://www.fool.com/investing/2026/11/15/3-magnificent-stocks-to-buy-before-2027-and-hold-for-a-decade/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T20:05:02+00:00",
-      "category": "USA",
-      "simple_explanation": "These stocks are all down, but they have incredible long-term potential."
     },
     {
       "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
@@ -153,76 +363,6 @@
       "simple_explanation": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker."
     },
     {
-      "title": "Will XRP Recover in 2027?",
-      "description": "XRP has lost nearly half its value and a huge chunk of its market cap, and its last comeback took years. Bitcoin, interest rates, ETF money, and a stalled bill in Washington all hold a piece of what happens next.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/15/will-xrp-recover-in-2027/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T19:41:54+00:00",
-      "category": "Crypto",
-      "simple_explanation": "XRP has lost nearly half its value and a huge chunk of its market cap, and its last comeback took years. Bitcoin, interest rates, ETF money, and a stalled bill in Washington all hold a piece of what h"
-    },
-    {
-      "title": "Prediction: When Will Bitcoin Get Back to Its All-Time High?",
-      "description": "Bitcoin sits nearly half below its October peak, sellers keep pressing, and ETF money keeps flowing out. Three past crashes offer very different recovery clocks, and only one of them matches today's Fed pressure.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/15/prediction-when-will-bitcoin-get-back-to-its-all-time-high/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T19:33:18+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin sits nearly half below its October peak, sellers keep pressing, and ETF money keeps flowing out. Three past crashes offer very different recovery clocks, and only one of them matches today's F"
-    },
-    {
-      "title": "Investors: If a Market Correction Is Coming, This 1 Move Will Make or Break Your Portfolio",
-      "description": "When investing in individual stocks, one thing matters above all else if you want to minimize the pain of drawdowns.",
-      "url": "https://www.fool.com/investing/2026/11/15/investors-if-a-market-correction-is-coming-this-1-move-will-make-or-break-your-portfolio/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T19:05:02+00:00",
-      "category": "USA",
-      "simple_explanation": "When investing in individual stocks, one thing matters above all else if you want to minimize the pain of drawdowns."
-    },
-    {
-      "title": "Which Healthcare ETF Is the Better Buy: State Street’s Pharma Fund XPH or iShares’ Biotech Fund IBB?",
-      "description": "XPH charges less and pays a higher yield, but IBB manages over 20 times the assets across a far broader set of research-driven biotech names.",
-      "url": "https://www.fool.com/coverage/etfs/2026/11/15/which-healthcare-etf-is-the-better-buy-state-street-s-pharma-fund-xph-or-ishares-biotech-fund-ibb/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T18:39:54+00:00",
-      "category": "USA",
-      "simple_explanation": "XPH charges less and pays a higher yield, but IBB manages over 20 times the assets across a far broader set of research-driven biotech names."
-    },
-    {
-      "title": "Wall Street Week Ahead: Nvidia earnings, Anthropic IPO, Federal Reserve minutes, retail sales - Top things to watch",
-      "description": "Nvidia's earnings announcement on Tuesday will be among the biggest events of the week, as investors look for indications that demand for AI infrastructure remains strong amid concerns over the sustainability of massive investments in the sector",
-      "url": "https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-nvidia-earnings-anthropic-ipo-federal-reserve-minutes-retail-sales-top-things-to-watch-11794763105921.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/wallstnyse_1794763539668_Umek_1794763581566_nQJf_291441e5-be74-4484-811a-d9d935b13cb6_5d9g.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-11-15T18:32:58+00:00",
-      "category": "India",
-      "simple_explanation": "Nvidia's earnings announcement on Tuesday will be among the biggest events of the week, as investors look for indications that demand for AI infrastructure remains strong amid concerns over the sustai"
-    },
-    {
-      "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
-      "description": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
-      "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-15T18:10:18+00:00",
-      "category": "USA",
-      "simple_explanation": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter."
-    },
-    {
-      "title": "Why Cashing Out Your 401(k) at 55 Costs You $170K in Lost Growth",
-      "description": "See why you're losing more than you think if you cash out early.",
-      "url": "https://moneylion.com/trending/money/cashing-out-401k-55-costs-170k-dollars-lost-growth?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T17:00:43+00:00",
-      "category": "USA",
-      "simple_explanation": "See why you're losing more than you think if you cash out early."
-    },
-    {
       "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
       "description": "Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding.",
       "url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
@@ -231,46 +371,6 @@
       "published_at": "2026-11-15T16:56:40+00:00",
       "category": "USA",
       "simple_explanation": "Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding."
-    },
-    {
-      "title": "Stocks Have Risen a Year After Every Midterm Since 1950. Here’s What That Does and Doesn’t Tell You.",
-      "description": "History is encouraging, but it isn’t a guarantee.",
-      "url": "https://www.fool.com/investing/2026/11/15/stocks-have-risen-year-after-every-midterm-since-1950-what-that-does-doesnt-tell-you/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T16:32:02+00:00",
-      "category": "USA",
-      "simple_explanation": "History is encouraging, but it isn’t a guarantee."
-    },
-    {
-      "title": "Watrana Rentals IPO GMP profit calculator on latest GMP: How much profit can retail and HNI investors expect?",
-      "description": "Watrana Rentals’  ₹120.10 crore SME IPO will open on November 19 and close on November 23. The fresh issue comprises 49.02 lakh shares, with a price band of  ₹232–245 and a lot size of 600 shares. The IPO is expected to list on NSE SME on November 27.",
-      "url": "https://www.livemint.com/market/ipo/watrana-rentals-ipo-gmp-one-lot-profit-calculator-on-latest-gmp-how-much-profit-can-retail-and-hni-investors-expect-11794759981622.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/watrana_rentals_1794760128134_8jTg_1794760128298_ngM6_e13ad4b1-961e-4b7f-91f4-c674fb1393c9_506v.png",
-      "source": "LiveMint",
-      "published_at": "2026-11-15T16:30:45+00:00",
-      "category": "India",
-      "simple_explanation": "Watrana Rentals’  ₹120.10 crore SME IPO will open on November 19 and close on November 23. The fresh issue comprises 49.02 lakh shares, with a price band of  ₹232–245 and a lot size of 600 shares. The"
-    },
-    {
-      "title": "Multibagger small cap stock delivers 91% return in 1 year! IDBI Capital sees 17% upside - Do you own? Check target price",
-      "description": "Rolex Rings shares have gained 91% over the past year. IDBI Capital maintained a Buy rating and set a target price of  ₹241, citing the company’s growth prospects from the Make in India ecosystem, rising capacity utilisation and strong quarterly results.",
-      "url": "https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-delivers-91-return-in-1-year-idbi-capital-sees-17-upside-do-you-own-check-target-price-11794757193256.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Rolex_Rings_Share_Price_Outlook_1794758091652_8Jqt_1794758099704_5mH9_67c2aade-c48e-4de3-9b09-dcf648464317_8Qyi.png",
-      "source": "LiveMint",
-      "published_at": "2026-11-15T15:55:50+00:00",
-      "category": "India",
-      "simple_explanation": "Rolex Rings shares have gained 91% over the past year. IDBI Capital maintained a Buy rating and set a target price of  ₹241, citing the company’s growth prospects from the Make in India ecosystem, ris"
-    },
-    {
-      "title": "144% return in 6 months: Multibagger to turn 1 stock into 18 after split, bonus- Do you own it? Check ratio, return",
-      "description": "SC Agrotech shares have surged, gaining 144% in six months and 266% in a year. The company has proposed a 1:10 stock split and a 4:5 bonus issue, which would turn each existing share into 18 shares. The record date for both actions is yet to be announced.",
-      "url": "https://www.livemint.com/market/stock-market-news/144-return-in-6-months-multibagger-to-turn-1-stock-into-18-after-split-bonus-do-you-own-it-check-ratio-return-11794754361817.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/Multibagger_Share_Growth_Infographic_1794756624497_eEs4_1794756634270_zOIB_bd0cb890-9885-411c-bd8c-cc6ceabb214f_tGQX.png",
-      "source": "LiveMint",
-      "published_at": "2026-11-15T15:31:26+00:00",
-      "category": "India",
-      "simple_explanation": "SC Agrotech shares have surged, gaining 144% in six months and 266% in a year. The company has proposed a 1:10 stock split and a 4:5 bonus issue, which would turn each existing share into 18 shares. T"
     },
     {
       "title": "Enterprise blockchain is going to come back from the dead",
@@ -301,106 +401,6 @@
       "published_at": "2026-11-15T13:45:25+00:00",
       "category": "Commodities",
       "simple_explanation": "Experts commonly recommend 5% to 10% in precious metals, but your ideal gold allocation depends on your goals, timeline and risk tolerance."
-    },
-    {
-      "title": "I'm 55 and terrified the market will crash before I retire. Should I pull all my money out now?",
-      "description": "Pulling your money out creates a different set of risks, but there are ways to be smart about planning for a potential market crash.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/im-55-terrified-market-crash-133000192.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T13:30:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Pulling your money out creates a different set of risks, but there are ways to be smart about planning for a potential market crash."
-    },
-    {
-      "title": "DOJ issues warning to ‘every American with a retirement account’ after $52M freeze: Your nest egg is at risk. Act now",
-      "description": "US seniors are a top target.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/doj-issues-warning-every-american-121500278.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T12:15:00+00:00",
-      "category": "Commodities",
-      "simple_explanation": "US seniors are a top target."
-    },
-    {
-      "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-      "description": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
-      "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-15T12:00:01+00:00",
-      "category": "USA",
-      "simple_explanation": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum."
-    },
-    {
-      "title": "The Stock Market Is Doing Something for Only the 6th Time in 156 Years, and History Says It's Clear What Comes Next for Stocks",
-      "description": "Be wary when things seem too good to be true on Wall Street.",
-      "url": "https://www.fool.com/investing/2026/11/15/stock-market-doing-something-only-6th-time-in-156-years-history-says-clear-what-next-for-stocks/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T11:56:02+00:00",
-      "category": "USA",
-      "simple_explanation": "Be wary when things seem too good to be true on Wall Street."
-    },
-    {
-      "title": "Fed's Goolsbee Warns Stubborn Inflation Could Force More Aggressive Rate Hikes — 'We're Not On Path Back To 2%'",
-      "description": "During an interview with CNBC, Goolsbee said inflation is proving more persistent than policymakers had anticipated, raising concerns about the Fed's ability to bring it back to its 2% target.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/fed-goolsbee-warns-stubborn-inflation-more-aggressive-rate-hikes/cNbEh7KR9Qw?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T11:37:33+00:00",
-      "category": "Commodities",
-      "simple_explanation": "During an interview with CNBC, Goolsbee said inflation is proving more persistent than policymakers had anticipated, raising concerns about the Fed's ability to bring it back to its 2% target."
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-11-15T11:18:48+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "title": "Diesel Prices Just Dropped Below A Key Threshold. Easing Geopolitical Tensions Are Partly Responsible.",
-      "description": "The U.S. average diesel price fell below $6 a gallon in mid-November; lower oil prices, seasonal factors and policy measures have contributed to easing fuel costs.",
-      "url": "https://www.ibtimes.com/us-diesel-prices-fall-below-six-dollars-3809774?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T10:39:23+00:00",
-      "category": "Commodities",
-      "simple_explanation": "The U.S. average diesel price fell below $6 a gallon in mid-November; lower oil prices, seasonal factors and policy measures have contributed to easing fuel costs."
-    },
-    {
-      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
-      "description": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
-      "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7FBMZXNH6CNG3W9M8RNBHCN/hi-meet-the-trader-who-lost-bitcoin-bear-market.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-11-15T10:23:17+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
-    },
-    {
-      "title": "President Donald Trump Claims, \"Tariffs Don't Cause Inflation, They Cause Wealth\" -- but Economic Data Says Otherwise",
-      "description": "Statistically, the downsides of Trump’s tariffs far outweigh their benefits.",
-      "url": "https://www.fool.com/investing/2026/11/15/donald-trump-claims-tariffs-dont-cause-inflation-they-cause-wealth-economic-data-says-otherwise/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T09:26:02+00:00",
-      "category": "USA",
-      "simple_explanation": "Statistically, the downsides of Trump’s tariffs far outweigh their benefits."
-    },
-    {
-      "title": "The shock absorber: Why volatility reinforces the case for hard assets",
-      "description": "Investing.com -- Rising geopolitical tensions, inflation concerns, and uncertainty over U.S. interest rates are strengthening the investment case for commodities, according to UBS, which sees opportunities across oil, gold, and copper.",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/shock-absorber-why-volatility-reinforces-083958034.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-15T08:39:58+00:00",
-      "category": "Commodities",
-      "simple_explanation": "Investing.com -- Rising geopolitical tensions, inflation concerns, and uncertainty over U.S. interest rates are strengthening the investment case for commodities, according to UBS, which sees opportun"
     }
   ]
 }
