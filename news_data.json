@@ -1,366 +1,106 @@
 {
-  "last_updated": "2026-11-25T03:29:07.189491+00:00",
+  "last_updated": "2026-11-25T13:56:35.039915+00:00",
   "total": 40,
   "articles": [
     {
-      "title": "Dow Jones Futures Fall; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake",
-      "description": "Futures fell after AI stocks tumbled but medicals, retailers and more rose. President Trump mused about an Nvidia stake. Fed inflation data looms.",
-      "url": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%3B-trump.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-25T03:17:19+00:00",
-      "category": "USA",
-      "simple_explanation": "Futures fell after AI stocks tumbled but medicals, retailers and more rose. President Trump mused about an Nvidia stake. Fed inflation data looms."
-    },
-    {
-      "title": "Mahanadi Coalfields IPO allotment to be out today; How to check status on KFin Tech, BSE, NSE | Step-by-step guide",
-      "description": "Mahanadi Coalfields IPO allotment will be out on 25 November. Applicants can check their status through Kfin Technologies, BSE or NSE using their PAN, demat account or application number. Refunds and demat credits are scheduled for 26 November, ahead of the planned 27 November listing.",
-      "url": "https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-allotment-to-be-out-today-how-to-check-status-on-kfin-tech-bse-nse-step-by-step-guide-11795571152208.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/logo/Mahanadi_Coalfields_IPO_Allotment_Today_1795575403_1795575414508_NN5u_1795575414722_I8tH_72cff11d-bc3b-4be2-a3d0-26582967cb52_IMO2.png",
-      "source": "LiveMint",
-      "published_at": "2026-11-25T03:00:23+00:00",
-      "category": "India",
-      "simple_explanation": "Mahanadi Coalfields IPO allotment will be out on 25 November. Applicants can check their status through Kfin Technologies, BSE or NSE using their PAN, demat account or application number. Refunds and "
-    },
-    {
-      "title": "Gold Silver Rates Live Updates: Gold falls over 2% as rate hike bets rise; silver edges lower",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-25th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136146334.cms",
-      "image": "https://img.etimg.com/photo/msid-136146334,imgsize-1570434.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-25T02:49:04+00:00",
-      "category": "India",
-      "simple_explanation": ""
-    },
-    {
-      "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-      "description": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
-      "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
+      "description": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
+      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-11-25T02:43:33+00:00",
+      "published_at": "2026-11-25T13:47:28+00:00",
       "category": "USA",
-      "simple_explanation": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial."
+      "simple_explanation": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus."
     },
     {
-      "title": "India pension funds pivot to bonds as equity exposure nears cap",
-      "description": "As India’s largest pension funds edge closer to the equity caps, a strategic pivot towards government bonds has been observed. UTI Pension Fund is channeling 50% of its new investments into government bonds, a marked increase from last year, while SBI Pension Funds aims to cut stock allocations to j",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-pension-funds-pivot-to-bonds-as-equity-exposure-nears-cap/articleshow/136146220.cms",
-      "image": "https://img.etimg.com/photo/msid-136146220,imgsize-82158.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-25T02:42:38+00:00",
-      "category": "India",
-      "simple_explanation": "As India’s largest pension funds edge closer to the equity caps, a strategic pivot towards government bonds has been observed. UTI Pension Fund is channeling 50% of its new investments into government"
+      "title": "PCE Inflation Overshoots As Fed Fears Worsen AI-Stock Volatility (Live Coverage)",
+      "description": "Investors still expect a couple of near-term rate hikes, despite the market sell-off.",
+      "url": "https://finance.yahoo.com/m/b30124ad-742e-3a7a-9720-272c18c9df53/pce-inflation-overshoots-as.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T13:46:26+00:00",
+      "category": "USA",
+      "simple_explanation": "Investors still expect a couple of near-term rate hikes, despite the market sell-off."
     },
     {
-      "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-      "description": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
-      "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
+      "title": "Stocks or Gold? GDE Refuses to Choose: Every $100 Buys $90 of Each",
+      "description": "One WisdomTree fund provides exposure to stocks and gold, using futures leverage to stretch each dollar. Then stocks and gold fell together, and the fund showed what that borrowed strength can cost.",
+      "url": "https://247wallst.com/investing/etf/2026/11/25/stocks-or-gold-gde-refuses-to-choose-every-100-buys-90-of-each/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T13:42:51+00:00",
+      "category": "Commodities",
+      "simple_explanation": "One WisdomTree fund provides exposure to stocks and gold, using futures leverage to stretch each dollar. Then stocks and gold fell together, and the fund showed what that borrowed strength can cost."
+    },
+    {
+      "title": "Stock Market Today: Dow Dives On Surprise Inflation Data; Nvidia, Anthropic Plunge (Live Coverage)",
+      "description": "The Dow Jones index dives 675 points Wednesday on surprise inflation data. Nvidia and Anthropic plunge.",
+      "url": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow-dives.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T13:38:27+00:00",
+      "category": "Crypto",
+      "simple_explanation": "The Dow Jones index dives 675 points Wednesday on surprise inflation data. Nvidia and Anthropic plunge."
+    },
+    {
+      "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+      "description": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory, or burdensome to U.S. commerce.",
+      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
       "image": "",
       "source": "CNBC",
-      "published_at": "2026-11-25T02:36:43+00:00",
+      "published_at": "2026-11-25T13:37:35+00:00",
       "category": "USA",
-      "simple_explanation": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties."
+      "simple_explanation": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory, or burdensome to U.S. commerce."
     },
     {
-      "title": "NLC India Renewables IPO: Big growth pipeline, but key risks remain",
-      "description": "Backed by a Navratna PSU, the company has a 16,204-MW renewable energy pipeline, but high customer concentration and regional dependence pose risks.",
-      "url": "https://www.livemint.com/market/ipo/nlc-india-renewables-ipo-big-growth-pipeline-but-key-risks-remain-11795516359857.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/g7f2588e296e7c03e40d1d1e4823df8efe78599e47e5df3dfab3cc44fafd78a9f181420c3da476aa7948d7e46e44ae40e69331954fe5a531dd9c1800d81481033_1280_1727151393041_1795517913817_IzRm_20a38b04-aa8a-44e0-99b8-9e67caf8567a_whGH.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-11-25T02:30:32+00:00",
-      "category": "India",
-      "simple_explanation": "Backed by a Navratna PSU, the company has a 16,204-MW renewable energy pipeline, but high customer concentration and regional dependence pose risks."
-    },
-    {
-      "title": "Indian shares may open higher as foreign inflows, lower oil prices aid sentiment",
-      "description": "GIFT Nifty futures were at 25,738 points, as of 7:43 a.m. IST (0213 GMT), indicating a positive start for the benchmark Nifty 50 index, which closed at 25,349.65 on Monday.",
-      "url": "https://www.livemint.com/market/stock-market-news/indian-shares-may-open-higher-as-foreign-inflows-lower-oil-prices-aid-sentiment-11795573521883.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/logo/INDIA-FUNDS-ABSL-AMC-0_1742379066038_1795573574954_uEAl_7c36e4cd-2d9f-4ca4-9952-bc3742d891d9_7OUg.JPG",
-      "source": "LiveMint",
-      "published_at": "2026-11-25T02:28:14+00:00",
-      "category": "India",
-      "simple_explanation": "GIFT Nifty futures were at 25,738 points, as of 7:43 a.m. IST (0213 GMT), indicating a positive start for the benchmark Nifty 50 index, which closed at 25,349.65 on Monday."
-    },
-    {
-      "title": "Top stocks to watch today: Tata Steel, Lenskart, Adani Enterprises, PhysicsWallah, Hindalco, ABB, and 9 others in focus",
-      "description": "Sensex and Nifty 50 are expected to open higher on Wednesday, supported by GIFT Nifty, despite weakness in Asian and US markets. After the Sensex’s steepest one-day fall in over four months, investors will track 15 stocks, including ABB India, Adani Enterprises, Tata Steel and Lenskart Solutions.",
-      "url": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-steel-lenskart-adani-enterprises-physicswallah-hindalco-abb-and-9-others-in-focus-11795571323811.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/logo/Top_Stocks_to_Watch_Today_wednesday_1795572725963_cGGm_1795572798247_GmzX_f48a40a6-e48c-4e9b-9144-e86765d8f155_Vc3h.png",
-      "source": "LiveMint",
-      "published_at": "2026-11-25T02:17:04+00:00",
-      "category": "India",
-      "simple_explanation": "Sensex and Nifty 50 are expected to open higher on Wednesday, supported by GIFT Nifty, despite weakness in Asian and US markets. After the Sensex’s steepest one-day fall in over four months, investors"
-    },
-    {
-      "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
-      "description": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
-      "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+      "title": "SharkNinja Set to Join the S&P 500 Index",
+      "description": "NEEDHAM, Mass., November 25, 2026--SharkNinja, Inc. (NYSE: SN), a global product design and consumer technology company, is set to join the S&P 500® Index, effective prior to the opening of trading on Wednesday, December 2, 2026. The milestone reflects SharkNinja’s sustained growth as a public compa",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sharkninja-set-join-p-500-133000127.html?.tsrc=rss",
       "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-25T02:09:45+00:00",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T13:30:00+00:00",
       "category": "USA",
-      "simple_explanation": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress."
+      "simple_explanation": "NEEDHAM, Mass., November 25, 2026--SharkNinja, Inc. (NYSE: SN), a global product design and consumer technology company, is set to join the S&P 500® Index, effective prior to the opening of trading on"
     },
     {
-      "title": "Strategy (MSTR) Stock Trades At A Discount To Book Value",
-      "description": "Strategy Inc has seen its ordinary shares fall sharply over the past year, while the business has been active in capital moves tied to its large Bitcoin holdings and preferred stock. With the stock now well below where it traded 12 months ago, investors are asking whether the current price still lin",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-stock-trades-discount-020908385.html?.tsrc=rss",
+      "title": "Phenom Intersects 3.6 g/t Au (0.12 opt) over 15.2 Metres (50 ft), Including 18.2 g/t Au (0.59 opt) over 1.2 Metres (4 ft), in First Drill Results at the Dobbin Gold Project, Nevada",
+      "description": "Highlights:Hole DDH26-02 returned 3.59 g/t Au (0.12 opt) over 15.24 metres (50 feet), including 18.20 g/t Au (0.59 opt) over 1.22 metres (4 feet), beginning 12.2 metres (40 feet) below surface in an oxidized shear zone.Intercepts in DDH26-01 and DDH26-02 and nearby surface trench results appear to l",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/phenom-intersects-3-6-g-133000109.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-25T02:09:08+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Strategy Inc has seen its ordinary shares fall sharply over the past year, while the business has been active in capital moves tied to its large Bitcoin holdings and preferred stock. With the stock no"
+      "published_at": "2026-11-25T13:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Highlights:Hole DDH26-02 returned 3.59 g/t Au (0.12 opt) over 15.24 metres (50 feet), including 18.20 g/t Au (0.59 opt) over 1.22 metres (4 feet), beginning 12.2 metres (40 feet) below surface in an o"
     },
     {
-      "title": "Ethereum treasury firm sells $43 million in Ether to repay debt",
-      "description": "BTCS stock almost crashed as the firm sold 27,300 ETH after a brutal market sell-off.",
-      "url": "https://www.thestreet.com/crypto/markets/ethereum-treasury-firm-sells-43-million-in-ether-to-repay-debt?.tsrc=rss",
+      "title": "My husband secretly racked up $40K in credit card debt. Can I protect my retirement savings if I leave him?",
+      "description": "A divorce won't necessarily eliminate the debt obligations, but it may be worth considering due to the betrayal.",
+      "url": "https://finance.yahoo.com/markets/articles/husband-secretly-racked-40k-credit-133000274.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-25T02:00:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "BTCS stock almost crashed as the firm sold 27,300 ETH after a brutal market sell-off."
+      "published_at": "2026-11-25T13:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "A divorce won't necessarily eliminate the debt obligations, but it may be worth considering due to the betrayal."
     },
     {
-      "title": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
-      "description": "The US dollar remained steady as traders awaited important inflation and growth data prior to December. Economists expect the Federal Reserve to increase interest rates, which is currently predicted at 97%. In Japan, service-sector prices surged to a 36-year high, while the Australian dollar rose af",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-takes-breather-ahead-of-us-data-on-fed-path-aussie-jumps-on-cpi/articleshow/136145689.cms",
-      "image": "https://img.etimg.com/photo/msid-136145689,imgsize-222076.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-25T01:58:10+00:00",
-      "category": "India",
-      "simple_explanation": "The US dollar remained steady as traders awaited important inflation and growth data prior to December. Economists expect the Federal Reserve to increase interest rates, which is currently predicted a"
-    },
-    {
-      "title": "SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names",
-      "description": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
-      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+      "title": "Lion One Drills 2.0 m of 44.39 g/t Gold in Zone 500",
+      "description": "NORTH VANCOUVER, British Columbia, Nov. 25, 2026 (GLOBE NEWSWIRE) -- Lion One Metals Limited (TSXV: LIO) (OTCQX: LOMLF) (\"Lion One\" or the \"Company\") is pleased to report significant new high-grade gold results from the Company’s first underground drill hole targeting Zone 500 at the Company’s 100% ",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/lion-one-drills-2-0-133000773.html?.tsrc=rss",
       "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-25T01:57:29+00:00",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T13:30:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "NORTH VANCOUVER, British Columbia, Nov. 25, 2026 (GLOBE NEWSWIRE) -- Lion One Metals Limited (TSXV: LIO) (OTCQX: LOMLF) (\"Lion One\" or the \"Company\") is pleased to report significant new high-grade go"
+    },
+    {
+      "title": "Nasdaq Futures Tumble as AI Selloff Returns",
+      "description": "Nasdaq futures fell sharply as headwinds facing the AI trade returned to the forefront of investors’ focus after Monday’s Jensen Huang-powered market recovery faded.",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T13:28:00+00:00",
       "category": "USA",
-      "simple_explanation": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors."
-    },
-    {
-      "title": "Gold ticks lower ahead of US inflation data",
-      "description": "Gold prices dipped slightly following a notable drop, primarily influenced by the Federal Reserve's aggressive stance on interest rates. Investors are on high alert as US inflation data is set to be released later today. Meanwhile, consumer confidence has surged to its highest point in nearly two ye",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-ticks-lower-ahead-of-us-inflation-data/articleshow/136145643.cms",
-      "image": "https://img.etimg.com/photo/msid-136145643,imgsize-111368.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-25T01:56:22+00:00",
-      "category": "India",
-      "simple_explanation": "Gold prices dipped slightly following a notable drop, primarily influenced by the Federal Reserve's aggressive stance on interest rates. Investors are on high alert as US inflation data is set to be r"
-    },
-    {
-      "title": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
-      "description": "Investing.com-- U.S. stock futures inched lower on Tuesday evening after the S&P 500 and Nasdaq Composite slipped during the regular session on tech losses, while investors awaited key inflation data for clues on the Federal Reserve's interest-rate outlook.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-p-014227385.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-25T01:42:27+00:00",
-      "category": "USA",
-      "simple_explanation": "Investing.com-- U.S. stock futures inched lower on Tuesday evening after the S&P 500 and Nasdaq Composite slipped during the regular session on tech losses, while investors awaited key inflation data "
-    },
-    {
-      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade lower",
-      "description": "",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026/liveblog/136145716.cms",
-      "image": "https://img.etimg.com/photo/msid-136145716,imgsize-188291.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-25T01:41:52+00:00",
-      "category": "India",
-      "simple_explanation": ""
-    },
-    {
-      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-      "description": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter.",
-      "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M885KKJ586HHXXT0SHDZ35QT/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark-2.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-11-25T01:40:59+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter."
-    },
-    {
-      "title": "Market timers get schooled as S&P 500 swings rip up playbooks",
-      "description": "Investors face turmoil when navigating the stock market's unpredictable waves, especially after dramatic declines like last week's Nasdaq drop. Rapid recoveries can follow, but those who miss critical upward shifts often see their returns suffer. With growing market volatility, holding on to investm",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-timers-get-schooled-with-swings/articleshow/136145370.cms",
-      "image": "https://img.etimg.com/photo/msid-136145370,imgsize-138634.cms",
-      "source": "Economic Times",
-      "published_at": "2026-11-25T01:33:27+00:00",
-      "category": "India",
-      "simple_explanation": "Investors face turmoil when navigating the stock market's unpredictable waves, especially after dramatic declines like last week's Nasdaq drop. Rapid recoveries can follow, but those who miss critical"
-    },
-    {
-      "title": "Goldman Sachs, SocGen buy Rs 920 crore stake in Lenskart",
-      "description": "Goldman Sachs and Societe Generale have jointly invested ₹920 crore to purchase a 1% stake in Lenskart Solutions, acquiring 65.21 lakh and 61.76 lakh shares priced at ₹725 each. Steadview Capital Management facilitated this by selling an equivalent number of shares, resulting in their stake decreasi",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-socgen-buy-rs-920-crore-stake-in-lenskart/articleshow/136145273.cms",
-      "image": "https://img.etimg.com/photo/msid-136145273,imgsize-51710.cms",
-      "source": "ET Markets",
-      "published_at": "2026-11-25T01:26:01+00:00",
-      "category": "India",
-      "simple_explanation": "Goldman Sachs and Societe Generale have jointly invested ₹920 crore to purchase a 1% stake in Lenskart Solutions, acquiring 65.21 lakh and 61.76 lakh shares priced at ₹725 each. Steadview Capital Mana"
-    },
-    {
-      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-      "description": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
-      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-11-25T01:13:56+00:00",
-      "category": "Global",
-      "simple_explanation": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too."
-    },
-    {
-      "title": "Stock market outlook today,25 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues",
-      "description": "Indian equities faced a weak outlook after the Sensex and Nifty suffered their steepest daily declines in months, closing down 1.77% and 1.75%. Profit-booking hit banking, financial and metal stocks, while analysts flagged support near 25,000 for the Nifty &amp; warned of continued corrective pressu",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-25-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795566965791.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/logo/Stock_Market_Outlook_Today_wed_1795568555882_Oclk_1795568560962_VC1V_25d83daa-dbff-4dc1-8c8f-1a8f27b11bef_rcAU.png",
-      "source": "LiveMint",
-      "published_at": "2026-11-25T01:10:55+00:00",
-      "category": "India",
-      "simple_explanation": "Indian equities faced a weak outlook after the Sensex and Nifty suffered their steepest daily declines in months, closing down 1.77% and 1.75%. Profit-booking hit banking, financial and metal stocks, "
-    },
-    {
-      "title": "Raja Venkatraman recommends three stocks for 25 November",
-      "description": "Market expert Raja Venkatraman shares his top stock picks for 25 November. Here’s his technical outlook and trade strategy.",
-      "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-25-november-11795522828180.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/22/1600x900/logo/RAJA_IMG1_1733139557630_1773677587730_177845889149_1795350843656_Zhdv_1795350843812_6S6S_b865047f-9956-455a-b14e-ccda9663af91_sfCX.jpg",
-      "source": "LiveMint",
-      "published_at": "2026-11-25T00:31:06+00:00",
-      "category": "India",
-      "simple_explanation": "Market expert Raja Venkatraman shares his top stock picks for 25 November. Here’s his technical outlook and trade strategy."
-    },
-    {
-      "title": "What Cleanspark (CLSK) Said on Its Q4 Earnings Call",
-      "description": "Cleanspark (NASDAQ:CLSK) reported a fiscal 2026 net loss of $987 million as lower bitcoin prices and production weighed on revenue, while executives outlined plans to expand the company’s AI data center business. Full-year revenue fell 25% to $577 million from $766 million in fiscal 2025. CleanSpar",
-      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-cleanspark-clsk-said-on-its-q4-earnings-call-2026-11-24/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-25T00:13:34+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Cleanspark (NASDAQ:CLSK) reported a fiscal 2026 net loss of $987 million as lower bitcoin prices and production weighed on revenue, while executives outlined plans to expand the company’s AI data cent"
-    },
-    {
-      "title": "S&P 500, Nasdaq End Lower As AI Jitters Resurface With Nvidia’s Governance Issues And Talks Of Fresh Import Tariffs  — NVDA, DELL, TSLA, TGTX In Focus",
-      "description": "The Trump administration is reportedly preparing to roll out new tariffs targeting China and dozens of trading partners.",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-as-ai-jitters-resurface-with-nvidia-s-governance-issues-and-talks-of-fresh-import-tariffs-nvda-dell-tsla-tgtx-in-focus/cNbuDhyR9lT?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-25T00:12:12+00:00",
-      "category": "USA",
-      "simple_explanation": "The Trump administration is reportedly preparing to roll out new tariffs targeting China and dozens of trading partners."
-    },
-    {
-      "title": "Why Bitcoin's Dominance Over Crypto Could Finally Be Breaking: Helius CEO",
-      "description": "Crypto is evolving well beyond what it once was, says Helius CEO Mert Mumtaz",
-      "url": "https://www.coinage.media/2026/why-bitcoins-dominance-over-crypto-could-finally-be-breaking-helius-ceo?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-24T23:56:00+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Crypto is evolving well beyond what it once was, says Helius CEO Mert Mumtaz"
-    },
-    {
-      "title": "What Would It Take for XRP to Reach $100?",
-      "description": "Social media loves the round number, and XRP's sub-dollar price makes it look within reach. But the math behind a $100 coin tells a different story, one that involves Bitcoin, banks, and a supply that keeps growing.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/24/what-would-it-take-for-xrp-to-reach-100/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-24T23:52:57+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Social media loves the round number, and XRP's sub-dollar price makes it look within reach. But the math behind a $100 coin tells a different story, one that involves Bitcoin, banks, and a supply that"
-    },
-    {
-      "title": "Hackers breach CIA intelligence network in latest US cyberattack",
-      "description": "The reported breach follows cyber incidents involving the FBI, Department of Homeland Security and Department of Agriculture.",
-      "url": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87XQMEWNSBKEFPD9X7V49QK/hacker-stealing-spying.jpg",
-      "source": "CoinTelegraph",
-      "published_at": "2026-11-24T23:48:16+00:00",
-      "category": "Crypto",
-      "simple_explanation": "The reported breach follows cyber incidents involving the FBI, Department of Homeland Security and Department of Agriculture."
-    },
-    {
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "description": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "image": "",
-      "source": "CNBC",
-      "published_at": "2026-11-24T23:13:49+00:00",
-      "category": "USA",
-      "simple_explanation": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing."
-    },
-    {
-      "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-      "description": "The product, the first one beyond event contracts, was introduced in May.",
-      "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-      "image": "",
-      "source": "CNBC World",
-      "published_at": "2026-11-24T23:03:24+00:00",
-      "category": "Global",
-      "simple_explanation": "The product, the first one beyond event contracts, was introduced in May."
-    },
-    {
-      "title": "In Response to the Turmoil at Nvidia, Bitcoin Drops Below $70,000. Is This a Buy-the-Dip Opportunity?",
-      "description": "Bitcoin's mediocre response to Jensen Huang returning to Nvidia is a bit concerning for the coin's potential buyers.",
-      "url": "https://www.fool.com/investing/2026/11/24/in-response-to-the-turmoil-at-nvidia-bitcoin-drops-below-usd70-000-is-this-a-buy-the-dip-opportunity/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-24T23:01:02+00:00",
-      "category": "Crypto",
-      "simple_explanation": "Bitcoin's mediocre response to Jensen Huang returning to Nvidia is a bit concerning for the coin's potential buyers."
-    },
-    {
-      "title": "Update: US Equity Indexes Mixed as Investors Rotate into Defensives Amid Weakening AI Trade",
-      "description": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-investors-224038739.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-24T22:40:38+00:00",
-      "category": "USA",
-      "simple_explanation": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)"
-    },
-    {
-      "title": "Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI)",
-      "description": "While Wall Street obsesses over an artificial intelligence (AI) bubble, record levels of borrowing could pose an unexpected threat to the stock market.",
-      "url": "https://www.fool.com/investing/2026/11/24/wall-street-s-usd1-4-trillion-bubble-may-be-on-the-verge-of-bursting-but-it-s-not-artificial-intelligence-ai/?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-24T22:20:02+00:00",
-      "category": "USA",
-      "simple_explanation": "While Wall Street obsesses over an artificial intelligence (AI) bubble, record levels of borrowing could pose an unexpected threat to the stock market."
-    },
-    {
-      "title": "RH (RH) Suffers a Larger Drop Than the General Market: Key Insights",
-      "description": "In the most recent trading session, RH (RH) closed at $103.45, indicating a -4.14% shift from the previous trading day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rh-rh-suffers-larger-drop-221503884.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-24T22:15:03+00:00",
-      "category": "USA",
-      "simple_explanation": "In the most recent trading session, RH (RH) closed at $103.45, indicating a -4.14% shift from the previous trading day."
-    },
-    {
-      "title": "Samsara Inc. (IOT) Gains As Market Dips: What You Should Know",
-      "description": "In the latest trading session, Samsara Inc. (IOT) closed at $39.42, marking a +1.68% move from the previous day.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/samsara-inc-iot-gains-market-221502455.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-24T22:15:02+00:00",
-      "category": "USA",
-      "simple_explanation": "In the latest trading session, Samsara Inc. (IOT) closed at $39.42, marking a +1.68% move from the previous day."
-    },
-    {
-      "title": "AeroVironment (AVAV) Registers a Bigger Fall Than the Market: Important Facts to Note",
-      "description": "AeroVironment (AVAV) concluded the recent trading session at $89.4, signifying a -1.4% move from its prior day's close.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-registers-bigger-fall-221502239.html?.tsrc=rss",
-      "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-24T22:15:02+00:00",
-      "category": "USA",
-      "simple_explanation": "AeroVironment (AVAV) concluded the recent trading session at $89.4, signifying a -1.4% move from its prior day's close."
+      "simple_explanation": "Nasdaq futures fell sharply as headwinds facing the AI trade returned to the forefront of investors’ focus after Monday’s Jensen Huang-powered market recovery faded."
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -368,39 +108,299 @@
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
       "source": "CoinTelegraph",
-      "published_at": "2026-11-24T22:12:10+00:00",
+      "published_at": "2026-11-25T13:26:05+00:00",
       "category": "Crypto",
       "simple_explanation": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
-      "title": "Stock Market Today, Nov. 24: Tech Sell-Off Drags Nasdaq as Dow Gains on Value Rotation",
-      "description": "Investors rotated into healthcare and value names as AI momentum cooled and retailers' earnings beats lifted sentiment, today, Nov. 24, 2026.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-tech-sell-off-drags-nasdaq-as-dow-gains-on-value-rotation/?.tsrc=rss",
+      "title": "Corporate bond fundraising set for record in FY27 despite rising borrowing costs",
+      "description": "As of 23 November, corporate bond issuances through private placements had already touched  ₹7.16 trillion in FY27, according to Prime Database. With over four months remaining in the financial year, borrowing may reach or even surpass the previous record of  ₹11.03 trillion, achieved in FY25.",
+      "url": "https://www.livemint.com/market/corporate-bond-fundraising-set-to-hit-record-high-in-fy27-despite-higher-costs-11795603193070.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/logo/investor_1684403954684_1795608694014_AEnM_ae97ee66-d78e-4ca3-852a-7d30aedf0fab_cDvC.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-11-25T13:24:15+00:00",
+      "category": "India",
+      "simple_explanation": "As of 23 November, corporate bond issuances through private placements had already touched  ₹7.16 trillion in FY27, according to Prime Database. With over four months remaining in the financial year, "
+    },
+    {
+      "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+      "description": "Nvidia’s decision to reinstate CEO Jensen Huang after pressure from Trump is intensifying bipartisan scrutiny of tech companies' ties to the administration.",
+      "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
       "image": "",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-24T22:11:48+00:00",
+      "source": "CNBC",
+      "published_at": "2026-11-25T13:20:34+00:00",
       "category": "USA",
-      "simple_explanation": "Investors rotated into healthcare and value names as AI momentum cooled and retailers' earnings beats lifted sentiment, today, Nov. 24, 2026."
+      "simple_explanation": "Nvidia’s decision to reinstate CEO Jensen Huang after pressure from Trump is intensifying bipartisan scrutiny of tech companies' ties to the administration."
     },
     {
-      "title": "New Found Gold Delivers High-Grade Gold at Surface from Iceberg Grade Control Drilling",
-      "description": "110.47 g/t Au over 2.60 m and 14.58 g/t Au over 12.00 mToronto, Ontario--(Newsfile Corp. - November 24, 2026) - New Found Gold Corp. (TSX: NFGC) (NYSE American: NFGC) (\"New Found Gold\" or the \"Company\") is pleased to announce new drill results from its 100%-owned Queensway Gold Project (\"Queensway\" ",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/found-gold-delivers-high-grade-220000153.html?.tsrc=rss",
+      "title": "RBI net buyer of dollars for fourth straight month in September, data shows",
+      "description": "The Reserve Bank of India recorded net purchases of $6.94 billion in the foreign exchange market during September. It bought a total of $82.18 billion while selling $75.25 billion in currency transactions. Despite a decline in the rupee, capital inflows reached about $143 billion due to various meas",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-buyer-of-dollars-for-fourth-straight-month-in-september-data-shows/articleshow/136163192.cms",
+      "image": "https://img.etimg.com/photo/msid-136163192,imgsize-113398.cms",
+      "source": "Economic Times",
+      "published_at": "2026-11-25T13:19:28+00:00",
+      "category": "India",
+      "simple_explanation": "The Reserve Bank of India recorded net purchases of $6.94 billion in the foreign exchange market during September. It bought a total of $82.18 billion while selling $75.25 billion in currency transact"
+    },
+    {
+      "title": "Schaeffler India block deal: Schaeffler AG likely to sell 6% stake at  ₹3,400 apiece; deal size  ₹3,188 crore: Report",
+      "description": "Schaeffler AG is reportedly planning to sell a 6% stake in Schaeffler India through a block deal worth about  ₹3,188 crore, at a 5.6% discount to the previous close. The proposed sale comes as the stock extends its decline, despite strong September-quarter profit and revenue growth.",
+      "url": "https://www.livemint.com/market/stock-market-news/schaeffler-india-block-deal-schaeffler-ag-to-offload-6-stake-at-rs-3-400-apiece-deal-size-rs-3-188-crore-report-11795612021351.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/logo/Block_deal_1790176510603_YFEz_1790176521703_6c2P_b_1795612014034_QrR3_1795612014270_mtw2_56b3ddaf-357e-400c-985f-bcd8e5c9c1cc_DU05.png",
+      "source": "LiveMint",
+      "published_at": "2026-11-25T13:16:55+00:00",
+      "category": "India",
+      "simple_explanation": "Schaeffler AG is reportedly planning to sell a 6% stake in Schaeffler India through a block deal worth about  ₹3,188 crore, at a 5.6% discount to the previous close. The proposed sale comes as the sto"
+    },
+    {
+      "title": "Retirees with gold-plated pensions in line for bonus payments worth thousands",
+      "description": "Private-sector retirees with gold-plated pensions could be in line for bonus payments worth thousands of pounds under new rules.",
+      "url": "https://uk.finance.yahoo.com/news/retirees-gold-plated-pensions-line-131549481.html?.tsrc=rss",
       "image": "",
       "source": "Yahoo Finance",
-      "published_at": "2026-11-24T22:00:00+00:00",
+      "published_at": "2026-11-25T13:15:49+00:00",
       "category": "Commodities",
-      "simple_explanation": "110.47 g/t Au over 2.60 m and 14.58 g/t Au over 12.00 mToronto, Ontario--(Newsfile Corp. - November 24, 2026) - New Found Gold Corp. (TSX: NFGC) (NYSE American: NFGC) (\"New Found Gold\" or the \"Company"
+      "simple_explanation": "Private-sector retirees with gold-plated pensions could be in line for bonus payments worth thousands of pounds under new rules."
     },
     {
-      "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
-      "description": "Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial transactions and disrupt illegal streaming services.",
-      "url": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87NDASB12J5RE5T6ERAE76K/detective-coin-2.png",
-      "source": "CoinTelegraph",
-      "published_at": "2026-11-24T21:50:25+00:00",
+      "title": "US Stock Market Live Updates: Nasdaq futures fall over 2% as AI selloff deepens; inflation data looms",
+      "description": "",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-alphabet-amazon-anthropic-dell-inflation-fed-rate-hike-gold-treasury-yield-news-25th-november-2026/liveblog/136163404.cms",
+      "image": "https://img.etimg.com/photo/msid-136163404,imgsize-92004.cms",
+      "source": "Economic Times",
+      "published_at": "2026-11-25T13:12:55+00:00",
+      "category": "India",
+      "simple_explanation": ""
+    },
+    {
+      "title": "Dow Jones Futures Fall, Techs Dive; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake",
+      "description": "Futures fell after AI stocks tumbled but medicals, retailers and more rose. President Trump mused about an Nvidia stake. Fed inflation data looms.",
+      "url": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T13:12:43+00:00",
+      "category": "USA",
+      "simple_explanation": "Futures fell after AI stocks tumbled but medicals, retailers and more rose. President Trump mused about an Nvidia stake. Fed inflation data looms."
+    },
+    {
+      "title": "SEBI eases KYC norms, centralises supplementary client data to simplify onboarding",
+      "description": "SEBI has revealed new measures aimed at simplifying the client onboarding process for investors. By centralising supplementary KYC details with KYC Registration Agencies, investors can avoid repetition. The revised framework will take effect on December 24, 2026, enhancing efficiency in data managem",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-kyc-norms-centralises-supplementary-client-data-to-simplify-onboarding/articleshow/136162936.cms",
+      "image": "https://img.etimg.com/photo/msid-136162936,imgsize-97308.cms",
+      "source": "Economic Times",
+      "published_at": "2026-11-25T13:11:00+00:00",
+      "category": "India",
+      "simple_explanation": "SEBI has revealed new measures aimed at simplifying the client onboarding process for investors. By centralising supplementary KYC details with KYC Registration Agencies, investors can avoid repetitio"
+    },
+    {
+      "title": "Sebi mulls early payout of up to 80% of sale proceeds to FPOs in commodity derivatives market",
+      "description": "Sebi introduced a proposal for an early pay-out framework designed to assist Farmer Producer Organisations. This framework would allow FPOs to access up to 80 percent of sale proceeds before contract expiry. The initiative aims to alleviate liquidity challenges by providing timely payments to farmer",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-early-payout-of-up-to-80-of-sale-proceeds-to-fpos-in-commodity-derivatives-market/articleshow/136162861.cms",
+      "image": "https://img.etimg.com/photo/msid-136162861,imgsize-168964.cms",
+      "source": "Economic Times",
+      "published_at": "2026-11-25T13:09:04+00:00",
+      "category": "India",
+      "simple_explanation": "Sebi introduced a proposal for an early pay-out framework designed to assist Farmer Producer Organisations. This framework would allow FPOs to access up to 80 percent of sale proceeds before contract "
+    },
+    {
+      "title": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
+      "description": "The Reserve Bank of India is projected to implement a 0.25 percent interest rate hike in December. While decreasing crude oil prices could alleviate some inflation worries, many senior executives advocate for a measured strategy due to the prevailing economic climate. Nevertheless, concerns regardin",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-opt-for-25-bps-rate-hike-as-oil-eases-inflation-risks-persist-baroda-bnp-paribas-mf-cio/articleshow/136162711.cms",
+      "image": "https://img.etimg.com/photo/msid-136162711,imgsize-113464.cms",
+      "source": "Economic Times",
+      "published_at": "2026-11-25T13:06:00+00:00",
+      "category": "India",
+      "simple_explanation": "The Reserve Bank of India is projected to implement a 0.25 percent interest rate hike in December. While decreasing crude oil prices could alleviate some inflation worries, many senior executives advo"
+    },
+    {
+      "title": "Did Take-Two Stock Beat A Falling Market?",
+      "description": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "url": "https://www.trefis.com/stock/ttwo/articles/629004/did-take-two-stock-beat-a-falling-market/2026-11-25?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T13:04:29+00:00",
+      "category": "USA",
+      "simple_explanation": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back."
+    },
+    {
+      "title": "Cathie Wood's ARK Buys Anthropic as Ripple CEO Predicts Post-IPO Crypto Rally",
+      "description": "Cathie Wood's ARK Invest sold about $6.8 million in ARK 21Shares Bitcoin ETF shares and bought roughly $61.6 million in Anthropic stock on Tuesday. Ripple…",
+      "url": "https://www.ccn.com/news/crypto/cathie-woods-ark-bitcoin-etf-anthropic-ripple-ceo-crypto-rebound/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T13:02:15+00:00",
       "category": "Crypto",
-      "simple_explanation": "Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial transactions and disrupt illegal streaming services."
+      "simple_explanation": "Cathie Wood's ARK Invest sold about $6.8 million in ARK 21Shares Bitcoin ETF shares and bought roughly $61.6 million in Anthropic stock on Tuesday. Ripple…"
+    },
+    {
+      "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
+      "description": "Ukraine’s parliament passed a crypto regulation bill after three years of legislative work, with the new rules set to take effect in July 2027.",
+      "url": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8992X91RDVP095WKH0ZV4TH/u11111.png",
+      "source": "CoinTelegraph",
+      "published_at": "2026-11-25T13:02:09+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Ukraine’s parliament passed a crypto regulation bill after three years of legislative work, with the new rules set to take effect in July 2027."
+    },
+    {
+      "title": "Potential New US Tariffs Weigh on US Equity Futures Pre-Bell",
+      "description": "US equity futures were lower pre-bell Wednesday as traders evaluated the possibility of more US tari",
+      "url": "https://finance.yahoo.com/economy/policy/articles/potential-us-tariffs-weigh-us-130010496.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T13:00:10+00:00",
+      "category": "Commodities",
+      "simple_explanation": "US equity futures were lower pre-bell Wednesday as traders evaluated the possibility of more US tari"
+    },
+    {
+      "title": "How the S&P 500 Performs After Hitting Correction Territory",
+      "description": "Including all the SPX corrections since 1955 and their subsequent index returns",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-performs-hitting-correction-130009454.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T13:00:09+00:00",
+      "category": "USA",
+      "simple_explanation": "Including all the SPX corrections since 1955 and their subsequent index returns"
+    },
+    {
+      "title": "BTU Provides Update on Initial Drill Program on Hubcap Project Adjacent to RPX in Wawa",
+      "description": "VANCOUVER, BC / ACCESS Newswire / November 25, 2026 / BTU METALS CORP. (\"BTU\" or the \"Company\") (TSXV:BTU) is pleased to report on drilling progress at its wholly owned Hubcap property in Wawa, Ontario.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/btu-provides-initial-drill-program-130000869.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T13:00:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "VANCOUVER, BC / ACCESS Newswire / November 25, 2026 / BTU METALS CORP. (\"BTU\" or the \"Company\") (TSXV:BTU) is pleased to report on drilling progress at its wholly owned Hubcap property in Wawa, Ontari"
+    },
+    {
+      "title": "Bitcoin Is on Track for Its Second-Worst Q4 Ever, and One Signal Points to 2027",
+      "description": "Bitcoin (BTC) is on track for its second-worst Q4 ever. Here is what analysts expect for the market in 2027.",
+      "url": "https://beincrypto.com/bitcoin-worst-q4-returns-2027-outlook/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T13:00:00+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Bitcoin (BTC) is on track for its second-worst Q4 ever. Here is what analysts expect for the market in 2027."
+    },
+    {
+      "title": "Angola revives Soyo refinery plan with Singapore’s Transafrica, but output lies beyond 2027 self-sufficiency target",
+      "description": "Angola’s state oil company Sonangol has signed an agreement in principle with Singapore-based investor Transafrica to develop a modular refinery at Soyo in Zaire province, although an indicative 18-month build from an investment decision yet to be scheduled puts any output beyond the government’s 20",
+      "url": "http://www.intellinews.com/angola-revives-soyo-refinery-plan-with-singapore-s-transafrica-but-output-lies-beyond-2027-self-sufficiency-target-488327/?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T12:51:25+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Angola’s state oil company Sonangol has signed an agreement in principle with Singapore-based investor Transafrica to develop a modular refinery at Soyo in Zaire province, although an indicative 18-mo"
+    },
+    {
+      "title": "The Stock Market Is Near Historic Valuation Extremes -- Buffett Has a Warning for Investors",
+      "description": "The Stock Market Is Near Historic Valuation Extremes. Buffett Has a Timeless Message for Investors",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-near-historic-valuation-125029779.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T12:50:29+00:00",
+      "category": "USA",
+      "simple_explanation": "The Stock Market Is Near Historic Valuation Extremes. Buffett Has a Timeless Message for Investors"
+    },
+    {
+      "title": "Stock Futures Fall as Traders Await Key Inflation Data, Parse Fresh US Tariff Reports",
+      "description": "US equity futures were pointing lower on Wednesday as traders awaited key inflation data and assesse",
+      "url": "https://finance.yahoo.com/economy/policy/articles/stock-futures-fall-traders-await-124139973.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T12:41:39+00:00",
+      "category": "USA",
+      "simple_explanation": "US equity futures were pointing lower on Wednesday as traders awaited key inflation data and assesse"
+    },
+    {
+      "title": "3 US Integrated Energy Stocks Riding on Favorable Industry Trends",
+      "description": "Solid oil prices, a stable integrated business model and robust midstream operations make the Zacks Oil & Gas US Integrated industry's outlook bright. COP, OXY and CLMT will make the most of the favorable business scenario.",
+      "url": "https://finance.yahoo.com/energy/articles/3-us-integrated-energy-stocks-123400803.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T12:34:00+00:00",
+      "category": "Commodities",
+      "simple_explanation": "Solid oil prices, a stable integrated business model and robust midstream operations make the Zacks Oil & Gas US Integrated industry's outlook bright. COP, OXY and CLMT will make the most of the favor"
+    },
+    {
+      "title": "Bitcoin Slips Below $59K Ahead Of PCE Report, Heads For Worst Month Since July 2022",
+      "description": "Arthur Hayes said Bitcoin will retest $55,000, while analysts Ted Pillows and Michael van de Poppe warned of further declines if tech stocks continue to fall.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/bitcoin-slips-below-59-k-ahead-of-pce-report-heads-for-worst-month-since-july-2022/cNbHhdsR9ma?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T12:31:56+00:00",
+      "category": "Crypto",
+      "simple_explanation": "Arthur Hayes said Bitcoin will retest $55,000, while analysts Ted Pillows and Michael van de Poppe warned of further declines if tech stocks continue to fall."
+    },
+    {
+      "title": "BSE, Eternal, Titan, SBI among 18 Nifty 50 stocks that rallied 10–43% in 2026; what's driving gains?",
+      "description": "Indian equities rebounded in November as lower oil prices, stronger earnings and renewed foreign investment improved sentiment. Eighteen Nifty 50 stocks rose 10% to 43% in 2026, led by BSE, while the index climbed 12% in November.",
+      "url": "https://www.livemint.com/market/stock-market-news/bse-eternal-titan-sbi-among-18-nifty-50-stocks-that-rallied-10-43-in-2026-whats-driving-gains-11795607425766.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/logo/Bullish_Nifty_50_1795608775904_AHdb_1795608781663_gvt5_d0d80d65-bd7d-4eef-8a34-99b141461a3c_EAWy.png",
+      "source": "LiveMint",
+      "published_at": "2026-11-25T12:28:30+00:00",
+      "category": "India",
+      "simple_explanation": "Indian equities rebounded in November as lower oil prices, stronger earnings and renewed foreign investment improved sentiment. Eighteen Nifty 50 stocks rose 10% to 43% in 2026, led by BSE, while the "
+    },
+    {
+      "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+      "description": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+      "image": "",
+      "source": "CNBC",
+      "published_at": "2026-11-25T12:26:41+00:00",
+      "category": "USA",
+      "simple_explanation": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh."
+    },
+    {
+      "title": "Small-cap stock under  ₹100 sets board meeting date to announce  ₹60 crore fund raise | Record date, other details",
+      "description": "Small-cap stock that has doubled shareholders's money in one year by delivering 105% return has a history of 1:10 stock split and 3:1 bonus shares",
+      "url": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-100-sets-board-meeting-date-to-announce-rs-60-crore-fund-raise-record-date-other-details-11795607702327.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/logo/Stock_split_Bonus_shares_Dividend_Record_date_1795607986545_9TwC_1795607986684_yMvg_d4e231dd-1c82-4466-aaa3-0206cd8b567a_9SHy.png",
+      "source": "LiveMint",
+      "published_at": "2026-11-25T12:25:56+00:00",
+      "category": "India",
+      "simple_explanation": "Small-cap stock that has doubled shareholders's money in one year by delivering 105% return has a history of 1:10 stock split and 3:1 bonus shares"
+    },
+    {
+      "title": "US Treasury gains lift India bonds ahead of RBI meet",
+      "description": "On Wednesday, Indian government bonds rallied, influenced by a decrease in US Treasury yields. The benchmark 10-year bond yield fell to 7.1641%, marking a two-week low. The Indian rupee strengthened to its highest level for the fiscal year against the dollar. Overseas investors returned as net buyer",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-gains-lift-india-bonds-ahead-of-rbi-meet/articleshow/136161527.cms",
+      "image": "https://img.etimg.com/photo/msid-136161527,imgsize-4843421.cms",
+      "source": "Economic Times",
+      "published_at": "2026-11-25T12:25:47+00:00",
+      "category": "India",
+      "simple_explanation": "On Wednesday, Indian government bonds rallied, influenced by a decrease in US Treasury yields. The benchmark 10-year bond yield fell to 7.1641%, marking a two-week low. The Indian rupee strengthened t"
+    },
+    {
+      "title": "Global convulsions, courtesy AI stocks, creates a $385 billion winner — India",
+      "description": "The MSCI India index has added nearly $385 billion in value so far in November, as a market long shunned for its lack of AI plays emerges as a bright spot for global investors.",
+      "url": "https://www.livemint.com/market/stock-market-news/india-stock-market-sensex-nifty-today-ai-stocks-11795607301635.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/logo/Dalal-Street_1795607935532_76gI_1795607935645_YIxA_2b0d910b-8cd4-4695-81ca-af04f34ccb55_Y4QY.jpg",
+      "source": "LiveMint",
+      "published_at": "2026-11-25T12:01:07+00:00",
+      "category": "India",
+      "simple_explanation": "The MSCI India index has added nearly $385 billion in value so far in November, as a market long shunned for its lack of AI plays emerges as a bright spot for global investors."
+    },
+    {
+      "title": "Dow Reclaims 50,000 as Inflation and GDP Data Land Before Thanksgiving",
+      "description": "Market Updates News Commentary - Wall Street heads into the busiest morning of a holiday-shortened week with the Dow Jones Industrial Average back above 50,000. The blue-chip index added 423.39 points on Tuesday to close at 50,018.70, while the Nasdaq composite fell 356.02 points to 23,733.54 a day ",
+      "url": "https://finance.yahoo.com/news/dow-reclaims-50-000-inflation-120000290.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T12:00:00+00:00",
+      "category": "USA",
+      "simple_explanation": "Market Updates News Commentary - Wall Street heads into the busiest morning of a holiday-shortened week with the Dow Jones Industrial Average back above 50,000. The blue-chip index added 423.39 points"
+    },
+    {
+      "title": "Earnings, Easing Oil Prices Lift European Bourses Midday",
+      "description": "European bourses tracked moderately higher midday Wednesday as traders weighed the earnings season a",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/earnings-easing-oil-prices-lift-115206484.html?.tsrc=rss",
+      "image": "",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-25T11:52:06+00:00",
+      "category": "Commodities",
+      "simple_explanation": "European bourses tracked moderately higher midday Wednesday as traders weighed the earnings season a"
     }
   ]
 }
